@@ -1,0 +1,15 @@
+name: actions_scrape
+run-name: "Scrape both translations and FFlags"
+on: workflow_dispatch
+
+jobs:
+  scrape_basic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: "Sets up Python"
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - run: "python  /scripts/FFlags.py"
+      - run: "python /scripts/Translations.py"
