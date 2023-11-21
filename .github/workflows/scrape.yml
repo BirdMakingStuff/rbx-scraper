@@ -1,6 +1,9 @@
 name: actions_scrape
-run-name: "Scrape both translations and FFlags"
-on: workflow_dispatch
+run-name: "Scrape both translations and FFlags from Roblox API"
+on:
+  schedule:
+    - cron: "32 1-2,16-23 * * 1-6"
+  workflow_dispatch:
 
 jobs:
   scrape_basic:
@@ -19,8 +22,8 @@ jobs:
 
       - name: "Commit and push to repo"
         run: |
-          git config --global user.email "151509185+BirdMaker@users.noreply.github.com"
-          git config --global user.name "BirdMaker"
+          git config --global user.name "gh-actions-rbxscraper"
+          git config --global user.email "<>"
           git add -A
           git commit -a -m "`date`" --allow-empty
           git push
