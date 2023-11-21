@@ -16,15 +16,10 @@ jobs:
       - run: "pip install -r requirements.txt"
       - run: "python FFlags.py | python Translations.py"
 
-      - name: "Commit to repo"
+      - name: "Commit and push to repo"
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "151509185+BirdMaker@users.noreply.github.com"
+          git config --local user.name "BirdMaker"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "`date`" --allow-empty)
-        
-      - name: "Push to repo"
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          git commit -a -m "`date`" --allow-empty
+          git push
