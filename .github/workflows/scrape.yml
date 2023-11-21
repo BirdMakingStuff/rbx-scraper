@@ -7,9 +7,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: "Sets up Python"
+
+      - name: "Set up and run Python scripts"
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
       - run: "python  /scripts/FFlags.py"
       - run: "python /scripts/Translations.py"
+
+      - name: "Commit to repo"
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated files" --allow-empty)
+        
+      - name: "Push to repo"
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
