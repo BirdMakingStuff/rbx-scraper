@@ -9248,9 +9248,7 @@
     "FFlagFixMismatchTelemetryFields": "True",
     "FFlagVoiceChatEventLoggerSetOperationId": "True",
     "FFlagConsoleGenderSelectorExperimentIXP": "True",
-    "FFlagAXEnableExperienceWidgets": "False",
-    "FFlagAXFixGameDetailsViewTitle": "False",
-    "FFlagAXWidgetSeeAllButton": "False",
+    "FFlagAXFixGameDetailsViewTitle": "True",
     "FFlagLuaAppGameJoinFailureAnalytics": "True",
     "DFFlagSupportLooksInBatchThumbnailFetcher": "True",
     "FFlagAXIgnoreEmptyWidgets": "True",
@@ -9262,6 +9260,9 @@
     "FFlagFixWidgetHydrationEmptyTile": "True",
     "FFlagFixWidgetsRefs": "True",
     "FFlagUnibarLuaOcclusionMetrics": "True",
+    "FFlagContactImportButtonsExperimentEnabled": "True",
+    "FFlagLuaAppLogDropdownMenuEvents": "True",
+    "FFlagMacForwardProtocolString_Rollout": "True;60;2023-11-21T19:22:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9560,8 +9561,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "5a29af7a3bee8bacd87c3060d44e5cc0ca759bde",
-    "DFStringFlagRepoGitHashDynamicString": "5a29af7a3bee8bacd87c3060d44e5cc0ca759bde",
-    "FStringFlipTimeStampFastString": "2023-11-21T18:37:32.568Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-21T18:37:32.568Z"
+    "FStringFlagRepoGitHashFastString": "e370ea008b13f6686e0800a04d14d93e80976312",
+    "DFStringFlagRepoGitHashDynamicString": "e370ea008b13f6686e0800a04d14d93e80976312",
+    "FStringFlipTimeStampFastString": "2023-11-21T19:32:22.443Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-21T19:32:22.443Z"
 }
