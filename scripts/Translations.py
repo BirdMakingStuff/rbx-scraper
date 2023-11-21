@@ -4,7 +4,7 @@ import os
 import requests
 
 requestURL = "https://translations.roblox.com/v1/translations/en_us?consumerType="
-translationStringFolderLocation = "../translations"
+translationStringFolderLocation = "translations"
 
 consumerTypes = [
 "AndroidApp",
