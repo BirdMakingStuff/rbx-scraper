@@ -4,7 +4,7 @@ import os
 import requests
 
 requestURL = "https://clientsettingscdn.roblox.com/v2/settings/application/"
-fflagFolderLocation = ""
+fflagFolderLocation = "../fflags"
 
 fflagChannels = [
 "PCDesktopClient",
