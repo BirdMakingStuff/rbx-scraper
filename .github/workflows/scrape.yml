@@ -25,5 +25,5 @@ jobs:
           git config --global user.name "gh-actions-rbxscraper"
           git config --global user.email "<>"
           git add -A
-          git commit -a -m "`date`" --allow-empty
+          git commit -a -m "`date`"
           git push
