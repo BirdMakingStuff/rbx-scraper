@@ -9628,6 +9628,7 @@
     "FFlagEnableInGameMenuChromeABTest": "True",
     "DFIntCriticalThermalStatusThreshold": "3",
     "FFlagAXEnableExperienceWidgets": "True",
+    "FFlagRealtimeMetricsEnabledInConnectionManager_Rollout": "True;30;2023-11-27T22:46:50",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -9665,8 +9666,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "01583fc0cfd237dac08c17c66876f732d9e86bdf",
-    "DFStringFlagRepoGitHashDynamicString": "01583fc0cfd237dac08c17c66876f732d9e86bdf",
-    "FStringFlipTimeStampFastString": "2023-11-27T22:42:05.437Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-27T22:42:05.437Z"
+    "FStringFlagRepoGitHashFastString": "01777cba648c2c4e74f2cd8f352cb84780c81ea6",
+    "DFStringFlagRepoGitHashDynamicString": "01777cba648c2c4e74f2cd8f352cb84780c81ea6",
+    "FStringFlipTimeStampFastString": "2023-11-27T22:55:03.288Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-27T22:55:03.288Z"
 }
