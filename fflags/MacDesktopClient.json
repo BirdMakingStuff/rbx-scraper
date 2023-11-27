@@ -9270,10 +9270,10 @@
     "FStringNewDockingBetaFeatureUrl": "https://devforum.roblox.com/t/docking-updates-studio-beta/2701154",
     "FFlagXboxRemoveSetDefaultTeleportImpl": "True",
     "FFlagConvertNilNames": "True",
-    "FFlagFixOutdatedParticles_Rollout": "True;60;2023-11-27T20:34:54",
-    "DFIntStreamingDistanceTunableTotalTimeSpentForGcMicroSeconds_Rollout": "8000;60;2023-11-27T20:35:39",
     "DFIntEditableMeshRuntimeErrorLoggingHundredthsPercentage_Rollout": "10000;30;2023-11-27T21:23:47",
     "FFlagReportLogStatsTelemetry_Rollout": "True;60;2023-11-27T21:34:46",
+    "DFIntStreamingDistanceTunableTotalTimeSpentForGcMicroSeconds": "8000",
+    "FFlagFixOutdatedParticles": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9554,8 +9554,10 @@
     "FFlagEnableSocialContextToast": "True",
     "FFlagEnableInGameMenuChromeABTest": "True",
     "FFlagEnableSTFSMTeardown": "True",
-    "FStringFlagRepoGitHashFastString": "265f8833f72a99ee291d2f89f0fa324f4fcb5a24",
-    "DFStringFlagRepoGitHashDynamicString": "265f8833f72a99ee291d2f89f0fa324f4fcb5a24",
-    "FStringFlipTimeStampFastString": "2023-11-27T21:35:13.895Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-27T21:35:13.895Z"
+    "DFFlagFixClosingBugForMappedFile_Rollout": "True;30;2023-11-27T21:43:41",
+    "DFFlagAddErrorCodeToMappedFileFailures_Rollout": "True;30;2023-11-27T21:44:24",
+    "FStringFlagRepoGitHashFastString": "5323b7d4476a6dc6d3f2df09c86d4fdf4c432187",
+    "DFStringFlagRepoGitHashDynamicString": "5323b7d4476a6dc6d3f2df09c86d4fdf4c432187",
+    "FStringFlipTimeStampFastString": "2023-11-27T21:44:40.283Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-27T21:44:40.283Z"
 }
