@@ -9282,6 +9282,7 @@
     "FFlagUIBloxFixFixedHeightMenuFrameSelectable": "True",
     "DFFlagDoNotReportPlaceIdZero": "True",
     "FFlagEnableOctreeValidation_Rollout": "True;60;2023-11-27T23:29:31",
+    "FFlagEnableSTFSMTeardown": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9475,8 +9476,8 @@
     "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
     "FFlagEnableSocialContextToast": "True",
     "FFlagEnableInGameMenuChromeABTest": "True",
-    "FStringFlagRepoGitHashFastString": "6e6435fad5562dd6910773718494b02825632895",
-    "DFStringFlagRepoGitHashDynamicString": "6e6435fad5562dd6910773718494b02825632895",
-    "FStringFlipTimeStampFastString": "2023-11-27T23:42:30.693Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-27T23:42:30.693Z"
+    "FStringFlagRepoGitHashFastString": "3507e10837c31a488d30b6650891875c01ebe56c",
+    "DFStringFlagRepoGitHashDynamicString": "3507e10837c31a488d30b6650891875c01ebe56c",
+    "FStringFlipTimeStampFastString": "2023-11-27T23:56:30.165Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-27T23:56:30.165Z"
 }
