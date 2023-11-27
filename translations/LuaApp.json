@@ -14187,7 +14187,7 @@
         {
             "namespace": "Feature.SettingsHub",
             "key": "Description.ChatWithVoiceDisabledUntil",
-            "description": "\nCreated by mfranco@roblox.com",
+            "description": "Created by mfranco@roblox.com\nModified by mfranco@roblox.com",
             "english": "Your access to chat with voice has been disabled until {dateTime} due to behavior that may violate our Community Standards.",
             "translation": "Your access to chat with voice has been disabled until {dateTime} due to behavior that may violate our Community Standards.",
             "isDeprecated": false
