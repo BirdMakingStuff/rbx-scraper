@@ -9277,8 +9277,10 @@
     "FFlagBlake3SerializerBinary": "True",
     "FFlagBlake3SharedString": "True",
     "FFlagDMPatchCoreScriptsBlake3Deserialize": "True",
-    "DFFlagDoNotReportPlaceIdZero_Rollout": "True;60;2023-11-27T22:06:02",
     "FFlagReportLogStatsTelemetry": "True",
+    "FFlagStreamingSolverDenseSet2_Rollout": "True;60;2023-11-27T22:55:56",
+    "FFlagUIBloxFixFixedHeightMenuFrameSelectable": "True",
+    "DFFlagDoNotReportPlaceIdZero": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9671,8 +9673,8 @@
     "FFlagEnableInGameMenuChromeABTest": "True",
     "DFIntCriticalThermalStatusThreshold": "4",
     "FFlagAXEnableExperienceWidgets": "True",
-    "FStringFlagRepoGitHashFastString": "01777cba648c2c4e74f2cd8f352cb84780c81ea6",
-    "DFStringFlagRepoGitHashDynamicString": "01777cba648c2c4e74f2cd8f352cb84780c81ea6",
-    "FStringFlipTimeStampFastString": "2023-11-27T22:55:03.288Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-27T22:55:03.288Z"
+    "FStringFlagRepoGitHashFastString": "5dfca7e96814248d4a2c95b1522e10501ce85533",
+    "DFStringFlagRepoGitHashDynamicString": "5dfca7e96814248d4a2c95b1522e10501ce85533",
+    "FStringFlipTimeStampFastString": "2023-11-27T23:12:11.515Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-27T23:12:11.515Z"
 }
