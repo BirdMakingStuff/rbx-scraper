@@ -9270,7 +9270,6 @@
     "FFlagXboxRemoveSetDefaultTeleportImpl": "True",
     "FFlagConvertNilNames": "True",
     "DFIntStreamingDistanceTunableTotalTimeSpentForGcMicroSeconds": "8000",
-    "FFlagFixOutdatedParticles": "True",
     "FFlagCallBarRefactor": "True",
     "DFIntEditableMeshRuntimeErrorLoggingHundredthsPercentage": "10000",
     "FFlagReportLogStatsTelemetry": "True",
@@ -9301,6 +9300,9 @@
     "DFFlagReportSharedStringEvent_Rollout": "True;60;2023-11-28T21:52:11",
     "DFIntReportSharedStringEventItemsHundredths_Rollout": "100;60;2023-11-28T21:52:11",
     "FFlagDevFrameworkFixTextInputAutocomplete": "True",
+    "FFlagEnableTopBarPageWrapper": "True",
+    "FFlagUIBloxIncreaseImageResolutionForTenFoot": "True",
+    "FFlagMorePageUserInfo": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9710,8 +9712,8 @@
     "SingleSurfaceEnabledAndroid2": "True",
     "FFlagAddFontAtlasMipmaps": "True",
     "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "c23ab21a1899d80c68e2db2b99d6c39de568b243",
-    "DFStringFlagRepoGitHashDynamicString": "c23ab21a1899d80c68e2db2b99d6c39de568b243",
-    "FStringFlipTimeStampFastString": "2023-11-28T21:53:11.201Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-28T21:53:11.201Z"
+    "FStringFlagRepoGitHashFastString": "b344731231fc6f6234aa68bf828aca206221102c",
+    "DFStringFlagRepoGitHashDynamicString": "b344731231fc6f6234aa68bf828aca206221102c",
+    "FStringFlipTimeStampFastString": "2023-11-28T22:27:22.369Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-28T22:27:22.369Z"
 }
