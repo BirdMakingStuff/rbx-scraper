@@ -8071,7 +8071,7 @@
     "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client": "True",
     "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
     "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC": "False",
-    "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;7376832747;9672950003;13523443036;12123120785;13344085926;14292367294;12339044345;15349284027;15364080980;301549746;2317712696;11402255591;12796376276;13989579574",
+    "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;7376832747;9672950003;13523443036;12123120785;13344085926;14292367294;12339044345;15349284027;15364080980;301549746;2317712696;11402255591;12796376276;13989579574;12867047376;12867089300;14066075418",
     "FFlagVideoFrameFixTextureDestroyedWrongContext2": "True",
     "DFIntReportSSThresholdHundredthsPercentage": "50",
     "FFlagBatchThumbnailFetcherUseExponentialFallback": "True",
@@ -9290,7 +9290,6 @@
     "FFlagCancelAutoFocusTask": "True",
     "FFlagShareGamePageNullCheckEnabled": "True",
     "FFlagAvatarPublishAddGuidToInstances2": "True",
-    "DFFlagSolverCBStats_Rollout": "True;60;2023-11-28T21:27:59",
     "EnableBuildOrientedConfigPhase2": "True",
     "FFlagIntegerDivisionTypesForVectors": "True",
     "FFlagEnableSignalBehaviorAncestryDeferred2_Rollout": "True;60;2023-11-28T21:47:58",
@@ -9303,6 +9302,8 @@
     "FFlagUIBloxIncreaseImageResolutionForTenFoot": "True",
     "FFlagMorePageUserInfo": "True",
     "FFlagDualWriteFlowDurationToV2Stats": "True",
+    "DFFlagSolverCBStats": "True",
+    "DFIntOptimizeAutosaveIntervalRolloutPercentage_Rollout": "75;10;2023-11-28T22:43:23",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9713,8 +9714,8 @@
     "SingleSurfaceEnabledAndroid2": "True",
     "FFlagAddFontAtlasMipmaps": "True",
     "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "c0ef216f8f727b58efb73d3de1cfaaace9e9e6a9",
-    "DFStringFlagRepoGitHashDynamicString": "c0ef216f8f727b58efb73d3de1cfaaace9e9e6a9",
-    "FStringFlipTimeStampFastString": "2023-11-28T22:34:08.170Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-28T22:34:08.170Z"
+    "FStringFlagRepoGitHashFastString": "ddd0884fb9b5acaaa6a36889d9fc249a47e9fd53",
+    "DFStringFlagRepoGitHashDynamicString": "ddd0884fb9b5acaaa6a36889d9fc249a47e9fd53",
+    "FStringFlipTimeStampFastString": "2023-11-28T22:45:23.597Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-28T22:45:23.597Z"
 }
