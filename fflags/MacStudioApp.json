@@ -9293,6 +9293,7 @@
     "FFlagCancelAutoFocusTask": "True",
     "FFlagShareGamePageNullCheckEnabled": "True",
     "FFlagAvatarPublishAddGuidToInstances2": "True",
+    "DFFlagSolverCBStats_Rollout": "True;60;2023-11-28T21:27:59",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -9583,8 +9584,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
     "FFlagRefactorGuiRTCacheImpl2": "False",
-    "FStringFlagRepoGitHashFastString": "053318a86b8522ec6f7a433b0d3a577920ac95e6",
-    "DFStringFlagRepoGitHashDynamicString": "053318a86b8522ec6f7a433b0d3a577920ac95e6",
-    "FStringFlipTimeStampFastString": "2023-11-28T21:03:29.446Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-28T21:03:29.446Z"
+    "FStringFlagRepoGitHashFastString": "39b7cc27ea7d7c6068fe33579b34c38bb65cd28c",
+    "DFStringFlagRepoGitHashDynamicString": "39b7cc27ea7d7c6068fe33579b34c38bb65cd28c",
+    "FStringFlipTimeStampFastString": "2023-11-28T21:28:29.413Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-28T21:28:29.413Z"
 }
