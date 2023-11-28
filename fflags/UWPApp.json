@@ -9287,6 +9287,12 @@
     "FFlagIntegerDivisionTypesForVectors_Rollout": "True;60;2023-11-28T20:35:12",
     "FFlagSimCSGV3VerticesCloneFix": "True",
     "AllowVideoPreRoll": "True",
+    "FFlagMoveFocusNavigationProvider2": "True",
+    "FFlagTenFootModerationPromptFocus": "True",
+    "FFlagFixDescendantHasFocusInitialValue": "True",
+    "FFlagCancelAutoFocusTask": "True",
+    "FFlagShareGamePageNullCheckEnabled": "True",
+    "FFlagAvatarPublishAddGuidToInstances2": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -9479,8 +9485,8 @@
     "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
     "FFlagEnableSocialContextToast": "True",
     "FFlagEnableInGameMenuChromeABTest": "True",
-    "FStringFlagRepoGitHashFastString": "0c7ace74346053bbdba72723f5233294b4cf32b5",
-    "DFStringFlagRepoGitHashDynamicString": "0c7ace74346053bbdba72723f5233294b4cf32b5",
-    "FStringFlipTimeStampFastString": "2023-11-28T20:43:52.014Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-28T20:43:52.014Z"
+    "FStringFlagRepoGitHashFastString": "053318a86b8522ec6f7a433b0d3a577920ac95e6",
+    "DFStringFlagRepoGitHashDynamicString": "053318a86b8522ec6f7a433b0d3a577920ac95e6",
+    "FStringFlipTimeStampFastString": "2023-11-28T21:03:29.446Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-28T21:03:29.446Z"
 }

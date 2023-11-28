@@ -9289,6 +9289,10 @@
     "AllowVideoPreRoll": "True",
     "FFlagMoveFocusNavigationProvider2": "True",
     "FFlagTenFootModerationPromptFocus": "True",
+    "FFlagFixDescendantHasFocusInitialValue": "True",
+    "FFlagCancelAutoFocusTask": "True",
+    "FFlagShareGamePageNullCheckEnabled": "True",
+    "FFlagAvatarPublishAddGuidToInstances2": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9303,6 +9307,7 @@
     "FFlagRealtimeReliabilityMeasurementEnable": "True",
     "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "20;30;2023-11-28T20:57:01",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -9572,8 +9577,8 @@
     "FFlagEnableMmapForMemProfStorageFlushing2": "True",
     "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "98caadc8019a2d06c8d7cc0019f98590cf192226",
-    "DFStringFlagRepoGitHashDynamicString": "98caadc8019a2d06c8d7cc0019f98590cf192226",
-    "FStringFlipTimeStampFastString": "2023-11-28T20:56:24.503Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-28T20:56:24.503Z"
+    "FStringFlagRepoGitHashFastString": "053318a86b8522ec6f7a433b0d3a577920ac95e6",
+    "DFStringFlagRepoGitHashDynamicString": "053318a86b8522ec6f7a433b0d3a577920ac95e6",
+    "FStringFlipTimeStampFastString": "2023-11-28T21:03:29.446Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-28T21:03:29.446Z"
 }
