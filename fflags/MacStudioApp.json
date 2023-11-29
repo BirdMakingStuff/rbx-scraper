@@ -7984,7 +7984,6 @@
     "FFlagToolboxTrackCurrentSubcategory2": "True",
     "DFFlagFixBoneTransformChangedCrash": "True",
     "DFFlagPreserveCollisionGroupNameForUnion": "True",
-    "FFlagTouchEventSupportStreamingEnabledAnalytics1": "True",
     "FFlagNewCameraControls_SmoothCursorDelta": "True",
     "FFlagToolboxAudioDiscoveryUXImprovements2": "True",
     "DFFlagCheckHeadsForInactiveControls": "False",
@@ -9328,6 +9327,12 @@
     "FStringGraphicsVulkanFutureGPUNameBlacklist": "Adreno (TM) 530;Adreno (TM) 618;Adreno (TM) 619;Adreno (TM) 504;PowerVR Rogue GE8320;Adreno (TM) 612",
     "FFlagXboxGameProtocol_Rollout": "True;60;2023-11-29T22:26:52",
     "DFFlagUnreliableEventsThrowBeforeRelease_Rollout": "False;5;2023-11-29T22:34:20",
+    "FFlagExperienceLaunchTelemetry": "True",
+    "DFIntReportSharedStringEventItemsHundredths_Rollout": "1000;60;2023-11-29T22:41:46",
+    "DFFlagUnrelSharedStringEvent_Rollout": "True;60;2023-11-29T22:41:46",
+    "DFIntUnrelReportSharedStringEventItemsHundredths_Rollout": "10000;60;2023-11-29T22:41:46",
+    "FFlagUnreliableEvents_Rollout": "True;20;2023-11-29T22:41:53",
+    "FFlagUnreliableEventsStudioAwareness_Rollout": "True;20;2023-11-29T22:44:34",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9616,8 +9621,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
     "FFlagRefactorGuiRTCacheImpl2": "False",
-    "FStringFlagRepoGitHashFastString": "b93fef425fbcad5965ae731bae3e2498db3969be",
-    "DFStringFlagRepoGitHashDynamicString": "b93fef425fbcad5965ae731bae3e2498db3969be",
-    "FStringFlipTimeStampFastString": "2023-11-29T22:35:07.284Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-29T22:35:07.284Z"
+    "FStringFlagRepoGitHashFastString": "8f7718c22b906bb8cfa8850da7c5f4024eaa2778",
+    "DFStringFlagRepoGitHashDynamicString": "8f7718c22b906bb8cfa8850da7c5f4024eaa2778",
+    "FStringFlipTimeStampFastString": "2023-11-29T22:47:23.214Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-29T22:47:23.214Z"
 }
