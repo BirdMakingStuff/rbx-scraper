@@ -9314,11 +9314,11 @@
     "FFlagAXWidgetSeeAllButton": "True",
     "FFlagLuauFixIndexerSubtypingOrdering": "True",
     "DFIntLogReportingStatsHundredthsPercent": "1000",
-    "DFFlagSimCollectPhysicsSteppingMethod_Rollout": "True;60;2023-11-29T18:46:11",
     "FFlagContactRecs_v4": "True",
     "FFlagContactRecs": "True",
     "FFlagContactRecs_v1": "True",
     "FFlagUseExperienceService": "True",
+    "DFFlagSimCollectPhysicsSteppingMethod": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9728,8 +9728,8 @@
     "SingleSurfaceEnabledAndroid2": "True",
     "FFlagAddFontAtlasMipmaps": "True",
     "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "e7f9ef22fb4887e922b7db43738c63210e1a26fa",
-    "DFStringFlagRepoGitHashDynamicString": "e7f9ef22fb4887e922b7db43738c63210e1a26fa",
-    "FStringFlipTimeStampFastString": "2023-11-29T19:41:16.916Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-29T19:41:16.916Z"
+    "FStringFlagRepoGitHashFastString": "16047f0be31b9761e5336d11994bcade3ab7fdc9",
+    "DFStringFlagRepoGitHashDynamicString": "16047f0be31b9761e5336d11994bcade3ab7fdc9",
+    "FStringFlipTimeStampFastString": "2023-11-29T19:51:45.733Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-29T19:51:45.733Z"
 }
