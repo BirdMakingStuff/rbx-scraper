@@ -9313,8 +9313,10 @@
     "DFFlagStreamJobPostLocationTime": "True",
     "FFlagAXWidgetSeeAllButton": "True",
     "FFlagLuauFixIndexerSubtypingOrdering": "True",
-    "DFIntLogReportingStatsHundredthsPercent": "2000",
+    "DFIntLogReportingStatsHundredthsPercent": "1000",
     "DFFlagSimCollectPhysicsSteppingMethod_Rollout": "True;60;2023-11-29T18:46:11",
+    "FFlagContactRecs_v4": "True",
+    "FFlagContactRecs": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9599,8 +9601,8 @@
     "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
     "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
     "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
-    "FStringFlagRepoGitHashFastString": "a2547804a5fa8d5bda0a91496838c8449e58c977",
-    "DFStringFlagRepoGitHashDynamicString": "a2547804a5fa8d5bda0a91496838c8449e58c977",
-    "FStringFlipTimeStampFastString": "2023-11-29T18:47:48.591Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-29T18:47:48.591Z"
+    "FStringFlagRepoGitHashFastString": "6661128b9aa3cb2a0b504b9102a497eaa3d24196",
+    "DFStringFlagRepoGitHashDynamicString": "6661128b9aa3cb2a0b504b9102a497eaa3d24196",
+    "FStringFlipTimeStampFastString": "2023-11-29T19:16:26.775Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-29T19:16:26.775Z"
 }
