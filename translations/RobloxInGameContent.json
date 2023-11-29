@@ -1867,9 +1867,9 @@
         {
             "namespace": "InGame.ConnectionError",
             "key": "TeleportFailure",
-            "description": "unexpected exception happened on the client or the web exception returned like \"HTTP 503 Service unavailable\".\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Teleport failed due to an unexpected error.",
-            "translation": "Teleport failed due to an unexpected error.",
+            "description": "unexpected exception happened on the client or the web exception returned like \"HTTP 503 Service unavailable\".\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com\nModified by tiezhengli@roblox.com",
+            "english": "Teleport failed due to an unexpected error. Please try teleporting again.",
+            "translation": "Teleport failed due to an unexpected error. Please try teleporting again.",
             "isDeprecated": false
         },
         {
@@ -1899,9 +1899,9 @@
         {
             "namespace": "InGame.ConnectionError",
             "key": "TeleportGameFull",
-            "description": "User is trying to teleport to their friend A's Server instance while the server is full.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Teleport failed, server is full.",
-            "translation": "Teleport failed, server is full.",
+            "description": "User is trying to teleport to their friend A's Server instance while the server is full.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com\nModified by tiezhengli@roblox.com",
+            "english": "Server is full. Please try again later or use another server.",
+            "translation": "Server is full. Please try again later or use another server.",
             "isDeprecated": false
         },
         {
@@ -1923,9 +1923,9 @@
         {
             "namespace": "InGame.ConnectionError",
             "key": "TeleportGameNotFound",
-            "description": "User is teleporting to a non-exist place.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Attempted to teleport to a place that does not exist.",
-            "translation": "Attempted to teleport to a place that does not exist.",
+            "description": "User is teleporting to a non-exist place.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com\nModified by tiezhengli@roblox.com",
+            "english": "Cannot find the destination place. Please double check and try again.",
+            "translation": "Cannot find the destination place. Please double check and try again.",
             "isDeprecated": false
         },
         {
@@ -2003,25 +2003,25 @@
         {
             "namespace": "InGame.ConnectionError",
             "key": "TeleportErrors",
-            "description": "General Teleport Errors happens during teleporting.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Teleport failed due to an unknown error.",
-            "translation": "Teleport failed due to an unknown error.",
+            "description": "General Teleport Errors happens during teleporting.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com\nModified by tiezhengli@roblox.com",
+            "english": "Teleport failed due to an unexpected error. Please try teleporting again.",
+            "translation": "Teleport failed due to an unexpected error. Please try teleporting again.",
             "isDeprecated": false
         },
         {
             "namespace": "InGame.ConnectionError",
             "key": "PlacelaunchDisabled",
-            "description": "Created by <Unknown>\nModified by bbrimeyer@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "This experience is currently unavailable. Please try again later.",
-            "translation": "This experience is currently unavailable. Please try again later.",
+            "description": "Created by <Unknown>\nModified by bbrimeyer@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com\nModified by tiezhengli@roblox.com",
+            "english": "The destination place is restricted. Please try a different place or retry later.",
+            "translation": "The destination place is restricted. Please try a different place or retry later.",
             "isDeprecated": false
         },
         {
             "namespace": "InGame.ConnectionError",
             "key": "TeleportGameEnded",
-            "description": "User is trying to teleporting to their friend A's Server instance while the server has already shut down because A has left.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Teleport failed, server is no longer available.",
-            "translation": "Teleport failed, server is no longer available.",
+            "description": "User is trying to teleporting to their friend A's Server instance while the server has already shut down because A has left.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com\nModified by tiezhengli@roblox.com",
+            "english": "Server is no longer available. Please try a different one or attempt later.",
+            "translation": "Server is no longer available. Please try a different one or attempt later.",
             "isDeprecated": false
         },
         {
@@ -2099,9 +2099,9 @@
         {
             "namespace": "InGame.ConnectionError",
             "key": "TeleportFlooded",
-            "description": "User requests teleport too frequently.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Too many teleport requests received.",
-            "translation": "Too many teleport requests received.",
+            "description": "User requests teleport too frequently.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com\nModified by tiezhengli@roblox.com",
+            "english": "Too many teleport requests. Please try again later.",
+            "translation": "Too many teleport requests. Please try again later.",
             "isDeprecated": false
         },
         {
