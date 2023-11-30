@@ -9344,7 +9344,6 @@
     "FFlagEnableSubscriptionCompactTitle": "True",
     "FFlagUseCoreScriptsRootProviderForSubscriptionPurchase": "True",
     "FFlagFixRiseInAnimationManagerErrors": "True",
-    "FFlagConvertTextureManagerCallbackModeToExcludedTunables_Rollout": "True;30;2023-11-30T19:25:42",
     "FFlagPlatformFriendsService": "True",
     "FFlagAvatarPreviewerCleanerSerializedState": "True",
     "FFlagAvatarPreviewerImportMeshPartsAsAccessories": "True",
@@ -9356,6 +9355,8 @@
     "FFlagPlacesServiceStopPlaySolo": "True",
     "FFlagToolboxStartValidationOnEverything": "True",
     "FFlagToolboxSubmitCompleted": "True",
+    "FFlagConvertTextureManagerCallbackModeToExcludedTunables": "True",
+    "IrisLaunchTimeBugFixForLoggedOutUser": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9679,8 +9680,8 @@
     "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
     "FFlagXboxCleanupArchive": "True",
     "FFlagTenFootUiSearchLoadMore": "False",
-    "FStringFlagRepoGitHashFastString": "b9469a3eea91b7d717a7832343df4688028f6c73",
-    "DFStringFlagRepoGitHashDynamicString": "b9469a3eea91b7d717a7832343df4688028f6c73",
-    "FStringFlipTimeStampFastString": "2023-11-30T19:36:46.802Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-30T19:36:46.802Z"
+    "FStringFlagRepoGitHashFastString": "ec7919c741f28aef2116c89bcaebdd9b4a6b5b22",
+    "DFStringFlagRepoGitHashDynamicString": "ec7919c741f28aef2116c89bcaebdd9b4a6b5b22",
+    "FStringFlipTimeStampFastString": "2023-11-30T20:05:28.859Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-30T20:05:28.859Z"
 }
