@@ -9344,6 +9344,8 @@
     "FFlagXboxFixTextBoxesOnReturnToApp": "True",
     "FFlagEnableSubscriptionCompactTitle": "True",
     "FFlagUseCoreScriptsRootProviderForSubscriptionPurchase": "True",
+    "FFlagFixRiseInAnimationManagerErrors": "True",
+    "FFlagConvertTextureManagerCallbackModeToExcludedTunables_Rollout": "True;30;2023-11-30T19:25:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9632,8 +9634,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-    "FStringFlagRepoGitHashFastString": "5daf30bd458da959bbb0ed8059124b19d524343b",
-    "DFStringFlagRepoGitHashDynamicString": "5daf30bd458da959bbb0ed8059124b19d524343b",
-    "FStringFlipTimeStampFastString": "2023-11-30T19:01:56.744Z",
-    "DFStringFlipTimeStampDynamicString": "2023-11-30T19:01:56.744Z"
+    "FStringFlagRepoGitHashFastString": "bc52686dbbaaf71351cde6f0663cb3ef0103ef31",
+    "DFStringFlagRepoGitHashDynamicString": "bc52686dbbaaf71351cde6f0663cb3ef0103ef31",
+    "FStringFlipTimeStampFastString": "2023-11-30T19:26:25.031Z",
+    "DFStringFlipTimeStampDynamicString": "2023-11-30T19:26:25.031Z"
 }
