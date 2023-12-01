@@ -9414,6 +9414,9 @@
     "FFlagEnableSetAndroidUpdateAdapter2_Rollout": "True;60;2023-12-01T18:50:56",
     "FFlagLiveScriptingReadOnlyIfNoRemoteEvent": "True",
     "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
+    "DFFlagDSTelemetryIncludeScopeAndDmForListingApis_Rollout": "True;30;2023-12-01T19:22:56",
+    "DFIntQosEventThrottle_Rollout": "20;30;2023-12-01T19:31:45",
+    "FFlagLiveScriptingScriptPlayerChanged": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9703,8 +9706,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-    "FStringFlagRepoGitHashFastString": "3f7d4bd63575a1a6ae6b5e421a791c9117d35fe9",
-    "DFStringFlagRepoGitHashDynamicString": "3f7d4bd63575a1a6ae6b5e421a791c9117d35fe9",
-    "FStringFlipTimeStampFastString": "2023-12-01T19:11:33.740Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-01T19:11:33.740Z"
+    "FStringFlagRepoGitHashFastString": "918c142233fdbf511e24046a8e84e946fabc95e2",
+    "DFStringFlagRepoGitHashDynamicString": "918c142233fdbf511e24046a8e84e946fabc95e2",
+    "FStringFlipTimeStampFastString": "2023-12-01T19:34:52.604Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-01T19:34:52.604Z"
 }
