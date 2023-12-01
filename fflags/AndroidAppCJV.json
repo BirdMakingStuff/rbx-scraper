@@ -9410,8 +9410,10 @@
     "FFlagAXBypassScrollPanel": "True",
     "FFlagPlatformFriendsProfile": "True",
     "FIntStudioNotificationsBetaFeatureRolloutPercent": "100",
-    "FFlagRealtimeMetricsEnabledInConnectionManager_Rollout": "True;30;2023-12-01T18:34:33",
     "FFlagUIBloxUseTokensInPlayerTile": "True",
+    "FFlagEnableSetAndroidUpdateAdapter2_Rollout": "True;60;2023-12-01T18:50:56",
+    "FFlagLiveScriptingReadOnlyIfNoRemoteEvent": "True",
+    "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9803,6 +9805,7 @@
     "FFlagEnableInGameMenuChromeABTest": "True",
     "DFIntCriticalThermalStatusThreshold": "4",
     "FFlagAXEnableExperienceWidgets": "True",
+    "FStringRealtimeClientTargetName": "Android",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -9834,8 +9837,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "818de4ba4d1bae0204e2be3d9ffdc4f4b2b052fd",
-    "DFStringFlagRepoGitHashDynamicString": "818de4ba4d1bae0204e2be3d9ffdc4f4b2b052fd",
-    "FStringFlipTimeStampFastString": "2023-12-01T18:41:00.302Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-01T18:41:00.302Z"
+    "FStringFlagRepoGitHashFastString": "3f7d4bd63575a1a6ae6b5e421a791c9117d35fe9",
+    "DFStringFlagRepoGitHashDynamicString": "3f7d4bd63575a1a6ae6b5e421a791c9117d35fe9",
+    "FStringFlipTimeStampFastString": "2023-12-01T19:11:33.740Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-01T19:11:33.740Z"
 }
