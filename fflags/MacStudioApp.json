@@ -9410,6 +9410,7 @@
     "FFlagAXBypassScrollPanel": "True",
     "FFlagPlatformFriendsProfile": "True",
     "FIntStudioNotificationsBetaFeatureRolloutPercent": "100",
+    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9684,7 +9685,6 @@
     "FStringLuauBufferTypeBetaFeatureUrl": "https://devforum.roblox.com/t/introducing-luau-buffer-type-beta/2724894",
     "FFlagLuauCodeGenFixByteLower": "True",
     "FFlagEnableStudioMultiAccountSupportFeature": "True",
-    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -9702,8 +9702,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
     "FFlagRefactorGuiRTCacheImpl2": "False",
-    "FStringFlagRepoGitHashFastString": "f71bd0db030b1d5fefefba1bf9058bca3b421e74",
-    "DFStringFlagRepoGitHashDynamicString": "f71bd0db030b1d5fefefba1bf9058bca3b421e74",
-    "FStringFlipTimeStampFastString": "2023-12-01T18:26:30.936Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-01T18:26:30.936Z"
+    "FStringFlagRepoGitHashFastString": "d7001501b61ca60cbf88dcfa7193fe18404d8441",
+    "DFStringFlagRepoGitHashDynamicString": "d7001501b61ca60cbf88dcfa7193fe18404d8441",
+    "FStringFlipTimeStampFastString": "2023-12-01T18:35:03.508Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-01T18:35:03.508Z"
 }

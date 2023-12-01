@@ -9411,6 +9411,7 @@
     "FFlagPlatformFriendsProfile": "True",
     "FIntStudioNotificationsBetaFeatureRolloutPercent": "100",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "FFlagUIBloxUseTokensInPlayerTile": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -9695,8 +9696,8 @@
     "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
     "DFIntTaskSchedulerJobRetryCount": "2",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "f71bd0db030b1d5fefefba1bf9058bca3b421e74",
-    "DFStringFlagRepoGitHashDynamicString": "f71bd0db030b1d5fefefba1bf9058bca3b421e74",
-    "FStringFlipTimeStampFastString": "2023-12-01T18:26:30.936Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-01T18:26:30.936Z"
+    "FStringFlagRepoGitHashFastString": "818de4ba4d1bae0204e2be3d9ffdc4f4b2b052fd",
+    "DFStringFlagRepoGitHashDynamicString": "818de4ba4d1bae0204e2be3d9ffdc4f4b2b052fd",
+    "FStringFlipTimeStampFastString": "2023-12-01T18:41:00.302Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-01T18:41:00.302Z"
 }
