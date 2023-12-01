@@ -9403,6 +9403,8 @@
     "DFFlagOptimizeComputeIsCollideFeaturePoly": "True",
     "FFlagCAPAddTutorialWorkflowLinks": "True",
     "FFlagPluginCalloutCustomOnShutdown": "True",
+    "FFlagStudioNotificationsBetaFeature": "True",
+    "FFlagRuntimeStmExpEnabled1": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9811,8 +9813,8 @@
     "SingleSurfaceEnabledAndroid2": "True",
     "FFlagAddFontAtlasMipmaps": "True",
     "DFIntQuestIAPTelemetryThrottleHundredthsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "3204fa87445693d9c0b669ea79759494c5556841",
-    "DFStringFlagRepoGitHashDynamicString": "3204fa87445693d9c0b669ea79759494c5556841",
-    "FStringFlipTimeStampFastString": "2023-12-01T02:01:58.226Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-01T02:01:58.226Z"
+    "FStringFlagRepoGitHashFastString": "8cda770da576b6a0c6403bdd68968ea589d98cea",
+    "DFStringFlagRepoGitHashDynamicString": "8cda770da576b6a0c6403bdd68968ea589d98cea",
+    "FStringFlipTimeStampFastString": "2023-12-01T17:26:43.234Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-01T17:26:43.234Z"
 }
