@@ -9452,6 +9452,12 @@
     "DFIntSubscriptionsPerServerBase": "10",
     "FFlagHideExperienceLoadingJudder2": "True",
     "FFlagNoItemSharedPtrInNetworkLatencyScopes": "True",
+    "FFlagCFrameLookAlong_Rollout": "True;60;2023-12-04T20:46:56",
+    "EnableChargeRequestIdPurchases2": "True",
+    "EnablePendingPurchaseWithUserId": "True",
+    "FFlagVoiceUpsellSeenModalFix": "True",
+    "FFlagExploreApiSortsEnabledIXP2": "True",
+    "DFFlagEnableCsmRateLimit_Rollout": "True;60;2023-12-04T21:18:03",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9748,8 +9754,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
     "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
-    "FStringFlagRepoGitHashFastString": "3b89c7a97cf751f38a5a47b15cceedbf8e75ad74",
-    "DFStringFlagRepoGitHashDynamicString": "3b89c7a97cf751f38a5a47b15cceedbf8e75ad74",
-    "FStringFlipTimeStampFastString": "2023-12-04T20:31:53.460Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-04T20:31:53.460Z"
+    "FStringFlagRepoGitHashFastString": "e62cb26e8339e353672e14df51f3cdc8a3ca7bfc",
+    "DFStringFlagRepoGitHashDynamicString": "e62cb26e8339e353672e14df51f3cdc8a3ca7bfc",
+    "FStringFlipTimeStampFastString": "2023-12-04T21:18:37.939Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-04T21:18:37.939Z"
 }
