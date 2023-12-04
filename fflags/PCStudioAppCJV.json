@@ -8685,7 +8685,6 @@
     "FFlagEnableSessionCheckInEngine1": "True",
     "FFlagLuaEnableGameInviteModal2023V5": "True",
     "FFlagLuaEnableGameInviteModalSettingsHub": "True",
-    "FFlagLuaEnableGameInviteModalInvitePrompt": "True",
     "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
     "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
     "FFlagScriptProfilerFrequencyControl": "True",
@@ -9466,6 +9465,11 @@
     "DFFlagEngineStabilityUseSessionResultV2_Rollout": "True;60;2023-12-04T22:35:48",
     "DFFlagAllExitReasonsUseStringArray_Rollout": "True;60;2023-12-04T22:36:44",
     "DFFlagStopFlushTimerWhenInferredCrashDestruct_Rollout": "True;60;2023-12-04T22:37:17",
+    "DFFlagModelStreamingBehaviorField_Rollout": "True;60;2023-12-04T22:39:50",
+    "DFFlagConsistentLoadCharacterCallbacks2_Rollout": "True;60;2023-12-04T22:40:02",
+    "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
+    "FFlagStudioResetLayoutForCurrentRevisionOnly2": "True",
+    "FFlagLuauFullLoopLuserdata_Rollout": "True;30;2023-12-04T23:01:05",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9762,8 +9766,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
     "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
-    "FStringFlagRepoGitHashFastString": "6e4ea76b76f452e1225298535923207bf88b10cc",
-    "DFStringFlagRepoGitHashDynamicString": "6e4ea76b76f452e1225298535923207bf88b10cc",
-    "FStringFlipTimeStampFastString": "2023-12-04T22:37:46.488Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-04T22:37:46.488Z"
+    "FStringFlagRepoGitHashFastString": "628523d940acde446b01afc27c36a5b4a0c6706e",
+    "DFStringFlagRepoGitHashDynamicString": "628523d940acde446b01afc27c36a5b4a0c6706e",
+    "FStringFlipTimeStampFastString": "2023-12-04T23:01:52.018Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-04T23:01:52.018Z"
 }
