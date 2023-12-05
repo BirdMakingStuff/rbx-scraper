@@ -9457,7 +9457,7 @@
     "FFlagEnableSocialServiceIrisInitCallPlacedUpdate": "True",
     "FFlagCFrameLookAlong": "True",
     "FFlagEnableMmapForMemProfStorageFlushing2": "True",
-    "DFFlagEnableCsmRateLimit": "True",
+    "DFFlagEnableCsmRateLimit": "False",
     "FStringReportAbuseMenuRoactForcedUserIds": "3501323813;4249672033;4903090547;2029193318;",
     "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
     "FFlagStudioResetLayoutForCurrentRevisionOnly2": "True",
@@ -9764,8 +9764,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-    "FStringFlagRepoGitHashFastString": "36463386ec092505cf45d8637f3cc6416037689a",
-    "DFStringFlagRepoGitHashDynamicString": "36463386ec092505cf45d8637f3cc6416037689a",
-    "FStringFlipTimeStampFastString": "2023-12-05T17:17:17.928Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-05T17:17:17.928Z"
+    "FStringFlagRepoGitHashFastString": "5536474198db176dfc3ed86f8ec9095604a77827",
+    "DFStringFlagRepoGitHashDynamicString": "5536474198db176dfc3ed86f8ec9095604a77827",
+    "FStringFlipTimeStampFastString": "2023-12-05T18:27:11.049Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-05T18:27:11.049Z"
 }
