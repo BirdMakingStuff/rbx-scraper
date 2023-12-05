@@ -9505,14 +9505,13 @@
     "FFlagLuaAppLocalizationConsistencyFixes": "True",
     "FFlagXboxDataModelServices": "True",
     "FFlagXboxUniversalApp": "True",
-    "FFlagPlatformFriendsService_Rollout": "True;60;2023-12-05T22:20:11",
-    "DFFlagNewAppCoreSerializers_Rollout": "True;60;2023-12-05T22:27:38",
     "FFlagProperlyHandleDelayedErrorReporting_Rollout": "True;60;2023-12-05T22:32:50",
     "FFlagSupportsOverscanPolicy": "True",
     "FFlagDeleteSoundsOnAsyncThread_Rollout": "True;60;2023-12-05T22:51:50",
     "FFlagTreatDnsResolveErrorAsDisconnect": "True",
     "FFlagVectorIntegerFunctions": "True",
     "FFlagTenFootUiAchievements": "True",
+    "DFFlagNewAppCoreSerializers": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9808,8 +9807,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
     "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
-    "FStringFlagRepoGitHashFastString": "cbef361cfc692439553b47c4b2d499ef4a18e770",
-    "DFStringFlagRepoGitHashDynamicString": "cbef361cfc692439553b47c4b2d499ef4a18e770",
-    "FStringFlipTimeStampFastString": "2023-12-05T23:20:21.865Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-05T23:20:21.865Z"
+    "FStringFlagRepoGitHashFastString": "12a713c3d4abc47ed6931a7f5492bb74341b22fa",
+    "DFStringFlagRepoGitHashDynamicString": "12a713c3d4abc47ed6931a7f5492bb74341b22fa",
+    "FStringFlipTimeStampFastString": "2023-12-05T23:36:41.711Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-05T23:36:41.711Z"
 }
