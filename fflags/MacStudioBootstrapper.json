@@ -52,6 +52,8 @@
     "FFlagMacInstallerRetryTerminateCheck2": "True",
     "FFlagMacBootstrapperIgnore401": "True",
     "FFlagMacInstallerFirstLaunchArgument": "True",
+    "FFlagHttpGetSyncUseNativeRetry": "True",
+    "FFlagHttpPostSyncUseNativeRetry_Rollout": "True;30;2023-12-05T17:15:00",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -60,8 +62,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "FFlagRemoveSuccessDialogMacStudio": "True",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "5a3bdc908e3ef3a9dd14a08aa1f4896c44936e61",
-    "DFStringFlagRepoGitHashDynamicString": "5a3bdc908e3ef3a9dd14a08aa1f4896c44936e61",
-    "FStringFlipTimeStampFastString": "2023-12-05T05:15:08.837Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-05T05:15:08.837Z"
+    "FStringFlagRepoGitHashFastString": "36463386ec092505cf45d8637f3cc6416037689a",
+    "DFStringFlagRepoGitHashDynamicString": "36463386ec092505cf45d8637f3cc6416037689a",
+    "FStringFlipTimeStampFastString": "2023-12-05T17:17:17.928Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-05T17:17:17.928Z"
 }
