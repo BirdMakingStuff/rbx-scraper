@@ -9446,7 +9446,6 @@
     "DFIntSubscribePerMinuteLimit": "120",
     "DFIntSubscriptionsPerPlayer": "4",
     "DFIntSubscriptionsPerServerBase": "10",
-    "FFlagHideExperienceLoadingJudder2": "True",
     "FFlagNoItemSharedPtrInNetworkLatencyScopes": "True",
     "EnableChargeRequestIdPurchases2": "True",
     "EnablePendingPurchaseWithUserId": "True",
@@ -9504,6 +9503,12 @@
     "FFlagCAPRegenerateConversationIdOnClear": "True",
     "FFlagFixGetUserRecentExperiencesPromiseReturn": "True",
     "FFlagLuaAppLocalizationConsistencyFixes": "True",
+    "FFlagTreatDnsResolveErrorAsDisconnect_Rollout": "True;60;2023-12-05T21:43:14",
+    "FFlagXboxDataModelServices": "True",
+    "FFlagXboxUniversalApp": "True",
+    "FFlagVectorIntegerFunctions_Rollout": "True;60;2023-12-05T22:09:38",
+    "FFlagPlatformFriendsService_Rollout": "True;60;2023-12-05T22:20:11",
+    "DFFlagNewAppCoreSerializers_Rollout": "True;60;2023-12-05T22:27:38",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9697,8 +9702,8 @@
     "FFlagEnableInGameMenuChromeABTest": "True",
     "DFIntTaskSchedulerJobRetryCount": "1",
     "FStringRealtimeClientTargetName": "windows_universal",
-    "FStringFlagRepoGitHashFastString": "c8fb6a38cbcf74852e6babed5d52908cf0e82a6d",
-    "DFStringFlagRepoGitHashDynamicString": "c8fb6a38cbcf74852e6babed5d52908cf0e82a6d",
-    "FStringFlipTimeStampFastString": "2023-12-05T21:34:38.288Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-05T21:34:38.288Z"
+    "FStringFlagRepoGitHashFastString": "b06a64ec8fda662e88708efd7e6271e5d10174f9",
+    "DFStringFlagRepoGitHashDynamicString": "b06a64ec8fda662e88708efd7e6271e5d10174f9",
+    "FStringFlipTimeStampFastString": "2023-12-05T22:27:54.452Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-05T22:27:54.452Z"
 }
