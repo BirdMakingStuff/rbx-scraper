@@ -54,6 +54,7 @@
     "FFlagMacInstallerFirstLaunchArgument": "True",
     "FFlagHttpGetSyncUseNativeRetry": "True",
     "FFlagHttpPostSyncUseNativeRetry": "True",
+    "FFlagEnableMultipleProcessTermination_Rollout": "True;1;2023-12-06T22:38:22",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -75,8 +76,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "138f352092e6f13be428e788077ad4278b3af7ba",
-    "DFStringFlagRepoGitHashDynamicString": "138f352092e6f13be428e788077ad4278b3af7ba",
-    "FStringFlipTimeStampFastString": "2023-12-06T22:26:51.514Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-06T22:26:51.514Z"
+    "FStringFlagRepoGitHashFastString": "839e5e98c4a406e681eaa87f36bb0d9b474e834b",
+    "DFStringFlagRepoGitHashDynamicString": "839e5e98c4a406e681eaa87f36bb0d9b474e834b",
+    "FStringFlipTimeStampFastString": "2023-12-06T22:38:44.881Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-06T22:38:44.881Z"
 }
