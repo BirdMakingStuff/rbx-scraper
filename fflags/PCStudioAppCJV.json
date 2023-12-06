@@ -276,7 +276,7 @@
     "FFlagJoinTime_LocalUserClusterPriority": "True",
     "FFlagJoinTime_LocalUserMeshPriority": "True",
     "FFlagLeaderstatsWithASideOfClient": "True",
-    "FFlagLeaveStartingCoreScriptsToPlaceLauncher": "False",
+    "FFlagLeaveStartingCoreScriptsToPlaceLauncher": "True",
     "FFlagLocalizeErrorCodeString": "True",
     "FFlagLuaAppGameDetailsHideEmptySections": "True",
     "FFlagLuaAppGameSetTargetIdAnalytics": "True",
@@ -9813,8 +9813,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
     "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
-    "FStringFlagRepoGitHashFastString": "a92c8153e24aebe311ff8aa81c9068a57c7116b1",
-    "DFStringFlagRepoGitHashDynamicString": "a92c8153e24aebe311ff8aa81c9068a57c7116b1",
-    "FStringFlipTimeStampFastString": "2023-12-06T17:10:44.520Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-06T17:10:44.520Z"
+    "FStringFlagRepoGitHashFastString": "273b79aa91c052b0fb2fee605f780a3b2eb20c3e",
+    "DFStringFlagRepoGitHashDynamicString": "273b79aa91c052b0fb2fee605f780a3b2eb20c3e",
+    "FStringFlipTimeStampFastString": "2023-12-06T18:20:58.593Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-06T18:20:58.593Z"
 }
