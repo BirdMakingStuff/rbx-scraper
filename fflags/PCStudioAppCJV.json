@@ -7319,7 +7319,6 @@
     "FFlagFixSingleSurfaceAndDualSurfaceTunableReset2": "True",
     "FFlagPlayerSetCharacterAllowActors": "False",
     "FFlagAssetImportGltfSupport": "True",
-    "FFlagVideoAssetPrivacyForPreview_PlaceFilter": "False;14709796136",
     "FFlagDisableNewAssetFormatNames": "True",
     "FFlagFilterSettingChangedForScriptHighlightFormats": "True",
     "FFlagScriptProfilerNativeFrames": "True",
@@ -9518,6 +9517,9 @@
     "FFlagUseLowDensityLinkButtons": "True",
     "DFFlagEnableVideoCompleteDefraud": "True",
     "DFIntHttpServiceInsightsErrorStatusCodeThrottleHundredthsPercentage": "1",
+    "DFFlagSolverNOUAddedUnderSetOptimized2_Rollout": "True;60;2023-12-06T21:10:00",
+    "FFlagDualWriteFlowDurationToV2Stats_Rollout": "True;60;2023-12-06T21:24:58",
+    "FFlagLuaAppUseNewNumberLocalization2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9813,8 +9815,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
     "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
-    "FStringFlagRepoGitHashFastString": "1fece352be8bf8317a3b0fa27f962c544f27b470",
-    "DFStringFlagRepoGitHashDynamicString": "1fece352be8bf8317a3b0fa27f962c544f27b470",
-    "FStringFlipTimeStampFastString": "2023-12-06T20:58:24.858Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-06T20:58:24.858Z"
+    "FStringFlagRepoGitHashFastString": "d92ad0d4dc2a147ff907fa068371c5903e9f7fd4",
+    "DFStringFlagRepoGitHashDynamicString": "d92ad0d4dc2a147ff907fa068371c5903e9f7fd4",
+    "FStringFlipTimeStampFastString": "2023-12-06T21:37:48.456Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-06T21:37:48.456Z"
 }
