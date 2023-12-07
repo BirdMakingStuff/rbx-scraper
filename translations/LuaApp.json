@@ -9529,6 +9529,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Notifications.NotificationStream",
+            "key": "Bundle.ExpandNotificationBundle",
+            "description": "Used as aria-label (read out by screen readers for accessibility purposes)\nCreated by ihasan@roblox.com",
+            "english": "Expand notification bundle",
+            "translation": "Expand notification bundle",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Purchasing.RobloxProducts",
             "key": "Label.RobuxBalance",
             "description": "Balance : [quantity] Robux\nCreated by <Unknown>\nModified by ptrethewey@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
