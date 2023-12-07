@@ -9536,7 +9536,8 @@
     "FFlagUpgradeExpChatV4_2_7": "True",
     "FFlagAXCameraManagerDisableSearchMovement": "True",
     "FFlagSimSolverLimitMaxMotorAcceleration": "True",
-    "FFlagLuauBit32ByteswapBuiltin_Rollout": "True;60;2023-12-07T17:13:03",
+    "FFlagLuauBit32ByteswapBuiltin": "True",
+    "FFlagEnableExperienceChatOptimizations": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9852,8 +9853,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
     "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
-    "FStringFlagRepoGitHashFastString": "48185677b7e4d8dc203285dff283abbc9cc70633",
-    "DFStringFlagRepoGitHashDynamicString": "48185677b7e4d8dc203285dff283abbc9cc70633",
-    "FStringFlipTimeStampFastString": "2023-12-07T17:32:09.117Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-07T17:32:09.117Z"
+    "FStringFlagRepoGitHashFastString": "dd87a98a1e53f7ee6a5530643d2914c9aea4d051",
+    "DFStringFlagRepoGitHashDynamicString": "dd87a98a1e53f7ee6a5530643d2914c9aea4d051",
+    "FStringFlipTimeStampFastString": "2023-12-07T18:28:45.675Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-07T18:28:45.675Z"
 }
