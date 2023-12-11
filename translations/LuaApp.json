@@ -9451,17 +9451,17 @@
         {
             "namespace": "Notifications.NotificationStream",
             "key": "Title.TurnOffNotificationsNoName",
-            "description": "Title to turn off notifications for an experience without requiring the experience name\nCreated by ylin@roblox.com\nModified by ylin@roblox.com\nCreated by ylin@roblox.com\nModified by bdeng@roblox.com\nModified by jwong@roblox.com",
-            "english": "Turn off notifications for this experience",
-            "translation": "Turn off notifications for this experience",
+            "description": "Title to turn off notifications for an experience without requiring the experience name (the word notifications is removed due to length limit on menu items)\nModified by jwong@roblox.com",
+            "english": "Turn off for this experience",
+            "translation": "Turn off for this experience",
             "isDeprecated": false
         },
         {
             "namespace": "Notifications.NotificationStream",
             "key": "Title.TurnOnNotificationsNoName",
-            "description": "Title to turn on notifications for an experience without requiring the experience name\nCreated by ylin@roblox.com\nModified by ylin@roblox.com\nCreated by ylin@roblox.com\nModified by bdeng@roblox.com\nModified by jwong@roblox.com",
-            "english": "Turn on notifications for this experience",
-            "translation": "Turn on notifications for this experience",
+            "description": "Title to turn on notifications for an experience without requiring the experience name (the word notifications is removed due to length limit on menu items)\nModified by jwong@roblox.com",
+            "english": "Turn on for this experience",
+            "translation": "Turn on for this experience",
             "isDeprecated": false
         },
         {
@@ -22710,6 +22710,30 @@
             "description": "Created by hyang@roblox.com\nModified by hyang@roblox.com\nCreated by hyang@roblox.com\nModified by bdeng@roblox.com\nModified by hyang@roblox.com",
             "english": "Didn't receive code? Click here",
             "translation": "Didn't receive code? Click here",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.OneTimePasscode",
+            "key": "Description.DidntReceiveCode",
+            "description": "\nCreated by hyang@roblox.com",
+            "english": "Didn't receive a code?",
+            "translation": "Didn't receive a code?",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.OneTimePasscode",
+            "key": "Action.GetHelp",
+            "description": "\nCreated by hyang@roblox.com",
+            "english": "Get Help",
+            "translation": "Get Help",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.OneTimePasscode",
+            "key": "Action.ChangeEmailV2",
+            "description": "\nCreated by hyang@roblox.com",
+            "english": "Change Email",
+            "translation": "Change Email",
             "isDeprecated": false
         },
         {
