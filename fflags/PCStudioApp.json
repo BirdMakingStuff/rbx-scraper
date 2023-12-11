@@ -768,7 +768,6 @@
     "DFLogRuppTokenClientLog": "0",
     "DFLogRuppTokenClientLog_DataCenterFilter": "12;349;316",
     "DFLogRuppTokenLog": "0",
-    "DFLogRuppTokenLog_DataCenterFilter": "12;349;316;384;191",
     "DFIntLuaGcMaxKb": "200",
     "FFlagEnableVoiceChatDeviceChangeDebounce": "True",
     "FFlagLuaAppPlayerSearchFixResultForSensitive": "True",
@@ -9626,7 +9625,6 @@
     "FFlagLuauLoopInterruptFix": "True",
     "FFlagXboxCheckCrossPlayJoinRestricted": "True",
     "DFFlagSolverModelRemovedUnderSetFix": "True",
-    "DFFlagReportLegacySolverRccJoinAllUnthrottled_Rollout": "False;60;2023-12-11T18:23:26",
     "FFlagAvatarPreviewerLegacyRigidAccessories": "True",
     "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "True;60;2023-12-11T18:27:41",
     "FFlagLuauKeepVmapLinear2": "True",
@@ -9636,6 +9634,7 @@
     "DFFlagPerformanceControlEnableMemoryProbing3": "False",
     "DFFlagAddMetricsForDataPingComponents": "True",
     "FFlagLuauDefinitionFileSetModuleName": "True",
+    "DFFlagReportLegacySolverRccJoinAllUnthrottled": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9942,8 +9941,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-    "FStringFlagRepoGitHashFastString": "7e17844951c3e0ceab77d9c74878d08b5c7efc07",
-    "DFStringFlagRepoGitHashDynamicString": "7e17844951c3e0ceab77d9c74878d08b5c7efc07",
-    "FStringFlipTimeStampFastString": "2023-12-11T19:16:58.693Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-11T19:16:58.693Z"
+    "FStringFlagRepoGitHashFastString": "f0d28fb114e0983bbbac5b87f9a0322d7273e52e",
+    "DFStringFlagRepoGitHashDynamicString": "f0d28fb114e0983bbbac5b87f9a0322d7273e52e",
+    "FStringFlipTimeStampFastString": "2023-12-11T19:31:40.198Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-11T19:31:40.198Z"
 }
