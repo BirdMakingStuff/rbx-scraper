@@ -8555,7 +8555,7 @@
     "FFlagLuaAppUseGridTiles7": "True",
     "DFFlagDCFilterDM": "True",
     "FFlagFixAdjacentMask": "True",
-    "FFlagHttpRequestMsxmlLeakFix": "True",
+    "FFlagHttpRequestMsxmlLeakFix": "False",
     "DFFlagHttpStatsIncludeUniverseId": "True",
     "FFlagAXUseItemTileDetailButton": "True",
     "FFlagUseConcurrentUsersOverlayPill3": "True",
@@ -9636,6 +9636,7 @@
     "DFFlagReportLegacySolverRccJoinAllUnthrottled_Rollout": "False;60;2023-12-11T18:23:26",
     "FFlagAvatarPreviewerLegacyRigidAccessories": "True",
     "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "True;60;2023-12-11T18:27:41",
+    "FFlagLuauDefinitionFileSetModuleName_Rollout": "True;30;2023-12-11T18:39:29",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9948,9 +9949,8 @@
     "FFlagHangDetectionJobV2": "True",
     "FFlagNewSelectionCursor2": "True",
     "FFlagLuaAppExperienceInfoPanel2": "True",
-    "FFlagHttpRequestMsxmlLeakFix_Rollout": "False;30;2023-12-11T17:55:58",
-    "FStringFlagRepoGitHashFastString": "303b1695145514fd3d302655875e194c8863d74a",
-    "DFStringFlagRepoGitHashDynamicString": "303b1695145514fd3d302655875e194c8863d74a",
-    "FStringFlipTimeStampFastString": "2023-12-11T18:28:01.343Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-11T18:28:01.343Z"
+    "FStringFlagRepoGitHashFastString": "4cdcc7bc2b97c2bd1876c4d08f675a796ef214da",
+    "DFStringFlagRepoGitHashDynamicString": "4cdcc7bc2b97c2bd1876c4d08f675a796ef214da",
+    "FStringFlipTimeStampFastString": "2023-12-11T18:39:56.546Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-11T18:39:56.546Z"
 }
