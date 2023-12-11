@@ -8929,6 +8929,22 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Groups",
+            "key": "Message.SavePlace",
+            "description": "Created by lmarques@roblox.com\nCreated by lmarques@roblox.com\nModified by lmarques@roblox.com",
+            "english": "{actor} saved place {game}",
+            "translation": "{actor} saved place {game}",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Groups",
+            "key": "Message.PublishPlace",
+            "description": "Created by lmarques@roblox.com\nCreated by lmarques@roblox.com\nModified by lmarques@roblox.com",
+            "english": "{actor} published place {game}",
+            "translation": "{actor} published place {game}",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Features.ChooseAdv",
             "key": "Label.WhatsNext",
             "description": "Created by jdalmendray@roblox.com\nModified by czhang@roblox.com\nCreated by jdalmendray@roblox.com\nModified by bdeng@roblox.com",
