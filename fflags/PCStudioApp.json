@@ -9635,12 +9635,14 @@
     "FFlagLuauDefinitionFileSetModuleName": "True",
     "DFFlagReportLegacySolverRccJoinAllUnthrottled": "False",
     "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent": "True",
-    "DFFlagMemoryStoreEnableHashMapListItems_Rollout": "True;30;2023-12-11T19:56:32",
     "FFlagLuauCompileBufferAnnotation_Rollout": "True;30;2023-12-11T20:03:30",
     "DFFlagOpportunisticFixForTheStreamingTunable_Rollout": "True;30;2023-12-11T20:05:49",
     "FFlagTenFootUiCategoryTabRemovePadding": "True",
     "DFFlagAddMetricsForUnreliableItems_Rollout": "True;45;2023-12-11T20:13:15",
     "FFlagLuauBufferBuiltins_Rollout": "True;30;2023-12-11T20:20:51",
+    "DFIntStreamingDistanceUtilityCurveMaxUtility_Rollout": "15000;15;2023-12-11T20:28:43",
+    "DFIntNumChangesBeforeResettingPerRegionStats_Rollout": "2000000;15;2023-12-11T20:29:00",
+    "DFFlagMemoryStoreEnableHashMapListItems": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9947,8 +9949,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-    "FStringFlagRepoGitHashFastString": "f08412eba5373626e402bea4d209af633c0fe047",
-    "DFStringFlagRepoGitHashDynamicString": "f08412eba5373626e402bea4d209af633c0fe047",
-    "FStringFlipTimeStampFastString": "2023-12-11T20:21:28.601Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-11T20:21:28.601Z"
+    "FStringFlagRepoGitHashFastString": "073a753c1fecf0b156840a2abe373923fbd316b0",
+    "DFStringFlagRepoGitHashDynamicString": "073a753c1fecf0b156840a2abe373923fbd316b0",
+    "FStringFlipTimeStampFastString": "2023-12-11T20:31:37.704Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-11T20:31:37.704Z"
 }
