@@ -9660,6 +9660,7 @@
     "FFlagScriptProfilerFunctionsView": "True",
     "FFlagScriptProfilerLiveUpdate": "True",
     "DFFlagHttpCacheReportCleanReason": "True",
+    "FFlagHttpWrapperFixStopCase": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10055,6 +10056,7 @@
     "FFlagUpdateCheckOnLogin2": "True",
     "EnableSendrThumbnail": "True",
     "FFlagExpStateCaptureMode7": "True",
+    "FIntSessionTransitionFSMHundredthsPercent_Rollout": "10000;30;2023-12-11T23:33:22",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -10086,8 +10088,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "77006090250f203dab87c06550191522eda39ff2",
-    "DFStringFlagRepoGitHashDynamicString": "77006090250f203dab87c06550191522eda39ff2",
-    "FStringFlipTimeStampFastString": "2023-12-11T23:21:55.322Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-11T23:21:55.322Z"
+    "FStringFlagRepoGitHashFastString": "a96f4cd519af2e2f334853744a6187270f966c79",
+    "DFStringFlagRepoGitHashDynamicString": "a96f4cd519af2e2f334853744a6187270f966c79",
+    "FStringFlipTimeStampFastString": "2023-12-11T23:34:01.293Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-11T23:34:01.293Z"
 }
