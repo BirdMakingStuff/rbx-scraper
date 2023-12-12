@@ -8962,7 +8962,7 @@
     "FFlagShowBehaviorCategory": "True",
     "FFlagPackageVerbsWithMultiSelection": "True",
     "FFlagExplorerFixInstanceSelectionSignal": "True",
-    "DFFlagFixStreamingDistanceNotAllowingOvershootingForTargetValue": "True",
+    "DFFlagFixStreamingDistanceNotAllowingOvershootingForTargetValue": "False",
     "FFlagRefactorRCCJobs3": "True",
     "DFIntReportRTLSupportThrottleHundrethsPercent2": "2000",
     "FFlagXboxSharedPlatform": "True",
@@ -10064,8 +10064,8 @@
     "EnableSendrThumbnail": "True",
     "FFlagExpStateCaptureMode7": "True",
     "FFlagEnableNavbarLabelExperiment": "True",
-    "FStringFlagRepoGitHashFastString": "6ab33bda2188984e05dc2c3ef331506a476d0971",
-    "DFStringFlagRepoGitHashDynamicString": "6ab33bda2188984e05dc2c3ef331506a476d0971",
-    "FStringFlipTimeStampFastString": "2023-12-12T01:41:49.430Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-12T01:41:49.430Z"
+    "FStringFlagRepoGitHashFastString": "c84b71a8614c6c42c19b48d8c1d7d483bc40e0a6",
+    "DFStringFlagRepoGitHashDynamicString": "c84b71a8614c6c42c19b48d8c1d7d483bc40e0a6",
+    "FStringFlipTimeStampFastString": "2023-12-12T17:14:48.059Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-12T17:14:48.059Z"
 }
