@@ -8990,7 +8990,7 @@
     "FFlagACERigUtilsMigration2": "True",
     "FFlagAXRefactorAnimationManagerAnimSelection7": "False",
     "FFlagACERestrictVideoToR15": "True",
-    "FStringUIOcclusionMetricsUnibarMenuVerList": "v6.1t8,v6.2t8,v6.3t8",
+    "FStringUIOcclusionMetricsUnibarMenuVerList": "v6.2t8",
     "FFlagNavigationUseMemoryLimit": "True",
     "DFFlagEnablePreparePurchaseInExperienceApi": "True",
     "DFFlagFixSubscriptionStatusCacheInClient": "True",
@@ -9668,6 +9668,7 @@
     "FFlagFixAppSuccessSyncTime": "True",
     "FFlagFixSessionLevel2aTagIdUpdate": "True",
     "FFlagFixAeroMeshExtraWaypoints": "True",
+    "DFIntSoundServiceCacheCleanupMaxAgeDays_Rollout": "1;60;2023-12-12T20:31:59",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10064,8 +10065,8 @@
     "EnableSendrThumbnail": "True",
     "FFlagExpStateCaptureMode7": "True",
     "FFlagEnableNavbarLabelExperiment": "True",
-    "FStringFlagRepoGitHashFastString": "53eb404f1c526cba07dd6fd0c04f43318530f766",
-    "DFStringFlagRepoGitHashDynamicString": "53eb404f1c526cba07dd6fd0c04f43318530f766",
-    "FStringFlipTimeStampFastString": "2023-12-12T20:21:12.276Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-12T20:21:12.276Z"
+    "FStringFlagRepoGitHashFastString": "718cef0e05413ce37698c196d0cf6c25be7a1382",
+    "DFStringFlagRepoGitHashDynamicString": "718cef0e05413ce37698c196d0cf6c25be7a1382",
+    "FStringFlipTimeStampFastString": "2023-12-12T20:34:52.522Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-12T20:34:52.522Z"
 }
