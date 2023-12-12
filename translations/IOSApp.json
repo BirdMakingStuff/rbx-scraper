@@ -4849,6 +4849,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Purchasing.RedeemGameCard",
+            "key": "Response.RedeemGiftCardCurrencyCodeNotMatchV2",
+            "description": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.\nCreated by lxie@roblox.com",
+            "english": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
+            "translation": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.GameFollows",
             "key": "LabelFollow",
             "description": "Label for follow game button\nCreated by <Unknown>\nModified by ejiang@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -8558,14 +8566,6 @@
             "description": "Displayed at the top of the player list on mobile.\nCreated by pstebbins@roblox.com\nModified by czhang@roblox.com\nCreated by pstebbins@roblox.com\nModified by bdeng@roblox.com",
             "english": "Leaderboard",
             "translation": "Leaderboard",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "Feature.PaymentRedeem",
-            "key": "Response.RedeemGiftCardCurrencyCodeNotMatchV2",
-            "description": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.\nCreated by lxie@roblox.com",
-            "english": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
-            "translation": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
             "isDeprecated": false
         },
         {

@@ -13073,6 +13073,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Purchasing.RedeemGameCard",
+            "key": "Response.RedeemGiftCardCurrencyCodeNotMatchV2",
+            "description": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.\nCreated by lxie@roblox.com",
+            "english": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
+            "translation": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.Contacts",
             "key": "Heading.UpsellSubHeading",
             "description": "Subheading which invites users to link device contacts with Roblox.\nCreated by tgrand@roblox.com\nModified by tgrand@roblox.com\nCreated by tgrand@roblox.com\nModified by bdeng@roblox.com",
@@ -14843,7 +14851,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Set.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "The name of our game, Roblox.\nModified by j.wang@roblox.com",
             "english": "Roblox",
             "translation": "Roblox",
             "isDeprecated": false
@@ -14851,7 +14859,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Set.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
             "english": "Trophies for playing Roblox!",
             "translation": "Trophies for playing Roblox!",
             "isDeprecated": false
@@ -14859,7 +14867,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Scout.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the name of a trophy (achievement, award, etc.) that you get for playing 1 experience. It should have a different name than Scout and Explorer, and ideally have the weakest sounding name in terms of accomplishment because it is the first of the three trophies (Scout is 1, Explorer is 5, and Trailblazer is 15).\nModified by j.wang@roblox.com",
             "english": "Scout",
             "translation": "Scout",
             "isDeprecated": false
@@ -14867,7 +14875,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Scout.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
             "english": "You played a Roblox game!",
             "translation": "You played a Roblox game!",
             "isDeprecated": false
@@ -14875,7 +14883,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Explorer.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is a name of a trophy (achievement, award, etc.) that you get for playing 5 experiences. It should be different from the translation for Scout and Trailblazer. It is the middle of the three trophies, so it would be good to have a name that is stronger than the name given to Scout, but weaker than the name given to Trailblazer in terms of achievement.\nModified by j.wang@roblox.com",
             "english": "Explorer",
             "translation": "Explorer",
             "isDeprecated": false
@@ -14883,15 +14891,15 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Explorer.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
-            "english": "You played 5 different Roblox games.",
-            "translation": "You played 5 different Roblox games.",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
+            "english": "You played 5 different Roblox games!",
+            "translation": "You played 5 different Roblox games!",
             "isDeprecated": false
         },
         {
             "namespace": "Feature.Trophies",
             "key": "Trailblazer.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the name of a trophy (achievement, award, etc.) that you get for playing 15 experiences. It should have a different name than Scout and Explorer, and ideally have the strongest sounding name in terms of accomplishment because it is the greatest of the three trophies (Scout is 1, Explorer is 5, and Trailblazer is 15).\nModified by j.wang@roblox.com",
             "english": "Trailblazer",
             "translation": "Trailblazer",
             "isDeprecated": false
@@ -14899,15 +14907,15 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Trailblazer.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
-            "english": "You played 15 different Roblox games.",
-            "translation": "You played 15 different Roblox games.",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
+            "english": "You played 15 different Roblox games!",
+            "translation": "You played 15 different Roblox games!",
             "isDeprecated": false
         },
         {
             "namespace": "Feature.Trophies",
             "key": "Pollster.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the name of a trophy (achievement, award, etc.) that you get for voting 5 times. It's a reference to a person who conducts polls.\nModified by j.wang@roblox.com",
             "english": "Pollster",
             "translation": "Pollster",
             "isDeprecated": false
@@ -14915,15 +14923,15 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Pollster.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
-            "english": "You rated 5 Roblox games.",
-            "translation": "You rated 5 Roblox games.",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
+            "english": "You rated 5 Roblox games!",
+            "translation": "You rated 5 Roblox games!",
             "isDeprecated": false
         },
         {
             "namespace": "Feature.Trophies",
             "key": "Marathon.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the name of a trophy (achievement, award, etc.) that you get for playing an experience for 1 hour. The name 'marathon' is used as a reference to playing for an extended period of time.\nModified by j.wang@roblox.com",
             "english": "Marathon",
             "translation": "Marathon",
             "isDeprecated": false
@@ -14931,7 +14939,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "Marathon.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
             "english": "You played a Roblox game for one hour!",
             "translation": "You played a Roblox game for one hour!",
             "isDeprecated": false
@@ -14939,7 +14947,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "OneNameManyFaces.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the name of a trophy (achievement, award, etc.) that you get for changing your avatar. It refers to the user only having one name, but being able to have many faces through changing their avatar.\nModified by j.wang@roblox.com",
             "english": "One Name, Many Faces",
             "translation": "One Name, Many Faces",
             "isDeprecated": false
@@ -14947,7 +14955,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "OneNameManyFaces.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
             "english": "You changed your avatar's look!",
             "translation": "You changed your avatar's look!",
             "isDeprecated": false
@@ -14955,7 +14963,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "StrengthInNumbers.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the name of a trophy (achievement, award, etc.) that you get for joining a PlayStation party and playing Roblox. Since joining a party means entering the experience with a larger number of people, we use \"strength in numbers\" to denote this trophy.\nModified by j.wang@roblox.com",
             "english": "Strength in Numbers",
             "translation": "Strength in Numbers",
             "isDeprecated": false
@@ -14963,15 +14971,15 @@
         {
             "namespace": "Feature.Trophies",
             "key": "StrengthInNumbers.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
-            "english": "You joined a PlayStation™Network party and played a Roblox game.",
-            "translation": "You joined a PlayStation™Network party and played a Roblox game.",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
+            "english": "You joined a PlayStation™Network party and played a Roblox game!",
+            "translation": "You joined a PlayStation™Network party and played a Roblox game!",
             "isDeprecated": false
         },
         {
             "namespace": "Feature.Trophies",
             "key": "FoursCompany.Name",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the name of a trophy (achievement, award, etc.) that you get for playing with three other friends, making four people in total, hence \"Four's Company.\"\nModified by j.wang@roblox.com",
             "english": "Four's Company",
             "translation": "Four's Company",
             "isDeprecated": false
@@ -14979,7 +14987,7 @@
         {
             "namespace": "Feature.Trophies",
             "key": "FoursCompany.Description",
-            "description": "Created by j.wang@roblox.com\nModified by j.wang@roblox.com",
+            "description": "This is the text that describes how the trophy can be / was unlocked (awarded).\nModified by j.wang@roblox.com",
             "english": "You played a Roblox game with 3 of your friends!",
             "translation": "You played a Roblox game with 3 of your friends!",
             "isDeprecated": false
@@ -15158,14 +15166,6 @@
             "description": "Warning title of the moderation prompt\nCreated by eli@roblox.com\nModified by vchuri@roblox.com\nCreated by eli@roblox.com\nModified by bdeng@roblox.com",
             "english": "Warning",
             "translation": "Warning",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "Feature.PaymentRedeem",
-            "key": "Response.RedeemGiftCardCurrencyCodeNotMatchV2",
-            "description": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.\nCreated by lxie@roblox.com",
-            "english": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
-            "translation": "Gift card currency must match your account location. You can review your account location in Settings. For any further issues, please contact {robloxSupportLinkStart}Roblox.com/support{robloxSupportLinkEnd}.",
             "isDeprecated": false
         },
         {
