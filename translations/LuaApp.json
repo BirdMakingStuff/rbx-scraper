@@ -578,6 +578,22 @@
         },
         {
             "namespace": "Authentication.Login",
+            "key": "Heading.LoginRobloxAccountSwitching",
+            "description": "Login page when there's already a user\nCreated by skwan@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Login To Existing Account",
+            "translation": "Login To Existing Account",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.Login",
+            "key": "Heading.ConfirmSignUp",
+            "description": "Confirmation modal title when users trying to sign up and switch to an U13 account.\nCreated by skwan@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Confirm Sign Up",
+            "translation": "Confirm Sign Up",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.Login",
             "key": "Lable.LinkAccount",
             "description": "Warning on the login screen explaining how account linking and unlinking works for 10ft UI\nCreated by wspencer@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by wspencer@roblox.com\nModified by bdeng@roblox.com",
             "english": "Your Roblox account will be linked to your {platform} account, and the next time you join, you will be logged in automatically! You can unlink from the Settings screen at any time. There may be a cool down before being able to link to a new account.",
@@ -598,6 +614,22 @@
             "description": "Warning on the login screen explaining how account linking and unlinking works for 10ft UI\nCreated by wspencer@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by wspencer@roblox.com\nModified by bdeng@roblox.com",
             "english": "Your Roblox account will be linked to your account on {platform}, and the next time you join, you will be logged in automatically! You can unlink from the Settings screen at any time. There may be a cool down before being able to link to a new account.",
             "translation": "Your Roblox account will be linked to your account on {platform}, and the next time you join, you will be logged in automatically! You can unlink from the Settings screen at any time. There may be a cool down before being able to link to a new account.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.Login",
+            "key": "Description.LogoutFirst",
+            "description": "Message shown on login form to tell users they must logout first in order to login to another account after they reach account switching limit.\nCreated by skwan@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "You must log out of an account first.",
+            "translation": "You must log out of an account first.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.Login",
+            "key": "Heading.YouHaveLoggedOut",
+            "description": "Heading on account switcher component that is shown when the user is logged\nCreated by wying@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by wying@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "You've Logged Out",
+            "translation": "You've Logged Out",
             "isDeprecated": false
         },
         {
@@ -7579,7 +7611,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreAll",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "All",
             "translation": "All",
             "isDeprecated": false
@@ -7587,7 +7619,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreBuilding",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Building",
             "translation": "Building",
             "isDeprecated": false
@@ -7595,7 +7627,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.LabelGenreHorror",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Horror",
             "translation": "Horror",
             "isDeprecated": false
@@ -7603,7 +7635,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.LabelGenreTownAndCity",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Town and City",
             "translation": "Town and City",
             "isDeprecated": false
@@ -7611,7 +7643,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreMilitary",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Military",
             "translation": "Military",
             "isDeprecated": false
@@ -7619,7 +7651,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreComedy",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Comedy",
             "translation": "Comedy",
             "isDeprecated": false
@@ -7627,7 +7659,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreMedieval",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Medieval",
             "translation": "Medieval",
             "isDeprecated": false
@@ -7635,7 +7667,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreAdventure",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Adventure",
             "translation": "Adventure",
             "isDeprecated": false
@@ -7643,7 +7675,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreSciFi",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Sci-Fi",
             "translation": "Sci-Fi",
             "isDeprecated": false
@@ -7651,7 +7683,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreNaval",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Naval",
             "translation": "Naval",
             "isDeprecated": false
@@ -7659,7 +7691,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreFPS",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "FPS",
             "translation": "FPS",
             "isDeprecated": false
@@ -7667,7 +7699,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreRPG",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "RPG",
             "translation": "RPG",
             "isDeprecated": false
@@ -7675,7 +7707,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.LabelGenreSports",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Sports",
             "translation": "Sports",
             "isDeprecated": false
@@ -7683,7 +7715,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreFighting",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Fighting",
             "translation": "Fighting",
             "isDeprecated": false
@@ -7691,7 +7723,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.GenreWestern",
-            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com",
+            "description": "Created by aavseyev@roblox.com\nModified by aavseyev@roblox.com\nCreated by aavseyev@roblox.com\nModified by bdeng@roblox.com\nModified by sscarnecchia@roblox.com",
             "english": "Western",
             "translation": "Western",
             "isDeprecated": false
@@ -23202,8 +23234,168 @@
         },
         {
             "namespace": "Authentication.AccountSwitch",
+            "key": "Heading.SwitchAccount",
+            "description": "Account switching modal header.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Switch Accounts",
+            "translation": "Switch Accounts",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Action.AddAccount",
+            "description": "Button to add account from account switching modal.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Add Account",
+            "translation": "Add Account",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Label.AddAccountWithoutLoggingOut",
+            "description": "Helper text for account switching modal.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "You can add a new account without logging out.",
+            "translation": "You can add a new account without logging out.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Action.LogoutAllAccounts",
+            "description": "Button for triggering logout on all logged in accounts.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Log Out of All Accounts",
+            "translation": "Log Out of All Accounts",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Label.AddOrSwitchAccount",
+            "description": "Helper text for account switching modal.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "You can switch to another account or add a new account without logging out.",
+            "translation": "You can switch to another account or add a new account without logging out.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Description.AccountLimit",
+            "description": "Message shown on the Account Switcher modal telling user they cannot add more accounts.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "To add another account, you’ll first need to log out of one.",
+            "translation": "To add another account, you’ll first need to log out of one.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Label.AccountLimitReached",
+            "description": "Message shown on the error modal on login and signup page telling users cannot add more account before logging out.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "You’ve added 5 accounts. To add another account, you’ll first need to log out of one.",
+            "translation": "You’ve added 5 accounts. To add another account, you’ll first need to log out of one.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Heading.AccountLimitReached",
+            "description": "Heading of switcher account modal or error modal when user is trying to add account while the account limit has reached and user must logout first before adding more account.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Account Limit Reached",
+            "translation": "Account Limit Reached",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Action.Add",
+            "description": "Button on switcher modal to start add account flow.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Add",
+            "translation": "Add",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Description.LogoutAllBody",
+            "description": "Describing what happens if a user confirms to logout of all accounts for Account Switching\nCreated by wlu@roblox.com\nModified by wlu@roblox.com\nCreated by wlu@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "To protect your account security, you will be logged out of all the accounts. You may log back in at any time.",
+            "translation": "To protect your account security, you will be logged out of all the accounts. You may log back in at any time.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Header.LogoutAllAccounts",
+            "description": "Created by wlu@roblox.com\nModified by wlu@roblox.com\nCreated by wlu@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Log Out of All Accounts",
+            "translation": "Log Out of All Accounts",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Heading.LogoutSuccessful",
+            "description": "Heading on account switcher modal that is shown when the user has logged out\nCreated by wying@roblox.com\nModified by wying@roblox.com\nCreated by wying@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Logout Successful",
+            "translation": "Logout Successful",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Label.LoggedOutAddOrSwitchAccount",
+            "description": "Helper text for logged-out account switcher\nCreated by wying@roblox.com\nModified by wying@roblox.com\nCreated by wying@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Switch to another account, or add a new account.",
+            "translation": "Switch to another account, or add a new account.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Heading.YouHaveLoggedOut",
+            "description": "Heading on account switcher component that is shown when the user is logged\nCreated by wying@roblox.com\nModified by wying@roblox.com\nCreated by wying@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "You've Logged Out",
+            "translation": "You've Logged Out",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Label.ChooseAccountToUse",
+            "description": "Helper text for account switching modal.\nCreated by wying@roblox.com\nModified by wying@roblox.com\nCreated by wying@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Choose a new account to use",
+            "translation": "Choose a new account to use",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Heading.AddAccount",
+            "description": "Heading text for a login form to add an account to the account switcher\nCreated by wying@roblox.com\nModified by wying@roblox.com\nCreated by wying@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Add Account",
+            "translation": "Add Account",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Description.AccountSwitchingNotWorking",
+            "description": "Error modal when account switcher service is down.\nCreated by skwan@roblox.com\nModified by wlu@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Account switching is not working. Try again later",
+            "translation": "Account switching is not working. Try again later",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Header.AccountSwitchingUnavailable",
+            "description": "Header of error modal when account switcher cannot be performed.\nCreated by skwan@roblox.com\nModified by wlu@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "Account switching unavailable",
+            "translation": "Account switching unavailable",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Description.InvalidAccountSwitch",
+            "description": "Body of error modal to show when user switched to an account with invalid cookie.\nCreated by skwan@roblox.com\nModified by wlu@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "This account cannot be switched to. Try log in directly.",
+            "translation": "This account cannot be switched to. Try log in directly.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Description.LogoutConfirmation",
+            "description": "Created by wlu@roblox.com\nModified by wlu@roblox.com\nCreated by wlu@roblox.com\nModified by bdeng@roblox.com\nModified by wlu@roblox.com",
+            "english": "You’ll need to log out of your other Roblox accounts on this device before adding a new account",
+            "translation": "You’ll need to log out of your other Roblox accounts on this device before adding a new account",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
             "key": "Description.ParentLogoutConfirmation",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com\nModified by wlu@roblox.com",
             "english": "You’ll need to log out of your other Roblox accounts on this device before adding a new account with parent privileges",
             "translation": "You’ll need to log out of your other Roblox accounts on this device before adding a new account with parent privileges",
             "isDeprecated": false
