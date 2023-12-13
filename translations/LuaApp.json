@@ -25039,6 +25039,14 @@
             "english": "Block {combinedName}",
             "translation": "Block {combinedName}",
             "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Call",
+            "key": "Label.Unfriend",
+            "description": "Used as a title for a dialog that asks user to confirm they will to unfriend the person with that name.\nCreated by joshuali@roblox.com",
+            "english": "Unfriend {combinedName}",
+            "translation": "Unfriend {combinedName}",
+            "isDeprecated": false
         }
     ],
     "locale": "en_us"
