@@ -9443,7 +9443,7 @@
     "EnablePendingPurchaseWithUserId": "True",
     "FFlagVoiceUpsellSeenModalFix": "True",
     "FFlagExploreApiSortsEnabledIXP2": "True",
-    "FFlagUniversalAppCameraEnabled4": "True",
+    "FFlagUniversalAppCameraEnabled4": "False",
     "FFlagEnableSocialServiceIrisInitCallPlacedUpdate": "True",
     "FFlagCFrameLookAlong": "True",
     "FFlagEnableMmapForMemProfStorageFlushing2": "False",
@@ -9730,7 +9730,7 @@
     "FFlagConvoAICleanupPt1": "True",
     "DFFlagHandleErrorAfterBackgrounding": "True",
     "FFlagAddConvAIPacketCountingTelemetry": "True",
-    "FFlagSessionHistoryMinorFix_Rollout": "True;30;2023-12-14T18:34:30",
+    "FFlagSessionHistoryMinorFix": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10091,8 +10091,8 @@
     "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
     "DFIntPerformanceControlInferenceInterval": "3000",
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-    "FStringFlagRepoGitHashFastString": "2433963d5be2972de1dc408a16df1183c423246b",
-    "DFStringFlagRepoGitHashDynamicString": "2433963d5be2972de1dc408a16df1183c423246b",
-    "FStringFlipTimeStampFastString": "2023-12-14T18:34:56.657Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-14T18:34:56.657Z"
+    "FStringFlagRepoGitHashFastString": "56d9ecfd9296a4a699141c5cb74d91df9a9ee016",
+    "DFStringFlagRepoGitHashDynamicString": "56d9ecfd9296a4a699141c5cb74d91df9a9ee016",
+    "FStringFlipTimeStampFastString": "2023-12-14T19:11:47.066Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-14T19:11:47.066Z"
 }
