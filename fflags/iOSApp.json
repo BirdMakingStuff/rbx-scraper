@@ -9324,7 +9324,7 @@
     "DFIntLogExperienceLaunchAttemptThrottleHundredthsPercentage": "100",
     "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
     "FFlagVoiceInputUseNewAudioApi5": "False",
-    "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287",
+    "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287;15641495506;15641505624",
     "FFlagAvatarBackgroundManagementOptional": "True",
     "FFlagXboxFixTextBoxesOnReturnToApp": "True",
     "FFlagEnableSubscriptionCompactTitle": "True",
@@ -9737,6 +9737,7 @@
     "FFlagInstallerBufSizeCalculation": "True",
     "FFlagImporterStringView": "True",
     "FFlagUniformClusterSize": "True",
+    "DFFlagSimGroundControllerTurningLogicFix_Rollout": "False;60;2023-12-15T19:12:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10097,8 +10098,8 @@
     "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
     "DFIntPerformanceControlInferenceInterval": "3000",
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-    "FStringFlagRepoGitHashFastString": "01c6bcb055d62fd7907e0ad3065b834e41250afd",
-    "DFStringFlagRepoGitHashDynamicString": "01c6bcb055d62fd7907e0ad3065b834e41250afd",
-    "FStringFlipTimeStampFastString": "2023-12-15T00:33:47.483Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-15T00:33:47.483Z"
+    "FStringFlagRepoGitHashFastString": "101315c6f943f0441fa2415539f0f41bb10f24ab",
+    "DFStringFlagRepoGitHashDynamicString": "101315c6f943f0441fa2415539f0f41bb10f24ab",
+    "FStringFlipTimeStampFastString": "2023-12-15T19:12:49.484Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-15T19:12:49.484Z"
 }
