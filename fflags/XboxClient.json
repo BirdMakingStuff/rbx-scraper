@@ -9736,7 +9736,6 @@
     "DFFlagTeamCreateStringView": "True",
     "FFlagInstallerBufSizeCalculation": "True",
     "FFlagImporterStringView": "True",
-    "FFlagUniformClusterSize": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10049,8 +10048,8 @@
     "FFlagXboxLastKnownStateTrackingEnabled": "True",
     "FFlagHookUgcGameDidClose": "True",
     "FFlagXboxLastKnownStateFlushOnSuspend": "True",
-    "FStringFlagRepoGitHashFastString": "101315c6f943f0441fa2415539f0f41bb10f24ab",
-    "DFStringFlagRepoGitHashDynamicString": "101315c6f943f0441fa2415539f0f41bb10f24ab",
-    "FStringFlipTimeStampFastString": "2023-12-15T19:12:49.484Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-15T19:12:49.484Z"
+    "FStringFlagRepoGitHashFastString": "11b4e1f403fe70fad4350cfefea9c74bb0870cdf",
+    "DFStringFlagRepoGitHashDynamicString": "11b4e1f403fe70fad4350cfefea9c74bb0870cdf",
+    "FStringFlipTimeStampFastString": "2023-12-15T21:25:43.604Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-15T21:25:43.604Z"
 }
