@@ -9041,7 +9041,6 @@
     "FFlagFocusScrollAreaOnNewMessage": "False",
     "FFlagLuaAppSessionUseGetActiveRoute2": "True",
     "FFlagBetaSupportAutoenrollSetting": "True",
-    "FLogStudioQtCategoryLog_qtitan_docking": "Verbose",
     "FFlagFixMaterialGenErrorUX": "True",
     "FFlagUseNewMaterialConvAIUX": "True",
     "FFlagLuaAppResetNavigationHistoryLanding": "True",
@@ -10022,8 +10021,8 @@
     "DFIntHttpCacheCleanCheckAfterKB": "524288",
     "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
     "FFlagHttpCacheCleanSpaceOnly": "True",
-    "FStringFlagRepoGitHashFastString": "5e699294e410a2b26c25ea8f7bb9dac06f6bbf7c",
-    "DFStringFlagRepoGitHashDynamicString": "5e699294e410a2b26c25ea8f7bb9dac06f6bbf7c",
-    "FStringFlipTimeStampFastString": "2023-12-14T22:48:36.705Z",
-    "DFStringFlipTimeStampDynamicString": "2023-12-14T22:48:36.705Z"
+    "FStringFlagRepoGitHashFastString": "01c6bcb055d62fd7907e0ad3065b834e41250afd",
+    "DFStringFlagRepoGitHashDynamicString": "01c6bcb055d62fd7907e0ad3065b834e41250afd",
+    "FStringFlipTimeStampFastString": "2023-12-15T00:33:47.483Z",
+    "DFStringFlipTimeStampDynamicString": "2023-12-15T00:33:47.483Z"
 }
