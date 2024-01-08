@@ -9736,8 +9736,6 @@
     "FFlagInstallerBufSizeCalculation": "True",
     "FFlagImporterStringView": "True",
     "FFlagFacialAnimationStreamingCheckPauseStateWhenCreatingTrack": "True",
-    "DFFlagSimSolverGeometricStiffnessMassFix_Rollout": "True;60;2024-01-08T18:11:53",
-    "FFlagFixCtrlShiftFCrash_Rollout": "True;60;2024-01-08T18:29:34",
     "DFFlagOptimizeComputeIsCollide": "True",
     "DFFlagOptimizeComputeIsCollideFeaturePoly": "True",
     "FFlagRVideoRefactorRvByteBuff_Rollout": "True;60;2024-01-08T18:43:07",
@@ -9746,6 +9744,8 @@
     "DFIntVoiceChatV2ControlPlaneMaxOperationExecutionPerRun_Rollout": "5000;60;2024-01-08T18:56:36",
     "FFlagVector2Idiv_Rollout": "True;60;2024-01-08T18:58:43",
     "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges_Rollout": "True;60;2024-01-08T19:05:38",
+    "DFFlagSimSolverGeometricStiffnessMassFix": "True",
+    "FFlagFixCtrlShiftFCrash": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10173,8 +10173,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "5ea2241271b8d0c836902290939c1e79223652bd",
-    "DFStringFlagRepoGitHashDynamicString": "5ea2241271b8d0c836902290939c1e79223652bd",
-    "FStringFlipTimeStampFastString": "2024-01-08T19:06:01.314Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-08T19:06:01.314Z"
+    "FStringFlagRepoGitHashFastString": "d91884f51bc52f90f82fa255ea70721b67d4880e",
+    "DFStringFlagRepoGitHashDynamicString": "d91884f51bc52f90f82fa255ea70721b67d4880e",
+    "FStringFlipTimeStampFastString": "2024-01-08T19:36:14.781Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-08T19:36:14.781Z"
 }
