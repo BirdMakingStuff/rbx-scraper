@@ -9748,7 +9748,6 @@
     "FFlagEnableWearAfterPurchaseDefaultChecked": "True",
     "FFlagQrCodeScannerEnabledForAll": "True",
     "FFlagVideoUseRvInputFormat2": "True",
-    "FFlagVideoUseRvInputFormatInCaptureMock_Rollout": "True;60;2024-01-08T22:12:28",
     "FFlagVideoVisibilityAdd2DGui": "True",
     "DFIntVoiceChatControlPlaneOperationTimeoutFrames_Rollout": "7200;60;2024-01-08T22:34:09",
     "DFFlagFixELFFlowDurationInST": "True",
@@ -9762,6 +9761,8 @@
     "FFlagScriptEditorDetectUserNotInSession": "True",
     "FFlagVideoHttpCacheMetrics": "True",
     "FFlagVideoTrackWastedBytes": "True",
+    "FFlagVideoUseRvInputFormatInCaptureMock": "True",
+    "FStringConversationScreenRenderedCounter": "ConversationScreenRenderedAndroid",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10190,8 +10191,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "c618ac0f819b3c10b80fed0e0c9dc945cc7a52f4",
-    "DFStringFlagRepoGitHashDynamicString": "c618ac0f819b3c10b80fed0e0c9dc945cc7a52f4",
-    "FStringFlipTimeStampFastString": "2024-01-08T23:16:26.323Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-08T23:16:26.323Z"
+    "FStringFlagRepoGitHashFastString": "987d442fd7e7d9f584672b2485b1caeb339128b5",
+    "DFStringFlagRepoGitHashDynamicString": "987d442fd7e7d9f584672b2485b1caeb339128b5",
+    "FStringFlipTimeStampFastString": "2024-01-08T23:29:42.955Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-08T23:29:42.955Z"
 }
