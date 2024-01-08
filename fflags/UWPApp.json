@@ -9747,7 +9747,6 @@
     "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges": "True",
     "FFlagEnableWearAfterPurchaseDefaultChecked": "True",
     "FFlagQrCodeScannerEnabledForAll": "True",
-    "FFlagVideoVisibilityAdd2DGui_Rollout": "True;60;2024-01-08T21:10:43",
     "FFlagVideoUseRvInputFormat2": "True",
     "DFFlagFixELFFlowDurationInST_Rollout": "True;60;2024-01-08T21:41:35",
     "DFFlagSkipReportingFailedELFInSessionTrackingDueToCrash_Rollout": "True;60;2024-01-08T21:41:35",
@@ -9756,6 +9755,8 @@
     "FFlagVideoHttpCacheMetrics_Rollout": "True;60;2024-01-08T22:12:22",
     "FFlagVideoUseRvInputFormatInCaptureMock_Rollout": "True;60;2024-01-08T22:12:28",
     "FFlagScriptEditorDetectUserNotInSession_Rollout": "True;30;2024-01-08T22:13:49",
+    "FFlagVideoVisibilityAdd2DGui": "True",
+    "DFIntVoiceChatControlPlaneOperationTimeoutFrames_Rollout": "7200;60;2024-01-08T22:34:09",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9950,8 +9951,8 @@
     "DFIntTaskSchedulerJobRetryCount": "1",
     "FStringRealtimeClientTargetName": "windows_universal",
     "FFlagRuntimeEnabled2": "True",
-    "FStringFlagRepoGitHashFastString": "2174745435349867a114af2305ba1ccfcba7297e",
-    "DFStringFlagRepoGitHashDynamicString": "2174745435349867a114af2305ba1ccfcba7297e",
-    "FStringFlipTimeStampFastString": "2024-01-08T22:14:21.063Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-08T22:14:21.063Z"
+    "FStringFlagRepoGitHashFastString": "b3121d32fd26b3071c963aa2cd62d8b5b82d04d0",
+    "DFStringFlagRepoGitHashDynamicString": "b3121d32fd26b3071c963aa2cd62d8b5b82d04d0",
+    "FStringFlipTimeStampFastString": "2024-01-08T22:36:27.566Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-08T22:36:27.566Z"
 }
