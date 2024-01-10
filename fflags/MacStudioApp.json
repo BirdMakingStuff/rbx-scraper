@@ -9801,9 +9801,13 @@
     "FFlagUseRoduxCall18": "True",
     "FFlagCallBarNameFallback": "True",
     "DFFlagSimSolverSimulateEligibleConstraintsRigidlyForIkDrag": "True",
-    "FFlagStudioDockPanelDockingInEmptyCentralPane_Rollout": "True;5;2024-01-10T20:11:21",
     "FFlagBroadphaseMovedPrimitiveCleanup_Rollout": "True;60;2024-01-10T20:14:44",
     "DFFlagDisableCheckGenerateBroadphasePairs_Rollout": "True;60;2024-01-10T20:14:58",
+    "FFlagStudioDockPanelDockingInEmptyCentralPane": "True",
+    "FIntRoactChatEventSampleRatePermanent": "20",
+    "FFlagEnableSocialRoactChatAnalyticsV607": "True",
+    "FFlagSocialRoactChatAnalyticsChatLandingEventsV607": "True",
+    "FFlagStudioReportNewDockingBFStateToTelemetry": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10112,8 +10116,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "DFLogTrackHttpRequest": "0",
     "FFlagRefactorGuiRTCacheImpl2": "False",
-    "FStringFlagRepoGitHashFastString": "3548fa29325d5a58d7f572fa0fcdf5b7e79d4a58",
-    "DFStringFlagRepoGitHashDynamicString": "3548fa29325d5a58d7f572fa0fcdf5b7e79d4a58",
-    "FStringFlipTimeStampFastString": "2024-01-10T20:15:23.673Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-10T20:15:23.673Z"
+    "FStringFlagRepoGitHashFastString": "50359c54e117e9f2cbd6f4cfd2264393ad2fd29a",
+    "DFStringFlagRepoGitHashDynamicString": "50359c54e117e9f2cbd6f4cfd2264393ad2fd29a",
+    "FStringFlipTimeStampFastString": "2024-01-10T20:35:01.654Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-10T20:35:01.654Z"
 }
