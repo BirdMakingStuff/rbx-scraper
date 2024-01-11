@@ -9873,6 +9873,11 @@
     "FFlagScriptContextThreadFootprint_Rollout": "True;60;2024-01-11T17:05:59",
     "FFlagLuauLspSetupLimits_Rollout": "True;60;2024-01-11T17:09:22",
     "FFlagStudioPluginWidgetWeakPtr_Rollout": "True;60;2024-01-11T17:10:27",
+    "DFFlagScriptContextTakeLockInGetMemoryCategorySize_Rollout": "True;30;2024-01-11T17:16:55",
+    "FFlagScriptContextNewDumpFunctions_Rollout": "True;30;2024-01-11T17:18:08",
+    "DFFlagNewScriptContextCaptureFix_Rollout": "True;30;2024-01-11T17:19:15",
+    "FFlagFixMaterialVariantNotSettingMaterial_Rollout": "True;60;2024-01-11T17:22:37",
+    "DFFlagServerStatsPeerCheck_Rollout": "True;60;2024-01-11T17:27:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10270,8 +10275,8 @@
     "FFlagEnableNavbarLabelExperiment": "False",
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
     "FFlagDebugForceFSMCPULightCulling": "True",
-    "FStringFlagRepoGitHashFastString": "15dff4d5d61d091c5322f2bbd775b39c01ea43d1",
-    "DFStringFlagRepoGitHashDynamicString": "15dff4d5d61d091c5322f2bbd775b39c01ea43d1",
-    "FStringFlipTimeStampFastString": "2024-01-11T17:10:56.091Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-11T17:10:56.091Z"
+    "FStringFlagRepoGitHashFastString": "b418a1bde54889c1ae21e3811c0230c73902d85b",
+    "DFStringFlagRepoGitHashDynamicString": "b418a1bde54889c1ae21e3811c0230c73902d85b",
+    "FStringFlipTimeStampFastString": "2024-01-11T17:28:11.175Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-11T17:28:11.175Z"
 }
