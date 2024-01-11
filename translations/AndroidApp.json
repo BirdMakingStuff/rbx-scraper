@@ -9193,6 +9193,30 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.NotApproved",
+            "key": "Description.AutomatedDetectionAutomatedDecision",
+            "description": "Used for consequence transparency for the European Union Digital Services Act. This is the messaging for when the detection and decision were both automated.",
+            "english": "This policy violation was detected by automated means, and we used automation when making this decision",
+            "translation": "This policy violation was detected by automated means, and we used automation when making this decision",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.NotApproved",
+            "key": "Description.AutomatedDetectionManualDecision",
+            "description": "Used for consequence transparency for the European Union Digital Services Act. This is the messaging for when the detection was automated and the decision was manual.",
+            "english": "This policy violation was detected by automated means",
+            "translation": "This policy violation was detected by automated means",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.NotApproved",
+            "key": "Description.ManualDetectionAutomatedDecision",
+            "description": "Used for consequence transparency for the European Union Digital Services Act. This is the messaging for when the detection was manual and the decision was automated.",
+            "english": "We used automation when making this decision",
+            "translation": "We used automation when making this decision",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.VerificationUpsell",
             "key": "Action.GenericSkip",
             "description": "Created by wyao@roblox.com\nModified by czhang@roblox.com\nCreated by wyao@roblox.com\nModified by bdeng@roblox.com",
