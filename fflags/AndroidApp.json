@@ -9930,6 +9930,8 @@
     "FFlagSocialRoactChatAnalyticsChatConversationEventsV607": "True",
     "FFlagAddStreamingMemoryThresholdsToIXP": "True",
     "FFlagRestartFmodRecordingOnError": "True",
+    "DFFlagDropRateLimitedUREs_Rollout": "True;60;2024-01-12T19:42:11",
+    "DFFlagShowTunableStreamingDebug_Rollout": "True;60;2024-01-12T19:54:29",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10327,8 +10329,8 @@
     "FFlagEnableNavbarLabelExperiment": "False",
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
     "FFlagDebugForceFSMCPULightCulling": "True",
-    "FStringFlagRepoGitHashFastString": "774db559127886a73bf5f34415684cbd11e55693",
-    "DFStringFlagRepoGitHashDynamicString": "774db559127886a73bf5f34415684cbd11e55693",
-    "FStringFlipTimeStampFastString": "2024-01-12T19:34:18.259Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-12T19:34:18.259Z"
+    "FStringFlagRepoGitHashFastString": "17ada4bcf6cff08a16a3f90211fb70fcb40b9146",
+    "DFStringFlagRepoGitHashDynamicString": "17ada4bcf6cff08a16a3f90211fb70fcb40b9146",
+    "FStringFlipTimeStampFastString": "2024-01-12T20:06:25.375Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-12T20:06:25.375Z"
 }
