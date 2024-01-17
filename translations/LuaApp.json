@@ -9193,6 +9193,22 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.ReportAbuse",
+            "key": "DSAIllegal.ReportLink",
+            "description": "This link allows users to access a web page where we can report illegal content on the platform. This is a requirement according to the EU DSA",
+            "english": "Report illegal content under the EU Digital Services Act.",
+            "translation": "Report illegal content under the EU Digital Services Act.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.ReportAbuse",
+            "key": "DSAIllegal.ReportPageTitle",
+            "description": "Reporting page title once we click on a link to report illegal content according to EU DSA requirements",
+            "english": "Report Illegal Content",
+            "translation": "Report Illegal Content",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.ServerList",
             "key": "Heading.OtherServers",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -20198,6 +20214,14 @@
             "description": "Title for default upgraded agreement, when there is no corresponding type on client that could be used to display as the agreement title.\nCreated by twan@roblox.com\nModified by twan@roblox.com\nCreated by twan@roblox.com\nModified by bdeng@roblox.com",
             "english": "Updated Agreement",
             "translation": "Updated Agreement",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "CommonUI.UserAgreements",
+            "key": "Modal.Agreement.TermsOfService",
+            "description": "Agreement name for Terms of Service\nCreated by djoss@roblox.com\nModified by djoss@roblox.com\nCreated by djoss@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Terms of Service",
+            "translation": "Terms of Service",
             "isDeprecated": false
         },
         {
