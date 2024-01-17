@@ -9658,6 +9658,22 @@
         },
         {
             "namespace": "Application.Deprecation",
+            "key": "OpenGLES2DeprecationTitleDeadlinePhase",
+            "description": "Created by ygao@roblox.com",
+            "english": "Your device is going out of date",
+            "translation": "Your device is going out of date",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Application.Deprecation",
+            "key": "OpenGLES2DeprecationTitleDeprecatedPhase",
+            "description": "Created by ygao@roblox.com",
+            "english": "Your device is out of date",
+            "translation": "Your device is out of date",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Application.Deprecation",
             "key": "SystemRequirementsText",
             "description": "Created by ygao@roblox.com",
             "english": "Roblox’s system requirements",
