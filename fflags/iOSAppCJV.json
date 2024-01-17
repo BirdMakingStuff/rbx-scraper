@@ -9991,6 +9991,11 @@
     "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2024-01-17T19:12:33",
     "DFFlagFlagRolloutTestDynamicBool6_Rollout": "False;60;2024-01-17T19:13:24",
     "DFFlagFlagRolloutTestDynamicBool5_Rollout": "True;60;2024-01-17T19:13:56",
+    "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2024-01-17T19:14:22",
+    "FFlagSessionStringReflection_Rollout": "True;30;2024-01-17T19:15:47",
+    "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-01-17T19:17:04",
+    "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;60;2024-01-17T19:18:20",
+    "FFlagEnableGameInviteModalModalSizeFix": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10390,8 +10395,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "832bb37898ae26ec873ab0df875831c1b1df685d",
-    "DFStringFlagRepoGitHashDynamicString": "832bb37898ae26ec873ab0df875831c1b1df685d",
-    "FStringFlipTimeStampFastString": "2024-01-17T19:14:35.680Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-17T19:14:35.680Z"
+    "FStringFlagRepoGitHashFastString": "9fd65230f6f9e42a8e63fc99feb7968bc5b38c63",
+    "DFStringFlagRepoGitHashDynamicString": "9fd65230f6f9e42a8e63fc99feb7968bc5b38c63",
+    "FStringFlipTimeStampFastString": "2024-01-17T19:33:34.625Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-17T19:33:34.625Z"
 }

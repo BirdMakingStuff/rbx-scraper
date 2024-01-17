@@ -9990,6 +9990,12 @@
     "FFlagFlagRolloutTestStaticBool3_Rollout": "True;60;2024-01-17T19:12:11",
     "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2024-01-17T19:12:33",
     "DFFlagFlagRolloutTestDynamicBool6_Rollout": "False;60;2024-01-17T19:13:24",
+    "DFFlagFlagRolloutTestDynamicBool5_Rollout": "True;60;2024-01-17T19:13:56",
+    "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2024-01-17T19:14:22",
+    "FFlagSessionStringReflection_Rollout": "True;30;2024-01-17T19:15:47",
+    "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-01-17T19:17:04",
+    "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;60;2024-01-17T19:18:20",
+    "FFlagEnableGameInviteModalModalSizeFix": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10280,8 +10286,8 @@
     "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
     "FFlagHttpCacheCleanSpaceOnly": "True",
     "FFlagRuntimeEnabled3": "True",
-    "FStringFlagRepoGitHashFastString": "f99e8fc1bbc73d32a3b2ef031b4b69a6ca2cde0f",
-    "DFStringFlagRepoGitHashDynamicString": "f99e8fc1bbc73d32a3b2ef031b4b69a6ca2cde0f",
-    "FStringFlipTimeStampFastString": "2024-01-17T19:13:50.557Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-17T19:13:50.557Z"
+    "FStringFlagRepoGitHashFastString": "9fd65230f6f9e42a8e63fc99feb7968bc5b38c63",
+    "DFStringFlagRepoGitHashDynamicString": "9fd65230f6f9e42a8e63fc99feb7968bc5b38c63",
+    "FStringFlipTimeStampFastString": "2024-01-17T19:33:34.625Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-17T19:33:34.625Z"
 }
