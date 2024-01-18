@@ -10380,8 +10380,8 @@
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
     "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
     "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
-    "FStringFlagRepoGitHashFastString": "65af1cccbc8997303d461bf9a2550bfded6d285b",
-    "DFStringFlagRepoGitHashDynamicString": "65af1cccbc8997303d461bf9a2550bfded6d285b",
-    "FStringFlipTimeStampFastString": "2024-01-18T17:14:56.675Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-18T17:14:56.675Z"
+    "FStringFlagRepoGitHashFastString": "d19269879eef30cd9ec72dd8e2e03a41432b42e9",
+    "DFStringFlagRepoGitHashDynamicString": "d19269879eef30cd9ec72dd8e2e03a41432b42e9",
+    "FStringFlipTimeStampFastString": "2024-01-18T17:28:01.541Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-18T17:28:01.541Z"
 }
