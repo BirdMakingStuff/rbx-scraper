@@ -10374,6 +10374,7 @@
     "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
     "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
     "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
+    "FFlagGpuGeometryManager12": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -10411,8 +10412,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "82dcbb19fbc697124e53683444fea122d5af3b27",
-    "DFStringFlagRepoGitHashDynamicString": "82dcbb19fbc697124e53683444fea122d5af3b27",
-    "FStringFlipTimeStampFastString": "2024-01-18T18:22:24.414Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-18T18:22:24.414Z"
+    "FStringFlagRepoGitHashFastString": "19d25b57ebc578a1338491772c0adc5c899a6c76",
+    "DFStringFlagRepoGitHashDynamicString": "19d25b57ebc578a1338491772c0adc5c899a6c76",
+    "FStringFlipTimeStampFastString": "2024-01-18T18:22:55.572Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-18T18:22:55.572Z"
 }
