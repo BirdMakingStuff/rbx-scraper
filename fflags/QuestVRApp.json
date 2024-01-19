@@ -7461,7 +7461,7 @@
     "FFlagFixDoubleSpacesAfterPrefixText": "True",
     "FFlagHideLocalPlayerControlBubbleForVR": "True",
     "FFlagUpgradeExpChatV4_1_10": "True",
-    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
+    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
     "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
     "FFlagGridDesignTokens3": "True",
     "FFlagTenFootUiMoreSettings": "True",
