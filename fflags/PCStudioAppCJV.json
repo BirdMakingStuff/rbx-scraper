@@ -10035,6 +10035,7 @@
     "FFlagSelfViewHumanoidNilCheck": "True",
     "DFFlagImprovedModelStreamingRevisitFix": "True",
     "DFFlagTeleportFailOnPermissionResetBugFix": "True",
+    "DFIntWaitLiveScriptingRemoteEventPeriodMs": "20000",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10356,8 +10357,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "d9dc0368e70c026e6e2753f7812dbfc0e0d64b14",
-    "DFStringFlagRepoGitHashDynamicString": "d9dc0368e70c026e6e2753f7812dbfc0e0d64b14",
-    "FStringFlipTimeStampFastString": "2024-01-19T23:21:17.350Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-19T23:21:17.350Z"
+    "FStringFlagRepoGitHashFastString": "97f88ac0948e6db4e73a754238606892a3bab1c6",
+    "DFStringFlagRepoGitHashDynamicString": "97f88ac0948e6db4e73a754238606892a3bab1c6",
+    "FStringFlipTimeStampFastString": "2024-01-20T01:38:01.082Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-20T01:38:01.082Z"
 }
