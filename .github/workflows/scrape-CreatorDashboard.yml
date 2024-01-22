@@ -23,6 +23,7 @@ jobs:
         run: |
           git config --global user.name "gh-actions-rbxscraper"
           git config --global user.email "<>"
+          git pull
           git add -A
           git diff --exit-code --cached || git commit -a -m "`date`"
           git push
