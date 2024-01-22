@@ -1,4 +1,4 @@
-name: actions_scrape
+name: actions_scrape_CreatorDashboard
 run-name: "Scrape translations from Creator Dashboard"
 on:
   schedule:
