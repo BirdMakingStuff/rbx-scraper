@@ -52,8 +52,8 @@ namespaces = [
 
 folderLocation = "/home/runner/work/rbx-scraper/rbx-scraper/translations"
 
-if not os.path.exists(translationStringFolderLocation):
-    os.mkdir(translationStringFolderLocation)
+if not os.path.exists(folderLocation):
+    os.mkdir(folderLocation)
 
 if not os.path.exists(folderLocation + "/CreatorDashboard"):
     os.mkdir(folderLocation + "/CreatorDashboard")
