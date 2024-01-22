@@ -52,6 +52,8 @@ namespaces = [
 "PlaceThumbnail",
 "DeveloperItem",
 "Places",
+"Landing",
+"RoadMap",
 ]
 
 folderLocation = "/home/runner/work/rbx-scraper/rbx-scraper/translations"
