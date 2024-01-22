@@ -7461,7 +7461,7 @@
     "FFlagFixDoubleSpacesAfterPrefixText": "True",
     "FFlagHideLocalPlayerControlBubbleForVR": "True",
     "FFlagUpgradeExpChatV4_1_10": "True",
-    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+    "FStringPerformanceControlIncludedTunables": "None",
     "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
     "FFlagGridDesignTokens3": "True",
     "FFlagTenFootUiMoreSettings": "True",
@@ -10037,6 +10037,7 @@
     "DFFlagTeleportFailOnPermissionResetBugFix": "True",
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "20000",
     "AllowVideoPreRoll": "True",
+    "FFlagCapturesLogIsUnder13FromContext": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -10357,8 +10358,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "97f88ac0948e6db4e73a754238606892a3bab1c6",
-    "DFStringFlagRepoGitHashDynamicString": "97f88ac0948e6db4e73a754238606892a3bab1c6",
-    "FStringFlipTimeStampFastString": "2024-01-20T01:38:01.082Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-20T01:38:01.082Z"
+    "FStringFlagRepoGitHashFastString": "299dd313a55591a35ca03a0f00222e022fad2576",
+    "DFStringFlagRepoGitHashDynamicString": "299dd313a55591a35ca03a0f00222e022fad2576",
+    "FStringFlipTimeStampFastString": "2024-01-22T17:16:13.720Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-22T17:16:13.720Z"
 }

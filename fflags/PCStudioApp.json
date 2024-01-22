@@ -10037,6 +10037,7 @@
     "DFFlagTeleportFailOnPermissionResetBugFix": "True",
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "20000",
     "AllowVideoPreRoll": "True",
+    "FFlagCapturesLogIsUnder13FromContext": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -10348,8 +10349,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "97f88ac0948e6db4e73a754238606892a3bab1c6",
-    "DFStringFlagRepoGitHashDynamicString": "97f88ac0948e6db4e73a754238606892a3bab1c6",
-    "FStringFlipTimeStampFastString": "2024-01-20T01:38:01.082Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-20T01:38:01.082Z"
+    "FStringFlagRepoGitHashFastString": "fa8f3a5806ffb386c3618a4519710a67574c2831",
+    "DFStringFlagRepoGitHashDynamicString": "fa8f3a5806ffb386c3618a4519710a67574c2831",
+    "FStringFlipTimeStampFastString": "2024-01-22T17:15:43.342Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-22T17:15:43.342Z"
 }
