@@ -1,0 +1,10 @@
+﻿{
+    "Heading.TranslatorPortal": "Translator Portal",
+    "Label.SortOptionAlphabetical": "Alphabetical",
+    "Message.FailToLoadPage": "Failed to load the page",
+    "Message.NoGameTranslated": "You have not yet translated any experiences here",
+    "Message.NetworkError": "Something went wrong! Try again later. Status code: {status}",
+    "Label.TranslatorAccessWarning": "Currently, this page shows all experiences that have given you or your group translator access.",
+    "Message.TranslatorAccessWarning": "We are working on adding more privacy and permission controls. {startLink}Learn more.{endLink}",
+    "Message.NoExperiencesAdded": "You have not been added as a translator for any experience yet"
+}
