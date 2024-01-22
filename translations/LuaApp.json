@@ -2932,8 +2932,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.ReportAppeals",
             "description": "Should be the same as Feature.AppealsPortal.Label.ReportAndAppeals\nCreated by abech@roblox.com",
-            "english": "Reporting & Appeals",
-            "translation": "Reporting & Appeals",
+            "english": "Violations & Appeals",
+            "translation": "Violations & Appeals",
             "isDeprecated": false
         },
         {
@@ -20539,9 +20539,9 @@
         {
             "namespace": "Feature.Moderation",
             "key": "Messages.AppealV2",
-            "description": "Tell the user that they can appeal their moderation. \"Reporting & Appeals\" should match CommonUI.Features.Label.ReportAppeals translation.\nCreated by abech@roblox.com\nModified by abech@roblox.com",
-            "english": "If you wish to appeal, please go to Reporting & Appeals.",
-            "translation": "If you wish to appeal, please go to Reporting & Appeals.",
+            "description": "Tell the user that they can appeal their moderation. \"Violations & Appeals\" should match CommonUI.Features.Label.ReportAppeals translation.\nCreated by abech@roblox.com\nModified by abech@roblox.com",
+            "english": "If you wish to appeal, please go to Violations & Appeals.",
+            "translation": "If you wish to appeal, please go to Violations & Appeals.",
             "isDeprecated": false
         },
         {
@@ -24771,9 +24771,9 @@
         {
             "namespace": "Feature.AppealsPortal",
             "key": "Label.ReportAndAppeals",
-            "description": "Page title for Reporting & Appeals portal\nCreated by abech@roblox.com\nModified by abech@roblox.com\nCreated by abech@roblox.com\nModified by bdeng@roblox.com",
-            "english": "Reporting & Appeals",
-            "translation": "Reporting & Appeals",
+            "description": "Page title for Violations & Appeals portal\nCreated by abech@roblox.com\nModified by abech@roblox.com\nCreated by abech@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Violations & Appeals",
+            "translation": "Violations & Appeals",
             "isDeprecated": false
         },
         {
