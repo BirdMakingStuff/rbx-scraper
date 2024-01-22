@@ -65,7 +65,7 @@
     "Label.OpenCloudOnboardingScope": "Open Cloud Tutorial Scope",
     "OperationDescription.GroupsAPIRead": "This allows viewing information about your groups.",
     "Label.MemoryStores": "Memory Stores",
-    "Label.UniversePlaceInstances": "Engine",
+    "Label.UniversePlaceInstances": "Engine (Beta)",
     "Label.UniversePlaceInstance": "universe.place.instance",
     "Label.openDialog": "open dialog",
     "Label.Settings": "Settings",
@@ -83,5 +83,18 @@
     "Label.Universes.ReadOperation": "Read Universes",
     "Label.Universes.WriteOperation": "Write Universes",
     "Label.Places.ReadOperation": "Read Places",
-    "Label.Places.WriteOperation": "Write Places"
+    "Label.Places.WriteOperation": "Write Places",
+    "OperationDescription.UniversePlacesAPIRead": "Grants the ability to read place information.",
+    "OperationDescription.UniversePlacesAPIWrite": "Grants the ability to edit place information.",
+    "OperationDescription.UniversesAPIRead": "Grants the ability to read experience information.",
+    "OperationDescription.UniversesAPIWrite": "Grants the ability to edit experience information.",
+    "OperationDescription.UsersAdvancedRead": "Grants the ability to read user's premium and verified status.",
+    "OperationDescription.UsersSocialRead": "This allows you to view a user's social accounts.",
+    "Label.MemoryStoreHashMap": "HASH MAP",
+    "Label.CreatorStoreProducts": "Creator Store Products",
+    "OperationDescription.CreatorStoreProductsAPIRead": "This allows you to view information about your Creator Store products.",
+    "OperationDescription.CreatorStoreProductsAPIWrite": "This allows you to modify information about your Creator Store products.",
+    "OperationDescription.NotificationsAPIWrite": "This allows sending notifications from your experience to users",
+    "Label.UserRestriction": "User Restriction",
+    "Label.UserRestrictions": "User Restrictions"
 }

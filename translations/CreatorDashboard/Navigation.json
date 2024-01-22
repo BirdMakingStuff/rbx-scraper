@@ -175,5 +175,10 @@
     "Heading.SponsoredItemAds": "Sponsored Items",
     "Heading.OpenOnRoblox": "Open on Roblox",
     "Heading.OpenInCreatorStore": "Open in Creator Store",
-    "Heading.Store": "Store"
+    "Heading.Store": "Store",
+    "Heading.CommunicationSettings": "Communication Settings",
+    "Heading.PricedAssets": "Priced Assets",
+    "Heading.Eligibility": "Eligibility",
+    "Description.Eligibility": "Copy relevant to tools that will enhance creation on Roblox ",
+    "Heading.CreatorStore": "Store"
 }

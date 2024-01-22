@@ -117,5 +117,6 @@
     "TestDescription.ExperienceSubscriptionAnalytics": "Subscriptions let you offer special benefits or exclusive rewards that users can access on an ongoing basis and automatically renew until canceled. {linkStart}Learn more{linkEnd}. Data on this page may be a day behind.",
     "Message.DeleteSubscriptionConfirmation": "To confirm that you want to permanently delete {subscriptionName} type the last 4 digits of the subscription ID.",
     "Label.Last4SubscriptionIdDigits": "Last 4 Digits of the Subscription ID",
-    "Message.SubscriptionDigitConfirmation": "To confirm that you want to permanently delete {subscriptionName} type the last 4 digits of the subscription ID.\n"
+    "Message.SubscriptionDigitConfirmation": "To confirm that you want to permanently delete {subscriptionName} type the last 4 digits of the subscription ID.\n",
+    "Description.DataMayBeBehind": "Data on this page may be a day behind. {linkStart}Learn more{linkEnd}."
 }

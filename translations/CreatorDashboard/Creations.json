@@ -359,5 +359,7 @@
     "Message.NotApprovedReason": "This item was not approved because of the following reason(s):",
     "Message.ReviewUgcGuidelines": "Please review the {link}UGC Program guidelines{linkEnd} and retry.",
     "Description.BundlePriceFloorWarningNov2": "Any existing Body or Head priced below 75 Robux will automatically be adjusted to the new price floor on November 2nd.",
-    "Label.OnCreatorStore": "On Creator Store"
+    "Label.OnCreatorStore": "On Creator Store",
+    "Label.MyExperiences": "My Experiences",
+    "Label.SharedExperiences": "Shared With Me"
 }

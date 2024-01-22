@@ -45,5 +45,6 @@
     "Description.SalesRevenueDateRange": "Sales and revenue from {startDate} to {endDate}",
     "Label.TotalSales": "Total Sales",
     "Label.TotalRevenue": "Total Revenue",
-    "Label.Free": "FREE"
+    "Label.Free": "FREE",
+    "Label.CreatedTime": "Created Time"
 }

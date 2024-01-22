@@ -187,7 +187,7 @@
     "Label.CurrencyTransitionDisclaimer": "Please note: The USD Prices will not appear on asset pages until Creator Marketplace transitions from Robux to USD",
     "Error.InvalidPrice": "Price must be one of the provided price options",
     "Message.FiatOnboardingTransition": "This pricing information will only appear on asset detail pages once Creator Marketplace transitions from Robux to USD.",
-    "Label.CompleteOnboarding": "Complete Onboarding",
+    "Label.CompleteOnboarding": "Get approval to distribute priced assets",
     "Label.Onboarding": "Onboarding",
     "Label.CurrencyPricing": "USD Pricing",
     "Label.ComingSoon": "Coming Soon",
@@ -195,10 +195,12 @@
     "Label.ItemPrice": "Item Price:",
     "Label.CurrentPriceFloor": "Current Price Floor:",
     "Label.MustBeBelowItemPrice": "Must be below item price",
-    "Label.DynamicFloorDescription": "The item price is based on the {dynamicFloorLinkStart}price floor{dynamicFloorLinkEnd} (minimum price) and can change. You can add to this price floor or set the lowest you're willing to sell.",
+    "Label.DynamicFloorDescription": "The item price is based on the price floor and can change. You can set an amount above the price floor or set the lowest price you're willing to sell. {dynamicFloorLinkStart} Learn more. {dynamicFloorLinkEnd}",
     "Label.DynamicFloorAboveAmountTooltip": "You can set your item's price to adjust automatically relative to the price floor. For example inputting \"5\" ensures your item will always be priced 5 Robux above the daily price floor.",
-    "Label.DynamicFloorMinSalePriceToolTip": "Your item will never be priced below this amount.",
+    "Label.DynamicFloorMinSalePriceToolTip": "Your item will never be priced below this amount. The item price will be the greater of the amount above the price floor and the minimum price.",
     "Label.MinimumSalePrice": "Minimum Sale Price",
     "Label.AmountAbovePriceFloor": "Amount Above Price Floor",
-    "Label.CurrencyTransitionDisclaimerWithLink": "This pricing information will only appear on asset detail pages once Creator Store {docLinkStart}transitions from Robux to USD.{docLinkEnd}"
+    "Label.CurrencyTransitionDisclaimerWithLink": "This pricing information will only appear on asset detail pages once Creator Store {docLinkStart}transitions from Robux to USD.{docLinkEnd}",
+    "Message.UserNeedsApprovalToPrice": "You can distribute free asset(s) but you will first need approval to distribute priced assets on Creator Store",
+    "Label.SubmitForReview": "Register"
 }

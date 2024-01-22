@@ -16,5 +16,6 @@
     "Label.Cancel": "Cancel",
     "Label.Confirm": "Confirm",
     "Message.NoExperiences": "No experiences available",
-    "Description.ConfirmSubmission1": "We really appreciate your help in improving AI tools by contributing your code publicly. The data contributed will be publicly available after 30 days from acceptance. Please review the {linkStart}terms of contribution{linkEnd} and click 'Confirm' below to confirm your agreement to the terms and your opt-in to contribution."
+    "Description.ConfirmSubmission1": "We really appreciate your help in improving AI tools by contributing your code publicly. The data contributed will be publicly available after 30 days from acceptance. Please review the {linkStart}terms of contribution{linkEnd} and click 'Confirm' below to confirm your agreement to the terms and your opt-in to contribution.",
+    "Label.Experiences": "Experiences"
 }
