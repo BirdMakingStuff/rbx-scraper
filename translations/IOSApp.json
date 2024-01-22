@@ -2281,6 +2281,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Authentication.SignUp",
+            "key": "Action.UsePasskey",
+            "description": "Button text to initiate passkey registration during signup",
+            "english": "Use Passkey",
+            "translation": "Use Passkey",
+            "isDeprecated": false
+        },
+        {
             "namespace": "CommonUI.Controls",
             "key": "Action.Accept",
             "description": "Created by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
