@@ -7461,7 +7461,7 @@
     "FFlagFixDoubleSpacesAfterPrefixText": "True",
     "FFlagHideLocalPlayerControlBubbleForVR": "True",
     "FFlagUpgradeExpChatV4_1_10": "True",
-    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+    "FStringPerformanceControlIncludedTunables": "None",
     "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
     "FFlagGridDesignTokens3": "True",
     "FFlagTenFootUiMoreSettings": "True",
@@ -10037,6 +10037,9 @@
     "DFFlagTeleportFailOnPermissionResetBugFix": "True",
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "20000",
     "AllowVideoPreRoll": "True",
+    "FFlagCapturesLogIsUnder13FromContext": "True",
+    "FFlagReceivingOpAfterLiveEditingStateDestroyed": "True",
+    "FFlagACEDeferredSignals": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -10352,8 +10355,8 @@
     "DFLogTrackHttpRequest": "0",
     "FFlagRefactorGuiRTCacheImpl2": "False",
     "FFlagMacClientSupportIME9": "True",
-    "FStringFlagRepoGitHashFastString": "b2c8e83e031301f9f638aea0ed6003ec8128e145",
-    "DFStringFlagRepoGitHashDynamicString": "b2c8e83e031301f9f638aea0ed6003ec8128e145",
-    "FStringFlipTimeStampFastString": "2024-01-22T17:14:20.254Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-22T17:14:20.254Z"
+    "FStringFlagRepoGitHashFastString": "34d22b80355141c185d2849b895e468b7e53e013",
+    "DFStringFlagRepoGitHashDynamicString": "34d22b80355141c185d2849b895e468b7e53e013",
+    "FStringFlipTimeStampFastString": "2024-01-22T17:31:44.179Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-22T17:31:44.179Z"
 }

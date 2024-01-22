@@ -7461,7 +7461,7 @@
     "FFlagFixDoubleSpacesAfterPrefixText": "True",
     "FFlagHideLocalPlayerControlBubbleForVR": "True",
     "FFlagUpgradeExpChatV4_1_10": "True",
-    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
     "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
     "FFlagGridDesignTokens3": "True",
     "FFlagTenFootUiMoreSettings": "True",
@@ -10038,6 +10038,8 @@
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "20000",
     "FFlagCapsScriptGlobals_Rollout": "True;60;2024-01-22T17:13:55",
     "FFlagCapturesLogIsUnder13FromContext": "True",
+    "FFlagReceivingOpAfterLiveEditingStateDestroyed": "True",
+    "FFlagACEDeferredSignals": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10436,8 +10438,8 @@
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
     "FFlagDebugForceFSMCPULightCulling": "True",
     "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
-    "FStringFlagRepoGitHashFastString": "fa8f3a5806ffb386c3618a4519710a67574c2831",
-    "DFStringFlagRepoGitHashDynamicString": "fa8f3a5806ffb386c3618a4519710a67574c2831",
-    "FStringFlipTimeStampFastString": "2024-01-22T17:15:43.342Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-22T17:15:43.342Z"
+    "FStringFlagRepoGitHashFastString": "34d22b80355141c185d2849b895e468b7e53e013",
+    "DFStringFlagRepoGitHashDynamicString": "34d22b80355141c185d2849b895e468b7e53e013",
+    "FStringFlipTimeStampFastString": "2024-01-22T17:31:44.179Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-22T17:31:44.179Z"
 }
