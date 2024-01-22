@@ -73,8 +73,10 @@ iconLink = linkList[0].get("href")
 splitLink = iconLink.split("/")
 versionHash = splitLink[1]
 
+print("Version hash: " + versionHash)
+
 for namespace in namespaces:
-    namespaceRequest = requests.get("https://create.roblox.com/locales/en-US/CreatorDashboard." + namespace + ".json")
+    namespaceRequest = requests.get("https://create.roblox.com/" + versionHash + "/locales/en-US/CreatorDashboard." + namespace + ".json")
     if namespaceRequest.status_code != 200:
         warnings.warn("Error " + str(namespaceRequest.status_code) + " when retrieving CreatorDashboard translations for namespace " + str(namespace) + ": " + namespaceRequest.text)
         continue
