@@ -37,7 +37,7 @@ for channel in fflagChannels:
     fflagChannelResponse = fflagChannelRequest.json()
     fflagChannelResponse = fflagChannelResponse["applicationSettings"]
     fflagChannelText = json.dumps(fflagChannelResponse, ensure_ascii=False, sort_keys=False, indent=4)
-    fflagChannelFile = open(os.path.join(fflagFolderLocation, channel) + ".json", "w")
+    fflagChannelFile = open(os.path.join(fflagFolderLocation, channel) + ".json", "w", encoding="utf-8-sig")
     fflagChannelFile.write(fflagChannelText)
     fflagChannelFile.close()
     
