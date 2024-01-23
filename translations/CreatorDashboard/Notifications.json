@@ -66,5 +66,10 @@
     "Description.Placeholder.ExamplePlayerInvitePrompt": "Example: {strongStartDisName}{strongEndDisName} is inviting you to join {strongStartExpName}{strongEndExpName}!",
     "Description.Placeholder.ExampleExperienceNotification": "Example: {strongStartUserIdHighScore}{strongEndUserIdHighScore} beat your high score by {strongStartPoints}{strongEndPoints} points!",
     "Placeholder.NotificationStringContentExperienceNotification": "{userId-highScorer} beat your high score by {points} points!",
-    "Description.createNotificationRestrictions3": "Note: All text will be filtered."
+    "Description.createNotificationRestrictions3": "Note: All text will be filtered.",
+    "Label.StopReceivingEmailNotificationsV2": "Choose which types of emails you'd like to receive as a Creator on Roblox. You can further customize your Creator notifications in your {creatorHubSettingsLinkStart}Creator Hub Settings{creatorHubSettingsLinkEnd}.\nTo manage Player notifications, go to your {robloxAccountSettingsLinkStart}Roblox Account Settings{robloxAccountSettingsLinkEnd}.",
+    "Label.StopReceivingEmailNotificationsSpecificTypeV2": "Unsubscribe from emails about {eventType} in {eventSurface}",
+    "Label.StopReceivingEmailNotificationsTypeV2": "Unsubscribe from emails about {eventType}",
+    "Label.StopReceivingNotificationsSurfaceV2": "Unsubscribe from emails about {eventSurface}",
+    "Label.StopReceivingAllEmailNotificationsV2": "Unsubscribe from all optional emails related to my creations, including certain alerts and reports."
 }
