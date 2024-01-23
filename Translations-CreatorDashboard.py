@@ -49,11 +49,16 @@ namespaces = [
 "OAuth",
 "ScopeSystem",
 "Organization",
-"PlaceThumbnail",
+"PlaceThumbnails",
 "DeveloperItem",
 "Places",
 "Landing",
 "RoadMap",
+"GenreType",
+"VersionHistory",
+"PlaceAccess",
+"AssetPermissions",
+"DeveloperProducts",
 ]
 
 folderLocation = "/home/runner/work/rbx-scraper/rbx-scraper/translations"
