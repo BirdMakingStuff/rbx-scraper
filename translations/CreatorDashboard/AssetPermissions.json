@@ -1,0 +1,20 @@
+﻿{
+    "Assets": "Assets",
+    "Message.GrantingInput": "You can only give this experience permission to use assets that you have access to. Saving will give permission to use all versions of the added assets.",
+    "Message.CannotRevoke": "Once saved, permission cannot be removed.",
+    "Message.InputSeparator": "Separate multiple IDs using commas",
+    "Label.GrantInput": "Enter asset IDs",
+    "Label.Asset": "Asset",
+    "Label.AssetType": "Asset Type",
+    "Error.AssetNoAccess": "You need permission to access",
+    "Label.Id": "ID",
+    "Label.Private": "Private",
+    "Message.PermissionGivenAssets": "Permission given to {ids} Assets",
+    "Lable.Owner": "Owner",
+    "Error.NoPermissionAssetIds": "You need permission to access {ids}",
+    "Error.AssetDetailsFetch": "Failed to fetch details of {ids}. Please try again.",
+    "Message.NoAssetsWithPermission": "No assets with permission found.",
+    "Error.AssetDetailsFetchGeneric": "Failed to fetch details. Please try again.",
+    "Heading.AssetPermissions": "Asset Permissions",
+    "Error.InvalidAssetType": "You cannot give permission to this asset type."
+}

@@ -1,0 +1,23 @@
+﻿{
+    "Heading.VersionHistory": "Version History",
+    "Description.VersionHistory": "Every save on your asset is saved to your version history. Use the Restore button to revert the current version to a previous version of your asset.",
+    "Heading.Version": "Version",
+    "Heading.LastUpdatedUTC": "Last Updated (in UTC)",
+    "Heading.LastUpdatedLocal": "Last Updated (in local time)",
+    "Label.Restore": "Restore",
+    "Label.CurrentVersion": "Current published version",
+    "Description.PlaceVersionHistory": "Choosing to restore a previous version will only save the version. In order to publish the previous version, open and publish it in Studio.",
+    "Description.RevertingPlace": "Reverting to a previous version will save the place instead of publish. In order to publish the place please open the place in Roblox Studio and then go to, File > Publish to Roblox.",
+    "Heading.Published": "Published Version",
+    "Heading.RestoreVersion": "Restore Versions?",
+    "Description.RestoreVersion": "Restoring a previous version will revert the latest version to it.",
+    "Action.Restore": "Restore",
+    "Description.By": "by",
+    "Heading.Description": "Description",
+    "Label.Current": "Current",
+    "Heading.LastUpdated": "Last Updated",
+    "Description.RestoredVersionNumber": "Restored (V{versionNumber})",
+    "Description.RestoredFromVersion": "Restored from version {versionNumber}",
+    "Description.PackageVersionHistory": "Anytime you publish a change, a new version is created. Optionally, restore previous versions.",
+    "Heading.Notes": "Notes"
+}
