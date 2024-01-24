@@ -64,6 +64,7 @@
     "FFlagWinInstallerEnableDeployPathExtensionForCJV": "True",
     "FFlagWinInstallerUseDeployPathExtension": "True",
     "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True",
+    "FFlagWindowsInstallerUseNativeHttp_Rollout": "True;1;2024-01-24T21:11:06",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -72,8 +73,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "FFlagRemoveSuccessDialogMacStudio": "True",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "20a419b1cecbb549f43edfeec245cb526b7faf7c",
-    "DFStringFlagRepoGitHashDynamicString": "20a419b1cecbb549f43edfeec245cb526b7faf7c",
-    "FStringFlipTimeStampFastString": "2024-01-24T20:36:01.951Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-24T20:36:01.951Z"
+    "FStringFlagRepoGitHashFastString": "f145bab7ca719cb5381a10272e220396ad87e423",
+    "DFStringFlagRepoGitHashDynamicString": "f145bab7ca719cb5381a10272e220396ad87e423",
+    "FStringFlipTimeStampFastString": "2024-01-24T21:11:25.488Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-24T21:11:25.488Z"
 }
