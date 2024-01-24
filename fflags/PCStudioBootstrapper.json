@@ -64,7 +64,7 @@
     "FFlagWinInstallerEnableDeployPathExtensionForCJV": "True",
     "FFlagWinInstallerUseDeployPathExtension": "True",
     "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True",
-    "FFlagWindowsInstallerUseNativeHttp_Rollout": "True;1;2024-01-24T21:11:06",
+    "FFlagWindowsInstallerUseNativeHttp": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -78,8 +78,8 @@
     "FFlagWindowsInstallerEnableDpiAwareness": "True",
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
-    "FStringFlagRepoGitHashFastString": "f145bab7ca719cb5381a10272e220396ad87e423",
-    "DFStringFlagRepoGitHashDynamicString": "f145bab7ca719cb5381a10272e220396ad87e423",
-    "FStringFlipTimeStampFastString": "2024-01-24T21:11:25.488Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-24T21:11:25.488Z"
+    "FStringFlagRepoGitHashFastString": "a3da2d818e987773e951256a00c648ff928dac3c",
+    "DFStringFlagRepoGitHashDynamicString": "a3da2d818e987773e951256a00c648ff928dac3c",
+    "FStringFlipTimeStampFastString": "2024-01-24T21:37:09.758Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-24T21:37:09.758Z"
 }
