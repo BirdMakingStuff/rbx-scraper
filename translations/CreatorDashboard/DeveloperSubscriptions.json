@@ -118,5 +118,8 @@
     "Message.DeleteSubscriptionConfirmation": "To confirm that you want to permanently delete {subscriptionName} type the last 4 digits of the subscription ID.",
     "Label.Last4SubscriptionIdDigits": "Last 4 Digits of the Subscription ID",
     "Message.SubscriptionDigitConfirmation": "To confirm that you want to permanently delete {subscriptionName} type the last 4 digits of the subscription ID.\n",
-    "Description.DataMayBeBehind": "Data on this page may be a day behind. {linkStart}Learn more{linkEnd}."
+    "Description.DataMayBeBehind": "Data on this page may be a day behind. {linkStart}Learn more{linkEnd}.",
+    "Description.RobloxCreditRevenue": "Net revenue from Roblox credit payments.",
+    "Description.RobloxCreditPurchase": "Subscriptions purchased via Roblox credit.",
+    "Label.RobloxCredit": "Roblox Credit"
 }

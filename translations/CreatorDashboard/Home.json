@@ -78,8 +78,8 @@
     "Label.Studio": "Studio",
     "Heading.AvatarItemsOverview": "Avatar Items",
     "Label.OffSale": "Offsale",
-    "Heading.StudioUpsell": "Create a New Experience in Studio",
-    "Description.StudioUpsell": "Build anything you can imagine with the all-in-one IDE for Roblox.",
+    "Heading.StudioUpsell": "Build anything you can imagine",
+    "Description.StudioUpsell": "Studio is an all-in-one tool for building on Roblox. Try making something today!",
     "Label.ViewAllExperiences": "View all Experiences",
     "Heading.ViewAllExperiences": "View all Experiences",
     "Description.ViewAllExperiences": "Manage your creations on Dashboard",
@@ -163,6 +163,7 @@
     "Label.DaysSymbol": "d",
     "Label.MonthsSymbol": "mo",
     "Label.YearsSymbol": "y",
+    "Create.PlaytimeMinutesSymbol": "min",
     "Label.PlaytimeMinutesSymbol": "min",
     "Label.SessionTime": "Session Time",
     "Label.DailyRevenue": "Daily Revenue",
@@ -170,7 +171,7 @@
     "Description.AvatarItemsRevenueSorted": "Sorted by highest revenue over the last 7 days",
     "Heading.DeveloperSubscriptions": "More ways to earn with Subscriptions",
     "Description.DeveloperSubscriptions": "Adding subscriptions to your experience helps build long term relationships with your user base. Enable subscriptions before December 15, 2023, and enjoy 3 months of lower rates.",
-    "Label.GetStarted": "Get Started",
+    "Label.GetStarted": "Get Started in Studio",
     "Heading.AnalyticsEssentials": "Analytics Essentials",
     "Description.AnalyticsEssentials": "Analytics help you chart your experience's growth, track retention, and find opportunities to optimize your experience.",
     "Heading.CoreLoops": "Core Loops",
@@ -181,5 +182,6 @@
     "Description.ContentUpdates": "Keeping players engaged with updates is an essential element of a live experience's monetization strategy.",
     "Label.DesignForEngagement": "Design For Engagement",
     "Description.CommunityContentStore": "Check out what's trending on the Creator Store",
-    "Label.CreatorStore": "Creator Store"
+    "Label.CreatorStore": "Creator Store",
+    "Label.CreateExperience": "Create Experience"
 }
