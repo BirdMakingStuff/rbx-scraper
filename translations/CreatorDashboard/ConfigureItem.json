@@ -196,7 +196,7 @@
     "Label.CurrentPriceFloor": "Current Price Floor:",
     "Label.MustBeBelowItemPrice": "Must be below item price",
     "Label.DynamicFloorDescription": "The item price is based on the price floor and can change. You can set an amount above the price floor or set the lowest price you're willing to sell. {dynamicFloorLinkStart} Learn more. {dynamicFloorLinkEnd}",
-    "Label.DynamicFloorAboveAmountTooltip": "You can set your item's price to adjust automatically relative to the price floor. For example inputting \"5\" ensures your item will always be priced 5 Robux above the daily price floor.",
+    "Label.DynamicFloorAboveAmountTooltip": "You can set your item's price relative to the price floor. For example inputting \"5\" will price your item 5 Robux above the price floor, unless you have a specified minimum price",
     "Label.DynamicFloorMinSalePriceToolTip": "Your item will never be priced below this amount. The item price will be the greater of the amount above the price floor and the minimum price.",
     "Label.MinimumSalePrice": "Minimum Sale Price",
     "Label.AmountAbovePriceFloor": "Amount Above Price Floor",
