@@ -224,5 +224,7 @@
     "Label.ShortsAccessoryPriceTitle": "Shorts",
     "Label.DressSkirtAccessoryPriceTitle": "Dress Skirt",
     "Label.Head": "Head",
-    "Label.PluginPriceTitle": "Plugin"
+    "Label.PluginPriceTitle": "Plugin",
+    "Label.EnterNonNegativeAmount": "Enter a value of 0 or higher",
+    "Label.PriceFloorError": "Cannot set price to lower than price floor of {price}"
 }
