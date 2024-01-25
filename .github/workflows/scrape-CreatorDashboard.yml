@@ -9,12 +9,12 @@ jobs:
   scrape_basic:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.1
 
       - name: "Sets up and runs Python scripts"
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5.0.0
         with:
-          python-version: "3.10"
+          python-version: "3.12"
       - run: "python -m pip install --upgrade pip"
       - run: "pip install -r requirements.txt"
       - run: "python Translations-CreatorDashboard.py"
