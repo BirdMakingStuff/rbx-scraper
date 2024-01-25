@@ -10132,9 +10132,6 @@
     "FFlagLuaAppNewStreamNotificationsEnabled": "True",
     "FFlagShareLinksLaunchDataSupport": "True",
     "FFlagBetterBetaFeaturesDialog": "True",
-    "DFFlagPerfDataOnHiveReportClientTimestamp2_Rollout": "True;60;2024-01-25T22:18:55",
-    "FFlagRealtimeProtocolStudioEnabled_Rollout": "True;60;2024-01-25T22:26:03",
-    "FFlagFixAudioPermissionsOutputWorkflow_Rollout": "True;60;2024-01-25T22:31:46",
     "FFlagLegacyConnectingMicStateFix": "True",
     "FFlagTCSConnectingMicStateFix": "True",
     "FFlagMacSyncWKCookieStoreToNSCookieStore": "True",
@@ -10142,6 +10139,9 @@
     "FFlagMoveSpeedFactorUpdatesConstraints_Rollout": "True;60;2024-01-25T22:58:44",
     "FFlagCinSessionErrorMsg": "True",
     "FFlagFixShorthandUDim2": "True",
+    "DFFlagPerfDataOnHiveReportClientTimestamp2": "True",
+    "FFlagRealtimeProtocolStudioEnabled": "True",
+    "FFlagFixAudioPermissionsOutputWorkflow": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10511,8 +10511,8 @@
     "DFIntOOMInferenceThreshold": "6800",
     "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
     "FFlagNewScriptContext3": "True",
-    "FStringFlagRepoGitHashFastString": "0cf3f088351485e1fb4743426459059008971a49",
-    "DFStringFlagRepoGitHashDynamicString": "0cf3f088351485e1fb4743426459059008971a49",
-    "FStringFlipTimeStampFastString": "2024-01-25T23:16:30.410Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-25T23:16:30.410Z"
+    "FStringFlagRepoGitHashFastString": "7960f4fc5d2b0b95d9d65d6cbb5d2027e777193b",
+    "DFStringFlagRepoGitHashDynamicString": "7960f4fc5d2b0b95d9d65d6cbb5d2027e777193b",
+    "FStringFlipTimeStampFastString": "2024-01-25T23:36:37.532Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-25T23:36:37.532Z"
 }
