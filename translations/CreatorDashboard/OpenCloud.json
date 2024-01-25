@@ -10,7 +10,7 @@
     "Heading.AcceptedAddressDescription": "Requests will only be accepted from these IP Addresses",
     "Button.AddIPAddress": "Add IP Address",
     "Message.InputIpPlaceholder": "Enter an IP Address or CIDR",
-    "Message.AddIPInstructions": "Enter an IP Address or a subnet using CIDR notation (Examples: 2001:db8::/64, 192.168.0.0/22, 192.168.0.0/24)",
+    "Message.AddIPInstructions": "Enter an IP Address or a subnet using CIDR notation (Examples: 2001:db8::/64, 192.168.0.0/22, 192.168.0.0/24). Note that 0.0.0.0/0 indicates that there is no IP protection for the API key.",
     "Message.NoIpAddresses": "No IP addresses are associated with the current key",
     "Message.EmptyIPSubmitError": "Please Enter an IP Address or a CIDR",
     "Message.InvalidCIDROrIP": "The IP Address or CIDR entered was invalid. Please try again.",
