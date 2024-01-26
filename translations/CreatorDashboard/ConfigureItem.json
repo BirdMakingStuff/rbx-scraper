@@ -226,5 +226,6 @@
     "Label.Head": "Head",
     "Label.PluginPriceTitle": "Plugin",
     "Label.EnterNonNegativeAmount": "Enter a value of 0 or higher",
-    "Label.PriceFloorError": "Cannot set price to lower than price floor of {price}"
+    "Label.PriceFloorError": "Cannot set price to lower than price floor of {price}",
+    "Label.DiscountedPriceFloor": "The discounted price will always be at or above the price floor."
 }
