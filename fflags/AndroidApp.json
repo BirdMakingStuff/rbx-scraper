@@ -10155,6 +10155,8 @@
     "FFlagUnexpectedActiveTooltipWidget": "True",
     "FFlagLiveScriptingCleanupGuidConnection": "True",
     "FFlagHeapProfilerDenseStorage": "True",
+    "FFlagEnableCrossSessionEffectPredictorShadow3_Rollout": "True;60;2024-01-26T18:19:49",
+    "FFlagEnableNavbarLabelExperiment2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10553,8 +10555,8 @@
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
     "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
     "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-    "FStringFlagRepoGitHashFastString": "c53dfffa3bb5d47a9465bb8b97f657638661ca13",
-    "DFStringFlagRepoGitHashDynamicString": "c53dfffa3bb5d47a9465bb8b97f657638661ca13",
-    "FStringFlipTimeStampFastString": "2024-01-26T18:07:08.115Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-26T18:07:08.115Z"
+    "FStringFlagRepoGitHashFastString": "21337a5cb678b1eff7f43319089dcaa45e4ce822",
+    "DFStringFlagRepoGitHashDynamicString": "21337a5cb678b1eff7f43319089dcaa45e4ce822",
+    "FStringFlipTimeStampFastString": "2024-01-26T18:36:05.970Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-26T18:36:05.970Z"
 }
