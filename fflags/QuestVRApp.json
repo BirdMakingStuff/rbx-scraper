@@ -10178,6 +10178,8 @@
     "FFlagRemoveEnvMapLightgridCPUDependency3": "True",
     "FFlagSimdBvhRayCast": "True",
     "FFlagFixEnvMapAsyncAsanIssue_Rollout": "True;60;2024-01-29T20:33:13",
+    "DFFlagPerformanceControlPlannerBailIfNoProgress_Rollout": "True;60;2024-01-29T20:41:37",
+    "FFlagScriptProfilerPluginFiltering_Rollout": "True;60;2024-01-29T20:51:46",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10596,8 +10598,8 @@
     "FFlagUpdateCheckOnLogin": "False",
     "FFlagHideExperienceLoadingJudder2": "True",
     "FFlagGpuGeometryManager12": "True",
-    "FStringFlagRepoGitHashFastString": "21744add746e91bbcceddb443168ab949124e087",
-    "DFStringFlagRepoGitHashDynamicString": "21744add746e91bbcceddb443168ab949124e087",
-    "FStringFlipTimeStampFastString": "2024-01-29T20:33:41.734Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-29T20:33:41.734Z"
+    "FStringFlagRepoGitHashFastString": "d40038c7d6b0a8c4be251762b0205d3c9cc31bee",
+    "DFStringFlagRepoGitHashDynamicString": "d40038c7d6b0a8c4be251762b0205d3c9cc31bee",
+    "FStringFlipTimeStampFastString": "2024-01-29T21:11:07.578Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-29T21:11:07.578Z"
 }
