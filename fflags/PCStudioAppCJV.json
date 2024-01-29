@@ -10161,6 +10161,9 @@
     "FFlagSimAdaptiveCheckPendingWakeAssemblies": "True",
     "DFFlagSimAlwaysClearNOUMemory": "True",
     "FFlagACEFixEditorControllerClamp": "True",
+    "FFlagLogRecordActivations": "True",
+    "DFFlagMSTTDumpTelemetryIsBlocking_Rollout": "True;60;2024-01-29T17:17:03",
+    "FFlagUseThumbnailUrlForContactPeekView": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10487,8 +10490,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "7afdd38e191ee91239fb63c55ff8e5738426e04f",
-    "DFStringFlagRepoGitHashDynamicString": "7afdd38e191ee91239fb63c55ff8e5738426e04f",
-    "FStringFlipTimeStampFastString": "2024-01-29T17:15:58.639Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-29T17:15:58.639Z"
+    "FStringFlagRepoGitHashFastString": "17ed309d8a564f912dc8e898089e0398775e7185",
+    "DFStringFlagRepoGitHashDynamicString": "17ed309d8a564f912dc8e898089e0398775e7185",
+    "FStringFlipTimeStampFastString": "2024-01-29T17:21:22.595Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-29T17:21:22.595Z"
 }
