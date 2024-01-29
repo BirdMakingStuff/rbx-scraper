@@ -10188,8 +10188,6 @@
     "FFlagPackageUpdateNestedPackageUnmodified": "True",
     "DisableLoginSignupScreenshot": "True",
     "FFlagTextureManagerPreloadFallback": "True",
-    "FFlagPlatformFriendsServiceGetPartyMembers_Rollout": "True;60;2024-01-29T22:19:35",
-    "FFlagSimCSGV3HandleSameObjectAlongSeam_Rollout": "True;60;2024-01-29T22:23:54",
     "FFlagEnableMmapForMemProfStorageFlushing3": "True",
     "FFlagStrengthInNumbersPlatformFriendsServiceCheck": "True",
     "FFlagEnableRobloxGuiFocusedChangedEvent2": "True",
@@ -10202,6 +10200,9 @@
     "DFFlagEnableTeleportGuiRootContainerCheck": "True",
     "FFlagFixIsInitialized": "True",
     "FFlagAvatarPreviewerJest": "True",
+    "FFlagFixEnvMapRaycastUpdateFlickering_Rollout": "True;60;2024-01-29T23:18:00",
+    "FFlagPlatformFriendsServiceGetPartyMembers": "True",
+    "FFlagSimCSGV3HandleSameObjectAlongSeam": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10620,8 +10621,8 @@
     "FFlagUpdateCheckOnLogin": "False",
     "FFlagHideExperienceLoadingJudder2": "True",
     "FFlagGpuGeometryManager12": "True",
-    "FStringFlagRepoGitHashFastString": "8d0c57f9c8a48c020f560cccedd1b345217b00ec",
-    "DFStringFlagRepoGitHashDynamicString": "8d0c57f9c8a48c020f560cccedd1b345217b00ec",
-    "FStringFlipTimeStampFastString": "2024-01-29T23:16:05.612Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-29T23:16:05.612Z"
+    "FStringFlagRepoGitHashFastString": "c99a12f2e8a8772896f8c474aea884eb2333a155",
+    "DFStringFlagRepoGitHashDynamicString": "c99a12f2e8a8772896f8c474aea884eb2333a155",
+    "FStringFlipTimeStampFastString": "2024-01-29T23:36:42.309Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-29T23:36:42.309Z"
 }
