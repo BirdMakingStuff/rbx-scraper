@@ -71,5 +71,6 @@
     "Label.StopReceivingEmailNotificationsSpecificTypeV2": "Unsubscribe from emails about {eventType} in {eventSurface}",
     "Label.StopReceivingEmailNotificationsTypeV2": "Unsubscribe from emails about {eventType}",
     "Label.StopReceivingNotificationsSurfaceV2": "Unsubscribe from emails about {eventSurface}",
-    "Label.StopReceivingAllEmailNotificationsV2": "Unsubscribe from all optional emails related to my creations, including certain alerts and reports."
+    "Label.StopReceivingAllEmailNotificationsV2": "Unsubscribe from all optional emails related to my creations, including certain alerts and reports.",
+    "Message.NotificationContentCreateFailedInvalidPlaceholder": "Invalid placeholder: {placeholder}"
 }

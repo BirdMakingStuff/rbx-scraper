@@ -508,5 +508,9 @@
     "Title.ReturningUsersWithPlaysPerSource": "Returning Users With Plays Per Source",
     "Description.ReturningUsersWithPlaysPerSource": "Unique returning users who played from each source.",
     "Description.ReturningUsersWithImpressionsPerSource": "Unique returning users who viewed from each source.",
-    "Heading.Economy": "Economy"
+    "Heading.Economy": "Economy",
+    "Title.TotalSourcesAndSinks": "Total Sources and Sinks",
+    "Title.TopSources": "Top Sources",
+    "Title.TopSinks": "Top Sinks",
+    "Title.AverageWalletBalance": "Average Wallet Balance"
 }
