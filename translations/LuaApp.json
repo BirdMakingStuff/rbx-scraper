@@ -20401,6 +20401,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "CommonUI.UserAgreements",
+            "key": "Popup.FailAndRetryMessage",
+            "description": "tell user to retry when accept fails.",
+            "english": "Sorry, there was a problem when trying to accept terms of use. Please try again.",
+            "translation": "Sorry, there was a problem when trying to accept terms of use. Please try again.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.Moderation",
             "key": "Title.Ban1Day",
             "description": "Title for the moderation prompt.\nCreated by eli@roblox.com\nModified by eli@roblox.com\nCreated by eli@roblox.com\nModified by bdeng@roblox.com",
