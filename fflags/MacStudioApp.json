@@ -10207,6 +10207,8 @@
     "DisableLoginSignupScreenshot": "False",
     "FFlagLuaAppBootcampIntroUABOOTCAMP1": "True",
     "FFlagLuaAppAddSortPosHomeGridClickEvent": "True",
+    "FFlagStopSelectionEscapeCentralOverlay": "True",
+    "DFFlagVoiceChatControlPlaneTelemetryRaceConditionFix": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10524,6 +10526,7 @@
     "FFlagStreamSoundsCompressedInMemory3": "True",
     "FFlagFaceAnimatorFixMemoryOrder": "True",
     "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
+    "DFLogFaceAnimatorThreadingTrace3_Rollout": "Verbose;30;2024-01-30T19:24:54",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -10531,8 +10534,8 @@
     "FFlagRefactorGuiRTCacheImpl2": "False",
     "FFlagMacClientSupportIME9": "True",
     "FFlagDeferFmodDriverShutdown2": "True",
-    "FStringFlagRepoGitHashFastString": "023b13d1c4fa5127df178e97c81cc9809ffebb71",
-    "DFStringFlagRepoGitHashDynamicString": "023b13d1c4fa5127df178e97c81cc9809ffebb71",
-    "FStringFlipTimeStampFastString": "2024-01-30T19:09:39.356Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-30T19:09:39.356Z"
+    "FStringFlagRepoGitHashFastString": "be95a92b5152ec097f70c58309c597b783d04c28",
+    "DFStringFlagRepoGitHashDynamicString": "be95a92b5152ec097f70c58309c597b783d04c28",
+    "FStringFlipTimeStampFastString": "2024-01-30T19:28:51.598Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-30T19:28:51.598Z"
 }
