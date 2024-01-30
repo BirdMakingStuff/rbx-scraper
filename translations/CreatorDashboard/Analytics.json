@@ -512,5 +512,7 @@
     "Title.TotalSourcesAndSinks": "Total Sources and Sinks",
     "Title.TopSources": "Top Sources",
     "Title.TopSinks": "Top Sinks",
-    "Title.AverageWalletBalance": "Average Wallet Balance"
+    "Title.AverageWalletBalance": "Average Wallet Balance",
+    "Label.Metric.TransactionAmount": "Transaction Amount",
+    "Label.Metric.AverageWalletBalance": "Average Wallet Balance"
 }
