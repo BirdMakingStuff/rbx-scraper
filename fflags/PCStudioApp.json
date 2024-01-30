@@ -10209,6 +10209,7 @@
     "FFlagLuaAppAddSortPosHomeGridClickEvent": "True",
     "FFlagStopSelectionEscapeCentralOverlay": "True",
     "DFFlagVoiceChatControlPlaneTelemetryRaceConditionFix": "True",
+    "FFlagDisableUADPadNavigationInVR2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10525,8 +10526,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "be95a92b5152ec097f70c58309c597b783d04c28",
-    "DFStringFlagRepoGitHashDynamicString": "be95a92b5152ec097f70c58309c597b783d04c28",
-    "FStringFlipTimeStampFastString": "2024-01-30T19:28:51.598Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-30T19:28:51.598Z"
+    "FStringFlagRepoGitHashFastString": "8c0a152437ea1fcd4bfe6d25de9b952919f12302",
+    "DFStringFlagRepoGitHashDynamicString": "8c0a152437ea1fcd4bfe6d25de9b952919f12302",
+    "FStringFlipTimeStampFastString": "2024-01-30T20:01:33.639Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-30T20:01:33.639Z"
 }
