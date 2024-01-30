@@ -10205,6 +10205,8 @@
     "DFFlagSimDebugVisualizeAveragedForce": "True",
     "DFFlagSimSolverCollectAverageForceOverWorldSteps": "True",
     "DisableLoginSignupScreenshot": "False",
+    "FFlagLuaAppBootcampIntroUABOOTCAMP1": "True",
+    "FFlagLuaAppAddSortPosHomeGridClickEvent": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10401,8 +10403,8 @@
     "FFlagRuntimeEnabled2": "True",
     "FFlagRuntimeEnabled3": "True",
     "FFlagNewScriptContext3": "True",
-    "FStringFlagRepoGitHashFastString": "4ad2334afdec14cea6323c42a2c50db6e4ae88af",
-    "DFStringFlagRepoGitHashDynamicString": "4ad2334afdec14cea6323c42a2c50db6e4ae88af",
-    "FStringFlipTimeStampFastString": "2024-01-30T17:36:57.513Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-30T17:36:57.513Z"
+    "FStringFlagRepoGitHashFastString": "023b13d1c4fa5127df178e97c81cc9809ffebb71",
+    "DFStringFlagRepoGitHashDynamicString": "023b13d1c4fa5127df178e97c81cc9809ffebb71",
+    "FStringFlipTimeStampFastString": "2024-01-30T19:09:39.356Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-30T19:09:39.356Z"
 }
