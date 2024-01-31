@@ -14345,6 +14345,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.SettingsHub",
+            "key": "Chat.ChatLanguageSelectionLabel",
+            "description": "Label to the left of a dropdown that is used to select a language from a list of languages. The selected language is used to translate chat messages.",
+            "english": "Chat Translation Language",
+            "translation": "Chat Translation Language",
+            "isDeprecated": false
+        },
+        {
             "namespace": "InGame.CommonUI",
             "key": "Label.FAQWebviewTitle",
             "description": "Title of the FAQ webview\nCreated by dberezin@roblox.com\nModified by dberezin@roblox.com\nCreated by dberezin@roblox.com\nModified by bdeng@roblox.com",
@@ -14966,6 +14974,14 @@
             "description": "Alternative leave game prompt when experience is specifically the FTUX experience.\nCreated by vnguyen@roblox.com\nModified by vnguyen@roblox.com\nCreated by vnguyen@roblox.com\nModified by bdeng@roblox.com",
             "english": "Are you sure you want to leave the experience? You can access the tutorial again from “More”.",
             "translation": "Are you sure you want to leave the experience? You can access the tutorial again from “More”.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "CoreScripts.InGameMenu",
+            "key": "Report.DSAFooter",
+            "description": "Translated text for EU DSA warning at footer of report page",
+            "english": "To report illegal content under the EU Digital Services Act, visit: https://www.roblox.com/illegal-content-reporting",
+            "translation": "To report illegal content under the EU Digital Services Act, visit: https://www.roblox.com/illegal-content-reporting",
             "isDeprecated": false
         },
         {
@@ -23774,6 +23790,14 @@
             "description": "Created by bwei@roblox.com\nModified by bwei@roblox.com\nCreated by bwei@roblox.com\nModified by bdeng@roblox.com",
             "english": "Cancel",
             "translation": "Cancel",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.DynamicUI",
+            "key": "Translation.Reporting.IllegalContentEUBody",
+            "description": "For reporting illegal content under the European Union Digital Services Act \nCreated by danielho@roblox.com",
+            "english": "To report illegal content under the EU Digital Services Act, visit: https://www.roblox.com/illegal-content-reporting",
+            "translation": "To report illegal content under the EU Digital Services Act, visit: https://www.roblox.com/illegal-content-reporting",
             "isDeprecated": false
         },
         {
