@@ -9445,7 +9445,6 @@
     "FFlagTrackLastReportingOrSessionHistorySymbol": "True",
     "FFlagFmodMacGetDeviceBusType": "True",
     "FFlagHideAvatarBuildCategoryInVR": "True",
-    "FFlagClientAvatarUsesColor3sForBodyParts4": "True",
     "FFlagEditableImagePlaceFilterSupport": "False",
     "FFlagEditableImagePlaceFilterSupport_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
     "FFlagCheckCameraAvailabilityBeforePermissions": "True",
@@ -10229,6 +10228,9 @@
     "DFFlagSimCSG3CommitTaskPatch_Rollout": "True;60;2024-01-31T19:43:04",
     "FFlagEnableWidgetDividerProps": "True",
     "FFlagPlatformCloudStoragePollster": "True",
+    "FFlagAXFixExperienceCardPlayerCount": "True",
+    "FFlagPlatformCloudStoragePlayXExperiencesTrophies": "True",
+    "FFlagDevFrameworkTimeProgressBarImprovements": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10648,8 +10650,8 @@
     "FFlagUpdateCheckOnLogin": "False",
     "FFlagHideExperienceLoadingJudder2": "True",
     "FFlagGpuGeometryManager12": "True",
-    "FStringFlagRepoGitHashFastString": "4cea59b7ef06569c7bfcd24f6bd843290c0a8454",
-    "DFStringFlagRepoGitHashDynamicString": "4cea59b7ef06569c7bfcd24f6bd843290c0a8454",
-    "FStringFlipTimeStampFastString": "2024-01-31T20:16:21.855Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-31T20:16:21.855Z"
+    "FStringFlagRepoGitHashFastString": "09c0cad67fb9bb317a2cf29dd6a9d29bda5cf580",
+    "DFStringFlagRepoGitHashDynamicString": "09c0cad67fb9bb317a2cf29dd6a9d29bda5cf580",
+    "FStringFlipTimeStampFastString": "2024-01-31T20:33:33.148Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-31T20:33:33.148Z"
 }
