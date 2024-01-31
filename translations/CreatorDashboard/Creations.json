@@ -309,7 +309,7 @@
     "Action.MigrateUniverse": "Restart servers for updates",
     "Action.Restart": "Restart",
     "Description.TemporarilyCreationBanned": "Revoked Access to 3D Avatar Item Creation for {days} Days",
-    "Description.TemporaryCreationBanned": "You will not be able to upload 3D Avatar UGC from Studio or put it on sale. Please abide by our Marketplace Policy.",
+    "Description.TemporaryCreationBanned": "You will not be able to upload 3D avatar content from Studio or put it on sale. Please abide by our Marketplace Policy.",
     "Description.PermanentlyCreationBanned": "You will no longer be able to upload 3D Avatar UGC from Studio or put it on sale. See our Marketplace Policy.",
     "Heading.PermanentlyCreationBanned": "Permanently Revoked Access to 3D Avatar Item Creation",
     "Heading.TemporaryCreationBanned": "Revoked Access to 3D Avatar Item Creation for {days} Days",
