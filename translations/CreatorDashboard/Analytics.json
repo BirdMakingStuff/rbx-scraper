@@ -514,5 +514,7 @@
     "Title.TopSinks": "Top Sinks",
     "Title.AverageWalletBalance": "Average Wallet Balance",
     "Label.Metric.TransactionAmount": "Transaction Amount",
-    "Label.Metric.AverageWalletBalance": "Average Wallet Balance"
+    "Label.Metric.AverageWalletBalance": "Average Wallet Balance",
+    "Label.AgeUnder9": "<9",
+    "Label.Age9AndOverToUnder13": "9-13"
 }
