@@ -74,5 +74,8 @@
     "Label.AccessType.GroupMembers": "Group Members",
     "Heading.JoinSettings": "Direct Access to Places",
     "Label.AllowDirectJoins": "Allow direct access to places",
-    "Message.NonrootPlaceToggleInfo": "Allow people to directly access all places in your experiences when entering, rather than entering your experience from the start place. This makes it easier for friends to follow each other into your experience. Excludes match-made or private servers."
+    "Message.NonrootPlaceToggleInfo": "Allow people to directly access all places in your experiences when entering, rather than entering your experience from the start place. This makes it easier for friends to follow each other into your experience. Excludes match-made or private servers.",
+    "Message.HasNoPlaceOverridesInfo": "To exclude specific places, go to Places > Select place > Access. ",
+    "Message.HasPlaceOverridesInfo": "You’ve made an exception for certain places.",
+    "Label.Reset": "Reset"
 }
