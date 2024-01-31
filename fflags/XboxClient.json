@@ -10228,6 +10228,9 @@
     "DFFlagDecelerationTimeThreshold": "True",
     "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2024-01-31T19:07:20",
     "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2024-01-31T19:08:05",
+    "DFFlagSimCSG3CommitTaskPatch_Rollout": "True;60;2024-01-31T19:43:04",
+    "FFlagEnableWidgetDividerProps": "True",
+    "FFlagPlatformCloudStoragePollster": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10542,8 +10545,8 @@
     "FFlagNewScriptContext3": "True",
     "FFlagXboxAppBridgeNotifyPLM": "True",
     "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-    "FStringFlagRepoGitHashFastString": "743d81a7c2126873e32b777b9d7d5f4bd04922d7",
-    "DFStringFlagRepoGitHashDynamicString": "743d81a7c2126873e32b777b9d7d5f4bd04922d7",
-    "FStringFlipTimeStampFastString": "2024-01-31T19:08:34.661Z",
-    "DFStringFlipTimeStampDynamicString": "2024-01-31T19:08:34.661Z"
+    "FStringFlagRepoGitHashFastString": "924c40bd4ccba9362e8855b319904e227ae98426",
+    "DFStringFlagRepoGitHashDynamicString": "924c40bd4ccba9362e8855b319904e227ae98426",
+    "FStringFlipTimeStampFastString": "2024-01-31T20:14:26.443Z",
+    "DFStringFlipTimeStampDynamicString": "2024-01-31T20:14:26.443Z"
 }
