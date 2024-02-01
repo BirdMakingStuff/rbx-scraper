@@ -10263,7 +10263,6 @@
     "DFFlagDSTelemetryEnableV2Counter": "True",
     "FFlagGpuGeometryManager13": "True",
     "FFlagDotMatrixProduct": "True",
-    "FFlagAddUDataPingViz_Rollout": "True;60;2024-02-01T17:32:02",
     "DFIntMaxLuauHeapDataPayloadSize": "64000000",
     "FFlagScriptContextBufferTelemetry_Rollout": "True;60;2024-02-01T17:54:40",
     "DFFlagSimGroundControllerTurningLogicFix2_Rollout": "True;60;2024-02-01T18:03:45",
@@ -10271,6 +10270,10 @@
     "FFlagMouseLocationUpdateSooner_Rollout": "True;60;2024-02-01T18:12:45",
     "FFlagVRLaserPointerNotOnTop_Rollout": "True;60;2024-02-01T18:13:53",
     "FFlagRemoveUnusedCopyrightError_Rollout": "True;30;2024-02-01T18:18:20",
+    "FFlagStudioUsePublishInProgressScreen2": "True",
+    "FFlagSimCSG3MeshTriangleCountOptimization_Rollout": "True;60;2024-02-01T18:29:57",
+    "FFlagStudioComponentizeRobloxIDEDoc2": "True",
+    "FFlagAddUDataPingViz": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10585,8 +10588,8 @@
     "FFlagXboxAppBridgeNotifyPLM": "True",
     "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
-    "FStringFlagRepoGitHashFastString": "7e66a98dc5ab7c1b26cb56bc6ca4c017006c0e05",
-    "DFStringFlagRepoGitHashDynamicString": "7e66a98dc5ab7c1b26cb56bc6ca4c017006c0e05",
-    "FStringFlipTimeStampFastString": "2024-02-01T18:18:35.756Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-01T18:18:35.756Z"
+    "FStringFlagRepoGitHashFastString": "c447a2743a0dd6afc34c24886cd3f287863eb15e",
+    "DFStringFlagRepoGitHashDynamicString": "c447a2743a0dd6afc34c24886cd3f287863eb15e",
+    "FStringFlipTimeStampFastString": "2024-02-01T18:36:17.295Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-01T18:36:17.295Z"
 }
