@@ -361,5 +361,9 @@
     "Description.BundlePriceFloorWarningNov2": "Any existing Body or Head priced below 75 Robux will automatically be adjusted to the new price floor on November 2nd.",
     "Label.OnCreatorStore": "On Creator Store",
     "Label.MyExperiences": "My Experiences",
-    "Label.SharedExperiences": "Shared With Me"
+    "Label.SharedExperiences": "Shared With Me",
+    "Heading.NonLimitedPriceChangesPreLaunch": "Price Changes for Non-Limited",
+    "Heading.NonLimitedPriceChangesPostLaunch": "You Can Now Change Price Controls For Non-Limited Items",
+    "Description.DynamicPriceFloorsPostLaunchDescription": "Set an amount above the price floor of specific items on the configure page. All items must be priced equal to or above the price floor.",
+    "Description.DynamicPriceFloorsPreLaunchDescription": "We will soon be introducing dynamic price floors. If you take no action, existing items will either be priced at your original set price or the new price floor."
 }
