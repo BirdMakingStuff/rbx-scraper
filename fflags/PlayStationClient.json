@@ -10324,8 +10324,12 @@
     "FFlagFixViewportVisualizationVerbs": "True",
     "DFFlagHttpSocketIps": "True",
     "DFFlagEnableTCSChatTranslation": "True",
-    "FFlagChatTranslationHoldoutEnabled": "True",
+    "FFlagChatTranslationHoldoutEnabled": "False",
     "FFlagChatTranslationLaunchEnabled": "True",
+    "FFlagUserCaptureSavedSignalApiEnabled": "True",
+    "FFlagRenderFib3ProperConstantBufferSize_Rollout": "True;30;2024-02-05T17:24:42",
+    "FFlagPromptSaveCapturesEnabled2": "True",
+    "FFlagPromptShareCaptureEnabled3": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10490,8 +10494,8 @@
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "DFFlagHttpDetachCacheCleanThread": "True",
     "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
-    "FStringFlagRepoGitHashFastString": "c25d800a98c42d05daf0b4b3f453337d1d0666da",
-    "DFStringFlagRepoGitHashDynamicString": "c25d800a98c42d05daf0b4b3f453337d1d0666da",
-    "FStringFlipTimeStampFastString": "2024-02-05T17:01:45.931Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-05T17:01:45.931Z"
+    "FStringFlagRepoGitHashFastString": "224a7d903e3f2678e9195c3fa3940cbeb9181eeb",
+    "DFStringFlagRepoGitHashDynamicString": "224a7d903e3f2678e9195c3fa3940cbeb9181eeb",
+    "FStringFlipTimeStampFastString": "2024-02-05T17:32:40.821Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-05T17:32:40.821Z"
 }
