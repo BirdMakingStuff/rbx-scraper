@@ -516,5 +516,13 @@
     "Label.Metric.TransactionAmount": "Transaction Amount",
     "Label.Metric.AverageWalletBalance": "Average Wallet Balance",
     "Label.AgeUnder9": "<9",
-    "Label.Age9AndOverToUnder13": "9-12"
+    "Label.Age9AndOverToUnder13": "9-12",
+    "Label.Dimension.TransactionType.InAppPurchase": "In App Purchase",
+    "Label.Dimension.TransactionType.Shop": "Shop",
+    "Label.Dimension.TransactionType.Gameplay": "Gameplay",
+    "Label.Dimension.TransactionType.ContextualPurchase": "Contextual Purchase",
+    "Label.Dimension.TransactionType.TimedReward": "Timed Reward",
+    "Label.Dimension.TransactionType.Onboarding": "Onboarding",
+    "Label.Dimension.PayerStatus.Payer": "Payers",
+    "Label.Dimension.PayerStatus.NonPayer": "Non-Payers"
 }
