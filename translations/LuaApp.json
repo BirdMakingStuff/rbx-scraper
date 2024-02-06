@@ -8153,6 +8153,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.GameDetails",
+            "key": "Toast.LinkCopied",
+            "description": "A toast notification that lets the user know the link was copied to the clipboard after pressing the link copy button.",
+            "english": "Link copied to clipboard",
+            "translation": "Link copied to clipboard",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.GameGear",
             "key": "Heading.GearForThisGame",
             "description": "Created by <Unknown>\nModified by dli@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -13198,6 +13206,14 @@
             "description": "\nCreated by tparker@roblox.com",
             "english": "You can always edit your character name in customization",
             "translation": "You can always edit your character name in customization",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Avatar",
+            "key": "Message.UpdateRequired",
+            "description": "When an item is unsupported in an old client version, this message will be displayed to the user asking them to update to the the latest Roblox client version.",
+            "english": "Update Required. In order to view this item, please update Roblox to the latest version.",
+            "translation": "Update Required. In order to view this item, please update Roblox to the latest version.",
             "isDeprecated": false
         },
         {
