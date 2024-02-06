@@ -8972,7 +8972,7 @@
     "FFlagACERigUtilsMigration2": "True",
     "FFlagAXRefactorAnimationManagerAnimSelection7": "False",
     "FFlagACERestrictVideoToR15": "True",
-    "FStringUIOcclusionMetricsUnibarMenuVerList": "v6.2t8",
+    "FStringUIOcclusionMetricsUnibarMenuVerList": "v7.1t9,v7.2t9,v7.3t9",
     "FFlagNavigationUseMemoryLimit": "True",
     "DFFlagEnablePreparePurchaseInExperienceApi": "True",
     "DFFlagFixSubscriptionStatusCacheInClient": "True",
@@ -10391,6 +10391,11 @@
     "FFlagDeprecateChatAppReducerAliases": "True",
     "FFlagMigrateFetchChatData": "True",
     "FFlagUseRoduxGetUnreadConversationCount": "True",
+    "FFlagRenameUserToFriend": "True",
+    "FFlagStudioFixWindowFocus_Rollout": "True;30;2024-02-06T21:25:31",
+    "FFlagStudioNoPlaySoloLoadingScreen_Rollout": "True;30;2024-02-06T21:25:35",
+    "FFlagPlayerContextualMenuHandlesGameJoin": "True",
+    "FFlagPlayerContextualMenuAnalytics3": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10584,8 +10589,8 @@
     "DFIntTaskSchedulerJobRetryCount": "1",
     "FStringRealtimeClientTargetName": "windows_universal",
     "FFlagNewScriptContext3": "True",
-    "FStringFlagRepoGitHashFastString": "7e96472e62928db6e060cc169d2bb65d98e27b91",
-    "DFStringFlagRepoGitHashDynamicString": "7e96472e62928db6e060cc169d2bb65d98e27b91",
-    "FStringFlipTimeStampFastString": "2024-02-06T21:14:11.907Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-06T21:14:11.907Z"
+    "FStringFlagRepoGitHashFastString": "a7b9199dd3665ec04f6f32c1f2fb3f1d68da5368",
+    "DFStringFlagRepoGitHashDynamicString": "a7b9199dd3665ec04f6f32c1f2fb3f1d68da5368",
+    "FStringFlipTimeStampFastString": "2024-02-06T21:33:34.269Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-06T21:33:34.269Z"
 }
