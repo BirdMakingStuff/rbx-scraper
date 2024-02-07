@@ -10423,8 +10423,12 @@
     "FFlagStudioNewPlaceUploadUseNewFlow1": "True",
     "FFlagSessionL2ContextFocus_Rollout": "True;60;2024-02-07T22:56:22",
     "DFFlagStreamJobIterationStats_Rollout": "True;60;2024-02-07T23:06:13",
-    "FStringStudioNewPlaceUploadOptInPlaceIds": "14976723023",
+    "FStringStudioNewPlaceUploadOptInPlaceIds": "14976723023,8219868625",
     "FFlagCinGltfStatusFix": "True",
+    "DFFlagFixHumanoidStateTypeNameNullTelemetryCrash_Rollout": "True;60;2024-02-07T23:30:28",
+    "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-02-07T23:33:18",
+    "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-02-07T23:34:25",
+    "FFlagDeviceIdUsesAfterFirstUnlockKeychainAccess": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10718,8 +10722,8 @@
     "DFIntTaskSchedulerJobRetryCount": "1",
     "FFlagSTFSMEnableAppSessionSuccess": "True",
     "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-    "FStringFlagRepoGitHashFastString": "f6252c7a7f27f03c52ce7b386cd502ba2dbbbaec",
-    "DFStringFlagRepoGitHashDynamicString": "f6252c7a7f27f03c52ce7b386cd502ba2dbbbaec",
-    "FStringFlipTimeStampFastString": "2024-02-07T23:14:32.097Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-07T23:14:32.097Z"
+    "FStringFlagRepoGitHashFastString": "fb46b5db9eaeecd925906eaee42cd2a687cdcf2a",
+    "DFStringFlagRepoGitHashDynamicString": "fb46b5db9eaeecd925906eaee42cd2a687cdcf2a",
+    "FStringFlipTimeStampFastString": "2024-02-07T23:36:52.083Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-07T23:36:52.083Z"
 }
