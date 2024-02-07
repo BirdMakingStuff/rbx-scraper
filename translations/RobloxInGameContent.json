@@ -14759,6 +14759,22 @@
             "english": "When your camera is on, your avatar will follow your movement as you smile, blink, and more",
             "translation": "When your camera is on, your avatar will follow your movement as you smile, blink, and more",
             "isDeprecated": false
+        },
+        {
+            "namespace": "CoreScripts.FTUX",
+            "key": "Onboard.Complete",
+            "description": "The label to show in the tooltip button to complete the FTUX flow",
+            "english": "Got It",
+            "translation": "Got It",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "CoreScripts.FTUX",
+            "key": "Onboard.ShowMe",
+            "description": "Fist button label to start the FTUX onboarding",
+            "english": "Show Me",
+            "translation": "Show Me",
+            "isDeprecated": false
         }
     ],
     "locale": "en_us"
