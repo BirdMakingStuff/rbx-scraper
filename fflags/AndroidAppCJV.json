@@ -9226,7 +9226,7 @@
     "FFlagSurveyUserIdFix": "True",
     "DFFlagCheckAllForAnimation_PlaceFilter": "False;7180042682;5985232436;11424731604",
     "FFlagSharedTableStringKeyWithEmbeddedNull": "True",
-    "DFFlagStreamingSolverMapModifyCounts": "True",
+    "DFFlagStreamingSolverMapModifyCounts": "False",
     "FFlagFmodWasapiGetDeviceBusType": "True",
     "FStringNewDockingBetaFeatureUrl": "https://devforum.roblox.com/t/docking-updates-studio-beta/2729762",
     "FFlagXboxRemoveSetDefaultTeleportImpl": "True",
@@ -10414,6 +10414,9 @@
     "FFlagLuaAppScrollTelemetryHorizontal": "True",
     "DFIntOpenCloudInvokeAsyncPerMinuteThrottle": "100",
     "FFlagLuaAppFixOmnifiedSearchImpressionsInterface": "True",
+    "FFlagAsyncUpdatePlayTestSourceFromLSPService": "True",
+    "FFlagLiveScriptingFormatLogic": "True",
+    "FFlagRemoveLiveEditingSettingHandler": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10844,8 +10847,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "43f56d73fd9ba6ac781cdae1630f756d11cbfdd8",
-    "DFStringFlagRepoGitHashDynamicString": "43f56d73fd9ba6ac781cdae1630f756d11cbfdd8",
-    "FStringFlipTimeStampFastString": "2024-02-07T21:37:52.939Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-07T21:37:52.939Z"
+    "FStringFlagRepoGitHashFastString": "d012315c38089b05a6464a1afe1499934a9226bc",
+    "DFStringFlagRepoGitHashDynamicString": "d012315c38089b05a6464a1afe1499934a9226bc",
+    "FStringFlipTimeStampFastString": "2024-02-07T22:33:41.623Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-07T22:33:41.623Z"
 }
