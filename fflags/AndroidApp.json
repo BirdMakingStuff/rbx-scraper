@@ -10443,7 +10443,6 @@
     "FFlagPlayerContextualMenuAddUnblockCTA": "True",
     "FFlagSTUDIOPLAT_33359_ReportHangsInProgressAndSid": "True",
     "DFFlagEnableHumanoidStateChangeTelemtry_Rollout": "True;60;2024-02-08T18:48:32",
-    "FFlagSessionChangeEventRefactor_Rollout": "True;30;2024-02-08T18:53:03",
     "FFlagDraggerBetterResizePrecision": "True",
     "FFlagFaceAnimatorFixMemoryOrder_Rollout": "True;60;2024-02-08T18:56:08",
     "FFlagLuaAppMorePageCreateLinkUpdate": "True",
@@ -10455,6 +10454,11 @@
     "FFlagPresencePropagationDelayMonitoringEnabled": "True",
     "FFlagBootcampCLI94556": "True",
     "FFlagStudioNewPlaceUploadSaveRollout": "True",
+    "DFFlagPreventGCForIncreaseTunableRequests_Rollout": "True;30;2024-02-08T19:15:49",
+    "FFlagSessionChangeEventRefactor": "True",
+    "FFlagLuaAppScrollTelemetryConsole": "True",
+    "FFlagDraggerFixScalePivot2": "True",
+    "FFlagLuauSciNumberSkipTrailDot_Rollout": "True;60;2024-02-08T19:35:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10854,8 +10858,8 @@
     "FFlagGraphicsVulkanDeviceLostCrash": "True",
     "EnableAndroidCredentialsProtocol": "True",
     "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-    "FStringFlagRepoGitHashFastString": "a6f399af8d3fa625b1e43b5cfafb0fc8bfa6de58",
-    "DFStringFlagRepoGitHashDynamicString": "a6f399af8d3fa625b1e43b5cfafb0fc8bfa6de58",
-    "FStringFlipTimeStampFastString": "2024-02-08T19:11:23.967Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-08T19:11:23.967Z"
+    "FStringFlagRepoGitHashFastString": "f0f9b3b7dfc1fcb74b9ffa47fb822c74ed3680f8",
+    "DFStringFlagRepoGitHashDynamicString": "f0f9b3b7dfc1fcb74b9ffa47fb822c74ed3680f8",
+    "FStringFlipTimeStampFastString": "2024-02-08T19:33:32.511Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-08T19:33:32.511Z"
 }
