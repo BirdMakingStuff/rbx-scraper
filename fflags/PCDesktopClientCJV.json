@@ -10246,7 +10246,7 @@
     "FFlagLuaAppRemoveGameDetailDataStatus": "True",
     "FFlagToolboxNavigationClearsSortingFilters": "True",
     "FFlagToolboxFixFilteringByAlbum": "True",
-    "FFlagStudioCleanOgreEvents3": "True",
+    "FFlagStudioCleanOgreEvents3": "False",
     "FFlagStudioCleanOgreShowClose": "True",
     "FFlagLogPlaySoloWaypoints": "True",
     "DFFlagDSTelemetryEnableV2Counter": "True",
@@ -10442,6 +10442,9 @@
     "DFFlagDynamicFastVariableReloaderTest1": "True",
     "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage_Rollout": "100;60;2024-02-08T17:27:20",
     "FFlagSTUDIOPLAT_33359_ReportHangsInProgressAndSid_Rollout": "True;60;2024-02-08T17:31:01",
+    "FFlagLuaAppRefactorPlayButtonHandler3": "True",
+    "FFlagVideoStudioPreviewPermissionFix_Rollout": "True;60;2024-02-08T17:58:37",
+    "FFlagBootcampCLI94556_Rollout": "True;60;2024-02-08T18:05:26",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10734,8 +10737,8 @@
     "DFIntTaskSchedulerJobRetryCount": "1",
     "FFlagSTFSMEnableAppSessionSuccess": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "c153b7e3330a98f2c4a95228f2d1b57029cdbc1f",
-    "DFStringFlagRepoGitHashDynamicString": "c153b7e3330a98f2c4a95228f2d1b57029cdbc1f",
-    "FStringFlipTimeStampFastString": "2024-02-08T17:36:04.227Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-08T17:36:04.227Z"
+    "FStringFlagRepoGitHashFastString": "31040696ea0eac64f0751b5aaa7e794dbd14028b",
+    "DFStringFlagRepoGitHashDynamicString": "31040696ea0eac64f0751b5aaa7e794dbd14028b",
+    "FStringFlipTimeStampFastString": "2024-02-08T18:16:09.553Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-08T18:16:09.553Z"
 }
