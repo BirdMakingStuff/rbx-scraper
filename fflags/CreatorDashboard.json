@@ -1,4 +1,5 @@
 ﻿{
+    "enableExperienceNotificationsString": "true",
     "enableUserScreenWorkflow": "true",
     "enableSecrets": "true",
     "enableMeshConfiguration": "true",
