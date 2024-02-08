@@ -123,7 +123,7 @@
     "Description.RobloxCreditPurchase": "Subscriptions purchased via Roblox credit.",
     "Label.RobloxCredit": "Roblox Credit",
     "Action.YesConfirm": "Yes, Confirm",
-    "Action.NoGoBack": "Go, No Back",
+    "Action.NoGoBack": "No, Go Back",
     "Description.UpdateImage": "The new image for this subscription will not be available until it successfully passes moderation",
     "Description.UpdateSubscriptionConfirmation": "Are you sure you want to make these changes? By selecting “Yes, Confirm”, you agree to the UGC Subscription {LinkStart}Terms of Use{LinkEnd}. Reducing a user’s active subscription benefits is a violation of our terms."
 }
