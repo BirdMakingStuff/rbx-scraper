@@ -121,5 +121,9 @@
     "Description.DataMayBeBehind": "Data on this page may be a day behind. {linkStart}Learn more{linkEnd}.",
     "Description.RobloxCreditRevenue": "Net revenue from Roblox credit payments.",
     "Description.RobloxCreditPurchase": "Subscriptions purchased via Roblox credit.",
-    "Label.RobloxCredit": "Roblox Credit"
+    "Label.RobloxCredit": "Roblox Credit",
+    "Action.YesConfirm": "Yes, Confirm",
+    "Action.NoGoBack": "Go, No Back",
+    "Description.UpdateImage": "The new image for this subscription will not be available until it successfully passes moderation",
+    "Description.UpdateSubscriptionConfirmation": "Are you sure you want to make these changes? By selecting “Yes, Confirm”, you agree to the UGC Subscription {LinkStart}Terms of Use{LinkEnd}. Reducing a user’s active subscription benefits is a violation of our terms."
 }
