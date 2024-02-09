@@ -10465,7 +10465,7 @@
     "DFIntVideoCMCDMaxHeaderBytes": "900",
     "FFlagVideoCMCDAddVisibility2": "True",
     "FFlagVideoCMCDReportSessionId2": "True",
-    "FFlagRemoveLuaInitify": "True",
+    "FFlagRemoveLuaInitify": "False",
     "DFFlagStreamingBooleanIteration": "True",
     "FFlagSessionGetSessionTag": "True",
     "FFlagVideoTimePositionPassDurationFix": "True",
@@ -10477,7 +10477,6 @@
     "FFlagMoveAccessoriesForR15Rigs2": "True",
     "FFlagGpuGeometryManager13": "True",
     "FFlagScriptingProductivityTelemetryAsComponent": "True",
-    "FFlagDragDetectorUsesPermissionPolicy_Rollout": "False;1;2024-02-09T00:55:59",
     "FFlagDragDetectorUsesPermissionPolicy": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
@@ -10799,8 +10798,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "cec79561fd33a3d05d455c06e4300ccb2b27a429",
-    "DFStringFlagRepoGitHashDynamicString": "cec79561fd33a3d05d455c06e4300ccb2b27a429",
-    "FStringFlipTimeStampFastString": "2024-02-09T00:56:23.638Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-09T00:56:23.638Z"
+    "FStringFlagRepoGitHashFastString": "c9ad2a2cb0e5710bd0a83288ac244164fb2de765",
+    "DFStringFlagRepoGitHashDynamicString": "c9ad2a2cb0e5710bd0a83288ac244164fb2de765",
+    "FStringFlipTimeStampFastString": "2024-02-09T04:47:53.401Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-09T04:47:53.401Z"
 }
