@@ -10503,6 +10503,7 @@
     "FFlagLuaAppEnableSurveyTitleTranslation": "True",
     "DFFlagFastMeshSize2": "True",
     "FFlagMatchKeyboardWithTheme": "True",
+    "DFIntMultiPartUploadS3RequestTimeout": "60000",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10832,8 +10833,8 @@
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagMacClientSupportIME9": "True",
     "FFlagDeferFmodDriverShutdown2": "True",
-    "FStringFlagRepoGitHashFastString": "9afa0e837cb9be71a414c16ebad74139f8df363a",
-    "DFStringFlagRepoGitHashDynamicString": "9afa0e837cb9be71a414c16ebad74139f8df363a",
-    "FStringFlipTimeStampFastString": "2024-02-12T23:13:48.483Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-12T23:13:48.483Z"
+    "FStringFlagRepoGitHashFastString": "a641adabc4ff9e1622f7e9dd230d83fe2b824d10",
+    "DFStringFlagRepoGitHashDynamicString": "a641adabc4ff9e1622f7e9dd230d83fe2b824d10",
+    "FStringFlipTimeStampFastString": "2024-02-12T23:36:34.060Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-12T23:36:34.060Z"
 }
