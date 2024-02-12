@@ -527,5 +527,6 @@
     "Label.Dimension.PayerStatus.NonPayer": "Non-Payers",
     "Timestamp.ShortDateInUTC": "{date} UTC",
     "Label.TotalSourcesOverSelectedPeriod": "Total sources over selected period",
-    "Label.TotalSinksOverSelectedPeriod": "Total sinks over selected period"
+    "Label.TotalSinksOverSelectedPeriod": "Total sinks over selected period",
+    "Title.TopSourcesAndSinks": "Top Sources and Sinks"
 }
