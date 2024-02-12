@@ -524,5 +524,8 @@
     "Label.Dimension.TransactionType.TimedReward": "Timed Reward",
     "Label.Dimension.TransactionType.Onboarding": "Onboarding",
     "Label.Dimension.PayerStatus.Payer": "Payers",
-    "Label.Dimension.PayerStatus.NonPayer": "Non-Payers"
+    "Label.Dimension.PayerStatus.NonPayer": "Non-Payers",
+    "Timestamp.ShortDateInUTC": "{date} UTC",
+    "Label.TotalSourcesOverSelectedPeriod": "Total sources over selected period",
+    "Label.TotalSinksOverSelectedPeriod": "Total sinks over selected period"
 }
