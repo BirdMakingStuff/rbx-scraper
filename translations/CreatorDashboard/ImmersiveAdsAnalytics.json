@@ -60,5 +60,6 @@
     "Label.EmptyName": "&#8249;Empty Name&#8250;",
     "Description.DataDelay": "Data on this page might be several hours behind.",
     "Label.ImpressionsSummary": "Total Impressions",
-    "Label.TeleportsSummary": "Total Teleports"
+    "Label.TeleportsSummary": "Total Teleports",
+    "Label.VideoViewsSummary": "Total Video Views"
 }

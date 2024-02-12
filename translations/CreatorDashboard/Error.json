@@ -53,5 +53,6 @@
     "Error.SubjectNotFound.UnknownError": "Subject not found.",
     "Error.AssetTypeNotEnabled.UnknownError": "Asset type not enabled.",
     "Heading.MaintenancePage": "We’ll be back soon!",
-    "Description.MaintenancePage": "Thanks for your patience. We’re working to get back online as soon as possible. Please visit our {linkStart}status page{linkEnd} for more information.\n"
+    "Description.MaintenancePage": "Thanks for your patience. We’re working to get back online as soon as possible. Please visit our {linkStart}status page{linkEnd} for more information.\n",
+    "Label.CreatorStore": "Creator Store"
 }
