@@ -10488,6 +10488,8 @@
     "FFlagScriptEditorLiveEditing": "True",
     "FFlagScriptEditorLiveEditingStudioStartup": "True",
     "DFFlagPingTimeoutStats": "True",
+    "FFlagFixOptimizeSkeletonGetBoneIndexByPart_Rollout": "True;60;2024-02-12T17:17:21",
+    "DFFlagSimSolverGeometricStiffnessMassFix2_Rollout": "True;60;2024-02-12T17:30:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10818,8 +10820,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "40112c7da3f167804f88893680f34251a6b10d04",
-    "DFStringFlagRepoGitHashDynamicString": "40112c7da3f167804f88893680f34251a6b10d04",
-    "FStringFlipTimeStampFastString": "2024-02-09T23:59:25.431Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-09T23:59:25.431Z"
+    "FStringFlagRepoGitHashFastString": "b4921da6030f5111ffd6f394aa95839b63d9ac78",
+    "DFStringFlagRepoGitHashDynamicString": "b4921da6030f5111ffd6f394aa95839b63d9ac78",
+    "FStringFlipTimeStampFastString": "2024-02-12T17:31:08.468Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-12T17:31:08.468Z"
 }
