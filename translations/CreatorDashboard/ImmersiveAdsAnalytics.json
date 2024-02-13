@@ -61,5 +61,9 @@
     "Description.DataDelay": "Data on this page might be several hours behind.",
     "Label.ImpressionsSummary": "Total Impressions",
     "Label.TeleportsSummary": "Total Teleports",
-    "Label.VideoViewsSummary": "Total Video Views"
+    "Label.VideoViewsSummary": "Total Video Views",
+    "Heading.ImageAds": "Image Ads",
+    "Heading.Overview": "Overview",
+    "Heading.VideoAds": "Video Ads",
+    "Heading.PortalAds": "Portal Ads"
 }
