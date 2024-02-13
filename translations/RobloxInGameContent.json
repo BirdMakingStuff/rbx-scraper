@@ -12818,26 +12818,10 @@
         },
         {
             "namespace": "CoreScripts.TextChat",
-            "key": "ChatTranslation.FTUX.Title",
-            "description": "Created by anson.chen@roblox.com\nModified by anson.chen@roblox.com\nCreated by anson.chen@roblox.com\nModified by bdeng@roblox.com\nModified by anson.chen@roblox.com\nModified by anson.chen@roblox.com",
-            "english": "Chat translation is on",
-            "translation": "Chat translation is on",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "CoreScripts.TextChat",
             "key": "ChatTranslation.FTUX.Body",
             "description": "Created by anson.chen@roblox.com\nModified by anson.chen@roblox.com\nCreated by anson.chen@roblox.com\nModified by bdeng@roblox.com\nModified by anson.chen@roblox.com\nModified by anson.chen@roblox.com",
             "english": "Messages you send and receive will be translated automatically",
             "translation": "Messages you send and receive will be translated automatically",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "CoreScripts.TextChat",
-            "key": "ChatTranslation.ChatWindow.SystemMessage",
-            "description": "Created by anson.chen@roblox.com\nModified by <Unknown>\nCreated by anson.chen@roblox.com\nModified by bdeng@roblox.com\nModified by anson.chen@roblox.com\nModified by anson.chen@roblox.com",
-            "english": "Roblox is automatically translating chats for you",
-            "translation": "Roblox is automatically translating chats for you",
             "isDeprecated": false
         },
         {
