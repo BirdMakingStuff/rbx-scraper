@@ -7453,7 +7453,7 @@
     "FFlagFixDoubleSpacesAfterPrefixText": "True",
     "FFlagHideLocalPlayerControlBubbleForVR": "True",
     "FFlagUpgradeExpChatV4_1_10": "True",
-    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
     "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
     "FFlagGridDesignTokens3": "True",
     "FFlagTenFootUiMoreSettings": "True",
@@ -10922,8 +10922,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "aa1ff9e3495475bb4ac77ac3f0a173ed3fbb4b33",
-    "DFStringFlagRepoGitHashDynamicString": "aa1ff9e3495475bb4ac77ac3f0a173ed3fbb4b33",
-    "FStringFlipTimeStampFastString": "2024-02-13T17:59:16.745Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-13T17:59:16.745Z"
+    "FStringFlagRepoGitHashFastString": "2dd2a8020a23ce1d9bfcc639665ab6376cdb92ef",
+    "DFStringFlagRepoGitHashDynamicString": "2dd2a8020a23ce1d9bfcc639665ab6376cdb92ef",
+    "FStringFlipTimeStampFastString": "2024-02-13T18:33:59.335Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-13T18:33:59.335Z"
 }
