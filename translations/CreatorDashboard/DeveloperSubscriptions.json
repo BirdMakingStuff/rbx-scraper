@@ -125,5 +125,5 @@
     "Action.YesConfirm": "Yes, Confirm",
     "Action.NoGoBack": "No, Go Back",
     "Description.UpdateImage": "The new image for this subscription will not be available until it successfully passes moderation",
-    "Description.UpdateSubscriptionConfirmation": "Are you sure you want to make these changes? By selecting “Yes, Confirm”, you agree to the UGC Subscription {LinkStart}Terms of Use{LinkEnd}. Reducing a user’s active subscription benefits is a violation of our terms."
+    "Description.UpdateSubscriptionConfirmation": "Are you sure you want to make these changes? By selecting “Yes, Confirm”, you agree to the UGC Subscription {LinkStart}Terms of Use{LinkEnd}. Reducing a user’s active subscription benefits is a violation of our terms and may result in moderation action."
 }
