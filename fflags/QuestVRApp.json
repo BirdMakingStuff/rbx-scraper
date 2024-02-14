@@ -10538,6 +10538,8 @@
     "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-02-14T21:08:54",
     "FFlagOptimizeDeferredTerrainChanges_Rollout": "True;60;2024-02-14T21:09:29",
     "FFlagDoNotUseLocalScaling_Rollout": "True;60;2024-02-14T21:09:34",
+    "DFIntLuauCodegenStatsEventHundredthsPercent_Rollout": "0;30;2024-02-14T21:18:26",
+    "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "False;60;2024-02-14T21:29:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10938,6 +10940,7 @@
     "EnableAndroidCredentialsProtocol": "True",
     "FFlagLuaAppEnablePasskeyLoginABTest": "False",
     "EnablePushNotificationRegistrationPostLoginFix": "True",
+    "FStringRenderIGGPUBlacklist_Rollout": "Adreno (TM) 530|Adreno (TM) 618|Adreno (TM) 619|Adreno (TM) 504|PowerVR Rogue GE8320|Adreno (TM) 612|Adreno (TM) 615|Adreno (TM) 610;60;2024-02-14T21:30:27",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -10958,8 +10961,8 @@
     "FFlagUpdateCheckOnLogin": "False",
     "FFlagHideExperienceLoadingJudder2": "True",
     "FFlagGpuGeometryManager12": "True",
-    "FStringFlagRepoGitHashFastString": "d2982111182de80ed7dd83eec0a3248ea3325abf",
-    "DFStringFlagRepoGitHashDynamicString": "d2982111182de80ed7dd83eec0a3248ea3325abf",
-    "FStringFlipTimeStampFastString": "2024-02-14T21:10:12.592Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-14T21:10:12.592Z"
+    "FStringFlagRepoGitHashFastString": "6a946f0daf5dc625ea2cc9b93e503d87cca52d26",
+    "DFStringFlagRepoGitHashDynamicString": "6a946f0daf5dc625ea2cc9b93e503d87cca52d26",
+    "FStringFlipTimeStampFastString": "2024-02-14T21:31:30.810Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-14T21:31:30.810Z"
 }
