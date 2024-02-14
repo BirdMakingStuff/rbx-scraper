@@ -10913,7 +10913,7 @@
     "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
     "FFlagGraphicsVulkanDeviceLostCrash": "True",
     "EnableAndroidCredentialsProtocol": "True",
-    "FFlagLuaAppEnablePasskeyLoginABTest": "True",
+    "FFlagLuaAppEnablePasskeyLoginABTest": "False",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -10934,8 +10934,8 @@
     "FFlagUpdateCheckOnLogin": "False",
     "FFlagHideExperienceLoadingJudder2": "True",
     "FFlagGpuGeometryManager12": "True",
-    "FStringFlagRepoGitHashFastString": "7a8be6970914996c19408b926dfd7d99561115ff",
-    "DFStringFlagRepoGitHashDynamicString": "7a8be6970914996c19408b926dfd7d99561115ff",
-    "FStringFlipTimeStampFastString": "2024-02-13T19:28:44.216Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-13T19:28:44.216Z"
+    "FStringFlagRepoGitHashFastString": "c53c97e76ce16be317f4fa1726c15d74e99ddfde",
+    "DFStringFlagRepoGitHashDynamicString": "c53c97e76ce16be317f4fa1726c15d74e99ddfde",
+    "FStringFlipTimeStampFastString": "2024-02-14T01:50:37.371Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-14T01:50:37.371Z"
 }
