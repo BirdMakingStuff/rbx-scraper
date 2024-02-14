@@ -259,5 +259,6 @@
     "Label.Location": "Location",
     "Message.ItemAvailableLocation": "Where this item is available for purchase",
     "Label.PublishingAdvance": "Publishing Advance",
-    "Action.PublishItem": "Publish Item"
+    "Action.PublishItem": "Publish Item",
+    "Label.NoMinSalePriceAndDiscount": "Must specify minimum sale price when applying premium discounts"
 }
