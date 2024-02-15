@@ -10554,6 +10554,9 @@
     "FFlagUnifyRecommendationsAnalytics": "True",
     "FFlagStudioRunToCursorCallBackFix": "True",
     "FFlagLuaAppEnableCommunityLinksRedirect": "True",
+    "FFlagLuaAppWideGameTileView": "True",
+    "FFlagEmbedOAuth2ClientId2_Rollout": "True;60;2024-02-15T21:57:14",
+    "FFlagAnimationClipMemCacheEnabled_Rollout": "True;60;2024-02-15T22:13:57",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10712,8 +10715,8 @@
     "FFlagConsolesUserAgreements": "True",
     "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
     "FFlagPSOnlineIdSignalUpdate": "True",
-    "FStringFlagRepoGitHashFastString": "7bbc1cb998c148afc452eddc60c9f7de4408b175",
-    "DFStringFlagRepoGitHashDynamicString": "7bbc1cb998c148afc452eddc60c9f7de4408b175",
-    "FStringFlipTimeStampFastString": "2024-02-15T21:08:51.901Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-15T21:08:51.901Z"
+    "FStringFlagRepoGitHashFastString": "b3b1ec3531269a1fbbdcd9f7937d67e40a419646",
+    "DFStringFlagRepoGitHashDynamicString": "b3b1ec3531269a1fbbdcd9f7937d67e40a419646",
+    "FStringFlipTimeStampFastString": "2024-02-15T22:14:42.119Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-15T22:14:42.119Z"
 }
