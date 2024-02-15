@@ -10548,6 +10548,7 @@
     "FFlagCAPRequestTypeTelemetry": "True",
     "DFFlagCorrectRayAABBNearZero_Rollout": "True;60;2024-02-15T17:39:26",
     "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
+    "FFlagStudioDebuggerOpenEditDialogFix_Rollout": "True;60;2024-02-15T18:34:26",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10706,8 +10707,8 @@
     "FFlagConsolesUserAgreements": "True",
     "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
     "FFlagPSOnlineIdSignalUpdate": "True",
-    "FStringFlagRepoGitHashFastString": "c6383394b9d797d513eefb4f882a1d0a68079fa8",
-    "DFStringFlagRepoGitHashDynamicString": "c6383394b9d797d513eefb4f882a1d0a68079fa8",
-    "FStringFlipTimeStampFastString": "2024-02-15T17:52:40.281Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-15T17:52:40.281Z"
+    "FStringFlagRepoGitHashFastString": "a9062bc880a2403ae91666a17389d16ff9cb5d17",
+    "DFStringFlagRepoGitHashDynamicString": "a9062bc880a2403ae91666a17389d16ff9cb5d17",
+    "FStringFlipTimeStampFastString": "2024-02-15T18:35:04.407Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-15T18:35:04.407Z"
 }
