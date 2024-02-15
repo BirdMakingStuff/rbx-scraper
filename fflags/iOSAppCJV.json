@@ -10334,7 +10334,7 @@
     "FFlagFacialAnimationStreamingCheckPauseStateAfterEmote2": "True",
     "FFlagTerrainVTEnableRelease587Fix": "True",
     "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventRatePoints": "1",
-    "FFlagSmoothClusterTransitionalChunks": "True",
+    "FFlagSmoothClusterTransitionalChunks": "False",
     "FFlagEditProfilePageEnabledV4": "True",
     "FFlagDisableWhatsNewFromQuickAccess": "True",
     "FFlagAddCapturesGuacPolicy": "True",
@@ -10953,8 +10953,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "40442a246ce9ff67149359af5e1e12c01432a6ec",
-    "DFStringFlagRepoGitHashDynamicString": "40442a246ce9ff67149359af5e1e12c01432a6ec",
-    "FStringFlipTimeStampFastString": "2024-02-15T00:28:35.330Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-15T00:28:35.330Z"
+    "FStringFlagRepoGitHashFastString": "bdc7467e962a9c41fbaa809acacc09bf8a0f51fb",
+    "DFStringFlagRepoGitHashDynamicString": "bdc7467e962a9c41fbaa809acacc09bf8a0f51fb",
+    "FStringFlipTimeStampFastString": "2024-02-15T15:21:20.652Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-15T15:21:20.652Z"
 }
