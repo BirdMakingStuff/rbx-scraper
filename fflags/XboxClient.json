@@ -10546,9 +10546,11 @@
     "FFlagSimplifyPluginToQuickAccessConfig": "True",
     "FFlagChangeBetaFeatureAutoEnrollmentLabel": "True",
     "FFlagCAPRequestTypeTelemetry": "True",
-    "DFFlagCorrectRayAABBNearZero_Rollout": "True;60;2024-02-15T17:39:26",
     "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
     "FFlagStudioDebuggerOpenEditDialogFix_Rollout": "True;60;2024-02-15T18:34:26",
+    "DFFlagCorrectRayAABBNearZero": "True",
+    "DFFlagVoiceChatForceSubRetryWhenSubCloseFailed": "True",
+    "FFlagVoiceChatResetRoomAfterInvalidRoomId": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10853,8 +10855,8 @@
     "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagConsolesUserAgreements": "True",
-    "FStringFlagRepoGitHashFastString": "a9062bc880a2403ae91666a17389d16ff9cb5d17",
-    "DFStringFlagRepoGitHashDynamicString": "a9062bc880a2403ae91666a17389d16ff9cb5d17",
-    "FStringFlipTimeStampFastString": "2024-02-15T18:35:04.407Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-15T18:35:04.407Z"
+    "FStringFlagRepoGitHashFastString": "1fefd35911c2cca5b05a58374b5fe280dfd109e3",
+    "DFStringFlagRepoGitHashDynamicString": "1fefd35911c2cca5b05a58374b5fe280dfd109e3",
+    "FStringFlipTimeStampFastString": "2024-02-15T18:57:41.506Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-15T18:57:41.506Z"
 }
