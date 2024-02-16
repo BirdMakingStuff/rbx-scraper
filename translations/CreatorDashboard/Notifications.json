@@ -74,5 +74,10 @@
     "Label.StopReceivingAllEmailNotificationsV2": "Unsubscribe from all optional emails related to my creations, including certain alerts and reports.",
     "Message.NotificationContentCreateFailedInvalidPlaceholder": "Invalid placeholder: {placeholder}",
     "Description.PlaceHolder.ExampleExperienceNotificationsQuests": "Example: You're {strongStartQuestsLeft}{strongEndQuestsLeft} quests away from completing the daily challenge!",
-    "Description.Placeholder.InstructionExperienceNotificationsRestrictedDisplayNames": "For {linkStart}Experience Notifications{linkEnd}, you can include any custom placeholders, other than those that mention a specific user (displayName or other direct mentions are not supported). The title will automatically be the Experience Name."
+    "Description.Placeholder.InstructionExperienceNotificationsRestrictedDisplayNames": "For {linkStart}Experience Notifications{linkEnd}, you can include any custom placeholders, other than those that mention a specific user (displayName or other direct mentions are not supported). The title will automatically be the Experience Name.",
+    "Label.Analytics.Summary": "Experience Notifications Summary",
+    "Tab.Analytics": "Analytics",
+    "Tab.Creations": "Creations",
+    "Description.NotificationsPage": " {promptLinkStart}Create{promptLinkEnd} experience notifications to engage with users. {analyticsLinkStart}Learn more{analyticsLinkEnd} about campaign level analytics.",
+    "Label.Analytics.Content.Header": "Experience Notifications"
 }

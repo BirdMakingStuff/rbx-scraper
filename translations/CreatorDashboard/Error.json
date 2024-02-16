@@ -1,6 +1,6 @@
 ﻿{
-    "Heading.PageNotFound": "Oops! Builderman and his friends are out exploring Roblox. Let's go back home.",
-    "Description.PageNotFound": "404 | Page Not Found",
+    "Heading.PageNotFound": "We couldn't find the page you were looking for",
+    "Description.PageNotFound": "404 Page Not Found",
     "Description.FailedToLoadPage": "Failed to load the page",
     "Response.UnknownError": "Unknown Error, please try again later.",
     "Heading.UnknownError": "Unknown Error",
@@ -8,7 +8,7 @@
     "Response.TryAgainLater": "Please try again later",
     "Heading.NoNetworkConnection": "No Network Connection",
     "Heading.BadRequest": "Bad Request",
-    "Description.BadRequest": "400 | There was a problem with your request\n",
+    "Description.BadRequest": "400 There was a problem with your request\n",
     "Heading.AccessDenied": "Access Denied",
     "Description.AccessDenied": "You don't have permission to view this page",
     "Heading.FailedToLoadPage": "Oh noes!",
