@@ -10577,6 +10577,10 @@
     "FFlagEnableSponsoredAdsResponsiveCarouselTooltip2": "True",
     "FFlagEnableSponsoredAdsSeeAllGamesListTooltip": "True",
     "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-02-16T23:14:31",
+    "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2024-02-16T23:14:44",
+    "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-02-16T23:18:47",
+    "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-02-16T23:18:54",
+    "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-16T23:19:07",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10907,8 +10911,8 @@
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagMacClientSupportIME9": "True",
     "FFlagDeferFmodDriverShutdown2": "True",
-    "FStringFlagRepoGitHashFastString": "746704f8e72d3714e85c22f16b300572dad50c0d",
-    "DFStringFlagRepoGitHashDynamicString": "746704f8e72d3714e85c22f16b300572dad50c0d",
-    "FStringFlipTimeStampFastString": "2024-02-16T23:15:18.278Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-16T23:15:18.278Z"
+    "FStringFlagRepoGitHashFastString": "88c659652c6642760bdfcd0902dbebbf014c4d06",
+    "DFStringFlagRepoGitHashDynamicString": "88c659652c6642760bdfcd0902dbebbf014c4d06",
+    "FStringFlipTimeStampFastString": "2024-02-16T23:20:10.530Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-16T23:20:10.530Z"
 }
