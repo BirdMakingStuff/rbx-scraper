@@ -528,5 +528,6 @@
     "Timestamp.ShortDateInUTC": "{date} UTC",
     "Label.TotalSourcesOverSelectedPeriod": "Total sources over selected period",
     "Label.TotalSinksOverSelectedPeriod": "Total sinks over selected period",
-    "Title.TopSourcesAndSinks": "Top Sources and Sinks"
+    "Title.TopSourcesAndSinks": "Top Sources and Sinks",
+    "Label.LiveEvents": "Live Events"
 }
