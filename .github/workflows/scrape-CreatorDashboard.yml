@@ -2,7 +2,7 @@ name: actions_scrape_CreatorDashboard
 run-name: "Scrape translations from Creator Dashboard"
 on:
   schedule:
-    - cron: "34 1-2,16-23 * * 1-6"
+    - cron: "4,34 0-2,16-23 * * *"
   workflow_dispatch:
 
 jobs:

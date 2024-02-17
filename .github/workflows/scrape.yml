@@ -2,7 +2,7 @@ name: actions_scrape
 run-name: "Scrape both translations and FFlags from Roblox API"
 on:
   schedule:
-    - cron: "2,32 1-2,16-23 * * 1-6"
+    - cron: "2,32 0-2,16-23 * * *"
   workflow_dispatch:
 
 jobs:
