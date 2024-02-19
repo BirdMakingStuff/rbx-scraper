@@ -5449,6 +5449,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Home",
+            "key": "LabelMoreToExplore",
+            "description": "This string is the header (title) for a sort on the Homepage that displays additional experiences for the users to explore.",
+            "english": "More To Explore",
+            "translation": "More To Explore",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.ContactUpsell",
             "key": "PhoneNumber.Missing",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
