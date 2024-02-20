@@ -10577,6 +10577,12 @@
     "FFlagEnableSponsoredAdsSeeAllGamesListTooltip": "True",
     "FFlagUWPCheckTTIFlagRetry": "True",
     "FFlagGpuGeometryManager13": "True",
+    "DFFlagHeapProfilerSkipEmpty_Rollout": "True;60;2024-02-20T17:15:49",
+    "DFFlagInvalidNumPropertyAssignCheck_Rollout": "True;60;2024-02-20T17:17:19",
+    "FFlagContactsDeepLinkRedirectToModal": "True",
+    "FFlagFixContactRecsCTRAnalytics": "True",
+    "FFlagFixContactRecsFriendRequestLogging": "True",
+    "DFFlagFixSensorsInWorldCrash_Rollout": "True;30;2024-02-20T17:30:20",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10734,8 +10740,8 @@
     "FFlagConsolesUserAgreements": "True",
     "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
     "FFlagPSOnlineIdSignalUpdate": "True",
-    "FStringFlagRepoGitHashFastString": "8efb477b1d2d64ad76da422eff236a1cbea7b5d2",
-    "DFStringFlagRepoGitHashDynamicString": "8efb477b1d2d64ad76da422eff236a1cbea7b5d2",
-    "FStringFlipTimeStampFastString": "2024-02-17T02:04:35.766Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-17T02:04:35.766Z"
+    "FStringFlagRepoGitHashFastString": "b6a71c834dc24513bfe7f1d42099495a454617ce",
+    "DFStringFlagRepoGitHashDynamicString": "b6a71c834dc24513bfe7f1d42099495a454617ce",
+    "FStringFlipTimeStampFastString": "2024-02-20T17:31:13.122Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-20T17:31:13.122Z"
 }
