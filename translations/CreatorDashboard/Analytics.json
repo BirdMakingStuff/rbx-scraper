@@ -529,5 +529,14 @@
     "Label.TotalSourcesOverSelectedPeriod": "Total sources over selected period",
     "Label.TotalSinksOverSelectedPeriod": "Total sinks over selected period",
     "Title.TopSourcesAndSinks": "Top Sources and Sinks",
-    "Label.LiveEvents": "Live Events"
+    "Label.LiveEvents": "Live Events",
+    "Label.UserIdFilterPlaceholder": "Search by user id",
+    "Action.Refresh": "Refresh",
+    "Label.Dimension.EventType.EconomyEvents": "Economy Events",
+    "Label.Dimension.EventType.ProgressionEvents": "Progression Events",
+    "Label.Refresh": "Refresh",
+    "Label.Dimension.EventType.All": "All",
+    "Label.Dimension.EventType": "Event Type",
+    "Action.Reset": "Reset",
+    "Action.Close": "Close"
 }
