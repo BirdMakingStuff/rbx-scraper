@@ -159,5 +159,6 @@
     "Message.AppBanned": "Your app is banned and new authorizations are not possible. Please file an {linkStart}appeal{linkEnd} if you think this is an error.",
     "Label.UniversePlaceInstance": "Instances",
     "OperationDescription.InstanceRead": "Grants the ability to read information about a DataModel instance",
-    "OperationDescription.InstanceWrite": "Grants the ability to write information on a DataModel instance"
+    "OperationDescription.InstanceWrite": "Grants the ability to write information on a DataModel instance",
+    "Label.SubmitAppForReview": "Submit For Review"
 }
