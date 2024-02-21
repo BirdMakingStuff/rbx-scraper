@@ -80,10 +80,12 @@
     "Tab.Creations": "Creations",
     "Description.NotificationsPage": " {promptLinkStart}Create{promptLinkEnd} experience notifications to engage with users. {analyticsLinkStart}Learn more{analyticsLinkEnd} about campaign level analytics.",
     "Label.Analytics.Content.Header": "Experience Notifications",
+    "Description.Table.CampaignAnalytics": "more information on experience notification campaigns",
     "Label.Impressions": "Impressions",
     "Label.Clicks": "Clicks",
     "Label.TurnoffRate": "Turn Off",
     "Label.OptedInUsers": "Opted-in Users",
     "Label.CTR": "CTR",
-    "Label.DismissRate": "Dismiss"
+    "Label.DismissRate": "Dismiss",
+    "Title.Table.CampaignAnalytics": "Experience Notifications"
 }
