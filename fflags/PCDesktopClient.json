@@ -10690,6 +10690,7 @@
     "DFFlagUGCValidateMeshTrianglesFacesFix": "True",
     "DFFlagUGCValidationCageUVTriangleAreaFacesFix": "True",
     "FFlagReportELFDebugInfo_Rollout": "True;60;2024-02-22T17:09:30",
+    "FFlagELFSubsystemInternalFlowControl_Rollout": "True;60;2024-02-22T17:32:32",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10981,8 +10982,8 @@
     "DFIntTaskSchedulerJobRetryCount": "1",
     "FFlagSTFSMEnableAppSessionSuccess": "True",
     "FFlagEnableInGameMenuChromeABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "c7c7eed6e3ff8eef299fc51ab80a8723859d3818",
-    "DFStringFlagRepoGitHashDynamicString": "c7c7eed6e3ff8eef299fc51ab80a8723859d3818",
-    "FStringFlipTimeStampFastString": "2024-02-22T17:10:16.103Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-22T17:10:16.103Z"
+    "FStringFlagRepoGitHashFastString": "07ef72c5fd319ebcf83410ff4cca106995fb88b2",
+    "DFStringFlagRepoGitHashDynamicString": "07ef72c5fd319ebcf83410ff4cca106995fb88b2",
+    "FStringFlipTimeStampFastString": "2024-02-22T17:39:15.508Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-22T17:39:15.508Z"
 }
