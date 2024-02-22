@@ -2361,6 +2361,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Authentication.SignUp",
+            "key": "Description.VerificationPageMultiStep",
+            "description": "Legal text in the final step of multi step (e.g. passkey) sign up",
+            "english": "By clicking Continue, you are agreeing to the Terms of Use including the arbitration clause and you are acknowledging the Privacy Policy.",
+            "translation": "By clicking Continue, you are agreeing to the Terms of Use including the arbitration clause and you are acknowledging the Privacy Policy.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "CommonUI.Controls",
             "key": "Action.Accept",
             "description": "Created by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -9190,6 +9198,14 @@
             "description": "Created by mfranco@roblox.com\nModified by mfranco@roblox.com\nCreated by mfranco@roblox.com\nModified by bdeng@roblox.com",
             "english": "In order to animate your avatar using camera, go to your OS Settings to allow Roblox to use the camera",
             "translation": "In order to animate your avatar using camera, go to your OS Settings to allow Roblox to use the camera",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Action.SwitchAccount",
+            "description": "Menu button to launch account switching flow.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Switch Accounts",
+            "translation": "Switch Accounts",
             "isDeprecated": false
         },
         {

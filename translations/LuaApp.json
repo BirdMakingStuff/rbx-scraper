@@ -1969,6 +1969,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Authentication.SignUp",
+            "key": "Description.VerificationPageMultiStep",
+            "description": "Legal text in the final step of multi step (e.g. passkey) sign up",
+            "english": "By clicking Continue, you are agreeing to the Terms of Use including the arbitration clause and you are acknowledging the Privacy Policy.",
+            "translation": "By clicking Continue, you are agreeing to the Terms of Use including the arbitration clause and you are acknowledging the Privacy Policy.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Common.AlertsAndOptions",
             "key": "Description.KoreaScreentimeToastText",
             "description": "Alert text showing to korea user how many hours they've been playing\nCreated by jhou@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by jhou@roblox.com\nModified by bdeng@roblox.com",
@@ -23742,6 +23750,14 @@
             "description": "Settings button text\nCreated by bwei@roblox.com\nModified by bwei@roblox.com\nCreated by bwei@roblox.com\nModified by bdeng@roblox.com",
             "english": "Settings",
             "translation": "Settings",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.AccountSwitch",
+            "key": "Action.SwitchAccount",
+            "description": "Menu button to launch account switching flow.\nCreated by skwan@roblox.com\nModified by skwan@roblox.com\nCreated by skwan@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Switch Accounts",
+            "translation": "Switch Accounts",
             "isDeprecated": false
         },
         {
