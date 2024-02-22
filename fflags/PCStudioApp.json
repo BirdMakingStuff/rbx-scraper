@@ -5476,7 +5476,7 @@
     "FFlagSimEnableCSGV3": "True",
     "FFlagLuaAppCrossDeviceLoginRefactor": "True",
     "DFFlagStaticallyInferArgumentCount": "True",
-    "FFlagFetchMeshPartAccessories3": "True",
+    "FFlagFetchMeshPartAccessories3": "False",
     "FFlagAinRefactorApplySettings": "True",
     "FFlagContactListEnabled": "False",
     "FFlagContactListEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929",
@@ -10695,6 +10695,9 @@
     "FFlagHangDetectionJobV2_Rollout": "True;30;2024-02-22T18:14:42",
     "DFFlagGCNoEmergencyIfNoRegions_Rollout": "True;60;2024-02-22T18:16:32",
     "FFlagReportELFDebugInfo": "True",
+    "FFlagAudioWiringApiBetaFeature_Rollout": "True;30;2024-02-22T18:23:50",
+    "FFlagUserProfilePlatformName": "True",
+    "DFFlagFlagRolloutTestDynamicBool4_Rollout": "True;60;2024-02-22T18:31:49",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11021,8 +11024,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "36e81a23415c951c1e7a959f3ca63f8e7823b7d8",
-    "DFStringFlagRepoGitHashDynamicString": "36e81a23415c951c1e7a959f3ca63f8e7823b7d8",
-    "FStringFlipTimeStampFastString": "2024-02-22T18:17:20.008Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-22T18:17:20.008Z"
+    "FStringFlagRepoGitHashFastString": "b34bedf21e01cebc3bab340fbab1a941bd164cdb",
+    "DFStringFlagRepoGitHashDynamicString": "b34bedf21e01cebc3bab340fbab1a941bd164cdb",
+    "FStringFlipTimeStampFastString": "2024-02-22T18:32:18.708Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-22T18:32:18.708Z"
 }
