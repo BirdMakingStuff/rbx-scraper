@@ -82,10 +82,18 @@
     "Label.Analytics.Content.Header": "Experience Notifications",
     "Description.Table.CampaignAnalytics": "more information on experience notification campaigns",
     "Label.Impressions": "Impressions",
+    "Tooltip.Table.CampaignAnalytics.Clicks": "The number of clicks the campaign generated",
     "Label.Clicks": "Clicks",
     "Label.TurnoffRate": "Turn Off",
     "Label.OptedInUsers": "Opted-in Users",
     "Label.CTR": "CTR",
+    "Tooltip.Table.CampaignAnalytics.ClickthroughRate": "Click through rate on your campaigns. (clicks per invites sent)",
     "Label.DismissRate": "Dismiss",
-    "Title.Table.CampaignAnalytics": "Experience Notifications"
+    "Tooltip.Table.CampaignAnalytics.TurnoffRate": "rate of users turning off notifications for your experience",
+    "Tooltip.Table.CampaignAnalytics.Name": "Notification Campaign Names",
+    "Label.Table.FirstImpressionDate": "First Impression",
+    "Tooltip.Table.CampaignAnalytics.Impressions": "Number of impressions this campaign generated.",
+    "Title.Table.CampaignAnalytics": "Experience Notifications",
+    "Tooltip.Table.CampaignAnalytics.FirstImpressionDate": "Date when first impression for the campaign was registered.",
+    "Tooltip.Table.CampaignAnalytics.DismissRate": "Percentage of users dismissing notifications on delivery."
 }
