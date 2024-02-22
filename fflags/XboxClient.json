@@ -4975,7 +4975,7 @@
     "DFFlagSimTouchDebouncerFastOther": "True",
     "FFlagSupportOffCenterOriginInvestigateExtentsCFrameCrash": "False",
     "FFlagSupportOffCenterOriginInvestigateExtentsSizeCrash": "False",
-    "DFFlagFlagRolloutTestDynamicBool4": "True",
+    "DFFlagFlagRolloutTestDynamicBool4": "False",
     "FFlagBatchAssetApiRollout": "True",
     "FIntBatchAssetApiRolloutHundredthPercent": "10000",
     "FFlagTrackAllDeviceMemory6": "False",
@@ -6389,7 +6389,7 @@
     "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
     "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
     "FFlag9SliceEditorShorterLoadTime": "True",
-    "DFFlagFlagRolloutTestDynamicBool0": "True",
+    "DFFlagFlagRolloutTestDynamicBool0": "False",
     "FFlagUserSearchLayerPassAllProps": "True",
     "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
     "FFlagUnifyAddFriendsPageRouterName": "True",
@@ -10989,8 +10989,8 @@
     "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagConsolesUserAgreements": "True",
-    "FStringFlagRepoGitHashFastString": "1db2dce14ff3a67cd3716a1ecbe1faabdae4bd44",
-    "DFStringFlagRepoGitHashDynamicString": "1db2dce14ff3a67cd3716a1ecbe1faabdae4bd44",
-    "FStringFlipTimeStampFastString": "2024-02-22T01:36:40.286Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-22T01:36:40.286Z"
+    "FStringFlagRepoGitHashFastString": "9856882e9329bf545d74030a4cfc93569dcd6d63",
+    "DFStringFlagRepoGitHashDynamicString": "9856882e9329bf545d74030a4cfc93569dcd6d63",
+    "FStringFlipTimeStampFastString": "2024-02-22T15:38:08.230Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-22T15:38:08.230Z"
 }
