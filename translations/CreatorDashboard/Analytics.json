@@ -538,5 +538,8 @@
     "Label.Dimension.EventType.All": "All",
     "Label.Dimension.EventType": "Event Type",
     "Action.Reset": "Reset",
-    "Action.Close": "Close"
+    "Action.Close": "Close",
+    "Heading.InExperienceEconomyZeroState": "Track your in-experience economy",
+    "Description.InExperienceEconomyZeroStateOnboarding": "Instrument our recommended events SDK to unlock dashboards that’ll help you track:{listStart}{listItemStart}Where players spend resources (e.g. starter packs, items){listItemEnd}{listItemStart}Where players earn resources (e.g. in-game actions, shop purchases){listItemEnd}{listItemStart}How much resources players are holding? (e.g. gold, gems){listItemEnd}{listEnd}",
+    "Action.ReadDocumentation": "Read Documentation"
 }
