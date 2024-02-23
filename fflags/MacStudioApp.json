@@ -10738,13 +10738,13 @@
     "DFIntAdditionalPrePauseStatsHundredthsPercentage": "100",
     "FFlagLuaAppFixTabletGridTileColumnCount": "True",
     "FFlagLuaAppAddComponentTypeToImpressions": "True",
-    "DFFlagAdditionalPrePauseStats_Rollout": "True;60;2024-02-23T18:38:30",
     "FFlagLuaAppSponsoredTooltipCustomColorSupport": "True",
     "DFFlagVideoAddFormatNameVisibilityMetrics": "True",
     "FFlagSelfViewMoreNilChecks": "True",
     "FFlagReportStreamingObserverStats2": "True",
     "DFFlagSimReportDidThrottleDuringStep": "True",
-    "FFlagFixValidationCLI88954_Rollout": "True;60;2024-02-23T19:36:49",
+    "FFlagFixExplorerAllDescendantsFilter_Rollout": "True;30;2024-02-23T19:49:00",
+    "DFFlagAdditionalPrePauseStats": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11077,8 +11077,8 @@
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagMacClientSupportIME9": "True",
     "FFlagDeferFmodDriverShutdown2": "True",
-    "FStringFlagRepoGitHashFastString": "e415a46351c140ceeba12109942be64a3ad97564",
-    "DFStringFlagRepoGitHashDynamicString": "e415a46351c140ceeba12109942be64a3ad97564",
-    "FStringFlipTimeStampFastString": "2024-02-23T19:37:21.568Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-23T19:37:21.568Z"
+    "FStringFlagRepoGitHashFastString": "bf82b98f92c2bde4a0ccab754217105fd19d5390",
+    "DFStringFlagRepoGitHashDynamicString": "bf82b98f92c2bde4a0ccab754217105fd19d5390",
+    "FStringFlipTimeStampFastString": "2024-02-23T20:13:52.206Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-23T20:13:52.206Z"
 }
