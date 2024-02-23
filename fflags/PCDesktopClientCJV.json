@@ -10591,7 +10591,7 @@
     "FFlagCinFixLastFacsStatus": "True",
     "DFFlagInvalidNumPropertyAssignReport": "True",
     "FFlagDraggerBetaMoreFixes": "True",
-    "FFlagNavmeshMemAnalytics_PlaceFilter": "True;6405807112;12535794880",
+    "FFlagNavmeshMemAnalytics_PlaceFilter": "True;6405807112;12535794880;16453132860",
     "FLogNavigation_PlaceFilter": "Info;16453132860;6405807112;12535794880",
     "FFlagSTUDIOPLAT33408FixStudioCrash": "True",
     "FFlagEnableItemDetailsTopBarBackButtonFix": "True",
@@ -10741,6 +10741,7 @@
     "DFFlagSimReportDidThrottleDuringStep_Rollout": "True;60;2024-02-23T17:54:33",
     "FFlagLuaAppFixTabletGridTileColumnCount": "True",
     "FFlagLuaAppAddComponentTypeToImpressions": "True",
+    "DFFlagAdditionalPrePauseStats_Rollout": "True;60;2024-02-23T18:38:30",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11033,8 +11034,8 @@
     "FFlagSTFSMEnableAppSessionSuccess": "True",
     "FFlagEnableInGameMenuChromeABTest2": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "0fd8b29b92a8670e514484d462ea2cdd7e83ef90",
-    "DFStringFlagRepoGitHashDynamicString": "0fd8b29b92a8670e514484d462ea2cdd7e83ef90",
-    "FStringFlipTimeStampFastString": "2024-02-23T18:04:29.115Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-23T18:04:29.115Z"
+    "FStringFlagRepoGitHashFastString": "d586600824ae1c8cdef598bdd63ad2667b4471de",
+    "DFStringFlagRepoGitHashDynamicString": "d586600824ae1c8cdef598bdd63ad2667b4471de",
+    "FStringFlipTimeStampFastString": "2024-02-23T18:39:06.895Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-23T18:39:06.895Z"
 }
