@@ -204,5 +204,6 @@
     "Message.AcceptedInvitation": "You have accepted {username}'s invitation to join their group. Once you are granted access to manage the group you will be able to view it here.",
     "Message.AcceptedInvitationWithoutUsername": "You have accepted the invitation. Once you are granted access to manage the group you will be able to view it here.",
     "InvitationAcceptedWithoutUsername": "You have accepted the invitation. Once you are granted access to manage the group you will be able to view it here.",
-    "Action.ViewGroupExternal": "View Group on Roblox.com"
+    "Action.ViewGroupExternal": "View Group on Roblox.com",
+    "Label.Amazon": "Amazon"
 }

@@ -67,5 +67,7 @@
     "Heading.VideoAds": "Video Ads",
     "Heading.PortalAds": "Portal Ads",
     "Label.TotalEarningsRobux": "Total Earnings (Robux)",
-    "Title.EarningsRobux": "Earnings (Robux)"
+    "Title.EarningsRobux": "Earnings (Robux)",
+    "Title.AverageEarningsPerTeleport": "Average EPT (Earnings per Teleport)",
+    "Title.EPMEarningsPerMille": "EPM (Earnings per Mille)"
 }
