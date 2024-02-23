@@ -10736,12 +10736,13 @@
     "FFlagPerformanceControlAddStartToConstructor": "True",
     "DFFlagRemoveCallbackModeFromPerformanceControl": "True",
     "DFIntAdditionalPrePauseStatsHundredthsPercentage": "100",
-    "DFFlagVideoAddFormatNameVisibilityMetrics_Rollout": "True;60;2024-02-23T17:12:00",
     "FFlagReportStreamingObserverStats2_Rollout": "True;60;2024-02-23T17:50:48",
     "DFFlagSimReportDidThrottleDuringStep_Rollout": "True;60;2024-02-23T17:54:33",
     "FFlagLuaAppFixTabletGridTileColumnCount": "True",
     "FFlagLuaAppAddComponentTypeToImpressions": "True",
     "DFFlagAdditionalPrePauseStats_Rollout": "True;60;2024-02-23T18:38:30",
+    "FFlagLuaAppSponsoredTooltipCustomColorSupport": "True",
+    "DFFlagVideoAddFormatNameVisibilityMetrics": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10896,8 +10897,8 @@
     "FFlagReadLocalFlagsFromDataFolderOnPS": "True",
     "FFlagDisableStudioSelectionFilterOnClient": "True",
     "FIntEnableCullableScene2HundredthPercent3": "10000",
-    "FStringFlagRepoGitHashFastString": "d586600824ae1c8cdef598bdd63ad2667b4471de",
-    "DFStringFlagRepoGitHashDynamicString": "d586600824ae1c8cdef598bdd63ad2667b4471de",
-    "FStringFlipTimeStampFastString": "2024-02-23T18:39:06.895Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-23T18:39:06.895Z"
+    "FStringFlagRepoGitHashFastString": "b62c1da863b34261ea4c24494186643bb75f9248",
+    "DFStringFlagRepoGitHashDynamicString": "b62c1da863b34261ea4c24494186643bb75f9248",
+    "FStringFlipTimeStampFastString": "2024-02-23T18:51:49.895Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-23T18:51:49.895Z"
 }
