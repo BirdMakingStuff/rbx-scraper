@@ -50,6 +50,14 @@
         },
         {
             "namespace": "CommonUI.Controls",
+            "key": "Action.Yes",
+            "description": "Created by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Yes",
+            "translation": "Yes",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "CommonUI.Controls",
             "key": "Input.Optional",
             "description": "Text for a form input indicating that the input is optional\nCreated by nwinans@roblox.com\nModified by nwinans@roblox.com",
             "english": "{inputLabel} (optional)",
@@ -10826,14 +10834,6 @@
         },
         {
             "namespace": "CoreScripts.InGameMenu",
-            "key": "LanguageSelection.InformationalText",
-            "description": "Informational message on the Language Selection page displayed below the settings dropdown to provide context for the feature.\nCreated by jameswang@roblox.com\nModified by jameswang@roblox.com\nCreated by jameswang@roblox.com\nModified by bdeng@roblox.com",
-            "english": "Only languages supported by this experience are available. Additionally, translation coverage may vary by language. Please reach out to the developer if you have any feedback.",
-            "translation": "Only languages supported by this experience are available. Additionally, translation coverage may vary by language. Please reach out to the developer if you have any feedback.",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "CoreScripts.InGameMenu",
             "key": "LanguageSelection.SourceLanguage",
             "description": "Displayed in the language selection dropdown to indicate that the user has selected {LanguageName} as their experience language. The (Original) tag is an indicator that {LanguageName} is the source language of the experience.\nCreated by jameswang@roblox.com\nModified by jameswang@roblox.com\nCreated by jameswang@roblox.com\nModified by bdeng@roblox.com",
             "english": "{LanguageName} (Original)",
@@ -14878,6 +14878,30 @@
             "description": "First button label to start the FTUX onboarding",
             "english": "Show Me",
             "translation": "Show Me",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Notifications",
+            "key": "Heading.EnableNotifications",
+            "description": "CTA to enable notifications for the experience you're currently playing",
+            "english": "Turn on Notifications for this experience",
+            "translation": "Turn on Notifications for this experience",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Notifications",
+            "key": "Heading.EnableNotificationsForExperience",
+            "description": "CTA to enable notifications for a specific experience",
+            "english": "Turn on Notifications for {experienceName}",
+            "translation": "Turn on Notifications for {experienceName}",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Notifications",
+            "key": "Label.ReceiveActivityUpdates",
+            "description": "prompting users to enable experience notifications to receive updates from the experience",
+            "english": "Receive updates on activity while you're away",
+            "translation": "Receive updates on activity while you're away",
             "isDeprecated": false
         }
     ],

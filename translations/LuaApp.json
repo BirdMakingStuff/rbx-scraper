@@ -3929,6 +3929,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.AccountSettings",
+            "key": "Description.LastPasskeyWarning",
+            "description": "Text warning users that they cannot delete their last passkey if they have no password",
+            "english": "Passkey is your Roblox account’s only authentication method. You must have at least one passkey.\n",
+            "translation": "Passkey is your Roblox account’s only authentication method. You must have at least one passkey.\n",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.Catalog",
             "key": "Label.CategoryType",
             "description": "Created by <Unknown>\nModified by rosezhou@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -15210,14 +15218,6 @@
         },
         {
             "namespace": "CoreScripts.InGameMenu",
-            "key": "LanguageSelection.InformationalText",
-            "description": "Informational message on the Language Selection page displayed below the settings dropdown to provide context for the feature.\nCreated by jameswang@roblox.com\nModified by jameswang@roblox.com\nCreated by jameswang@roblox.com\nModified by bdeng@roblox.com",
-            "english": "Only languages supported by this experience are available. Additionally, translation coverage may vary by language. Please reach out to the developer if you have any feedback.",
-            "translation": "Only languages supported by this experience are available. Additionally, translation coverage may vary by language. Please reach out to the developer if you have any feedback.",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "CoreScripts.InGameMenu",
             "key": "LanguageSelection.SourceLanguage",
             "description": "Displayed in the language selection dropdown to indicate that the user has selected {LanguageName} as their experience language. The (Original) tag is an indicator that {LanguageName} is the source language of the experience.\nCreated by jameswang@roblox.com\nModified by jameswang@roblox.com\nCreated by jameswang@roblox.com\nModified by bdeng@roblox.com",
             "english": "{LanguageName} (Original)",
@@ -24374,6 +24374,22 @@
             "description": "Body text for a prompt asking the user if they would like to save some screenshot/video captures.\nCreated by dgriffin@roblox.com",
             "english": "Would you like to save your captures?",
             "translation": "Would you like to save your captures?",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Captures",
+            "key": "Title.DeleteAllCaptureWarning",
+            "description": "Title of modal for deleting all captures",
+            "english": "Delete All Captures",
+            "translation": "Delete All Captures",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Captures",
+            "key": "Label.DeleteAllCaptureInfo",
+            "description": "Label of modal for deleting all captures",
+            "english": "This will permanently delete your all your captures.",
+            "translation": "This will permanently delete your all your captures.",
             "isDeprecated": false
         },
         {
