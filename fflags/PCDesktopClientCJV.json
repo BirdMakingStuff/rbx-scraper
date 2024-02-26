@@ -10604,7 +10604,6 @@
     "FFlagAESGetOutfitsPaginationToken": "True",
     "FFlagToolboxRollingAssetPermissionRequests": "True",
     "FFlagPackageUpdateNestedPackageUnmodified1": "True",
-    "DFFlagUseNetworkStreamInterface": "True",
     "FFlagMeasureAppLaunchToTargetFPS": "True",
     "FIntIntervalPerformanceTrackerEventStream": "1",
     "FFlagSTUDIOPLAT31352ParseFirstLaunch2": "True",
@@ -11063,8 +11062,8 @@
     "FFlagEnableInGameMenuChromeABTest2": "True",
     "FFlagUniversalAppCsat2": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "7945685acc111e6ccbb0bb1177e54bd597036f34",
-    "DFStringFlagRepoGitHashDynamicString": "7945685acc111e6ccbb0bb1177e54bd597036f34",
-    "FStringFlipTimeStampFastString": "2024-02-26T22:36:21.310Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-26T22:36:21.310Z"
+    "FStringFlagRepoGitHashFastString": "dc45252141f70cde0dd50e8828faf7d5e845dfaf",
+    "DFStringFlagRepoGitHashDynamicString": "dc45252141f70cde0dd50e8828faf7d5e845dfaf",
+    "FStringFlipTimeStampFastString": "2024-02-26T23:01:22.387Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-26T23:01:22.387Z"
 }
