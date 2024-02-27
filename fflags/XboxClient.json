@@ -10780,6 +10780,7 @@
     "FFlagVideoCMCDIsPlaying_Rollout": "True;60;2024-02-27T17:50:07",
     "FFlagEnableMaquettesSignUpV5": "True",
     "FFlagEnableMaquettesPasswordLoginV4": "True",
+    "FFlagRenderFixMissingTrailShaders_Rollout": "True;60;2024-02-27T18:32:03",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11079,8 +11080,8 @@
     "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagConsolesUserAgreements": "True",
-    "FStringFlagRepoGitHashFastString": "41e051d5aff1a2d8c5530c789f16e4f35e0adc9a",
-    "DFStringFlagRepoGitHashDynamicString": "41e051d5aff1a2d8c5530c789f16e4f35e0adc9a",
-    "FStringFlipTimeStampFastString": "2024-02-27T18:07:57.699Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-27T18:07:57.699Z"
+    "FStringFlagRepoGitHashFastString": "df7642a351e5732531b53a06b2d1de5650d3761a",
+    "DFStringFlagRepoGitHashDynamicString": "df7642a351e5732531b53a06b2d1de5650d3761a",
+    "FStringFlipTimeStampFastString": "2024-02-27T18:37:57.924Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-27T18:37:57.924Z"
 }
