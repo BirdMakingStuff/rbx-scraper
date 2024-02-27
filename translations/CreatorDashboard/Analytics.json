@@ -541,5 +541,12 @@
     "Action.Close": "Close",
     "Heading.InExperienceEconomyZeroState": "Track your in-experience economy",
     "Description.InExperienceEconomyZeroStateOnboarding": "Instrument our recommended events SDK to unlock dashboards that’ll help you track:{listStart}{listItemStart}Where players spend resources (e.g. starter packs, items){listItemEnd}{listItemStart}Where players earn resources (e.g. in-game actions, shop purchases){listItemEnd}{listItemStart}How much resources players are holding? (e.g. gold, gems){listItemEnd}{listEnd}",
-    "Action.ReadDocumentation": "Read Documentation"
+    "Action.ReadDocumentation": "Read Documentation",
+    "Description.ReturningUsers": "Number of DAUs who have played your experience before",
+    "Title.NewUserSessionTimeRetention": "New User Session Time Retention",
+    "Title.NewUsersSessionTime": "New Users Session Time",
+    "Description.ReturningUsersSessionTime": "Average session time for returning users",
+    "Title.ReturningUsers": "Returning Users",
+    "Description.NewUsersSessionTime": "Average session time for new users",
+    "Title.ReturningUsersSessionTime": "Returning Users Session Time"
 }
