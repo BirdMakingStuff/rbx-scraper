@@ -10777,6 +10777,9 @@
     "DFFlagCLI95537v0_Rollout": "True;60;2024-02-27T17:11:39",
     "FFlagTextFilterV2Api_Rollout": "True;60;2024-02-27T17:11:44",
     "FFlagFixNotifyMovingCallbackThreading_Rollout": "True;60;2024-02-27T17:12:22",
+    "FFlagVideoCMCDIsPlaying_Rollout": "True;60;2024-02-27T17:50:07",
+    "FFlagEnableMaquettesSignUpV5": "True",
+    "FFlagEnableMaquettesPasswordLoginV4": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11103,8 +11106,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "3c0acb72c27b34901e4d8466fb5dadc9ba6d48ae",
-    "DFStringFlagRepoGitHashDynamicString": "3c0acb72c27b34901e4d8466fb5dadc9ba6d48ae",
-    "FStringFlipTimeStampFastString": "2024-02-27T17:30:47.629Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-27T17:30:47.629Z"
+    "FStringFlagRepoGitHashFastString": "41e051d5aff1a2d8c5530c789f16e4f35e0adc9a",
+    "DFStringFlagRepoGitHashDynamicString": "41e051d5aff1a2d8c5530c789f16e4f35e0adc9a",
+    "FStringFlipTimeStampFastString": "2024-02-27T18:07:57.699Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-27T18:07:57.699Z"
 }
