@@ -5217,6 +5217,22 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Purchasing.RobloxProducts",
+            "key": "Response.PurchaseSuccessfulTitleAndroid",
+            "description": "Android successful purchase confirmation title",
+            "english": "Purchase successful",
+            "translation": "Purchase successful",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Purchasing.RobloxProducts",
+            "key": "Response.PurchaseSuccessfulBodyAndroid",
+            "description": "Android successful purchase confirmation body",
+            "english": "The bonus item has been added to your inventory.",
+            "translation": "The bonus item has been added to your inventory.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Search.GlobalSearch",
             "key": "Example.SearchCatalog",
             "description": "Created by <Unknown>\nModified by dgriffin@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",

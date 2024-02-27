@@ -10770,6 +10770,10 @@
     "FFlagFixValidationCLI96189": "True",
     "FFlagGraphicsVulkanSampleCountFix": "True",
     "FFlagAXFixResellButtonStyling": "True",
+    "DFIntQuestDeviceAttestationTelemetryThrottleHundredthsPercent": "10000",
+    "FFlagAXFixItemExpMenuOverlays": "True",
+    "DFFlagExecuteScriptUseDataModelPatch": "True",
+    "FFlagAXFixItemDetailsExperienceLinkText": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11096,8 +11100,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "18a7d727e39d9c05c3b44a4903c9068a6c1f0ae1",
-    "DFStringFlagRepoGitHashDynamicString": "18a7d727e39d9c05c3b44a4903c9068a6c1f0ae1",
-    "FStringFlipTimeStampFastString": "2024-02-26T23:37:52.525Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-26T23:37:52.525Z"
+    "FStringFlagRepoGitHashFastString": "c1b6b00ec833c0bad4a3884bd1b9a6d3666231b5",
+    "DFStringFlagRepoGitHashDynamicString": "c1b6b00ec833c0bad4a3884bd1b9a6d3666231b5",
+    "FStringFlipTimeStampFastString": "2024-02-27T00:45:16.324Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-27T00:45:16.324Z"
 }
