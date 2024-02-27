@@ -1346,6 +1346,22 @@
         },
         {
             "namespace": "Authentication.SignUp",
+            "key": "Label.Month",
+            "description": "Created by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Month",
+            "translation": "Month",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.SignUp",
+            "key": "Label.Year",
+            "description": "Created by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Year",
+            "translation": "Year",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.SignUp",
             "key": "Label.Continue",
             "description": "Created by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
             "english": "Continue",

@@ -6920,7 +6920,7 @@
     "DFFlagUnlimitTrussLengthDM": "True",
     "DFFlagTrackingGcStats": "True",
     "DFFlagWorkspaceSkipBounds": "True",
-    "FFlagFlagRolloutTestStaticBool9": "True",
+    "FFlagFlagRolloutTestStaticBool9": "False",
     "DFIntErrorEstimationArbiterThreshold2dtThou": "7000",
     "DFIntErrorEstimationArbiterThreshold4dtThou": "10000",
     "DFIntSimArbiterPositionCorrectionFactorThresholdThou": "300",
@@ -10063,7 +10063,7 @@
     "FIntLogReportingMaxLogCount": "-1",
     "FFlagBroadphaseMovedPrimitiveCleanup1": "True",
     "FFlagXboxBetterTaskExceptionHandling": "True",
-    "DFFlagFlagRolloutTestDynamicBool6": "True",
+    "DFFlagFlagRolloutTestDynamicBool6": "False",
     "DFFlagFlagRolloutTestDynamicBool7": "False",
     "DFFlagFlagRolloutTestDynamicBool8": "False",
     "DFFlagFlagRolloutTestDynamicBool9": "False",
@@ -10664,7 +10664,6 @@
     "FFlagEnableUsernameSuggestionBorderRelease1": "True",
     "DFFlagHeapProfilerSubstituteNonUtf8": "True",
     "FFlagLuaAppBootcampIntroMOBLUAPP3838": "True",
-    "FFlagAssetImportImportTemplateHardening": "True",
     "FFlagFixBubbleChatTailVisible": "True",
     "FFlagLegacyBubbleChatAnimationFix": "True",
     "FFlagRemoveInGameChatBubbleChatReferences": "True",
@@ -10967,8 +10966,8 @@
     "DFIntTaskSchedulerJobRetryCount": "1",
     "FStringRealtimeClientTargetName": "windows_universal",
     "FFlagEnableInGameMenuChromeABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "c1b6b00ec833c0bad4a3884bd1b9a6d3666231b5",
-    "DFStringFlagRepoGitHashDynamicString": "c1b6b00ec833c0bad4a3884bd1b9a6d3666231b5",
-    "FStringFlipTimeStampFastString": "2024-02-27T00:45:16.324Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-27T00:45:16.324Z"
+    "FStringFlagRepoGitHashFastString": "5b4a4dbb15af38aac5d9a334c7b09d1fb838f043",
+    "DFStringFlagRepoGitHashDynamicString": "5b4a4dbb15af38aac5d9a334c7b09d1fb838f043",
+    "FStringFlipTimeStampFastString": "2024-02-27T04:35:00.825Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-27T04:35:00.825Z"
 }
