@@ -95,5 +95,6 @@
     "Tooltip.Table.CampaignAnalytics.Impressions": "Number of users who have seen the notification.",
     "Title.Table.CampaignAnalytics": "Experience Notifications",
     "Tooltip.Table.CampaignAnalytics.FirstImpressionDate": "Date when first impression for the campaign was registered.",
-    "Tooltip.Table.CampaignAnalytics.DismissRate": "Rate at which users are dismissing notifications."
+    "Tooltip.Table.CampaignAnalytics.DismissRate": "Rate at which users are dismissing notifications.",
+    "Tooltip.Table.CampaignAnalytics.OptedInUsers": "Total number of users who opt-in to your experience notifications. Please note 13+ users are eligible to receive all notifications, while users below 13 can only receive Experience Updates."
 }
