@@ -546,7 +546,14 @@
     "Title.NewUserSessionTimeRetention": "New User Session Time Retention",
     "Title.NewUsersSessionTime": "New Users Session Time",
     "Description.ReturningUsersSessionTime": "Average session time for returning users",
+    "Title.NewAndReturningUsersSessionTime": "New and Returning Users Session Time",
+    "Description.NewAndReturningUsersSessionTime": "Average session time for new and returning users",
+    "Label.PercentageInSummary": "Percent still playing after {minute} minutes",
+    "Description.NewUserSessionTimeRetention": "Percentage of new users who return to your experience",
+    "Description.NewAndReturningUser": "Number of DAUs who have played your experience before",
     "Title.ReturningUsers": "Returning Users",
     "Description.NewUsersSessionTime": "Average session time for new users",
-    "Title.ReturningUsersSessionTime": "Returning Users Session Time"
+    "Title.ReturningUsersSessionTime": "Returning Users Session Time",
+    "Title.NewAndReturningUser": "New and Returning Users",
+    "Label.PlayersPercentage": "% still playing"
 }
