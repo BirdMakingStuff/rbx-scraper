@@ -2194,6 +2194,14 @@
         },
         {
             "namespace": "CommonUI.Controls",
+            "key": "Label.Month",
+            "description": "Month\nCreated by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Month",
+            "translation": "Month",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "CommonUI.Controls",
             "key": "Label.Day",
             "description": "day of the month label\nCreated by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
             "english": "Day",
