@@ -66,11 +66,11 @@
     "Heading.Overview": "Overview",
     "Heading.VideoAds": "Video Ads",
     "Heading.PortalAds": "Portal Ads",
-    "Title.TotalDailyEarningsRobux": "Total Daily Earnings (Robux)",
+    "Title.TotalEarningsRobux": "Total Earnings (Robux)",
     "Title.EarningsRobux": "Earnings (Robux)",
     "Title.AverageEarningsPerTeleport": "Average EPT (Earnings per Teleport)",
     "Title.EPMEarningsPerMille": "EPM (Earnings per Mille)",
-    "Title.TotalDailyTeleports": "Total Daily Teleports",
-    "Title.DailyVideoViews": "Total Daily Video Views",
+    "Title.TotalTeleports": "Total Teleports",
+    "Title.TotalvideoViews": "Total Video Views",
     "Title.TotalDailyImpressions": "Total Daily Impressions"
 }
