@@ -202,7 +202,7 @@
     "Label.AmountAbovePriceFloor": "Amount Above Price Floor",
     "Label.CurrencyTransitionDisclaimerWithLink": "This pricing information will only appear on asset detail pages once Creator Store {docLinkStart}transitions from Robux to USD.{docLinkEnd}",
     "Message.UserNeedsApprovalToPrice": "You can distribute free asset(s) but you will first need approval to distribute priced assets on Creator Store",
-    "Label.SubmitForReview": "Register",
+    "Label.SubmitForReview": "Submit for Review",
     "Label.NotApplicable": "N/A",
     "Label.PricingTableTitle": "Current Marketplace Price Ranges (In Robux)",
     "Label.ThreeDimAssetType": "3D Asset Type",
@@ -262,5 +262,6 @@
     "Action.PublishItem": "Publish Item",
     "Label.NoMinSalePriceAndDiscount": "Must specify minimum sale price when applying premium discounts",
     "Error.FiatConfigurationGenericError": "Something went wrong configuring the Fiat product.",
-    "Label.GroupOwnedAssetsIneligible": "Group-owned assets are ineligible for pricing. {docLinkStart}Learn more.{docLinkEnd}"
+    "Label.GroupOwnedAssetsIneligible": "Group-owned assets are ineligible for pricing. {docLinkStart}Learn more.{docLinkEnd}",
+    "Label.Register": "Register"
 }
