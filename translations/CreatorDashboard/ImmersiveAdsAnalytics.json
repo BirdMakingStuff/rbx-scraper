@@ -71,6 +71,7 @@
     "Title.AverageEarningsPerTeleport": "Average EPT (Earnings per Teleport)",
     "Title.EPMEarningsPerMille": "EPM (Earnings per Mille)",
     "Title.TotalTeleports": "Total Teleports",
-    "Title.TotalvideoViews": "Total Video Views",
-    "Title.TotalDailyImpressions": "Total Daily Impressions"
+    "Title.TotalVideoViews": "Total Video Views",
+    "Title.TotalDailyImpressions": "Total Daily Impressions",
+    "Label.Total": "Total"
 }

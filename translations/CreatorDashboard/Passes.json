@@ -1,6 +1,6 @@
 ﻿{
     "Action.CreatePass": "Create Pass",
-    "Heading.CreatePass": "Create a Pass",
+    "Heading.CreatePass": "Create A Pass",
     "Message.CreatePassInfo": "Passes let you create special items that can only be bought once per player using Robux",
     "Label.Name": "Name",
     "Label.Description": "Description",
@@ -8,7 +8,7 @@
     "Message.PassCreationSuccess": "Pass created successfully",
     "Error.PassCreationGeneralError": "Pass creation failed. Please inspect the logs or network tab or contact us if this problem persists.",
     "Heading.ConfigurePass": "Basic Settings",
-    "Action.ConfigurePass": "Save changes",
+    "Action.ConfigurePass": "Save Changes",
     "Message.LastUpdated": "Last Updated: {localizedDateTime}",
     "Heading.ConfigureSales": "Sales",
     "Label.TotalSales": "Total sales: {sales}",
