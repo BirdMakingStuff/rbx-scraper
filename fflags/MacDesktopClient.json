@@ -10822,6 +10822,9 @@
     "DFFlagDualWriteEphemeralCounterToV2": "True",
     "FFlagDelayInferedCrashCrashReporting": "True",
     "FFlagRCCMonitorRegisterTimersForShutdown3": "True",
+    "FFlagConsolesUserAgreements": "True",
+    "FFlagInferredCrashSubsystem2_Rollout": "True;60;2024-02-29T17:55:05",
+    "FFlagCinUseImportDataPreviewInstances2": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11121,8 +11124,8 @@
     "FFlagSkipRebuildingCrashedELF": "True",
     "FFlagUniversalAppCsat2": "False",
     "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
-    "FStringFlagRepoGitHashFastString": "e4224e2c7ffa90aa558acf75f31a801f8c32258c",
-    "DFStringFlagRepoGitHashDynamicString": "e4224e2c7ffa90aa558acf75f31a801f8c32258c",
-    "FStringFlipTimeStampFastString": "2024-02-29T17:34:01.344Z",
-    "DFStringFlipTimeStampDynamicString": "2024-02-29T17:34:01.344Z"
+    "FStringFlagRepoGitHashFastString": "36a92fc5dc8a9e52ab6e6bf4d8894961832640aa",
+    "DFStringFlagRepoGitHashDynamicString": "36a92fc5dc8a9e52ab6e6bf4d8894961832640aa",
+    "FStringFlipTimeStampFastString": "2024-02-29T18:23:12.937Z",
+    "DFStringFlipTimeStampDynamicString": "2024-02-29T18:23:12.937Z"
 }
