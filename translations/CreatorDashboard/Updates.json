@@ -11,7 +11,7 @@
     "Label.UnfollowRate": "Turn Off Rate",
     "Tooltips.Views": "Number of people who have viewed the update.",
     "Tooltips.VisitRate": "Percentage of people who have visited the experience from the notification.",
-    "Tooltips.UnfollowRate": "Percentage of people who have unfollowed the experience from the notification.",
+    "Tooltips.UnfollowRate": "Rate at which users are turning off notifications for your experience.",
     "Label.RowsPerPage": "Rows per page:",
     "Label.All": "All",
     "Label.PageRange": "{pageRange} of {totalPageCount}",
