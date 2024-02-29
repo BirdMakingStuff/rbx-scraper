@@ -555,5 +555,6 @@
     "Description.NewUsersSessionTime": "Average session time for new users",
     "Title.ReturningUsersSessionTime": "Returning Users Session Time",
     "Title.NewAndReturningUser": "New and Returning Users",
-    "Label.PlayersPercentage": "% still playing"
+    "Label.PlayersPercentage": "% still playing",
+    "Timestamp.ShortDateInCST": "{date} CST"
 }
