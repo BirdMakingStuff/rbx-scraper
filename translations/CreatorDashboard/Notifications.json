@@ -89,7 +89,7 @@
     "Label.CTR": "CTR",
     "Tooltip.Table.CampaignAnalytics.ClickthroughRate": "Rate at which users are clicking on the notification.",
     "Label.DismissRate": "Dismiss",
-    "Tooltip.Table.CampaignAnalytics.TurnoffRate": "rate of users turning off notifications for your experience",
+    "Tooltip.Table.CampaignAnalytics.TurnoffRate": "Rate at which users are turning off notifications for your experience. ",
     "Tooltip.Table.CampaignAnalytics.Name": "This is the identifier name for the notification string. It can be overridden by the “category” field in your API calls.",
     "Label.Table.FirstImpressionDate": "First Impression",
     "Tooltip.Table.CampaignAnalytics.Impressions": "Number of users who have seen the notification.",
