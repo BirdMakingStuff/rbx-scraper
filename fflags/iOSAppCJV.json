@@ -10684,7 +10684,6 @@
     "FFlagReportELFDebugInfo": "True",
     "FFlagUserProfilePlatformName": "True",
     "FFlagLuaAppGridTileSmallerTitle": "True",
-    "FFlagELFSubsystemInternalFlowControl": "True",
     "FFlagLuaAppGridTileFullGameStats2": "True",
     "FFlagACEIgnoreAnimSavesObjectValue": "True",
     "FFlagACERigInfoCache": "True",
@@ -10835,7 +10834,7 @@
     "FFlagExportPathCheckEnabled": "True",
     "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
     "FFlagUserHeartbeatsPulseApi": "True",
-    "FIntUserHeartbeatsPulseRolloutPerMyriad": "100",
+    "FIntUserHeartbeatsPulseRolloutPerMyriad": "0",
     "FFlagXboxRemoveIsRetail": "True",
     "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
     "FFlagPlatformServiceNoLongerStartGames": "True",
@@ -11280,8 +11279,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "ed0a7479c36973302099681f6488e1eb99f8e4c5",
-    "DFStringFlagRepoGitHashDynamicString": "ed0a7479c36973302099681f6488e1eb99f8e4c5",
-    "FStringFlipTimeStampFastString": "2024-03-01T02:33:45.367Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-01T02:33:45.367Z"
+    "FStringFlagRepoGitHashFastString": "0291bc47c773a03fe4d18962a17b0c9e22376a88",
+    "DFStringFlagRepoGitHashDynamicString": "0291bc47c773a03fe4d18962a17b0c9e22376a88",
+    "FStringFlipTimeStampFastString": "2024-03-01T03:55:52.970Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-01T03:55:52.970Z"
 }
