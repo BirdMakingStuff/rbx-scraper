@@ -172,5 +172,6 @@
     "Description.PlacePermissionsSavePlaceAPIWithName": "Place setting (Allow update using Save Place API) for \"{placeName}\" was {action}",
     "Description.PlaceDescriptionWithName": "Place description for \"{placeName}\" was updated",
     "Description.PlaceDownloadPermissionWithName": "Place setting (Allow download as a copy) for \"{placeName}\" was {action}",
-    "Message.EmptyActivityFeed": "There are no events to show."
+    "Message.EmptyActivityFeed": "There are no events to show.",
+    "Description.MonetizationSettingsPlayableDevicesEmpty": "All Playable Devices were removed"
 }
