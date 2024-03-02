@@ -50,7 +50,7 @@
     "Label.SelectCommunity": "Select community",
     "Description.CommunityUnlinked": "Community unlinked.",
     "Description.Discoverable": "Making a community discoverable will show a link to the community on the experience page.",
-    "Action.SaveChanges": "Save changes",
+    "Action.SaveChanges": "Save Changes",
     "Action.Retry": "Retry",
     "Description.SaveSuccess": "Changes saved.",
     "Description.LinkInstead": "Already have a Guilded account? {linkStart}Link an existing community{linkEnd}.",
