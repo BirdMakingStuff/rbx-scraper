@@ -11339,8 +11339,8 @@
     "FFlagLuaAppSignUpPageRefactor": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "b3f915d8d1282687192948600e85098b95426553",
-    "DFStringFlagRepoGitHashDynamicString": "b3f915d8d1282687192948600e85098b95426553",
-    "FStringFlipTimeStampFastString": "2024-03-02T02:01:57.935Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-02T02:01:57.935Z"
+    "FStringFlagRepoGitHashFastString": "71d33ea366f58308d06070134c788f272a8997ab",
+    "DFStringFlagRepoGitHashDynamicString": "71d33ea366f58308d06070134c788f272a8997ab",
+    "FStringFlipTimeStampFastString": "2024-03-02T00:27:29.702Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-02T00:27:29.702Z"
 }
