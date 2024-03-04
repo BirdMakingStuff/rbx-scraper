@@ -25441,6 +25441,22 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Parents",
+            "key": "Description.EnterParentEmailV3",
+            "description": "Description when parent is asked to input their email address",
+            "english": "Certain actions on Roblox require parent permission. {lineBreak}Parents, we'll send you an email to verify you’re an adult and link to your child’s account.",
+            "translation": "Certain actions on Roblox require parent permission. {lineBreak}Parents, we'll send you an email to verify you’re an adult and link to your child’s account.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Parents",
+            "key": "Description.ParentalEmailFooter",
+            "description": "Footer displayed when parent is being asked to input their email",
+            "english": "This email address will be associated with your Roblox account with parent privileges. To learn more about our data practices, please see our {linkStart}Privacy Policy{linkEnd}.",
+            "translation": "This email address will be associated with your Roblox account with parent privileges. To learn more about our data practices, please see our {linkStart}Privacy Policy{linkEnd}.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "IAPExperience.SubscriptionPurchasePrompt",
             "key": "Label.TestFlowDisclaimer",
             "description": "Footer on prompt if the user is testing in studio.\nCreated by ajanssen@roblox.com\nModified by yhuang@roblox.com\nCreated by ajanssen@roblox.com\nModified by bdeng@roblox.com",
