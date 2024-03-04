@@ -3401,6 +3401,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "CommonUI.Messages",
+            "key": "SystemMessage.IosDeprecationBodyPhase2Fallback",
+            "description": "iOS 11 deprecation warning that shows which date Roblox will no longer be playable. The date is intentionally embedded here as there is presently a bug preventing iOS from displaying localized dates",
+            "english": "Starting April 16, 2024, Roblox will no longer support iOS 11. Please upgrade your device to iOS 12 or higher to continue playing.",
+            "translation": "Starting April 16, 2024, Roblox will no longer support iOS 11. Please upgrade your device to iOS 12 or higher to continue playing.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.Tab.AccountInfo",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -23204,16 +23212,16 @@
             "namespace": "CoreScripts.Ads",
             "key": "Label.InExperienceDisclosureDynamic",
             "description": "Disclosure for EU DSA Compliance",
-            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}.",
-            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}.",
+            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}.",
+            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}.",
             "isDeprecated": false
         },
         {
             "namespace": "CoreScripts.Ads",
             "key": "Label.InExperienceDisclosureDynamicWithPayer",
             "description": "Disclosure for EU DSA Compliance",
-            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}. This Ad was paid for by {Payer name}.",
-            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}. This Ad was paid for by {Payer name}.",
+            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}. This Ad was paid for by {PayerName}.",
+            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}. This Ad was paid for by {PayerName}.",
             "isDeprecated": false
         },
         {

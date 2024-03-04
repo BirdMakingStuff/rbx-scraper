@@ -13170,22 +13170,6 @@
         },
         {
             "namespace": "CoreScripts.Ads",
-            "key": "CoreScripts.Ads.Action.PortalPromptAccept",
-            "description": "ERRONEOUS: IGNORE\nCreated by ajanssen@roblox.com\nModified by ajanssen@roblox.com\nCreated by ajanssen@roblox.com\nModified by bdeng@roblox.com\nModified by jkula@roblox.com",
-            "english": "Teleport Now",
-            "translation": "Teleport Now",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "CoreScripts.Ads",
-            "key": "CoreScripts.Ads.Action.PortalPromptCancel",
-            "description": "ERRONEOUS: IGNORE\nCreated by ajanssen@roblox.com\nModified by ajanssen@roblox.com\nCreated by ajanssen@roblox.com\nModified by bdeng@roblox.com\nModified by jkula@roblox.com",
-            "english": "Cancel",
-            "translation": "Cancel",
-            "isDeprecated": false
-        },
-        {
-            "namespace": "CoreScripts.Ads",
             "key": "Label.PortalPromptTeleportToWithName",
             "description": "{RBX_NAME} is name of an experience.\nInterrogates whether user wants to teleport to RBX_NAME on prompt.\nCreated by ajanssen@roblox.com\nModified by ajanssen@roblox.com\nCreated by ajanssen@roblox.com\nModified by bdeng@roblox.com\nModified by jkula@roblox.com",
             "english": "Teleport to {RBX_NAME}?",
@@ -13252,16 +13236,16 @@
             "namespace": "CoreScripts.Ads",
             "key": "Label.InExperienceDisclosureDynamic",
             "description": "Disclosure for EU DSA Compliance",
-            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}.",
-            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}.",
+            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}.",
+            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}.",
             "isDeprecated": false
         },
         {
             "namespace": "CoreScripts.Ads",
             "key": "Label.InExperienceDisclosureDynamicWithPayer",
             "description": "Disclosure for EU DSA Compliance",
-            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}. This Ad was paid for by {Payer name}.",
-            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {Advertiser Name}. This Ad was paid for by {Payer name}.",
+            "english": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}. This Ad was paid for by {PayerName}.",
+            "translation": "Roblox does not use behavioral information to deliver ads. You are seeing this ad based on information including device type, location, and age to serve you appropriate and relevant ads. The advertiser is {AdvertiserName}. This Ad was paid for by {PayerName}.",
             "isDeprecated": false
         },
         {
@@ -15006,6 +14990,22 @@
             "description": "Inform user they just turned on notifications",
             "english": "Notifications turned on for this experience",
             "translation": "Notifications turned on for this experience",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Notifications",
+            "key": "Heading.TurnOnNotifications",
+            "description": "Heading for modal that prompts users to enable notifications",
+            "english": "Turn on Notifications",
+            "translation": "Turn on Notifications",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.Notifications",
+            "key": "Label.GetUpdatesFromExperience",
+            "description": "Modal that prompts the user to enable notifications for a specific game",
+            "english": "Receive activity updates from {experienceName} while you're away",
+            "translation": "Receive activity updates from {experienceName} while you're away",
             "isDeprecated": false
         }
     ],
