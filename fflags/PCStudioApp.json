@@ -10980,11 +10980,13 @@
     "FFlagStudioTasksThreadGroup_Rollout": "True;60;2024-03-05T22:33:19",
     "FFlagTagEditorFixMissingLocalization2": "True",
     "FFlagPlayerContextualMenuGameJoinAttribution": "True",
-    "InstallSecurityProviderIfNeeded": "True",
     "DFFlagFrameTimeJitter": "True",
     "FFlagTextBoxKeepCursorInView": "True",
     "DFFlagCLI95175_Rollout": "True;60;2024-03-05T23:11:59",
     "FFlagUpdateFriendLabelOnChange": "True",
+    "FFlagFix10ftMenuAddFriend": "True",
+    "FFlagOpenPlayersFromGamepad": "True",
+    "DFFlagEnableMeasureAllVisibilityRequirements_Rollout": "True;60;2024-03-05T23:22:07",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11317,8 +11319,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "780dc527083743a53719755576283a26ebb00331",
-    "DFStringFlagRepoGitHashDynamicString": "780dc527083743a53719755576283a26ebb00331",
-    "FStringFlipTimeStampFastString": "2024-03-05T23:15:31.792Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-05T23:15:31.792Z"
+    "FStringFlagRepoGitHashFastString": "a32541e9bb1c8f36eb2a0537a9063feaa6709c80",
+    "DFStringFlagRepoGitHashDynamicString": "a32541e9bb1c8f36eb2a0537a9063feaa6709c80",
+    "FStringFlipTimeStampFastString": "2024-03-05T23:26:07.711Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-05T23:26:07.711Z"
 }
