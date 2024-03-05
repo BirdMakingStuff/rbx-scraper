@@ -10329,6 +10329,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Home",
+            "key": "LabelYouMightAlsoLike",
+            "description": "Title of homepage carousel of experiences users may like related to what they have played before.",
+            "english": "You Might Also Like",
+            "translation": "You Might Also Like",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.ContactUpsell",
             "key": "Action.AddPhone",
             "description": "This action will allow the user to add their phone number.\nCreated by <Unknown>\nModified by wlu@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -14822,6 +14830,14 @@
             "description": "Description in toast that appears after you consent to using voice to let users know that they can mute others",
             "english": "You can mute anyone anytime.",
             "translation": "You can mute anyone anytime.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.SettingsHub",
+            "key": "Prompt.Subtitle.TurnOnVoiceChat",
+            "description": "Subtitle for modal that allows users to turn on voice chat",
+            "english": "Turn on Voice Chat to talk with others. You will need to give Roblox access to your microphone. You're in control — mute yourself or anyone, anytime.",
+            "translation": "Turn on Voice Chat to talk with others. You will need to give Roblox access to your microphone. You're in control — mute yourself or anyone, anytime.",
             "isDeprecated": false
         },
         {

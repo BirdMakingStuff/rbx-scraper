@@ -7961,6 +7961,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.SettingsHub",
+            "key": "Prompt.Subtitle.TurnOnVoiceChat",
+            "description": "Subtitle for modal that allows users to turn on voice chat",
+            "english": "Turn on Voice Chat to talk with others. You will need to give Roblox access to your microphone. You're in control — mute yourself or anyone, anytime.",
+            "translation": "Turn on Voice Chat to talk with others. You will need to give Roblox access to your microphone. You're in control — mute yourself or anyone, anytime.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "InGame.HelpMenu",
             "key": "UpArrow",
             "description": "The up arrow key on a physical keyboard. Used to tell the user how to move their character.\nCreated by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -12478,6 +12486,14 @@
             "description": "exact same as Label.LearnMoreAboutVoiceRecording in Feature.AccountSettings\nCreated by mfranco@roblox.com\nModified by dberezin@roblox.com\nCreated by mfranco@roblox.com\nModified by bdeng@roblox.com",
             "english": "Learn More about Voice Recording",
             "translation": "Learn More about Voice Recording",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Verification.Identity",
+            "key": "Heading.V2LetsChat",
+            "description": "lets chat\nCreated by dberezin@roblox.com\nModified by dberezin@roblox.com",
+            "english": "Let's Chat",
+            "translation": "Let's Chat",
             "isDeprecated": false
         },
         {
