@@ -78,7 +78,7 @@
     "Label.Analytics.Summary": "Experience Notifications Summary",
     "Tab.Analytics": "Analytics",
     "Tab.Creations": "Creations",
-    "Description.NotificationsPage": " {promptLinkStart}Create{promptLinkEnd} experience notifications to engage with users. {analyticsLinkStart}Learn more{analyticsLinkEnd} about campaign level analytics.",
+    "Description.NotificationsPage": " {promptLinkStart}Create{promptLinkEnd} experience notifications to engage with users. {analyticsLinkStart}Learn more{analyticsLinkEnd} about itemized analytics.",
     "Label.Analytics.Content.Header": "Experience Notifications",
     "Description.Table.CampaignAnalytics": "Experience Notifications can only be delivered to 13+ users.",
     "Label.Impressions": "Impressions",
