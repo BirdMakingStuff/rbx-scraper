@@ -10949,11 +10949,11 @@
     "DFIntVoiceChatGrpcDeadlineExceededErrorLimitBeforeReset": "10",
     "FFlagPackageLinkIconAutoupdateOn": "True",
     "DFFlagSessionCryptoRaceCondition": "True",
-    "FFlagGraphicsHandleMultipleTextureUpdates_Rollout": "True;60;2024-03-05T00:15:07",
     "FFlagInsertDecalAddWaypoint": "True",
     "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-03-05T00:52:11",
     "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-03-05T00:52:59",
-    "FFlagAwardProtocolHasAchievedAwardAsync": "True",
+    "FFlagAwardProtocolHasAchievedAwardAsync": "False",
+    "FFlagGraphicsHandleMultipleTextureUpdates": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11387,8 +11387,8 @@
     "FFlagLuaAppSignUpPageRefactor": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "53f47b106a3cd15b0c69f1253114e1c2d58bf767",
-    "DFStringFlagRepoGitHashDynamicString": "53f47b106a3cd15b0c69f1253114e1c2d58bf767",
-    "FStringFlipTimeStampFastString": "2024-03-05T01:15:39.569Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-05T01:15:39.569Z"
+    "FStringFlagRepoGitHashFastString": "b26bfb0be1b761ac7e82c84740b9594e1fcfa32d",
+    "DFStringFlagRepoGitHashDynamicString": "b26bfb0be1b761ac7e82c84740b9594e1fcfa32d",
+    "FStringFlipTimeStampFastString": "2024-03-05T01:55:30.922Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-05T01:55:30.922Z"
 }
