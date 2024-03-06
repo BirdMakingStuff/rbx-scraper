@@ -10993,6 +10993,9 @@
     "FFlagVoiceChatRequestTurnServerBeforeJoinCapabilityEvent": "True",
     "DFIntImmersiveAdViewableImpressionEventThrottleHundrethsPercent": "10000",
     "DFFlagMemoryStoreUseInternalForInvalidServiceJsonResponse": "True",
+    "FFlagUserResizeAwareTouchControls": "False",
+    "FFlagEnableViewabilityReporting_Rollout": "True;60;2024-03-06T23:19:31",
+    "DFFlagFlagRolloutTestDynamicBool3_Rollout": "False;60;2024-03-06T23:36:42",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11145,8 +11148,8 @@
     "FFlagAddSeeAllShortcutControllerBar10ft": "True",
     "FFlagTenFootUiSearchLoadMore2": "True",
     "FFlagFixHtileClearEnable": "True",
-    "FStringFlagRepoGitHashFastString": "389b67ee085bfe320f89eb58794d8c23ad10f32e",
-    "DFStringFlagRepoGitHashDynamicString": "389b67ee085bfe320f89eb58794d8c23ad10f32e",
-    "FStringFlipTimeStampFastString": "2024-03-06T23:01:03.567Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-06T23:01:03.567Z"
+    "FStringFlagRepoGitHashFastString": "e01dbe99f43651b9d570be7a93b790c0df3284fc",
+    "DFStringFlagRepoGitHashDynamicString": "e01dbe99f43651b9d570be7a93b790c0df3284fc",
+    "FStringFlipTimeStampFastString": "2024-03-06T23:38:39.613Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-06T23:38:39.613Z"
 }
