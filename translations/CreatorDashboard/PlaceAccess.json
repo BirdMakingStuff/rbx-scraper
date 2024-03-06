@@ -21,5 +21,9 @@
     "Label.Cancel": "Cancel",
     "Label.Save": "Save Changes",
     "Error.SocialSlotAllowedError": "Allowed social slot is 1.",
-    "Error.SocialSlotAllowedRange": "Value should be between 1 and {value}."
+    "Error.SocialSlotAllowedRange": "Value should be between 1 and {value}.",
+    "Label.AllowDirectJoins": "Allow direct access to this place",
+    "Label.JoinSettings": "Direct Access to Places",
+    "Message.NonrootPlaceToggleInfo": "Allow people to directly access this place when entering, rather than entering your experience from the start place. ",
+    "Message.HasPlaceOverrideInfo": "You’ve made an exception for this place."
 }
