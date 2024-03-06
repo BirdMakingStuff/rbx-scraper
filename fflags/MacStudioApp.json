@@ -10986,12 +10986,14 @@
     "DFFlagEnableMeasureAllVisibilityRequirements": "True",
     "DFFlagMemoryStoreHandleGenericErrors": "True",
     "FFlagLuaAppScrollTelemetryHorizontalConsole": "True",
-    "DFIntImmersiveAdLoadEventThrottleHundrethsPercent_Rollout": "10000;60;2024-03-06T18:53:19",
     "FFlagSessionFixL1LifeCycle": "True",
     "FFlagVoiceChatRequestTurnServerBeforeJoinCapabilityEvent_Rollout": "True;60;2024-03-06T19:06:27",
     "FFlagPlatformEventEnabled2": "False",
     "DFIntImmersiveAdViewableImpressionEventThrottleHundrethsPercent_Rollout": "10000;60;2024-03-06T19:33:11",
     "DFIntSimMidPhaseContactPipelineBatchSize": "10",
+    "FFlagRealtimeProtocolEnabledRolloutV2_Rollout": "True;60;2024-03-06T20:17:49",
+    "DFFlagFlagRolloutTestDynamicBool3_Rollout": "False;60;2024-03-06T20:22:57",
+    "DFIntImmersiveAdLoadEventThrottleHundrethsPercent": "10000",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11330,8 +11332,8 @@
     "FFlagMacClientSupportIME9": "True",
     "FFlagDeferFmodDriverShutdown2": "True",
     "FFlagAllSoundServicesShareOneFmod": "True",
-    "FStringFlagRepoGitHashFastString": "4d7f910bc3ffa5d986160062bc3787b043e9fa4f",
-    "DFStringFlagRepoGitHashDynamicString": "4d7f910bc3ffa5d986160062bc3787b043e9fa4f",
-    "FStringFlipTimeStampFastString": "2024-03-06T20:17:36.134Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-06T20:17:36.134Z"
+    "FStringFlagRepoGitHashFastString": "23c0f55ea0608b3287ce6bdc8f8be14b23c6d8ba",
+    "DFStringFlagRepoGitHashDynamicString": "23c0f55ea0608b3287ce6bdc8f8be14b23c6d8ba",
+    "FStringFlipTimeStampFastString": "2024-03-06T20:35:27.899Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-06T20:35:27.899Z"
 }
