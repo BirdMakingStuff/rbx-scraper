@@ -10996,6 +10996,10 @@
     "FFlagUserResizeAwareTouchControls": "False",
     "FFlagInteractableStateForGuiObjects3_PlaceFilter": "True;5141682374",
     "FFlagEnableViewabilityReporting": "True",
+    "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-03-07T16:48:31",
+    "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2024-03-07T16:49:09",
+    "FFlagUserShowGuiHideToggles_Rollout": "True;60;2024-03-07T17:14:45",
+    "FFlagGuiHidingApiSupport2_Rollout": "True;60;2024-03-07T17:14:45",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11430,8 +11434,8 @@
     "FFlagLuaAppSignUpPageRefactor": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "41af7e9d977076f27ad58976de1431ed8a85616d",
-    "DFStringFlagRepoGitHashDynamicString": "41af7e9d977076f27ad58976de1431ed8a85616d",
-    "FStringFlipTimeStampFastString": "2024-03-07T02:35:39.960Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-07T02:35:39.960Z"
+    "FStringFlagRepoGitHashFastString": "c7b3b32f5d6296b26faea7f3471a5074a610a89d",
+    "DFStringFlagRepoGitHashDynamicString": "c7b3b32f5d6296b26faea7f3471a5074a610a89d",
+    "FStringFlipTimeStampFastString": "2024-03-07T17:19:05.014Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-07T17:19:05.014Z"
 }
