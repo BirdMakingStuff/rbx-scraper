@@ -28,7 +28,8 @@
     "Description.ClearJoinRestrictionsOverrideDialog": "Your overall setting for Direct Access to Places will apply instead",
     "Message.NonrootPlaceToggleInfo": "Allow people to directly access this place when entering, rather than entering your experience from the start place. ",
     "Message.HasPlaceOverrideInfo": "You’ve made an exception for this place.",
-    "Message.ClearJoinRestrictionsOverrideError": "Error",
+    "Message.ClearJoinRestrictionsOverrideSuccess": "Reset successful",
+    "Message.ClearJoinRestrictionsOverrideError": "Something went wrong. Try again.",
     "Title.ClearJoinRestrictionOverride": "Reset access",
     "Action.ConfirmReset": "Reset",
     "Action.Cancel": "Cancel"
