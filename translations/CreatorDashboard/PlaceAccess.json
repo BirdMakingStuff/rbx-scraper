@@ -23,7 +23,13 @@
     "Error.SocialSlotAllowedError": "Allowed social slot is 1.",
     "Error.SocialSlotAllowedRange": "Value should be between 1 and {value}.",
     "Label.AllowDirectJoins": "Allow direct access to this place",
+    "Action.Reset": "Reset",
     "Label.JoinSettings": "Direct Access to Places",
+    "Description.ClearJoinRestrictionsOverrideDialog": "Your overall setting for Direct Access to Places will apply instead",
     "Message.NonrootPlaceToggleInfo": "Allow people to directly access this place when entering, rather than entering your experience from the start place. ",
-    "Message.HasPlaceOverrideInfo": "You’ve made an exception for this place."
+    "Message.HasPlaceOverrideInfo": "You’ve made an exception for this place.",
+    "Message.ClearJoinRestrictionsOverrideError": "Error",
+    "Title.ClearJoinRestrictionOverride": "Reset access",
+    "Action.ConfirmReset": "Reset",
+    "Action.Cancel": "Cancel"
 }

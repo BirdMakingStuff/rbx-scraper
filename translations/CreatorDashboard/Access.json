@@ -80,6 +80,7 @@
     "Label.Reset": "Reset",
     "Message.ClearJoinRestrictionsOverridesSuccess": "Success",
     "Message.ClearJoinRestrictionsOverridesError": "Error",
+    "Action.ConfirmReset": "Reset",
     "Title.ClearJoinRestrictionOverrides": "Reset access",
     "Description.ClearJoinRestrictionsOverridesDialog": "You’re about to allow direct access to all places",
     "Action.Reset": "Reset",
