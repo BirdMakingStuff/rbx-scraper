@@ -1,6 +1,6 @@
 ﻿{
     "Action.CreatePass": "Create Pass",
-    "Heading.CreatePass": "Create A Pass",
+    "Heading.CreatePass": "Create a Pass",
     "Message.CreatePassInfo": "Passes let you create special items that can only be bought once per player using Robux",
     "Label.Name": "Name",
     "Label.Description": "Description",
