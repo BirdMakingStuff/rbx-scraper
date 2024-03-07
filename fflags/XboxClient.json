@@ -10994,8 +10994,12 @@
     "DFIntImmersiveAdViewableImpressionEventThrottleHundrethsPercent": "10000",
     "DFFlagMemoryStoreUseInternalForInvalidServiceJsonResponse": "True",
     "FFlagUserResizeAwareTouchControls": "False",
-    "FFlagEnableViewabilityReporting_Rollout": "True;60;2024-03-06T23:19:31",
     "DFFlagFlagRolloutTestDynamicBool3_Rollout": "False;60;2024-03-06T23:36:42",
+    "FFlagInteractableStateForGuiObjects3_PlaceFilter": "True;5141682374",
+    "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;15;2024-03-07T00:31:04",
+    "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2024-03-07T00:43:29",
+    "FFlagEnableViewabilityReporting": "True",
+    "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-07T00:54:55",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11294,9 +11298,9 @@
     "FFlagXboxDumpUploaderV22": "True",
     "FFlagXboxMoveInferredCrashReport": "True",
     "FFlagXboxImprovedCrashCollection": "True",
-    "FFlagXboxLastKnownStateImprovements_Rollout": "True;30;2024-03-06T23:31:13",
-    "FStringFlagRepoGitHashFastString": "e01dbe99f43651b9d570be7a93b790c0df3284fc",
-    "DFStringFlagRepoGitHashDynamicString": "e01dbe99f43651b9d570be7a93b790c0df3284fc",
-    "FStringFlipTimeStampFastString": "2024-03-06T23:38:39.613Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-06T23:38:39.613Z"
+    "FFlagXboxLastKnownStateImprovements": "True",
+    "FStringFlagRepoGitHashFastString": "b6881b6424d705a909ca521bb44fa60a45c81196",
+    "DFStringFlagRepoGitHashDynamicString": "b6881b6424d705a909ca521bb44fa60a45c81196",
+    "FStringFlipTimeStampFastString": "2024-03-07T00:55:50.457Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-07T00:55:50.457Z"
 }
