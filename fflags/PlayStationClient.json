@@ -4600,7 +4600,7 @@
     "FFlagSupportOffCenterOriginClickDrag": "True",
     "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
     "DFFlagFlagRolloutTestDynamicBool3": "False",
-    "FFlagFlagRolloutTestStaticBool0": "False",
+    "FFlagFlagRolloutTestStaticBool0": "True",
     "FFlagFlagRolloutTestStaticBool1": "False",
     "FFlagFlagRolloutTestStaticBool3": "False",
     "FFlagFlagRolloutTestStaticBool4": "True",
@@ -10997,7 +10997,6 @@
     "FIntLuauCodeGenMaxTotalSize": "33554432",
     "FFlagLuaAppShowPillContainsStrongLanguageContent": "True",
     "FFlagGuiHidingApiSupport2": "True",
-    "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-03-07T19:06:52",
     "FFlagStudioCloseStartPageAtPlaceOpen2": "True",
     "FIntNewDockingBetaFeatureRolloutPercent": "5",
     "FFlagSimCSGV3FixPreTransform_Rollout": "True;60;2024-03-07T19:43:35",
@@ -11009,6 +11008,7 @@
     "DFFlagDomainAllowListEnabled_Rollout": "True;60;2024-03-07T20:02:03",
     "FFlagEnableTelemetryProtocol": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
+    "FFlagStudioNoQmlAtLogin_Rollout": "True;60;2024-03-07T21:13:18",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11161,8 +11161,8 @@
     "FFlagAddSeeAllShortcutControllerBar10ft": "True",
     "FFlagTenFootUiSearchLoadMore2": "True",
     "FFlagFixHtileClearEnable": "True",
-    "FStringFlagRepoGitHashFastString": "5541fb87b5e5f0404ecbd022cce922888a3b82bb",
-    "DFStringFlagRepoGitHashDynamicString": "5541fb87b5e5f0404ecbd022cce922888a3b82bb",
-    "FStringFlipTimeStampFastString": "2024-03-07T20:39:10.077Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-07T20:39:10.077Z"
+    "FStringFlagRepoGitHashFastString": "418dbec0f141ff537d8ef0b53ef1f818f1f22e55",
+    "DFStringFlagRepoGitHashDynamicString": "418dbec0f141ff537d8ef0b53ef1f818f1f22e55",
+    "FStringFlipTimeStampFastString": "2024-03-07T21:15:45.878Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-07T21:15:45.878Z"
 }
