@@ -11307,9 +11307,9 @@
     "FFlagEnableNavBarLabels3": "True",
     "FFlagRemoveAppTempCommonTemp": "True",
     "FFlagLuauExtendedSizeClasses": "True",
-    "FFlagReportHopperBinUsage_Rollout": "True;30;2024-03-07T22:28:01",
-    "FStringFlagRepoGitHashFastString": "12315b9154cc01856718be75140ed5559b4c0e2d",
-    "DFStringFlagRepoGitHashDynamicString": "12315b9154cc01856718be75140ed5559b4c0e2d",
-    "FStringFlipTimeStampFastString": "2024-03-07T23:05:36.819Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-07T23:05:36.819Z"
+    "FFlagReportHopperBinUsage": "True",
+    "FStringFlagRepoGitHashFastString": "96047ce244fcf285c806cd34f4b63ae35afa1fba",
+    "DFStringFlagRepoGitHashDynamicString": "96047ce244fcf285c806cd34f4b63ae35afa1fba",
+    "FStringFlipTimeStampFastString": "2024-03-07T23:35:54.223Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-07T23:35:54.223Z"
 }
