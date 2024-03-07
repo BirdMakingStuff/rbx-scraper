@@ -11000,6 +11000,7 @@
     "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2024-03-07T16:49:09",
     "FFlagUserShowGuiHideToggles_Rollout": "True;60;2024-03-07T17:14:45",
     "FFlagGuiHidingApiSupport2_Rollout": "True;60;2024-03-07T17:14:45",
+    "FIntTextFilterV2ApiHundredthPercent_Rollout": "10000;60;2024-03-07T17:34:25",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11316,6 +11317,8 @@
     "FStringTerrainEditorAnalyticsHandlers": "Usage,Activated",
     "FFlagStudioRemoveOldOpenPlaceEvent_Rollout": "True;60;2024-03-07T17:16:01",
     "FFlagStudioFixComponentOverrideRegistration_Rollout": "True;60;2024-03-07T17:16:24",
+    "FFlagPath2DBetaBetaFeature_Rollout": "True;60;2024-03-07T17:22:55",
+    "FFlagPath2DCapNumberOfControlPoints_Rollout": "True;60;2024-03-07T17:23:23",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11346,8 +11349,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "c7b3b32f5d6296b26faea7f3471a5074a610a89d",
-    "DFStringFlagRepoGitHashDynamicString": "c7b3b32f5d6296b26faea7f3471a5074a610a89d",
-    "FStringFlipTimeStampFastString": "2024-03-07T17:19:05.014Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-07T17:19:05.014Z"
+    "FStringFlagRepoGitHashFastString": "f339b2b355756b178a3103f15d13029e1aa3587b",
+    "DFStringFlagRepoGitHashDynamicString": "f339b2b355756b178a3103f15d13029e1aa3587b",
+    "FStringFlipTimeStampFastString": "2024-03-07T17:36:04.808Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-07T17:36:04.808Z"
 }
