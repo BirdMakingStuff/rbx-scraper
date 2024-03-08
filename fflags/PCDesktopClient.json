@@ -10815,7 +10815,7 @@
     "FFlagScriptProfilerSimpleUI": "True",
     "DFFlagEnableRemoteSaveValidatorTelemetry": "True",
     "DFIntRemoteSaveValidatorFailureTelemetryThrottleHundredthsPercent": "10000",
-    "FFlagStudioNewPlaceUploadPublishRollout": "True",
+    "FFlagStudioNewPlaceUploadPublishRollout": "False",
     "FFlagLuauHeapExpandableEllipsis": "True",
     "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent": "2500",
     "FFlagStudioAlwaysShowSouthRegionsWhenEmpty": "True",
@@ -11007,8 +11007,10 @@
     "FFlagEnableFixBundleItemDetailDeepLinkHydrationBug": "True",
     "FFlagRefactorPlayerContextualMenuForContacts": "True",
     "FFlagFixControllerBarButtonNames": "True",
-    "FFlagVoiceChatCheckRecordingPermission_Rollout": "True;60;2024-03-07T22:18:20",
     "FFlagStudioNoQmlAtLogin": "True",
+    "FFlagVoiceChatCheckRecordingPermission": "True",
+    "DFFlagAudioGraphNewApiTraversal_Rollout": "True;60;2024-03-07T23:53:53",
+    "FFlagSimSolverOptimizeNoConstraintIslands_Rollout": "True;60;2024-03-07T23:58:03",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11308,8 +11310,8 @@
     "FFlagRemoveAppTempCommonTemp": "True",
     "FFlagLuauExtendedSizeClasses": "True",
     "FFlagReportHopperBinUsage": "True",
-    "FStringFlagRepoGitHashFastString": "96047ce244fcf285c806cd34f4b63ae35afa1fba",
-    "DFStringFlagRepoGitHashDynamicString": "96047ce244fcf285c806cd34f4b63ae35afa1fba",
-    "FStringFlipTimeStampFastString": "2024-03-07T23:35:54.223Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-07T23:35:54.223Z"
+    "FStringFlagRepoGitHashFastString": "34e3801b60863bfe51ce40dceadc8bcb4ab98bc0",
+    "DFStringFlagRepoGitHashDynamicString": "34e3801b60863bfe51ce40dceadc8bcb4ab98bc0",
+    "FStringFlipTimeStampFastString": "2024-03-08T01:00:43.460Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-08T01:00:43.460Z"
 }
