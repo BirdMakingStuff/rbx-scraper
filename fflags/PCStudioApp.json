@@ -11011,6 +11011,11 @@
     "DFFlagAudioGraphNewApiTraversal": "True",
     "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-08T17:12:21",
     "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-03-08T17:12:26",
+    "DFFlagFlagRolloutTestDynamicBool5_Rollout": "False;60;2024-03-08T17:30:57",
+    "FFlagUserClearPanOnCameraDisable_Rollout": "True;60;2024-03-08T17:31:06",
+    "FFlagFlagRolloutTestStaticBool5_Rollout": "False;60;2024-03-08T17:31:21",
+    "DFFlagLuauCodeGenCoverForgprepEffect_Rollout": "True;30;2024-03-08T17:35:22",
+    "FFlagLuauCodegenVectorTag2_Rollout": "True;30;2024-03-08T17:35:46",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11351,6 +11356,7 @@
     "FFlagAvatarPreviewerRemoveItemsFromPalette2": "True",
     "FFlagAvatarPreviewerCameraTiltAndState2": "True",
     "FStringPath2DBetaBetaFeatureUrl": "https://devforum.roblox.com/t/path2d-studio-beta/2868432",
+    "DFFlagStreamingBooleanIteration3_Rollout": "True;60;2024-03-08T17:30:37",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11372,8 +11378,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "1cc8ffde53cd0eaf1432ceea2427c26dff2de424",
-    "DFStringFlagRepoGitHashDynamicString": "1cc8ffde53cd0eaf1432ceea2427c26dff2de424",
-    "FStringFlipTimeStampFastString": "2024-03-08T17:16:06.848Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-08T17:16:06.848Z"
+    "FStringFlagRepoGitHashFastString": "02d358c8c70669356da7247dc33f753801f84bde",
+    "DFStringFlagRepoGitHashDynamicString": "02d358c8c70669356da7247dc33f753801f84bde",
+    "FStringFlipTimeStampFastString": "2024-03-08T17:38:51.187Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-08T17:38:51.187Z"
 }
