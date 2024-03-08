@@ -38,7 +38,7 @@
     "Error.ItemConfiguration.AssetPendingValidation": "Cannot release asset that is pending validation.",
     "Error.ItemConfiguration.AssetContainsInvalidContent": "Cannot release asset that contains invalid content.",
     "Error.ItemConfiguration.InvalidGroupPermission": "User does not have permission for the group owned asset.",
-    "Label.CreatorHub": "Creator Hub",
+    "Label.CreatorHub": "Home",
     "Label.CreatorMarketplace": "Creator Marketplace",
     "Label.Documentation": "Documentation",
     "Label.TalentHub": "Talent Hub",
