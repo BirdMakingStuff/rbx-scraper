@@ -10996,7 +10996,6 @@
     "FIntLuauCodeGenMaxTotalSize": "33554432",
     "FFlagLuaAppShowPillContainsStrongLanguageContent": "True",
     "FFlagGuiHidingApiSupport2": "True",
-    "FFlagStudioCloseStartPageAtPlaceOpen2": "True",
     "FIntNewDockingBetaFeatureRolloutPercent": "5",
     "DFFlagHttpReportDcHeaders": "True",
     "FFlagEnableTelemetryProtocol": "True",
@@ -11007,10 +11006,9 @@
     "FFlagEnableFixBundleItemDetailDeepLinkHydrationBug": "True",
     "FFlagRefactorPlayerContextualMenuForContacts": "True",
     "FFlagFixControllerBarButtonNames": "True",
-    "FFlagStudioNoQmlAtLogin": "True",
     "FFlagVoiceChatCheckRecordingPermission": "True",
-    "DFFlagAudioGraphNewApiTraversal_Rollout": "True;60;2024-03-07T23:53:53",
-    "FFlagSimSolverOptimizeNoConstraintIslands_Rollout": "True;60;2024-03-07T23:58:03",
+    "FFlagSimSolverOptimizeNoConstraintIslands": "True",
+    "DFFlagAudioGraphNewApiTraversal": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11372,8 +11370,8 @@
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
-    "FStringFlagRepoGitHashFastString": "34e3801b60863bfe51ce40dceadc8bcb4ab98bc0",
-    "DFStringFlagRepoGitHashDynamicString": "34e3801b60863bfe51ce40dceadc8bcb4ab98bc0",
-    "FStringFlipTimeStampFastString": "2024-03-08T01:00:43.460Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-08T01:00:43.460Z"
+    "FStringFlagRepoGitHashFastString": "59be14a63e26e176e66fd4244e1d8640e4b6fb92",
+    "DFStringFlagRepoGitHashDynamicString": "59be14a63e26e176e66fd4244e1d8640e4b6fb92",
+    "FStringFlipTimeStampFastString": "2024-03-08T01:55:31.954Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-08T01:55:31.954Z"
 }
