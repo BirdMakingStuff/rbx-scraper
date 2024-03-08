@@ -15473,6 +15473,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "CoreScripts.InGameMenu",
+            "key": "Controls.ToggleGameMenu",
+            "description": "Description of how pressing a specific button on a Playstation or Xbox controller lets you toggle on and off navigation of that Roblox game's UI menu elements.",
+            "english": "Game Menu Toggle",
+            "translation": "Game Menu Toggle",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Xbox.Old",
             "key": "ViewGamerCardWord",
             "description": "Created by esauer@roblox.com\nModified by esauer@roblox.com\nCreated by esauer@roblox.com\nModified by bdeng@roblox.com\nModified by ptrethewey@roblox.com\nModified by ptrethewey@roblox.com",
