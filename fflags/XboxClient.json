@@ -4610,7 +4610,7 @@
     "FStringFlagRolloutTestStaticString7": "test",
     "DFFlagDoesNotExistAtAll": "False",
     "DFFlagFlagRolloutTestDynamicBool1": "False",
-    "DFFlagFlagRolloutTestDynamicBool2": "True",
+    "DFFlagFlagRolloutTestDynamicBool2": "False",
     "DFFlagFlagRolloutTestDynamicBool5": "False",
     "FFlagFlagRolloutTestStaticBool7": "True",
     "FFlagFlagRolloutTestStaticBool8": "True",
@@ -6388,7 +6388,7 @@
     "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
     "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
     "FFlag9SliceEditorShorterLoadTime": "True",
-    "DFFlagFlagRolloutTestDynamicBool0": "True",
+    "DFFlagFlagRolloutTestDynamicBool0": "False",
     "FFlagUserSearchLayerPassAllProps": "True",
     "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
     "FFlagUnifyAddFriendsPageRouterName": "True",
@@ -11034,7 +11034,6 @@
     "FFlagOverlappingRemoteNameTags": "True",
     "DFFlagDisableAAIfV": "True",
     "DFFlagVoiceChatNoRecursiveLocking": "True",
-    "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-03-08T22:17:50",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11334,8 +11333,8 @@
     "FFlagXboxMoveInferredCrashReport": "True",
     "FFlagXboxImprovedCrashCollection": "True",
     "FFlagXboxLastKnownStateImprovements": "True",
-    "FStringFlagRepoGitHashFastString": "c34f45908956fb1118dc946836806ff7681f4dae",
-    "DFStringFlagRepoGitHashDynamicString": "c34f45908956fb1118dc946836806ff7681f4dae",
-    "FStringFlipTimeStampFastString": "2024-03-08T22:20:38.164Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-08T22:20:38.164Z"
+    "FStringFlagRepoGitHashFastString": "5a376d1530efe0e057a3b4fdbca0356ecf8b37da",
+    "DFStringFlagRepoGitHashDynamicString": "5a376d1530efe0e057a3b4fdbca0356ecf8b37da",
+    "FStringFlipTimeStampFastString": "2024-03-09T01:05:45.745Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-09T01:05:45.745Z"
 }
