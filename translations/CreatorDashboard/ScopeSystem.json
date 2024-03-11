@@ -96,5 +96,6 @@
     "OperationDescription.CreatorStoreProductsAPIWrite": "This allows you to modify information about your Creator Store products.",
     "OperationDescription.NotificationsAPIWrite": "This allows sending notifications from your experience to users",
     "Label.UserRestriction": "User Restriction",
-    "Label.UserRestrictions": "User Restrictions"
+    "Label.UserRestrictions": "User Restrictions",
+    "Label.Subscription": "Subscription"
 }
