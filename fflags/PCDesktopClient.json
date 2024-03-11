@@ -10860,7 +10860,7 @@
     "DFIntEngineAPICloudProcessingMaxPayloadSize": "500000",
     "FFlagLuaAppReplaceTableUtilities": "True",
     "DFFlagInvalidNumPropertyAssignCheckExt": "True",
-    "FStringPlatformEventUrl": "",
+    "FStringPlatformEventUrl": "https://www.roblox.com/the-hunt",
     "DFFlagStrictStringConvertReportTypeof": "True",
     "FFlagVoiceChatExplicitInProgressForSubsOperation": "True",
     "FFlagStudioComponentizeSleepStateTracker": "True",
@@ -11036,6 +11036,11 @@
     "FStringFlagRolloutTestStaticString8": "Static03072024",
     "DFFlagDisableAAIfV_Rollout": "True;60;2024-03-11T16:31:58",
     "DFFlagStreamingBooleanIteration3": "False",
+    "FFlagLuaAppGridTilesUIPolish": "True",
+    "FFlagSimAdaptiveArbiterModelSlotReset_Rollout": "True;60;2024-03-11T16:54:20",
+    "FFlagSanitizeDevicePiiFix_Rollout": "True;60;2024-03-11T16:59:19",
+    "FFlagVideoCMCDFormatName_Rollout": "True;30;2024-03-11T17:04:49",
+    "FFlagPWClearSelectionDataFix_Rollout": "True;60;2024-03-11T17:07:11",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11334,8 +11339,8 @@
     "FFlagEnableNavBarLabels3": "True",
     "FFlagRemoveAppTempCommonTemp": "True",
     "FFlagReportHopperBinUsage": "True",
-    "FStringFlagRepoGitHashFastString": "db8c041bded747365eb0afe4d55a1256d3e0fa69",
-    "DFStringFlagRepoGitHashDynamicString": "db8c041bded747365eb0afe4d55a1256d3e0fa69",
-    "FStringFlipTimeStampFastString": "2024-03-11T16:35:10.102Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-11T16:35:10.102Z"
+    "FStringFlagRepoGitHashFastString": "68af2b883c015347c97281645e19e060ada8fd0f",
+    "DFStringFlagRepoGitHashDynamicString": "68af2b883c015347c97281645e19e060ada8fd0f",
+    "FStringFlipTimeStampFastString": "2024-03-11T17:10:52.177Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-11T17:10:52.177Z"
 }
