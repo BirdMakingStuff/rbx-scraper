@@ -11034,7 +11034,8 @@
     "FStringFlagRolloutTestStaticString5": "Static03072024",
     "FStringFlagRolloutTestStaticString6": "Static03072024",
     "FStringFlagRolloutTestStaticString8": "Static03072024",
-    "DFFlagStreamingBooleanIteration3_Rollout": "False;1;2024-03-11T15:50:04",
+    "DFFlagDisableAAIfV_Rollout": "True;60;2024-03-11T16:31:58",
+    "DFFlagStreamingBooleanIteration3": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11450,8 +11451,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "6273ac6ab035b55f81c2e8e0e7a96a7d94e7d5dd",
-    "DFStringFlagRepoGitHashDynamicString": "6273ac6ab035b55f81c2e8e0e7a96a7d94e7d5dd",
-    "FStringFlipTimeStampFastString": "2024-03-11T16:15:38.674Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-11T16:15:38.674Z"
+    "FStringFlagRepoGitHashFastString": "db8c041bded747365eb0afe4d55a1256d3e0fa69",
+    "DFStringFlagRepoGitHashDynamicString": "db8c041bded747365eb0afe4d55a1256d3e0fa69",
+    "FStringFlipTimeStampFastString": "2024-03-11T16:35:10.102Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-11T16:35:10.102Z"
 }
