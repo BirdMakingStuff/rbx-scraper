@@ -11097,6 +11097,11 @@
     "FFlagAvatarPreviewerEquippedPaletteTooltip": "True",
     "FFlagAvatarPreviewerMakeGeoCaseInsensitive": "True",
     "FFlagAvatarPreviewerRemoveItemsFromPalette2": "True",
+    "FFlagStudioCleanupDeprecatedEnabledBFIds_Rollout": "True;60;2024-03-11T21:21:11",
+    "FFlagUseWriteSafeAttributeForCustomCrashDetails_Rollout": "True;60;2024-03-11T21:21:19",
+    "FFlagHttpWrapperAddDebugOverrideURLOption_Rollout": "True;60;2024-03-11T21:24:36",
+    "FFlagCAPScrollBarNoLongerDisappears_Rollout": "True;60;2024-03-11T21:25:23",
+    "FFlagCAPUpdateDefaultThumbnail_Rollout": "True;60;2024-03-11T21:26:34",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11510,6 +11515,7 @@
     "FFlagEnableNavBarLabels3": "True",
     "FFlagRemoveAppTempCommonTemp": "True",
     "FFlagPlatformEventEnabled2": "True",
+    "FFlagPasskeySignupEnabled": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -11541,8 +11547,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "1f1f57f8b0d49318a71fe9ea1ed71e7add53b554",
-    "DFStringFlagRepoGitHashDynamicString": "1f1f57f8b0d49318a71fe9ea1ed71e7add53b554",
-    "FStringFlipTimeStampFastString": "2024-03-11T21:12:56.103Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-11T21:12:56.103Z"
+    "FStringFlagRepoGitHashFastString": "90131803251dc78b47777ca19b42d82548728154",
+    "DFStringFlagRepoGitHashDynamicString": "90131803251dc78b47777ca19b42d82548728154",
+    "FStringFlipTimeStampFastString": "2024-03-11T21:30:30.191Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-11T21:30:30.191Z"
 }
