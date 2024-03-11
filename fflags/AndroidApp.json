@@ -11041,6 +11041,15 @@
     "FFlagSanitizeDevicePiiFix_Rollout": "True;60;2024-03-11T16:59:19",
     "FFlagVideoCMCDFormatName_Rollout": "True;30;2024-03-11T17:04:49",
     "FFlagPWClearSelectionDataFix_Rollout": "True;60;2024-03-11T17:07:11",
+    "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
+    "DFFlagVideoFixResetOrder_Rollout": "True;60;2024-03-11T17:22:42",
+    "FFlagSimSolverOptimizeLFWriteVectors_Rollout": "True;60;2024-03-11T17:22:47",
+    "FFlagDisableBoxMappingForExport_Rollout": "True;60;2024-03-11T17:23:01",
+    "DFFlagVideoRemoveAssetIdFromErrorMessage_Rollout": "True;60;2024-03-11T17:29:43",
+    "FFlagFmodIosGetDeviceBusType2_Rollout": "True;60;2024-03-11T17:30:05",
+    "DFFlagVideoMetricsUseAssetIdInVideoStream_Rollout": "True;60;2024-03-11T17:31:33",
+    "FFlagExplorerItemIconQueryTaskCrashFix_Rollout": "True;60;2024-03-11T17:36:24",
+    "FFlagUseSecureNSKeyedArchiver": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11453,8 +11462,8 @@
     "EnableIrisUpdatedCallingNotificationCompat": "False",
     "FFlagEnableNavBarLabels3": "True",
     "FFlagRemoveAppTempCommonTemp": "True",
-    "FStringFlagRepoGitHashFastString": "68af2b883c015347c97281645e19e060ada8fd0f",
-    "DFStringFlagRepoGitHashDynamicString": "68af2b883c015347c97281645e19e060ada8fd0f",
-    "FStringFlipTimeStampFastString": "2024-03-11T17:10:52.177Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-11T17:10:52.177Z"
+    "FStringFlagRepoGitHashFastString": "f5fc3b1189f05f1335f3a92c4e78e0ee730ae79c",
+    "DFStringFlagRepoGitHashDynamicString": "f5fc3b1189f05f1335f3a92c4e78e0ee730ae79c",
+    "FStringFlipTimeStampFastString": "2024-03-11T17:39:13.037Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-11T17:39:13.037Z"
 }
