@@ -11201,7 +11201,6 @@
     "DFFlagFastEndUpdateLoop": "True",
     "FFlagRuntimeErrorSafeFormatOverload": "True",
     "DFFlagFileMeshDataTelemetry": "True",
-    "DFIntRccPlaceContentFetchMaxRetry_Rollout": "2;60;2024-03-12T19:59:17",
     "DFFlagEnableSubscriptionDetails2": "True",
     "FFlagMoveToSTFSM_Rollout": "True;60;2024-03-12T20:18:21",
     "FFlagSimCSG3RejectNonArchivable_PlaceFilter": "True;16726230378",
@@ -11213,6 +11212,11 @@
     "FFlagAudioMetadataUseNewService_Rollout": "True;60;2024-03-12T20:58:09",
     "FFlagStylingRemoveStyleFix_Rollout": "True;60;2024-03-12T20:59:31",
     "DFFlagRccOverridePlaceFetchTimeout_Rollout": "True;60;2024-03-12T21:09:21",
+    "FFlagSimCSG3FixIncorrectDecalInTriangleCountOptimization_Rollout": "True;60;2024-03-12T21:22:40",
+    "DFFlagFixAccessViolationInOnFrameCpu_Rollout": "True;60;2024-03-12T21:28:44",
+    "DFIntRccPlaceContentFetchMaxRetry": "2",
+    "FFlagELFReportSubflowDuration_Rollout": "True;60;2024-03-12T21:33:30",
+    "DFLogRCCExecuteInfo_Rollout": "Info;60;2024-03-12T21:38:46",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11512,8 +11516,8 @@
     "FFlagRemoveAppTempCommonTemp": "True",
     "FFlagReportHopperBinUsage": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "2fb76c0375f8814b9fbab10fd882b0fd73efc6bb",
-    "DFStringFlagRepoGitHashDynamicString": "2fb76c0375f8814b9fbab10fd882b0fd73efc6bb",
-    "FStringFlipTimeStampFastString": "2024-03-12T21:10:49.637Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-12T21:10:49.637Z"
+    "FStringFlagRepoGitHashFastString": "55baa8dafb9a2078496ed2019bdc2636ce6910c2",
+    "DFStringFlagRepoGitHashDynamicString": "55baa8dafb9a2078496ed2019bdc2636ce6910c2",
+    "FStringFlipTimeStampFastString": "2024-03-12T21:39:35.948Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-12T21:39:35.948Z"
 }
