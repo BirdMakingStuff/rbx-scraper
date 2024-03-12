@@ -577,5 +577,7 @@
     "Label.Dimension.AcquisitionSource.Search": "Search",
     "Label.Dimension.AcquisitionSource.HomeNonRecommendation": "Home Other",
     "Label.Dimension.AcquisitionSource.Others": "Other",
-    "Label.FunnelSourcePortalAds": "Portal Ads"
+    "Label.FunnelSourcePortalAds": "Portal Ads",
+    "Label.Dimension.AcquisitionSource.PortalAds": "Portal Ads",
+    "Label.Annotation.PlaceThumbnail": "Thumbnail"
 }
