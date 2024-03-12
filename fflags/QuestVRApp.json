@@ -4610,7 +4610,7 @@
     "FStringFlagRolloutTestStaticString7": "Static03072024",
     "DFFlagDoesNotExistAtAll": "False",
     "DFFlagFlagRolloutTestDynamicBool1": "True",
-    "DFFlagFlagRolloutTestDynamicBool2": "True",
+    "DFFlagFlagRolloutTestDynamicBool2": "False",
     "DFFlagFlagRolloutTestDynamicBool5": "True",
     "FFlagFlagRolloutTestStaticBool7": "False",
     "FFlagFlagRolloutTestStaticBool8": "True",
@@ -11120,7 +11120,6 @@
     "FFlagStudioReportUserBetaFeaturesToBacktrace": "True",
     "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-03-12T00:46:35",
     "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-03-12T00:46:35",
-    "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;30;2024-03-12T00:46:35",
     "DFFlagFlagRolloutTestDynamicBool4_Rollout": "True;60;2024-03-12T00:46:35",
     "DFFlagFlagRolloutTestDynamicBool5_Rollout": "False;60;2024-03-12T00:46:35",
     "DFFlagFlagRolloutTestDynamicBool6_Rollout": "True;60;2024-03-12T00:46:35",
@@ -11736,8 +11735,8 @@
     "FFlagLuaAppSignUpPageRefactor": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
-    "FStringFlagRepoGitHashFastString": "600d13437a8b527b42b3281195df4c01a5b1f454",
-    "DFStringFlagRepoGitHashDynamicString": "600d13437a8b527b42b3281195df4c01a5b1f454",
-    "FStringFlipTimeStampFastString": "2024-03-12T01:10:45.193Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-12T01:10:45.193Z"
+    "FStringFlagRepoGitHashFastString": "7f4f562c2b17f64ecb19636824355c02722dc4e6",
+    "DFStringFlagRepoGitHashDynamicString": "7f4f562c2b17f64ecb19636824355c02722dc4e6",
+    "FStringFlipTimeStampFastString": "2024-03-12T02:00:30.000Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-12T02:00:30.000Z"
 }
