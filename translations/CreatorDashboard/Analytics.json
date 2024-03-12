@@ -576,5 +576,6 @@
     "Label.Dimension.IsNewUser.New": "New",
     "Label.Dimension.AcquisitionSource.Search": "Search",
     "Label.Dimension.AcquisitionSource.HomeNonRecommendation": "Home Other",
-    "Label.Dimension.AcquisitionSource.Others": "Other"
+    "Label.Dimension.AcquisitionSource.Others": "Other",
+    "Label.FunnelSourcePortalAds": "Portal Ads"
 }
