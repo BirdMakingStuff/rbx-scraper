@@ -11200,6 +11200,8 @@
     "FFlagFlagRolloutTestStaticBool49": "True",
     "DFFlagReportMissingReplicationRoot": "True",
     "DFFlagNewFlagRollout": "True",
+    "DFFlagSimIterativeIndexedMeshLowersChanged_Rollout": "True;30;2024-03-12T16:54:19",
+    "DFFlagSimIterativeIndexedTreeVisitDescendants_Rollout": "True;30;2024-03-12T16:55:16",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11563,8 +11565,8 @@
     "FFlagAllSoundServicesShareOneFmod": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "bb5dcc6e69be48826b87f9cbf3d74f530e4090cd",
-    "DFStringFlagRepoGitHashDynamicString": "bb5dcc6e69be48826b87f9cbf3d74f530e4090cd",
-    "FStringFlipTimeStampFastString": "2024-03-12T15:45:34.804Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-12T15:45:34.804Z"
+    "FStringFlagRepoGitHashFastString": "fde258df5735272121eb132b79de1d3cfb8b0d67",
+    "DFStringFlagRepoGitHashDynamicString": "fde258df5735272121eb132b79de1d3cfb8b0d67",
+    "FStringFlipTimeStampFastString": "2024-03-12T16:57:47.062Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-12T16:57:47.062Z"
 }
