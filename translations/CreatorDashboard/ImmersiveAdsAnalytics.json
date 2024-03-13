@@ -75,5 +75,16 @@
     "Title.TotalDailyImpressions": "Total Daily Impressions",
     "Title.ImageImpressions": "Image Impressions",
     "Label.Total": "Total",
-    "Title.VideoViews": "Video Views"
+    "Title.VideoViews": "Video Views",
+    "Description.TotalRobuxEarnings": "Total Robux amount earned from immersive ads in this experience across all ad formats.",
+    "Description.AverageGeneratedFromTeleports": "The average Robux amount earned for every teleport generated from Portal ad units in this experience.",
+    "Description.TotalImpressionsFromImageAds": "Total number of impressions generated from image ad units in this experience.",
+    "Description.VideoSummary": "Total number of views generated from video ad units in this experience over the specified time period (includes estimated and validated impressions).",
+    "Description.ImageAndPortalImpressionsSummary": "Total number of impressions generated from image and portal ad units in this experience over the specified time period (this excludes any impressions generated from video ads).",
+    "Description.TotalVideoViews": "Total number of video views generated from video ad units in this experience.",
+    "Description.TotalPortalEarnings": "Total Robux amount earned from portal ad units in this experience.",
+    "Description.EstimatedRobuxPerPortal": "The estimated Robux amount earned per portal ad unit in this experience. If more than one ad unit has the same name, then earnings are aggregated.",
+    "Description.TotalRobuxFromImageAds": "Total Robux amount earned from image ad units in this experience.",
+    "Description.TotalImpressionsEarnings": "Total number of impressions generated from image and portal ad units in this experience (excluding video ad impressions). Impressions from portal ads do not contribute to earnings.",
+    "Description.AverageRobuxEPM": "The average Robux amount earned for every thousand impressions generated from Image ad units in this experience."
 }
