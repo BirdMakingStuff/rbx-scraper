@@ -265,5 +265,7 @@
     "Label.GroupOwnedAssetsIneligible": "Group-owned assets are ineligible for pricing. {docLinkStart}Learn more.{docLinkEnd}",
     "Label.Register": "Register",
     "Heading.SampleProduct": "Sample Product",
-    "Description.SampleProduct": "This is a description for a sample product"
+    "Description.SampleProduct": "This is a description for a sample product",
+    "Label.PriceFloor": "Price Floor",
+    "Label.PriceCeiling": "Price Ceiling"
 }

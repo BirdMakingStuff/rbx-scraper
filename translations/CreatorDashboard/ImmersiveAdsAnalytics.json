@@ -87,5 +87,6 @@
     "Description.TotalRobuxFromImageAds": "Total Robux amount earned from image ad units in this experience.",
     "Description.EstimatedRobuxPerImageAd": "The estimated Robux amount earned per image ad unit in this experience. If more than one ad unit has the same name, then earnings are aggregated.",
     "Description.TotalImpressionsEarnings": "Total number of impressions generated from image and portal ad units in this experience (excluding video ad impressions). Impressions from portal ads do not contribute to earnings.",
-    "Description.AverageRobuxEPM": "The average Robux amount earned for every thousand impressions generated from Image ad units in this experience."
+    "Description.AverageRobuxEPM": "The average Robux amount earned for every thousand impressions generated from Image ad units in this experience.",
+    "Description.RobuxEarnedFromVideoAds": "Total Robux amount earned from video ad units in this experience."
 }
