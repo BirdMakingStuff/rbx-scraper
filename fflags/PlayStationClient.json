@@ -11238,6 +11238,11 @@
     "FFlagCLI99076": "True",
     "FFlagAXGateUGC4ACollectibleAssetsBundles": "True",
     "FFlagIBGateUGC4ACollectibleAssetsBundles1": "True",
+    "FFlagLuaAppSortTooltipEnableVR": "True",
+    "FFlagUIBloxSupportControlStateSelectedForTooltipHover": "True",
+    "FFlagTenFootUiSupportSortHeaderTooltip": "True",
+    "FFlagLuaAppHigherResGameThumbnail": "True",
+    "FFlagLuaAppExpandTooltipHitbox": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11391,8 +11396,8 @@
     "FFlagGraphicsEnableOrbisContextNullResourceAllocMem": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagRenderMeshEvictUnusedEnable": "True",
-    "FStringFlagRepoGitHashFastString": "35de7b411797099e344cfeafd15afa68a76a1cba",
-    "DFStringFlagRepoGitHashDynamicString": "35de7b411797099e344cfeafd15afa68a76a1cba",
-    "FStringFlipTimeStampFastString": "2024-03-14T22:32:21.713Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-14T22:32:21.713Z"
+    "FStringFlagRepoGitHashFastString": "a528469ec048725487af5b8ba85c2c34eab07e58",
+    "DFStringFlagRepoGitHashDynamicString": "a528469ec048725487af5b8ba85c2c34eab07e58",
+    "FStringFlipTimeStampFastString": "2024-03-14T23:10:25.645Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-14T23:10:25.645Z"
 }
