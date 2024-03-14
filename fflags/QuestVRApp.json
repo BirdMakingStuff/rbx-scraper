@@ -11050,7 +11050,7 @@
     "FFlagDevFrameworkFixVectorInput": "True",
     "FFlagPWClearSelectionDataFix": "True",
     "FFlagSubmitTaskInDataModelSession": "True",
-    "FFlagSimSolverOptimizeLFWriteVectors": "False",
+    "FFlagSimSolverOptimizeLFWriteVectors": "True",
     "FFlagDisableBoxMappingForExport": "True",
     "DFFlagVideoFixResetOrder": "True",
     "DFFlagVideoRemoveAssetIdFromErrorMessage": "True",
@@ -11653,8 +11653,9 @@
     "FFlagPasskeySignupEnabled": "False",
     "FFlagEnableSignupBirthdayExperimentsRelease2": "False",
     "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436",
-    "FFlagSimSolverOptimizeLFWriteVectors_Rollout": "True;60;2024-03-14T20:11:23",
-    "DFFlagDeprecationMessageRefinements_Rollout": "True;30;2024-03-14T20:34:23",
+    "DFFlagDeprecationMessageRefinements": "True",
+    "FFlagStartupDeprecationMessage": "True",
+    "EnableEnhancedShareAnalytics": "True",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -11678,8 +11679,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
-    "FStringFlagRepoGitHashFastString": "08188c621820da4c2555c88690262e4a2c625196",
-    "DFStringFlagRepoGitHashDynamicString": "08188c621820da4c2555c88690262e4a2c625196",
-    "FStringFlipTimeStampFastString": "2024-03-14T21:39:19.440Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-14T21:39:19.440Z"
+    "FStringFlagRepoGitHashFastString": "edffdfe22afcd16198bdc45e9095bb97220632ea",
+    "DFStringFlagRepoGitHashDynamicString": "edffdfe22afcd16198bdc45e9095bb97220632ea",
+    "FStringFlipTimeStampFastString": "2024-03-14T22:15:41.044Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-14T22:15:41.044Z"
 }

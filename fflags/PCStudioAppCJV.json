@@ -11580,7 +11580,6 @@
     "FFlagTextureGeneratorTelemetry": "True",
     "FFlagNoBlinkingTextNotEditable": "True",
     "FFlagDevFrameworkFormUseScrollingFrame": "True",
-    "FFlagEnablePath2DControlPointPropertyEditor_Rollout": "True;60;2024-03-14T20:22:51",
     "FFlagMigrateVerbAnchorVerb_Rollout": "True;60;2024-03-14T20:49:23",
     "FFlagMigrateSelectionVerbs_Rollout": "True;60;2024-03-14T20:50:41",
     "FFlagStudioComponentizeRobloxIDEDoc4": "True",
@@ -11590,6 +11589,8 @@
     "FFlagStudioRemoveQtDockPanelsFromMapAfterLayoutRestore_Rollout": "True;60;2024-03-14T21:08:40",
     "FFlagCOLLAB5718ServerPopulateColor3s_Rollout": "True;60;2024-03-14T21:20:59",
     "FFlagPackageUpdateAnalytics_Rollout": "True;60;2024-03-14T21:22:58",
+    "FFlagDevFrameworkTextInputFixOnEnter": "True",
+    "FFlagEnablePath2DControlPointPropertyEditor": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11622,8 +11623,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "08188c621820da4c2555c88690262e4a2c625196",
-    "DFStringFlagRepoGitHashDynamicString": "08188c621820da4c2555c88690262e4a2c625196",
-    "FStringFlipTimeStampFastString": "2024-03-14T21:39:19.440Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-14T21:39:19.440Z"
+    "FStringFlagRepoGitHashFastString": "edffdfe22afcd16198bdc45e9095bb97220632ea",
+    "DFStringFlagRepoGitHashDynamicString": "edffdfe22afcd16198bdc45e9095bb97220632ea",
+    "FStringFlipTimeStampFastString": "2024-03-14T22:15:41.044Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-14T22:15:41.044Z"
 }
