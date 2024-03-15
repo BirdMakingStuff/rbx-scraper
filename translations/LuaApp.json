@@ -17945,6 +17945,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.DisplayName",
+            "key": "ErrorMessage.NameMoreThanOneCharacterKind",
+            "description": "\"Kind of character\" in this context means character sets (e.g. Japanese characters vs. Latin characters).\n\nError message if a user tries to set their name to have more than one character set. i.e. Users cannot mix Japanese characters and Latin characters in the same name",
+            "english": "Names cannot have more than one kind of character",
+            "translation": "Names cannot have more than one kind of character",
+            "isDeprecated": false
+        },
+        {
             "namespace": "CreatorDashboard.Creations",
             "key": "Label.RenewPremium",
             "description": "Action button label for renewing Roblox premium\nCreated by tli@roblox.com\nModified by tli@roblox.com\nCreated by tli@roblox.com\nModified by bdeng@roblox.com",
