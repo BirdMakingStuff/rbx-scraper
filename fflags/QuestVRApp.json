@@ -11663,9 +11663,9 @@
     "FFlagDisableAccountSelectionListScrollingRelease2": "False",
     "FFlagShouldUsePeekViewForLoginDisambiguation2": "False",
     "FFlagShouldUseSelectionRowInAccountSelectionRelease1": "False",
-    "DFIntIosDeprecationPhase_Rollout": "2;60;2024-03-15T17:43:07",
     "DFIntIosDeprecationDate": "1714374000000",
     "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
+    "DFIntIosDeprecationPhase": "2",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -11689,8 +11689,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
-    "FStringFlagRepoGitHashFastString": "c1624edbc38ccc7341ada3c125c1fc294d0844cb",
-    "DFStringFlagRepoGitHashDynamicString": "c1624edbc38ccc7341ada3c125c1fc294d0844cb",
-    "FStringFlipTimeStampFastString": "2024-03-15T19:10:33.502Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-15T19:10:33.502Z"
+    "FStringFlagRepoGitHashFastString": "ec59ea2869a01e562335055cf5aef9f624fd9c13",
+    "DFStringFlagRepoGitHashDynamicString": "ec59ea2869a01e562335055cf5aef9f624fd9c13",
+    "FStringFlipTimeStampFastString": "2024-03-15T19:25:49.310Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-15T19:25:49.310Z"
 }
