@@ -11591,7 +11591,7 @@
     "FFlagMigrateSelectionVerbs": "True",
     "FFlagStudioPluginPanels": "True",
     "FFlagStudioRibbonBarWidgets": "True",
-    "FFlagStudioRemovePanelAndOtherInstancesIfPluginOnAboutToShow": "True",
+    "FFlagStudioRemovePanelAndOtherInstancesIfPluginOnAboutToShow": "False",
     "FFlagStudioRemoveQtDockPanelsFromMapAfterLayoutRestore": "True",
     "FFlagCOLLAB5718ServerPopulateColor3s": "True",
     "FFlagPackageUpdateAnalytics": "True",
@@ -11603,7 +11603,6 @@
     "FFlagAvatarPreviewerFixSurveyOverlap": "True",
     "FFlagAvatarPreviewerNewDraggableTileList2": "True",
     "FFlagCOLLAB5167TeamCreateSettings": "True",
-    "FFlagStudioRemovePanelAndOtherInstancesIfPluginOnAboutToShow_Rollout": "False;1;2024-03-15T16:40:24",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11626,8 +11625,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "45824e79a7bc593fe6289c2fda28872008d196fe",
-    "DFStringFlagRepoGitHashDynamicString": "45824e79a7bc593fe6289c2fda28872008d196fe",
-    "FStringFlipTimeStampFastString": "2024-03-15T16:46:10.409Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-15T16:46:10.409Z"
+    "FStringFlagRepoGitHashFastString": "a0e25167ec85c24fcd6e9a07f810e0f4f350167c",
+    "DFStringFlagRepoGitHashDynamicString": "a0e25167ec85c24fcd6e9a07f810e0f4f350167c",
+    "FStringFlipTimeStampFastString": "2024-03-15T17:35:51.189Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-15T17:35:51.189Z"
 }
