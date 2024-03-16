@@ -13865,6 +13865,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Contacts",
+            "key": "FindFriendsBanner.DescriptionV2",
+            "description": "new description on phone verification upsell. going to experiment with this because the old text does not make sense if we remove PV as a requirement for contact importer.",
+            "english": "Help us connect you with your friends by adding a phone number.",
+            "translation": "Help us connect you with your friends by adding a phone number.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.GameFollows",
             "key": "TooltipFollowLimitReached",
             "description": "Tooltip for follow game button\nCreated by <Unknown>\nModified by ejiang@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -17942,6 +17950,22 @@
             "description": "Created by mneff@roblox.com",
             "english": "I consent to Roblox's collection, use, and storage of my voice recording to enable voice services and for moderation, safety, and improvement of our services and tools.",
             "translation": "I consent to Roblox's collection, use, and storage of my voice recording to enable voice services and for moderation, safety, and improvement of our services and tools.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.VerificationUpsell",
+            "key": "Description.TurnOnVoiceChat",
+            "description": "Created by mneff@roblox.com",
+            "english": "Turn on Voice Chat in Settings > Privacy > Microphone and Camera Input.",
+            "translation": "Turn on Voice Chat in Settings > Privacy > Microphone and Camera Input.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.VerificationUpsell",
+            "key": "Description.CanNowTalk",
+            "description": "Created by mneff@roblox.com.",
+            "english": "You can now talk to others on Roblox as naturally as you do in the physical world.",
+            "translation": "You can now talk to others on Roblox as naturally as you do in the physical world.",
             "isDeprecated": false
         },
         {
