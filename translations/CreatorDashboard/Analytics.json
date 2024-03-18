@@ -579,5 +579,9 @@
     "Label.Dimension.AcquisitionSource.Others": "Other",
     "Label.FunnelSourcePortalAds": "Portal Ads",
     "Label.Dimension.AcquisitionSource.PortalAds": "Portal Ads",
-    "Label.Annotation.PlaceThumbnail": "Thumbnail"
+    "Label.Annotation.PlaceThumbnail": "Thumbnail",
+    "Title.Table.EventType": "Event Type",
+    "Title.Table.UserId": "User ID",
+    "Title.Table.Timestamp": "Timestamp",
+    "Title.Table.Event": "Event"
 }
