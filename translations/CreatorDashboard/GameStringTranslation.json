@@ -60,5 +60,7 @@
     "Message.RecencyInfo": "Only strings modified or added in the past 7 days will be shown.",
     "Label.FilterBy": "FILTER BY",
     "Label.Save": "Save",
-    "Label.Hide": "Hide"
+    "Label.Hide": "Hide",
+    "Tooltip.AutoTranslationUpdates": "A better translation may become available as Roblox Translate improves. Lock this translation to prevent it from being updated.",
+    "Description.LockTranslation": "Lock translation from automatic updates"
 }
