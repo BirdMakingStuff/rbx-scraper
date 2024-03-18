@@ -11683,6 +11683,7 @@
     "FFlagStringStreamAllocsBegone": "True",
     "FFlagStringStreamAllocsBegone2": "True",
     "FFlagEnableNavigationPerformanceIntervals2": "True",
+    "FFlagSimSolverOptimizeTimestepMultiplierChanges_Rollout": "True;60;2024-03-18T22:28:22",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -11706,8 +11707,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
-    "FStringFlagRepoGitHashFastString": "79dc4091b7c778ab9aaf19772b97710640ff76e6",
-    "DFStringFlagRepoGitHashDynamicString": "79dc4091b7c778ab9aaf19772b97710640ff76e6",
-    "FStringFlipTimeStampFastString": "2024-03-18T22:15:52.651Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T22:15:52.651Z"
+    "FStringFlagRepoGitHashFastString": "61c304bb129988d99d59d4ca209abbb6a7257e32",
+    "DFStringFlagRepoGitHashDynamicString": "61c304bb129988d99d59d4ca209abbb6a7257e32",
+    "FStringFlipTimeStampFastString": "2024-03-18T22:30:47.686Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T22:30:47.686Z"
 }
