@@ -11666,6 +11666,11 @@
     "DFIntIosDeprecationPhase": "2",
     "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-18T17:12:39",
     "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-18T17:13:16",
+    "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T17:58:32",
+    "FFlagTelemetryRevampPurchase3": "True",
+    "FFlagTelemetryRevampClicks2": "True",
+    "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32",
+    "FFlagVideoVP9HardWareDecoderCap2_Rollout": "True;60;2024-03-18T18:16:10",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -11689,8 +11694,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
-    "FStringFlagRepoGitHashFastString": "dbb43fc959ce91af5b9025551612c99501c2bf65",
-    "DFStringFlagRepoGitHashDynamicString": "dbb43fc959ce91af5b9025551612c99501c2bf65",
-    "FStringFlipTimeStampFastString": "2024-03-18T17:14:26.141Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T17:14:26.141Z"
+    "FStringFlagRepoGitHashFastString": "a60c1a634e6f00623cbde5216636564fad9d901e",
+    "DFStringFlagRepoGitHashDynamicString": "a60c1a634e6f00623cbde5216636564fad9d901e",
+    "FStringFlipTimeStampFastString": "2024-03-18T18:20:29.988Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:20:29.988Z"
 }

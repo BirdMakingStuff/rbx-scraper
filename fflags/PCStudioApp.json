@@ -11601,9 +11601,11 @@
     "FFlagAvatarPreviewerFixSurveyOverlap": "True",
     "FFlagAvatarPreviewerNewDraggableTileList2": "True",
     "FFlagCOLLAB5167TeamCreateSettings": "True",
-    "FFlagCAPUpdateInputBoxAndSuggestions_Rollout": "True;60;2024-03-18T16:25:49",
-    "FFlagStudioFixFileNewWhenAddingAnAccount_Rollout": "True;60;2024-03-18T16:41:48",
     "FFlagStudioUsePSCInsteadOfPSM4": "True",
+    "FFlagCAPUpdateInputBoxAndSuggestions": "True",
+    "FFlagLayoutNodeFlexRefactor5_Rollout": "True;30;2024-03-18T18:16:05",
+    "FFlagStudioFixFileNewWhenAddingAnAccount": "True",
+    "FFlagDraggerHideHoverBall": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11626,8 +11628,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "dbb43fc959ce91af5b9025551612c99501c2bf65",
-    "DFStringFlagRepoGitHashDynamicString": "dbb43fc959ce91af5b9025551612c99501c2bf65",
-    "FStringFlipTimeStampFastString": "2024-03-18T17:14:26.141Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T17:14:26.141Z"
+    "FStringFlagRepoGitHashFastString": "a60c1a634e6f00623cbde5216636564fad9d901e",
+    "DFStringFlagRepoGitHashDynamicString": "a60c1a634e6f00623cbde5216636564fad9d901e",
+    "FStringFlipTimeStampFastString": "2024-03-18T18:20:29.988Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:20:29.988Z"
 }
