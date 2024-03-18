@@ -11239,6 +11239,9 @@
     "FFlagTenFootUiSupportSortHeaderTooltip": "False",
     "FFlagLuaAppHigherResGameThumbnail": "True",
     "FFlagLuaAppExpandTooltipHitbox": "True",
+    "FFlagCookieProtocolDomainFixEnabled3": "True",
+    "FFlagHandleRBXASCookie": "True",
+    "FFlagHandleRBXASCookieInCookieProtocol": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11616,6 +11619,7 @@
     "FFlagSetMultipleNumberSequences_Rollout": "True;60;2024-03-18T20:27:54",
     "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
     "FFlagStudioAssetDataModelScope3": "True",
+    "FFlagDoNotApplyScriptChangesInIDEDoc_Rollout": "True;60;2024-03-18T21:19:37",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11655,8 +11659,8 @@
     "FFlagAllSoundServicesShareOneFmod": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "50b9d03f2bac62abc33975d11bbce9373dab9a3e",
-    "DFStringFlagRepoGitHashDynamicString": "50b9d03f2bac62abc33975d11bbce9373dab9a3e",
-    "FStringFlipTimeStampFastString": "2024-03-18T21:05:29.416Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T21:05:29.416Z"
+    "FStringFlagRepoGitHashFastString": "03978eb5508cd35be926eb16f66de0827bcf5573",
+    "DFStringFlagRepoGitHashDynamicString": "03978eb5508cd35be926eb16f66de0827bcf5573",
+    "FStringFlipTimeStampFastString": "2024-03-18T21:25:38.713Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T21:25:38.713Z"
 }
