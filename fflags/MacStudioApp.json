@@ -11606,6 +11606,12 @@
     "FFlagLayoutNodeFlexRefactor5_Rollout": "True;30;2024-03-18T18:16:05",
     "FFlagStudioFixFileNewWhenAddingAnAccount": "True",
     "FFlagDraggerHideHoverBall": "True",
+    "FFlagStudioSleepInheritsStopToken_Rollout": "True;60;2024-03-18T18:22:52",
+    "FFlagRevertSequenceEditorDockingChanges_Rollout": "True;60;2024-03-18T18:24:15",
+    "FFlagCOLLAB4221DisplayPackageDescriptionMassUpdate": "True",
+    "FFlagDevFrameworkCumulativeRowHeight": "True",
+    "FFlagDevFrameworkGetRowHeight": "True",
+    "FFlagToolboxAddPackageVersionDescriptions6": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11642,8 +11648,8 @@
     "FFlagAllSoundServicesShareOneFmod": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "a60c1a634e6f00623cbde5216636564fad9d901e",
-    "DFStringFlagRepoGitHashDynamicString": "a60c1a634e6f00623cbde5216636564fad9d901e",
-    "FStringFlipTimeStampFastString": "2024-03-18T18:20:29.988Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:20:29.988Z"
+    "FStringFlagRepoGitHashFastString": "71f179c3f326c6a7deb9438837dd6c3ae2a3a7e1",
+    "DFStringFlagRepoGitHashDynamicString": "71f179c3f326c6a7deb9438837dd6c3ae2a3a7e1",
+    "FStringFlipTimeStampFastString": "2024-03-18T18:30:13.622Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:30:13.622Z"
 }
