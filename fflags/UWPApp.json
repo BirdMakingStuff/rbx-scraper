@@ -11437,8 +11437,9 @@
     "FFlagPlatformEventEnabled2": "True",
     "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T17:58:32",
     "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32",
-    "FStringFlagRepoGitHashFastString": "71f179c3f326c6a7deb9438837dd6c3ae2a3a7e1",
-    "DFStringFlagRepoGitHashDynamicString": "71f179c3f326c6a7deb9438837dd6c3ae2a3a7e1",
-    "FStringFlipTimeStampFastString": "2024-03-18T18:30:13.622Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:30:13.622Z"
+    "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;30;2024-03-18T18:46:40",
+    "FStringFlagRepoGitHashFastString": "8194f66ef3ec81abbe785a6d0b352ba62860d85d",
+    "DFStringFlagRepoGitHashDynamicString": "8194f66ef3ec81abbe785a6d0b352ba62860d85d",
+    "FStringFlipTimeStampFastString": "2024-03-18T18:55:52.077Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:55:52.077Z"
 }

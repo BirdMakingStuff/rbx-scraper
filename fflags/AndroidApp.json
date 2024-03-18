@@ -11664,15 +11664,17 @@
     "DFIntIosDeprecationDate": "1714374000000",
     "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
     "DFIntIosDeprecationPhase": "2",
-    "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-18T17:12:39",
-    "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-18T17:13:16",
     "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T17:58:32",
     "FFlagTelemetryRevampPurchase3": "True",
     "FFlagTelemetryRevampClicks2": "True",
     "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32",
     "FFlagVideoVP9HardWareDecoderCap2_Rollout": "True;60;2024-03-18T18:16:10",
-    "FStringFlagRepoGitHashFastString": "71f179c3f326c6a7deb9438837dd6c3ae2a3a7e1",
-    "DFStringFlagRepoGitHashDynamicString": "71f179c3f326c6a7deb9438837dd6c3ae2a3a7e1",
-    "FStringFlipTimeStampFastString": "2024-03-18T18:30:13.622Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:30:13.622Z"
+    "FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-18T18:46:31",
+    "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;30;2024-03-18T18:46:40",
+    "DFFlagInferredCrashDebugFields": "True",
+    "DFFlagInferredCrashReportDelayedReport": "True",
+    "FStringFlagRepoGitHashFastString": "8194f66ef3ec81abbe785a6d0b352ba62860d85d",
+    "DFStringFlagRepoGitHashDynamicString": "8194f66ef3ec81abbe785a6d0b352ba62860d85d",
+    "FStringFlipTimeStampFastString": "2024-03-18T18:55:52.077Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T18:55:52.077Z"
 }
