@@ -11605,8 +11605,6 @@
     "FFlagCAPUpdateInputBoxAndSuggestions": "True",
     "FFlagStudioFixFileNewWhenAddingAnAccount": "True",
     "FFlagDraggerHideHoverBall": "True",
-    "FFlagStudioSleepInheritsStopToken_Rollout": "True;60;2024-03-18T18:22:52",
-    "FFlagRevertSequenceEditorDockingChanges_Rollout": "True;60;2024-03-18T18:24:15",
     "FFlagCOLLAB4221DisplayPackageDescriptionMassUpdate": "True",
     "FFlagDevFrameworkCumulativeRowHeight": "True",
     "FFlagDevFrameworkGetRowHeight": "True",
@@ -11614,6 +11612,9 @@
     "FFlagStudioMigrateAwayFromUIRBXMainWindow_Rollout": "True;60;2024-03-18T18:44:14",
     "FFlagStudioGameSettingsWorldPageFormatNumbersForGerman": "True",
     "FFlagLayoutNodeFlexRefactor5": "True",
+    "DFFlagEnableGamepassPurchaseIxpRollout2_Rollout": "True;30;2024-03-18T19:43:41",
+    "FFlagStudioSleepInheritsStopToken": "True",
+    "FFlagRevertSequenceEditorDockingChanges": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11636,8 +11637,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "b6ae42f727550758e2a1084a3d8f2d8952e001b0",
-    "DFStringFlagRepoGitHashDynamicString": "b6ae42f727550758e2a1084a3d8f2d8952e001b0",
-    "FStringFlipTimeStampFastString": "2024-03-18T19:35:41.984Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T19:35:41.984Z"
+    "FStringFlagRepoGitHashFastString": "dc7dab9ed9b344ec5d58e0e3c2486d3fcc1dd972",
+    "DFStringFlagRepoGitHashDynamicString": "dc7dab9ed9b344ec5d58e0e3c2486d3fcc1dd972",
+    "FStringFlipTimeStampFastString": "2024-03-18T20:15:43.194Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T20:15:43.194Z"
 }
