@@ -11602,6 +11602,8 @@
     "FFlagAvatarPreviewerNewDraggableTileList2": "True",
     "FFlagCOLLAB5167TeamCreateSettings": "True",
     "FFlagCAPUpdateInputBoxAndSuggestions_Rollout": "True;60;2024-03-18T16:25:49",
+    "FFlagStudioFixFileNewWhenAddingAnAccount_Rollout": "True;60;2024-03-18T16:41:48",
+    "FFlagStudioUsePSCInsteadOfPSM4": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11624,6 +11626,8 @@
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352;10386320684",
     "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-18T16:11:37",
+    "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-18T17:12:39",
+    "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-18T17:13:16",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -11634,8 +11638,8 @@
     "FFlagAllSoundServicesShareOneFmod": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "d0384e97fc97baac845c3222fc592244f8b0136a",
-    "DFStringFlagRepoGitHashDynamicString": "d0384e97fc97baac845c3222fc592244f8b0136a",
-    "FStringFlipTimeStampFastString": "2024-03-18T16:36:07.333Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T16:36:07.333Z"
+    "FStringFlagRepoGitHashFastString": "dbb43fc959ce91af5b9025551612c99501c2bf65",
+    "DFStringFlagRepoGitHashDynamicString": "dbb43fc959ce91af5b9025551612c99501c2bf65",
+    "FStringFlipTimeStampFastString": "2024-03-18T17:14:26.141Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T17:14:26.141Z"
 }
