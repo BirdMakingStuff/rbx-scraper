@@ -2628,8 +2628,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.Avatar",
             "description": "Created by <Unknown>\nModified by srajasekar@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Avatar",
-            "translation": "Avatar",
+            "english": "My Avatar",
+            "translation": "My Avatar",
             "isDeprecated": false
         },
         {
@@ -2652,8 +2652,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.Catalog",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Catalog",
-            "translation": "Catalog",
+            "english": "Roblox Catalog",
+            "translation": "Roblox Catalog",
             "isDeprecated": false
         },
         {
@@ -2708,8 +2708,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.Groups",
             "description": "Created by <Unknown>\nModified by srajasekar@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Groups",
-            "translation": "Groups",
+            "english": "Groups on Roblox",
+            "translation": "Groups on Roblox",
             "isDeprecated": false
         },
         {
@@ -3476,8 +3476,8 @@
             "namespace": "Feature.ItemModel",
             "key": "Label.MetaDescriptionCatalog",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Customize your avatar with the {assetName} and millions of other items. Mix & match this {assetTypeLabel} with other items to create an avatar that is unique to you!",
-            "translation": "Customize your avatar with the {assetName} and millions of other items. Mix & match this {assetTypeLabel} with other items to create an avatar that is unique to you!",
+            "english": "The Roblox Marketplace is a full catalog of clothing options, accessories, gear, and more to help you express yourself.",
+            "translation": "The Roblox Marketplace is a full catalog of clothing options, accessories, gear, and more to help you express yourself.",
             "isDeprecated": false
         },
         {

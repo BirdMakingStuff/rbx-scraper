@@ -2444,8 +2444,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.Avatar",
             "description": "Created by <Unknown>\nModified by srajasekar@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Avatar",
-            "translation": "Avatar",
+            "english": "My Avatar",
+            "translation": "My Avatar",
             "isDeprecated": false
         },
         {
@@ -2468,8 +2468,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.Catalog",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Catalog",
-            "translation": "Catalog",
+            "english": "Roblox Catalog",
+            "translation": "Roblox Catalog",
             "isDeprecated": false
         },
         {
@@ -2508,8 +2508,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.Groups",
             "description": "Created by <Unknown>\nModified by srajasekar@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Groups",
-            "translation": "Groups",
+            "english": "Groups on Roblox",
+            "translation": "Groups on Roblox",
             "isDeprecated": false
         },
         {
@@ -2668,8 +2668,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.Players",
             "description": "search context for user search\nCreated by <Unknown>\nModified by yjiang@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "People",
-            "translation": "People",
+            "english": "People on Roblox",
+            "translation": "People on Roblox",
             "isDeprecated": false
         },
         {
@@ -17966,6 +17966,22 @@
             "description": "Created by mneff@roblox.com.",
             "english": "You can now talk to others on Roblox as naturally as you do in the physical world.",
             "translation": "You can now talk to others on Roblox as naturally as you do in the physical world.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.VerificationUpsell",
+            "key": "Heading.VoiceChatEnabledMobile",
+            "description": "Created by mneff@roblox.com.",
+            "english": "Voice Chat enabled! Try now in an experience.",
+            "translation": "Voice Chat enabled! Try now in an experience.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.VerificationUpsell",
+            "key": "Description.CanNowJoinVoice",
+            "description": "Created by mneff@roblox.com",
+            "english": "You can now join a Voice Chat enabled experience to start having fun.",
+            "translation": "You can now join a Voice Chat enabled experience to start having fun.",
             "isDeprecated": false
         },
         {
