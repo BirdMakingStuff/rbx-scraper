@@ -177,6 +177,7 @@
     "Label.CreateOAuthApp": "Create OAuth 2.0 App",
     "Label.OAuthApps": "OAuth 2.0 Apps",
     "Message.EmptyOAuthApps": "Create external applications that connect to Roblox user content. {linkStart}Learn more about OAuth2 Apps{linkEnd}",
+    "Description.NoOAuthApps": "OAuth 2.0 apps provide authentication for your applications that use Open Cloud APIs to access Roblox resources. {linkStart}Learn more{linkEnd}",
     "Label.View": "View:",
     "Label.FilterBy": "Filter by:",
     "Label.PlaceHolderFilter": "Date of Creation",
@@ -191,5 +192,8 @@
     "Description.SaveSecret": "Copy the secret before closing the page and save it to a secure place. The system will NOT store the secret for security reasons.",
     "Message.NoDatastoresSelectedWarning": "No datastores selected",
     "Message.AssetApiWarning": "{boldStart} Note! {boldEnd} You need both Read and Write operations for creating or updating an asset.",
-    "Message.SelectAllAssets": "Selected operations will apply to all assets listed under your account."
+    "Message.SelectAllAssets": "Selected operations will apply to all assets listed under your account.",
+    "Heading.NoOAuthApps": "No OAuth 2.0 Apps",
+    "Description.NoAPIKeys": "API Keys allow you to add permissions and security controls for resources in your experience, such as data stores and places. {linkStart}Learn more{linkEnd}",
+    "Heading.NoAPIKeys": "No API Keys"
 }
