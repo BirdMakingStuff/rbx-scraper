@@ -267,5 +267,6 @@
     "Heading.SampleProduct": "Sample Product",
     "Description.SampleProduct": "This is a description for a sample product",
     "Label.PriceFloor": "Price Floor",
-    "Label.PriceCeiling": "Price Ceiling"
+    "Label.PriceCeiling": "Price Ceiling",
+    "Message.UnknownError": "there is an unknown issue with this item. If this issue continues, contact us for help. Please try again later."
 }
