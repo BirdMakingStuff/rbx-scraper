@@ -11542,10 +11542,12 @@
     "FFlagXboxLastKnownStateImprovements": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
-    "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39",
     "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
-    "FStringFlagRepoGitHashFastString": "03978eb5508cd35be926eb16f66de0827bcf5573",
-    "DFStringFlagRepoGitHashDynamicString": "03978eb5508cd35be926eb16f66de0827bcf5573",
-    "FStringFlipTimeStampFastString": "2024-03-18T21:25:38.713Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T21:25:38.713Z"
+    "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-18T21:54:00",
+    "DFFlagEnableAdSeenStatsReporting": "True",
+    "FFlagEnableNavigationPerformanceIntervals2": "True",
+    "FStringFlagRepoGitHashFastString": "79dc4091b7c778ab9aaf19772b97710640ff76e6",
+    "DFStringFlagRepoGitHashDynamicString": "79dc4091b7c778ab9aaf19772b97710640ff76e6",
+    "FStringFlipTimeStampFastString": "2024-03-18T22:15:52.651Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T22:15:52.651Z"
 }
