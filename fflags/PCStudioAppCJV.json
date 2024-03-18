@@ -11618,9 +11618,11 @@
     "FFlagStudioMigrateAwayFromUIRBXMainWindow": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
     "FFlagStudioAssetDataModelScope3": "True",
-    "FFlagDoNotApplyScriptChangesInIDEDoc_Rollout": "True;60;2024-03-18T21:19:37",
     "FFlagStudioRemoveLegacyCollectors_Rollout": "True;60;2024-03-18T21:57:09",
     "FFlagSetMultipleNumberSequences": "True",
+    "FFlagAssetImportShowBoneEnds_Rollout": "True;60;2024-03-18T22:45:10",
+    "FFlagDoNotApplyScriptChangesInIDEDoc": "True",
+    "FFlagAssetImportUseUploadId_Rollout": "True;60;2024-03-18T22:51:40",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11653,8 +11655,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "61c304bb129988d99d59d4ca209abbb6a7257e32",
-    "DFStringFlagRepoGitHashDynamicString": "61c304bb129988d99d59d4ca209abbb6a7257e32",
-    "FStringFlipTimeStampFastString": "2024-03-18T22:30:47.686Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-18T22:30:47.686Z"
+    "FStringFlagRepoGitHashFastString": "0c38661653b1cade17764ee99f1c6927f2f44186",
+    "DFStringFlagRepoGitHashDynamicString": "0c38661653b1cade17764ee99f1c6927f2f44186",
+    "FStringFlipTimeStampFastString": "2024-03-18T23:05:36.405Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-18T23:05:36.405Z"
 }
