@@ -11,5 +11,7 @@
     "Action.Agree": "Agree",
     "Action.Disagree": "Disagree",
     "Action.Delete": "Delete",
-    "Action.Remove": "Remove"
+    "Action.Remove": "Remove",
+    "Action.Apply": "Apply",
+    "Action.Reset": "Reset"
 }
