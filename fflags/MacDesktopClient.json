@@ -11272,8 +11272,7 @@
     "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
     "DFFlagEnableAdSeenStatsReporting": "True",
     "FFlagEnableViewabilityTracking3": "True",
-    "FFlagEnableAdLoadViewabilityEventReporting2_Rollout": "True;60;2024-03-19T17:44:52",
-    "DFFlagFlagRolloutTestDynamicBool10_Rollout": "True;60;2024-03-19T17:58:30",
+    "FFlagEnableAdLoadViewabilityEventReporting2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11566,8 +11565,8 @@
     "FFlagEnableNavigationPerformanceIntervals2": "True",
     "FFlagLuaAppVngUserAgreementEnabled": "True",
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "0e75b49654b8b9ae80977caf201d7921a416eaaa",
-    "DFStringFlagRepoGitHashDynamicString": "0e75b49654b8b9ae80977caf201d7921a416eaaa",
-    "FStringFlipTimeStampFastString": "2024-03-19T18:55:51.817Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-19T18:55:51.817Z"
+    "FStringFlagRepoGitHashFastString": "689e6a317f8239e5b773f60e6dd773f734670613",
+    "DFStringFlagRepoGitHashDynamicString": "689e6a317f8239e5b773f60e6dd773f734670613",
+    "FStringFlipTimeStampFastString": "2024-03-19T19:35:33.397Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-19T19:35:33.397Z"
 }
