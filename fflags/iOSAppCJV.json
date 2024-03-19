@@ -11651,7 +11651,6 @@
     "FFlagLuaEnableDidSwitchAccount": "True",
     "FFlagLuaAppVngUserAgreementEnabled": "True",
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-    "FFlagEnableAdLoadViewabilityEventReporting2": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -11689,8 +11688,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "689e6a317f8239e5b773f60e6dd773f734670613",
-    "DFStringFlagRepoGitHashDynamicString": "689e6a317f8239e5b773f60e6dd773f734670613",
-    "FStringFlipTimeStampFastString": "2024-03-19T19:35:33.397Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-19T19:35:33.397Z"
+    "FStringFlagRepoGitHashFastString": "c309082a37ad9259c3f8e55c6b7cadbd26ec0ac3",
+    "DFStringFlagRepoGitHashDynamicString": "c309082a37ad9259c3f8e55c6b7cadbd26ec0ac3",
+    "FStringFlipTimeStampFastString": "2024-03-19T20:10:55.381Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-19T20:10:55.381Z"
 }
