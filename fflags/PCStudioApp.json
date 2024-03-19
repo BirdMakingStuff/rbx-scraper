@@ -11623,6 +11623,7 @@
     "FFlagStudioRemoveLegacyCollectors": "True",
     "FFlagAssetImportShowBoneEnds": "True",
     "FFlagAssetImportUseUploadId": "True",
+    "FFlagStudioRibbonBarWidgets_Rollout": "False;60;2024-03-19T01:28:48",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
