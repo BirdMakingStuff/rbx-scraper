@@ -11689,6 +11689,9 @@
     "FFlagLuaEnableDidSwitchAccount": "True",
     "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
     "DFIntParallelBroadPhaseNewBatchCount_Rollout": "8;60;2024-03-19T16:25:55",
+    "FFlagVideoServiceAddHardwareCodecMetrics_Rollout": "True;60;2024-03-19T16:41:14",
+    "FFlagLuaAppVngUserAgreementEnabled": "True",
+    "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -11720,8 +11723,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "8f2889a94fe156644c261fc20080ac0c798a42cd",
-    "DFStringFlagRepoGitHashDynamicString": "8f2889a94fe156644c261fc20080ac0c798a42cd",
-    "FStringFlipTimeStampFastString": "2024-03-19T16:31:17.888Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-19T16:31:17.888Z"
+    "FStringFlagRepoGitHashFastString": "40485d981a7b920605bacf15a5645ce5558dc421",
+    "DFStringFlagRepoGitHashDynamicString": "40485d981a7b920605bacf15a5645ce5558dc421",
+    "FStringFlipTimeStampFastString": "2024-03-19T17:01:53.882Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-19T17:01:53.882Z"
 }
