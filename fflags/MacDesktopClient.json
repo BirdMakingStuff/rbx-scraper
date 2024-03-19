@@ -1876,8 +1876,6 @@
     "FFlagStudioBufferPauseEvents2": "True",
     "DFFlagMPServiceBundleUrlV2": "False",
     "DFFlagMPServiceBundleUrlV2_PlaceFilter": "True;11120164813",
-    "DFFlagMPServiceDevProductUrlV2": "False",
-    "DFFlagMPServiceDevProductUrlV2_PlaceFilter": "True;11120164813",
     "DFIntAdsApiClientErrorEventThrottleHundrethsPercent": "10000",
     "DFIntImmersiveAdBackendErrorEventThrottleHundrethsPercent": "10000",
     "DFIntImmersiveAdImpressionEventThrottleHundrethsPercent": "10000",
@@ -11274,6 +11272,8 @@
     "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
     "DFFlagEnableAdSeenStatsReporting": "True",
     "FFlagEnableViewabilityTracking3": "True",
+    "FFlagEnableAdLoadViewabilityEventReporting2_Rollout": "True;60;2024-03-19T17:44:52",
+    "DFFlagFlagRolloutTestDynamicBool10_Rollout": "True;60;2024-03-19T17:58:30",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11559,7 +11559,6 @@
     "FFlagEnableNavBarLabels3": "True",
     "FFlagReportHopperBinUsage": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436",
     "FFlagTelemetryRevampPurchase3": "True",
     "FFlagTelemetryRevampClicks2": "True",
     "FFlagAXTileSizeIXPEnabled": "True",
@@ -11567,8 +11566,8 @@
     "FFlagEnableNavigationPerformanceIntervals2": "True",
     "FFlagLuaAppVngUserAgreementEnabled": "True",
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "cec844d1861076092812a1ce5955861f04ed614b",
-    "DFStringFlagRepoGitHashDynamicString": "cec844d1861076092812a1ce5955861f04ed614b",
-    "FStringFlipTimeStampFastString": "2024-03-19T17:35:51.529Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-19T17:35:51.529Z"
+    "FStringFlagRepoGitHashFastString": "05bb87ee5a16d527571c4a1c459f85507f8ea0b3",
+    "DFStringFlagRepoGitHashDynamicString": "05bb87ee5a16d527571c4a1c459f85507f8ea0b3",
+    "FStringFlipTimeStampFastString": "2024-03-19T18:20:53.865Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-19T18:20:53.865Z"
 }
