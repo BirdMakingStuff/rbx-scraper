@@ -11566,8 +11566,9 @@
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
     "FFlagUpdateNudgeV3VoiceBanUI2": "True",
     "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-19T23:14:40",
-    "FStringFlagRepoGitHashFastString": "be3d4e6615d30ca765a90628d3bbd1a1f9cc2c57",
-    "DFStringFlagRepoGitHashDynamicString": "be3d4e6615d30ca765a90628d3bbd1a1f9cc2c57",
-    "FStringFlipTimeStampFastString": "2024-03-19T23:15:03.466Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-19T23:15:03.466Z"
+    "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-03-19T23:15:43",
+    "FStringFlagRepoGitHashFastString": "cc4a5179fca485961d86e3c4d6eb980b9b5cf197",
+    "DFStringFlagRepoGitHashDynamicString": "cc4a5179fca485961d86e3c4d6eb980b9b5cf197",
+    "FStringFlipTimeStampFastString": "2024-03-19T23:35:58.661Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-19T23:35:58.661Z"
 }
