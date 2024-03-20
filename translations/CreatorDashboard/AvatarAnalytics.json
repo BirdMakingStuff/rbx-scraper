@@ -39,7 +39,7 @@
     "Label.ItemType.FrontAccessories": "Front Accessories",
     "Description.SeeAllAvatarItems": "View your top items by sales and revenue. To see more, visit the {linkStart}creations page{linkEnd}.",
     "Tab.Avatar": "Avatar",
-    "Heading.AvatarZeroState": "You have no avatar item sales during this period",
+    "Heading.AvatarZeroState": "No avatar item sales during this period",
     "Description.AvatarZeroState": "Publish and sell avatar items to see sales and revenue data.",
     "Action.AvatarZeroState": "View Avatar Items",
     "Description.SalesRevenueDateRange": "Sales and revenue from {startDate} to {endDate}",
