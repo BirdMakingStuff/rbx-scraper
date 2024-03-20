@@ -11272,6 +11272,10 @@
     "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
     "DFFlagEnableAdSeenStatsReporting": "True",
     "FFlagEnableViewabilityTracking3": "True",
+    "FFlagEnableHomePageUpsellReportingFix": "True",
+    "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
+    "FFlagSupportContactMethodPhoneNumberVoice": "True",
+    "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11565,11 +11569,11 @@
     "FFlagLuaAppVngUserAgreementEnabled": "True",
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
     "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-    "FFlagHlsSeparatePlaylistEof_Rollout": "True;60;2024-03-20T18:56:20",
-    "DFFlagVideoReportEos_Rollout": "True;60;2024-03-20T18:56:52",
     "DFFlagHlsAddRoundRobinLogic": "True",
-    "FStringFlagRepoGitHashFastString": "7fd17b3f28b550ebc33857c8bc5a5cb4b0107b71",
-    "DFStringFlagRepoGitHashDynamicString": "7fd17b3f28b550ebc33857c8bc5a5cb4b0107b71",
-    "FStringFlipTimeStampFastString": "2024-03-20T20:38:10.364Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-20T20:38:10.364Z"
+    "DFFlagVideoReportEos": "True",
+    "FFlagHlsSeparatePlaylistEof": "True",
+    "FStringFlagRepoGitHashFastString": "42372bca93068ca5383d6d61369bd4243b5d4cb9",
+    "DFStringFlagRepoGitHashDynamicString": "42372bca93068ca5383d6d61369bd4243b5d4cb9",
+    "FStringFlipTimeStampFastString": "2024-03-20T21:15:46.084Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-20T21:15:46.084Z"
 }
