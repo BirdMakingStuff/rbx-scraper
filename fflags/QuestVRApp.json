@@ -11650,7 +11650,7 @@
     "FFlagLuaAppDisableSound": "True",
     "FFlagSelfViewCameraSettings": "True",
     "EnableIrisUpdatedCallingNotificationCompat": "False",
-    "FFlagEnableNavBarLabels3": "True",
+    "FFlagEnableNavBarLabels3": "False",
     "FFlagPlatformEventEnabled2": "True",
     "FFlagPasskeySignupEnabled": "False",
     "FFlagEnableSignupBirthdayExperimentsRelease2": "False",
@@ -11696,6 +11696,9 @@
     "FFlagEditProfileFixLogging": "True",
     "FFlagUseNonDeferredSliderSignal": "True",
     "FFlagEnableQuestHaptics": "True",
+    "DFFlagHlsAddRoundRobinLogic_Rollout": "True;60;2024-03-20T18:55:23",
+    "FFlagHlsSeparatePlaylistEof_Rollout": "True;60;2024-03-20T18:56:20",
+    "DFFlagVideoReportEos_Rollout": "True;60;2024-03-20T18:56:52",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
     "FFlagDisablePostFx": "True",
@@ -11718,8 +11721,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
-    "FStringFlagRepoGitHashFastString": "2530015f7f494ef4816a29ca531744b677ffab5a",
-    "DFStringFlagRepoGitHashDynamicString": "2530015f7f494ef4816a29ca531744b677ffab5a",
-    "FStringFlipTimeStampFastString": "2024-03-20T18:30:49.632Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-20T18:30:49.632Z"
+    "FStringFlagRepoGitHashFastString": "0a090e54867ecff8ffe4bf9fd7e518f183fec313",
+    "DFStringFlagRepoGitHashDynamicString": "0a090e54867ecff8ffe4bf9fd7e518f183fec313",
+    "FStringFlipTimeStampFastString": "2024-03-20T19:05:41.970Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-20T19:05:41.970Z"
 }
