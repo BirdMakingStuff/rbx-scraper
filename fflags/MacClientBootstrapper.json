@@ -65,7 +65,7 @@
     "FFlagWinInstallerUseDeployPathExtension": "True",
     "FFlagWindowsBootstrapperDeployPathExtensionForCJV": "True",
     "FFlagRemoveSuccessDialogMacStudio": "True",
-    "FFlagWindowsInstallerUseNativeHttp2": "True",
+    "FFlagWindowsInstallerUseNativeHttp2": "False",
     "FFlagMacInstallerProtocolStringParam": "True",
     "FFlagMacInstallerUseHandleInstallSuccess": "True",
     "FIntClientLaunchTimeoutMillisec": "20000",
@@ -99,8 +99,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "d9cf2d69836bef5854b5078437fc6ff80c44b0c2",
-    "DFStringFlagRepoGitHashDynamicString": "d9cf2d69836bef5854b5078437fc6ff80c44b0c2",
-    "FStringFlipTimeStampFastString": "2024-03-21T21:38:16.074Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-21T21:38:16.074Z"
+    "FStringFlagRepoGitHashFastString": "e3c2ed405b277d36a50aff992e4376cccdc8ce1c",
+    "DFStringFlagRepoGitHashDynamicString": "e3c2ed405b277d36a50aff992e4376cccdc8ce1c",
+    "FStringFlipTimeStampFastString": "2024-03-21T22:16:09.294Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-21T22:16:09.294Z"
 }
