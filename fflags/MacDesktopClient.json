@@ -10812,7 +10812,7 @@
     "FFlagExportPathCheckEnabled": "True",
     "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
     "FFlagUserHeartbeatsPulseApi": "True",
-    "FIntUserHeartbeatsPulseRolloutPerMyriad": "500",
+    "FIntUserHeartbeatsPulseRolloutPerMyriad": "2500",
     "FFlagXboxRemoveIsRetail": "True",
     "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
     "FFlagPlatformServiceNoLongerStartGames": "True",
@@ -11280,6 +11280,8 @@
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagUserShowGuiHideToggles": "False",
+    "FFlagLGCPUMoveMemsetToPerform_Rollout": "True;60;2024-03-21T22:52:17",
+    "FFlagFixChatWidgetMarkAsReadHang_Rollout": "True;20;2024-03-21T23:09:41",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
     "FFlagEnableDMInitMeasurement": "True",
@@ -11612,8 +11614,8 @@
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
     "FFlagUpdateNudgeV3VoiceBanUI2": "True",
     "DFFlagPhysicsReportWorldTime": "True",
-    "FStringFlagRepoGitHashFastString": "bd25e6ce3679541d86ca9722b8b7bee2273b6fed",
-    "DFStringFlagRepoGitHashDynamicString": "bd25e6ce3679541d86ca9722b8b7bee2273b6fed",
-    "FStringFlipTimeStampFastString": "2024-03-21T22:36:27.987Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-21T22:36:27.987Z"
+    "FStringFlagRepoGitHashFastString": "a594a4fcb2e87bbee252a7abbad69cab865dea9c",
+    "DFStringFlagRepoGitHashDynamicString": "a594a4fcb2e87bbee252a7abbad69cab865dea9c",
+    "FStringFlipTimeStampFastString": "2024-03-21T23:11:13.282Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-21T23:11:13.282Z"
 }
