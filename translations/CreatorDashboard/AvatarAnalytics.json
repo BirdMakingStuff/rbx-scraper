@@ -40,7 +40,7 @@
     "Description.SeeAllAvatarItems": "View your top items by sales and revenue. To see more, visit the {linkStart}creations page{linkEnd}.",
     "Tab.Avatar": "Avatar",
     "Heading.AvatarZeroState": "No avatar item sales during this period",
-    "Description.AvatarZeroState": "Publish and sell avatar items to see sales and revenue data.",
+    "Description.AvatarZeroState": "Publish and sell avatar items to see sales and revenue data",
     "Action.AvatarZeroState": "View Avatar Items",
     "Description.SalesRevenueDateRange": "Sales and revenue from {startDate} to {endDate}",
     "Label.TotalSales": "Total Sales",
