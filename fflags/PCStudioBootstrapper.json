@@ -72,7 +72,6 @@
     "FFlagDisableGoogleAnalytics": "True",
     "FFlagEanbleTerminationWithTimeout": "True",
     "FIntClientTermniateTimeoutMillisec": "10000",
-    "FIntInstallerInfluxReportHundredthPercentage": "1000",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -93,8 +92,8 @@
     "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
     "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
     "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-    "FStringFlagRepoGitHashFastString": "3cb0943c79c7543f26c72fc35ac91d27907cbbd9",
-    "DFStringFlagRepoGitHashDynamicString": "3cb0943c79c7543f26c72fc35ac91d27907cbbd9",
-    "FStringFlipTimeStampFastString": "2024-03-21T20:39:24.825Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-21T20:39:24.825Z"
+    "FStringFlagRepoGitHashFastString": "db3c17bec9b650bf784842e002fd42a687abfe27",
+    "DFStringFlagRepoGitHashDynamicString": "db3c17bec9b650bf784842e002fd42a687abfe27",
+    "FStringFlipTimeStampFastString": "2024-03-21T21:15:55.275Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-21T21:15:55.275Z"
 }
