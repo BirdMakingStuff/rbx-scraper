@@ -78,16 +78,14 @@
     "FFlagMacInstallerUseDeployPathExtension": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16734179994",
     "FFlagAXFixItemOwnershipPageNilSelector": "True",
-    "FFlagDisableUseContainerAspectRatio": "True",
-    "FFlagIBEnableSendCounters": "True",
     "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
     "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
     "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "8724ee696fa19343190714d9632bf08c72768654",
-    "DFStringFlagRepoGitHashDynamicString": "8724ee696fa19343190714d9632bf08c72768654",
-    "FStringFlipTimeStampFastString": "2024-03-22T18:34:04.361Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-22T18:34:04.361Z"
+    "FStringFlagRepoGitHashFastString": "990702e264a0ba85c0f62eae86053187ea6e8511",
+    "DFStringFlagRepoGitHashDynamicString": "990702e264a0ba85c0f62eae86053187ea6e8511",
+    "FStringFlipTimeStampFastString": "2024-03-22T19:00:36.477Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-22T19:00:36.477Z"
 }
