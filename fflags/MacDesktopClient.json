@@ -11344,8 +11344,8 @@
     "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
     "FFlagELFSubsystemInternalFlowControl2": "True",
     "DFFlagWriterInputCheck": "True",
-    "FFlagLuaRollouts_Rollout": "True;60;2024-03-22T17:57:51",
     "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
+    "FFlagLuaRollouts": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11640,8 +11640,9 @@
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
     "FFlagUpdateNudgeV3VoiceBanUI2": "True",
     "DFFlagPhysicsReportWorldTime": "True",
-    "FStringFlagRepoGitHashFastString": "990702e264a0ba85c0f62eae86053187ea6e8511",
-    "DFStringFlagRepoGitHashDynamicString": "990702e264a0ba85c0f62eae86053187ea6e8511",
-    "FStringFlipTimeStampFastString": "2024-03-22T19:00:36.477Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-22T19:00:36.477Z"
+    "FFlagUpdateCheckOnLogin_Rollout": "True;60;2024-03-22T19:21:52",
+    "FStringFlagRepoGitHashFastString": "c0f9acd2bc34d96f462a162269eb59d7d4f780e7",
+    "DFStringFlagRepoGitHashDynamicString": "c0f9acd2bc34d96f462a162269eb59d7d4f780e7",
+    "FStringFlipTimeStampFastString": "2024-03-22T19:36:01.649Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-22T19:36:01.649Z"
 }
