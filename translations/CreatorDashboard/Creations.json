@@ -369,5 +369,7 @@
     "Description.EmptyStateExperiences": "Design and build a virtual experience using Roblox Studio, our all-in-one game engine. {linkStart} Learn More {linkEnd}",
     "Label.EmptyStateEvents": "Promote your experience with events",
     "Description.EmptyStateEvents": "Create time-based events hosted in your experience, and notify players when to join the action. {linkStart} Learn More {linkEnd}",
-    "Label.EmptyStateExperiences": "Create an experience"
+    "Description.EmptyStateModelsPackages": "Models and packages help you manage assets and reuse them across multiple experiences. {linkStart} Learn More {linkEnd}",
+    "Label.EmptyStateExperiences": "Create an experience",
+    "Label.EmptyStateModelsPackages": "Create models and packages"
 }
