@@ -372,10 +372,22 @@
     "Description.EmptyStateEvents": "Create time-based events hosted in your experience, and notify players when to join the action. {linkStart} Learn More {linkEnd}",
     "Description.EmptyStateModelsPackages": "Models and packages help you manage assets and reuse them across multiple experiences. {linkStart} Learn More {linkEnd}",
     "Description.EmptyStatePlugins": "Create and publish your own plugins to add additional features or functionality to Studio. {linkStart} Learn More {linkEnd}",
+    "Action.UploadFile": "Upload file",
     "Label.EmptyStateExperiences": "Create an experience",
     "Description.EmptyStateMeshParts": "Create custom meshes in Studio to use in your creations. {linkStart} Learn More {linkEnd}",
     "Description.EmptyStateAnimations": "Create custom animations in Studio to use in your creations. {linkStart} Learn More {linkEnd}",
+    "Description.EmptyStateDecals": "Upload images to use as decals in your creations.",
+    "Description.EmptyStateImages": "Upload images to use in your creations.",
+    "Label.EmptyStateAudio": "Add audio",
+    "Description.EmptyStateVideos": "Upload videos to use in your creations. {linkStart} Learn More {linkEnd}",
+    "Label.EmptyStateVideos": "Add videos",
+    "Description.EmptyStateAudio": "Upload audio to use in your creations. ",
+    "Action.LaunchStudio": "Launch Studio",
     "Label.EmptyStateModelsPackages": "Create models and packages",
+    "Label.EmptyStateDecals": "Add decals",
+    "Description.EmptyStateAvatarItem": "Publish and sell avatar items. {linkStart} Learn More {linkEnd}",
     "Label.EmptyStateMeshParts": "Create meshes",
-    "Label.EmptyStateAnimations": "Create animations"
+    "Label.EmptyStateImages": "Add images",
+    "Label.EmptyStateAnimations": "Create animations",
+    "Label.EmptyStateAvatarItem": "Add avatar items"
 }
