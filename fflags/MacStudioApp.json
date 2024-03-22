@@ -11710,6 +11710,7 @@
     "DFFlagSplitModuleRequire_Rollout": "True;60;2024-03-22T16:56:01",
     "FFlagLuauCodeGenOptVecA64_Rollout": "True;30;2024-03-22T16:59:56",
     "FFlagLuauCodegenHeapSizeReport_Rollout": "True;30;2024-03-22T17:00:41",
+    "FFlagToolboxRunTestsWithTestLoader": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11748,8 +11749,8 @@
     "FFlagAllSoundServicesShareOneFmod": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "0b8dde0848c805700b8ddc662ff442278f0b5728",
-    "DFStringFlagRepoGitHashDynamicString": "0b8dde0848c805700b8ddc662ff442278f0b5728",
-    "FStringFlipTimeStampFastString": "2024-03-22T17:14:42.796Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-22T17:14:42.796Z"
+    "FStringFlagRepoGitHashFastString": "19e291601346f8d564f555886f6daccddab487f1",
+    "DFStringFlagRepoGitHashDynamicString": "19e291601346f8d564f555886f6daccddab487f1",
+    "FStringFlipTimeStampFastString": "2024-03-22T17:39:09.907Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-22T17:39:09.907Z"
 }
