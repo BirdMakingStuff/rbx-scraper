@@ -1,13 +1,13 @@
-## rbxpyscraper
+# rbxpyscraper
 
 rbxpyscraper is a scraper built with Python running on GitHub Actions scraping fast flags (FFlags) and translations.
 
-### FFlags
+## FFlags
 Translations are scraped from clientsettingscdn.roblox.com/v2/ (in FFlags.py).
 
 If there any FFlag channels which are not currently present, please file an issue.
 
-### Translations
+## Translations
 Translations are scraped from:
 - create.roblox.com for Creator Dashboard (in Translations-CreatorDashboard.py)
 - translations.roblox.com for all other endpoints (in Translations.py)
