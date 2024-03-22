@@ -11284,6 +11284,10 @@
     "DFFlagInferredCrashDebugFields": "True",
     "FFlagFixChatWidgetMarkAsReadHang": "True",
     "FFlagLGCPUMoveMemsetToPerform": "True",
+    "DFFlagUseAsyncTaskForSoundCacheCleaning_Rollout": "True;60;2024-03-22T16:08:05",
+    "FFlagHandleAudioApiReplicationOrdering_Rollout": "True;60;2024-03-22T16:09:26",
+    "FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-22T16:09:57",
+    "FFlagNoCallStateEarlyOut_Rollout": "True;60;2024-03-22T16:10:07",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11493,8 +11497,8 @@
     "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
     "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
     "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-    "FStringFlagRepoGitHashFastString": "c3fed3c59b5600582febe050a8dce095aa30fa57",
-    "DFStringFlagRepoGitHashDynamicString": "c3fed3c59b5600582febe050a8dce095aa30fa57",
-    "FStringFlipTimeStampFastString": "2024-03-22T02:05:36.902Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-22T02:05:36.902Z"
+    "FStringFlagRepoGitHashFastString": "3f30cc4313b0b2de3fb379587bfda1ee800e6d0c",
+    "DFStringFlagRepoGitHashDynamicString": "3f30cc4313b0b2de3fb379587bfda1ee800e6d0c",
+    "FStringFlipTimeStampFastString": "2024-03-22T16:20:40.301Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-22T16:20:40.301Z"
 }

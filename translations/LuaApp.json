@@ -8793,6 +8793,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Landing",
+            "key": "Heading.DoraemonExperience",
+            "description": "Experience name for landing page promo of Doraemon brand partner experience",
+            "english": "Doraemon Go-Go Rider",
+            "translation": "Doraemon Go-Go Rider",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.PlayerSearchResults",
             "key": "Heading.PlayerResultsFor",
             "description": "Created by <Unknown>\nModified by NDean@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
