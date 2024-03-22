@@ -15,6 +15,6 @@ Translations are scraped from:
 Web translations used to be scraped by an older version of rbxpyscraper using the translations.roblox.com endpoint but stopped working as of late 2023. A new scraper for Web translations may be implemented in the future.
 
 ## Requirements
-- Python
-    - requests
-    - BeautifulSoup
+- Python 3.12
+    - requests 2.31.0
+    - BeautifulSoup 4.12.3
