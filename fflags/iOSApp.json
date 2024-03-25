@@ -11325,8 +11325,10 @@
     "FFlagRemoveLSCHashEvents": "True",
     "FFlagTexturePackUploadApiMigration2": "True",
     "FFlagViewportFrameEnvMapSupport": "True",
-    "FStringStudioPlayModeAllowedBuiltins_Rollout": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm;30;2024-03-25T21:40:51",
     "FFlagACETemporaryToolHack": "True",
+    "FFlagIGMResetGfxLv5Only": "True",
+    "FFlagIGMResetGfxQuality": "True",
+    "FStringStudioPlayModeAllowedBuiltins": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11748,8 +11750,8 @@
     "DFFlagReportDetailedSimulationBreakdown": "True",
     "DFFlagSplitModuleRequire": "True",
     "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-    "FStringFlagRepoGitHashFastString": "7e1ac04a73534292ab5e48eeda4b6f1d583374f4",
-    "DFStringFlagRepoGitHashDynamicString": "7e1ac04a73534292ab5e48eeda4b6f1d583374f4",
-    "FStringFlipTimeStampFastString": "2024-03-25T22:20:35.687Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-25T22:20:35.687Z"
+    "FStringFlagRepoGitHashFastString": "2609692c607a456cc0de6ca056ad03653417abb6",
+    "DFStringFlagRepoGitHashDynamicString": "2609692c607a456cc0de6ca056ad03653417abb6",
+    "FStringFlipTimeStampFastString": "2024-03-25T23:15:48.521Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-25T23:15:48.521Z"
 }
