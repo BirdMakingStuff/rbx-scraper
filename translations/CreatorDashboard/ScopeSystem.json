@@ -97,5 +97,6 @@
     "OperationDescription.NotificationsAPIWrite": "This allows sending notifications from your experience to users",
     "Label.UserRestriction": "User Restriction",
     "Label.UserRestrictions": "User Restrictions",
-    "Label.Subscription": "Subscription"
+    "Label.Subscription": "Subscription",
+    "Label.Subscriptions": "Subscriptions"
 }
