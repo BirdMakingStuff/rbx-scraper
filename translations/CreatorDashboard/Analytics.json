@@ -586,5 +586,6 @@
     "Title.Table.Timestamp": "Timestamp",
     "Title.Table.Event": "Event",
     "Label.PlayersPercentageCurrent": "% still playing (current)",
-    "Label.SecondsSinceStart": "Seconds Since Start"
+    "Label.SecondsSinceStart": "Seconds Since Start",
+    "Footer.BreakdownFilterNotApplied": "Breakdown filter does not apply to this chart"
 }
