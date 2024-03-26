@@ -317,5 +317,9 @@
     "Label.LimitHelperOver": "New limit must be over {initialLimit}",
     "Label.LimitHelperQuantity": "Limit cannot exceed available quantity",
     "Label.LimitHelperQuota": "Limit cannot exceed 500",
-    "Label.NoLimit": "No Limit"
+    "Label.NoLimit": "No Limit",
+    "Message.LimitedItemQuantity": "Limited item must have quantity",
+    "Message.QuantityExceedsQuota": "Quantity should be lower than 3000",
+    "Message.LimitedItemQuantityRange": "Limited item should have quantity between 1 and 3000",
+    "Label.ItemTypeDescription": "To change UGC type, resubmit the model"
 }
