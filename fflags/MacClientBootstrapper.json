@@ -75,9 +75,9 @@
     "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
     "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
     "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-    "FFlagMacInstallerAddInstallTypeAttribute_Rollout": "True;60;2024-03-26T17:07:37",
     "FFlagIBDisableBuyButtonForUnlimitedAsset": "False",
     "FFlagChatSendMessageEventWithRecipients": "True",
+    "FFlagMacInstallerAddInstallTypeAttribute": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -99,8 +99,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "f0694e1273401d2d76fbdf393d13f218c4c72d7f",
-    "DFStringFlagRepoGitHashDynamicString": "f0694e1273401d2d76fbdf393d13f218c4c72d7f",
-    "FStringFlipTimeStampFastString": "2024-03-26T18:39:03.694Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-26T18:39:03.694Z"
+    "FStringFlagRepoGitHashFastString": "e0d2f72b66b757416a154b8be8eab4c61ec7df4f",
+    "DFStringFlagRepoGitHashDynamicString": "e0d2f72b66b757416a154b8be8eab4c61ec7df4f",
+    "FStringFlipTimeStampFastString": "2024-03-26T19:09:57.247Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-26T19:09:57.247Z"
 }
