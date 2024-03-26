@@ -312,5 +312,6 @@
     "Action.Done": "Done",
     "Label.PublishFeeInfoDialogTitle": "Publishing Fee",
     "Label.Free": "Free",
-    "Label.PublishFeeInfoDialogDescription": "Free limiteds are subjected to a per-unit fee instead of a publishing advance. "
+    "Label.PublishFeeInfoDialogDescription": "Free limiteds are subjected to a per-unit fee instead of a publishing advance. ",
+    "Label.ItemPriceTitle": "Item Price"
 }
