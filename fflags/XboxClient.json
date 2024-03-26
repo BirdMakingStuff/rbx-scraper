@@ -4596,7 +4596,7 @@
     "FFlagSupportOffCenterOriginClickDrag": "True",
     "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
     "DFFlagFlagRolloutTestDynamicBool3": "False",
-    "FFlagFlagRolloutTestStaticBool0": "False",
+    "FFlagFlagRolloutTestStaticBool0": "True",
     "FFlagFlagRolloutTestStaticBool1": "False",
     "FFlagFlagRolloutTestStaticBool3": "False",
     "FFlagFlagRolloutTestStaticBool4": "False",
@@ -11326,8 +11326,6 @@
     "FFlagIGMResetGfxQuality": "True",
     "FStringStudioPlayModeAllowedBuiltins": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm",
     "FFlagTextureGeneratorWholeContext": "True",
-    "AllowVideoPreRoll": "True",
-    "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-03-25T23:50:50",
     "FFlagDisablePlaySoloUIUpdatesInBeta2": "True",
     "FFlagPopupMessageBoxSupportMoreInfoWidget": "True",
     "DFFlagCSC92": "True",
@@ -11336,6 +11334,7 @@
     "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
     "DFFlagFrameTimeStdDev": "True",
     "FFlagFmodWasapiRecordBTHeadsetMatching2": "True",
+    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -11654,8 +11653,8 @@
     "FFlagUIBloxModalTitleAutomaticSizing": "True",
     "FFlagUseMicIconForVoiceUpsell": "True",
     "DFFlagReportDetailedSimulationBreakdown": "True",
-    "FStringFlagRepoGitHashFastString": "1d89b0988d71666dacda86ee5d66d42dbf43fd34",
-    "DFStringFlagRepoGitHashDynamicString": "1d89b0988d71666dacda86ee5d66d42dbf43fd34",
-    "FStringFlipTimeStampFastString": "2024-03-26T01:15:35.759Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-26T01:15:35.759Z"
+    "FStringFlagRepoGitHashFastString": "d78ad4b6efd92519c3e5d15ad8b1bb41b92e28f0",
+    "DFStringFlagRepoGitHashDynamicString": "d78ad4b6efd92519c3e5d15ad8b1bb41b92e28f0",
+    "FStringFlipTimeStampFastString": "2024-03-26T01:36:05.873Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-26T01:36:05.873Z"
 }
