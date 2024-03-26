@@ -11376,6 +11376,7 @@
     "FFlagEnableFeatureTracking_Rollout": "True;60;2024-03-26T23:08:23",
     "DFIntThumbnailContentProviderTimeoutSecs": "10",
     "DFIntThumbnailTextureLoadTimeoutSecs": "10",
+    "FFlagXboxCredentialsHeaders_Rollout": "True;60;2024-03-26T23:19:44",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11834,10 +11835,10 @@
     "FFlagIGMEnableGFXReset": "True",
     "FFlagChatSendMessageEventWithRecipients": "True",
     "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-    "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-03-26T21:46:31",
     "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
     "FFlagEnableAdsEudsaDynamicDisclosure": "True",
     "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
+    "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -11861,8 +11862,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
-    "FStringFlagRepoGitHashFastString": "a23917412f188fa157662d6a7d6a1e72f6063978",
-    "DFStringFlagRepoGitHashDynamicString": "a23917412f188fa157662d6a7d6a1e72f6063978",
-    "FStringFlipTimeStampFastString": "2024-03-26T23:14:18.847Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-26T23:14:18.847Z"
+    "FStringFlagRepoGitHashFastString": "a699d87c85e6519d87d42fd4492f228527550829",
+    "DFStringFlagRepoGitHashDynamicString": "a699d87c85e6519d87d42fd4492f228527550829",
+    "FStringFlipTimeStampFastString": "2024-03-26T23:25:55.199Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-26T23:25:55.199Z"
 }
