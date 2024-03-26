@@ -313,5 +313,9 @@
     "Label.PublishFeeInfoDialogTitle": "Publishing Fee",
     "Label.Free": "Free",
     "Label.PublishFeeInfoDialogDescription": "Free limiteds are subjected to a per-unit fee instead of a publishing advance. ",
-    "Label.ItemPriceTitle": "Item Price"
+    "Label.ItemPriceTitle": "Item Price",
+    "Label.LimitHelperOver": "New limit must be over {initialLimit}",
+    "Label.LimitHelperQuantity": "Limit cannot exceed available quantity",
+    "Label.LimitHelperQuota": "Limit cannot exceed 500",
+    "Label.NoLimit": "No Limit"
 }
