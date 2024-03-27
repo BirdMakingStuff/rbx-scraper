@@ -11379,6 +11379,10 @@
     "FFlagEnableFeatureTracking": "True",
     "FFlagXboxCredentialsHeaders": "True",
     "DFFlagSourceAssetIdSpeciallyReplicateInTeamCreateDisable": "True",
+    "FIntMaxTimestepMultiplierVelocity_Rollout": "4;60;2024-03-27T17:18:29",
+    "FIntMaxTimestepMultiplierHumanoid_Rollout": "4;60;2024-03-27T17:19:08",
+    "DFFlagSimHumanoidTimestepModelUpdate_Rollout": "True;60;2024-03-27T17:21:08",
+    "FFlagAllSoundServicesShareOneFmodRegistryFix_Rollout": "True;60;2024-03-27T17:27:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11804,6 +11808,7 @@
     "DFFlagOverlappedAddToFilter": "True",
     "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
     "FFlagEnableAdsEudsaDynamicDisclosure": "True",
+    "FFlagGpuGeometryManager14_Rollout": "True;60;2024-03-27T17:36:55",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11829,8 +11834,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "2468f474dfed1ec5c4da649b57fdab65ae57b06a",
-    "DFStringFlagRepoGitHashDynamicString": "2468f474dfed1ec5c4da649b57fdab65ae57b06a",
-    "FStringFlipTimeStampFastString": "2024-03-27T17:15:01.474Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-27T17:15:01.474Z"
+    "FStringFlagRepoGitHashFastString": "a52e22781c81ef888431c07abf56e83410366a25",
+    "DFStringFlagRepoGitHashDynamicString": "a52e22781c81ef888431c07abf56e83410366a25",
+    "FStringFlipTimeStampFastString": "2024-03-27T17:38:40.498Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-27T17:38:40.498Z"
 }
