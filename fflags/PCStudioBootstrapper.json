@@ -78,7 +78,6 @@
     "FFlagIBDisableBuyButtonForUnlimitedAsset": "False",
     "FFlagChatSendMessageEventWithRecipients": "True",
     "FFlagMacInstallerAddInstallTypeAttribute": "True",
-    "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
     "FFlagGpuGeometryManager14_Rollout": "True;60;2024-03-27T17:36:55",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
@@ -94,8 +93,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16870666715",
-    "FStringFlagRepoGitHashFastString": "e3d646fb91ba329a330ff5d27d7b503eae13304f",
-    "DFStringFlagRepoGitHashDynamicString": "e3d646fb91ba329a330ff5d27d7b503eae13304f",
-    "FStringFlipTimeStampFastString": "2024-03-27T18:10:37.067Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-27T18:10:37.067Z"
+    "FStringFlagRepoGitHashFastString": "437009067375890b3e8ad295b32e362119f53e8b",
+    "DFStringFlagRepoGitHashDynamicString": "437009067375890b3e8ad295b32e362119f53e8b",
+    "FStringFlipTimeStampFastString": "2024-03-27T18:36:33.353Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-27T18:36:33.353Z"
 }
