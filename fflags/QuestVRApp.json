@@ -11843,6 +11843,7 @@
     "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
     "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
     "FFlagDebugDisableLuaBridgeMethodProfiling": "True",
+    "FFlagDebugDisableLuaBridgePropertyProfiling": "True",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -11866,8 +11867,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
-    "FStringFlagRepoGitHashFastString": "a460dff02704e78fd2f6d5eae7287c56f2a3361e",
-    "DFStringFlagRepoGitHashDynamicString": "a460dff02704e78fd2f6d5eae7287c56f2a3361e",
-    "FStringFlipTimeStampFastString": "2024-03-27T16:21:12.204Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-27T16:21:12.204Z"
+    "FStringFlagRepoGitHashFastString": "3f80e04ce55c598da09248bf4d1215e689dccef9",
+    "DFStringFlagRepoGitHashDynamicString": "3f80e04ce55c598da09248bf4d1215e689dccef9",
+    "FStringFlipTimeStampFastString": "2024-03-27T16:25:49.080Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-27T16:25:49.080Z"
 }
