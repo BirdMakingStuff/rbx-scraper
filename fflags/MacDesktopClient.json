@@ -11426,7 +11426,6 @@
     "FFlagSkipRebuildingCrashedELF": "True",
     "DFFlagEnableAdSeenStatsReporting": "True",
     "FFlagUserSearchUseNewEndpointIXP": "True",
-    "FFlagGetReportAdInfo_Rollout": "True;60;2024-03-28T17:08:10",
     "DFFlagOverlappedAddToFilter": "True",
     "FFlagLuauCodeGenOptVecA64": "True",
     "FFlagLuauCodegenHeapSizeReport": "True",
@@ -11442,6 +11441,8 @@
     "FFlagScriptDiffTool2_Rollout": "True;60;2024-03-28T18:12:55",
     "DFFlagSessionTelemetryUnify": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "FFlagGetReportAdInfo": "True",
+    "FFlagCapturesFrontendVideoSupport": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -11477,7 +11478,6 @@
     "FFlagUseMicIconForVoiceUpsell": "True",
     "FFlagChatSendMessageEventWithRecipients": "True",
     "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-    "FFlagGpuGeometryManager14": "True",
     "DFFlagHttpDisableSslReleaseBuffers": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-03-28T18:08:52",
@@ -11782,8 +11782,8 @@
     "FFlagVerbsWithNoContainerFullScreen": "True",
     "FFlagVerbsWithNoContainerRecordToggle": "True",
     "FFlagVerbsWithNoContainerScreenshot": "True",
-    "FStringFlagRepoGitHashFastString": "ec631883f3818d60342eea65c65a02dbb39a53dc",
-    "DFStringFlagRepoGitHashDynamicString": "ec631883f3818d60342eea65c65a02dbb39a53dc",
-    "FStringFlipTimeStampFastString": "2024-03-28T18:37:04.293Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-28T18:37:04.293Z"
+    "FStringFlagRepoGitHashFastString": "84901b96498f42ac86e7153693c91f843122b9d4",
+    "DFStringFlagRepoGitHashDynamicString": "84901b96498f42ac86e7153693c91f843122b9d4",
+    "FStringFlipTimeStampFastString": "2024-03-28T19:05:49.112Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-28T19:05:49.112Z"
 }
