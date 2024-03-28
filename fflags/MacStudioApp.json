@@ -11456,6 +11456,9 @@
     "DFIntDeprecatedStringSizeLimit_Rollout": "10000;30;2024-03-28T20:53:06",
     "FFlagCOLLAB5863Telemetry": "True",
     "FFlagUITextureRendererFixVertexIndexSubmission_Rollout": "True;60;2024-03-28T21:14:37",
+    "FFlagStudioReworkClearDirtyBit": "True",
+    "DFFlagBatchId16HotrodAccessorMigration_Rollout": "True;60;2024-03-28T21:35:48",
+    "DFFlagBatchId7HotrodAccessorMigration_Rollout": "True;60;2024-03-28T21:35:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11897,6 +11900,9 @@
     "FFlagStudioUpdateCentralPaneWhenEmpty_Rollout": "True;60;2024-03-28T20:17:34",
     "FFlagLuauCodegenLoadTVTag": "True",
     "FFlagPathEditorSelectModeShortcutChangeToV": "True",
+    "FFlagCodeAssistDisclaimerUserLogin_Rollout": "True;60;2024-03-28T21:18:24",
+    "FFlagAICODuplicateGhostTextShownEvents_Rollout": "True;60;2024-03-28T21:19:30",
+    "FFlagToolboxAnimationAPIMigration": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11932,8 +11938,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "234ce27419c343daa213375142f78a16ea04b03f",
-    "DFStringFlagRepoGitHashDynamicString": "234ce27419c343daa213375142f78a16ea04b03f",
-    "FStringFlipTimeStampFastString": "2024-03-28T21:15:51.115Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-28T21:15:51.115Z"
+    "FStringFlagRepoGitHashFastString": "827d040b0b45daa93ba3c20fb229f0bd5f969964",
+    "DFStringFlagRepoGitHashDynamicString": "827d040b0b45daa93ba3c20fb229f0bd5f969964",
+    "FStringFlipTimeStampFastString": "2024-03-28T21:36:48.083Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-28T21:36:48.083Z"
 }
