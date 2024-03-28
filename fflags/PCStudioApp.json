@@ -11856,7 +11856,6 @@
     "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
     "FFlagVerbsWithNoContainerStats": "True",
     "FFlagDoNotDisableMainWindow": "True",
-    "FFlagRemoveIsSyncingEditorText": "True",
     "FFlagStudioRibbonBarWidgets2": "True",
     "FFlagVerbsWithNoContainerFullScreen": "True",
     "FFlagVerbsWithNoContainerRecordToggle": "True",
@@ -11885,8 +11884,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "eaa4379124ba559f0111f02c289c4a6fd4192ebf",
-    "DFStringFlagRepoGitHashDynamicString": "eaa4379124ba559f0111f02c289c4a6fd4192ebf",
-    "FStringFlipTimeStampFastString": "2024-03-28T00:55:47.462Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-28T00:55:47.462Z"
+    "FStringFlagRepoGitHashFastString": "fab4dc1fb74607156a9092172c891e2ce92c3950",
+    "DFStringFlagRepoGitHashDynamicString": "fab4dc1fb74607156a9092172c891e2ce92c3950",
+    "FStringFlipTimeStampFastString": "2024-03-28T01:20:36.011Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-28T01:20:36.011Z"
 }
