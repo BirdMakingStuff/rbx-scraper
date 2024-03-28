@@ -594,5 +594,6 @@
     "EmptyState.Title.NoResultsFound": "No results found",
     "EmptyState.Action.ReadDocumentation": "Read Documentation",
     "EmptyState.Title.NoLiveEvents": "No live events",
-    "EmptyState.Description.NoLiveEvents": "Live events help you monitor and debug in real-time"
+    "EmptyState.Description.NoLiveEvents": "Live events help you monitor and debug in real-time",
+    "Title.AnalyticsHomeWebPageTitle": "Creator Dashboard / Analytics"
 }
