@@ -11473,6 +11473,9 @@
     "FFlagLuaAppSponsoredFooterTopicLayoutData": "True",
     "DFFlagScaleMaxAudibleSoundChannelsWithCpuUsage2_Rollout": "True;60;2024-03-29T17:20:06",
     "AllowVideoPreRoll": "True",
+    "DFFlagClientNoStreamJob_Rollout": "True;60;2024-03-29T17:49:15",
+    "DFIntClientAccessStreamJobReportPerMyriad_Rollout": "100;60;2024-03-29T17:49:32",
+    "FFlagDeprecateReceivedCanShowUserAlias": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -11919,6 +11922,8 @@
     "FFlagIBEnableFixForOwnedText": "True",
     "FFlagIBEnableFixForSaleLocation": "True",
     "FFlagIBFixl20HasQuantityPurchase": "True",
+    "FFlagStudioExpandMMEndMetrics_Rollout": "True;60;2024-03-29T18:00:23",
+    "FFlagStudioTeamCreateRetryOnUnauthorized_Rollout": "True;60;2024-03-29T18:05:11",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11954,8 +11959,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "4de414126613e8b087b67c341eaaad881b8d0f5b",
-    "DFStringFlagRepoGitHashDynamicString": "4de414126613e8b087b67c341eaaad881b8d0f5b",
-    "FStringFlipTimeStampFastString": "2024-03-29T17:25:25.867Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-29T17:25:25.867Z"
+    "FStringFlagRepoGitHashFastString": "ecd11a5a74fa68e152f1c909e762ee4b62316202",
+    "DFStringFlagRepoGitHashDynamicString": "ecd11a5a74fa68e152f1c909e762ee4b62316202",
+    "FStringFlipTimeStampFastString": "2024-03-29T18:09:35.688Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-29T18:09:35.688Z"
 }
