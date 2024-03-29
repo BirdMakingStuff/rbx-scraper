@@ -76,9 +76,7 @@
     "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
     "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
     "FFlagIBDisableBuyButtonForUnlimitedAsset": "False",
-    "FFlagChatSendMessageEventWithRecipients": "True",
     "FFlagMacInstallerAddInstallTypeAttribute": "True",
-    "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
     "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
     "FFlagIBEnableFixForOwnedText": "True",
     "FFlagIBEnableFixForSaleLocation": "True",
@@ -91,8 +89,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "a8be95b1b45ee8000220092332d66d2105e5700c",
-    "DFStringFlagRepoGitHashDynamicString": "a8be95b1b45ee8000220092332d66d2105e5700c",
-    "FStringFlipTimeStampFastString": "2024-03-29T16:25:22.542Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-29T16:25:22.542Z"
+    "FStringFlagRepoGitHashFastString": "a49ab1bc678822d37b6fc8e7cd828aaa15a37ade",
+    "DFStringFlagRepoGitHashDynamicString": "a49ab1bc678822d37b6fc8e7cd828aaa15a37ade",
+    "FStringFlipTimeStampFastString": "2024-03-29T17:15:43.832Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-29T17:15:43.832Z"
 }
