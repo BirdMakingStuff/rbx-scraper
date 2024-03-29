@@ -11466,6 +11466,7 @@
     "FFlagCAPConversationalAIServiceComponent2": "True",
     "FFlagPerformanceTelemetrySubsystem": "True",
     "DFFlagVoiceChatAutoTest_PlaceFilter": "True;7097215816",
+    "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11867,7 +11868,6 @@
     "FFlagStudioPluginWidgetsViewThreading2": "True",
     "FFlagStudioManageCollabWideBox2": "True",
     "FFlagToolboxRunTestsWithTestLoader": "True",
-    "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
     "FFlagEnableNavigationPerformanceIntervals2": "True",
     "FFlagEmitNewRefreshTokenAvailable": "False",
     "FFlagUIBloxModalTitleAutomaticSizing": "True",
@@ -11944,8 +11944,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "4f68bed2b19b5e22fb441abf0dedb37d6d248146",
-    "DFStringFlagRepoGitHashDynamicString": "4f68bed2b19b5e22fb441abf0dedb37d6d248146",
-    "FStringFlipTimeStampFastString": "2024-03-29T16:22:11.853Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-29T16:22:11.853Z"
+    "FStringFlagRepoGitHashFastString": "a8be95b1b45ee8000220092332d66d2105e5700c",
+    "DFStringFlagRepoGitHashDynamicString": "a8be95b1b45ee8000220092332d66d2105e5700c",
+    "FStringFlipTimeStampFastString": "2024-03-29T16:25:22.542Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-29T16:25:22.542Z"
 }

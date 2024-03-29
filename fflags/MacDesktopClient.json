@@ -11466,6 +11466,7 @@
     "FFlagCAPConversationalAIServiceComponent2": "True",
     "FFlagPerformanceTelemetrySubsystem": "True",
     "DFFlagVoiceChatAutoTest_PlaceFilter": "True;7097215816",
+    "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11495,7 +11496,6 @@
     "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
     "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
     "FFlagELFSubsystemInternalFlowControl2": "True",
-    "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
     "FFlagLuaRollouts": "True",
     "FFlagUIBloxModalTitleAutomaticSizing": "True",
     "FFlagUseMicIconForVoiceUpsell": "True",
@@ -11815,8 +11815,9 @@
     "FFlagLaunchContextReducerEnabled": "True",
     "FFlagEnableViewableImpressionEventReporting2": "True",
     "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
-    "FStringFlagRepoGitHashFastString": "4f68bed2b19b5e22fb441abf0dedb37d6d248146",
-    "DFStringFlagRepoGitHashDynamicString": "4f68bed2b19b5e22fb441abf0dedb37d6d248146",
-    "FStringFlipTimeStampFastString": "2024-03-29T16:22:11.853Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-29T16:22:11.853Z"
+    "FFlagSendUnloadWithViewableImpression2_Rollout": "True;60;2024-03-29T16:22:20",
+    "FStringFlagRepoGitHashFastString": "a8be95b1b45ee8000220092332d66d2105e5700c",
+    "DFStringFlagRepoGitHashDynamicString": "a8be95b1b45ee8000220092332d66d2105e5700c",
+    "FStringFlipTimeStampFastString": "2024-03-29T16:25:22.542Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-29T16:25:22.542Z"
 }
