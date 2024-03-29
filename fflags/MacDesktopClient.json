@@ -11475,6 +11475,7 @@
     "FFlagStudioPluginWidgetsViewThreading2": "True",
     "DFFlagClientNoStreamJob": "True",
     "DFIntClientAccessStreamJobReportPerMyriad": "100",
+    "AllowVideoPreRoll": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11519,7 +11520,6 @@
     "FFlagIBEnableFixForOwnedText": "True",
     "FFlagIBEnableFixForSaleLocation": "True",
     "FFlagIBFixl20HasQuantityPurchase": "True",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -11822,8 +11822,8 @@
     "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
     "FFlagSendUnloadWithViewableImpression2": "True",
     "FFlagEnableVideoProgressEventReporting2": "True",
-    "FStringFlagRepoGitHashFastString": "bea0bede6ae99a287d1b21481a9ea07c99955c1e",
-    "DFStringFlagRepoGitHashDynamicString": "bea0bede6ae99a287d1b21481a9ea07c99955c1e",
-    "FStringFlipTimeStampFastString": "2024-03-29T20:50:52.339Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-29T20:50:52.339Z"
+    "FStringFlagRepoGitHashFastString": "fc80a9954e99bc6deedf337e7450e2fff39b8895",
+    "DFStringFlagRepoGitHashDynamicString": "fc80a9954e99bc6deedf337e7450e2fff39b8895",
+    "FStringFlipTimeStampFastString": "2024-03-29T21:55:49.287Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-29T21:55:49.287Z"
 }
