@@ -9119,7 +9119,6 @@
     "DFIntLogMessageTruncateLimit": "980000",
     "FFlagLuaAppDeprecateGamesImageSetLabel": "True",
     "DFFlagCollectibleItemPurchaseDevApiLocalPromptResellAuthEnabled": "True",
-    "DFFlagCollectibleItemPurchaseDevApiResellEnabled": "True",
     "DFFlagCollectibleItemPurchaseResellEnabled": "True",
     "FFlagCollectibleItemPurchaseResellNetworkEnabled": "True",
     "FFlagDisplayCollectiblesIcon": "True",
@@ -11935,8 +11934,8 @@
     "FFlagDisablePhoneVerificationForCI": "True",
     "FStringContactsListLayer": "Social.ContactImporter",
     "FFlagLaunchContextReducerEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "089600c830bbed50a08a13553c1716dac27d50f6",
-    "DFStringFlagRepoGitHashDynamicString": "089600c830bbed50a08a13553c1716dac27d50f6",
-    "FStringFlipTimeStampFastString": "2024-03-29T22:30:32.060Z",
-    "DFStringFlipTimeStampDynamicString": "2024-03-29T22:30:32.060Z"
+    "FStringFlagRepoGitHashFastString": "43aa2ecb00f8fa6cafe1a387708d32473b55e68c",
+    "DFStringFlagRepoGitHashDynamicString": "43aa2ecb00f8fa6cafe1a387708d32473b55e68c",
+    "FStringFlipTimeStampFastString": "2024-03-31T22:45:36.491Z",
+    "DFStringFlipTimeStampDynamicString": "2024-03-31T22:45:36.491Z"
 }
