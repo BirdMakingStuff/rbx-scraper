@@ -647,5 +647,6 @@
     "Label.Dimension.ItemSku": "Item Name",
     "Label.Dimension.FlowType.Sink": "Sink",
     "Label.Dimension.FlowType.Source": "Source",
-    "Label.SelectPlace": "Select Place"
+    "Label.SelectPlace": "Select Place",
+    "Title.Table.AllSourcesAndSinks": "All Sources and Sinks"
 }

@@ -6,5 +6,6 @@
     "Message.NetworkError": "Something went wrong! Try again later. Status code: {status}",
     "Label.TranslatorAccessWarning": "Currently, this page shows all experiences that have given you or your group translator access.",
     "Message.TranslatorAccessWarning": "We are working on adding more privacy and permission controls. {startLink}Learn more.{endLink}",
-    "Message.NoExperiencesAdded": "You have not been added as a translator for any experience yet"
+    "Message.NoExperiencesAdded": "No translated experiences",
+    "Message.EmptyStateDescription": "When a collaborator adds you as a translator, you will see the experience here. {linkStart} Learn more {linkEnd}"
 }
