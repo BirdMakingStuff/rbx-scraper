@@ -11451,7 +11451,6 @@
     "FFlagDevFrameworkTreeTableCellPadding": "True",
     "FFlagDevFrameworkTableScrollProps": "True",
     "FFlagExpChatUseNewRepository": "True",
-    "FFlagRuppFromServer23_Rollout": "True;60;2024-04-01T17:40:19",
     "DFIntAndroidDeprecationPhase": "2",
     "FFlagProcessAnimationLooped": "True",
     "FFlagAppChatAlwaysFetchUnreadCount": "True",
@@ -11459,6 +11458,9 @@
     "FFlagFixFriendsPageDeepLink": "True",
     "FFlagServerReceiveAvoidPlayerOnFireServer": "True",
     "FFlagFixNotifyMovingCallbackThreading": "True",
+    "FFlagRuppFromServer23": "True",
+    "FFlagShouldInitWithFirstPageWithTabHeader": "True",
+    "DFIntCrashOnInitFailureHundredthPercent_Rollout": "100;60;2024-04-01T19:31:09",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11940,8 +11942,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "1eb8be11b0a30d8be2dfa3e9940410a96f453375",
-    "DFStringFlagRepoGitHashDynamicString": "1eb8be11b0a30d8be2dfa3e9940410a96f453375",
-    "FStringFlipTimeStampFastString": "2024-04-01T19:11:18.000Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T19:11:18.000Z"
+    "FStringFlagRepoGitHashFastString": "dff562a5b475776f38029fda45a64c0989f15aaa",
+    "DFStringFlagRepoGitHashDynamicString": "dff562a5b475776f38029fda45a64c0989f15aaa",
+    "FStringFlipTimeStampFastString": "2024-04-01T19:35:36.047Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T19:35:36.047Z"
 }
