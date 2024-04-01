@@ -11470,6 +11470,7 @@
     "FFlagXboxRemoveAppStateChange_Rollout": "True;60;2024-04-01T22:05:24",
     "DFFlagEnableExperienceNotificationOptInPrompt": "True",
     "FFlagForwardRefAssetRenderModel": "True",
+    "FFlagEnableExperienceNotificationPrompts2_Rollout": "True;30;2024-04-01T22:18:03",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11893,10 +11894,9 @@
     "DFFlagTeleportServiceCallEvent": "True",
     "DFFlagDisableRolloutTaggingUnexposed": "True",
     "FFlagUpgradeUserAgentOverride": "True",
-    "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-04-01T20:55:17",
     "FFlagEnableOtpEmailLoginRelease1": "True",
-    "FStringFlagRepoGitHashFastString": "119d34949dcc3dd757603a0d32f67ff1c8affca5",
-    "DFStringFlagRepoGitHashDynamicString": "119d34949dcc3dd757603a0d32f67ff1c8affca5",
-    "FStringFlipTimeStampFastString": "2024-04-01T22:17:39.136Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T22:17:39.136Z"
+    "FStringFlagRepoGitHashFastString": "29707ec1e1a8f73c824527a3ba13a91aed51caac",
+    "DFStringFlagRepoGitHashDynamicString": "29707ec1e1a8f73c824527a3ba13a91aed51caac",
+    "FStringFlipTimeStampFastString": "2024-04-01T22:32:18.350Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T22:32:18.350Z"
 }

@@ -8852,8 +8852,8 @@
             "namespace": "Feature.Landing",
             "key": "Heading.DoraemonExperience",
             "description": "Experience name for landing page promo of Doraemon brand partner experience",
-            "english": "Doraemon Go-Go Rider",
-            "translation": "Doraemon Go-Go Rider",
+            "english": "Doraemon Nobitaʼs Go-Go Ride!",
+            "translation": "Doraemon Nobitaʼs Go-Go Ride!",
             "isDeprecated": false
         },
         {
@@ -25075,9 +25075,9 @@
         {
             "namespace": "Feature.Captures",
             "key": "Label.VideoEducationalText",
-            "description": "By clicking the ‘Record Video’ button, the menu will close and start recording your screen.",
-            "english": "Educational text for the Video section.",
-            "translation": "Educational text for the Video section.",
+            "description": "Educational text for the Video section.",
+            "english": "By clicking the ‘Record Video’ button, the menu will close and start recording your screen.",
+            "translation": "By clicking the ‘Record Video’ button, the menu will close and start recording your screen.",
             "isDeprecated": false
         },
         {

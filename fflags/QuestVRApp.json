@@ -11470,6 +11470,7 @@
     "FFlagXboxRemoveAppStateChange_Rollout": "True;60;2024-04-01T22:05:24",
     "DFFlagEnableExperienceNotificationOptInPrompt": "True",
     "FFlagForwardRefAssetRenderModel": "True",
+    "FFlagEnableExperienceNotificationPrompts2_Rollout": "True;30;2024-04-01T22:18:03",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11930,7 +11931,6 @@
     "FFlagDisablePhoneVerificationForCI": "True",
     "FStringContactsListLayer": "Social.ContactImporter",
     "FFlagLaunchContextReducerEnabled": "True",
-    "FFlagUpdateCheckOnLogin2_Rollout": "True;60;2024-04-01T20:55:17",
     "FFlagEnableOtpEmailLoginRelease1": "False",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
@@ -11956,8 +11956,8 @@
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagDSAVRSkipFrontendGeoCheck": "True",
     "DFFlagTeleportServiceCallEvent": "True",
-    "FStringFlagRepoGitHashFastString": "9b0f6267e69be6bf307f9b69bb4ec6f717ba8b87",
-    "DFStringFlagRepoGitHashDynamicString": "9b0f6267e69be6bf307f9b69bb4ec6f717ba8b87",
-    "FStringFlipTimeStampFastString": "2024-04-01T22:15:47.856Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T22:15:47.856Z"
+    "FStringFlagRepoGitHashFastString": "29707ec1e1a8f73c824527a3ba13a91aed51caac",
+    "DFStringFlagRepoGitHashDynamicString": "29707ec1e1a8f73c824527a3ba13a91aed51caac",
+    "FStringFlipTimeStampFastString": "2024-04-01T22:32:18.350Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T22:32:18.350Z"
 }
