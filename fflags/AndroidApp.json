@@ -11439,7 +11439,7 @@
     "FFlagPerformanceTelemetrySubsystem": "True",
     "DFFlagVoiceChatAutoTest_PlaceFilter": "True;7097215816",
     "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
-    "FFlagRuppFromServer23_DataCenterFilter": "True;353;369",
+    "FFlagRuppFromServer23_DataCenterFilter": "True;352;353;369",
     "FFlagChatSendMessageEventWithRecipients": "True",
     "FFlagLuaAppSponsoredFooterTopicLayoutData": "True",
     "FFlagDeprecateReceivedCanShowUserAlias": "True",
@@ -11447,6 +11447,7 @@
     "FFlagStudioPluginWidgetsViewThreading2": "True",
     "DFFlagClientNoStreamJob": "True",
     "DFIntClientAccessStreamJobReportPerMyriad": "100",
+    "FFlagProcessAnimationLooped_Rollout": "True;60;2024-04-01T16:21:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11907,8 +11908,8 @@
     "FFlagDisablePhoneVerificationForCI": "True",
     "FStringContactsListLayer": "Social.ContactImporter",
     "FFlagLaunchContextReducerEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "5779d87f6028e780ee764a9428c8aacfc4f8537d",
-    "DFStringFlagRepoGitHashDynamicString": "5779d87f6028e780ee764a9428c8aacfc4f8537d",
-    "FStringFlipTimeStampFastString": "2024-04-01T14:41:03.861Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T14:41:03.861Z"
+    "FStringFlagRepoGitHashFastString": "2b521fff99f393d129d2ccf980464397e4fc0eea",
+    "DFStringFlagRepoGitHashDynamicString": "2b521fff99f393d129d2ccf980464397e4fc0eea",
+    "FStringFlipTimeStampFastString": "2024-04-01T16:40:31.675Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T16:40:31.675Z"
 }
