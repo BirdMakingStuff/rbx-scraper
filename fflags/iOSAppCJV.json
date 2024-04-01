@@ -11465,6 +11465,7 @@
     "DFFlagIkSolverFixLock": "True",
     "DFFlagWfhAddText": "True",
     "DFFlagWireframeHandleAdornmentWorkspaceCFrameIdentity": "True",
+    "DFFlagEnableExperienceNotificationOptInPrompt_Rollout": "True;60;2024-04-01T20:35:07",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11925,8 +11926,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "0431ba9ab3c59544c104f45cae630123534284fa",
-    "DFStringFlagRepoGitHashDynamicString": "0431ba9ab3c59544c104f45cae630123534284fa",
-    "FStringFlipTimeStampFastString": "2024-04-01T20:20:50.374Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T20:20:50.374Z"
+    "FStringFlagRepoGitHashFastString": "5db7572aa1fbdfc7b270ceb1611da1b8762f4d42",
+    "DFStringFlagRepoGitHashDynamicString": "5db7572aa1fbdfc7b270ceb1611da1b8762f4d42",
+    "FStringFlipTimeStampFastString": "2024-04-01T20:36:03.903Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T20:36:03.903Z"
 }
