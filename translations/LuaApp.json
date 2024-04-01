@@ -8857,6 +8857,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Landing",
+            "key": "Heading.LandingSlogan",
+            "description": "Slogan text for video landing page",
+            "english": "Explore over 30 million experiences",
+            "translation": "Explore over 30 million experiences",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.PlayerSearchResults",
             "key": "Heading.PlayerResultsFor",
             "description": "Created by <Unknown>\nModified by NDean@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
