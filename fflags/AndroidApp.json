@@ -11449,6 +11449,11 @@
     "DFIntClientAccessStreamJobReportPerMyriad": "100",
     "FFlagProcessAnimationLooped_Rollout": "True;60;2024-04-01T16:21:51",
     "DFIntAndroidDeprecationPhase_Rollout": "2;30;2024-04-01T16:42:28",
+    "FFlagDevFrameworkFixTextInputFits": "True",
+    "FFlagDevFrameworkTreeTableCellPadding": "True",
+    "FFlagDevFrameworkTableScrollProps": "True",
+    "FFlagServerReceiveAvoidPlayerOnFireServer_Rollout": "True;60;2024-04-01T17:21:46",
+    "FFlagFixNotifyMovingCallbackThreading_Rollout": "True;60;2024-04-01T17:32:17",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11909,8 +11914,8 @@
     "FFlagDisablePhoneVerificationForCI": "True",
     "FStringContactsListLayer": "Social.ContactImporter",
     "FFlagLaunchContextReducerEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "1f02676ae3e906fab0eb01c54edfb4d6324f2832",
-    "DFStringFlagRepoGitHashDynamicString": "1f02676ae3e906fab0eb01c54edfb4d6324f2832",
-    "FStringFlipTimeStampFastString": "2024-04-01T17:20:32.200Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T17:20:32.200Z"
+    "FStringFlagRepoGitHashFastString": "b457c4caa687dab6c2d9b0fbcf1bbe0a36d6b20e",
+    "DFStringFlagRepoGitHashDynamicString": "b457c4caa687dab6c2d9b0fbcf1bbe0a36d6b20e",
+    "FStringFlipTimeStampFastString": "2024-04-01T17:35:27.132Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T17:35:27.132Z"
 }
