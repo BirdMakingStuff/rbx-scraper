@@ -11458,6 +11458,7 @@
     "FFlagProcessAnimationLooped": "True",
     "FFlagAppChatAlwaysFetchUnreadCount": "True",
     "FFlagSimCSG3MeshTriangleCountOptimization_Rollout": "True;60;2024-04-01T18:17:15",
+    "FFlagFixFriendsPageDeepLink": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11781,8 +11782,8 @@
     "FFlagIBEnableFixForSaleLocation": "True",
     "FFlagIBFixl20HasQuantityPurchase": "True",
     "DFFlagTeleportServiceCallEvent": "True",
-    "FStringFlagRepoGitHashFastString": "2f21b49c577f2ea3d28b26d2b86db0fb9d7253e0",
-    "DFStringFlagRepoGitHashDynamicString": "2f21b49c577f2ea3d28b26d2b86db0fb9d7253e0",
-    "FStringFlipTimeStampFastString": "2024-04-01T18:21:52.796Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T18:21:52.796Z"
+    "FStringFlagRepoGitHashFastString": "dde1a03ca8eaad3244e0cb3c398e74cb4d2ccace",
+    "DFStringFlagRepoGitHashDynamicString": "dde1a03ca8eaad3244e0cb3c398e74cb4d2ccace",
+    "FStringFlipTimeStampFastString": "2024-04-01T18:35:55.463Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T18:35:55.463Z"
 }
