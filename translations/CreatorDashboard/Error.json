@@ -10,7 +10,7 @@
     "Heading.BadRequest": "Bad Request",
     "Description.BadRequest": "400 There was a problem with your request\n",
     "Heading.AccessDenied": "Access Denied",
-    "Description.AccessDenied": "You don't have permission to view this page",
+    "Description.AccessDenied": "You need permissions to access this content",
     "Heading.FailedToLoadPage": "Oh noes!",
     "Message.FailedToLoadPage": "Could not load this page, please try again later.",
     "Action.FailedToLoadPage": "Try again",
@@ -54,5 +54,6 @@
     "Error.AssetTypeNotEnabled.UnknownError": "Asset type not enabled.",
     "Heading.MaintenancePage": "We’ll be back soon!",
     "Description.MaintenancePage": "Thanks for your patience. We’re working to get back online as soon as possible. Please visit our {linkStart}status page{linkEnd} for more information.\n",
-    "Label.CreatorStore": "Creator Store"
+    "Label.CreatorStore": "Creator Store",
+    "Label.AccessDenied": "Contact the owner to grant you access or switch accounts"
 }

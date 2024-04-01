@@ -390,5 +390,7 @@
     "Label.EmptyStateImages": "No images",
     "Label.EmptyStateAnimations": "Create animations",
     "Label.EmptyStateAvatarItem": "Add avatar items",
-    "Action.GoToDecals": "Go to decals"
+    "Action.GoToDecals": "Go to decals",
+    "Heading.CreateEvent": "Create Event",
+    "Heading.EventsEmptyUpsell": "Increase player engagement with Events"
 }
