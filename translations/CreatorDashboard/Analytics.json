@@ -640,5 +640,12 @@
     "Title.AcquisitionPlaysPerSource": "Plays per Source",
     "Title.Table.NewUsersFunnel": "New Users Funnel",
     "Label.TableTab.NewUsersFunnelOverview": "Overview",
-    "Label.TableTab.NewUsersFunnelEngagement": "Engagement"
+    "Label.TableTab.NewUsersFunnelEngagement": "Engagement",
+    "Label.Dimension.FlowType": "Flow Type",
+    "Label.Dimension.TransactionType": "Transaction Type",
+    "Label.Metric.TransactionCount": "Transactions",
+    "Label.Dimension.ItemSku": "Item Name",
+    "Label.Dimension.FlowType.Sink": "Sink",
+    "Label.Dimension.FlowType.Source": "Source",
+    "Label.SelectPlace": "Select Place"
 }
