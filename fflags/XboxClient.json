@@ -11448,6 +11448,7 @@
     "DFFlagClientNoStreamJob": "True",
     "DFIntClientAccessStreamJobReportPerMyriad": "100",
     "FFlagProcessAnimationLooped_Rollout": "True;60;2024-04-01T16:21:51",
+    "DFIntAndroidDeprecationPhase_Rollout": "2;30;2024-04-01T16:42:28",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11770,8 +11771,9 @@
     "FFlagIBEnableFixForOwnedText": "True",
     "FFlagIBEnableFixForSaleLocation": "True",
     "FFlagIBFixl20HasQuantityPurchase": "True",
-    "FStringFlagRepoGitHashFastString": "2b521fff99f393d129d2ccf980464397e4fc0eea",
-    "DFStringFlagRepoGitHashDynamicString": "2b521fff99f393d129d2ccf980464397e4fc0eea",
-    "FStringFlipTimeStampFastString": "2024-04-01T16:40:31.675Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-01T16:40:31.675Z"
+    "DFFlagTeleportServiceCallEvent_Rollout": "True;30;2024-04-01T17:16:08",
+    "FStringFlagRepoGitHashFastString": "1f02676ae3e906fab0eb01c54edfb4d6324f2832",
+    "DFStringFlagRepoGitHashDynamicString": "1f02676ae3e906fab0eb01c54edfb4d6324f2832",
+    "FStringFlipTimeStampFastString": "2024-04-01T17:20:32.200Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-01T17:20:32.200Z"
 }
