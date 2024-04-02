@@ -656,5 +656,6 @@
     "Description.Dimension.AcquisitionSource.HomeRecommendation": "Includes all Roblox homepage recommendations (does not include Continue, Favorites, or sponsored experiences).",
     "Description.Dimension.AcquisitionSource.Friends": "Includes friends carousel on the Roblox Homepage.",
     "Description.Dimension.AcquisitionSource.Others": "Includes all other sources of acquisition.",
-    "Description.Dimension.AcquisitionSource.PortalAds": "Portal Ads plays may not be attributed to impressions immediately."
+    "Description.Dimension.AcquisitionSource.PortalAds": "Portal Ads plays may not be attributed to impressions immediately.",
+    "Label.Dimension.PlaceVersion": "Place Versions"
 }
