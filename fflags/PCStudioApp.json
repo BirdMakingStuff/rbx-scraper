@@ -10370,7 +10370,7 @@
     "FIntStandardOutputMaximumCharacterLength": "100000",
     "FFlagStudioEmulatorAlwaysUpdateDevice": "True",
     "FFlagRegionReplaceEvaporate": "True",
-    "DFFlagDynamicFastVariableReloaderTest1": "True",
+    "DFFlagDynamicFastVariableReloaderTest1": "False",
     "FFlagLuaAppRefactorPlayButtonHandler3": "True",
     "FFlagPlayerContextualMenuAddUnblockCTA": "True",
     "FFlagSTUDIOPLAT_33359_ReportHangsInProgressAndSid": "True",
@@ -11929,6 +11929,7 @@
     "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": "5000",
     "DFIntLuauNativeExecutionEventHundredthsPercent": "10000",
     "FFlagGamepadInputUIPosition_Rollout": "True;60;2024-04-02T16:51:37",
+    "FFlagToolboxSendPackageVersionNoteTelemetry_Rollout": "True;60;2024-04-02T17:34:07",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11960,8 +11961,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "4156036d6a15e57b87e4e9b4b34ffe53dc38e50a",
-    "DFStringFlagRepoGitHashDynamicString": "4156036d6a15e57b87e4e9b4b34ffe53dc38e50a",
-    "FStringFlipTimeStampFastString": "2024-04-02T17:16:02.789Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-02T17:16:02.789Z"
+    "FStringFlagRepoGitHashFastString": "8c90cfaa8fc3de128f55a651ab8a6ac8fc0e9d7e",
+    "DFStringFlagRepoGitHashDynamicString": "8c90cfaa8fc3de128f55a651ab8a6ac8fc0e9d7e",
+    "FStringFlipTimeStampFastString": "2024-04-02T17:38:52.076Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-02T17:38:52.076Z"
 }
