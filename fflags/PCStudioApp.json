@@ -11489,7 +11489,6 @@
     "FFlagFixDPIScaling": "True",
     "FFlagHighlightsIntegratedWithGFX": "True",
     "FFlagXboxRemoveCPPLogic": "True",
-    "FFlagLuaAppSearchBarDeprecateLocalizedTextBox_Rollout": "True;60;2024-04-02T20:54:53",
     "FFlagUseUGCValidationContext3_Rollout": "True;60;2024-04-02T21:06:46",
     "DFIntRestartFmodRecordingCooldownMs_Rollout": "2000;60;2024-04-02T21:25:44",
     "FFlagStudioRemoveOgreGst_Rollout": "True;60;2024-04-02T21:25:56",
@@ -11498,6 +11497,7 @@
     "FFlagSocialLuaAnalyticsAddPlatformValue": "True",
     "FFlagSyncWebViewCookieToEngine": "True",
     "FFlagStudioEnableHeartbeatsRollout_Rollout": "True;60;2024-04-02T21:51:35",
+    "FFlagLuaAppSearchBarDeprecateLocalizedTextBox": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11976,8 +11976,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "dd93b607491c57e2770dbeb0ba1ab4738d05f885",
-    "DFStringFlagRepoGitHashDynamicString": "dd93b607491c57e2770dbeb0ba1ab4738d05f885",
-    "FStringFlipTimeStampFastString": "2024-04-02T22:16:11.978Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-02T22:16:11.978Z"
+    "FStringFlagRepoGitHashFastString": "e1dd22ddd2b10f40b01cca9432b3c5c760499b11",
+    "DFStringFlagRepoGitHashDynamicString": "e1dd22ddd2b10f40b01cca9432b3c5c760499b11",
+    "FStringFlipTimeStampFastString": "2024-04-02T22:35:46.567Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-02T22:35:46.567Z"
 }
