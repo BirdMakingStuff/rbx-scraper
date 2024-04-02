@@ -81,7 +81,7 @@
     "FFlagIBEnableFixForOwnedText": "True",
     "FFlagIBEnableFixForSaleLocation": "True",
     "FFlagIBFixl20HasQuantityPurchase": "True",
-    "FFlagGamepadInputUIPosition_Rollout": "True;60;2024-04-02T16:51:37",
+    "FFlagGamepadInputUIPosition": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -96,8 +96,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FStringFlagRepoGitHashFastString": "8a5cbad2731e03fbd98effbe23c713de6a118a69",
-    "DFStringFlagRepoGitHashDynamicString": "8a5cbad2731e03fbd98effbe23c713de6a118a69",
-    "FStringFlipTimeStampFastString": "2024-04-02T18:00:59.055Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-02T18:00:59.055Z"
+    "FStringFlagRepoGitHashFastString": "19578287621acde0774f01aaa004413971050457",
+    "DFStringFlagRepoGitHashDynamicString": "19578287621acde0774f01aaa004413971050457",
+    "FStringFlipTimeStampFastString": "2024-04-02T18:35:39.134Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-02T18:35:39.134Z"
 }
