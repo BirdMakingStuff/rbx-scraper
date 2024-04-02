@@ -11479,7 +11479,6 @@
     "DFFlagStringViewArgsDirectlyReferenceLuauString": "True",
     "FFlagAXFixInExperienceOnlyUnlimitedCollectibles": "True",
     "FFlagFixStepContactsAsyncPerformMT": "True",
-    "FFlagXboxRemoveCPPLogic_Rollout": "True;60;2024-04-02T19:12:46",
     "FFlagRejectCyclicDerives": "True",
     "FFlagIBEnableFixForOwnedText": "True",
     "FFlagIBEnableFixForSaleLocation": "True",
@@ -11493,6 +11492,9 @@
     "FFlagSyncWebViewCookieToEngine_Rollout": "True;60;2024-04-02T20:17:16",
     "FFlagHighlightsIntegratedWithGFX": "True",
     "DFFlagSendStreamingTunableTargetToServerCheck_Rollout": "False;60;2024-04-02T20:24:27",
+    "FFlagXboxRemoveCPPLogic": "True",
+    "FFlagLuaAppSearchBarDeprecateLocalizedTextBox_Rollout": "True;60;2024-04-02T20:54:53",
+    "FFlagUseUGCValidationContext3_Rollout": "True;60;2024-04-02T21:06:46",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11699,8 +11701,8 @@
     "FFlagGamepadInputUIPosition": "True",
     "DFFlagPhysicsReportWorldTime1_Rollout": "True;60;2024-04-02T20:21:50",
     "DFFlagPhysicsReportInterpolatedTime_Rollout": "True;60;2024-04-02T20:22:10",
-    "FStringFlagRepoGitHashFastString": "b26b87248da2789ae4130feddc40786faadd9b34",
-    "DFStringFlagRepoGitHashDynamicString": "b26b87248da2789ae4130feddc40786faadd9b34",
-    "FStringFlipTimeStampFastString": "2024-04-02T20:30:56.626Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-02T20:30:56.626Z"
+    "FStringFlagRepoGitHashFastString": "4b23eaa57a8810406ed80921b4826d8c0a270335",
+    "DFStringFlagRepoGitHashDynamicString": "4b23eaa57a8810406ed80921b4826d8c0a270335",
+    "FStringFlipTimeStampFastString": "2024-04-02T21:11:16.421Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-02T21:11:16.421Z"
 }
