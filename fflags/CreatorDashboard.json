@@ -98,6 +98,6 @@
     "enableUnifiedFeeSystem": "true",
     "enableDeveloperPage": "true",
     "enablePackageVersionDescriptions": "true",
-    "enableAutomaticTranslationUpdates": "true",
+    "enableAutomaticTranslationUpdates": "false",
     "enableCreatorHubNotificationTray": "true"
 }
