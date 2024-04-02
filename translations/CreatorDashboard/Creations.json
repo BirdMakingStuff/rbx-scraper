@@ -209,7 +209,7 @@
     "Message.MissingAssets": "There are no assets associated with this experience",
     "Tooltip.SaveRequiresUniverse": "You must select an associated experience to save this event",
     "Tooltip.SaveRequiresChanges": "No changes to save",
-    "Heading.ConfigureEvent": "Config Event",
+    "Heading.ConfigureEvent": "Configure Event",
     "Label.Cancelled": "Cancelled",
     "Label.UpcomingEventsMenuName": "Upcoming",
     "Label.PastEventsMenuName": "Past",
