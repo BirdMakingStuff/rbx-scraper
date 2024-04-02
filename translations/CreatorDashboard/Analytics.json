@@ -648,5 +648,13 @@
     "Label.Dimension.FlowType.Sink": "Sink",
     "Label.Dimension.FlowType.Source": "Source",
     "Label.SelectPlace": "Select Place",
-    "Title.Table.AllSourcesAndSinks": "All Sources and Sinks"
+    "Title.Table.AllSourcesAndSinks": "All Sources and Sinks",
+    "Description.Table.NewUsersFunnel": "Cumulative over selected period (all metrics shown are new unique users).",
+    "Description.Dimension.AcquisitionSource.SponsoredAds": "Includes Roblox sponsored experiences.",
+    "Description.Dimension.AcquisitionSource.CrossGame": "Includes all teleports that are not portal ads.",
+    "Description.Dimension.AcquisitionSource.Search": "Includes Search, Discover page, and Recommended Experiences on the game details page.",
+    "Description.Dimension.AcquisitionSource.HomeRecommendation": "Includes all Roblox homepage recommendations (does not include Continue, Favorites, or sponsored experiences).",
+    "Description.Dimension.AcquisitionSource.Friends": "Includes friends carousel on the Roblox Homepage.",
+    "Description.Dimension.AcquisitionSource.Others": "Includes all other sources of acquisition.",
+    "Description.Dimension.AcquisitionSource.PortalAds": "Portal Ads plays may not be attributed to impressions immediately."
 }
