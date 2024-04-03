@@ -11502,13 +11502,13 @@
     "FFlagFriendsLandingSafeAreaPadding": "True",
     "FFlagAvatarPreviewerAutoSetupFixPositioning": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
-    "DFFlagFixInterpolationParallelTasks_Rollout": "True;60;2024-04-03T17:42:51",
     "FFlagFixStatusBarTouchedHandlingIOS": "True",
     "FFlagMobileMorePageScrollToTop": "True",
     "FFlagMobileScrollToTopLogging": "True",
     "FFlagScrollToTopIXPExperimentation": "True",
     "FFlagELFSubsystemInternalFlowControl2": "True",
     "FFlagUseMachineIdUploaderInWindows": "True",
+    "DFFlagFixInterpolationParallelTasks": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11680,8 +11680,9 @@
     "DFFlagPhysicsReportWorldTime1": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "78a666278730d8a6631068f7e808f6c75caa0ab3",
-    "DFStringFlagRepoGitHashDynamicString": "78a666278730d8a6631068f7e808f6c75caa0ab3",
-    "FStringFlipTimeStampFastString": "2024-04-03T19:11:12.792Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T19:11:12.792Z"
+    "FFlagEnablePSAccountProtocol_Rollout": "True;60;2024-04-03T19:11:13",
+    "FStringFlagRepoGitHashFastString": "6a473816279d17b31c43e472d493c0e112679492",
+    "DFStringFlagRepoGitHashDynamicString": "6a473816279d17b31c43e472d493c0e112679492",
+    "FStringFlipTimeStampFastString": "2024-04-03T19:35:57.298Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T19:35:57.298Z"
 }

@@ -11502,13 +11502,13 @@
     "FFlagFriendsLandingSafeAreaPadding": "True",
     "FFlagAvatarPreviewerAutoSetupFixPositioning": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
-    "DFFlagFixInterpolationParallelTasks_Rollout": "True;60;2024-04-03T17:42:51",
     "FFlagFixStatusBarTouchedHandlingIOS": "True",
     "FFlagMobileMorePageScrollToTop": "True",
     "FFlagMobileScrollToTopLogging": "True",
     "FFlagScrollToTopIXPExperimentation": "True",
     "FFlagELFSubsystemInternalFlowControl2": "True",
     "FFlagUseMachineIdUploaderInWindows": "True",
+    "DFFlagFixInterpolationParallelTasks": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11963,8 +11963,8 @@
     "FStringContactsListLayer": "Social.ContactImporter",
     "FFlagLaunchContextReducerEnabled": "True",
     "FFlagEnableOtpEmailLoginRelease1": "True",
-    "FStringFlagRepoGitHashFastString": "78a666278730d8a6631068f7e808f6c75caa0ab3",
-    "DFStringFlagRepoGitHashDynamicString": "78a666278730d8a6631068f7e808f6c75caa0ab3",
-    "FStringFlipTimeStampFastString": "2024-04-03T19:11:12.792Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T19:11:12.792Z"
+    "FStringFlagRepoGitHashFastString": "6a473816279d17b31c43e472d493c0e112679492",
+    "DFStringFlagRepoGitHashDynamicString": "6a473816279d17b31c43e472d493c0e112679492",
+    "FStringFlipTimeStampFastString": "2024-04-03T19:35:57.298Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T19:35:57.298Z"
 }

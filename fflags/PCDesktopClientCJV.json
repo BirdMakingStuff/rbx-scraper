@@ -11502,13 +11502,13 @@
     "FFlagFriendsLandingSafeAreaPadding": "True",
     "FFlagAvatarPreviewerAutoSetupFixPositioning": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
-    "DFFlagFixInterpolationParallelTasks_Rollout": "True;60;2024-04-03T17:42:51",
     "FFlagFixStatusBarTouchedHandlingIOS": "True",
     "FFlagMobileMorePageScrollToTop": "True",
     "FFlagMobileScrollToTopLogging": "True",
     "FFlagScrollToTopIXPExperimentation": "True",
     "FFlagELFSubsystemInternalFlowControl2": "True",
     "FFlagUseMachineIdUploaderInWindows": "True",
+    "DFFlagFixInterpolationParallelTasks": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11840,8 +11840,8 @@
     "FFlagEnableVideoProgressEventReporting2": "True",
     "FFlagFixUgcBadPointerForLowMemoryWarning": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "37a0567aa812bb242437ae2e47ad11904214fec4",
-    "DFStringFlagRepoGitHashDynamicString": "37a0567aa812bb242437ae2e47ad11904214fec4",
-    "FStringFlipTimeStampFastString": "2024-04-03T19:16:04.982Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T19:16:04.982Z"
+    "FStringFlagRepoGitHashFastString": "6a473816279d17b31c43e472d493c0e112679492",
+    "DFStringFlagRepoGitHashDynamicString": "6a473816279d17b31c43e472d493c0e112679492",
+    "FStringFlipTimeStampFastString": "2024-04-03T19:35:57.298Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T19:35:57.298Z"
 }
