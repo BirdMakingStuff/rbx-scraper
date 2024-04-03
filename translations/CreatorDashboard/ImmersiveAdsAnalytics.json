@@ -89,5 +89,7 @@
     "Description.TotalImpressionsEarnings": "Total number of impressions generated from image and portal ad units in this experience (excluding video ad impressions). Impressions from portal ads do not contribute to earnings.",
     "Description.AverageRobuxEPM": "The average Robux amount earned for every thousand impressions generated from Image ad units in this experience.",
     "Description.RobuxEarnedFromVideoAds": "Total Robux amount earned from video ad units in this experience.",
-    "Label.TotalVideoViewsDisplaySubtext": "*The chart displays monetizable video views"
+    "Label.TotalVideoViewsDisplaySubtext": "*The chart displays monetizable video views",
+    "Heading.Eligibility": "Eligibility",
+    "Heading.Analytics": "Analytics"
 }
