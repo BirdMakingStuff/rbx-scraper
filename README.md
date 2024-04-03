@@ -1,6 +1,6 @@
-# rbxpyscraper
+# rbx-scraper
 
-rbxpyscraper is a scraper built with Python running on GitHub Actions scraping fast flags (FFlags) and translations.
+rbx-scraper is a scraper built with Python running on GitHub Actions scraping fast flags (FFlags) and translations.
 
 ## FFlags
 Translations are scraped from clientsettingscdn.roblox.com/v2/ (in FFlags.py).
