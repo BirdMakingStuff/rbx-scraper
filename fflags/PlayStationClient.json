@@ -11510,7 +11510,6 @@
     "FFlagUseMachineIdUploaderInWindows": "True",
     "DFFlagFixInterpolationParallelTasks": "True",
     "FFlagLuaAppSingleHoveredGridTile": "True",
-    "FFlagChatGameCardUseUrlLocales_Rollout": "True;60;2024-04-03T21:48:51",
     "FFlagDontLeaveCaptureModeOnTP": "True",
     "FFlagAllowGroupPackagesPublish": "True",
     "FFlagUseMachineIdUploaderInMacOS": "True",
@@ -11521,6 +11520,7 @@
     "DFIntPerformanceControlSoundLatencyFirstSegmentUtility_Rollout": "-10;60;2024-04-03T22:54:21",
     "DFIntPerformanceControlSoundLatencySecondSegmentUtility_Rollout": "-250;60;2024-04-03T22:54:43",
     "DFIntPerformanceControlSoundLatencyThirdSegmentUtility_Rollout": "-140;60;2024-04-03T22:55:03",
+    "FFlagChatGameCardUseUrlLocales": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11693,8 +11693,8 @@
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
     "FFlagEnablePSAccountProtocol": "True",
-    "FStringFlagRepoGitHashFastString": "0b77797f1048b3ff25ff41ae23afdb732b96d1fa",
-    "DFStringFlagRepoGitHashDynamicString": "0b77797f1048b3ff25ff41ae23afdb732b96d1fa",
-    "FStringFlipTimeStampFastString": "2024-04-03T23:15:45.409Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T23:15:45.409Z"
+    "FStringFlagRepoGitHashFastString": "43f76158e01da10bcd95e2e09c2c5d0a2e0433ff",
+    "DFStringFlagRepoGitHashDynamicString": "43f76158e01da10bcd95e2e09c2c5d0a2e0433ff",
+    "FStringFlipTimeStampFastString": "2024-04-03T23:35:39.892Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T23:35:39.892Z"
 }

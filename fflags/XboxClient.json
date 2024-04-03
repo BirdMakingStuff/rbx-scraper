@@ -11510,7 +11510,6 @@
     "FFlagUseMachineIdUploaderInWindows": "True",
     "DFFlagFixInterpolationParallelTasks": "True",
     "FFlagLuaAppSingleHoveredGridTile": "True",
-    "FFlagChatGameCardUseUrlLocales_Rollout": "True;60;2024-04-03T21:48:51",
     "FFlagDontLeaveCaptureModeOnTP": "True",
     "FFlagAllowGroupPackagesPublish": "True",
     "FFlagUseMachineIdUploaderInMacOS": "True",
@@ -11521,6 +11520,7 @@
     "DFIntPerformanceControlSoundLatencyFirstSegmentUtility_Rollout": "-10;60;2024-04-03T22:54:21",
     "DFIntPerformanceControlSoundLatencySecondSegmentUtility_Rollout": "-250;60;2024-04-03T22:54:43",
     "DFIntPerformanceControlSoundLatencyThirdSegmentUtility_Rollout": "-140;60;2024-04-03T22:55:03",
+    "FFlagChatGameCardUseUrlLocales": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11841,8 +11841,8 @@
     "DFFlagPhysicsReportWorldTime1": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "0b77797f1048b3ff25ff41ae23afdb732b96d1fa",
-    "DFStringFlagRepoGitHashDynamicString": "0b77797f1048b3ff25ff41ae23afdb732b96d1fa",
-    "FStringFlipTimeStampFastString": "2024-04-03T23:15:45.409Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T23:15:45.409Z"
+    "FStringFlagRepoGitHashFastString": "8ce7721446427f800f1dde319ccaf028dac84adf",
+    "DFStringFlagRepoGitHashDynamicString": "8ce7721446427f800f1dde319ccaf028dac84adf",
+    "FStringFlipTimeStampFastString": "2024-04-03T23:39:42.673Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T23:39:42.673Z"
 }
