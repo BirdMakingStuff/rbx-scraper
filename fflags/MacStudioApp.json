@@ -11499,6 +11499,7 @@
     "FFlagFixSetAvailableSpace": "False",
     "FFlagStudioEnableHeartbeatsRollout": "True",
     "FIntStudioEnableHeartbeatsRolloutHundredthPercent": "100",
+    "FFlagFixIgnoreAllGamepad": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11985,8 +11986,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "10e2b10fdf20c5d3baf31ae889f7fad802390ff9",
-    "DFStringFlagRepoGitHashDynamicString": "10e2b10fdf20c5d3baf31ae889f7fad802390ff9",
-    "FStringFlipTimeStampFastString": "2024-04-03T01:00:58.169Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T01:00:58.169Z"
+    "FStringFlagRepoGitHashFastString": "aa50f0bce6c761f89aae49cf14c98b8900de7deb",
+    "DFStringFlagRepoGitHashDynamicString": "aa50f0bce6c761f89aae49cf14c98b8900de7deb",
+    "FStringFlipTimeStampFastString": "2024-04-03T16:15:59.120Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T16:15:59.120Z"
 }
