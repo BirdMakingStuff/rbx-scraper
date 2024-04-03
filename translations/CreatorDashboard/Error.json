@@ -10,7 +10,7 @@
     "Heading.BadRequest": "Bad Request",
     "Description.BadRequest": "400 There was a problem with your request\n",
     "Heading.AccessDenied": "Access Denied",
-    "Description.AccessDenied": "You need permissions to access this content",
+    "Description.AccessDenied": "You need permission to access this content",
     "Heading.FailedToLoadPage": "Oh noes!",
     "Message.FailedToLoadPage": "Could not load this page, please try again later.",
     "Action.FailedToLoadPage": "Try again",
