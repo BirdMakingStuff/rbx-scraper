@@ -10768,7 +10768,7 @@
     "FFlagStudioAlwaysShowSouthRegionsWhenEmpty": "True",
     "FFlagExportPathCheckEnabled": "True",
     "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
-    "FIntUserHeartbeatsPulseRolloutPerMyriad": "2500",
+    "FIntUserHeartbeatsPulseRolloutPerMyriad": "1000",
     "FFlagXboxRemoveIsRetail": "True",
     "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
     "FFlagPlatformServiceNoLongerStartGames": "True",
@@ -11510,10 +11510,10 @@
     "FFlagUseMachineIdUploaderInWindows": "True",
     "DFFlagFixInterpolationParallelTasks": "True",
     "FFlagLuaAppSingleHoveredGridTile": "True",
-    "FFlagUseMachineIdUploaderInMacOS_Rollout": "True;60;2024-04-03T20:48:52",
     "FFlagChatGameCardUseUrlLocales_Rollout": "True;60;2024-04-03T21:48:51",
     "FFlagDontLeaveCaptureModeOnTP": "True",
     "FFlagAllowGroupPackagesPublish": "True",
+    "FFlagUseMachineIdUploaderInMacOS": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11834,8 +11834,8 @@
     "DFFlagPhysicsReportWorldTime1": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "65c433506bf3c62e12023c5327a71c2d358d366f",
-    "DFStringFlagRepoGitHashDynamicString": "65c433506bf3c62e12023c5327a71c2d358d366f",
-    "FStringFlipTimeStampFastString": "2024-04-03T22:16:02.625Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T22:16:02.625Z"
+    "FStringFlagRepoGitHashFastString": "b01c286cd4b57ea288f9e7b4b4c69d972e92def3",
+    "DFStringFlagRepoGitHashDynamicString": "b01c286cd4b57ea288f9e7b4b4c69d972e92def3",
+    "FStringFlipTimeStampFastString": "2024-04-03T22:39:19.578Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T22:39:19.578Z"
 }
