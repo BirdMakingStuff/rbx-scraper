@@ -11502,13 +11502,13 @@
     "FFlagFriendsLandingSafeAreaPadding": "True",
     "FFlagAvatarPreviewerAutoSetupFixPositioning": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
-    "FFlagELFSubsystemInternalFlowControl2_Rollout": "True;60;2024-04-03T16:54:14",
     "FFlagUseMachineIdUploaderInWindows_Rollout": "True;60;2024-04-03T17:35:04",
     "DFFlagFixInterpolationParallelTasks_Rollout": "True;60;2024-04-03T17:42:51",
     "FFlagFixStatusBarTouchedHandlingIOS": "True",
     "FFlagMobileMorePageScrollToTop": "True",
     "FFlagMobileScrollToTopLogging": "True",
     "FFlagScrollToTopIXPExperimentation": "True",
+    "FFlagELFSubsystemInternalFlowControl2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11968,8 +11968,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "43d8288364d4b05e0262b6ddb814d5bbefb527f1",
-    "DFStringFlagRepoGitHashDynamicString": "43d8288364d4b05e0262b6ddb814d5bbefb527f1",
-    "FStringFlipTimeStampFastString": "2024-04-03T18:19:44.873Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T18:19:44.873Z"
+    "FStringFlagRepoGitHashFastString": "db436bfe4e8ff5e1e729c24239a7a51ed16d6278",
+    "DFStringFlagRepoGitHashDynamicString": "db436bfe4e8ff5e1e729c24239a7a51ed16d6278",
+    "FStringFlipTimeStampFastString": "2024-04-03T18:34:33.406Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T18:34:33.406Z"
 }
