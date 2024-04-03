@@ -83,6 +83,8 @@
     "FFlagIBFixl20HasQuantityPurchase": "True",
     "FFlagGamepadInputUIPosition": "True",
     "FFlagMacInstallerFixCancelAsNotFail": "True",
+    "FFlagMarketplaceServiceEnableCollectibleBundleSupport_Rollout": "True;60;2024-04-03T17:32:32",
+    "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken_Rollout": "True;60;2024-04-03T17:32:32",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -104,8 +106,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "1a0b73ab0034becf38c54b280e17f86cec6150a7",
-    "DFStringFlagRepoGitHashDynamicString": "1a0b73ab0034becf38c54b280e17f86cec6150a7",
-    "FStringFlipTimeStampFastString": "2024-04-03T17:00:47.867Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T17:00:47.867Z"
+    "FStringFlagRepoGitHashFastString": "0629754765928aa45cae5f488d89c23caedf9d30",
+    "DFStringFlagRepoGitHashDynamicString": "0629754765928aa45cae5f488d89c23caedf9d30",
+    "FStringFlipTimeStampFastString": "2024-04-03T17:35:50.532Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T17:35:50.532Z"
 }

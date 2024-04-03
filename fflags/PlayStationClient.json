@@ -11508,6 +11508,7 @@
     "FFlagMobileMorePageScrollToTop_Rollout": "True;30;2024-04-03T16:56:12",
     "FFlagMobileScrollToTopLogging_Rollout": "True;30;2024-04-03T16:57:26",
     "FFlagScrollToTopIXPExperimentation_Rollout": "True;30;2024-04-03T16:58:12",
+    "FFlagUseMachineIdUploaderInWindows_Rollout": "True;60;2024-04-03T17:35:04",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11677,8 +11678,10 @@
     "FFlagEnableMenuModernizationABTest4": "True",
     "DFFlagPhysicsReportInterpolatedTime": "True",
     "DFFlagPhysicsReportWorldTime1": "True",
-    "FStringFlagRepoGitHashFastString": "1a0b73ab0034becf38c54b280e17f86cec6150a7",
-    "DFStringFlagRepoGitHashDynamicString": "1a0b73ab0034becf38c54b280e17f86cec6150a7",
-    "FStringFlipTimeStampFastString": "2024-04-03T17:00:47.867Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T17:00:47.867Z"
+    "FFlagMarketplaceServiceEnableCollectibleBundleSupport_Rollout": "True;60;2024-04-03T17:32:32",
+    "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken_Rollout": "True;60;2024-04-03T17:32:32",
+    "FStringFlagRepoGitHashFastString": "0629754765928aa45cae5f488d89c23caedf9d30",
+    "DFStringFlagRepoGitHashDynamicString": "0629754765928aa45cae5f488d89c23caedf9d30",
+    "FStringFlipTimeStampFastString": "2024-04-03T17:35:50.532Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T17:35:50.532Z"
 }
