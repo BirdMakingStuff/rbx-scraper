@@ -11169,7 +11169,7 @@
     "FFlagRemoveAppTempCommonTemp": "True",
     "FFlagUseFindInsteadOfCreateForVisit": "True",
     "FFlagConvAICodeRunner": "True",
-    "FFlagFriendsCarouselPaginatedFriendsWithUILoadingTime2": "True",
+    "FFlagFriendsCarouselPaginatedFriendsWithUILoadingTime2": "False",
     "FFlagFriendsCarouselUILoadingTime3": "True",
     "FFlagGraphicsVulkanDescriptorSetBindCSFix": "True",
     "FFlagGpuGeometryManagerIndexBufferAlignment2": "True",
@@ -11509,6 +11509,7 @@
     "FFlagELFSubsystemInternalFlowControl2": "True",
     "FFlagUseMachineIdUploaderInWindows": "True",
     "DFFlagFixInterpolationParallelTasks": "True",
+    "FFlagLuaAppSingleHoveredGridTile": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11959,6 +11960,7 @@
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
     "FFlagDebugLuaAppValidateProps": "True",
+    "FFlagInteractableStateForGuiObjects3_Rollout": "True;10;2024-04-03T19:59:04",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12000,8 +12002,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "6a473816279d17b31c43e472d493c0e112679492",
-    "DFStringFlagRepoGitHashDynamicString": "6a473816279d17b31c43e472d493c0e112679492",
-    "FStringFlipTimeStampFastString": "2024-04-03T19:35:57.298Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-03T19:35:57.298Z"
+    "FStringFlagRepoGitHashFastString": "69f08deb3a0d7c10d561962df0a132d9c137e0bf",
+    "DFStringFlagRepoGitHashDynamicString": "69f08deb3a0d7c10d561962df0a132d9c137e0bf",
+    "FStringFlipTimeStampFastString": "2024-04-03T20:00:41.058Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-03T20:00:41.058Z"
 }
