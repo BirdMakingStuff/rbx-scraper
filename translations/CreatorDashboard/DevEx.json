@@ -66,5 +66,7 @@
     "Label.AgreeToProvideInfoV2": "I acknowledge that I am required to provide information including but not limited to bank account details and tax documentation to a third party payment service in order to cash out.",
     "Label.AvailableRobux": "Available Robux: ",
     "Message.InvalidRobuxAmount": "Please enter a whole number",
-    "Message.CashOutBannerUpdate": "We have lowered the cash-out minimum requirement from 50,000 to 30,000 Robux.{lineBreak}{linkStart}Learn more on the DevForum.{linkEnd}"
+    "Message.CashOutBannerUpdate": "We have lowered the cash-out minimum requirement from 50,000 to 30,000 Robux.{lineBreak}{linkStart}Learn more on the DevForum.{linkEnd}",
+    "Label.RobuxEligible": "{robuxStart}{robuxEnd} eligible",
+    "Description.EligibleRobuxDisclaimer": "Eligible Robux is a daily estimate, delayed by at least three days and subject to approval. This figure is not a guarantee.\n"
 }
