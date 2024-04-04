@@ -7861,7 +7861,7 @@
     "FFlagUGCValidationAnalytics": "True",
     "FFlagSimSolverEnableLookAtConstraint2": "True",
     "FFlagEnableCanPerformBinaryUpdate": "True",
-    "FFlagDisableAddFriendsInCarousel": "True",
+    "FFlagDisableAddFriendsInCarousel": "False",
     "FFlagFixNonSelfCalls": "True",
     "FFlagImprovePluginSpeedMaterialGenerator": "True",
     "FFlagImprovePluginSpeedPivotEditor": "False",
@@ -12037,8 +12037,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "537f4a0a3478ccd673dba33eba7c7ea5a36f07b4",
-    "DFStringFlagRepoGitHashDynamicString": "537f4a0a3478ccd673dba33eba7c7ea5a36f07b4",
-    "FStringFlipTimeStampFastString": "2024-04-04T18:21:03.316Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T18:21:03.316Z"
+    "FStringFlagRepoGitHashFastString": "6f8b8cab40bc692b65e3723859e27bf50ada9d4a",
+    "DFStringFlagRepoGitHashDynamicString": "6f8b8cab40bc692b65e3723859e27bf50ada9d4a",
+    "FStringFlipTimeStampFastString": "2024-04-04T18:30:39.053Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T18:30:39.053Z"
 }

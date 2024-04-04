@@ -7861,7 +7861,7 @@
     "FFlagUGCValidationAnalytics": "True",
     "FFlagSimSolverEnableLookAtConstraint2": "True",
     "FFlagEnableCanPerformBinaryUpdate": "True",
-    "FFlagDisableAddFriendsInCarousel": "True",
+    "FFlagDisableAddFriendsInCarousel": "False",
     "FFlagFixNonSelfCalls": "True",
     "FFlagImprovePluginSpeedMaterialGenerator": "True",
     "FFlagImprovePluginSpeedPivotEditor": "False",
@@ -11729,8 +11729,8 @@
     "DFFlagPhysicsReportWorldTime1": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "0b3a71147e6e16b0c1a453067d610d55ecb2b70e",
-    "DFStringFlagRepoGitHashDynamicString": "0b3a71147e6e16b0c1a453067d610d55ecb2b70e",
-    "FStringFlipTimeStampFastString": "2024-04-04T18:15:44.561Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T18:15:44.561Z"
+    "FStringFlagRepoGitHashFastString": "6f8b8cab40bc692b65e3723859e27bf50ada9d4a",
+    "DFStringFlagRepoGitHashDynamicString": "6f8b8cab40bc692b65e3723859e27bf50ada9d4a",
+    "FStringFlipTimeStampFastString": "2024-04-04T18:30:39.053Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T18:30:39.053Z"
 }
