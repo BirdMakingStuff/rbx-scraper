@@ -11525,11 +11525,11 @@
     "FFlagHighlightsPerWorkspaceIds2": "True",
     "FFlagAbuseReportFullWidthCommentBox": "True",
     "FFlagAXFixNoItemsFoundPadding": "True",
-    "DFFlagBatchId4HotrodAccessorMigration_Rollout": "True;60;2024-04-04T21:51:52",
     "DFFlagBatchId3HotrodAccessorMigration_Rollout": "True;60;2024-04-04T22:46:44",
     "AndroidEnableBatteryPowerMetrics": "True",
     "FFlagInteractableStateForGuiObjects3_Rollout": "True;30;2024-04-04T23:05:32",
     "FFlagTenFootUiDisableContactImporter": "True",
+    "DFFlagBatchId4HotrodAccessorMigration": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12025,8 +12025,8 @@
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
     "FFlagVerbsWithNoContainerStats": "True",
-    "FStringFlagRepoGitHashFastString": "5af5de8895a063e8cf798cfa3f65fabb69b4487f",
-    "DFStringFlagRepoGitHashDynamicString": "5af5de8895a063e8cf798cfa3f65fabb69b4487f",
-    "FStringFlipTimeStampFastString": "2024-04-04T23:10:39.724Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T23:10:39.724Z"
+    "FStringFlagRepoGitHashFastString": "00933b8a0be3bf3466125c918e734cf88c8f0d67",
+    "DFStringFlagRepoGitHashDynamicString": "00933b8a0be3bf3466125c918e734cf88c8f0d67",
+    "FStringFlipTimeStampFastString": "2024-04-04T23:30:54.337Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T23:30:54.337Z"
 }
