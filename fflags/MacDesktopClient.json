@@ -11518,6 +11518,7 @@
     "DFIntPerformanceControlSoundLatencyFirstSegmentUtility": "-10",
     "DFIntPerformanceControlSoundLatencySecondSegmentUtility": "-250",
     "DFIntPerformanceControlSoundLatencyThirdSegmentUtility": "-140",
+    "FFlagAvatarPreviewerKeepAccessoriesInCheckFace2_Rollout": "True;60;2024-04-04T16:19:21",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11865,8 +11866,8 @@
     "FFlagEnableAdUnloadViewabilityEventReporting3": "True",
     "FFlagSendUnloadWithViewableImpression2": "True",
     "FFlagEnableVideoProgressEventReporting2": "True",
-    "FStringFlagRepoGitHashFastString": "7df7447eef5419867a6dcfe3d70efc9cdfe060ca",
-    "DFStringFlagRepoGitHashDynamicString": "7df7447eef5419867a6dcfe3d70efc9cdfe060ca",
-    "FStringFlipTimeStampFastString": "2024-04-04T00:45:38.603Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T00:45:38.603Z"
+    "FStringFlagRepoGitHashFastString": "f21c7a586f52caeb9fc35796e209db28eef04c47",
+    "DFStringFlagRepoGitHashDynamicString": "f21c7a586f52caeb9fc35796e209db28eef04c47",
+    "FStringFlipTimeStampFastString": "2024-04-04T16:20:06.864Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T16:20:06.864Z"
 }
