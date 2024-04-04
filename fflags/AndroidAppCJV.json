@@ -11973,6 +11973,11 @@
     "FFlagLaunchContextReducerEnabled": "True",
     "FFlagEnableOtpEmailLoginRelease1": "True",
     "FFlagFriendsCarouselPaginatedFriendsEnabled_v21": "True",
+    "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
+    "FFlagAnimationClipMemCacheEnabled_Rollout": "False;60;2024-04-04T17:26:07",
+    "FFlagLuaAppFooterLayoutDataBySort": "True",
+    "FFlagUpdateAvatarGestures_Rollout": "True;60;2024-04-04T17:34:28",
+    "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -12004,8 +12009,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "0dc92ab58dac1585d7d1cda96b08e2f8f11c2e7b",
-    "DFStringFlagRepoGitHashDynamicString": "0dc92ab58dac1585d7d1cda96b08e2f8f11c2e7b",
-    "FStringFlipTimeStampFastString": "2024-04-04T17:01:01.863Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T17:01:01.863Z"
+    "FStringFlagRepoGitHashFastString": "24a7003194b078abdeb1bcf94f4c79c0a4803ff6",
+    "DFStringFlagRepoGitHashDynamicString": "24a7003194b078abdeb1bcf94f4c79c0a4803ff6",
+    "FStringFlipTimeStampFastString": "2024-04-04T17:38:15.612Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T17:38:15.612Z"
 }
