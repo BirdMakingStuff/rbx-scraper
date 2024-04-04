@@ -92,7 +92,7 @@
     "enableDeveloperSubscriptionDescriptionUpdates": "true",
     "dynamicPriceFloorAssetWhitelist": "",
     "enableDynamicFloorNonLimitedPricing": "true",
-    "enableDynamicFloorNonLimitedPostLaunchBanner": "true",
+    "enableDynamicFloorNonLimitedPostLaunchBanner": "false",
     "enableRemoveShutDownServersButton": "false",
     "enableNotificationsAnalytics": "true",
     "enableUnifiedFeeSystem": "true",

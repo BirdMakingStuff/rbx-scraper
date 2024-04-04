@@ -12003,7 +12003,6 @@
     "FFlagUpdateAvatarGestures": "True",
     "FFlagAvatarPreviewerNewAnimations3": "True",
     "FFlagTerrainEditorGenerateBiomesFix3": "True",
-    "FFlagFixAvatarUtilCharacter_Rollout": "True;60;2024-04-04T20:44:21",
     "DFFlagAssetsUploadAddTeamCreateUploaderUserIdToRequest2": "True",
     "FFlagStudioManageCollabFixFocusError_Rollout": "True;60;2024-04-04T21:17:12",
     "FFlagAXFixNoItemsFoundWidgetsResults": "True",
@@ -12011,8 +12010,9 @@
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
     "FFlagHideDraggerPeekViewV3": "True",
     "DFFlagTeamCreateNewPlaceUploadUseNewFlow": "True",
-    "DFFlagTeamCreateNewPlaceUploadSaveRollout_Rollout": "True;5;2024-04-04T21:54:27",
     "DFIntTeamCreateNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "100;5;2024-04-04T21:56:04",
+    "FFlagFixAvatarUtilCharacter": "True",
+    "DFFlagTeamCreateNewPlaceUploadSaveRollout": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12055,8 +12055,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "d9b2ac7d6002ebf9823652e6385fdbc3d2cf71f4",
-    "DFStringFlagRepoGitHashDynamicString": "d9b2ac7d6002ebf9823652e6385fdbc3d2cf71f4",
-    "FStringFlipTimeStampFastString": "2024-04-04T22:01:13.660Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T22:01:13.660Z"
+    "FStringFlagRepoGitHashFastString": "5b20af54625766e6422baf668dbb7257e1c4d698",
+    "DFStringFlagRepoGitHashDynamicString": "5b20af54625766e6422baf668dbb7257e1c4d698",
+    "FStringFlipTimeStampFastString": "2024-04-04T22:35:49.109Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T22:35:49.109Z"
 }
