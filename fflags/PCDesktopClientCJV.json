@@ -11527,6 +11527,7 @@
     "FFlagAbuseReportFullWidthCommentBox": "True",
     "FFlagAXFixNoItemsFoundPadding": "True",
     "FFlagTenFootUiDisableContactImporter_Rollout": "True;60;2024-04-04T21:35:03",
+    "DFFlagBatchId4HotrodAccessorMigration_Rollout": "True;60;2024-04-04T21:51:52",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11872,9 +11873,10 @@
     "FFlagLuaAppFooterLayoutDataBySort": "True",
     "DFFlagVoiceChatTimeToUnmute": "True",
     "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
+    "DFFlagVideoFixPlayerStateOnClose_Rollout": "True;60;2024-04-04T21:41:44",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "af00d49ba002f7da133cb48f5da66f576a86f4e7",
-    "DFStringFlagRepoGitHashDynamicString": "af00d49ba002f7da133cb48f5da66f576a86f4e7",
-    "FStringFlipTimeStampFastString": "2024-04-04T21:36:06.850Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T21:36:06.850Z"
+    "FStringFlagRepoGitHashFastString": "d9b2ac7d6002ebf9823652e6385fdbc3d2cf71f4",
+    "DFStringFlagRepoGitHashDynamicString": "d9b2ac7d6002ebf9823652e6385fdbc3d2cf71f4",
+    "FStringFlipTimeStampFastString": "2024-04-04T22:01:13.660Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T22:01:13.660Z"
 }
