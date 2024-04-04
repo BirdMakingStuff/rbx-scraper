@@ -11518,6 +11518,9 @@
     "DFIntPerformanceControlSoundLatencyFirstSegmentUtility": "-10",
     "DFIntPerformanceControlSoundLatencySecondSegmentUtility": "-250",
     "DFIntPerformanceControlSoundLatencyThirdSegmentUtility": "-140",
+    "FFlagAvatarPreviewerKeepAccessoriesInCheckFace2_Rollout": "True;60;2024-04-04T17:38:44",
+    "FFlagTerrainToolsDontAskLocalized": "True",
+    "DFIntRestartFmodRecordingCooldownMs_Rollout": "4000;60;2024-04-04T18:18:30",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11726,8 +11729,8 @@
     "DFFlagPhysicsReportWorldTime1": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "24a7003194b078abdeb1bcf94f4c79c0a4803ff6",
-    "DFStringFlagRepoGitHashDynamicString": "24a7003194b078abdeb1bcf94f4c79c0a4803ff6",
-    "FStringFlipTimeStampFastString": "2024-04-04T17:38:15.612Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-04T17:38:15.612Z"
+    "FStringFlagRepoGitHashFastString": "0b3a71147e6e16b0c1a453067d610d55ecb2b70e",
+    "DFStringFlagRepoGitHashDynamicString": "0b3a71147e6e16b0c1a453067d610d55ecb2b70e",
+    "FStringFlipTimeStampFastString": "2024-04-04T18:15:44.561Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-04T18:15:44.561Z"
 }
