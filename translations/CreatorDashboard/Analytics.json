@@ -660,5 +660,7 @@
     "Label.Dimension.PlaceVersion": "Place Versions",
     "Description.FilterDrawer.FilterByCategory": "Filter By Category",
     "Label.SelectVersion": "Select Version",
-    "Footer.Table.NewUsersFunnel": "*Excludes new users that haven't reached a sufficient number of days for metric"
+    "Footer.Table.NewUsersFunnel": "*Excludes new users that haven't reached a sufficient number of days for metric",
+    "Label.SelectPlaceFirst": "Select place first",
+    "Label.NoVersionAvailable": "No version available"
 }

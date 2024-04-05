@@ -392,5 +392,7 @@
     "Label.EmptyStateAvatarItem": "Add avatar items",
     "Action.GoToDecals": "Go to decals",
     "Heading.CreateEvent": "Create Event",
-    "Heading.EventsEmptyUpsell": "Increase player engagement with Events"
+    "Heading.EventsEmptyUpsell": "Increase player engagement with Events",
+    "Tooltip.EventNameTooLong": "Event name is too long",
+    "Tooltip.EventDescriptionTooLong": "Event description is too long"
 }
