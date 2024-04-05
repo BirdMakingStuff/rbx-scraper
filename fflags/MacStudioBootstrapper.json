@@ -92,7 +92,7 @@
     "FFlagVerbsWithNoContainerStats": "True",
     "FFlagFixAvatarUtilCharacter": "True",
     "FFlagIBEnableSendCounters1": "True",
-    "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-05T17:48:29",
+    "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -101,8 +101,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "eb40fdb7ed8ae6edb6bbeaa36ec3f63ddfb1158c",
-    "DFStringFlagRepoGitHashDynamicString": "eb40fdb7ed8ae6edb6bbeaa36ec3f63ddfb1158c",
-    "FStringFlipTimeStampFastString": "2024-04-05T19:15:58.280Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-05T19:15:58.280Z"
+    "FStringFlagRepoGitHashFastString": "23a6d2cbe1a11d6b308cfb6f408627d6a14cb65d",
+    "DFStringFlagRepoGitHashDynamicString": "23a6d2cbe1a11d6b308cfb6f408627d6a14cb65d",
+    "FStringFlipTimeStampFastString": "2024-04-05T19:35:43.866Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-05T19:35:43.866Z"
 }
