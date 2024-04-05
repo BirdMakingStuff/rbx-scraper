@@ -11542,7 +11542,6 @@
     "FFlagRefPropMessageDot": "True",
     "DFFlagVideoFixPlayerStateOnClose": "True",
     "FFlagLateComponentRegistration": "True",
-    "FFlagTenFootUiSearch_Rollout": "True;60;2024-04-05T18:27:09",
     "FFlagScriptDebuggerNoWrongAncestry": "True",
     "FFlagTenFootUiPlayerSearch_Rollout": "True;60;2024-04-05T18:39:02",
     "FFlagScriptProfilerFunctionsViewUseSourceInfoForAnon": "True",
@@ -11554,6 +11553,7 @@
     "FFlagFixStepContactsAsyncPerformMT": "True",
     "FFlagEnablePSAccountProtocol": "True",
     "FFlagScriptProfilerJSONStringView": "True",
+    "FFlagTenFootUiSearch": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11762,8 +11762,8 @@
     "DFFlagPhysicsReportWorldTime1": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "23a6d2cbe1a11d6b308cfb6f408627d6a14cb65d",
-    "DFStringFlagRepoGitHashDynamicString": "23a6d2cbe1a11d6b308cfb6f408627d6a14cb65d",
-    "FStringFlipTimeStampFastString": "2024-04-05T19:35:43.866Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-05T19:35:43.866Z"
+    "FStringFlagRepoGitHashFastString": "4a30ffdc52a6c70b87ca294e522d9704a50995be",
+    "DFStringFlagRepoGitHashDynamicString": "4a30ffdc52a6c70b87ca294e522d9704a50995be",
+    "FStringFlipTimeStampFastString": "2024-04-05T20:10:42.838Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-05T20:10:42.838Z"
 }
