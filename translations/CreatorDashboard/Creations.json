@@ -394,5 +394,7 @@
     "Heading.CreateEvent": "Create Event",
     "Heading.EventsEmptyUpsell": "Increase player engagement with Events",
     "Tooltip.EventNameTooLong": "Event name is too long",
-    "Tooltip.EventDescriptionTooLong": "Event description is too long"
+    "Tooltip.EventDescriptionTooLong": "Event description is too long",
+    "Tooltip.InvalidEventName": "Invalid event name",
+    "Tooltip.InvalidEventDescription": "Invalid event description"
 }
