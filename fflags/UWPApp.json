@@ -11538,8 +11538,6 @@
     "FFlagUpdateFocusNavigationEffectsProps": "True",
     "FFlagUpdateModalBasedSelectorParent": "True",
     "FFlagGamepadSupportForAbuseReportMenu": "True",
-    "AxisAdornmentGrabSize": "12",
-    "AllowVideoPreRoll": "True",
     "DFFlagVideoFixPlayerStateOnClose_Rollout": "True;60;2024-04-05T16:51:43",
     "FFlagScriptDebuggerNoWrongAncestry_Rollout": "True;60;2024-04-05T16:59:55",
     "FFlagFixNotifyMovingCallbackThreading_Rollout": "True;60;2024-04-05T17:16:14",
@@ -11548,6 +11546,10 @@
     "FFlagLuauCodegenLoadTVTag_Rollout": "True;30;2024-04-05T17:19:42",
     "FFlagRefPropMessageDot_Rollout": "True;30;2024-04-05T17:20:02",
     "FFlagLateComponentRegistration_Rollout": "True;30;2024-04-05T17:21:54",
+    "FFlagScriptProfilerJSONStringView_Rollout": "True;60;2024-04-05T17:59:58",
+    "FFlagUseNewTerrainBroadPhase4_PlaceFilter": "True;4410049285",
+    "AllowVideoPreRoll": "True",
+    "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -11754,8 +11756,8 @@
     "DFFlagPhysicsReportWorldTime1": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "9990171cae5e65102765402a9e27dd9cb191b778",
-    "DFStringFlagRepoGitHashDynamicString": "9990171cae5e65102765402a9e27dd9cb191b778",
-    "FStringFlipTimeStampFastString": "2024-04-05T17:35:46.226Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-05T17:35:46.226Z"
+    "FStringFlagRepoGitHashFastString": "36a2ba1009099f9b1fd07670e9de3f1980eb9f70",
+    "DFStringFlagRepoGitHashDynamicString": "36a2ba1009099f9b1fd07670e9de3f1980eb9f70",
+    "FStringFlipTimeStampFastString": "2024-04-05T18:18:36.838Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-05T18:18:36.838Z"
 }

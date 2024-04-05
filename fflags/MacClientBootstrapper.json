@@ -92,6 +92,7 @@
     "FFlagVerbsWithNoContainerStats": "True",
     "FFlagFixAvatarUtilCharacter": "True",
     "FFlagIBEnableSendCounters1": "True",
+    "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry_Rollout": "True;60;2024-04-05T17:48:29",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -113,8 +114,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "9990171cae5e65102765402a9e27dd9cb191b778",
-    "DFStringFlagRepoGitHashDynamicString": "9990171cae5e65102765402a9e27dd9cb191b778",
-    "FStringFlipTimeStampFastString": "2024-04-05T17:35:46.226Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-05T17:35:46.226Z"
+    "FStringFlagRepoGitHashFastString": "36a2ba1009099f9b1fd07670e9de3f1980eb9f70",
+    "DFStringFlagRepoGitHashDynamicString": "36a2ba1009099f9b1fd07670e9de3f1980eb9f70",
+    "FStringFlipTimeStampFastString": "2024-04-05T18:18:36.838Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-05T18:18:36.838Z"
 }
