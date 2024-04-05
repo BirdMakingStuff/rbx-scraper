@@ -261,7 +261,7 @@
     "Label.PublishingAdvance": "Publishing Advance",
     "Action.PublishItem": "Publish Item",
     "Label.NoMinSalePriceAndDiscount": "Must specify minimum sale price when applying premium discounts",
-    "Error.FiatConfigurationGenericError": "Something went wrong configuring the Fiat product.",
+    "Error.FiatConfigurationGenericError": "Something went wrong configuring the product.",
     "Label.GroupOwnedAssetsIneligible": "Group-owned assets are ineligible for pricing. {docLinkStart}Learn more.{docLinkEnd}",
     "Label.Register": "Register",
     "Heading.SampleProduct": "Sample Product",
