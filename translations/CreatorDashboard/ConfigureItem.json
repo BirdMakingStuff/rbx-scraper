@@ -320,7 +320,7 @@
     "Label.NoLimit": "No Limit",
     "Message.LimitedItemQuantity": "Limited item must have quantity",
     "Message.QuantityExceedsQuota": "Quantity should be lower than 3000",
-    "Message.LimitedItemQuantityRange": "Limited item should have quantity between 1 and 3000",
+    "Message.LimitedItemQuantityRange": "Maximum quantity for non-free, limited items is 3,000",
     "Label.ItemTypeDescription": "To change UGC type, resubmit the model",
     "Message.CheckAccessError": "an error occurred when checking access.",
     "Message.SaveErrorMsgPrefix": "We could not save this item because",
