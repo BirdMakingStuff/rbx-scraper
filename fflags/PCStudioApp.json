@@ -11538,6 +11538,7 @@
     "FFlagUpdateFocusNavigationEffectsProps": "True",
     "FFlagUpdateModalBasedSelectorParent": "True",
     "FFlagGamepadSupportForAbuseReportMenu": "True",
+    "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "False;30;2024-04-05T16:35:00",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12057,8 +12058,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "496a0faa19e820fda6123dc8f7b1c10356ccbf0b",
-    "DFStringFlagRepoGitHashDynamicString": "496a0faa19e820fda6123dc8f7b1c10356ccbf0b",
-    "FStringFlipTimeStampFastString": "2024-04-05T01:36:05.819Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-05T01:36:05.819Z"
+    "FStringFlagRepoGitHashFastString": "c86564220d60bede9c2d55f43046ffe0e51fe3ce",
+    "DFStringFlagRepoGitHashDynamicString": "c86564220d60bede9c2d55f43046ffe0e51fe3ce",
+    "FStringFlipTimeStampFastString": "2024-04-05T16:35:57.792Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-05T16:35:57.792Z"
 }
