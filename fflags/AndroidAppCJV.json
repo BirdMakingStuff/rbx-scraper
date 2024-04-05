@@ -11538,8 +11538,11 @@
     "FFlagUpdateFocusNavigationEffectsProps": "True",
     "FFlagUpdateModalBasedSelectorParent": "True",
     "FFlagGamepadSupportForAbuseReportMenu": "True",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
+    "AllowVideoPreRoll": "True",
+    "DFFlagVideoFixPlayerStateOnClose_Rollout": "True;60;2024-04-05T16:51:43",
+    "FFlagScriptDebuggerNoWrongAncestry_Rollout": "True;60;2024-04-05T16:59:55",
+    "FFlagFixNotifyMovingCallbackThreading_Rollout": "True;60;2024-04-05T17:16:14",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "CatalogPromoAssetId": "-1",
@@ -12004,6 +12007,7 @@
     "FFlagHideDraggerPeekViewV3": "True",
     "FFlagFixAvatarUtilCharacter": "True",
     "FFlagIBEnableSendCounters1": "True",
+    "DFFlagHarmonyStreamingNewMetrics_Rollout": "True;60;2024-04-05T16:54:06",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -12035,8 +12039,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "c86564220d60bede9c2d55f43046ffe0e51fe3ce",
-    "DFStringFlagRepoGitHashDynamicString": "c86564220d60bede9c2d55f43046ffe0e51fe3ce",
-    "FStringFlipTimeStampFastString": "2024-04-05T16:35:57.792Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-05T16:35:57.792Z"
+    "FStringFlagRepoGitHashFastString": "c325a7d7cb2e5c1a07784282e050e82f77dc1611",
+    "DFStringFlagRepoGitHashDynamicString": "c325a7d7cb2e5c1a07784282e050e82f77dc1611",
+    "FStringFlipTimeStampFastString": "2024-04-05T17:18:25.185Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-05T17:18:25.185Z"
 }

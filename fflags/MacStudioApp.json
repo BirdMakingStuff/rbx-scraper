@@ -11539,6 +11539,10 @@
     "FFlagUpdateModalBasedSelectorParent": "True",
     "FFlagGamepadSupportForAbuseReportMenu": "True",
     "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "False;30;2024-04-05T16:35:00",
+    "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "False;30;2024-04-05T16:35:29",
+    "DFFlagVideoFixPlayerStateOnClose_Rollout": "True;60;2024-04-05T16:51:43",
+    "FFlagScriptDebuggerNoWrongAncestry_Rollout": "True;60;2024-04-05T16:59:55",
+    "FFlagFixNotifyMovingCallbackThreading_Rollout": "True;60;2024-04-05T17:16:14",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12024,6 +12028,8 @@
     "DFFlagTeamCreateNewPlaceUploadSaveRollout": "True",
     "FFlagStudioManageCollabFixFocusError": "True",
     "FFlagIBEnableSendCounters1": "True",
+    "FFlagLuauCodegenCheckTruthyFormB_Rollout": "True;60;2024-04-05T17:12:46",
+    "FFlagLuauCodegenInferNumTag_Rollout": "True;60;2024-04-05T17:13:55",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12066,8 +12072,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "c86564220d60bede9c2d55f43046ffe0e51fe3ce",
-    "DFStringFlagRepoGitHashDynamicString": "c86564220d60bede9c2d55f43046ffe0e51fe3ce",
-    "FStringFlipTimeStampFastString": "2024-04-05T16:35:57.792Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-05T16:35:57.792Z"
+    "FStringFlagRepoGitHashFastString": "c325a7d7cb2e5c1a07784282e050e82f77dc1611",
+    "DFStringFlagRepoGitHashDynamicString": "c325a7d7cb2e5c1a07784282e050e82f77dc1611",
+    "FStringFlipTimeStampFastString": "2024-04-05T17:18:25.185Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-05T17:18:25.185Z"
 }
