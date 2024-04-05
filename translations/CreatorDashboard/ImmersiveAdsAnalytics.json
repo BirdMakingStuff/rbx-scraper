@@ -75,7 +75,7 @@
     "Title.TotalDailyImpressions": "Total Daily Impressions",
     "Title.ImageImpressions": "Image Impressions",
     "Label.Total": "Total",
-    "Title.VideoViews": "Video Views",
+    "Title.VideoViews": "Video Views*",
     "Description.TotalRobuxEarnings": "Total Robux amount earned from immersive ads in this experience across all ad formats.",
     "Description.AverageGeneratedFromTeleports": "The average Robux amount earned for every teleport generated from Portal ad units in this experience.",
     "Description.TotalImpressionsFromImageAds": "Total number of impressions generated from image ad units in this experience.",
@@ -92,5 +92,8 @@
     "Label.TotalVideoViewsDisplaySubtext": "*The chart displays monetizable video views",
     "Heading.Eligibility": "Eligibility",
     "Heading.Analytics": "Analytics",
-    "Description.ImmersiveAdsOverviewAndCompliance": "Immersive ads provides a new monetization opportunity for creators. To see how they work and how to use them, check out our guide on {linkStart}immersive ads{linkEnd}. \nAd Publisher must maintain compliance with the Roblox Terms of Use, the Community Standards, and the Advertising Standards."
+    "Description.ImmersiveAdsOverviewAndCompliance": "Immersive ads provides a new monetization opportunity for creators. To see how they work and how to use them, check out our guide on {linkStart}immersive ads{linkEnd}. \nAd Publisher must maintain compliance with the Roblox Terms of Use, the Community Standards, and the Advertising Standards.",
+    "Description.MonetizableViewsDisclaimer": "*The chart displays monetizable video views",
+    "Description.ImpressionsDisclaimer": "*Impressions from Portal Ads do not contribute to earnings",
+    "Label.ImpressionsSummaryWithDisclaimer": "Total Impressions*"
 }
