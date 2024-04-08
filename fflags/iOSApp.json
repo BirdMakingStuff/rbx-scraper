@@ -11572,8 +11572,6 @@
     "DFFlagSimDisableNonWorkspacePhysicsOwnerVis": "True",
     "DFFlagSimFuzzyEqualWeldConstraint": "True",
     "DFFlagXboxGamerCardTelemetry": "True",
-    "FFlagLuauCompileNoJumpLineRetarget_Rollout": "True;60;2024-04-08T18:46:22",
-    "FFlagFixPseudoInstanceBugs_Rollout": "True;60;2024-04-08T18:49:50",
     "FFlagTenFootUiHideFriendsTools": "True",
     "FFlagDragDetectorUsesPermissionPolicyRevised2": "True",
     "DFFlagPhysicsReportWorldTime1": "True",
@@ -11603,6 +11601,10 @@
     "FFlagEnableFriendsListAnimation": "True",
     "FFlagAvatarPreviewerPaletteContextMenu_Rollout": "True;60;2024-04-08T20:19:00",
     "FFlagAvatarPreviewerRemoveEquippedItemsOnHover_Rollout": "True;60;2024-04-08T20:19:21",
+    "FFlagLuauCompileNoJumpLineRetarget": "True",
+    "FFlagFixPseudoInstanceBugs": "True",
+    "FFlagDevFrameworkAssetRenderModelEnableSky_Rollout": "True;60;2024-04-08T20:22:02",
+    "DFFlagFixHumanoidPlayEmoteCrash_Rollout": "True;60;2024-04-08T20:24:53",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12041,8 +12043,8 @@
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
-    "FStringFlagRepoGitHashFastString": "ffb05abb15f564ea36c2840f9caf19a5a01b1973",
-    "DFStringFlagRepoGitHashDynamicString": "ffb05abb15f564ea36c2840f9caf19a5a01b1973",
-    "FStringFlipTimeStampFastString": "2024-04-08T20:19:59.376Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-08T20:19:59.376Z"
+    "FStringFlagRepoGitHashFastString": "a6543e7ce1ceb154c3efaa5691bb4969499dfbbf",
+    "DFStringFlagRepoGitHashDynamicString": "a6543e7ce1ceb154c3efaa5691bb4969499dfbbf",
+    "FStringFlipTimeStampFastString": "2024-04-08T20:25:35.667Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-08T20:25:35.667Z"
 }
