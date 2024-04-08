@@ -662,5 +662,11 @@
     "Label.SelectVersion": "Select Version",
     "Footer.Table.NewUsersFunnel": "*Excludes new users that haven't reached a sufficient number of days for metric",
     "Label.SelectPlaceFirst": "Select place first",
-    "Label.NoVersionAvailable": "No version available"
+    "Label.NoVersionAvailable": "No version available",
+    "Action.ResetAll": "Reset All",
+    "Label.Dimension.FunnelStep": "Step",
+    "Label.Metric.StepCompletion": "Step Completion",
+    "Label.Metric.Churn": "Churn",
+    "Label.Metric.TotalConversion": "Total Conversion",
+    "Heading.Funnels": "Funnels"
 }
