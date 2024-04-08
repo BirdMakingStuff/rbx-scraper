@@ -89,7 +89,6 @@
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
     "FFlagUpdateAvatarGestures": "True",
-    "FFlagVerbsWithNoContainerStats": "True",
     "FFlagFixAvatarUtilCharacter": "True",
     "FFlagIBEnableSendCounters1": "True",
     "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
@@ -114,8 +113,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "b33d5f3b03fd0d45a0df2d3422f1f9e4fa7d2c4b",
-    "DFStringFlagRepoGitHashDynamicString": "b33d5f3b03fd0d45a0df2d3422f1f9e4fa7d2c4b",
-    "FStringFlipTimeStampFastString": "2024-04-08T19:31:11.679Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-08T19:31:11.679Z"
+    "FStringFlagRepoGitHashFastString": "ffb05abb15f564ea36c2840f9caf19a5a01b1973",
+    "DFStringFlagRepoGitHashDynamicString": "ffb05abb15f564ea36c2840f9caf19a5a01b1973",
+    "FStringFlipTimeStampFastString": "2024-04-08T20:19:59.376Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-08T20:19:59.376Z"
 }
