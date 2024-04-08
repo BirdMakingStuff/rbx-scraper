@@ -97,5 +97,8 @@
     "Description.ImpressionsDisclaimer": "*Impressions from Portal Ads do not contribute to earnings",
     "Label.ImpressionsSummaryWithDisclaimer": "Total Impressions*",
     "Label.TypeLegendValidated": "Validated",
-    "Label.TypeLegendUnvalidated": "Unvalidated"
+    "Label.TypeLegendUnvalidated": "Unvalidated",
+    "Description.ChecklistForEligibility": "To serve immersive ads to your experience, complete and meet the checklist requirements below, and then you're ready to go!",
+    "Description.VerifyID": "Verify your ID to confirm you are at least 18 years old",
+    "Description.VerifyIDDetails": "Experience owner or group owner must be at least 18 years old and ID verified."
 }
