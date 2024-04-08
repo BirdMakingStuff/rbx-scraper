@@ -93,7 +93,9 @@
     "Heading.Eligibility": "Eligibility",
     "Heading.Analytics": "Analytics",
     "Description.ImmersiveAdsOverviewAndCompliance": "Immersive ads provides a new monetization opportunity for creators. To see how they work and how to use them, check out our guide on {linkStart}immersive ads{linkEnd}. \nAd Publisher must maintain compliance with the Roblox Terms of Use, the Community Standards, and the Advertising Standards.",
-    "Description.MonetizableViewsDisclaimer": "*The chart displays monetizable video views",
+    "Description.MonetizableViewsDisclaimer": "*Data displays total video views that are monetizable",
     "Description.ImpressionsDisclaimer": "*Impressions from Portal Ads do not contribute to earnings",
-    "Label.ImpressionsSummaryWithDisclaimer": "Total Impressions*"
+    "Label.ImpressionsSummaryWithDisclaimer": "Total Impressions*",
+    "Label.TypeLegendValidated": "Validated",
+    "Label.TypeLegendUnvalidated": "Unvalidated"
 }
