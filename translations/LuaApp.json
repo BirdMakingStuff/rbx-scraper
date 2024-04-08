@@ -2450,6 +2450,14 @@
         },
         {
             "namespace": "CommonUI.Controls",
+            "key": "Action.Done",
+            "description": "Created by hyang@roblox.com\nModified by hyang@roblox.com\nCreated by hyang@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Done",
+            "translation": "Done",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "CommonUI.Controls",
             "key": "Action.GotIt",
             "description": "Action for accepting the contents of an educational dialog or tooltip\nCreated by dgriffin@roblox.com\nModified by sngo@roblox.com\nCreated by dgriffin@roblox.com\nModified by bdeng@roblox.com",
             "english": "Got It",
