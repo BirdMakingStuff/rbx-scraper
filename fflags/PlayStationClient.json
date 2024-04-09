@@ -9090,7 +9090,7 @@
     "DFIntLogMessageTruncateLimit": "980000",
     "FFlagLuaAppDeprecateGamesImageSetLabel": "True",
     "DFFlagCollectibleItemPurchaseDevApiLocalPromptResellAuthEnabled": "True",
-    "DFFlagCollectibleItemPurchaseResellEnabled": "True",
+    "DFFlagCollectibleItemPurchaseResellEnabled": "False",
     "FFlagCollectibleItemPurchaseResellNetworkEnabled": "True",
     "FFlagDisplayCollectiblesIcon": "True",
     "DFFlagRccSetPartitionIdInCrashHandler": "True",
@@ -11563,7 +11563,7 @@
     "FFlagSelfViewUpdatedCamFraming": "True",
     "DFFlagClientRolloutPhaseTelemetry": "True",
     "DFFlagDisableRolloutTaggingUnexposed": "True",
-    "FFlagSelfViewRemoveVPFWhenClosed": "True",
+    "FFlagSelfViewRemoveVPFWhenClosed": "False",
     "FFlagFixAppStudioDependency": "True",
     "FFlagAvatarPreviewerFixAvatarTilt": "True",
     "FFlagStudioAsyncComponentSimplification": "True",
@@ -11622,6 +11622,7 @@
     "FFlagClientFRMManualToAutoExperimentCheck": "True",
     "DFFlagTeleportServiceCallEvent": "True",
     "FFlagFixAudioPlayerLoadedSignaling": "True",
+    "FFlagTenFootMoreSettingsAndAboutRefactor_Rollout": "True;30;2024-04-09T15:57:18",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11784,8 +11785,8 @@
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
-    "FStringFlagRepoGitHashFastString": "46151fcab7f820a9ac421304dcfb4fc6a13f1be8",
-    "DFStringFlagRepoGitHashDynamicString": "46151fcab7f820a9ac421304dcfb4fc6a13f1be8",
-    "FStringFlipTimeStampFastString": "2024-04-09T02:35:42.323Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-09T02:35:42.323Z"
+    "FStringFlagRepoGitHashFastString": "e1afb98c3e6c5e588c0760f0ad6d5ca159e242ce",
+    "DFStringFlagRepoGitHashDynamicString": "e1afb98c3e6c5e588c0760f0ad6d5ca159e242ce",
+    "FStringFlipTimeStampFastString": "2024-04-09T16:00:50.342Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-09T16:00:50.342Z"
 }
