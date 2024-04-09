@@ -100,5 +100,5 @@
     "enablePackageVersionDescriptions": "true",
     "enableAutomaticTranslationUpdates": "false",
     "enableCreatorHubNotificationTray": "true",
-    "enableConfigureCommentCheckBox": "false"
+    "enableConfigureCommentCheckBox": "true"
 }
