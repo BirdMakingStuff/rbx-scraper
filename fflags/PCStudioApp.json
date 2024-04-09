@@ -11640,10 +11640,10 @@
     "FFlagRIDE7916StudioEmulatorFixCalibratePhysicalSize": "True",
     "FFlagSelectRotatedGuiObjects": "True",
     "FFlagOmniSearchSystemInfo": "True",
-    "FFlagSupportSmoothScaleRichText2_Rollout": "True;10;2024-04-09T21:36:01",
     "FFlagAvatarChatServiceExposeUserVerifiedForVoice_PlaceFilter": "True;17083276694",
     "FFlagVoiceChatV2UseControlPlaneIsolationTag": "True",
     "FFlagCAPDebounceTimeoutWhenContentReceived": "True",
+    "FFlagSupportSmoothScaleRichText2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12146,8 +12146,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "4b5c3dc85a3bc18f9602c2690b94470555fa4378",
-    "DFStringFlagRepoGitHashDynamicString": "4b5c3dc85a3bc18f9602c2690b94470555fa4378",
-    "FStringFlipTimeStampFastString": "2024-04-09T22:15:57.089Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-09T22:15:57.089Z"
+    "FStringFlagRepoGitHashFastString": "da0059bfbf1dcd385cce205af058b7f0d7b5a247",
+    "DFStringFlagRepoGitHashDynamicString": "da0059bfbf1dcd385cce205af058b7f0d7b5a247",
+    "FStringFlipTimeStampFastString": "2024-04-09T22:21:22.494Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-09T22:21:22.494Z"
 }
