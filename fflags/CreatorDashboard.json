@@ -99,5 +99,6 @@
     "enableDeveloperPage": "true",
     "enablePackageVersionDescriptions": "true",
     "enableAutomaticTranslationUpdates": "false",
-    "enableCreatorHubNotificationTray": "true"
+    "enableCreatorHubNotificationTray": "true",
+    "enableConfigureCommentCheckBox": "false"
 }
