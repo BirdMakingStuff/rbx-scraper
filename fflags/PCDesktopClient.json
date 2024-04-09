@@ -11627,7 +11627,6 @@
     "FFlagSessionL2ContextFocusNoUnknown": "True",
     "DFFlagCollectibleItemPurchaseDevApiResellEnabled": "True",
     "FFlagUnifyInferredCrashViewInitializedCall": "True",
-    "FFlagAppChatEventReceiverRefactorRefresh_Rollout": "True;60;2024-04-09T17:56:23",
     "FFlagRIDE7916StudioEmulatorFixCalibratePhysicalSize_Rollout": "True;60;2024-04-09T18:07:31",
     "FFlagDevFrameworkTostringQueryParams": "True",
     "FFlagFixStartupMessageLinking": "True",
@@ -11639,6 +11638,7 @@
     "DFFlagPleaseDontUseOStringStream": "True",
     "FFlagEnableGiftCardsDeepLink": "True",
     "DFFlagEnableRobloxCreditPurchase2": "True",
+    "FFlagAppChatEventReceiverRefactorRefresh": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11978,8 +11978,8 @@
     "DFFlagVoiceChatTimeToUnmute": "True",
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
-    "FStringFlagRepoGitHashFastString": "c58485e83b5a00674d25244d91fd0afbf3b176e6",
-    "DFStringFlagRepoGitHashDynamicString": "c58485e83b5a00674d25244d91fd0afbf3b176e6",
-    "FStringFlipTimeStampFastString": "2024-04-09T19:11:53.304Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-09T19:11:53.304Z"
+    "FStringFlagRepoGitHashFastString": "c1e1580449b0a65fed3f4e0d725efaa380ab0b0a",
+    "DFStringFlagRepoGitHashDynamicString": "c1e1580449b0a65fed3f4e0d725efaa380ab0b0a",
+    "FStringFlipTimeStampFastString": "2024-04-09T19:35:24.096Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-09T19:35:24.096Z"
 }
