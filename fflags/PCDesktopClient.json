@@ -11496,7 +11496,6 @@
     "FFlagFixIgnoreAllGamepad": "True",
     "FFlagFriendsLandingSafeAreaPadding": "True",
     "FFlagAvatarPreviewerAutoSetupFixPositioning": "True",
-    "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagFixStatusBarTouchedHandlingIOS": "True",
     "FFlagMobileMorePageScrollToTop": "True",
     "FFlagMobileScrollToTopLogging": "True",
@@ -11644,6 +11643,9 @@
     "FFlagVoiceChatV2UseControlPlaneIsolationTag": "True",
     "FFlagCAPDebounceTimeoutWhenContentReceived": "True",
     "FFlagSupportSmoothScaleRichText2": "True",
+    "DFFlagAdditionalMemoryOutsideCurrentRadiusIXPCheck_Rollout": "True;60;2024-04-09T22:52:02",
+    "DFFlagMoveTunableTargetUpdateToBeginningOfFrame_Rollout": "True;60;2024-04-09T22:52:09",
+    "FFlagTenFootUiDisableInviteFriends": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11983,8 +11985,8 @@
     "DFFlagVoiceChatTimeToUnmute": "True",
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
-    "FStringFlagRepoGitHashFastString": "da0059bfbf1dcd385cce205af058b7f0d7b5a247",
-    "DFStringFlagRepoGitHashDynamicString": "da0059bfbf1dcd385cce205af058b7f0d7b5a247",
-    "FStringFlipTimeStampFastString": "2024-04-09T22:21:22.494Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-09T22:21:22.494Z"
+    "FStringFlagRepoGitHashFastString": "c708ff49e2a584d3aaef27fb19331e85199fbf8d",
+    "DFStringFlagRepoGitHashDynamicString": "c708ff49e2a584d3aaef27fb19331e85199fbf8d",
+    "FStringFlipTimeStampFastString": "2024-04-09T23:15:33.769Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-09T23:15:33.769Z"
 }
