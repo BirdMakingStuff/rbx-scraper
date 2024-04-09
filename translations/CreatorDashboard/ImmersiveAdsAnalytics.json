@@ -100,5 +100,13 @@
     "Label.TypeLegendUnvalidated": "Unvalidated",
     "Description.ChecklistForEligibility": "To serve immersive ads to your experience, complete and meet the checklist requirements below, and then you're ready to go!",
     "Description.VerifyID": "Verify your ID to confirm you are at least 18 years old",
-    "Description.VerifyIDDetails": "Experience owner or group owner must be at least 18 years old and ID verified."
+    "Description.VerifyIDDetails": "Experience owner or group owner must be at least 18 years old and ID verified.",
+    "Description.VerifyTwoStep": "Enable 2-Step Verification",
+    "Description.VerifyTwoStepDetails": "Experience owner or group owner must enable 2-Step Verification.",
+    "Description.VerifyPublicExperience": "Make the experience public",
+    "Description.VerifyPublicExperienceDetails": "Change experience privacy settings to “Public” in your experience content settings.",
+    "Description.VerifyQuestionnaire": "Complete the Experience Guidelines Questionnaire ",
+    "Description.VerifyQuestionnaireDetails": "Complete the questionnaire under the “Audience” section on the left navigation.",
+    "Description.VerifyMAU": "2K Monthly Active Users",
+    "Description.VerifyMAUDetails": "Your experience must maintain 2,000 unique visitors per month."
 }
