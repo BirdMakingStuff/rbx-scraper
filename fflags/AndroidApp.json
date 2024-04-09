@@ -12040,7 +12040,7 @@
     "FFlagShouldUseSelectionRowInAccountSelectionRelease1": "True",
     "DFIntIosDeprecationDate": "1714374000000",
     "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
-    "DFIntIosDeprecationPhase": "2",
+    "DFIntIosDeprecationPhase": "0",
     "FFlagTelemetryRevampPurchase3": "True",
     "FFlagTelemetryRevampClicks2": "True",
     "FFlagAXTileSizeIXPEnabled": "True",
@@ -12098,8 +12098,8 @@
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
-    "FStringFlagRepoGitHashFastString": "4a0d5467b26bb477a9d662d995babab4bae2b387",
-    "DFStringFlagRepoGitHashDynamicString": "4a0d5467b26bb477a9d662d995babab4bae2b387",
-    "FStringFlipTimeStampFastString": "2024-04-09T01:35:49.248Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-09T01:35:49.248Z"
+    "FStringFlagRepoGitHashFastString": "46151fcab7f820a9ac421304dcfb4fc6a13f1be8",
+    "DFStringFlagRepoGitHashDynamicString": "46151fcab7f820a9ac421304dcfb4fc6a13f1be8",
+    "FStringFlipTimeStampFastString": "2024-04-09T02:35:42.323Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-09T02:35:42.323Z"
 }
