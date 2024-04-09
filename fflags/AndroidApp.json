@@ -11618,10 +11618,10 @@
     "FFlagVerbsWithNoContainerRecordToggle": "True",
     "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
     "FFlagVerbsWithNoContainerScreenshot": "True",
-    "FFlagFixAudioPlayerLoadedSignaling_Rollout": "True;60;2024-04-08T23:44:01",
     "FFlagDevFrameworkStudioDesignFixRobloxDevCli": "True",
     "FFlagClientFRMManualToAutoExperimentCheck": "True",
     "DFFlagTeleportServiceCallEvent": "True",
+    "FFlagFixAudioPlayerLoadedSignaling": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12098,8 +12098,8 @@
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "FFlagInternationalNamesIXPSetupEnabled_v2": "True",
-    "FStringFlagRepoGitHashFastString": "7f7f5704fd17148ce7abc4026afa2abf64f38aae",
-    "DFStringFlagRepoGitHashDynamicString": "7f7f5704fd17148ce7abc4026afa2abf64f38aae",
-    "FStringFlipTimeStampFastString": "2024-04-09T01:05:31.142Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-09T01:05:31.142Z"
+    "FStringFlagRepoGitHashFastString": "4a0d5467b26bb477a9d662d995babab4bae2b387",
+    "DFStringFlagRepoGitHashDynamicString": "4a0d5467b26bb477a9d662d995babab4bae2b387",
+    "FStringFlipTimeStampFastString": "2024-04-09T01:35:49.248Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-09T01:35:49.248Z"
 }
