@@ -108,5 +108,6 @@
     "Description.VerifyQuestionnaire": "Complete the Experience Guidelines Questionnaire ",
     "Description.VerifyQuestionnaireDetails": "Complete the questionnaire under the “Audience” section on the left navigation.",
     "Description.VerifyMAU": "2K Monthly Active Users",
-    "Description.VerifyMAUDetails": "Your experience must maintain 2,000 unique visitors per month."
+    "Description.VerifyMAUDetails": "Your experience must maintain 2,000 unique visitors per month.",
+    "Label.InsertAds": "Insert Ads in Studio"
 }
