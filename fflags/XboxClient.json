@@ -11641,9 +11641,9 @@
     "FFlagVoiceChatV2UseControlPlaneIsolationTag": "True",
     "FFlagCAPDebounceTimeoutWhenContentReceived": "True",
     "FFlagTenFootUiDisableInviteFriends": "True",
-    "FFlagAvatarChatServiceExposeUserVerifiedForVoice_Rollout": "True;60;2024-04-09T23:56:07",
     "DFFlagAdditionalMemoryOutsideCurrentRadiusIXPCheck": "True",
     "DFFlagMoveTunableTargetUpdateToBeginningOfFrame": "True",
+    "FFlagAvatarChatServiceExposeUserVerifiedForVoice": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11955,8 +11955,8 @@
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "FFlagEnableFriendsLandingControllerBar2": "True",
-    "FStringFlagRepoGitHashFastString": "3f16e4f66e535ca9ef5cd9ab4458e40c8f09bdd4",
-    "DFStringFlagRepoGitHashDynamicString": "3f16e4f66e535ca9ef5cd9ab4458e40c8f09bdd4",
-    "FStringFlipTimeStampFastString": "2024-04-10T00:45:48.323Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-10T00:45:48.323Z"
+    "FStringFlagRepoGitHashFastString": "5c70e1bb97c740e74085842026bf878e5c6d357d",
+    "DFStringFlagRepoGitHashDynamicString": "5c70e1bb97c740e74085842026bf878e5c6d357d",
+    "FStringFlipTimeStampFastString": "2024-04-10T01:40:37.476Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-10T01:40:37.476Z"
 }
