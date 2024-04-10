@@ -397,5 +397,17 @@
     "Tooltip.EventDescriptionTooLong": "Event description is too long",
     "Tooltip.InvalidEventName": "Invalid event name",
     "Tooltip.InvalidEventDescription": "Invalid event description",
-    "Error.EventQuotaExceeded": "You have exceeded the quota for creating and publishing events. Please try again later"
+    "Error.EventQuotaExceeded": "You have exceeded the quota for creating and publishing events. Please try again later",
+    "Error.ElapsedEvent": "Operation is not allowed on past or canceled events",
+    "Error.InvalidEventStatus": "Invalid event status",
+    "Error.InvalidEventStatusTransition": "Invalid event status transition",
+    "Error.InvalidRSVPStatus": "Invalid RSVP status",
+    "Error.EventStartEndTime": "Invalid start or end time",
+    "Error.EventTitleDescription": "Invalid event title or description",
+    "Error.MaxEventDuration": "Maximum event duration exceeded",
+    "Error.EventPermissionForUniverse": "You do not have permission to create an event for this universe",
+    "Error.EventID": "Invalid event ID",
+    "Error.ModeratedEventDescription": "Event description has been moderated",
+    "Error.ModeratedEventTitle": "Event title has been moderated",
+    "Error.EventNotFound": "Event not found"
 }
