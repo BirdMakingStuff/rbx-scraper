@@ -396,5 +396,6 @@
     "Tooltip.EventNameTooLong": "Event name is too long",
     "Tooltip.EventDescriptionTooLong": "Event description is too long",
     "Tooltip.InvalidEventName": "Invalid event name",
-    "Tooltip.InvalidEventDescription": "Invalid event description"
+    "Tooltip.InvalidEventDescription": "Invalid event description",
+    "Error.EventQuotaExceeded": "You have exceeded the quota for creating and publishing events. Please try again later"
 }

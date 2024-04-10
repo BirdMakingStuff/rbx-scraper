@@ -620,7 +620,7 @@
     "Description.Table.RevenuePerUser1D": "Cumulative revenue, excluding subscriptions, engagement payouts, and immersive ads, for new players acquired in the date range on their first day divided by the number of new players acquired in the date range",
     "Description.Table.PlaytimePerUser7D": "Cumulative playtime for new players acquired in the date range in their first 7 days divided by the number of new players acquired in the date range",
     "Title.Table.PayerConversion1D": "1D Payer Conversion (Cumulative)*",
-    "Title.Table.PayerConversion30D": "30D Player Conversion (Cumulative)*",
+    "Title.Table.PayerConversion30D": "30D Payer Conversion (Cumulative)*",
     "Title.Table.RevenuePerUser30D": "30D Revenue Per User (Cumulative)*",
     "Title.Table.UsersWithDetailPageVisits": "Users With Detail Page Visits",
     "Description.Table.RevenuePerUser30D": "Cumulative revenue, excluding subscriptions, engagement payouts, and immersive ads, for new players acquired in the date range in their first 30 days divided by the number of new players acquired in the date range",
@@ -668,5 +668,14 @@
     "Label.Metric.StepCompletion": "Step Completion",
     "Label.Metric.Churn": "Churn",
     "Label.Metric.TotalConversion": "Total Conversion",
-    "Heading.Funnels": "Funnels"
+    "Heading.Funnels": "Funnels",
+    "Label.Dimension.Gender": "Gender",
+    "Label.Dimension.AgeGroup": "Age Group",
+    "Label.Dimension.OperatingSystem": "Operating System",
+    "Title.TopSourcesByNewUsersWithPlays": "Top Sources by New Users with Plays",
+    "Description.TopSourcesByNewUsersWithPlays": "Top sources by unique new users who played.",
+    "Title.TopSourcesBy30DRevenuePerUser": "Top Sources by 30D Revenue per User (Cumulative)*",
+    "Description.TopSourcesBy30DRevenuePerUser": "Excludes new users that haven't reached 30 days yet.",
+    "Warning.SubscriptionEngagementPayoutsPortalAdsRevenueExcluded": "Excludes revenue from subscriptions, engagement payouts, and portal ads.",
+    "Label.AverageNetFlowOverSelectedPeriod": "Average net flow over selected period"
 }
