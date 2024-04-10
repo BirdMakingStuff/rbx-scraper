@@ -9090,7 +9090,7 @@
     "DFIntLogMessageTruncateLimit": "980000",
     "FFlagLuaAppDeprecateGamesImageSetLabel": "True",
     "DFFlagCollectibleItemPurchaseDevApiLocalPromptResellAuthEnabled": "True",
-    "DFFlagCollectibleItemPurchaseResellEnabled": "True",
+    "DFFlagCollectibleItemPurchaseResellEnabled": "False",
     "FFlagCollectibleItemPurchaseResellNetworkEnabled": "True",
     "FFlagDisplayCollectiblesIcon": "True",
     "DFFlagRccSetPartitionIdInCrashHandler": "True",
@@ -12007,8 +12007,8 @@
     "DFFlagVoiceChatTimeToUnmute": "True",
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
-    "FStringFlagRepoGitHashFastString": "053b92176a2456018f7fb16fe2a0b8660f3f2fbf",
-    "DFStringFlagRepoGitHashDynamicString": "053b92176a2456018f7fb16fe2a0b8660f3f2fbf",
-    "FStringFlipTimeStampFastString": "2024-04-10T18:55:34.653Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-10T18:55:34.653Z"
+    "FStringFlagRepoGitHashFastString": "6d05d5161987f2089787b07875e773af775c4620",
+    "DFStringFlagRepoGitHashDynamicString": "6d05d5161987f2089787b07875e773af775c4620",
+    "FStringFlipTimeStampFastString": "2024-04-10T19:01:06.712Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-10T19:01:06.712Z"
 }
