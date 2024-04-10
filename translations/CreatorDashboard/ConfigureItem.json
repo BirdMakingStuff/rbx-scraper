@@ -319,10 +319,12 @@
     "Label.LimitHelperQuota": "Limit cannot exceed 500",
     "Label.NoLimit": "No Limit",
     "Message.LimitedItemQuantity": "Limited item must have quantity",
-    "Message.QuantityExceedsQuota": "Quantity should be lower than 3000",
+    "Message.QuantityExceedsQuota": "Quantity should be lower than 3,000",
     "Message.LimitedItemQuantityRange": "Maximum quantity for non-free, limited items is 3,000",
     "Label.ItemTypeDescription": "To change UGC type, resubmit the model",
     "Message.CheckAccessError": "an error occurred when checking access.",
     "Message.SaveErrorMsgPrefix": "We could not save this item because",
-    "Message.AccessDenied": "access is denied"
+    "Message.AccessDenied": "access is denied",
+    "Message.NameOrDescriptionModerated": "the uploaded content name or description was moderated.",
+    "Message.NotEnoughRobux": "the user does not have enough Robux to pay."
 }

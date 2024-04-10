@@ -152,7 +152,7 @@
     "Label.PastEvents": "Past Events",
     "Label.StartTime": "From",
     "Label.EndTime": "To",
-    "Action.PublishEvent": "Publish event",
+    "Action.PublishEvent": "Publish Event",
     "Action.SaveDraft": "Save Draft",
     "Label.EventTitle": "Event Name",
     "Error.FailedToPublish": "Unable to publish event, please try again later",

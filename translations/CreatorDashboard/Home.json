@@ -187,5 +187,8 @@
     "Description.ExpertsProgram": "Gain knowledge and expertise directly from Roblox",
     "Heading.ExpertsProgram": "Learn from the Roblox staff",
     "Heading.VideoOnboarding": "Get Started",
-    "Description.VideoOnboarding": "Watch a quick introduction to creating on Roblox, then jump into Studio"
+    "Description.VideoOnboarding": "Watch a quick introduction to creating on Roblox, then jump into Studio",
+    "Heading.GetRobloxStudio": "Get Roblox Studio",
+    "Description.GetRobloxStudio": "Use our all-in-one creation engine to build anything you can imagine",
+    "Label.Download": "Download"
 }
