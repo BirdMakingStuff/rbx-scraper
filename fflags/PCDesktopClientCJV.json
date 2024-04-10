@@ -11651,7 +11651,7 @@
     "FFlagUWPRemoveDeviceHandle": "True",
     "FFlagCAPDMHierarchyContext3": "True",
     "FFlagUWPSkipDeviceInitialize": "True",
-    "FFlagUseUnscaledBvhTree_Rollout": "True;60;2024-04-10T18:52:55",
+    "FFlagUseUnscaledBvhTree": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11992,8 +11992,8 @@
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "59e51b6d6ef41c38d32e0323ca8c82d2957b6c5c",
-    "DFStringFlagRepoGitHashDynamicString": "59e51b6d6ef41c38d32e0323ca8c82d2957b6c5c",
-    "FStringFlipTimeStampFastString": "2024-04-10T20:15:50.884Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-10T20:15:50.884Z"
+    "FStringFlagRepoGitHashFastString": "4789f68fac3f7b715f94b6b15d401ec77635bc94",
+    "DFStringFlagRepoGitHashDynamicString": "4789f68fac3f7b715f94b6b15d401ec77635bc94",
+    "FStringFlipTimeStampFastString": "2024-04-10T20:35:59.986Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-10T20:35:59.986Z"
 }
