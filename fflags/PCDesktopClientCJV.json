@@ -12016,10 +12016,10 @@
     "FIntRuntimeMaxNumOfConditions": "2400",
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "DFFlagCLI94314_DataCenterFilter": "True;361;356",
-    "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-11T17:40:43",
+    "DFFlagEnableViewPortSizeTracking": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "4667f8678b9c715b55ec5e09d1ca31b88a3eafb9",
-    "DFStringFlagRepoGitHashDynamicString": "4667f8678b9c715b55ec5e09d1ca31b88a3eafb9",
-    "FStringFlipTimeStampFastString": "2024-04-11T19:06:08.104Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-11T19:06:08.104Z"
+    "FStringFlagRepoGitHashFastString": "586031a1a130ebb3b94f46ada254c50cb71f9f41",
+    "DFStringFlagRepoGitHashDynamicString": "586031a1a130ebb3b94f46ada254c50cb71f9f41",
+    "FStringFlipTimeStampFastString": "2024-04-11T19:37:57.900Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-11T19:37:57.900Z"
 }
