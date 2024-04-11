@@ -4003,7 +4003,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.PasskeyCreated",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Passkey Created",
             "translation": "Passkey Created",
             "isDeprecated": false
@@ -4011,7 +4011,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Description.PasskeySkips2sv",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Every time you log in with a passkey, you’ll skip your chosen 2-Step Verification method. This is because passkeys are very secure and help verify that you’re in possession of your physical device.",
             "translation": "Every time you log in with a passkey, you’ll skip your chosen 2-Step Verification method. This is because passkeys are very secure and help verify that you’re in possession of your physical device.",
             "isDeprecated": false
@@ -4043,7 +4043,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.LoginMethods",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Login Methods",
             "translation": "Login Methods",
             "isDeprecated": false
@@ -25668,8 +25668,8 @@
             "namespace": "Feature.Parents",
             "key": "Description.DifferentEmail",
             "description": "Created by jhou@roblox.com\nModified by pyu@roblox.com\nCreated by jhou@roblox.com\nModified by bdeng@roblox.com",
-            "english": "This email already belongs to a parent account. In your email inbox, open the permission request again and select Use an Existing Account.",
-            "translation": "This email already belongs to a parent account. In your email inbox, open the permission request again and select Use an Existing Account.",
+            "english": "This email already belongs to a parent account. In your email inbox, open the permission request again and select Use Existing Account.",
+            "translation": "This email already belongs to a parent account. In your email inbox, open the permission request again and select Use Existing Account.",
             "isDeprecated": false
         },
         {
