@@ -67,7 +67,7 @@
     "Message.DeactivateSubscriptionPrompt": "Current subscribers will no longer be able to renew their subscription. However, users’ current benefits will remain in effect until their subscription expires.",
     "Error.InputTextModerated": "Text moderated, please update.",
     "Message.IdOrPhoneVerification": "You need to be ID or phone verified to create subscriptions.",
-    "Message.ExperienceCreationCriteria": "Also, your experience can't be moderated and had to be created before September 1, 2023 to meet the criteria. {LinkStart}Learn more{LinkEnd}",
+    "Message.ExperienceCreationCriteria": "Also, your experience can't be moderated. {LinkStart}Learn more{LinkEnd}",
     "Label.ID": "ID",
     "Message.CopiedSubscriptionID": "Copied Subscription ID",
     "Label.SubscriptionID": "Subscription ID",
