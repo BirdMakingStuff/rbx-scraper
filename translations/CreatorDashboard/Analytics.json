@@ -674,7 +674,7 @@
     "Label.Dimension.OperatingSystem": "Operating System",
     "Title.TopSourcesByNewUsersWithPlays": "Top Sources by New Users with Plays",
     "Description.TopSourcesByNewUsersWithPlays": "Top sources by unique new users who played.",
-    "Title.TopSourcesBy30DRevenuePerUser": "Top Source by 30D Revenue Per New User (Cumulative)*",
+    "Title.TopSourcesBy30DRevenuePerUser": "Top Sources by 30D Revenue Per New User (Cumulative)*",
     "Description.TopSourcesBy30DRevenuePerUser": "Excludes new users that haven't reached 30 days yet.",
     "Warning.SubscriptionEngagementPayoutsPortalAdsRevenueExcluded": "*Excludes revenue from subscriptions, engagement payouts, and portal ads.",
     "Label.AverageNetFlowOverSelectedPeriod": "Average net flow over selected period"
