@@ -23609,14 +23609,6 @@
             "isDeprecated": false
         },
         {
-            "namespace": "Feature.Squads",
-            "key": "Label.SelectedFriendsCount",
-            "description": "TextLabel that shows how many friends a user has selected on a checkbox menu. For example, if the user selects 3 friends and the friend selection limit is 5, the string will read \"3/5 friends selected\". Created by wwen@roblox.com",
-            "english": "{numerator}/{denominator} friends selected",
-            "translation": "{numerator}/{denominator} friends selected",
-            "isDeprecated": false
-        },
-        {
             "namespace": "CoreScripts.Ads",
             "key": "Label.InExperienceDisclosureStatic",
             "description": "Disclosure for EU DSA Compliance",
@@ -26606,6 +26598,14 @@
             "description": "Webview title ",
             "english": "Policy Update",
             "translation": "Policy Update",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.FriendsMenu",
+            "key": "Label.SelectedFriendsCount",
+            "description": "TextLabel that shows how many friends a user has selected on a checkbox menu. For example, if the user selects 3 friends and the friend selection limit is 5, the string will read \"3/5 friends selected\". Created by wwen@roblox.com",
+            "english": "{numerator}/{denominator} friends selected",
+            "translation": "{numerator}/{denominator} friends selected",
             "isDeprecated": false
         }
     ],
