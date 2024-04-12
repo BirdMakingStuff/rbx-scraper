@@ -190,5 +190,11 @@
     "Description.VideoOnboarding": "Watch a quick introduction to creating on Roblox, then jump into Studio",
     "Heading.GetRobloxStudio": "Get Roblox Studio",
     "Description.GetRobloxStudio": "Use our all-in-one creation engine to build anything you can imagine",
-    "Label.Download": "Download"
+    "Label.Download": "Download",
+    "Heading.LearnWithAIAssistant": "Learn with AI Assistant",
+    "Action.OpenAssistant": "Open Assistant",
+    "Description.LearnWithAIAssistant": "Get help writing code and answers to your creation questions",
+    "Description.BrowseStore": "Find models, scripts, and plugins made by other creators",
+    "Action.ViewItems": "View Items",
+    "Heading.BrowseStore": "Browse the Store"
 }

@@ -110,5 +110,8 @@
     "Description.VerifyMAU": "2K Monthly Active Users",
     "Description.VerifyMAUDetails": "Your experience must maintain 2,000 unique visitors per month.",
     "Label.InsertAds": "Insert Ads in Studio",
-    "Label.IDVerification": "ID Verification"
+    "Label.TwoStepVerification": "2-Step Verification",
+    "Label.IDVerification": "ID Verification",
+    "Label.ContentSettings": "Content Settings",
+    "Label.Questionnaire": "Questionnaire"
 }
