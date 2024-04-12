@@ -7565,7 +7565,7 @@
     "FFlagCOLLAB4802_FixManageCollabLanguageBug": "True",
     "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
     "FFlagDragDetectorJointType": "True",
-    "DFFlagSimulateNewDynamicFlagRolloutCheck": "False",
+    "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
     "FFlagSimulateNewStaticFlagRolloutCheck": "False",
     "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
     "FFlagBootcampCLI84830": "True",
@@ -11694,7 +11694,6 @@
     "FFlagEnableViewableImpressionEventReporting2": "True",
     "EnableAndroidBtMicRaceFix": "True",
     "FFlagToolboxOpenAssetPreviewIfFiatCannotBeInserted": "True",
-    "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-04-12T18:55:24",
     "FFlagSendUnloadWithViewableImpression2": "True",
     "FFlagCAPInstanceTrackerForUndoTelemetry": "True",
     "FFlagUseAESGetOutfitDetailsInApp2": "True",
@@ -11859,8 +11858,8 @@
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
     "FFlagEnableFriendsLandingControllerBar2": "True",
-    "FStringFlagRepoGitHashFastString": "839c31d571f7a83e91899047ad928430e0f048a4",
-    "DFStringFlagRepoGitHashDynamicString": "839c31d571f7a83e91899047ad928430e0f048a4",
-    "FStringFlipTimeStampFastString": "2024-04-12T20:00:48.950Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-12T20:00:48.950Z"
+    "FStringFlagRepoGitHashFastString": "09b93d612e3ec9c43c9ef9c772e4c263d33ceffe",
+    "DFStringFlagRepoGitHashDynamicString": "09b93d612e3ec9c43c9ef9c772e4c263d33ceffe",
+    "FStringFlipTimeStampFastString": "2024-04-12T20:31:24.349Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-12T20:31:24.349Z"
 }
