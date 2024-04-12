@@ -11691,6 +11691,7 @@
     "FFlagPath2DEnabled15": "True",
     "FFlagPath2DFixSerializerZeroSize": "True",
     "FFlagPath2DGuiRTCacheImpl2": "True",
+    "FFlagEnableViewableImpressionEventReporting2_Rollout": "True;60;2024-04-12T16:12:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12213,8 +12214,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "36390474fe9da375e4b30a1d90aa643bd34a3d95",
-    "DFStringFlagRepoGitHashDynamicString": "36390474fe9da375e4b30a1d90aa643bd34a3d95",
-    "FStringFlipTimeStampFastString": "2024-04-12T16:11:38.989Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-12T16:11:38.989Z"
+    "FStringFlagRepoGitHashFastString": "df1256ff558b5343de809b62418a90964720520f",
+    "DFStringFlagRepoGitHashDynamicString": "df1256ff558b5343de809b62418a90964720520f",
+    "FStringFlipTimeStampFastString": "2024-04-12T16:26:07.472Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-12T16:26:07.472Z"
 }
