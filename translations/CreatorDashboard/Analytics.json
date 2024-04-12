@@ -677,5 +677,7 @@
     "Title.TopSourcesBy30DRevenuePerUser": "Top Sources by 30D Revenue per New User (Cumulative)*",
     "Description.TopSourcesBy30DRevenuePerUser": "Excludes new users that haven't reached 30 days yet.",
     "Warning.SubscriptionEngagementPayoutsPortalAdsRevenueExcluded": "*Excludes revenue from subscriptions, engagement payouts, and portal ads.",
-    "Label.AverageNetFlowOverSelectedPeriod": "Average net flow over selected period"
+    "Label.AverageNetFlowOverSelectedPeriod": "Average net flow over selected period",
+    "Description.Dimension.AcquisitionSource.HomeNonRecommendation": "Includes curated sorts and Favorites.",
+    "Description.AcquisitionPlaysPerSource": "Unique users who played from each source."
 }

@@ -301,7 +301,7 @@
     "Message.OptionalPriceFloorDescription": "Your item will never be priced below this amount. The item price will be the greater of the amount above the price floor and the minimum price.",
     "Action.Ok": "OK",
     "Message.SavingUnsuccessful": "Saving Unsuccessful",
-    "Label.ExperiencesbyPlaceId": "Experiences by Place Id\n",
+    "Label.ExperiencesbyPlaceId": "Experiences by Place ID\n",
     "Message.PublishingUnsuccessful": "Publishing Unsuccessful",
     "Label.PublishDisclaimerPartI": "By publishing, you agree to our",
     "Label.PublishAdvanceInfoDialogExample": "The following is an example: ",
