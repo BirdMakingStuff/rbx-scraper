@@ -11692,12 +11692,12 @@
     "FFlagPath2DFixSerializerZeroSize": "True",
     "FFlagPath2DGuiRTCacheImpl2": "True",
     "FFlagEnableViewableImpressionEventReporting2": "True",
-    "FFlagSendUnloadWithViewableImpression2_Rollout": "True;60;2024-04-12T17:48:45",
-    "FFlagCAPInstanceTrackerForUndoTelemetry_Rollout": "True;60;2024-04-12T17:52:12",
     "EnableAndroidBtMicRaceFix": "True",
     "FFlagUseAESGetOutfitDetailsInApp2_Rollout": "True;60;2024-04-12T18:18:22",
     "FFlagToolboxOpenAssetPreviewIfFiatCannotBeInserted": "True",
     "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-04-12T18:55:24",
+    "FFlagSendUnloadWithViewableImpression2": "True",
+    "FFlagCAPInstanceTrackerForUndoTelemetry": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12208,8 +12208,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "e0138e24495d459f0937f95534d5a68355830675",
-    "DFStringFlagRepoGitHashDynamicString": "e0138e24495d459f0937f95534d5a68355830675",
-    "FStringFlipTimeStampFastString": "2024-04-12T19:15:37.670Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-12T19:15:37.670Z"
+    "FStringFlagRepoGitHashFastString": "8a2bf8e6d2d57b756a7f161a844d66bd81bc4936",
+    "DFStringFlagRepoGitHashDynamicString": "8a2bf8e6d2d57b756a7f161a844d66bd81bc4936",
+    "FStringFlipTimeStampFastString": "2024-04-12T19:29:56.736Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-12T19:29:56.736Z"
 }
