@@ -12171,8 +12171,8 @@
     "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
     "DFFlagCLI94314_DataCenterFilter": "True;361;356",
     "DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs": "5000",
-    "FStringFlagRepoGitHashFastString": "407b02b2cec11fed833874aa32fe3188068bbe88",
-    "DFStringFlagRepoGitHashDynamicString": "407b02b2cec11fed833874aa32fe3188068bbe88",
-    "FStringFlipTimeStampFastString": "2024-04-12T01:05:46.089Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-12T01:05:46.089Z"
+    "FStringFlagRepoGitHashFastString": "36390474fe9da375e4b30a1d90aa643bd34a3d95",
+    "DFStringFlagRepoGitHashDynamicString": "36390474fe9da375e4b30a1d90aa643bd34a3d95",
+    "FStringFlipTimeStampFastString": "2024-04-12T16:11:38.989Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-12T16:11:38.989Z"
 }
