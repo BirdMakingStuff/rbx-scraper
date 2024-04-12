@@ -409,5 +409,7 @@
     "Error.EventID": "Invalid event ID",
     "Error.ModeratedEventDescription": "Event description has been moderated",
     "Error.ModeratedEventTitle": "Event title has been moderated",
-    "Error.EventNotFound": "Event not found"
+    "Error.EventNotFound": "Event not found",
+    "Tooltip.InvalidEventStartTime": "Invalid start time",
+    "Tooltip.InvalidEventEndTime": "Invalid end time"
 }
