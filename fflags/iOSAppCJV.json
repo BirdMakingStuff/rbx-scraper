@@ -10760,7 +10760,7 @@
     "DFIntRemoteSaveValidatorFailureTelemetryThrottleHundredthsPercent": "10000",
     "FFlagStudioNewPlaceUploadPublishRollout": "False",
     "FFlagLuauHeapExpandableEllipsis": "True",
-    "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent": "2500",
+    "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent": "5000",
     "FFlagStudioAlwaysShowSouthRegionsWhenEmpty": "True",
     "FFlagExportPathCheckEnabled": "True",
     "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
@@ -11692,6 +11692,7 @@
     "FFlagPath2DFixSerializerZeroSize": "True",
     "FFlagPath2DGuiRTCacheImpl2": "True",
     "FFlagEnableViewableImpressionEventReporting2_Rollout": "True;60;2024-04-12T16:12:36",
+    "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2024-04-12T16:35:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12166,8 +12167,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "df1256ff558b5343de809b62418a90964720520f",
-    "DFStringFlagRepoGitHashDynamicString": "df1256ff558b5343de809b62418a90964720520f",
-    "FStringFlipTimeStampFastString": "2024-04-12T16:26:07.472Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-12T16:26:07.472Z"
+    "FStringFlagRepoGitHashFastString": "aaa0a0ea7b5296b5c3ffbc7c5edef367295e776a",
+    "DFStringFlagRepoGitHashDynamicString": "aaa0a0ea7b5296b5c3ffbc7c5edef367295e776a",
+    "FStringFlipTimeStampFastString": "2024-04-12T17:15:54.325Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-12T17:15:54.325Z"
 }
