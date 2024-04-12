@@ -11694,6 +11694,9 @@
     "FFlagEnableViewableImpressionEventReporting2": "True",
     "AllowVideoPreRoll": "True",
     "FFlagCAPInstanceTrackerForUndoTelemetry_Rollout": "True;60;2024-04-12T17:52:12",
+    "EnableAndroidBtMicRaceFix": "True",
+    "FFlagUseAESGetOutfitDetailsInApp2_Rollout": "True;60;2024-04-12T18:18:22",
+    "FFlagToolboxOpenAssetPreviewIfFiatCannotBeInserted": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12037,8 +12040,8 @@
     "FIntMaxTimestepMultiplierVelocity": "4",
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
     "FFlagRunSoundCacheTunableV2BranchIXP_Rollout": "True;60;2024-04-12T17:41:35",
-    "FStringFlagRepoGitHashFastString": "73b3e338b6102324c058685af675d19dc38caf30",
-    "DFStringFlagRepoGitHashDynamicString": "73b3e338b6102324c058685af675d19dc38caf30",
-    "FStringFlipTimeStampFastString": "2024-04-12T18:01:06.605Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-12T18:01:06.605Z"
+    "FStringFlagRepoGitHashFastString": "cd39f2fdb306b72840c928d0b8a774627b35bda7",
+    "DFStringFlagRepoGitHashDynamicString": "cd39f2fdb306b72840c928d0b8a774627b35bda7",
+    "FStringFlipTimeStampFastString": "2024-04-12T18:35:38.267Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-12T18:35:38.267Z"
 }
