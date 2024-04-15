@@ -83,7 +83,6 @@
     "FFlagIBFixl20HasQuantityPurchase": "True",
     "FFlagGamepadInputUIPosition": "True",
     "FFlagMacInstallerFixCancelAsNotFail": "True",
-    "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -93,6 +92,7 @@
     "FFlagIBEnableSendCounters1": "True",
     "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
     "FFlagEnableAdminWebView2Installation": "True",
+    "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing_Rollout": "True;60;2024-04-15T17:16:15",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -107,8 +107,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FStringFlagRepoGitHashFastString": "eda721596ef31f1db6b7a05a3ca94a6e6e758ebd",
-    "DFStringFlagRepoGitHashDynamicString": "eda721596ef31f1db6b7a05a3ca94a6e6e758ebd",
-    "FStringFlipTimeStampFastString": "2024-04-15T17:12:19.081Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-15T17:12:19.081Z"
+    "FStringFlagRepoGitHashFastString": "05e7a0c632c2b6e0eecddc843594aca585f1e0b5",
+    "DFStringFlagRepoGitHashDynamicString": "05e7a0c632c2b6e0eecddc843594aca585f1e0b5",
+    "FStringFlipTimeStampFastString": "2024-04-15T17:37:09.540Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-15T17:37:09.540Z"
 }
