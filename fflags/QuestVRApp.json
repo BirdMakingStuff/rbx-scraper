@@ -11698,6 +11698,7 @@
     "FFlagCAPInstanceTrackerForUndoTelemetry": "True",
     "FFlagUseAESGetOutfitDetailsInApp2": "True",
     "FFlagUseLargerCDLCodeFontForVRV2_Rollout": "True;60;2024-04-15T16:32:11",
+    "FFlagErrorPromptResizesHeight_Rollout": "True;60;2024-04-15T16:46:09",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12203,8 +12204,8 @@
     "FFlagGamepadInputUIPosition": "True",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
-    "FStringFlagRepoGitHashFastString": "31b61608aafe16f7a5c93f72fa1832d75d646f09",
-    "DFStringFlagRepoGitHashDynamicString": "31b61608aafe16f7a5c93f72fa1832d75d646f09",
-    "FStringFlipTimeStampFastString": "2024-04-15T16:33:36.486Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-15T16:33:36.486Z"
+    "FStringFlagRepoGitHashFastString": "eda721596ef31f1db6b7a05a3ca94a6e6e758ebd",
+    "DFStringFlagRepoGitHashDynamicString": "eda721596ef31f1db6b7a05a3ca94a6e6e758ebd",
+    "FStringFlipTimeStampFastString": "2024-04-15T17:12:19.081Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-15T17:12:19.081Z"
 }
