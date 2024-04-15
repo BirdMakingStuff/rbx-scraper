@@ -11694,10 +11694,10 @@
     "FFlagEnableViewableImpressionEventReporting2": "True",
     "EnableAndroidBtMicRaceFix": "True",
     "FFlagToolboxOpenAssetPreviewIfFiatCannotBeInserted": "True",
-    "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-04-12T18:55:24",
     "FFlagSendUnloadWithViewableImpression2": "True",
     "FFlagCAPInstanceTrackerForUndoTelemetry": "True",
     "FFlagUseAESGetOutfitDetailsInApp2": "True",
+    "FFlagUseLargerCDLCodeFontForVRV2_Rollout": "True;60;2024-04-15T16:32:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12220,8 +12220,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "839c31d571f7a83e91899047ad928430e0f048a4",
-    "DFStringFlagRepoGitHashDynamicString": "839c31d571f7a83e91899047ad928430e0f048a4",
-    "FStringFlipTimeStampFastString": "2024-04-12T20:00:48.950Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-12T20:00:48.950Z"
+    "FStringFlagRepoGitHashFastString": "31b61608aafe16f7a5c93f72fa1832d75d646f09",
+    "DFStringFlagRepoGitHashDynamicString": "31b61608aafe16f7a5c93f72fa1832d75d646f09",
+    "FStringFlipTimeStampFastString": "2024-04-15T16:33:36.486Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-15T16:33:36.486Z"
 }
