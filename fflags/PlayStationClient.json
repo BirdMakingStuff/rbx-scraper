@@ -11708,7 +11708,6 @@
     "DFFlagSimSolverLevitationLiberateImpulseLimit2": "True",
     "FFlagEnableCollectibleCheckToPurchaseItem": "True",
     "FFlagFixNonCollectibleBundleOwnedCheck": "True",
-    "FFlagOpenURLUseRequestResponseLua_Rollout": "True;60;2024-04-15T18:53:16",
     "FFlagMarketplaceServiceEnableCollectibleBundleSupport": "True",
     "FFlagAddFriendsHeaderUseToken": "True",
     "FFlagLuaAppRenderNativeDeviceAccessTokenEnabled": "True",
@@ -11719,6 +11718,8 @@
     "FFlagFixMaxInstancesPerBatch": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
     "DFFlagSimSolverOptimizeNoConstraintIslandizing": "True",
+    "FFlagOpenURLUseRequestResponseLua": "True",
+    "FFlagLuaAppFooterLayoutDataBySort_Rollout": "True;60;2024-04-15T20:29:05",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11880,8 +11881,8 @@
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
     "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
-    "FStringFlagRepoGitHashFastString": "c2e83f54bcc965bc0e9144db4449a1b5308e17d4",
-    "DFStringFlagRepoGitHashDynamicString": "c2e83f54bcc965bc0e9144db4449a1b5308e17d4",
-    "FStringFlipTimeStampFastString": "2024-04-15T20:16:05.462Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-15T20:16:05.462Z"
+    "FStringFlagRepoGitHashFastString": "d819a64e63b8abcfd0ba86faa123e88040a8a60b",
+    "DFStringFlagRepoGitHashDynamicString": "d819a64e63b8abcfd0ba86faa123e88040a8a60b",
+    "FStringFlipTimeStampFastString": "2024-04-15T20:29:46.240Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-15T20:29:46.240Z"
 }
