@@ -11740,7 +11740,6 @@
     "DFFlagFacsNoEmptyContainerAccess": "True",
     "DFFlagFixCharacterEmptyOptRead": "True",
     "FFlagLuaAppSplitWordTruncationTiles": "True",
-    "DFFlagEnableViewPortSizeTracking_Rollout": "True;60;2024-04-16T17:48:49",
     "FFlagEnableCredentialsProtocolPasswords": "True",
     "EnableCredentialManagerPasswordMigration": "True",
     "FFlagPrintWarningForClampedColorValues": "True",
@@ -11762,6 +11761,8 @@
     "FFlagMeshCreationWithFluidFidelity_Rollout": "True;60;2024-04-16T19:00:58",
     "FFlagSimSolverImprovedAeroForce2_Rollout": "True;60;2024-04-16T19:01:03",
     "FFlagFixRelocationCheck": "True",
+    "FFlagEnableVideoAdsClickToPlay_Rollout": "True;60;2024-04-16T19:18:17",
+    "DFFlagEnableViewPortSizeTracking": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12263,8 +12264,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagGamepadInputUIPosition": "True",
-    "FStringFlagRepoGitHashFastString": "8a60b9d6993beb35b4cd446678512dafd7a3d30d",
-    "DFStringFlagRepoGitHashDynamicString": "8a60b9d6993beb35b4cd446678512dafd7a3d30d",
-    "FStringFlipTimeStampFastString": "2024-04-16T19:06:38.602Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-16T19:06:38.602Z"
+    "FStringFlagRepoGitHashFastString": "6bf64f8ee03dba568dca1b5d8f3989b8015ebe5c",
+    "DFStringFlagRepoGitHashDynamicString": "6bf64f8ee03dba568dca1b5d8f3989b8015ebe5c",
+    "FStringFlipTimeStampFastString": "2024-04-16T19:36:40.838Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-16T19:36:40.838Z"
 }
