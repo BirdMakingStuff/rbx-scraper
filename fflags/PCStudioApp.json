@@ -11770,6 +11770,12 @@
     "DFFlagSimSolverAerodynamicNewNewton": "True",
     "FFlagMeshCreationWithFluidFidelity": "True",
     "FFlagSimSolverImprovedAeroForce2": "True",
+    "DFFlagEnableAlwaysMuteOnExitFullscreen_Rollout": "True;30;2024-04-16T20:39:33",
+    "FFlagEnableCommonFriendsMenu2": "True",
+    "FFlagFriendsCarouselIXPfriendsSort": "True",
+    "DFFlagWorkspaceInsertPoint_Rollout": "True;30;2024-04-16T21:02:17",
+    "DFFlagEnableNextGenDevProductPurchaseIxpRollout2_Rollout": "True;30;2024-04-16T21:11:36",
+    "FLogNavigation_Rollout": "Error;60;2024-04-16T21:16:45",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12283,8 +12289,8 @@
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "DFFlagCLI94314_DataCenterFilter": "True;361;356",
-    "FStringFlagRepoGitHashFastString": "d17a6bffbaead29ea802620df1f2d298f7c5d504",
-    "DFStringFlagRepoGitHashDynamicString": "d17a6bffbaead29ea802620df1f2d298f7c5d504",
-    "FStringFlipTimeStampFastString": "2024-04-16T20:36:50.094Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-16T20:36:50.094Z"
+    "FStringFlagRepoGitHashFastString": "f036da7785b2a232435a5334c7ac24a88657bb26",
+    "DFStringFlagRepoGitHashDynamicString": "f036da7785b2a232435a5334c7ac24a88657bb26",
+    "FStringFlipTimeStampFastString": "2024-04-16T21:17:13.407Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-16T21:17:13.407Z"
 }
