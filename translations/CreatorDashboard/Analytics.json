@@ -679,5 +679,6 @@
     "Warning.SubscriptionEngagementPayoutsPortalAdsRevenueExcluded": "*Excludes revenue from subscriptions, engagement payouts, and portal ads.",
     "Label.AverageNetFlowOverSelectedPeriod": "Average net flow over selected period",
     "Description.Dimension.AcquisitionSource.HomeNonRecommendation": "Includes curated sorts and Favorites.",
-    "Description.AcquisitionPlaysPerSource": "Unique users who played from each source."
+    "Description.AcquisitionPlaysPerSource": "Unique users who played from each source.",
+    "Label.Dimension.PayerStatus": "Payer vs Non-Payer"
 }
