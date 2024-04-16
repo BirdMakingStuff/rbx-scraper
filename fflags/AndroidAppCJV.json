@@ -11738,6 +11738,7 @@
     "FFlagStudioPropertyUiSuperFilter_Rollout": "True;30;2024-04-16T16:17:15",
     "FFlagLuauCodegenInferNumTag_Rollout": "True;30;2024-04-16T16:18:16",
     "FFlagLuauCodegenDetailedCompilationResult_Rollout": "True;30;2024-04-16T16:19:06",
+    "FFlagStudioMoveCreatePluginServices_Rollout": "True;60;2024-04-16T16:27:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12251,8 +12252,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "a64fdf37eb93b49f6076beda3097272e37f40538",
-    "DFStringFlagRepoGitHashDynamicString": "a64fdf37eb93b49f6076beda3097272e37f40538",
-    "FStringFlipTimeStampFastString": "2024-04-16T16:20:29.514Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-16T16:20:29.514Z"
+    "FStringFlagRepoGitHashFastString": "922955f53cb263a9978f0770f31870677614a868",
+    "DFStringFlagRepoGitHashDynamicString": "922955f53cb263a9978f0770f31870677614a868",
+    "FStringFlipTimeStampFastString": "2024-04-16T16:27:46.503Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-16T16:27:46.503Z"
 }

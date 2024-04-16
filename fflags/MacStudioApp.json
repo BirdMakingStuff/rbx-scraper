@@ -11738,6 +11738,7 @@
     "CaptureQTStudioCountersEnabled": "True",
     "AllowVideoPreRoll": "True",
     "CaptureCountersIntervalInMinutes": "5",
+    "FFlagStudioMoveCreatePluginServices_Rollout": "True;60;2024-04-16T16:27:11",
     "DFFlagCLI120342": "False",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
     "DFFlagDebugVisualizerTrackRotationPredictions": "True",
@@ -12266,8 +12267,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "a64fdf37eb93b49f6076beda3097272e37f40538",
-    "DFStringFlagRepoGitHashDynamicString": "a64fdf37eb93b49f6076beda3097272e37f40538",
-    "FStringFlipTimeStampFastString": "2024-04-16T16:20:29.514Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-16T16:20:29.514Z"
+    "FStringFlagRepoGitHashFastString": "922955f53cb263a9978f0770f31870677614a868",
+    "DFStringFlagRepoGitHashDynamicString": "922955f53cb263a9978f0770f31870677614a868",
+    "FStringFlipTimeStampFastString": "2024-04-16T16:27:46.503Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-16T16:27:46.503Z"
 }
