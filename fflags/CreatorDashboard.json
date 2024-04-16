@@ -68,7 +68,6 @@
     "enableItemConfigResaleRestriction": "true",
     "enableManualTranslationFeedback": "false",
     "enablePreferences": "true",
-    "enableDocSiteLanguagePreference": "true",
     "enableRoadmapSepUpdate": "true",
     "roadmapAnnouncementLink": "https://devforum.roblox.com/t/creator-roadmap-2023-end-of-year-recap/2734136",
     "enableGetOwnedPlacesByContextV2": "true",
@@ -84,7 +83,6 @@
     "creatorShareAssetLimit": "200",
     "enableExperienceAssetsPage": "true",
     "enableAssetPermissions": "true",
-    "enableThemePreference": "true",
     "enableDecemberRoadMap": "true",
     "enableVerificationForUgc": "true",
     "enablePremiumTierBypass": "false",
@@ -100,5 +98,6 @@
     "enablePackageVersionDescriptions": "true",
     "enableAutomaticTranslationUpdates": "false",
     "enableCreatorHubNotificationTray": "true",
-    "enableConfigureCommentCheckBox": "true"
+    "enableConfigureCommentCheckBox": "true",
+    "enableBeginnerTools": "true"
 }

@@ -11733,9 +11733,6 @@
     "FFlagLuaAppVngUserAgreementEnabled": "True",
     "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
     "DFFlagFixCharacterEmptyOptRead_Rollout": "True;60;2024-04-16T16:13:10",
-    "FFlagStudioPropertyUiSuperFilter_Rollout": "True;30;2024-04-16T16:17:15",
-    "FFlagLuauCodegenInferNumTag_Rollout": "True;30;2024-04-16T16:18:16",
-    "FFlagLuauCodegenDetailedCompilationResult_Rollout": "True;30;2024-04-16T16:19:06",
     "FFlagStudioMoveCreatePluginServices_Rollout": "True;60;2024-04-16T16:27:11",
     "FFlagNavigationAnalyticsImprovement_Rollout": "True;60;2024-04-16T16:42:05",
     "FFlagPath2DSubmitsWithCorrectCurrentHeight_Rollout": "True;60;2024-04-16T16:57:01",
@@ -11750,6 +11747,10 @@
     "DFFlagGjkUseNativeSupportPoints_Rollout": "True;30;2024-04-16T17:15:13",
     "FFlagCapsHidePropertyInInstance": "True",
     "FFlagLuauCodegenCheckTruthyFormB": "True",
+    "FFlagLuauCodegenDetailedCompilationResult": "True",
+    "FFlagLuauCodegenInferNumTag": "True",
+    "FFlagStudioPropertyUiSuperFilter": "True",
+    "FFlagFixRelocationCheck_Rollout": "True;60;2024-04-16T17:34:12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -12057,8 +12058,8 @@
     "FFlagEnableXboxAccountProtocol": "True",
     "DFFlagPrintFileAndLineForClampedPhysicalPropertyWarning": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "0829cdb49d44c44f92bfd4a831ec8d16d0127bc7",
-    "DFStringFlagRepoGitHashDynamicString": "0829cdb49d44c44f92bfd4a831ec8d16d0127bc7",
-    "FStringFlipTimeStampFastString": "2024-04-16T17:17:00.233Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-16T17:17:00.233Z"
+    "FStringFlagRepoGitHashFastString": "a50f87fb179fd3a964dccf41b5c84a6fd1f3c7e9",
+    "DFStringFlagRepoGitHashDynamicString": "a50f87fb179fd3a964dccf41b5c84a6fd1f3c7e9",
+    "FStringFlipTimeStampFastString": "2024-04-16T17:34:45.667Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-16T17:34:45.667Z"
 }
