@@ -4589,7 +4589,7 @@
     "FFlagSupportOffCenterOriginClickDrag": "True",
     "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
     "DFFlagFlagRolloutTestDynamicBool3": "False",
-    "FFlagFlagRolloutTestStaticBool0": "True",
+    "FFlagFlagRolloutTestStaticBool0": "False",
     "FFlagFlagRolloutTestStaticBool1": "False",
     "FFlagFlagRolloutTestStaticBool3": "False",
     "FFlagFlagRolloutTestStaticBool4": "False",
@@ -11726,7 +11726,6 @@
     "FFlagLuaAppGamesProductInfoRoduxKey": "True",
     "FIntConsolidateBubbleChatRollout2": "20",
     "FFlagPublishableCanPublish": "True",
-    "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-04-16T00:00:28",
     "DFFlagZeroRaycastFourthLane": "True",
     "FFlagDataModelPatchEarlyExitLocalConfig": "True",
     "FFlagTextTruncateSplitWord": "True",
@@ -12072,8 +12071,8 @@
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
     "FFlagRunSoundCacheTunableV2BranchIXP": "True",
     "FFlagUniversalAppCsat3": "True",
-    "FStringFlagRepoGitHashFastString": "c7c818fbddcc398638d60660e54f83e2e2fde47c",
-    "DFStringFlagRepoGitHashDynamicString": "c7c818fbddcc398638d60660e54f83e2e2fde47c",
-    "FStringFlipTimeStampFastString": "2024-04-16T00:53:09.124Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-16T00:53:09.124Z"
+    "FStringFlagRepoGitHashFastString": "acbe0e042028206ef63e9c92d3b03cd4e00726f9",
+    "DFStringFlagRepoGitHashDynamicString": "acbe0e042028206ef63e9c92d3b03cd4e00726f9",
+    "FStringFlipTimeStampFastString": "2024-04-16T01:34:03.369Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-16T01:34:03.369Z"
 }

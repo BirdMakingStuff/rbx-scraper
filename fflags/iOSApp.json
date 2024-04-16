@@ -4589,7 +4589,7 @@
     "FFlagSupportOffCenterOriginClickDrag": "True",
     "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
     "DFFlagFlagRolloutTestDynamicBool3": "False",
-    "FFlagFlagRolloutTestStaticBool0": "True",
+    "FFlagFlagRolloutTestStaticBool0": "False",
     "FFlagFlagRolloutTestStaticBool1": "False",
     "FFlagFlagRolloutTestStaticBool3": "False",
     "FFlagFlagRolloutTestStaticBool4": "False",
