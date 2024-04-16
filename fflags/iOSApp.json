@@ -12146,7 +12146,6 @@
     "DFFlagSendOrientationToPlayersGui": "True",
     "FFlagPerformanceControlInferenceHandling": "True",
     "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
-    "FFlagEnableInGameMenuChromeABTest2": "True",
     "FFlagDisableStudioSelectionFilterOnClient": "True",
     "DFFlagReportInferenceResultToPerfdata2": "True",
     "FStringContactsToastSeen": "ContactsToastSeen_iOS",
@@ -12207,12 +12206,11 @@
     "FIntRuntimeMaxNumOfMutexes": "2400",
     "FIntEnableCullableScene2HundredthPercent3": "10000",
     "FFlagLuaAppNewStreamNotificationsEnabledV3": "True",
-    "FFlagUniversalAppCsat3": "True",
     "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
     "FFlagDisplayNamesDiagLogging": "True",
     "DFFlagHarmonyStreamingNewMetrics": "True",
-    "FStringFlagRepoGitHashFastString": "43c87f8b2d60c6815cf45ec8171bb8a77a78ca49",
-    "DFStringFlagRepoGitHashDynamicString": "43c87f8b2d60c6815cf45ec8171bb8a77a78ca49",
-    "FStringFlipTimeStampFastString": "2024-04-16T22:13:47.977Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-16T22:13:47.977Z"
+    "FStringFlagRepoGitHashFastString": "873b46483d084ba88ca529f0c77dc6fb768b5304",
+    "DFStringFlagRepoGitHashDynamicString": "873b46483d084ba88ca529f0c77dc6fb768b5304",
+    "FStringFlipTimeStampFastString": "2024-04-16T22:25:07.122Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-16T22:25:07.122Z"
 }
