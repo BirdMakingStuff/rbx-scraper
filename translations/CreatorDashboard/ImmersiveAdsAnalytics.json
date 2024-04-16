@@ -113,5 +113,7 @@
     "Label.TwoStepVerification": "2-Step Verification",
     "Label.IDVerification": "ID Verification",
     "Label.ContentSettings": "Content Settings",
-    "Label.Questionnaire": "Questionnaire"
+    "Label.Questionnaire": "Questionnaire",
+    "Label.WarningBannerActionNeeded": "Action needed to keep your experience eligible",
+    "Description.WarningBannerEligibilityActionNeeded": "We've updated our ad publisher eligible requirements. This experience currently doesn't meet some of our updated requirements. Please review and comply with the listed requirements by April 30th, 2024, to stay eligible to earn from ads."
 }
