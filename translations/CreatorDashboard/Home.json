@@ -196,5 +196,7 @@
     "Description.LearnWithAIAssistant": "Get help writing code and answers to your creation questions",
     "Description.BrowseStore": "Find models, scripts, and plugins made by other creators",
     "Action.ViewItems": "View Items",
-    "Heading.BrowseStore": "Browse the Store"
+    "Heading.BrowseStore": "Browse the Store",
+    "Heading.YouArePartOfCommunity": "You’re part of the community",
+    "Description.OurCommunity": "Our community of award-winning studios and self-taught creators all started here, just like you. "
 }
