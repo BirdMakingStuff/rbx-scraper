@@ -682,5 +682,6 @@
     "Description.AcquisitionPlaysPerSource": "Unique users who played from each source.",
     "Label.Dimension.PayerStatus": "Payer vs Non-Payer",
     "Label.Dimension.Locale": "Locale",
+    "Label.P99": "P99",
     "Label.Dimension.Country": "Country"
 }
