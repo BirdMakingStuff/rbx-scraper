@@ -11778,8 +11778,6 @@
     "FFlagACERigIK": "True",
     "FFlagPoolHashStates": "True",
     "DFFlagCLI94314_DataCenterFilter": "True;361;356",
-    "FFlagSimCSG3RejectNonArchivable_Rollout": "True;60;2024-04-17T17:57:40",
-    "FFlagCaptureModeNativeExitSupport_Rollout": "True;60;2024-04-17T17:59:40",
     "DFFlagExperienceStateCaptureDisableSound_Rollout": "True;60;2024-04-17T18:02:16",
     "DFFlagEnableCaptureModeDontCaptureChatWindow_Rollout": "True;60;2024-04-17T18:03:20",
     "DFFlagExperienceStateCaptureMinMemEnabled_Rollout": "True;60;2024-04-17T18:04:25",
@@ -11795,6 +11793,9 @@
     "FFlagGraphicsVulkanCheckCBLimit": "True",
     "FFlagGraphicsVulkanPickGfxAndComputeQueue": "True",
     "FFlagMarkVisibleBitForUILayout": "True",
+    "FFlagCaptureModeNativeExitSupport": "True",
+    "FFlagSimCSG3RejectNonArchivable": "True",
+    "FFlagCaptureServiceBulkManagementFeatureEnabled": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12294,8 +12295,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagGamepadInputUIPosition": "True",
-    "FStringFlagRepoGitHashFastString": "42a35ee3ede7622f1b08b46f74842f2ba67f1b93",
-    "DFStringFlagRepoGitHashDynamicString": "42a35ee3ede7622f1b08b46f74842f2ba67f1b93",
-    "FStringFlipTimeStampFastString": "2024-04-17T19:11:36.228Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-17T19:11:36.228Z"
+    "FStringFlagRepoGitHashFastString": "64f5c159ad5e5af0a432d713a49df761017efe97",
+    "DFStringFlagRepoGitHashDynamicString": "64f5c159ad5e5af0a432d713a49df761017efe97",
+    "FStringFlipTimeStampFastString": "2024-04-17T19:38:59.992Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-17T19:38:59.992Z"
 }
