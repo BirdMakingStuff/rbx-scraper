@@ -11791,6 +11791,8 @@
     "FFlagExperienceStateCaptureAddPlayers_Rollout": "True;60;2024-04-17T18:05:56",
     "AllowVideoPreRoll": "True",
     "DFFlagDebugDrawControllerManagerAdorns_PlaceFilter": "True;14484773887",
+    "FFlagEnableFeedbackModeBottomBarTextFixes_Rollout": "True;60;2024-04-17T18:24:10",
+    "FFlagMarkVisibleBitForUILayout_Rollout": "True;10;2024-04-17T18:26:11",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12266,8 +12268,8 @@
     "DFFlagHttpDisableSslReleaseBuffers": "True",
     "FFlagContactImporterUIRefactor_v1": "True",
     "FFlagUseRoduxContactsV091": "True",
-    "FStringFlagRepoGitHashFastString": "345a0c407c8628a72fe598f65dee4ba616101e93",
-    "DFStringFlagRepoGitHashDynamicString": "345a0c407c8628a72fe598f65dee4ba616101e93",
-    "FStringFlipTimeStampFastString": "2024-04-17T18:24:07.918Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-17T18:24:07.918Z"
+    "FStringFlagRepoGitHashFastString": "a8eca22c4851b1aee458b0616fb702ebd280a70f",
+    "DFStringFlagRepoGitHashDynamicString": "a8eca22c4851b1aee458b0616fb702ebd280a70f",
+    "FStringFlipTimeStampFastString": "2024-04-17T18:26:50.393Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-17T18:26:50.393Z"
 }
