@@ -680,5 +680,7 @@
     "Label.AverageNetFlowOverSelectedPeriod": "Average net flow over selected period",
     "Description.Dimension.AcquisitionSource.HomeNonRecommendation": "Includes curated sorts and Favorites.",
     "Description.AcquisitionPlaysPerSource": "Unique users who played from each source.",
-    "Label.Dimension.PayerStatus": "Payer vs Non-Payer"
+    "Label.Dimension.PayerStatus": "Payer vs Non-Payer",
+    "Label.Dimension.Locale": "Locale",
+    "Label.Dimension.Country": "Country"
 }
