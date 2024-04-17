@@ -1,25 +1,3 @@
 ﻿{
-    "enablePreLaunchUgcForAllWarning": "false",
-    "enableActivityFeedLocation": "false",
-    "enableActivityFeedGameLeftNavigation": "true",
-    "creatorShareAssetLimit": "200",
-    "enableExperienceAssetsPage": "true",
-    "enableAssetPermissions": "true",
-    "enableDecemberRoadMap": "true",
-    "enableVerificationForUgc": "true",
-    "enablePremiumTierBypass": "false",
-    "enableIdVerificationBypass": "true",
-    "enableDeveloperSubscriptionDescriptionUpdates": "true",
-    "dynamicPriceFloorAssetWhitelist": "",
-    "enableDynamicFloorNonLimitedPricing": "true",
-    "enableDynamicFloorNonLimitedPostLaunchBanner": "false",
-    "enableRemoveShutDownServersButton": "false",
-    "enableNotificationsAnalytics": "true",
-    "enableUnifiedFeeSystem": "true",
-    "enableDeveloperPage": "true",
-    "enablePackageVersionDescriptions": "true",
-    "enableAutomaticTranslationUpdates": "false",
-    "enableCreatorHubNotificationTray": "true",
-    "enableConfigureCommentCheckBox": "true",
-    "enableBeginnerTools": "true"
+    "enablePreLaunchUgcForAllWarning": "false"
 }
