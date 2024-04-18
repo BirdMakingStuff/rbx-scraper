@@ -11852,6 +11852,8 @@
     "FFlagMigratePackagesOffOfWWWPart2": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "FFlagDevFrameworkFixGridCanvasSizeCalculation_Rollout": "True;60;2024-04-18T20:13:44",
+    "FFlagDevFrameworkMaterialPickerInstantTooltip_Rollout": "True;60;2024-04-18T20:19:26",
+    "FFlagFixMissingBirthdayTranslations_Rollout": "True;60;2024-04-18T20:24:09",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -12004,8 +12006,8 @@
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "d54d53d3c397313979194a5fbc98e25d2f5aa263",
-    "DFStringFlagRepoGitHashDynamicString": "d54d53d3c397313979194a5fbc98e25d2f5aa263",
-    "FStringFlipTimeStampFastString": "2024-04-18T20:14:21.812Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-18T20:14:21.812Z"
+    "FStringFlagRepoGitHashFastString": "5e7b1bd87cc5f52acf9b8564dc97bc2edf99b32b",
+    "DFStringFlagRepoGitHashDynamicString": "5e7b1bd87cc5f52acf9b8564dc97bc2edf99b32b",
+    "FStringFlipTimeStampFastString": "2024-04-18T20:25:00.014Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-18T20:25:00.014Z"
 }

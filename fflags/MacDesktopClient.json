@@ -11852,6 +11852,8 @@
     "FFlagMigratePackagesOffOfWWWPart2": "True",
     "FFlagEnableTenFootInterfaceCheckForLegacyChat_Rollout": "True;60;2024-04-18T20:13:11",
     "FFlagDevFrameworkFixGridCanvasSizeCalculation_Rollout": "True;60;2024-04-18T20:13:44",
+    "FFlagDevFrameworkMaterialPickerInstantTooltip_Rollout": "True;60;2024-04-18T20:19:26",
+    "FFlagFixMissingBirthdayTranslations_Rollout": "True;60;2024-04-18T20:24:09",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12203,8 +12205,8 @@
     "DFFlagLuauHeapProfilerTelemetry": "True",
     "DFFlagWebParserOptimizeStringWrite": "True",
     "FFlagEnableNewFontNameMappingABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "2e8329775e877d58cb1b43da1dce2870b1629d46",
-    "DFStringFlagRepoGitHashDynamicString": "2e8329775e877d58cb1b43da1dce2870b1629d46",
-    "FStringFlipTimeStampFastString": "2024-04-18T20:19:09.994Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-18T20:19:09.994Z"
+    "FStringFlagRepoGitHashFastString": "5e7b1bd87cc5f52acf9b8564dc97bc2edf99b32b",
+    "DFStringFlagRepoGitHashDynamicString": "5e7b1bd87cc5f52acf9b8564dc97bc2edf99b32b",
+    "FStringFlipTimeStampFastString": "2024-04-18T20:25:00.014Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-18T20:25:00.014Z"
 }
