@@ -11832,6 +11832,11 @@
     "FFlagFixTestServiceInFasterPlaySoloBeta": "True",
     "DFFlagEnableCaptureModeNonTextGuiSelection": "True",
     "FFlagVideoUseYUVBufferPool_Rollout": "True;60;2024-04-18T16:32:11",
+    "DFIntImmersiveAdLoadEventThrottleHundrethsPercent_Rollout": "1000;60;2024-04-18T16:59:57",
+    "FFlagFixFlexLayoutASTextScaledInfiniteLayout_PlaceFilter": "True;17174860108;16828692500;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772",
+    "FFlagLayoutNodeFlexRefactor6_PlaceFilter": "True;17174860108;16828692500;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772",
+    "FFlagAvatarPreviewerAutoSetupDisablePublish_Rollout": "True;60;2024-04-18T17:07:58",
+    "DFFlagSimForgoWorldReportMetricsForPlaceIdZero3_Rollout": "True;60;2024-04-18T17:16:23",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11985,8 +11990,8 @@
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "b0d105d9b26f1e399164a29ca3279b0d671a3260",
-    "DFStringFlagRepoGitHashDynamicString": "b0d105d9b26f1e399164a29ca3279b0d671a3260",
-    "FStringFlipTimeStampFastString": "2024-04-18T16:37:16.000Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-18T16:37:16.000Z"
+    "FStringFlagRepoGitHashFastString": "d86e638639fe7a4d0980801a5a3aad3d9dfc35ba",
+    "DFStringFlagRepoGitHashDynamicString": "d86e638639fe7a4d0980801a5a3aad3d9dfc35ba",
+    "FStringFlipTimeStampFastString": "2024-04-18T17:17:58.338Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-18T17:17:58.338Z"
 }
