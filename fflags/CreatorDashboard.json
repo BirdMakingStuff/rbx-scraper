@@ -1,3 +1,7 @@
 ﻿{
-    "enablePreLaunchUgcForAllWarning": "false"
+    "enablePreLaunchUgcForAllWarning": "false",
+    "isOrganizationMaintenanceScheduled": "false",
+    "isOrganizationMaintenanceInProgress": "false",
+    "organizationMaintenanceDate": "",
+    "organizationMaintenanceDuration": "4"
 }
