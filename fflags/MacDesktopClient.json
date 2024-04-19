@@ -11837,9 +11837,9 @@
     "FFlagGraphicsFixBoxMappedMesh": "False",
     "FIntMaxTimestepMultiplierVelocity": "2",
     "FFlagGamepadInputUIPosition": "True",
-    "FFlagUseVRSpecificCaptureBufferSize_Rollout": "True;60;2024-04-19T16:08:20",
-    "FFlagLuauFixSetIter_Rollout": "True;60;2024-04-19T16:10:11",
     "FFlagEnableXboxAccountProtocol_Rollout": "True;30;2024-04-19T17:30:56",
+    "FFlagUseVRSpecificCaptureBufferSize": "True",
+    "FFlagLuauFixSetIter": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12193,8 +12193,8 @@
     "FFlagEnableNewFontNameMappingABTest2": "True",
     "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
     "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
-    "FStringFlagRepoGitHashFastString": "a9666640dc18d3d8d943d8faa150d6f33f0e0c7d",
-    "DFStringFlagRepoGitHashDynamicString": "a9666640dc18d3d8d943d8faa150d6f33f0e0c7d",
-    "FStringFlipTimeStampFastString": "2024-04-19T17:37:42.363Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T17:37:42.363Z"
+    "FStringFlagRepoGitHashFastString": "855096e3e79b6d6081afb6f0f93104101ce5a14a",
+    "DFStringFlagRepoGitHashDynamicString": "855096e3e79b6d6081afb6f0f93104101ce5a14a",
+    "FStringFlipTimeStampFastString": "2024-04-19T17:46:39.892Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-19T17:46:39.892Z"
 }
