@@ -11698,7 +11698,6 @@
     "FFlagMannequinUtilityParentOption": "True",
     "FIntRealtimeReliabilityRetryPeriodMs": "100000",
     "FFlagOpenURLUseRequestResponse": "True",
-    "DFFlagSimSolverLevitationApplyDimensionZeroImpulseAtPivot": "True",
     "FFlagPath2DFixCrashOnSplineQuerying": "True",
     "FFlagLuaAppGamesProductInfoRoduxKey": "True",
     "FIntConsolidateBubbleChatRollout2": "50",
@@ -12196,8 +12195,8 @@
     "FFlagEnableNewFontNameMappingABTest2": "True",
     "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
     "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
-    "FStringFlagRepoGitHashFastString": "efe1985d167c2e29121f9d5dc320b4247af77742",
-    "DFStringFlagRepoGitHashDynamicString": "efe1985d167c2e29121f9d5dc320b4247af77742",
-    "FStringFlipTimeStampFastString": "2024-04-19T16:15:08.310Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T16:15:08.310Z"
+    "FStringFlagRepoGitHashFastString": "25b39fc911ee72911f6787e45cff963577b65dc8",
+    "DFStringFlagRepoGitHashDynamicString": "25b39fc911ee72911f6787e45cff963577b65dc8",
+    "FStringFlipTimeStampFastString": "2024-04-19T16:31:18.839Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-19T16:31:18.839Z"
 }
