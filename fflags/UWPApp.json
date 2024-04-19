@@ -11834,12 +11834,11 @@
     "FFlagIBFixBundlePurchase": "True",
     "DFFlagInferredCrashProfileSyncFlushSwitch2": "True",
     "FFlagClampEdgePlaneIntersection": "True",
-    "FFlagGraphicsFixBoxMappedMesh": "True",
+    "FFlagGraphicsFixBoxMappedMesh": "False",
     "FIntMaxTimestepMultiplierVelocity": "2",
     "FFlagGamepadInputUIPosition": "True",
     "FFlagUseVRSpecificCaptureBufferSize_Rollout": "True;60;2024-04-19T16:08:20",
     "FFlagLuauFixSetIter_Rollout": "True;60;2024-04-19T16:10:11",
-    "FFlagGraphicsFixBoxMappedMesh_Rollout": "False;10;2024-04-19T16:14:47",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12038,8 +12037,8 @@
     "FFlagUWPCheckTTIBlockingDialog": "True",
     "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
     "FFlagGuildedGameOverlaySupport": "True",
-    "FStringFlagRepoGitHashFastString": "25b39fc911ee72911f6787e45cff963577b65dc8",
-    "DFStringFlagRepoGitHashDynamicString": "25b39fc911ee72911f6787e45cff963577b65dc8",
-    "FStringFlipTimeStampFastString": "2024-04-19T16:31:18.839Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T16:31:18.839Z"
+    "FStringFlagRepoGitHashFastString": "1f274a2de992781911f15897ca7eac18e9e71e9a",
+    "DFStringFlagRepoGitHashDynamicString": "1f274a2de992781911f15897ca7eac18e9e71e9a",
+    "FStringFlipTimeStampFastString": "2024-04-19T16:57:16.937Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-19T16:57:16.937Z"
 }
