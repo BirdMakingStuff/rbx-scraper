@@ -11700,7 +11700,6 @@
     "FFlagOpenURLUseRequestResponse": "True",
     "FFlagPath2DFixCrashOnSplineQuerying": "True",
     "FFlagLuaAppGamesProductInfoRoduxKey": "True",
-    "FIntConsolidateBubbleChatRollout2": "50",
     "FFlagPublishableCanPublish": "True",
     "DFFlagZeroRaycastFourthLane": "True",
     "FFlagDataModelPatchEarlyExitLocalConfig": "True",
@@ -12345,8 +12344,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-    "FStringFlagRepoGitHashFastString": "e8997f8c6e73b1c1479a33df3f23fcfb26beea8a",
-    "DFStringFlagRepoGitHashDynamicString": "e8997f8c6e73b1c1479a33df3f23fcfb26beea8a",
-    "FStringFlipTimeStampFastString": "2024-04-19T18:38:23.420Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T18:38:23.420Z"
+    "FStringFlagRepoGitHashFastString": "0de2c073e9c545def755796de66a998c800397dd",
+    "DFStringFlagRepoGitHashDynamicString": "0de2c073e9c545def755796de66a998c800397dd",
+    "FStringFlipTimeStampFastString": "2024-04-19T19:12:19.650Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-19T19:12:19.650Z"
 }
