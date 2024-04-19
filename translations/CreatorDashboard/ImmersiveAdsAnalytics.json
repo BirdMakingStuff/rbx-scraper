@@ -117,5 +117,11 @@
     "Label.ActionNeeded": "Action needed to keep your experience eligible",
     "Description.EligibilityActionNeeded": "We've updated our ad publisher eligible requirements. This experience currently doesn't meet some of our updated requirements. Please review and comply with the listed requirements by April 30th, 2024, to stay eligible to earn from ads.",
     "Label.IneligibleExperience": "Ineligible Experience",
-    "Description.RequirementsNotMet": "Your experience doesn’t meet one or more of the eligible requirements to serve immersive ads."
+    "Description.RequirementsNotMet": "Your experience doesn’t meet one or more of the eligible requirements to serve immersive ads.",
+    "Description.VerifyOwnerID": "Ask group owner to verify their ID to confirm they are at least 18 years old",
+    "Description.VerifyOwnerIDDetails": "Group owner must be at least 18 years old and ID verified for a group-owned experiences to serve immersive ads. Copy the ID verification link and share with the group owner to complete. ",
+    "Description.VerifyOwnerTwoStep": "Ask group owner to enable 2 Step Verification",
+    "Description.VerifyOwnerTwoStepDetails": "Group owner must enable 2-Step Verification for group-owned experiences to serve immersive ads.  Copy the 2-Step verification link and share with the group owner to complete.",
+    "Description.AccountUnder18": "Your account shows you are under 18 years old",
+    "Description.AccountUnder18Details": "Experience owner or group owner must be at least 18 years old and ID verified for group-owned experiences to serve immersive ads."
 }
