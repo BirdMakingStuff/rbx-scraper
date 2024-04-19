@@ -11838,8 +11838,8 @@
     "FFlagGamepadInputUIPosition": "True",
     "FFlagUseVRSpecificCaptureBufferSize": "True",
     "FFlagLuauFixSetIter": "True",
-    "DFFlagEnableArbiterTimeTelemetry_Rollout": "True;60;2024-04-19T18:22:41",
     "FFlagEnableXboxAccountProtocol": "True",
+    "DFFlagEnableArbiterTimeTelemetry": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12344,8 +12344,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-    "FStringFlagRepoGitHashFastString": "0de2c073e9c545def755796de66a998c800397dd",
-    "DFStringFlagRepoGitHashDynamicString": "0de2c073e9c545def755796de66a998c800397dd",
-    "FStringFlipTimeStampFastString": "2024-04-19T19:12:19.650Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T19:12:19.650Z"
+    "FStringFlagRepoGitHashFastString": "9ae044abfa9c65c002af5dedac843ebb28209719",
+    "DFStringFlagRepoGitHashDynamicString": "9ae044abfa9c65c002af5dedac843ebb28209719",
+    "FStringFlipTimeStampFastString": "2024-04-19T20:11:42.195Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-19T20:11:42.195Z"
 }
