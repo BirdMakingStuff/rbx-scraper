@@ -11827,7 +11827,7 @@
     "FFlagDevFrameworkFixGridCanvasSizeCalculation": "True",
     "FFlagDevFrameworkMaterialPickerInstantTooltip": "True",
     "FFlagFixMissingBirthdayTranslations": "True",
-    "FFlagMigratePackagesOffOfWWWPartThree": "False",
+    "FFlagMigratePackagesOffOfWWWPartThree": "True",
     "FFlagFixMaterialPickerFullScreen": "True",
     "FFlagAppChatUseFetchNewestMessages": "True",
     "FFlagIBFixBundlePurchase": "True",
@@ -12344,8 +12344,8 @@
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
-    "FStringFlagRepoGitHashFastString": "bca927962b5bc76084e8e7545e35e3832ec5fdf3",
-    "DFStringFlagRepoGitHashDynamicString": "bca927962b5bc76084e8e7545e35e3832ec5fdf3",
-    "FStringFlipTimeStampFastString": "2024-04-19T22:07:26.718Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T22:07:26.718Z"
+    "FStringFlagRepoGitHashFastString": "9ae044abfa9c65c002af5dedac843ebb28209719",
+    "DFStringFlagRepoGitHashDynamicString": "9ae044abfa9c65c002af5dedac843ebb28209719",
+    "FStringFlipTimeStampFastString": "2024-04-19T20:11:42.195Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-19T20:11:42.195Z"
 }
