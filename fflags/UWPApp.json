@@ -11841,6 +11841,7 @@
     "FFlagEnableXboxAccountProtocol": "True",
     "DFFlagEnableArbiterTimeTelemetry": "True",
     "FFlagEnableCrossSessionEffectPredictorShadow3_Rollout": "False;60;2024-04-22T16:22:38",
+    "FFlagSimSolverImprovedAeroForce2_Rollout": "True;60;2024-04-22T16:27:10",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12040,8 +12041,9 @@
     "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
     "FFlagGuildedGameOverlaySupport": "True",
     "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25",
-    "FStringFlagRepoGitHashFastString": "da104ef31a0da592918a9dfeb70f36644d065ae5",
-    "DFStringFlagRepoGitHashDynamicString": "da104ef31a0da592918a9dfeb70f36644d065ae5",
-    "FStringFlipTimeStampFastString": "2024-04-22T16:23:19.152Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-22T16:23:19.152Z"
+    "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;60;2024-04-22T16:35:01",
+    "FStringFlagRepoGitHashFastString": "e4f6e10dc90324888f1bc97f037a91bd0982cdaa",
+    "DFStringFlagRepoGitHashDynamicString": "e4f6e10dc90324888f1bc97f037a91bd0982cdaa",
+    "FStringFlipTimeStampFastString": "2024-04-22T16:35:41.725Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-22T16:35:41.725Z"
 }
