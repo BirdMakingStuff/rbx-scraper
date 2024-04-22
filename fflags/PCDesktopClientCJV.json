@@ -11840,6 +11840,7 @@
     "FFlagLuauFixSetIter": "True",
     "FFlagEnableXboxAccountProtocol": "True",
     "DFFlagEnableArbiterTimeTelemetry": "True",
+    "FFlagEnableCrossSessionEffectPredictorShadow3_Rollout": "False;60;2024-04-22T16:22:38",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12185,9 +12186,11 @@
     "FFlagGuildedGameOverlaySupport": "True",
     "DFFlagClusterCache7_PlaceFilter": "True;11704434873;14626846273",
     "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
+    "FFlagCLI98640_player_conf_access_Rollout": "True;60;2024-04-22T16:07:40",
+    "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "bca927962b5bc76084e8e7545e35e3832ec5fdf3",
-    "DFStringFlagRepoGitHashDynamicString": "bca927962b5bc76084e8e7545e35e3832ec5fdf3",
-    "FStringFlipTimeStampFastString": "2024-04-19T22:07:26.718Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T22:07:26.718Z"
+    "FStringFlagRepoGitHashFastString": "da104ef31a0da592918a9dfeb70f36644d065ae5",
+    "DFStringFlagRepoGitHashDynamicString": "da104ef31a0da592918a9dfeb70f36644d065ae5",
+    "FStringFlipTimeStampFastString": "2024-04-22T16:23:19.152Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-22T16:23:19.152Z"
 }

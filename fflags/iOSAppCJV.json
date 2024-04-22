@@ -11840,6 +11840,7 @@
     "FFlagLuauFixSetIter": "True",
     "FFlagEnableXboxAccountProtocol": "True",
     "DFFlagEnableArbiterTimeTelemetry": "True",
+    "FFlagEnableCrossSessionEffectPredictorShadow3_Rollout": "False;60;2024-04-22T16:22:38",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12274,6 +12275,8 @@
     "FFlagAXFixBuyActionBarLoadingHeight1": "True",
     "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
     "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
+    "FFlagUseInExperienceUrlWhitelist_PlaceFilter": "True;15098120933;13398434647;14298635815",
+    "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-22T16:16:25",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -12311,8 +12314,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "bca927962b5bc76084e8e7545e35e3832ec5fdf3",
-    "DFStringFlagRepoGitHashDynamicString": "bca927962b5bc76084e8e7545e35e3832ec5fdf3",
-    "FStringFlipTimeStampFastString": "2024-04-19T22:07:26.718Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-19T22:07:26.718Z"
+    "FStringFlagRepoGitHashFastString": "da104ef31a0da592918a9dfeb70f36644d065ae5",
+    "DFStringFlagRepoGitHashDynamicString": "da104ef31a0da592918a9dfeb70f36644d065ae5",
+    "FStringFlipTimeStampFastString": "2024-04-22T16:23:19.152Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-22T16:23:19.152Z"
 }
