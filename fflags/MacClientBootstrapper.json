@@ -96,7 +96,7 @@
     "FFlagIBFixBuyingFromResellers": "True",
     "FFlagAXAdaptiveScrollingImprovementIXPEnabled": "True",
     "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
-    "FFlagColorPickerSliderIXPEnabled7_Rollout": "True;30;2024-04-22T21:47:37",
+    "FFlagColorPickerSliderIXPEnabled7": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -118,8 +118,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "14cf0d2252ace3544040519e066b7d8ccd3ef01a",
-    "DFStringFlagRepoGitHashDynamicString": "14cf0d2252ace3544040519e066b7d8ccd3ef01a",
-    "FStringFlipTimeStampFastString": "2024-04-22T22:36:35.404Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-22T22:36:35.404Z"
+    "FStringFlagRepoGitHashFastString": "cd1c72b4222be192fae8febe73778d8e48d46ee1",
+    "DFStringFlagRepoGitHashDynamicString": "cd1c72b4222be192fae8febe73778d8e48d46ee1",
+    "FStringFlipTimeStampFastString": "2024-04-22T23:03:36.177Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-22T23:03:36.177Z"
 }
