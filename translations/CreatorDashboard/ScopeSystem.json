@@ -98,5 +98,7 @@
     "Label.UserRestriction": "User Restriction",
     "Label.UserRestrictions": "User Restrictions",
     "Label.Subscription": "Subscription",
-    "Label.Subscriptions": "Subscriptions"
+    "Label.Subscriptions": "Subscriptions",
+    "OperationDescription.UserRestrictionsAPIRead": "Allows you to view user restrictions in the experience.",
+    "OperationDescription.UserRestrictionsAPIWrite": "Allows you to edit user restrictions in the experience."
 }
