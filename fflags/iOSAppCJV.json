@@ -11809,7 +11809,7 @@
     "FFlagFixFlexLayoutASTextScaledInfiniteLayout_PlaceFilter": "True;17174860108;16828692500;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;17190564835",
     "FFlagLayoutNodeFlexRefactor6_PlaceFilter": "True;17174860108;16828692500;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;17190564835",
     "FFlagVideoUseYUVBufferPool": "False",
-    "DFFlagEnableNextGenDevProductPurchaseIxpRollout2": "False",
+    "DFFlagEnableNextGenDevProductPurchaseIxpRollout2": "True",
     "FFlagAvatarPreviewerAutoSetupDisablePublish": "True",
     "FIntFasterPlaySoloBetaFeatureRolloutPercent": "50",
     "DFFlagDisableLayeredClothingRemovedWarning": "True",
@@ -11863,7 +11863,6 @@
     "FFlagLuaAppFullRefreshOmniRecOnGameExit": "True",
     "FFlagGraphicsGLTimerQuery2": "True",
     "DFIntPlayerLoadTimeEventsThrottleHundredthsPercent_Rollout": "5000;60;2024-04-22T22:06:47",
-    "DFFlagEnableNextGenDevProductPurchaseIxpRollout2_Rollout": "True;30;2024-04-22T22:16:48",
     "FFlagMigrateVerbDragGridVerbs": "True",
     "FFlagMigrateVerbGridVerbs": "True",
     "FFlagMigrateVerbMoveSelectionVerbs": "True",
@@ -12355,8 +12354,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "cd1c72b4222be192fae8febe73778d8e48d46ee1",
-    "DFStringFlagRepoGitHashDynamicString": "cd1c72b4222be192fae8febe73778d8e48d46ee1",
-    "FStringFlipTimeStampFastString": "2024-04-22T23:03:36.177Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-22T23:03:36.177Z"
+    "FStringFlagRepoGitHashFastString": "5aab6c1c6e917ac605e6173618bbedc77d56b8a1",
+    "DFStringFlagRepoGitHashDynamicString": "5aab6c1c6e917ac605e6173618bbedc77d56b8a1",
+    "FStringFlipTimeStampFastString": "2024-04-22T23:39:16.851Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-22T23:39:16.851Z"
 }
