@@ -11859,6 +11859,8 @@
     "FFlagPreventDuplicateSetupGameStateView_Rollout": "True;30;2024-04-22T20:09:02",
     "FFlagFixLocalRunWithPausedDM_Rollout": "True;30;2024-04-22T20:10:36",
     "FFlagSocialAnalyticsUseSendEventDeferred_Rollout": "True;60;2024-04-22T20:12:09",
+    "FFlagGraphicsGLTimerQuery2_Rollout": "True;60;2024-04-22T20:30:17",
+    "FFlagLuaAppFullRefreshOmniRecOnGameExit_Rollout": "True;30;2024-04-22T20:31:37",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12342,8 +12344,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "b1faf908930ad403fa1820d058f7a7f4898989cc",
-    "DFStringFlagRepoGitHashDynamicString": "b1faf908930ad403fa1820d058f7a7f4898989cc",
-    "FStringFlipTimeStampFastString": "2024-04-22T20:13:19.691Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-22T20:13:19.691Z"
+    "FStringFlagRepoGitHashFastString": "b8fb16098798074088873fe7b59ce0ae078aee9a",
+    "DFStringFlagRepoGitHashDynamicString": "b8fb16098798074088873fe7b59ce0ae078aee9a",
+    "FStringFlipTimeStampFastString": "2024-04-22T20:34:55.677Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-22T20:34:55.677Z"
 }
