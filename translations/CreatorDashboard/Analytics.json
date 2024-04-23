@@ -683,5 +683,9 @@
     "Label.Dimension.PayerStatus": "Payer vs Non-Payer",
     "Label.Dimension.Locale": "Locale",
     "Label.P99": "P99",
-    "Label.Dimension.Country": "Country"
+    "Label.Dimension.Country": "Country",
+    "Label.Dimension.CustomField3": "Custom Field 3",
+    "Label.Dimension.CustomField2": "Custom Field 2",
+    "Label.Dimension.CustomField1": "Custom Field 1",
+    "Label.NoValuesAvailable": "No values available"
 }
