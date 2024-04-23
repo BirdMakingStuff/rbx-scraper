@@ -11868,6 +11868,7 @@
     "FFlagMigrateVerbRotateAxisVerbs": "True",
     "DFIntPlayerLoadTimeEventsThrottleHundredthsPercent": "5000",
     "FFlagRoundGlyphOffsetForEllipsis": "True",
+    "FFlagUpdateDisplayNameModalCopy": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12172,8 +12173,8 @@
     "DFFlagUseJsonWriterInPerformPurchase": "True",
     "FFlagInternalCaptureSavedEnabled": "True",
     "FFlagColorPickerSliderIXPEnabled7": "True",
-    "FStringFlagRepoGitHashFastString": "6dd1e119e10eef4d73801798878de35c8c9aeb17",
-    "DFStringFlagRepoGitHashDynamicString": "6dd1e119e10eef4d73801798878de35c8c9aeb17",
-    "FStringFlipTimeStampFastString": "2024-04-23T16:11:22.424Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-23T16:11:22.424Z"
+    "FStringFlagRepoGitHashFastString": "4fd7c7231a223d10bc9e520c92e43de1cae5d2a8",
+    "DFStringFlagRepoGitHashDynamicString": "4fd7c7231a223d10bc9e520c92e43de1cae5d2a8",
+    "FStringFlipTimeStampFastString": "2024-04-23T17:11:47.581Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-23T17:11:47.581Z"
 }
