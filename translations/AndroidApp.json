@@ -9611,7 +9611,7 @@
         {
             "namespace": "CreatorDashboard.ScopeSystem",
             "key": "Label.Subscription",
-            "description": "Subscription identifying user subscribing to a particular subscription product. ",
+            "description": "Subscription identifying user subscribing to a particular subscription product.",
             "english": "Subscription",
             "translation": "Subscription",
             "isDeprecated": false
