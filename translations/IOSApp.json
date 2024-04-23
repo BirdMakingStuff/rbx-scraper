@@ -1850,7 +1850,7 @@
         },
         {
             "namespace": "Authentication.SignUp",
-            "key": "Label.SignUpNotCapitalized ",
+            "key": "Label.SignUpNotCapitalized",
             "description": "Created by <Unknown>\nModified by <TranslationProviderSynchronizer>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
             "english": "Sign up",
             "translation": "Sign up",
@@ -3531,7 +3531,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.SubscriptionsAndPasses",
-            "description": "\nCreated by yhuang@roblox.com",
+            "description": "Created by yhuang@roblox.com",
             "english": "Subscriptions & Passes",
             "translation": "Subscriptions & Passes",
             "isDeprecated": false

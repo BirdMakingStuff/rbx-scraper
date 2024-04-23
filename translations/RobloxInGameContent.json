@@ -571,7 +571,7 @@
         {
             "namespace": "Notifications.NotificationStream",
             "key": "Bundle.ShowMoreV2",
-            "description": "\nCreated by ihasan@roblox.com",
+            "description": "Created by ihasan@roblox.com",
             "english": "{notificationCount} more",
             "translation": "{notificationCount} more",
             "isDeprecated": false
@@ -7875,7 +7875,7 @@
         {
             "namespace": "Feature.SettingsHub",
             "key": "Label.FriendsListLoadErrorMessage",
-            "description": "\nCreated by sshetty@roblox.com",
+            "description": "Created by sshetty@roblox.com",
             "english": "Can’t load friends. Try again later.",
             "translation": "Can’t load friends. Try again later.",
             "isDeprecated": false

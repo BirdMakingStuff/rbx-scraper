@@ -667,7 +667,7 @@
         {
             "namespace": "Authentication.Login",
             "key": "Description.ParentLogoutConfirmation",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "You’ll need to log out of your other Roblox accounts on this device before adding a new account with parent privileges",
             "translation": "You’ll need to log out of your other Roblox accounts on this device before adding a new account with parent privileges",
             "isDeprecated": false
@@ -955,7 +955,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Description.LoginToNewDevice",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Are you trying to log in to a new device?",
             "translation": "Are you trying to log in to a new device?",
             "isDeprecated": false
@@ -987,7 +987,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Header.CrossDeviceLogin",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Cross Device Log In",
             "translation": "Cross Device Log In",
             "isDeprecated": false
@@ -995,7 +995,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Header.LoginAttemptDenied",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Login Attempt Denied",
             "translation": "Login Attempt Denied",
             "isDeprecated": false
@@ -1003,7 +1003,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.SomeoneMightHavePassword",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "It seems like someone might have your password.",
             "translation": "It seems like someone might have your password.",
             "isDeprecated": false
@@ -1011,7 +1011,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.PasswordChangeRecommended",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "We recommend that you change your password to help secure your account.",
             "translation": "We recommend that you change your password to help secure your account.",
             "isDeprecated": false
@@ -1027,7 +1027,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Header.LoginAttemptExpired",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Login Attempt Expired",
             "translation": "Login Attempt Expired",
             "isDeprecated": false
@@ -1035,7 +1035,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.LoginExpired",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Your attempt to log in to your account has expired",
             "translation": "Your attempt to log in to your account has expired",
             "isDeprecated": false
@@ -1043,7 +1043,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.UnknownLocation",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Unknown Regional Location",
             "translation": "Unknown Regional Location",
             "isDeprecated": false
@@ -1051,7 +1051,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.UnknownDevice",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Unknown Device Type",
             "translation": "Unknown Device Type",
             "isDeprecated": false
@@ -1059,7 +1059,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.UnknownIPAddress",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Unknown IP Address",
             "translation": "Unknown IP Address",
             "isDeprecated": false
@@ -1107,7 +1107,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.DeviceTypeLabel",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Device Type",
             "translation": "Device Type",
             "isDeprecated": false
@@ -1115,7 +1115,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.LocationLabel",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Location",
             "translation": "Location",
             "isDeprecated": false
@@ -1123,7 +1123,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.IPAddressLabel",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "IP Address",
             "translation": "IP Address",
             "isDeprecated": false
@@ -1131,7 +1131,7 @@
         {
             "namespace": "Authentication.TwoStepVerification",
             "key": "Label.DateTimeLabel",
-            "description": "\nCreated by schen@roblox.com",
+            "description": "Created by schen@roblox.com",
             "english": "Date, Time",
             "translation": "Date, Time",
             "isDeprecated": false
@@ -1891,7 +1891,7 @@
         {
             "namespace": "Authentication.SignUp",
             "key": "Description.ParentLogoutConfirmation",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "You’ll need to log out of your other Roblox accounts on this device before adding a new account with parent privileges",
             "translation": "You’ll need to log out of your other Roblox accounts on this device before adding a new account with parent privileges",
             "isDeprecated": false
@@ -4075,7 +4075,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.ManageYourPasskeys",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Manage Your Passkeys",
             "translation": "Manage Your Passkeys",
             "isDeprecated": false
@@ -4083,7 +4083,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Action.AddPasskey",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Add Passkey",
             "translation": "Add Passkey",
             "isDeprecated": false
@@ -4091,7 +4091,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Action.ManageAddSecurityKey",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Add Security Key",
             "translation": "Add Security Key",
             "isDeprecated": false
@@ -4099,7 +4099,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.ManageYourSecurityKeys",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Manage Your Security Keys",
             "translation": "Manage Your Security Keys",
             "isDeprecated": false
@@ -4107,7 +4107,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Description.DeviceNotCompatible",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "This device isn't compatible with passkeys.",
             "translation": "This device isn't compatible with passkeys.",
             "isDeprecated": false
@@ -4115,7 +4115,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.RemoveSecurityKey",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Remove Security Key",
             "translation": "Remove Security Key",
             "isDeprecated": false
@@ -4123,7 +4123,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.RemovePasskey",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Remove Passkey",
             "translation": "Remove Passkey",
             "isDeprecated": false
@@ -4131,7 +4131,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Description.PasskeyDeletionWarning",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "You won’t be able to log in to Roblox with this passkey anymore.",
             "translation": "You won’t be able to log in to Roblox with this passkey anymore.",
             "isDeprecated": false
@@ -4147,7 +4147,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Action.TryAgain",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Try Again",
             "translation": "Try Again",
             "isDeprecated": false
@@ -4179,7 +4179,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Label.Passkey",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Passkey:",
             "translation": "Passkey:",
             "isDeprecated": false
@@ -4203,7 +4203,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Response.PasskeyAlreadyCreated",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "A passkey has already been created on this device.",
             "translation": "A passkey has already been created on this device.",
             "isDeprecated": false
@@ -4211,7 +4211,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Response.PasskeyCreatedSuccessfully",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Passkey created successfully.",
             "translation": "Passkey created successfully.",
             "isDeprecated": false
@@ -4219,7 +4219,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Response.PasskeyRemovedSuccessfully",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Passkey removed successfully.",
             "translation": "Passkey removed successfully.",
             "isDeprecated": false
@@ -4243,7 +4243,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Heading.AddAPasskey",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Add a Passkey",
             "translation": "Add a Passkey",
             "isDeprecated": false
@@ -4251,7 +4251,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Description.NumPasskeysAddedStatus",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "You have added {registeredKeys}/{maxKeys} passkeys.",
             "translation": "You have added {registeredKeys}/{maxKeys} passkeys.",
             "isDeprecated": false
@@ -4259,7 +4259,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Description.UnableToSaveChanges",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "We weren’t able to save your changes. Please try again.",
             "translation": "We weren’t able to save your changes. Please try again.",
             "isDeprecated": false
@@ -4267,7 +4267,7 @@
         {
             "namespace": "Feature.AccountSettings",
             "key": "Action.GoBack",
-            "description": "\nCreated by mhuo@roblox.com",
+            "description": "Created by mhuo@roblox.com",
             "english": "Go Back",
             "translation": "Go Back",
             "isDeprecated": false
@@ -8683,7 +8683,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.Community",
-            "description": "\nCreated by ewitt@roblox.com",
+            "description": "Created by ewitt@roblox.com",
             "english": "Community",
             "translation": "Community",
             "isDeprecated": false
@@ -8691,7 +8691,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.SubscriptionsAndPasses",
-            "description": "\nCreated by yhuang@roblox.com",
+            "description": "Created by yhuang@roblox.com",
             "english": "Subscriptions & Passes",
             "translation": "Subscriptions & Passes",
             "isDeprecated": false
@@ -10331,7 +10331,7 @@
         {
             "namespace": "Notifications.NotificationStream",
             "key": "Bundle.ShowMore",
-            "description": "\nCreated by ihasan@roblox.com",
+            "description": "Created by ihasan@roblox.com",
             "english": "more",
             "translation": "more",
             "isDeprecated": false
@@ -10339,7 +10339,7 @@
         {
             "namespace": "Notifications.NotificationStream",
             "key": "Bundle.ShowMoreV2",
-            "description": "\nCreated by ihasan@roblox.com",
+            "description": "Created by ihasan@roblox.com",
             "english": "{notificationCount} more",
             "translation": "{notificationCount} more",
             "isDeprecated": false
@@ -10947,7 +10947,7 @@
         {
             "namespace": "Feature.ContactUpsell",
             "key": "Header.UnlockVoiceChat",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "Unlock Voice Chat",
             "translation": "Unlock Voice Chat",
             "isDeprecated": false
@@ -10955,7 +10955,7 @@
         {
             "namespace": "Feature.ContactUpsell",
             "key": "Description.UnlockVoiceChat",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "Join millions of users who have verified their Phone Numbers to chat with voice.",
             "translation": "Join millions of users who have verified their Phone Numbers to chat with voice.",
             "isDeprecated": false
@@ -13835,7 +13835,7 @@
         {
             "namespace": "Feature.Avatar",
             "key": "Message.LooksPurchaseFailedAlreadyOwnedPlural",
-            "description": "\nCreated by tparker@roblox.com",
+            "description": "Created by tparker@roblox.com",
             "english": "Items already owned",
             "translation": "Items already owned",
             "isDeprecated": false
@@ -13843,7 +13843,7 @@
         {
             "namespace": "Feature.Avatar",
             "key": "Message.LooksPurchaseFailedInsufficientFunds",
-            "description": "\nCreated by tparker@roblox.com",
+            "description": "Created by tparker@roblox.com",
             "english": "Insufficient Funds",
             "translation": "Insufficient Funds",
             "isDeprecated": false
@@ -13851,7 +13851,7 @@
         {
             "namespace": "Feature.Avatar",
             "key": "Message.LooksPurchaseFailedNetworkError",
-            "description": "\nCreated by tparker@roblox.com",
+            "description": "Created by tparker@roblox.com",
             "english": "Network error, please try again later",
             "translation": "Network error, please try again later",
             "isDeprecated": false
@@ -13859,7 +13859,7 @@
         {
             "namespace": "Feature.Avatar",
             "key": "Message.LooksPurchaseFailedTooManyRequests",
-            "description": "\nCreated by tparker@roblox.com",
+            "description": "Created by tparker@roblox.com",
             "english": "Too many requests, please try again in 5 minutes",
             "translation": "Too many requests, please try again in 5 minutes",
             "isDeprecated": false
@@ -13867,7 +13867,7 @@
         {
             "namespace": "Feature.Avatar",
             "key": "Message.LooksPurchaseFailedTryAgainLater",
-            "description": "\nCreated by tparker@roblox.com",
+            "description": "Created by tparker@roblox.com",
             "english": "Please try again later",
             "translation": "Please try again later",
             "isDeprecated": false
@@ -13883,7 +13883,7 @@
         {
             "namespace": "Feature.Avatar",
             "key": "Message.LooksCharacterSaved",
-            "description": "\nCreated by tparker@roblox.com",
+            "description": "Created by tparker@roblox.com",
             "english": "You can always edit your character name in customization",
             "translation": "You can always edit your character name in customization",
             "isDeprecated": false
@@ -14251,7 +14251,7 @@
         {
             "namespace": "Feature.Contacts",
             "key": "Heading.ExploreWithFriends",
-            "description": "\nCreated by crobinson@roblox.com",
+            "description": "Created by crobinson@roblox.com",
             "english": "Explore With Friends",
             "translation": "Explore With Friends",
             "isDeprecated": false
@@ -14259,7 +14259,7 @@
         {
             "namespace": "Feature.Contacts",
             "key": "Description.ExploreWithFriends",
-            "description": "\nCreated by crobinson@roblox.com",
+            "description": "Created by crobinson@roblox.com",
             "english": "Join your next experience with someone you know",
             "translation": "Join your next experience with someone you know",
             "isDeprecated": false
@@ -14267,7 +14267,7 @@
         {
             "namespace": "Feature.Contacts",
             "key": "Action.FindFriends",
-            "description": "\nCreated by crobinson@roblox.com",
+            "description": "Created by crobinson@roblox.com",
             "english": "Find Friends",
             "translation": "Find Friends",
             "isDeprecated": false
@@ -14275,7 +14275,7 @@
         {
             "namespace": "Feature.Contacts",
             "key": "Action.SyncContacts",
-            "description": "\nCreated by crobinson@roblox.com",
+            "description": "Created by crobinson@roblox.com",
             "english": "Sync Contacts",
             "translation": "Sync Contacts",
             "isDeprecated": false
@@ -15163,7 +15163,7 @@
         {
             "namespace": "Feature.SettingsHub",
             "key": "Label.FriendsListLoadErrorMessage",
-            "description": "\nCreated by sshetty@roblox.com",
+            "description": "Created by sshetty@roblox.com",
             "english": "Can’t load friends. Try again later.",
             "translation": "Can’t load friends. Try again later.",
             "isDeprecated": false
@@ -23908,8 +23908,8 @@
             "namespace": "CoreScripts.Ads",
             "key": "Label.SponsoredAdsDisclosureStatic",
             "description": "Disclosure for EU DSA Compliance",
-            "english": "Sponsored experiences are paid for by Creators. They may be shown to you based on general information about your device type, location, and demographics.",
-            "translation": "Sponsored experiences are paid for by Creators. They may be shown to you based on general information about your device type, location, and demographics.",
+            "english": "Sponsored experiences are paid for by Creators. They may be shown to you based on information like your device type, location, and demographics.",
+            "translation": "Sponsored experiences are paid for by Creators. They may be shown to you based on information like your device type, location, and demographics.",
             "isDeprecated": false
         },
         {

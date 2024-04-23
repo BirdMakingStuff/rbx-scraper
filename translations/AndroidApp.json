@@ -4395,7 +4395,7 @@
         {
             "namespace": "Feature.GameDetails",
             "key": "Label.SubscriptionsAndPasses",
-            "description": "\nCreated by yhuang@roblox.com",
+            "description": "Created by yhuang@roblox.com",
             "english": "Subscriptions & Passes",
             "translation": "Subscriptions & Passes",
             "isDeprecated": false
