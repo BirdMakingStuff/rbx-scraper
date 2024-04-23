@@ -211,5 +211,6 @@
     "Title.MaintenanceScheduled": "Scheduled planned maintenance ({date})",
     "Message.MaintenanceScheduled": "We will be doing critical upgrades to the permission system for up to {hours} hours at {date}. Any changes you make to your permissions whilst scheduled maintenance is in progress will be lost once the maintenance is completed. We recommend making changes before, or keeping track of the changes made during maintenance so you can re-apply them once maintenance is completed.",
     "Action.PurchaseForPrice": "Purchase for {price}",
-    "Label.CurrentBalance": "Current Balance:"
+    "Label.CurrentBalance": "Current Balance:",
+    "Heading.CreateGroup": "Create Group"
 }
