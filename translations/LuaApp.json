@@ -3554,6 +3554,150 @@
         },
         {
             "namespace": "Feature.AccountSettings",
+            "key": "Heading.SocialNetworks",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Social Networks",
+            "translation": "Social Networks",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.Facebook",
+            "description": "Created by <Unknown>\nModified by jwong@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Facebook",
+            "translation": "Facebook",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.SocialLinksVisibility",
+            "description": "Created by <Unknown>\nModified by jwong@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Visible to",
+            "translation": "Visible to",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.Twitch",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Twitch",
+            "translation": "Twitch",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.Twitter",
+            "description": "Created by <Unknown>\nModified by jwong@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Twitter",
+            "translation": "Twitter",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.YouTube",
+            "description": "Created by <Unknown>\nModified by jwong@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "YouTube",
+            "translation": "YouTube",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.DropDown.Everyone",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Everyone",
+            "translation": "Everyone",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.DropDown.Friends",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Friends",
+            "translation": "Friends",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.DropDown.NoOne",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "No one",
+            "translation": "No one",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Example.Facebook",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "e.g. www.facebook.com/Roblox",
+            "translation": "e.g. www.facebook.com/Roblox",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Example.Twitch",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "e.g. www.twitch.tv/roblox/profile",
+            "translation": "e.g. www.twitch.tv/roblox/profile",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Example.Twitter",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "e.g. @Roblox",
+            "translation": "e.g. @Roblox",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Example.YouTube",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "e.g. www.youtube.com/user/roblox",
+            "translation": "e.g. www.youtube.com/user/roblox",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Description.SuccessDialogMessage",
+            "description": "Created by <Unknown>\nModified by afletcher@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Saved Successfully!",
+            "translation": "Saved Successfully!",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Message.Error.InvalidFacebookUrl",
+            "description": "error message\nCreated by jack.liu@roblox.com\nModified by jack.liu@roblox.com\nCreated by jack.liu@roblox.com\nModified by bdeng@roblox.com",
+            "english": "The Facebook profile url is invalid.",
+            "translation": "The Facebook profile url is invalid.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Message.Error.InvalidTwitterUrl",
+            "description": "Created by jack.liu@roblox.com\nModified by jack.liu@roblox.com\nCreated by jack.liu@roblox.com\nModified by bdeng@roblox.com",
+            "english": "The Twitter handle is invalid.",
+            "translation": "The Twitter handle is invalid.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Message.Error.InvalidYouTubeUrl",
+            "description": "Created by jack.liu@roblox.com\nModified by jack.liu@roblox.com\nCreated by jack.liu@roblox.com\nModified by bdeng@roblox.com",
+            "english": "The YouTube url is invalid.",
+            "translation": "The YouTube url is invalid.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Message.Error.InvalidTwitchUrl",
+            "description": "Created by jack.liu@roblox.com\nModified by jack.liu@roblox.com\nCreated by jack.liu@roblox.com\nModified by bdeng@roblox.com",
+            "english": "The Twitch profile url is invalid.",
+            "translation": "The Twitch profile url is invalid.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
             "key": "Label.TencentReputation",
             "description": "Created by wyao@roblox.com\nModified by wyao@roblox.com\nCreated by wyao@roblox.com\nModified by bdeng@roblox.com",
             "english": "Tencent Game Credit",
@@ -3638,6 +3782,30 @@
             "description": "Created by sguan@roblox.com\nModified by sguan@roblox.com\nCreated by sguan@roblox.com\nModified by bdeng@roblox.com",
             "english": "We'd love to learn more about why you decided to leave the beta. A Roblox survey will open when you exit, please tell us what you think!",
             "translation": "We'd love to learn more about why you decided to leave the beta. A Roblox survey will open when you exit, please tell us what you think!",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Message.Error.InvalidGuildedUrl",
+            "description": "Error message.\nCreated by jnguyen@roblox.com\nModified by jnguyen@roblox.com\nCreated by jnguyen@roblox.com\nModified by bdeng@roblox.com",
+            "english": "The Guilded profile url is invalid.",
+            "translation": "The Guilded profile url is invalid.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Example.Guilded",
+            "description": "Created by jnguyen@roblox.com\nModified by jnguyen@roblox.com\nCreated by jnguyen@roblox.com\nModified by bdeng@roblox.com",
+            "english": "e.g. guilded.gg/roblox",
+            "translation": "e.g. guilded.gg/roblox",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.Guilded",
+            "description": "Created by jnguyen@roblox.com\nModified by jnguyen@roblox.com\nCreated by jnguyen@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Guilded",
+            "translation": "Guilded",
             "isDeprecated": false
         },
         {
@@ -3790,6 +3958,22 @@
             "description": "heading for content restrictions - representing the age level of experiences this user can play\nCreated by pyu@roblox.com\nModified by pyu@roblox.com\nCreated by pyu@roblox.com\nModified by bdeng@roblox.com",
             "english": "Allowed Experiences",
             "translation": "Allowed Experiences",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.DropDown.FollowersV2",
+            "description": "Created by wkwan@roblox.com\nModified by wkwan@roblox.com\nCreated by wkwan@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Friends, users I follow, and my followers",
+            "translation": "Friends, users I follow, and my followers",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AccountSettings",
+            "key": "Label.DropDown.FollowingV2",
+            "description": "Created by wkwan@roblox.com\nModified by wkwan@roblox.com\nCreated by wkwan@roblox.com\nModified by bdeng@roblox.com",
+            "english": "Friends and users I follow",
+            "translation": "Friends and users I follow",
             "isDeprecated": false
         },
         {
