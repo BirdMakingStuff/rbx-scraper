@@ -209,5 +209,7 @@
     "Title.MaintenanceInProgress": "Warning: Planned maintenance in progress",
     "Message.MaintenanceInProgress": "We are actively doing critical upgrades to the permission system. This will last for up to {hours} more hours. Any changes you make to your permissions right now will revert back, once we have finished the maintenance. We recommend waiting until maintenance is done before making changes to your permissions. If you cannot wait, be aware the changes will revert once maintenance is completed. You should come back and re-apply them at that point.",
     "Title.MaintenanceScheduled": "Scheduled planned maintenance ({date})",
-    "Message.MaintenanceScheduled": "We will be doing critical upgrades to the permission system for up to {hours} hours at {date}. Any changes you make to your permissions whilst scheduled maintenance is in progress will be lost once the maintenance is completed. We recommend making changes before, or keeping track of the changes made during maintenance so you can re-apply them once maintenance is completed."
+    "Message.MaintenanceScheduled": "We will be doing critical upgrades to the permission system for up to {hours} hours at {date}. Any changes you make to your permissions whilst scheduled maintenance is in progress will be lost once the maintenance is completed. We recommend making changes before, or keeping track of the changes made during maintenance so you can re-apply them once maintenance is completed.",
+    "Action.PurchaseForPrice": "Purchase for {price}",
+    "Label.CurrentBalance": "Current Balance:"
 }
