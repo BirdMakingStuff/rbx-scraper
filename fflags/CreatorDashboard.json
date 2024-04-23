@@ -1,8 +1,9 @@
 ﻿{
     "enablePreLaunchUgcForAllWarning": "false",
     "isOrganizationMaintenanceScheduled": "false",
-    "isOrganizationMaintenanceInProgress": "true",
+    "isOrganizationMaintenanceInProgress": "false",
     "organizationMaintenanceDate": "2024-04-22 21:00 UTC",
     "organizationMaintenanceDuration": "4",
-    "enableAutomaticTranslationUpdates": "true"
+    "enableAutomaticTranslationUpdates": "true",
+    "enableConfigureCommentCheckBox": "false"
 }
