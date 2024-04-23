@@ -8899,7 +8899,7 @@
         {
             "namespace": "InGame.InspectMenu",
             "key": "Attribution.GoToExperience",
-            "description": "\nCreated by jkirk@roblox.com",
+            "description": "Created by jkirk@roblox.com",
             "english": "Go to Experience?",
             "translation": "Go to Experience?",
             "isDeprecated": false
@@ -13739,7 +13739,7 @@
         {
             "namespace": "CreatorDashboard.ScopeSystem",
             "key": "Label.Subscription",
-            "description": "Subscription identifying user subscribing to a particular subscription product. ",
+            "description": "Subscription identifying user subscribing to a particular subscription product.",
             "english": "Subscription",
             "translation": "Subscription",
             "isDeprecated": false
@@ -16035,7 +16035,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Modal.EnableChatVoiceBody",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "Turn on chat with voice in Settings > Privacy to talk with others in this experience.",
             "translation": "Turn on chat with voice in Settings > Privacy to talk with others in this experience.",
             "isDeprecated": false
@@ -16043,7 +16043,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Modal.EnableChatVoiceTitle",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "Enable chat with voice",
             "translation": "Enable chat with voice",
             "isDeprecated": false
@@ -16051,7 +16051,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Error.Title.CouldntMakeCall",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "Couldn't make call",
             "translation": "Couldn't make call",
             "isDeprecated": false
@@ -16059,7 +16059,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Error.Description.FriendBusy",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "{calleeCombinedName} is currently busy and can't receive your call right now. Please try again later.",
             "translation": "{calleeCombinedName} is currently busy and can't receive your call right now. Please try again later.",
             "isDeprecated": false
@@ -16067,7 +16067,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Label.Block",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "Block {combinedName}",
             "translation": "Block {combinedName}",
             "isDeprecated": false
@@ -16243,7 +16243,7 @@
         {
             "namespace": "Feature.Notifications",
             "key": "Webview.Title.PolicyUpdate",
-            "description": "Webview title ",
+            "description": "Webview title",
             "english": "Policy Update",
             "translation": "Policy Update",
             "isDeprecated": false

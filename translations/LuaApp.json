@@ -3257,6 +3257,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "CommonUI.Features",
+            "key": "Label.DiscoveryScriptVersion",
+            "description": "Shows the lua discovery scripts version the app is running.",
+            "english": "Discovery-Script: {discoveryScriptVersion}",
+            "translation": "Discovery-Script: {discoveryScriptVersion}",
+            "isDeprecated": false
+        },
+        {
             "namespace": "CommonUI.Messages",
             "key": "Label.Password",
             "description": "Created by <Unknown>\nModified by hkim@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
@@ -8874,7 +8882,7 @@
         },
         {
             "namespace": "Feature.GamePage",
-            "key": "LabelFilterRecentlyPlayed ",
+            "key": "LabelFilterRecentlyPlayed",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
             "english": "Recently Played",
             "translation": "Recently Played",
@@ -21651,7 +21659,7 @@
         {
             "namespace": "CreatorDashboard.ScopeSystem",
             "key": "Label.Subscription",
-            "description": "Subscription identifying user subscribing to a particular subscription product. ",
+            "description": "Subscription identifying user subscribing to a particular subscription product.",
             "english": "Subscription",
             "translation": "Subscription",
             "isDeprecated": false
@@ -23587,7 +23595,7 @@
         {
             "namespace": "IAPExperience.PurchaseError",
             "key": "Text.VpcRequired",
-            "description": "\nCreated by cjung@roblox.com",
+            "description": "Created by cjung@roblox.com",
             "english": "You can subscribe from this experience’s Passes & Subscriptions or Store page, with help from a parent.",
             "translation": "You can subscribe from this experience’s Passes & Subscriptions or Store page, with help from a parent.",
             "isDeprecated": false
@@ -23595,7 +23603,7 @@
         {
             "namespace": "IAPExperience.PurchaseError",
             "key": "Text.RestrictedUser",
-            "description": "\nCreated by cjung@roblox.com",
+            "description": "Created by cjung@roblox.com",
             "english": "You can’t access content in this experience.",
             "translation": "You can’t access content in this experience.",
             "isDeprecated": false
@@ -24307,7 +24315,7 @@
         {
             "namespace": "Authentication.OneTimePasscode",
             "key": "Description.DidntReceiveCode",
-            "description": "\nCreated by hyang@roblox.com",
+            "description": "Created by hyang@roblox.com",
             "english": "Didn't receive a code?",
             "translation": "Didn't receive a code?",
             "isDeprecated": false
@@ -24315,7 +24323,7 @@
         {
             "namespace": "Authentication.OneTimePasscode",
             "key": "Action.GetHelp",
-            "description": "\nCreated by hyang@roblox.com",
+            "description": "Created by hyang@roblox.com",
             "english": "Get Help",
             "translation": "Get Help",
             "isDeprecated": false
@@ -24323,7 +24331,7 @@
         {
             "namespace": "Authentication.OneTimePasscode",
             "key": "Action.ChangeEmailV2",
-            "description": "\nCreated by hyang@roblox.com",
+            "description": "Created by hyang@roblox.com",
             "english": "Change Email",
             "translation": "Change Email",
             "isDeprecated": false
@@ -24995,7 +25003,7 @@
         {
             "namespace": "Authentication.AccountSwitch",
             "key": "Description.ParentLogoutConfirmation.2",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "Please log out of all other Roblox accounts on this device before adding a new account with parent privileges",
             "translation": "Please log out of all other Roblox accounts on this device before adding a new account with parent privileges",
             "isDeprecated": false
@@ -25003,7 +25011,7 @@
         {
             "namespace": "Authentication.AccountSwitch",
             "key": "Header.CantSwitchAccounts",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "Can't Switch Accounts",
             "translation": "Can't Switch Accounts",
             "isDeprecated": false
@@ -25011,7 +25019,7 @@
         {
             "namespace": "Authentication.AccountSwitch",
             "key": "Description.PleaseTryAgainLater",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "Please try again later",
             "translation": "Please try again later",
             "isDeprecated": false
@@ -25027,7 +25035,7 @@
         {
             "namespace": "Authentication.AccountSwitch",
             "key": "Label.AccountLimitReached.2",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "To add an account, log out of one first.",
             "translation": "To add an account, log out of one first.",
             "isDeprecated": false
@@ -25035,7 +25043,7 @@
         {
             "namespace": "Authentication.AccountSwitch",
             "key": "Description.TryLoggingInDirectly.2",
-            "description": "\nCreated by wlu@roblox.com",
+            "description": "Created by wlu@roblox.com",
             "english": "Try logging in directly",
             "translation": "Try logging in directly",
             "isDeprecated": false
@@ -26267,7 +26275,7 @@
         {
             "namespace": "Feature.Parents",
             "key": "Message.TooManyAttempts",
-            "description": "\nCreated by jhou@roblox.com",
+            "description": "Created by jhou@roblox.com",
             "english": "Too many attempts. Try again later.",
             "translation": "Too many attempts. Try again later.",
             "isDeprecated": false
@@ -26499,7 +26507,7 @@
         {
             "namespace": "Amp.IDVUpsell",
             "key": "PrivacyPageHeader",
-            "description": "\nCreated by bwei@roblox.com",
+            "description": "Created by bwei@roblox.com",
             "english": "Privacy Policy",
             "translation": "Privacy Policy",
             "isDeprecated": false
@@ -26627,7 +26635,7 @@
         {
             "namespace": "Amp.IDVErrorScreen",
             "key": "Timeout",
-            "description": "\nCreated by bwei@roblox.com",
+            "description": "Created by bwei@roblox.com",
             "english": "Sorry, the verification process took too long. Please refresh the page and try again.",
             "translation": "Sorry, the verification process took too long. Please refresh the page and try again.",
             "isDeprecated": false
@@ -26635,7 +26643,7 @@
         {
             "namespace": "Amp.IDVErrorScreen",
             "key": "Declined",
-            "description": "\nCreated by bwei@roblox.com",
+            "description": "Created by bwei@roblox.com",
             "english": "Sorry, your verification was declined for security reasons. If you want to try again, please check back in a few days.",
             "translation": "Sorry, your verification was declined for security reasons. If you want to try again, please check back in a few days.",
             "isDeprecated": false
@@ -26643,7 +26651,7 @@
         {
             "namespace": "Amp.IDVErrorScreen",
             "key": "Retry",
-            "description": "\nCreated by bwei@roblox.com",
+            "description": "Created by bwei@roblox.com",
             "english": "Something went wrong. Please refresh the page try again.",
             "translation": "Something went wrong. Please refresh the page try again.",
             "isDeprecated": false
@@ -26875,7 +26883,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Error.Title.CouldntMakeCall",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "Couldn't make call",
             "translation": "Couldn't make call",
             "isDeprecated": false
@@ -26883,7 +26891,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Error.Description.FriendBusy",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "{calleeCombinedName} is currently busy and can't receive your call right now. Please try again later.",
             "translation": "{calleeCombinedName} is currently busy and can't receive your call right now. Please try again later.",
             "isDeprecated": false
@@ -26891,7 +26899,7 @@
         {
             "namespace": "Feature.Call",
             "key": "Label.Block",
-            "description": "\nCreated by bliang@roblox.com",
+            "description": "Created by bliang@roblox.com",
             "english": "Block {combinedName}",
             "translation": "Block {combinedName}",
             "isDeprecated": false
@@ -26915,7 +26923,7 @@
         {
             "namespace": "Feature.Notifications",
             "key": "Webview.Title.PolicyUpdate",
-            "description": "Webview title ",
+            "description": "Webview title",
             "english": "Policy Update",
             "translation": "Policy Update",
             "isDeprecated": false
@@ -26926,6 +26934,38 @@
             "description": "TextLabel that shows how many friends a user has selected on a checkbox menu. For example, if the user selects 3 friends and the friend selection limit is 5, the string will read \"3/5 friends selected\". Created by wwen@roblox.com",
             "english": "{numerator}/{denominator} friends selected",
             "translation": "{numerator}/{denominator} friends selected",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AvatarBundleReceivedInteractiveAlert",
+            "key": "Title.ItemsAcquired",
+            "description": "This is the title of the interactive alert (confirmation modal). In this alert, the user has received an avatar bundle and we are informing the user that they have received those items.",
+            "english": "Items Acquired",
+            "translation": "Items Acquired",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AvatarBundleReceivedInteractiveAlert",
+            "key": "BodyText.AddedToInventory",
+            "description": "This is the body text of the interactive alert (confirmation modal). In this alert, the user has received an avatar bundle. {avatarName} refers to the name of the avatar bundle that they received; example: Felix Freezebeard. The breadcrumbs (Avatar > Customize > Characters > Purchased) refers to the navigation in the Universal App denoting how to get to the avatar bundle, so please make sure it matches what the end user sees on the screen in order to get from the Home page to the purchased characters tab in the Avatar Editor.",
+            "english": "{avatarName} has been added to your inventory!\nYou can find it under <font color=\"#FFFFFF\">Avatar > Customize > Characters > Purchased</font>",
+            "translation": "{avatarName} has been added to your inventory!\nYou can find it under <font color=\"#FFFFFF\">Avatar > Customize > Characters > Purchased</font>",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AvatarBundleReceivedInteractiveAlert",
+            "key": "Action.Ok",
+            "description": "This is one of the options to acknowledge the interactive alert. When this option is chosen, the app will dismiss the alert and give control back to the user to do whatever they were doing.",
+            "english": "OK",
+            "translation": "OK",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.AvatarBundleReceivedInteractiveAlert",
+            "key": "Action.TakeALook",
+            "description": "This is one of the options to acknowledge the interactive alert. When this option is chosen, the app will take the user to the Avatar Editor where they can take a look at their newly received avatar bundle in their inventory. Namely, it navigates to the section of the Avatar Editor as described in the body text of this alert so that users can try the new bundle right away.",
+            "english": "Take a look",
+            "translation": "Take a look",
             "isDeprecated": false
         }
     ],
