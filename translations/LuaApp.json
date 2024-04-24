@@ -2772,8 +2772,8 @@
             "namespace": "CommonUI.Features",
             "key": "Label.VersionWithNumber",
             "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
-            "english": "Version:{versionNumber}",
-            "translation": "Version:{versionNumber}",
+            "english": "Version: {versionNumber}",
+            "translation": "Version: {versionNumber}",
             "isDeprecated": false
         },
         {
