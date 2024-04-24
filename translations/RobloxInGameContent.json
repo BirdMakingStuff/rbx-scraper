@@ -7988,8 +7988,8 @@
             "namespace": "Feature.SettingsHub",
             "key": "GameSettings.FramerateCapDefaultEntry",
             "description": "Normally, the framerate is shown as just the number. This is shown when this would be the unchanged value. E.g. 60 (Default)",
-            "english": "{Frames:int} (Default)",
-            "translation": "{Frames:int} (Default)",
+            "english": "Default ({Frames:int} FPS)",
+            "translation": "Default ({Frames:int} FPS)",
             "isDeprecated": false
         },
         {

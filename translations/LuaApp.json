@@ -1746,6 +1746,14 @@
         },
         {
             "namespace": "Authentication.SignUp",
+            "key": "Description.VerifiedParentalConsentModal.EnterContinue",
+            "description": "Created by adam.wang@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by adam.wang@roblox.com\nModified by bdeng@roblox.com",
+            "english": "By entering the code and clicking Continue, you are giving consent to your child to access Roblox.",
+            "translation": "By entering the code and clicking Continue, you are giving consent to your child to access Roblox.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.SignUp",
             "key": "Description.EnterParentEmail",
             "description": "Created by jack.liu@roblox.com\nModified by <TranslationProviderSynchronizer>\nCreated by jack.liu@roblox.com\nModified by bdeng@roblox.com",
             "english": "Enter your parent's email address to receive a verification code.",
@@ -24310,6 +24318,14 @@
             "description": "Created by hyang@roblox.com\nModified by hyang@roblox.com\nCreated by hyang@roblox.com\nModified by bdeng@roblox.com\nModified by hyang@roblox.com",
             "english": "Didn't receive code? Click here",
             "translation": "Didn't receive code? Click here",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Authentication.OneTimePasscode",
+            "key": "Description.SendVerificationCode",
+            "description": "Created by ashajgotra@roblox.com",
+            "english": "We'll send your parent a verification code so they can help you sign up",
+            "translation": "We'll send your parent a verification code so they can help you sign up",
             "isDeprecated": false
         },
         {
