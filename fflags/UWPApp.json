@@ -11924,7 +11924,6 @@
     "FIntQuadTreeRebuildThreshold": "1000",
     "FFlagFixUpsellVerificationToNavigateToOverlays": "True",
     "FFlagEnableJoinGameIsolationContext": "True",
-    "FFlagLuaAppChallengeRenderNativeChallengeFieldEnabled_Rollout": "True;60;2024-04-24T16:55:04",
     "FFlagCAPChromelessInputBox": "True",
     "FFlagAllocationFreeRaycasts_Rollout": "True;60;2024-04-24T17:20:00",
     "DFFlagMemoryStoreUpdateAsyncThrowIfInvalidSortKey_Rollout": "True;60;2024-04-24T17:30:22",
@@ -11943,6 +11942,9 @@
     "FFlagBreakScriptEditorDependencyOnScriptingManager_Rollout": "True;60;2024-04-24T18:10:52",
     "FFlagMonoMixDspUseSimd_Rollout": "True;60;2024-04-24T18:11:36",
     "FFlagPoolPropertyChangeItems": "True",
+    "FFlagFixDisabledPluginsLookEnabledInStartPlayers_Rollout": "True;60;2024-04-24T18:24:27",
+    "FFlagLuaAppChallengeRenderNativeChallengeFieldEnabled": "True",
+    "FFlagGraphicsFixBoxMappedMesh_Rollout": "True;60;2024-04-24T18:31:27",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12145,8 +12147,8 @@
     "DFFlagUseJsonWriterInPerformPurchase": "True",
     "FFlagColorPickerSliderIXPEnabled7": "True",
     "FFlagColorPickerSliderOptimization2": "True",
-    "FStringFlagRepoGitHashFastString": "42a71f30ca825e5406ecc745eb99cf560b98ae70",
-    "DFStringFlagRepoGitHashDynamicString": "42a71f30ca825e5406ecc745eb99cf560b98ae70",
-    "FStringFlipTimeStampFastString": "2024-04-24T18:22:09.002Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-24T18:22:09.002Z"
+    "FStringFlagRepoGitHashFastString": "bcd546b1703e55bdd9462c743dd760e74ed6e7bb",
+    "DFStringFlagRepoGitHashDynamicString": "bcd546b1703e55bdd9462c743dd760e74ed6e7bb",
+    "FStringFlipTimeStampFastString": "2024-04-24T18:32:05.429Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-24T18:32:05.429Z"
 }
