@@ -11922,6 +11922,8 @@
     "FFlagTerrainToolsPaintToolFix": "True",
     "FFlagTrustRblxOrgDomain": "True",
     "FIntQuadTreeRebuildThreshold": "1000",
+    "FFlagCAPChromelessInputBox_Rollout": "True;30;2024-04-24T16:10:44",
+    "FFlagVideoStreamCleanup_Rollout": "True;60;2024-04-24T16:12:51",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12273,9 +12275,8 @@
     "FFlagCLI98640_player_conf_access": "True",
     "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
     "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
-    "FFlagOptimizeNoCollisionPrimitiveInMidphase3_DataCenterFilter": "True;361",
-    "FStringFlagRepoGitHashFastString": "9a03359718621f86a34ad676ea7ebd8779d68453",
-    "DFStringFlagRepoGitHashDynamicString": "9a03359718621f86a34ad676ea7ebd8779d68453",
-    "FStringFlipTimeStampFastString": "2024-04-24T01:22:26.644Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-24T01:22:26.644Z"
+    "FStringFlagRepoGitHashFastString": "2852e8bac4d7e31044b2937f7f8b04995d2adff5",
+    "DFStringFlagRepoGitHashDynamicString": "2852e8bac4d7e31044b2937f7f8b04995d2adff5",
+    "FStringFlipTimeStampFastString": "2024-04-24T16:13:26.289Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-24T16:13:26.289Z"
 }
