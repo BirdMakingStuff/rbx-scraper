@@ -11920,7 +11920,8 @@
     "DFFlagSimEnvironmentAddMinimumDensityRolloutTelemetry": "True",
     "DFFlagRemoveHasGyro": "True",
     "FFlagTerrainToolsPaintToolFix": "True",
-    "FFlagTrustRblxOrgDomain_Rollout": "True;30;2024-04-23T23:24:21",
+    "FFlagTrustRblxOrgDomain": "True",
+    "FIntQuadTreeRebuildThreshold": "1000",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12409,8 +12410,9 @@
     "FFlagColorPickerSliderIXPEnabled7": "True",
     "FFlagColorPickerSliderOptimization2": "True",
     "FFlagDisableAppChatConversationAbsorbInputLayerAndroid": "True",
-    "FStringFlagRepoGitHashFastString": "bd160bcdd47c32697ac4fa9a731b6783b24a970e",
-    "DFStringFlagRepoGitHashDynamicString": "bd160bcdd47c32697ac4fa9a731b6783b24a970e",
-    "FStringFlipTimeStampFastString": "2024-04-23T23:28:07.758Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-23T23:28:07.758Z"
+    "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "5000;60;2024-04-23T23:48:23",
+    "FStringFlagRepoGitHashFastString": "08526bb4aa6dfb07f8ee371dac9a08b4c364bcec",
+    "DFStringFlagRepoGitHashDynamicString": "08526bb4aa6dfb07f8ee371dac9a08b4c364bcec",
+    "FStringFlipTimeStampFastString": "2024-04-24T00:52:02.922Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-24T00:52:02.922Z"
 }
