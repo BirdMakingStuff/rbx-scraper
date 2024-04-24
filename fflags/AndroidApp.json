@@ -11947,8 +11947,6 @@
     "FFlagMonoMixDspUseSimd": "True",
     "FFlagFixDisabledPluginsLookEnabledInStartPlayers": "True",
     "FFlagShowMaterialManagerFromElsewhere": "True",
-    "FFlagSimAdaptiveMinorOptimizations_Rollout": "True;60;2024-04-24T20:38:07",
-    "DFFlagVoiceChatFixClientTurnAuthTtl_Rollout": "True;60;2024-04-24T20:45:01",
     "FFlagUGCBundleValidationFullBodyErrors": "True",
     "FFlagDontRerenderForBadTexture_Rollout": "True;60;2024-04-24T20:51:17",
     "FFlagPopupMessageBoxDoNotShowV2_Rollout": "True;60;2024-04-24T20:55:44",
@@ -11959,6 +11957,10 @@
     "FFlagInternalCaptureSavedEnabled": "True",
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV2": "True",
     "FFlagPerformanceControlCLI100373FlagRolloutTelemetry_Rollout": "True;60;2024-04-24T21:36:39",
+    "DFFlagReportDetailedSimulationBreakdownToEventIngest_Rollout": "True;60;2024-04-24T21:52:40",
+    "DFFlagCleanupMoodDampingIxpExperimentation_Rollout": "True;60;2024-04-24T22:10:19",
+    "FFlagSimAdaptiveMinorOptimizations": "True",
+    "DFFlagVoiceChatFixClientTurnAuthTtl": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12449,8 +12451,8 @@
     "FFlagDisableAppChatConversationAbsorbInputLayerAndroid": "True",
     "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": "5000",
     "FFlagLuaAppAddSortsTopicLayoutDataInAppend": "True",
-    "FStringFlagRepoGitHashFastString": "3f263d4c5a7c8d090a312e7f859902822d778992",
-    "DFStringFlagRepoGitHashDynamicString": "3f263d4c5a7c8d090a312e7f859902822d778992",
-    "FStringFlipTimeStampFastString": "2024-04-24T21:37:44.105Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-24T21:37:44.105Z"
+    "FStringFlagRepoGitHashFastString": "cb3748d418107c05c3d84291b8350e3187196eb4",
+    "DFStringFlagRepoGitHashDynamicString": "cb3748d418107c05c3d84291b8350e3187196eb4",
+    "FStringFlipTimeStampFastString": "2024-04-24T22:16:26.323Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-24T22:16:26.323Z"
 }
