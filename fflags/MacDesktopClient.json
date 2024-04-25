@@ -11170,7 +11170,7 @@
     "DFIntVideoMaxHardwareCodec": "1",
     "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
     "FFlagUserheartbeatsActionReport": "True",
-    "FIntUserHeartbeatsActionReportRolloutPerMyriad": "8000",
+    "FIntUserHeartbeatsActionReportRolloutPerMyriad": "10000",
     "FFlagGuiLayerCollectorRectQueryUseClippedRect": "True",
     "FFlagGrassMovementReducedMotion_PlaceFilter": "True;2727067538",
     "FFlagUserVRAvatarGestures_PlaceFilter": "True;16818255141;14892311500;14569410003;6295939019;16819743145",
@@ -12320,12 +12320,13 @@
     "DFFlagClusterCache7_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
     "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
     "FFlagCLI98640_player_conf_access": "True",
-    "FFlagUseExitInUpdateTermination": "True",
+    "FFlagUseExitInUpdateTermination": "False",
     "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
     "FFlagAXItemCardTallIXPEnabled": "False",
     "FFlagAXItemCardTallEnabled": "False",
-    "FStringFlagRepoGitHashFastString": "43635cea0694efbcd13ae0c9c21a8db23b3b8a53",
-    "DFStringFlagRepoGitHashDynamicString": "43635cea0694efbcd13ae0c9c21a8db23b3b8a53",
-    "FStringFlipTimeStampFastString": "2024-04-25T01:26:51.586Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-25T01:26:51.586Z"
+    "DFFlagReportMissingReplicationRootMoreInfo_Rollout": "True;60;2024-04-25T16:12:06",
+    "FStringFlagRepoGitHashFastString": "e1ac6ff0238f574bb322f9b7026e4205017909c9",
+    "DFStringFlagRepoGitHashDynamicString": "e1ac6ff0238f574bb322f9b7026e4205017909c9",
+    "FStringFlipTimeStampFastString": "2024-04-25T16:13:32.488Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-25T16:13:32.488Z"
 }

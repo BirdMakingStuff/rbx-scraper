@@ -11170,7 +11170,7 @@
     "DFIntVideoMaxHardwareCodec": "1",
     "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
     "FFlagUserheartbeatsActionReport": "True",
-    "FIntUserHeartbeatsActionReportRolloutPerMyriad": "8000",
+    "FIntUserHeartbeatsActionReportRolloutPerMyriad": "10000",
     "FFlagGuiLayerCollectorRectQueryUseClippedRect": "True",
     "FFlagGrassMovementReducedMotion_PlaceFilter": "True;2727067538",
     "FFlagUserVRAvatarGestures_PlaceFilter": "True;16818255141;14892311500;14569410003;6295939019;16819743145",
@@ -12115,8 +12115,8 @@
     "FFlagEnableFriendsLandingControllerBar2": "True",
     "FFlagMarketplaceServiceEnableFixForCollectibleBundlePurchasing": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "43635cea0694efbcd13ae0c9c21a8db23b3b8a53",
-    "DFStringFlagRepoGitHashDynamicString": "43635cea0694efbcd13ae0c9c21a8db23b3b8a53",
-    "FStringFlipTimeStampFastString": "2024-04-25T01:26:51.586Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-25T01:26:51.586Z"
+    "FStringFlagRepoGitHashFastString": "e1ac6ff0238f574bb322f9b7026e4205017909c9",
+    "DFStringFlagRepoGitHashDynamicString": "e1ac6ff0238f574bb322f9b7026e4205017909c9",
+    "FStringFlipTimeStampFastString": "2024-04-25T16:13:32.488Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-25T16:13:32.488Z"
 }
