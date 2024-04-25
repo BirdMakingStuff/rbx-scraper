@@ -11863,7 +11863,6 @@
     "FFlagMigrateVerbGridVerbs": "True",
     "FFlagMigrateVerbMoveSelectionVerbs": "True",
     "FFlagMigrateVerbRotateAxisVerbs": "True",
-    "DFIntPlayerLoadTimeEventsThrottleHundredthsPercent": "5000",
     "FFlagRoundGlyphOffsetForEllipsis": "True",
     "FFlagUpdateDisplayNameModalCopy": "True",
     "FFlagLuaAppConsolidateProfileLogging": "True",
@@ -11965,7 +11964,6 @@
     "DFFlagBatchId9HotrodAccessorMigration": "True",
     "FFlagEnableFriendsListSearchNormalizationErrorFix": "True",
     "FFlagRemoveIsSyncingEditorText1": "True",
-    "FFlagReflectionServiceIgnoreDeprecatedProperties_Rollout": "True;60;2024-04-25T16:51:51",
     "AllowVideoPreRoll": "True",
     "FFlagDevFrameworkMaterialPickerImprovedScroll_Rollout": "True;60;2024-04-25T17:23:36",
     "FFlagUseNewTerrainBroadPhase6": "True",
@@ -11979,6 +11977,7 @@
     "DFFlagUpdateELFDataEarlierInST_Rollout": "True;60;2024-04-25T18:00:12",
     "FFlagToolboxRemoveUseNewSwimlanes": "True",
     "FFlagVideoFixGpuShaderAspectRatio": "True",
+    "FFlagReflectionServiceIgnoreDeprecatedProperties": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12503,8 +12502,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "8900c1618c17e3823d013b2568565321e89c52fb",
-    "DFStringFlagRepoGitHashDynamicString": "8900c1618c17e3823d013b2568565321e89c52fb",
-    "FStringFlipTimeStampFastString": "2024-04-25T18:21:40.581Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-25T18:21:40.581Z"
+    "FStringFlagRepoGitHashFastString": "88379fe8dfc82b11a4368f7dab283d1c90bbeb25",
+    "DFStringFlagRepoGitHashDynamicString": "88379fe8dfc82b11a4368f7dab283d1c90bbeb25",
+    "FStringFlipTimeStampFastString": "2024-04-25T18:35:30.965Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-25T18:35:30.965Z"
 }
