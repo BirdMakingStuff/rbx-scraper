@@ -18274,6 +18274,14 @@
         },
         {
             "namespace": "Feature.VerificationUpsell",
+            "key": "Description.ShortCodeLegalDisclaimer",
+            "description": "Please do not modify the text in curly braces '{example}', and please do not rearrange the order of the {braces} unless the translation requires it.\n\nPlease also keep the string for \"HELP\" unchanged regardless of locale.\nCreated by wlu@roblox.com\nModified by wlu@roblox.com\nCreated by wlu@roblox.com\nModified by bdeng@roblox.com",
+            "english": "By clicking “Continue”, you are submitting your phone number and agreeing to our {linkTagWithSmsTos}SMS Terms of Use{linkTagEnd} and {linkTagWithPrivacyPolicy}Privacy Policy{linkTagEnd}. We will send you a one-time verification code. Message and data rates may apply. Reply HELP for help.",
+            "translation": "By clicking “Continue”, you are submitting your phone number and agreeing to our {linkTagWithSmsTos}SMS Terms of Use{linkTagEnd} and {linkTagWithPrivacyPolicy}Privacy Policy{linkTagEnd}. We will send you a one-time verification code. Message and data rates may apply. Reply HELP for help.",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.VerificationUpsell",
             "key": "Label.SixDigitCode",
             "description": "Created by hyang@roblox.com\nModified by hyang@roblox.com\nCreated by hyang@roblox.com\nModified by bdeng@roblox.com",
             "english": "6-Digit Code",

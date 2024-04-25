@@ -11731,7 +11731,7 @@
     "DFFlagSimSolverAeroAutomatedForceModel": "True",
     "DFFlagSimSolverAerodynamicNewNewton": "True",
     "FFlagMeshCreationWithFluidFidelity": "True",
-    "FFlagEnableCommonFriendsMenu2": "True",
+    "FFlagEnableCommonFriendsMenu2": "False",
     "FFlagFriendsCarouselIXPfriendsSort": "True",
     "FFlagUseMicIconForVoiceUpsell": "True",
     "FFlagUseUIBloxButtonsUpsellCard": "True",
@@ -11967,6 +11967,7 @@
     "FFlagRemoveIsSyncingEditorText1": "True",
     "FFlagUseNewTerrainBroadPhase6_Rollout": "True;30;2024-04-25T16:23:06",
     "FFlagToolboxRemoveUseNewSwimlanes_Rollout": "True;60;2024-04-25T16:35:36",
+    "FFlagVideoFixGpuShaderAspectRatio_Rollout": "True;60;2024-04-25T16:49:16",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12317,8 +12318,8 @@
     "FFlagFCMaterialGroupRefactor2_PlaceFilter": "True;11704434873;14626846273",
     "FFlagCLI98640_player_conf_access": "True",
     "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815",
-    "FStringFlagRepoGitHashFastString": "93cb7362670b99d0f56ba62482de1e4c1fbc1442",
-    "DFStringFlagRepoGitHashDynamicString": "93cb7362670b99d0f56ba62482de1e4c1fbc1442",
-    "FStringFlipTimeStampFastString": "2024-04-25T16:37:53.503Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-25T16:37:53.503Z"
+    "FStringFlagRepoGitHashFastString": "3405543475dd7c0c5e5379d4c2a090bfd0fb958f",
+    "DFStringFlagRepoGitHashDynamicString": "3405543475dd7c0c5e5379d4c2a090bfd0fb958f",
+    "FStringFlipTimeStampFastString": "2024-04-25T17:16:11.464Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-25T17:16:11.464Z"
 }
