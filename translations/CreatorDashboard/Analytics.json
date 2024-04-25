@@ -537,7 +537,7 @@
     "Label.Refresh": "Refresh",
     "Label.Dimension.EventType.All": "All",
     "Label.Dimension.EventType": "Event Type",
-    "Action.Reset": "Reset",
+    "Action.Reset": "Reset Filters",
     "Action.Close": "Close",
     "Heading.InExperienceEconomyZeroState": "Grow your in-experience economy",
     "Description.InExperienceEconomyZeroStateOnboarding": "Add economy events to unlock this dashboard:\n{listStart}\n{listItemStart}{boldStart}Top sinks:{boldEnd} What do users spend resources (e.g., gold) on?{listItemEnd}\n{listItemStart}{boldStart}Top sources:{boldEnd} Where do users earn resources from?{listItemEnd}\n{listItemStart}{boldStart}Wallet balance:{boldEnd} How much resources are users holding?{listItemEnd}\n{listEnd}",
