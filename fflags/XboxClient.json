@@ -11983,6 +11983,7 @@
     "DFFlagBatchId12HotrodAccessorMigration_Rollout": "True;60;2024-04-25T19:56:45",
     "FFlagCLI98640_player_conf_access_Rollout": "True;60;2024-04-25T20:06:14",
     "FFlagVideoFixGpuShaderAspectRatio_Rollout": "False;60;2024-04-25T20:11:58",
+    "FFlagRibbonXMLFlagList_Rollout": "True;30;2024-04-25T20:26:50",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12286,8 +12287,8 @@
     "FFlagUGCValidateMinBoundsOnlyMesh": "True",
     "FFlagXboxInferredCrashUnbufferedIO": "True",
     "FFlagUGCValidateFullBody2": "True",
-    "FStringFlagRepoGitHashFastString": "e685d1a1c655872fce26d25740ddafa245ab8dfb",
-    "DFStringFlagRepoGitHashDynamicString": "e685d1a1c655872fce26d25740ddafa245ab8dfb",
-    "FStringFlipTimeStampFastString": "2024-04-25T20:16:49.056Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-25T20:16:49.056Z"
+    "FStringFlagRepoGitHashFastString": "a574d7e6b08ec0d970176139736bc206525c8ccd",
+    "DFStringFlagRepoGitHashDynamicString": "a574d7e6b08ec0d970176139736bc206525c8ccd",
+    "FStringFlipTimeStampFastString": "2024-04-25T20:39:26.081Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-25T20:39:26.081Z"
 }
