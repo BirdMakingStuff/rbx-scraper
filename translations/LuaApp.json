@@ -17625,6 +17625,22 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.NotApproved",
+            "key": "Label.AbuseType.Trademark",
+            "description": "Label for trademark violations",
+            "english": "Trademark Violation",
+            "translation": "Trademark Violation",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.NotApproved",
+            "key": "Label.AbuseType.Trademark.Note",
+            "description": "Note for trademark violation",
+            "english": "Roblox does not permit users to violate intellectual property rights.",
+            "translation": "Roblox does not permit users to violate intellectual property rights.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Feature.VerificationUpsell",
             "key": "Heading.AddEmail",
             "description": "Created by jack.liu@roblox.com\nModified by wyao@roblox.com\nCreated by jack.liu@roblox.com\nModified by bdeng@roblox.com",

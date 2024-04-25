@@ -11980,6 +11980,9 @@
     "FFlagRCCJobsUGCValidateUseValidationUtility": "True",
     "DFFlagreadNewSharedStringsPerf": "True",
     "DFFlagUpdateELFDataEarlierInST": "True",
+    "DFFlagBatchId12HotrodAccessorMigration_Rollout": "True;60;2024-04-25T19:56:45",
+    "AllowVideoPreRoll": "True",
+    "FFlagVideoFixGpuShaderAspectRatio_Rollout": "False;60;2024-04-25T20:11:58",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12032,7 +12035,6 @@
     "FFlagColorPickerSliderOptimization2": "True",
     "FFlagAppChatChannelsAPIRolloutRC1": "True",
     "FIntAppChatChannelsAPIRolloutPercentRC1": "50",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12050,7 +12052,6 @@
     "DFFlagPreventReturnOfElevatedPhysicsFPS": "True",
     "DFFlagRakNetDetectNetUnreachable": "True",
     "DFFlagReportClientMemoryCat": "True",
-    "DFFlagServerCopiesPlayerGui3_PlaceFilter": "false;142823291",
     "DFFlagSupportMeshLOD": "True",
     "DFFlagThrottleDebuggerMetrics": "True",
     "DFIntAnalyticsCDNProbeInfluxPermyriad": "100",
@@ -12330,8 +12331,8 @@
     "FFlagAXItemCardTallIXPEnabled": "True",
     "FFlagUGCValidateMinBoundsOnlyMesh": "True",
     "FFlagUGCValidateFullBody2": "True",
-    "FStringFlagRepoGitHashFastString": "47bb24ce58158058825e285d0ee1343f392c2330",
-    "DFStringFlagRepoGitHashDynamicString": "47bb24ce58158058825e285d0ee1343f392c2330",
-    "FStringFlipTimeStampFastString": "2024-04-25T19:36:46.619Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-25T19:36:46.619Z"
+    "FStringFlagRepoGitHashFastString": "e685d1a1c655872fce26d25740ddafa245ab8dfb",
+    "DFStringFlagRepoGitHashDynamicString": "e685d1a1c655872fce26d25740ddafa245ab8dfb",
+    "FStringFlipTimeStampFastString": "2024-04-25T20:16:49.056Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-25T20:16:49.056Z"
 }
