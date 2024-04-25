@@ -18300,8 +18300,8 @@
             "namespace": "Feature.VerificationUpsell",
             "key": "Description.ShortCodeLegalDisclaimerUA",
             "description": "Created by hyang@roblox.com\nModified by hyang@roblox.com\nCreated by hyang@roblox.com\nModified by bdeng@roblox.com",
-            "english": "By clicking \"Continue\", you are submitting your phone number and agreeing to our SMS Terms of Use and Privacy Policy. We will send you a one-time verification code. Message and data rates may apply. Reply HELP for help.",
-            "translation": "By clicking \"Continue\", you are submitting your phone number and agreeing to our SMS Terms of Use and Privacy Policy. We will send you a one-time verification code. Message and data rates may apply. Reply HELP for help.",
+            "english": "By clicking “Continue”, you are submitting your phone number and agreeing to our SMS Terms of Use and Privacy Policy. We will send you a one-time verification code. Message and data rates may apply. Reply HELP for help.",
+            "translation": "By clicking “Continue”, you are submitting your phone number and agreeing to our SMS Terms of Use and Privacy Policy. We will send you a one-time verification code. Message and data rates may apply. Reply HELP for help.",
             "isDeprecated": false
         },
         {
