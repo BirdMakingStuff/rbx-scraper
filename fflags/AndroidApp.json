@@ -11994,7 +11994,7 @@
     "FFlagMaterialPickerBetaFeature": "True",
     "FFlagGraphicsFixEmptyMeshResource": "True",
     "FFlagStudioStrictLowMemoryCheck": "True",
-    "FFlagFixTerrainEditorDETruncations_Rollout": "True;60;2024-04-26T18:49:10",
+    "FFlagFixTerrainEditorDETruncations": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12495,8 +12495,8 @@
     "FFlagReportVendorDeviceDriverToTelemetry": "True",
     "FFlagSessionTrackingAddCrashReasonAndMessage": "True",
     "FFlagSetDbgInfoVulkan": "True",
-    "FStringFlagRepoGitHashFastString": "fe357c4cb0e4990ceaa1d181e106dcfd9b328ae1",
-    "DFStringFlagRepoGitHashDynamicString": "fe357c4cb0e4990ceaa1d181e106dcfd9b328ae1",
-    "FStringFlipTimeStampFastString": "2024-04-26T19:26:53.425Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T19:26:53.425Z"
+    "FStringFlagRepoGitHashFastString": "5b0649d6deece3e1bd1d8c5967b835b982e6708f",
+    "DFStringFlagRepoGitHashDynamicString": "5b0649d6deece3e1bd1d8c5967b835b982e6708f",
+    "FStringFlipTimeStampFastString": "2024-04-26T20:28:03.537Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T20:28:03.537Z"
 }
