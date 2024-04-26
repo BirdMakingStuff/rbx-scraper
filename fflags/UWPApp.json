@@ -10883,7 +10883,7 @@
     "FFlagUserResizeAwareTouchControls": "True",
     "FFlagInteractableStateForGuiObjects3_PlaceFilter": "True;5141682374;606849621;15212311353;16126290449;12601193286;16720516194;16914007131;16847065772",
     "FFlagEnableViewabilityReporting": "True",
-    "FIntLuauCodeGenMaxTotalSize": "33554432",
+    "FIntLuauCodeGenMaxTotalSize": "67108864",
     "FFlagLuaAppShowPillContainsStrongLanguageContent": "True",
     "FFlagGuiHidingApiSupport2": "True",
     "FIntNewDockingBetaFeatureRolloutPercent": "20",
@@ -11992,7 +11992,6 @@
     "FFlagStudioHeartbeatsAddErrorLogging": "True",
     "FFlagUseUpsellCardOmniFeedItem": "True",
     "FFlagMaterialPickerBetaFeature": "True",
-    "FIntLuauCodeGenMaxTotalSize_Rollout": "67108864;30;2024-04-26T18:21:43",
     "FFlagGraphicsFixEmptyMeshResource": "True",
     "FFlagStudioStrictLowMemoryCheck": "True",
     "FFlagFixTerrainEditorDETruncations_Rollout": "True;60;2024-04-26T18:49:10",
@@ -12199,8 +12198,8 @@
     "FFlagUGCValidateMinBoundsOnlyMesh": "True",
     "FFlagUGCValidateFullBody2": "True",
     "FFlagUpdateFmodVorbisDecoder": "True",
-    "FStringFlagRepoGitHashFastString": "3b288326dd20d500b44a8a35f300756fdedea1ba",
-    "DFStringFlagRepoGitHashDynamicString": "3b288326dd20d500b44a8a35f300756fdedea1ba",
-    "FStringFlipTimeStampFastString": "2024-04-26T19:12:28.874Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T19:12:28.874Z"
+    "FStringFlagRepoGitHashFastString": "fe357c4cb0e4990ceaa1d181e106dcfd9b328ae1",
+    "DFStringFlagRepoGitHashDynamicString": "fe357c4cb0e4990ceaa1d181e106dcfd9b328ae1",
+    "FStringFlipTimeStampFastString": "2024-04-26T19:26:53.425Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T19:26:53.425Z"
 }
