@@ -11992,9 +11992,10 @@
     "FFlagStudioHeartbeatsAddErrorLogging": "True",
     "FFlagUseUpsellCardOmniFeedItem": "True",
     "FFlagMaterialPickerBetaFeature": "True",
-    "FFlagStudioStrictLowMemoryCheck_Rollout": "True;60;2024-04-26T17:12:10",
     "FIntLuauCodeGenMaxTotalSize_Rollout": "67108864;30;2024-04-26T18:21:43",
     "FFlagGraphicsFixEmptyMeshResource": "True",
+    "FFlagStudioStrictLowMemoryCheck": "True",
+    "FFlagFixTerrainEditorDETruncations_Rollout": "True;60;2024-04-26T18:49:10",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12300,9 +12301,9 @@
     "FFlagUGCValidateFullBody2": "True",
     "FFlagLuaAppUseAppChatDeps": "True",
     "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
-    "FFlagTenFootUiExperiencesOmniLogFix_Rollout": "True;60;2024-04-26T17:07:49",
-    "FStringFlagRepoGitHashFastString": "9df14ca21a1ded8c891c28d8e3b91bc850d4ab08",
-    "DFStringFlagRepoGitHashDynamicString": "9df14ca21a1ded8c891c28d8e3b91bc850d4ab08",
-    "FStringFlipTimeStampFastString": "2024-04-26T18:37:20.052Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T18:37:20.052Z"
+    "FFlagTenFootUiExperiencesOmniLogFix": "True",
+    "FStringFlagRepoGitHashFastString": "3b288326dd20d500b44a8a35f300756fdedea1ba",
+    "DFStringFlagRepoGitHashDynamicString": "3b288326dd20d500b44a8a35f300756fdedea1ba",
+    "FStringFlipTimeStampFastString": "2024-04-26T19:12:28.874Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T19:12:28.874Z"
 }
