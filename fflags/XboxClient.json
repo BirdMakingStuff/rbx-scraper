@@ -11925,7 +11925,7 @@
     "FFlagEnableJoinGameIsolationContext": "True",
     "FFlagCAPChromelessInputBox": "True",
     "FFlagVideoAnalyticsReportFpsAndMemory": "True",
-    "FFlagJoinTimeIXP": "False",
+    "FFlagJoinTimeIXP": "True",
     "FFlagVideoStreamCleanup": "True",
     "FFlagEnableSwitchBaseUrlToRblx": "True",
     "FIntInlinePropertyChangeItems": "250",
@@ -11991,10 +11991,10 @@
     "FFlagDevFrameworkScrollingFrameAlignments": "True",
     "FFlagStudioHeartbeatsAddErrorLogging": "True",
     "FFlagUseUpsellCardOmniFeedItem": "True",
-    "FFlagJoinTimeIXP_Rollout": "True;30;2024-04-26T16:58:15",
     "FFlagMaterialPickerBetaFeature": "True",
     "FFlagGraphicsFixEmptyMeshResource_Rollout": "True;60;2024-04-26T17:04:06",
     "FFlagStudioStrictLowMemoryCheck_Rollout": "True;60;2024-04-26T17:12:10",
+    "FIntLuauCodeGenMaxTotalSize_Rollout": "67108864;30;2024-04-26T18:21:43",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12301,8 +12301,8 @@
     "FFlagLuaAppUseAppChatDeps": "True",
     "FFlagLuaAppUseDiscoveryUiBloxDeps": "True",
     "FFlagTenFootUiExperiencesOmniLogFix_Rollout": "True;60;2024-04-26T17:07:49",
-    "FStringFlagRepoGitHashFastString": "20b93c0b338cba8eb083a599acce367463e35b95",
-    "DFStringFlagRepoGitHashDynamicString": "20b93c0b338cba8eb083a599acce367463e35b95",
-    "FStringFlipTimeStampFastString": "2024-04-26T17:36:59.125Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T17:36:59.125Z"
+    "FStringFlagRepoGitHashFastString": "80ef09b05cbf2f2207f598563df667c720d1738e",
+    "DFStringFlagRepoGitHashDynamicString": "80ef09b05cbf2f2207f598563df667c720d1738e",
+    "FStringFlipTimeStampFastString": "2024-04-26T18:22:25.825Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T18:22:25.825Z"
 }
