@@ -699,5 +699,8 @@
     "Description.TotalSourcesAndSinks": "Balance your economy (e.g., if net flow is negative, consider adding sources).",
     "Description.AverageWalletBalance": "Monitor balance (e.g., if balance is growing, consider adding new sinks).",
     "Description.TopSourcesAndSinks": "Adjust prices and item variety to optimize your sources and sinks.",
-    "Message.NoDataForSelectedFilter": "No data for selected filter."
+    "Label.Device": "Device",
+    "Label.User": "User",
+    "Message.NoDataForSelectedFilter": "No data for selected filter.",
+    "Label.Metric": "Metric"
 }
