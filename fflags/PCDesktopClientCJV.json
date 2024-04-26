@@ -12343,9 +12343,10 @@
     "FFlagUGCValidateMinBoundsOnlyMesh": "True",
     "FFlagUGCValidateFullBody2": "True",
     "FFlagAXItemCardTallEnabled": "True",
+    "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix_Rollout": "True;60;2024-04-26T16:28:36",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "54930d56be03e9397ffe4f76042a808dc3915709",
-    "DFStringFlagRepoGitHashDynamicString": "54930d56be03e9397ffe4f76042a808dc3915709",
-    "FStringFlipTimeStampFastString": "2024-04-26T16:11:07.856Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T16:11:07.856Z"
+    "FStringFlagRepoGitHashFastString": "ae1469bfb44c0406f27813151322cea16c10fc69",
+    "DFStringFlagRepoGitHashDynamicString": "ae1469bfb44c0406f27813151322cea16c10fc69",
+    "FStringFlipTimeStampFastString": "2024-04-26T16:29:05.535Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T16:29:05.535Z"
 }
