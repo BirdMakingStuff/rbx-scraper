@@ -695,7 +695,7 @@
     "Label.FourToEightGB": "4GB-8GB",
     "Description.Table.AllSourcesAndSinks": "Monitor top sources and sinks overall and by category.",
     "Label.OverEightGB": "8GB+",
-    "Label.Dimension.MemoryGroup": "Memory Group (Client Crash Rate Only)",
+    "Label.Dimension.MemoryGroup": "Memory Group",
     "Description.TotalSourcesAndSinks": "Balance your economy (e.g., if net flow is negative, consider adding sources).",
     "Description.AverageWalletBalance": "Monitor balance (e.g., if balance is growing, consider adding new sinks).",
     "Description.TopSourcesAndSinks": "Adjust prices and item variety to optimize your sources and sinks."
