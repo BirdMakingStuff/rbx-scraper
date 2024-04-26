@@ -11991,6 +11991,7 @@
     "FFlagDevFrameworkScrollingFrameAlignments": "True",
     "FFlagStudioHeartbeatsAddErrorLogging": "True",
     "FFlagUseUpsellCardOmniFeedItem": "True",
+    "FFlagMaterialPickerBetaFeature_Rollout": "True;30;2024-04-26T15:58:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12562,6 +12563,8 @@
     "FFlagAppChatChannelsAPIRolloutRC1": "True",
     "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
     "FFlagAppChatChannelsAPIForAllRC1": "True",
+    "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-26T16:02:07",
+    "FFlagEnableCapturesDesktopExperiment_v9_Rollout": "True;60;2024-04-26T16:02:28",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -12576,8 +12579,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "295c46581faab73d58d9c4da2328db1db0d3e83e",
-    "DFStringFlagRepoGitHashDynamicString": "295c46581faab73d58d9c4da2328db1db0d3e83e",
-    "FStringFlipTimeStampFastString": "2024-04-26T01:46:05.631Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T01:46:05.631Z"
+    "FStringFlagRepoGitHashFastString": "54930d56be03e9397ffe4f76042a808dc3915709",
+    "DFStringFlagRepoGitHashDynamicString": "54930d56be03e9397ffe4f76042a808dc3915709",
+    "FStringFlipTimeStampFastString": "2024-04-26T16:11:07.856Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T16:11:07.856Z"
 }
