@@ -26,4 +26,5 @@ jobs:
           git pull
           git add -A
           git diff --exit-code --cached || git commit -a -m "`date`"
+          git pull
           git push
