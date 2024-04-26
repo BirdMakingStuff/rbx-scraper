@@ -12567,8 +12567,8 @@
     "FFlagAppChatChannelsAPIRolloutRC1": "True",
     "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
     "FFlagAppChatChannelsAPIForAllRC1": "True",
-    "FFlagFixMacSaveToExternalStorage_Rollout": "True;60;2024-04-26T16:02:07",
-    "FFlagEnableCapturesDesktopExperiment_v9_Rollout": "True;60;2024-04-26T16:02:28",
+    "FFlagEnableCapturesDesktopExperiment_v9": "True",
+    "FFlagFixMacSaveToExternalStorage": "True",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -12583,8 +12583,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "d2b4f331e0b396947f24f7375ffe0312dbcc8265",
-    "DFStringFlagRepoGitHashDynamicString": "d2b4f331e0b396947f24f7375ffe0312dbcc8265",
-    "FStringFlipTimeStampFastString": "2024-04-26T17:13:42.637Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T17:13:42.637Z"
+    "FStringFlagRepoGitHashFastString": "20b93c0b338cba8eb083a599acce367463e35b95",
+    "DFStringFlagRepoGitHashDynamicString": "20b93c0b338cba8eb083a599acce367463e35b95",
+    "FStringFlipTimeStampFastString": "2024-04-26T17:36:59.125Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T17:36:59.125Z"
 }

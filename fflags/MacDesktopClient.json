@@ -12364,8 +12364,9 @@
     "DFFlagVoiceChatProfileJoinProcessIgnoreRetriesFix": "True",
     "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
     "FFlagLuaAppAddSortsTopicLayoutDataInAppend_Rollout": "True;30;2024-04-26T16:46:57",
-    "FStringFlagRepoGitHashFastString": "d2b4f331e0b396947f24f7375ffe0312dbcc8265",
-    "DFStringFlagRepoGitHashDynamicString": "d2b4f331e0b396947f24f7375ffe0312dbcc8265",
-    "FStringFlipTimeStampFastString": "2024-04-26T17:13:42.637Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T17:13:42.637Z"
+    "DFFlagEnableAdSizeTracking_Rollout": "True;60;2024-04-26T17:31:58",
+    "FStringFlagRepoGitHashFastString": "20b93c0b338cba8eb083a599acce367463e35b95",
+    "DFStringFlagRepoGitHashDynamicString": "20b93c0b338cba8eb083a599acce367463e35b95",
+    "FStringFlipTimeStampFastString": "2024-04-26T17:36:59.125Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T17:36:59.125Z"
 }
