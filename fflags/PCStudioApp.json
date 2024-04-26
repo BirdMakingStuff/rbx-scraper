@@ -11273,7 +11273,6 @@
     "FFlagGameSettingsFixGuidelinesQuestionnareInfo": "True",
     "FIntTooltipHitboxMinSize": "30",
     "DFFlagUIErrorCaptureFix": "True",
-    "FFlagPoolSmallFmodAllocs2": "True",
     "FFlagLuauMakeStringMethodsChecked": "True",
     "FFlagJavaAudioDeviceSelection2": "False",
     "FFlagHttpWrapperAddCustomHeadersOption": "True",
@@ -12573,8 +12572,8 @@
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "5b0649d6deece3e1bd1d8c5967b835b982e6708f",
-    "DFStringFlagRepoGitHashDynamicString": "5b0649d6deece3e1bd1d8c5967b835b982e6708f",
-    "FStringFlipTimeStampFastString": "2024-04-26T20:28:03.537Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T20:28:03.537Z"
+    "FStringFlagRepoGitHashFastString": "f466e65a41f0df5a9ab7e422aab446099b638603",
+    "DFStringFlagRepoGitHashDynamicString": "f466e65a41f0df5a9ab7e422aab446099b638603",
+    "FStringFlipTimeStampFastString": "2024-04-26T21:38:50.905Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T21:38:50.905Z"
 }
