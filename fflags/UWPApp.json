@@ -9990,7 +9990,7 @@
     "FIntLogReportingMaxLogCount": "-1",
     "FFlagBroadphaseMovedPrimitiveCleanup1": "True",
     "FFlagXboxBetterTaskExceptionHandling": "True",
-    "DFFlagFlagRolloutTestDynamicBool6": "True",
+    "DFFlagFlagRolloutTestDynamicBool6": "False",
     "DFFlagFlagRolloutTestDynamicBool7": "False",
     "DFFlagFlagRolloutTestDynamicBool8": "False",
     "DFFlagFlagRolloutTestDynamicBool9": "False",
@@ -11989,7 +11989,6 @@
     "FFlagAvatarPreviewerRemapPreferredLayers2": "True",
     "FFlagDevFrameworkAssetRenderModelImageTransparency": "True",
     "FFlagDevFrameworkScrollingFrameAlignments": "True",
-    "DFFlagFlagRolloutTestDynamicBool6_Rollout": "False;60;2024-04-26T00:10:13",
     "FFlagStudioHeartbeatsAddErrorLogging": "True",
     "FFlagUseUpsellCardOmniFeedItem": "True",
     "AllowVideoPreRoll": "True",
@@ -12195,8 +12194,8 @@
     "FFlagUGCValidateMinBoundsOnlyMesh": "True",
     "FFlagUGCValidateFullBody2": "True",
     "FFlagUpdateFmodVorbisDecoder": "True",
-    "FStringFlagRepoGitHashFastString": "b4f25d629b7b64b423fd7f5836320c95ad0a8645",
-    "DFStringFlagRepoGitHashDynamicString": "b4f25d629b7b64b423fd7f5836320c95ad0a8645",
-    "FStringFlipTimeStampFastString": "2024-04-26T01:06:37.639Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T01:06:37.639Z"
+    "FStringFlagRepoGitHashFastString": "295c46581faab73d58d9c4da2328db1db0d3e83e",
+    "DFStringFlagRepoGitHashDynamicString": "295c46581faab73d58d9c4da2328db1db0d3e83e",
+    "FStringFlipTimeStampFastString": "2024-04-26T01:46:05.631Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-26T01:46:05.631Z"
 }
