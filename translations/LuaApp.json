@@ -10369,6 +10369,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Notifications.NotificationStream",
+            "key": "Action.Settings",
+            "description": "Navigate to Settings",
+            "english": "Settings",
+            "translation": "Settings",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Purchasing.RobloxProducts",
             "key": "Label.RobuxBalance",
             "description": "Balance : [quantity] Robux\nCreated by <Unknown>\nModified by ptrethewey@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
