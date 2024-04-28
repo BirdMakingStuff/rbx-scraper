@@ -12569,7 +12569,7 @@
     "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
     "FFlagUpdateFmodVorbisDecoder": "True",
     "FFlagCountCollisionGeometryTypeUsage": "True",
-    "FFlagEnableCapturesDesktopExperiment_v9": "True",
+    "FFlagEnableCapturesDesktopExperiment_v9": "False",
     "FFlagFixMacSaveToExternalStorage": "True",
     "FFlagAppChatChannelsAPIForAllRC1": "True",
     "FLogSignalRNotification": "0",
@@ -12581,8 +12581,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "195a0014bf4fc66360e3d46e5bef9d905098f816",
-    "DFStringFlagRepoGitHashDynamicString": "195a0014bf4fc66360e3d46e5bef9d905098f816",
-    "FStringFlipTimeStampFastString": "2024-04-26T23:12:58.759Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-26T23:12:58.759Z"
+    "FStringFlagRepoGitHashFastString": "8d7ccb5e71c2ec3c9acf6a785a152fa9b69245bf",
+    "DFStringFlagRepoGitHashDynamicString": "8d7ccb5e71c2ec3c9acf6a785a152fa9b69245bf",
+    "FStringFlipTimeStampFastString": "2024-04-28T03:53:34.841Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-28T03:53:34.841Z"
 }
