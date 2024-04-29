@@ -12003,8 +12003,6 @@
     "FFlagEnableErrorLoggingForAPICallsV1": "True",
     "DFFlagThumbnailVideoStreamReportVideoLoads": "True",
     "FFlagIBEnableSendCounters1": "True",
-    "FFlagPersistentPlatformFriends_Rollout": "True;60;2024-04-29T20:56:35",
-    "FFlagEnableNewToolboxCreationContextErrors_Rollout": "True;60;2024-04-29T21:02:19",
     "FFlagFixCreatorGroupIdNotChanging_Rollout": "True;60;2024-04-29T21:08:21",
     "FFlagEnableBundlePurchaseChecks_Rollout": "True;60;2024-04-29T21:11:18",
     "FFlagSTUDIOPLAT_33802_AnrDetectorStopDuringExitCausesHang_Rollout": "True;60;2024-04-29T21:12:17",
@@ -12042,6 +12040,10 @@
     "DFIntGjkBulkTileThreshold": "0",
     "DFFlagCLI94314": "True",
     "AllowVideoPreRoll": "True",
+    "DFFlagCheckValidatePurchaseTicketForStringSafety_Rollout": "True;60;2024-04-29T22:21:19",
+    "FFlagPersistentPlatformFriends": "True",
+    "FFlagEnableNewToolboxCreationContextErrors": "True",
+    "DFIntAverageTimeSimulationBreakdownHundredthsPercentage_Rollout": "100;60;2024-04-29T22:38:26",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12343,8 +12345,8 @@
     "FFlagXboxInferredCrashReportOld": "True",
     "FFlagXboxInferredCrashUnbufferedIO": "True",
     "FFlagTenFootUiExperiencesOmniLogFix": "True",
-    "FStringFlagRepoGitHashFastString": "be2eebfca0cb7be062937dda6a76da4b1859b306",
-    "DFStringFlagRepoGitHashDynamicString": "be2eebfca0cb7be062937dda6a76da4b1859b306",
-    "FStringFlipTimeStampFastString": "2024-04-29T22:16:37.454Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-29T22:16:37.454Z"
+    "FStringFlagRepoGitHashFastString": "87bc1c30e1f521ab97c7a28e20832ac8f7b4377c",
+    "DFStringFlagRepoGitHashDynamicString": "87bc1c30e1f521ab97c7a28e20832ac8f7b4377c",
+    "FStringFlipTimeStampFastString": "2024-04-29T22:39:11.280Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-29T22:39:11.280Z"
 }
