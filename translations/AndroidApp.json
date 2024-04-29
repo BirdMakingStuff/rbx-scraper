@@ -9185,6 +9185,14 @@
             "isDeprecated": false
         },
         {
+            "namespace": "Feature.Groups",
+            "key": "Message.SubscribeToNotificationsError",
+            "description": "Message displayed to user when subscribing to group notifications fails.",
+            "english": "Unable to subscribe to group notifications. Please try again.",
+            "translation": "Unable to subscribe to group notifications. Please try again.",
+            "isDeprecated": false
+        },
+        {
             "namespace": "Features.ChooseAdv",
             "key": "Label.WhatsNext",
             "description": "Created by jdalmendray@roblox.com\nModified by czhang@roblox.com\nCreated by jdalmendray@roblox.com\nModified by bdeng@roblox.com",
