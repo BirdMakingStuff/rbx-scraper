@@ -702,5 +702,6 @@
     "Label.Device": "Device",
     "Label.User": "User",
     "Message.NoDataForSelectedFilter": "No data for selected filter.",
-    "Label.Metric": "Metric"
+    "Label.Metric": "Metric",
+    "Label.ShowOrHideAnnotations": "Show or hide annotations"
 }
