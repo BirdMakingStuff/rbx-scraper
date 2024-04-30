@@ -18,7 +18,7 @@ jobs:
       - run: "python -m pip install --upgrade pip"
       - run: "pip install -r requirements.txt"
       - run: "python FFlags.py"
-      - run: "python Translations.py"
+      # - run: "python Translations.py"
 
       - name: "Commit and push to repo"
         run: |
