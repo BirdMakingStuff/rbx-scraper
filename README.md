@@ -10,9 +10,9 @@ If there any FFlag channels which are not currently present, please file an issu
 ## Translations
 Translations are scraped from:
 - create.roblox.com for Creator Dashboard (in Translations-CreatorDashboard.py)
-- translations.roblox.com for all other endpoints (in Translations.py)
+- ~~translations.roblox.com for all other endpoints (in Translations.py)~~
 
-Web translations used to be scraped by an older version of rbxpyscraper using the translations.roblox.com endpoint but stopped working as of late 2023. A new scraper for Web translations may be implemented in the future.
+Web translations used to be scraped by an older version of rbxscraper using the translations.roblox.com endpoint but stopped working as of late 2023. The translations.roblox.com endpoint stopped working for all other channels using the endpoint as of 01/05/2024. A new scraper for ~~Web~~ non-Creator Dashboard translations may be implemented in the future.
 
 ## Requirements
 - Python 3.12
