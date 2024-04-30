@@ -703,5 +703,6 @@
     "Label.User": "User",
     "Message.NoDataForSelectedFilter": "No data for selected filter.",
     "Label.Metric": "Metric",
-    "Label.ShowOrHideAnnotations": "Show or hide annotations"
+    "Label.ShowOrHideAnnotations": "Show or hide annotations",
+    "Label.Dimension.RevenueSource": "Revenue Source"
 }
