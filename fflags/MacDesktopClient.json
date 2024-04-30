@@ -12050,8 +12050,10 @@
     "FFlagFixMacSaveToExternalStorage": "True",
     "DFFlagCLI101868": "True",
     "DFFlagVideoCaptureReportDurationInSec": "True",
-    "FIntInGameMenuChromeAllowlistTimeout_Rollout": "0;15;2024-04-30T15:46:57",
     "DFIntAndroidDeprecationPhase_Rollout": "3;30;2024-04-30T16:20:33",
+    "FFlagScriptContextBufferTelemetry2_Rollout": "True;30;2024-04-30T16:35:33",
+    "FIntInGameMenuChromeAllowlistTimeout": "0",
+    "DFFlagBufferReplLimit_Rollout": "True;30;2024-04-30T16:38:31",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12408,8 +12410,8 @@
     "FFlagAXItemCardTallEnabled": "True",
     "FFlagEnableImpressionReporterCounter3": "True",
     "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
-    "FStringFlagRepoGitHashFastString": "825046684f49310f53f5103303b0811664152a99",
-    "DFStringFlagRepoGitHashDynamicString": "825046684f49310f53f5103303b0811664152a99",
-    "FStringFlipTimeStampFastString": "2024-04-30T16:21:04.592Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-30T16:21:04.592Z"
+    "FStringFlagRepoGitHashFastString": "069c182431bb86408f2a8a5204eae80ff9fb8b28",
+    "DFStringFlagRepoGitHashDynamicString": "069c182431bb86408f2a8a5204eae80ff9fb8b28",
+    "FStringFlipTimeStampFastString": "2024-04-30T16:38:59.211Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-30T16:38:59.211Z"
 }
