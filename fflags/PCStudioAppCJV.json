@@ -12050,6 +12050,8 @@
     "FFlagFixMacSaveToExternalStorage": "True",
     "DFFlagCLI101868": "True",
     "DFFlagVideoCaptureReportDurationInSec": "True",
+    "FIntInGameMenuChromeAllowlistTimeout_Rollout": "0;15;2024-04-30T15:46:57",
+    "DFIntAndroidDeprecationPhase_Rollout": "3;30;2024-04-30T16:20:33",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12615,7 +12617,6 @@
     "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
     "FFlagAppChatChannelsAPIForAllRC1": "True",
     "FFlagEnableCapturesDesktopExperiment_v9": "False",
-    "FFlagLuaAppGameTileOTA1": "True",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -12631,8 +12632,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "29b4fa964955171184613a109c89cf65503c89c1",
-    "DFStringFlagRepoGitHashDynamicString": "29b4fa964955171184613a109c89cf65503c89c1",
-    "FStringFlipTimeStampFastString": "2024-04-30T01:18:05.576Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-30T01:18:05.576Z"
+    "FStringFlagRepoGitHashFastString": "825046684f49310f53f5103303b0811664152a99",
+    "DFStringFlagRepoGitHashDynamicString": "825046684f49310f53f5103303b0811664152a99",
+    "FStringFlipTimeStampFastString": "2024-04-30T16:21:04.592Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-30T16:21:04.592Z"
 }
