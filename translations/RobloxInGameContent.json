@@ -266,6 +266,22 @@
         },
         {
             "namespace": "Feature.ReportAbuse",
+            "key": "Action.Submit",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Submit",
+            "translation": "Submit",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.ReportAbuse",
+            "key": "Action.Close",
+            "description": "Created by <Unknown>\nModified by <TranslationMigrator>\nCreated by <Unknown>\nModified by bdeng@roblox.com",
+            "english": "Close",
+            "translation": "Close",
+            "isDeprecated": false
+        },
+        {
+            "namespace": "Feature.ReportAbuse",
             "key": "Message.ErrorSubmit",
             "description": "Created by <Unknown>\nModified by mperry@roblox.com\nCreated by <Unknown>\nModified by bdeng@roblox.com",
             "english": "There was a problem submitting your report.",
