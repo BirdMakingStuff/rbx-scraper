@@ -7,7 +7,7 @@ requestURL = "https://translations.roblox.com/v1/translations/en_us?consumerType
 translationStringFolderLocation = "/home/runner/work/rbx-scraper/rbx-scraper/translations"
 
 consumerTypes = [
-"AndroidApp",
+# "AndroidApp",
 "IOSApp",
 # "Web",
 "LuaApp",
