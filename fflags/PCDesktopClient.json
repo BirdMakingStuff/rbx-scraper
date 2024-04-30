@@ -12427,9 +12427,9 @@
     "FFlagAXItemCardTallEnabled": "True",
     "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
     "FFlagEnableImpressionReporterCounter3": "True",
-    "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest_Rollout": "1;60;2024-04-30T19:34:44",
-    "FStringFlagRepoGitHashFastString": "2fdb39d9d0dd81a09e1f896f5652a438eae0ac39",
-    "DFStringFlagRepoGitHashDynamicString": "2fdb39d9d0dd81a09e1f896f5652a438eae0ac39",
-    "FStringFlipTimeStampFastString": "2024-04-30T20:50:46.866Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-30T20:50:46.866Z"
+    "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
+    "FStringFlagRepoGitHashFastString": "988272ea970bb5bb8d151b009987587f1e659434",
+    "DFStringFlagRepoGitHashDynamicString": "988272ea970bb5bb8d151b009987587f1e659434",
+    "FStringFlipTimeStampFastString": "2024-04-30T21:07:24.828Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-30T21:07:24.828Z"
 }

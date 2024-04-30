@@ -12069,7 +12069,6 @@
     "FFlagTerrainFixThumbnailerTextures": "True",
     "FFlagRealtimeAssignIsConnectedFunc": "True",
     "DFFlagBatchId1HotrodAccessorMigration": "True",
-    "FFlagEnableHarmonyOnFrameRateManagerShadow_Rollout": "True;60;2024-04-30T19:36:58",
     "DFFlagSignalAncestryDeferredYield": "True",
     "FFlagGjkFastSupport": "True",
     "DFFlagAvatarChatServiceEnableVoiceEnabledV1_PlaceFilter": "True;17083276694",
@@ -12082,6 +12081,7 @@
     "DFFlagAvatarChatTelemetryAddTrackingTimeToSessionTracking2_Rollout": "True;60;2024-04-30T20:14:31",
     "FFlagCAPInstanceTrackerForUndoTelemetry2_Rollout": "True;60;2024-04-30T20:24:52",
     "EnableScreentimeClientBehavior": "True",
+    "FFlagEnableHarmonyOnFrameRateManagerShadow": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12427,10 +12427,10 @@
     "FFlagAXItemCardTallEnabled": "True",
     "DFFlagClusterCache8_PlaceFilter": "True;11704434873;8650964641;15696848933;7714627632;11765402359;14626846273",
     "FFlagEnableImpressionReporterCounter3": "True",
-    "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest_Rollout": "1;60;2024-04-30T19:34:44",
+    "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "2fdb39d9d0dd81a09e1f896f5652a438eae0ac39",
-    "DFStringFlagRepoGitHashDynamicString": "2fdb39d9d0dd81a09e1f896f5652a438eae0ac39",
-    "FStringFlipTimeStampFastString": "2024-04-30T20:50:46.866Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-30T20:50:46.866Z"
+    "FStringFlagRepoGitHashFastString": "a3428bc4953658a418469c76f496cf54d6dbb964",
+    "DFStringFlagRepoGitHashDynamicString": "a3428bc4953658a418469c76f496cf54d6dbb964",
+    "FStringFlipTimeStampFastString": "2024-04-30T21:18:36.167Z",
+    "DFStringFlipTimeStampDynamicString": "2024-04-30T21:18:36.167Z"
 }
