@@ -12100,6 +12100,7 @@
     "FFlagXboxRemoveAnotherAppStateChange": "True",
     "FFlagToolboxRestrictAssetConfig": "True",
     "FFlagMigrateVerbStatsVerbs_Rollout": "True;30;2024-05-01T20:16:36",
+    "FFlagRenderCrashOnFailedMemoryMap_Rollout": "True;60;2024-05-01T20:25:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12673,8 +12674,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "b13649213b20ec5cdbe13890d3efb9b40439ab11",
-    "DFStringFlagRepoGitHashDynamicString": "b13649213b20ec5cdbe13890d3efb9b40439ab11",
-    "FStringFlipTimeStampFastString": "2024-05-01T20:17:13.507Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-01T20:17:13.507Z"
+    "FStringFlagRepoGitHashFastString": "2b4657f11970f20dabace97a6a581895eb1eec38",
+    "DFStringFlagRepoGitHashDynamicString": "2b4657f11970f20dabace97a6a581895eb1eec38",
+    "FStringFlipTimeStampFastString": "2024-05-01T20:27:52.523Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-01T20:27:52.523Z"
 }
