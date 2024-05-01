@@ -12098,13 +12098,13 @@
     "FFlagEnableNotApprovedCheckBoxTextABTest": "True",
     "FFlagTaskSchedulerSyncWorkerStartup": "True",
     "FFlagMigrateVerbStatsVerbs": "True",
-    "DFFlagBatchId6HotrodAccessorMigration_Rollout": "True;60;2024-05-01T21:49:33",
     "AllowVideoPreRoll": "True",
     "FFlagGrassLengthCustomization_Rollout": "True;60;2024-05-01T22:05:11",
     "FFlagEditableImageColorSpaceConversionSpeedup": "True",
     "DFFlagSimNullWorkspaceGizmoCrashFix": "True",
     "FFlagDevFrameworkFixDarkThemeTextContrastAndSecondaryBorderTokens": "True",
     "DFFlagBatchId17HotrodAccessorMigration_Rollout": "True;60;2024-05-01T23:18:42",
+    "DFFlagBatchId6HotrodAccessorMigration": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12691,8 +12691,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-    "FStringFlagRepoGitHashFastString": "d9d8af52c517e2ea2a04b92bebea0088748e9b96",
-    "DFStringFlagRepoGitHashDynamicString": "d9d8af52c517e2ea2a04b92bebea0088748e9b96",
-    "FStringFlipTimeStampFastString": "2024-05-01T23:19:18.402Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-01T23:19:18.402Z"
+    "FStringFlagRepoGitHashFastString": "cc0ec66eeac2badb182d1b64864dc68f7e26e593",
+    "DFStringFlagRepoGitHashDynamicString": "cc0ec66eeac2badb182d1b64864dc68f7e26e593",
+    "FStringFlipTimeStampFastString": "2024-05-01T23:21:32.030Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-01T23:21:32.030Z"
 }
