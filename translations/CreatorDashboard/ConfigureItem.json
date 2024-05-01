@@ -280,7 +280,7 @@
     "Message.MissingIdVerification": "you have not verified your ID. Please verify your ID under Settings.",
     "Message.MissingPremiumSubscription": "you do not have Premium 1000 or 2200.",
     "Message.MinimumPriceInvalid": "minimum price is invalid. ",
-    "Message.ItemIsModerated": "this item has been moderated.\n",
+    "Message.ItemIsModerated": "this item is moderated.",
     "Message.GroupOwnerMissingPremiumSubscription": "the owner of your group requires Premium 1000 or 2200.",
     "Message.ItemPendingReview": "this item is still pending review.",
     "Message.ItemPriceTooLow": "the price of this item is too low.",
@@ -331,5 +331,8 @@
     "Message.SaveErrorMsgPrefix": "We could not save this item because",
     "Message.AccessDenied": "access is denied",
     "Message.NameOrDescriptionModerated": "the uploaded content name or description was moderated.",
-    "Message.NotEnoughRobux": "the user does not have enough Robux to pay."
+    "Message.NotEnoughRobux": "the user does not have enough Robux to pay.",
+    "Message.BundleIsModerated": "this bundle is pending moderation approval or has been moderated.",
+    "Message.UserDoesNotOwnItem": "user does not own the item.",
+    "Message.ItemIsModeratedOrPendingReview": "this item is moderated or pending review."
 }
