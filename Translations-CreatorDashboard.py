@@ -72,6 +72,9 @@ if not os.path.exists(folderLocation + "/CreatorDashboard"):
 pageRequest = requests.get("https://create.roblox.com")
 if pageRequest.status_code >= 400:
     raise("Error when retrieving initial Creator Dashboard page: " + pageRequest.text)
+print(pageRequest.text)
+
+"""
 soup = BeautifulSoup(pageRequest.text, 'html.parser')
 linkList = soup.findAll("link")
 iconLink = linkList[0].get("href")
@@ -90,3 +93,4 @@ for namespace in namespaces:
     namespaceFile = open(os.path.join(folderLocation + "/CreatorDashboard", namespace) + ".json", "w", encoding="utf-8-sig")
     namespaceFile.write(namespaceText)
     namespaceFile.close()
+"""
