@@ -12089,6 +12089,8 @@
     "DFFlagRealtimeMeasurementInjectIsConnectedStatus": "True",
     "FFlagUserFixVRAvatarGesturesSeats_Rollout": "True;60;2024-05-01T16:57:37",
     "FFlagVRServiceStudioExplorer3_Rollout": "True;60;2024-05-01T17:05:44",
+    "FFlagInvisibleMeshThumbnailFix": "True",
+    "FIntRuntimeWorkerStackSize": "2097152",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12437,8 +12439,8 @@
     "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
     "FFlagRenderGlobalInstancingPadBuffers": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "ef7563f60b1d870a61cb5628107f726d285456c8",
-    "DFStringFlagRepoGitHashDynamicString": "ef7563f60b1d870a61cb5628107f726d285456c8",
-    "FStringFlipTimeStampFastString": "2024-05-01T17:07:44.896Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-01T17:07:44.896Z"
+    "FStringFlagRepoGitHashFastString": "4a2e334191fc567eae63594e98c2e6db565e059f",
+    "DFStringFlagRepoGitHashDynamicString": "4a2e334191fc567eae63594e98c2e6db565e059f",
+    "FStringFlipTimeStampFastString": "2024-05-01T17:36:33.721Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-01T17:36:33.721Z"
 }
