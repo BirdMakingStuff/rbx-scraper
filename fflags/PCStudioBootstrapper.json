@@ -98,7 +98,7 @@
     "FFlagAXPortraitSplitAdaptiveScrollingFix2": "True",
     "FFlagColorPickerSliderIXPEnabled7": "True",
     "FFlagColorPickerSliderOptimization2": "True",
-    "FIntMacInstallerRetryTerminateCheckMS_Rollout": "2000;60;2024-04-30T22:41:37",
+    "FIntMacInstallerRetryTerminateCheckMS": "2000",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -113,8 +113,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FStringFlagRepoGitHashFastString": "ea155363ed6e52b42b2ad393fcd6a9c1d756dcda",
-    "DFStringFlagRepoGitHashDynamicString": "ea155363ed6e52b42b2ad393fcd6a9c1d756dcda",
-    "FStringFlipTimeStampFastString": "2024-04-30T23:31:30.582Z",
-    "DFStringFlipTimeStampDynamicString": "2024-04-30T23:31:30.582Z"
+    "FStringFlagRepoGitHashFastString": "4eab0fbf8cd0bad465a5a34f247918af4c31dbd9",
+    "DFStringFlagRepoGitHashDynamicString": "4eab0fbf8cd0bad465a5a34f247918af4c31dbd9",
+    "FStringFlipTimeStampFastString": "2024-05-01T00:41:41.490Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-01T00:41:41.490Z"
 }
