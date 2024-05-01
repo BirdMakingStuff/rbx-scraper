@@ -12091,6 +12091,10 @@
     "FFlagVRServiceStudioExplorer3_Rollout": "True;60;2024-05-01T17:05:44",
     "FFlagInvisibleMeshThumbnailFix": "True",
     "FIntRuntimeWorkerStackSize": "1048576",
+    "FFlagSTUDIOPLAT_33784_ANRReportsInterruptingMainThread_Rollout": "True;60;2024-05-01T18:04:52",
+    "FFlagDisableiOSNotificationStreamOpenEvent": "True",
+    "FFlagUserVRAvatarGestures_Rollout": "True;60;2024-05-01T18:12:49",
+    "FFlagXboxRemoveAnotherAppStateChange_Rollout": "True;60;2024-05-01T18:18:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12584,6 +12588,8 @@
     "DFIntSessionReporterGameRunningMemoryInterval": "1000",
     "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance;60;2024-05-01T16:53:13",
     "DisableNotificationStreamOpenEvent": "True",
+    "FIntEnableCullableScene2HundredthPercent3_Rollout": "1000;30;2024-05-01T18:03:18",
+    "FFlagPerformanceControlSoundTunableV22_Rollout": "True;60;2024-05-01T18:07:05",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -12615,8 +12621,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "4a2e334191fc567eae63594e98c2e6db565e059f",
-    "DFStringFlagRepoGitHashDynamicString": "4a2e334191fc567eae63594e98c2e6db565e059f",
-    "FStringFlipTimeStampFastString": "2024-05-01T17:36:33.721Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-01T17:36:33.721Z"
+    "FStringFlagRepoGitHashFastString": "5b9d8e764cf46643210084816d21fa951145c034",
+    "DFStringFlagRepoGitHashDynamicString": "5b9d8e764cf46643210084816d21fa951145c034",
+    "FStringFlipTimeStampFastString": "2024-05-01T18:19:20.414Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-01T18:19:20.414Z"
 }
