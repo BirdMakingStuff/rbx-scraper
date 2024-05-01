@@ -12078,7 +12078,7 @@
     "EnableScreentimeClientBehavior": "True",
     "FFlagEnableHarmonyOnFrameRateManagerShadow": "True",
     "DFFlagAvatarChatTelemetryAddTrackingTimeToSessionTracking2": "True",
-    "FFlagCAPInstanceTrackerForUndoTelemetry2": "True",
+    "FFlagCAPInstanceTrackerForUndoTelemetry2": "False",
     "FFlagEnableScreentimeClientBehavior": "True",
     "FIntTerrainEditorBetaFeatureRolloutPercent": "50",
     "FFlagStudioReportTeamCreatePacketLoss": "True",
@@ -12087,6 +12087,8 @@
     "FFlagEnablePluginHomeview": "True",
     "FFlagSupportSmoothScaleRichText3": "True",
     "DFFlagRealtimeMeasurementInjectIsConnectedStatus": "True",
+    "FFlagUserFixVRAvatarGesturesSeats_Rollout": "True;60;2024-05-01T16:57:37",
+    "FFlagVRServiceStudioExplorer3_Rollout": "True;60;2024-05-01T17:05:44",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12562,8 +12564,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "958c1e6e203d82a565ca7b9bfb3a098a7b8cc715",
-    "DFStringFlagRepoGitHashDynamicString": "958c1e6e203d82a565ca7b9bfb3a098a7b8cc715",
-    "FStringFlipTimeStampFastString": "2024-05-01T16:37:54.755Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-01T16:37:54.755Z"
+    "FStringFlagRepoGitHashFastString": "ef7563f60b1d870a61cb5628107f726d285456c8",
+    "DFStringFlagRepoGitHashDynamicString": "ef7563f60b1d870a61cb5628107f726d285456c8",
+    "FStringFlipTimeStampFastString": "2024-05-01T17:07:44.896Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-01T17:07:44.896Z"
 }
