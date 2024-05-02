@@ -12108,6 +12108,11 @@
     "DFFlagAdditionalMemoryOutsideCurrentRadiusEnabled_Rollout": "True;60;2024-05-02T16:39:55",
     "EnableAssetMetrics": "True",
     "FFlagRuntimeUseNativeWorkers_Rollout": "True;60;2024-05-02T17:14:23",
+    "FFlagStudioDoNotSetWA_OpaquePaintEventAttribute_Rollout": "False;60;2024-05-02T17:23:02",
+    "FStringIxpNewLayersForRegistration_Rollout": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,Social.DisplayNameSetting,Social.InternationalDisplayName,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,UserCommunities.EDP.CommunityLinks,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Social.ContactList,Social.UserSearchUX,Social.ExperienceDetailsContextualMenu,Social.ContactImporter,AvatarExperience.ColorPickerExposure,DesignSystem.Font,Social.EditProfilePage;60;2024-05-02T17:23:42",
+    "FFlagStudioLogOverdueTasks_Rollout": "True;60;2024-05-02T17:24:29",
+    "CrashWhenAssetMissing": "True",
+    "FStringShorelines_LearnMoreUrl_Rollout": "https://devforum.roblox.com/t/shorelines-full-release/2952103;1;2024-05-02T17:32:26",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12409,8 +12414,8 @@
     "FFlagXboxInferredCrashUnbufferedIO": "True",
     "FFlagXboxAddHangTimerAndLKStoBT": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
-    "FStringFlagRepoGitHashFastString": "a5ed5ce2f8704cf94c44ba92dac9ad1a260df1ff",
-    "DFStringFlagRepoGitHashDynamicString": "a5ed5ce2f8704cf94c44ba92dac9ad1a260df1ff",
-    "FStringFlipTimeStampFastString": "2024-05-02T17:15:06.456Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-02T17:15:06.456Z"
+    "FStringFlagRepoGitHashFastString": "d9201466a029c492a94ae2e82fcbc8e6f431df7b",
+    "DFStringFlagRepoGitHashDynamicString": "d9201466a029c492a94ae2e82fcbc8e6f431df7b",
+    "FStringFlipTimeStampFastString": "2024-05-02T17:37:39.125Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-02T17:37:39.125Z"
 }
