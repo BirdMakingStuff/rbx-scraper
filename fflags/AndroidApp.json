@@ -12113,7 +12113,6 @@
     "FFlagAuthIntentLoggingAtLandingEnabled": "True",
     "DFFlagBatchId5HotrodAccessorMigration": "True",
     "DFIntInstancePropertyEditCountThresholdForTelemetry": "1",
-    "FFlagBulkPropertyEditTelemetry2_Rollout": "True;60;2024-05-02T19:42:24",
     "FFlagAvoidCreatingLanguageServiceInPlaySoloStartup": "True",
     "FFlagBatchNameGuidChanges": "True",
     "DFFlagCLI96239_Rollout": "True;60;2024-05-02T20:30:18",
@@ -12124,6 +12123,11 @@
     "FFlagLuaAppLazyRequireOverlayComponents": "True",
     "DFFlagDynamicTextureManagerAddThrottling_Rollout": "True;60;2024-05-02T20:57:21",
     "FIntCoreScriptBacktraceErrorReportPercentage": "10",
+    "FFlagBulkPropertyEditTelemetry2": "True",
+    "FFlagAuthIntentLoggingAtLoginEnabled_Rollout": "True;60;2024-05-02T21:21:34",
+    "FFlagHardenGImageDecodingAgainstMalformedData_Rollout": "True;60;2024-05-02T21:21:50",
+    "FFlagGjkFastSupport_Rollout": "True;30;2024-05-02T21:23:51",
+    "FFlagGrassLengthCustomization_FRMDensityScaling_Rollout": "True;60;2024-05-02T21:24:04",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12616,8 +12620,8 @@
     "DisableNotificationStreamOpenEvent": "True",
     "FFlagPerformanceControlSoundTunableV22": "True",
     "FIntEnableCullableScene2HundredthPercent3": "10000",
-    "FStringFlagRepoGitHashFastString": "de48adae93f19800dacf76c7fb4a8d80f9abad84",
-    "DFStringFlagRepoGitHashDynamicString": "de48adae93f19800dacf76c7fb4a8d80f9abad84",
-    "FStringFlipTimeStampFastString": "2024-05-02T21:11:31.074Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-02T21:11:31.074Z"
+    "FStringFlagRepoGitHashFastString": "ca435b33739553d7e77054c0e39266b08f3bb486",
+    "DFStringFlagRepoGitHashDynamicString": "ca435b33739553d7e77054c0e39266b08f3bb486",
+    "FStringFlipTimeStampFastString": "2024-05-02T21:27:58.926Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-02T21:27:58.926Z"
 }
