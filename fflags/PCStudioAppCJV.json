@@ -12666,9 +12666,9 @@
     "FFlagLuauLoadTypeInfo": "True",
     "FFlagDuplicateUseSafeMover2": "True",
     "FFlagAssetManagerUseInstanceInserter": "True",
-    "FFlagAddChannelInfoToMainWindowTitle_Rollout": "True;60;2024-05-02T22:00:04",
     "FFlagLoadQEntityIconFromCurrentDataModel": "True",
     "FLogStudioLinkedSourceMigrator": "Info",
+    "FFlagAddChannelInfoToMainWindowTitle": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12724,8 +12724,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "13687a83b84b17859b4535f14559b6a29c96a16f",
-    "DFStringFlagRepoGitHashDynamicString": "13687a83b84b17859b4535f14559b6a29c96a16f",
-    "FStringFlipTimeStampFastString": "2024-05-02T23:16:33.867Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-02T23:16:33.867Z"
+    "FStringFlagRepoGitHashFastString": "5afabd154c6c232d94c359cc9514f455dfe403db",
+    "DFStringFlagRepoGitHashDynamicString": "5afabd154c6c232d94c359cc9514f455dfe403db",
+    "FStringFlipTimeStampFastString": "2024-05-02T23:31:48.420Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-02T23:31:48.420Z"
 }
