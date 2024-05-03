@@ -1713,7 +1713,6 @@
     "DFFlagBrowserTrackerIdTelemetryEnabled": "True",
     "DFIntBrowserTrackerIdTelemetryThrottleHundredthsPercent": "1000",
     "FFlagIncludeClothesHelperPlugin": "True",
-    "DFIntOAuth2RefreshTokenStorageTelemetryHundredthsPercent": "10000",
     "DFFlagPredictedOOMTelemetryFix": "True",
     "FFlagNavigationClimbableTruss2": "True",
     "FFlagContactsImporterGetContractsProtocolPreTest": "True",
@@ -5206,7 +5205,7 @@
     "FIntAutoReconnectRequestTimeout": "10000",
     "FFlagStudioFixServerDataModelLeak": "True",
     "FFlagStudioFixStartPageQmlControllerSingleton": "True",
-    "DFIntBatchLogMessagePointsHundredthsPercent": "1",
+    "DFIntBatchLogMessagePointsHundredthsPercent": "0",
     "FFlagStudioStartPageComponent": "True",
     "FFlagLuauUniformTopHandling": "True",
     "FFlagStudioFixOtherStartPageSingletons": "True",
@@ -12628,8 +12627,8 @@
     "DisableNotificationStreamOpenEvent": "True",
     "FFlagPerformanceControlSoundTunableV22": "True",
     "FIntEnableCullableScene2HundredthPercent3": "10000",
-    "FStringFlagRepoGitHashFastString": "6e037213f1a09386f03ab6544628edc43661a1d0",
-    "DFStringFlagRepoGitHashDynamicString": "6e037213f1a09386f03ab6544628edc43661a1d0",
-    "FStringFlipTimeStampFastString": "2024-05-03T17:16:26.146Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-03T17:16:26.146Z"
+    "FStringFlagRepoGitHashFastString": "329b421f66ce3f68ee23eeb0a2870a1483a3e87a",
+    "DFStringFlagRepoGitHashDynamicString": "329b421f66ce3f68ee23eeb0a2870a1483a3e87a",
+    "FStringFlipTimeStampFastString": "2024-05-03T17:27:00.327Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-03T17:27:00.327Z"
 }

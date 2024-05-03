@@ -1713,7 +1713,6 @@
     "DFFlagBrowserTrackerIdTelemetryEnabled": "True",
     "DFIntBrowserTrackerIdTelemetryThrottleHundredthsPercent": "1000",
     "FFlagIncludeClothesHelperPlugin": "True",
-    "DFIntOAuth2RefreshTokenStorageTelemetryHundredthsPercent": "10000",
     "DFFlagPredictedOOMTelemetryFix": "True",
     "FFlagNavigationClimbableTruss2": "True",
     "FFlagContactsImporterGetContractsProtocolPreTest": "True",
@@ -5206,7 +5205,7 @@
     "FIntAutoReconnectRequestTimeout": "10000",
     "FFlagStudioFixServerDataModelLeak": "True",
     "FFlagStudioFixStartPageQmlControllerSingleton": "True",
-    "DFIntBatchLogMessagePointsHundredthsPercent": "1",
+    "DFIntBatchLogMessagePointsHundredthsPercent": "0",
     "FFlagStudioStartPageComponent": "True",
     "FFlagLuauUniformTopHandling": "True",
     "FFlagStudioFixOtherStartPageSingletons": "True",
@@ -12674,6 +12673,8 @@
     "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
     "FFlagStudioRenderErrorModel_Rollout": "True;60;2024-05-03T16:38:52",
     "FFlagStudioWarnWhenLowOnMemory2_Rollout": "True;60;2024-05-03T16:41:26",
+    "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-05-03T17:23:20",
+    "FFlagLinkedSourceMigratorDoublePromiseSetCrash_Rollout": "True;60;2024-05-03T17:37:05",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12720,8 +12721,8 @@
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagRefactorGuiRTCacheImpl2": "True",
-    "FStringFlagRepoGitHashFastString": "6e037213f1a09386f03ab6544628edc43661a1d0",
-    "DFStringFlagRepoGitHashDynamicString": "6e037213f1a09386f03ab6544628edc43661a1d0",
-    "FStringFlipTimeStampFastString": "2024-05-03T17:16:26.146Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-03T17:16:26.146Z"
+    "FStringFlagRepoGitHashFastString": "df0be4c9f86ce58302fa5d16a0e07ec0346a5cdc",
+    "DFStringFlagRepoGitHashDynamicString": "df0be4c9f86ce58302fa5d16a0e07ec0346a5cdc",
+    "FStringFlipTimeStampFastString": "2024-05-03T17:39:38.716Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-03T17:39:38.716Z"
 }
