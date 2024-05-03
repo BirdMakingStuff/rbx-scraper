@@ -6363,7 +6363,7 @@
     "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
     "FFlagUnifyAddFriendsPageRouterName": "True",
     "FFlagSimCSGV3IncrementalTriangulationPhase2v1": "True",
-    "FStringLuaAppExploreApiSupportedSortNames": "Curated_56,Curated_57,Curated_58,Curated_62,Curated_63,Curated_64,Curated_67,Curated_68,Curated_71,Curated_72,Curated_81,Curated_94,Curated_95,Curated_96,Curated_97,Curated_101,Curated_102,Curated_103,Curated_158,Curated_169,TopRated,TopGrossing,MostEngaging,Popular,PersonalRecommendation,PopularInCountry,Curated_170,Curated_171,Curated_172,Curated_1,Curated_2,Curated_3,Curated_174,Curated_175,Sponsored,Featured",
+    "FStringLuaAppExploreApiSupportedSortNames": "Curated_56,Curated_57,Curated_58,Curated_62,Curated_63,Curated_64,Curated_67,Curated_68,Curated_71,Curated_72,Curated_81,Curated_94,Curated_95,Curated_96,Curated_97,Curated_101,Curated_102,Curated_103,Curated_158,Curated_169,TopRated,TopGrossing,MostEngaging,Popular,PersonalRecommendation,PopularInCountry,Curated_170,Curated_171,Curated_172,Curated_1,Curated_2,Curated_3,Curated_174,Curated_175,Sponsored,Featured,Top_Trending,Up_And_Coming,Top_Earning,Top_Revisited,Fun_With_Friends,More_When_You_Subscribe,Only_17_Plus,Try_Voice_Chat,Learn_And_Explore,Trending_in_Fighting,Trending_in_Roleplay,Trending_in_Survival,Trending_in_Obby,Trending_in_Simulator,Trending_in_Tycoon,Trending_in_Strategy,Trending_in_Action,Trending_in_Racing,Trending_in_Hangout,Trending_in_Sports,Trending_in_Shooting",
     "FFlagAXFixItemDetailsCloseButtonColor": "True",
     "FFlagAXScrollPanelConstantHeight2": "True",
     "FFlagCatalogAdaptiveScrollingIXPEnabled3": "True",
@@ -12135,6 +12135,7 @@
     "FFlagClampEdgePlaneIntersection_Rollout": "True;60;2024-05-03T16:19:29",
     "DFFlagSimSolverSimulatedBodyCountStatistics_Rollout": "True;30;2024-05-03T16:33:24",
     "FFlagStudioFixOgreWidgetUpdateEvent_Rollout": "True;60;2024-05-03T16:36:55",
+    "FFlagTerrainFixThumbnailerTextures_Rollout": "True;60;2024-05-03T16:53:28",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12335,8 +12336,8 @@
     "FFlagEnableNewFontNameMappingABTest2": "True",
     "FFlagColorPickerSliderOptimization2": "True",
     "FFlagUpdateFmodVorbisDecoder": "True",
-    "FStringFlagRepoGitHashFastString": "8c2340c36353d9f965c1ae03c56d7509d7436ae0",
-    "DFStringFlagRepoGitHashDynamicString": "8c2340c36353d9f965c1ae03c56d7509d7436ae0",
-    "FStringFlipTimeStampFastString": "2024-05-03T16:39:43.726Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-03T16:39:43.726Z"
+    "FStringFlagRepoGitHashFastString": "6e037213f1a09386f03ab6544628edc43661a1d0",
+    "DFStringFlagRepoGitHashDynamicString": "6e037213f1a09386f03ab6544628edc43661a1d0",
+    "FStringFlipTimeStampFastString": "2024-05-03T17:16:26.146Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-03T17:16:26.146Z"
 }
