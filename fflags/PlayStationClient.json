@@ -12141,6 +12141,9 @@
     "FFlagEDPRecommendedExperienceGridHeightFix10ft_Rollout": "True;60;2024-05-06T17:05:25",
     "FFlagEnableNewFontNameMappingABTest2_Rollout": "True;60;2024-05-06T17:11:16",
     "FFlagAuthIntentLoggingForShareLinkMetadataAtSignupButtonClickEnabled": "True",
+    "FFlagNewBaseMaterialsBetaFeature_Rollout": "True;60;2024-05-06T17:19:24",
+    "FFlagDeprecateAuthImageSetLabel_Rollout": "True;60;2024-05-06T17:21:18",
+    "FFlagTextInputBoxWithBorderAutomaticSize_Rollout": "True;60;2024-05-06T17:21:24",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -12293,8 +12296,9 @@
     "DFFlagReportRayCastTime_Rollout": "True;30;2024-05-06T16:31:00",
     "FFlagFixInitializationIssueWithArbiterTelemetry_Rollout": "True;60;2024-05-06T17:05:38",
     "DFFlagReportNonPhysicsJobsTimes_Rollout": "True;60;2024-05-06T17:10:46",
-    "FStringFlagRepoGitHashFastString": "e73941419f4387e5f2a9b40043acdaa0e1de4735",
-    "DFStringFlagRepoGitHashDynamicString": "e73941419f4387e5f2a9b40043acdaa0e1de4735",
-    "FStringFlipTimeStampFastString": "2024-05-06T17:12:32.046Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-06T17:12:32.046Z"
+    "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-06T17:37:48",
+    "FStringFlagRepoGitHashFastString": "34beca2ca96a24d0660bead2daad7d4bffc6719d",
+    "DFStringFlagRepoGitHashDynamicString": "34beca2ca96a24d0660bead2daad7d4bffc6719d",
+    "FStringFlipTimeStampFastString": "2024-05-06T17:39:16.849Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-06T17:39:16.849Z"
 }
