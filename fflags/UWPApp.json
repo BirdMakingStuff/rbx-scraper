@@ -12168,6 +12168,7 @@
     "DFFlagMoveResetFlushTimerOutOfSendBufferAndUnlock": "True",
     "FFlagUseChatIsVisibleHook_Rollout": "True;60;2024-05-06T20:11:57",
     "FFlagFixExplorerUpdateTimer_Rollout": "True;60;2024-05-06T20:17:09",
+    "FFlagLuaAppHomeGameGridReportExperienceLaunched_Rollout": "True;60;2024-05-06T20:27:14",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12371,8 +12372,8 @@
     "FFlagFixInitializationIssueWithArbiterTelemetry": "True",
     "FFlagUWPTTIStartupCheck": "True",
     "DFFlagReportRayCastTime": "True",
-    "FStringFlagRepoGitHashFastString": "bf9d9d166a28f30ea4c4d12b31555dacc2443df3",
-    "DFStringFlagRepoGitHashDynamicString": "bf9d9d166a28f30ea4c4d12b31555dacc2443df3",
-    "FStringFlipTimeStampFastString": "2024-05-06T20:18:39.956Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-06T20:18:39.956Z"
+    "FStringFlagRepoGitHashFastString": "72c37ac0b88e44fdbdb174a96333c954dff7a4a8",
+    "DFStringFlagRepoGitHashDynamicString": "72c37ac0b88e44fdbdb174a96333c954dff7a4a8",
+    "FStringFlipTimeStampFastString": "2024-05-06T20:27:58.778Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-06T20:27:58.778Z"
 }
