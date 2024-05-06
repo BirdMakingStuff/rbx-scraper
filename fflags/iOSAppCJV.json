@@ -12112,7 +12112,7 @@
     "FFlagLuaAppLazyRequireOverlayComponents": "True",
     "FIntCoreScriptBacktraceErrorReportPercentage": "10",
     "FFlagBulkPropertyEditTelemetry2": "True",
-    "DFFlagCLI96239": "True",
+    "DFFlagCLI96239": "False",
     "FFlagGraphicsFixEditableDegenerateUpdate": "True",
     "FFlagCAPEmptyModuleScript": "True",
     "FFlagGjkFastSupport": "True",
@@ -12618,8 +12618,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "33e4bcf6a3674f75d917c5d98c0aee72938ec24d",
-    "DFStringFlagRepoGitHashDynamicString": "33e4bcf6a3674f75d917c5d98c0aee72938ec24d",
-    "FStringFlipTimeStampFastString": "2024-05-03T21:33:41.996Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-03T21:33:41.996Z"
+    "FStringFlagRepoGitHashFastString": "491f39c71a42f3e966f04ff0ef936affe14e4199",
+    "DFStringFlagRepoGitHashDynamicString": "491f39c71a42f3e966f04ff0ef936affe14e4199",
+    "FStringFlipTimeStampFastString": "2024-05-06T02:25:05.205Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-06T02:25:05.205Z"
 }
