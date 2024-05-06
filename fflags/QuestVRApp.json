@@ -12152,6 +12152,7 @@
     "FFlagContactImporterPhoneAndContactsAfterSignupFixes_v2": "True",
     "FFlagContactImporterManagerPolicyFix": "True",
     "FFlagColorPickerUseParentProps_Rollout": "True;20;2024-05-06T18:25:53",
+    "DFFlagMoveResetFlushTimerOutOfSendBufferAndUnlock_Rollout": "True;60;2024-05-06T18:31:23",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12668,8 +12669,8 @@
     "FFlagEnableAsyncAttestationTokenRetrieval": "True",
     "FFlagEnableAdditionalMaquettesAttestationNullCheck": "True",
     "DFFlagReportRayCastTime": "True",
-    "FStringFlagRepoGitHashFastString": "cbf2e94412e80cf4c799229d77e7defddd7c4dc3",
-    "DFStringFlagRepoGitHashDynamicString": "cbf2e94412e80cf4c799229d77e7defddd7c4dc3",
-    "FStringFlipTimeStampFastString": "2024-05-06T18:26:41.043Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-06T18:26:41.043Z"
+    "FStringFlagRepoGitHashFastString": "2f9a2a55eff661f6a72f9aebf39d753ea6bad6c5",
+    "DFStringFlagRepoGitHashDynamicString": "2f9a2a55eff661f6a72f9aebf39d753ea6bad6c5",
+    "FStringFlipTimeStampFastString": "2024-05-06T18:33:42.265Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-06T18:33:42.265Z"
 }
