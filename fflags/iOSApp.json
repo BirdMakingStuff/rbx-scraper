@@ -12191,6 +12191,7 @@
     "FFlagAssetImportRefactorReducer": "True",
     "DFFlagBatchId18HotrodAccessorMigration": "True",
     "FFlagInferredCrashSubsystem3_Rollout": "True;60;2024-05-07T16:10:41",
+    "FFlagVideoFixMacAudioCodec_Rollout": "True;60;2024-05-07T16:26:48",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12641,8 +12642,9 @@
     "DFStringVNGWebViewUrlAllowlist": "vnggames.net,vnggames.com,vngcorp.mobi,zing.vn",
     "DFFlagPerformanceControlIXPMemoryBufferConstantCheck": "True",
     "FFlagEnableVideoCaptureServiceSubflow": "True",
-    "FStringFlagRepoGitHashFastString": "e5c633ba188ab7f6b7befe9b3123fc32d6cb289d",
-    "DFStringFlagRepoGitHashDynamicString": "e5c633ba188ab7f6b7befe9b3123fc32d6cb289d",
-    "FStringFlipTimeStampFastString": "2024-05-07T16:21:49.897Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-07T16:21:49.897Z"
+    "DFFlagHttpStatsErrorSeparateThrottles_Rollout": "True;60;2024-05-07T16:29:15",
+    "FStringFlagRepoGitHashFastString": "57063e72fb74099da765be98d3b81fc21459c86a",
+    "DFStringFlagRepoGitHashDynamicString": "57063e72fb74099da765be98d3b81fc21459c86a",
+    "FStringFlipTimeStampFastString": "2024-05-07T16:32:49.247Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-07T16:32:49.247Z"
 }
