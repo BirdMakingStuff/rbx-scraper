@@ -11882,7 +11882,7 @@
     "FFlagInExperienceItemLinking3": "True",
     "FFlagToastNotificationsMediumPriorityEnabled": "True",
     "FFlagEnableAppChatTabBarVisibilityPrevention": "True",
-    "FFlagEnableNewChatTabExperiment3": "True",
+    "FFlagEnableNewChatTabExperiment3": "False",
     "FFlagEnableNewChatTabExperimentAndroidBackButtonFix": "True",
     "FFlagEnableNewChatTabGroupsLinkDisappearingFix": "True",
     "FFlagSocialTabInitialRouteNameFix": "True",
@@ -12190,7 +12190,6 @@
     "FFlagAssetImportRefactorReducer": "True",
     "DFFlagBatchId18HotrodAccessorMigration": "True",
     "FFlagUIBloxFixGenericTextLabelTextboundHeight_Rollout": "True;60;2024-05-07T17:06:16",
-    "DFIntStrictStringConvertReportHundredthsPercentage_Rollout": "1000;30;2024-05-07T17:21:34",
     "FFlagRunEventBroadcastSubsystemv2_Rollout": "True;60;2024-05-07T17:24:14",
     "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-05-07T17:31:00",
     "FFlagLuaAppUseDiscoveryStyleDeps": "True",
@@ -12208,6 +12207,8 @@
     "FFlagAvatarAutosetupAPI": "True",
     "FFlagAvatarAutosetupCompletion": "True",
     "FFlagAvatarAutosetupDoPolling": "True",
+    "FFlagSupportToastInVR": "True",
+    "DFIntStrictStringConvertReportHundredthsPercentage": "1000",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12516,8 +12517,8 @@
     "FIntEnableCullableScene2HundredthPercent3": "10000",
     "FFlagEnableVideoCaptureServiceSubflow": "True",
     "FFlagPreOptimizeNoCollisionPrimitive_Rollout": "True;60;2024-05-07T18:04:40",
-    "FStringFlagRepoGitHashFastString": "2de8b12dabcd03058721fbc3f52088d732c7549d",
-    "DFStringFlagRepoGitHashDynamicString": "2de8b12dabcd03058721fbc3f52088d732c7549d",
-    "FStringFlipTimeStampFastString": "2024-05-07T18:22:40.593Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-07T18:22:40.593Z"
+    "FStringFlagRepoGitHashFastString": "00928e0afb7e080e90e4afcc341e0575129b9028",
+    "DFStringFlagRepoGitHashDynamicString": "00928e0afb7e080e90e4afcc341e0575129b9028",
+    "FStringFlipTimeStampFastString": "2024-05-07T18:32:15.104Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-07T18:32:15.104Z"
 }
