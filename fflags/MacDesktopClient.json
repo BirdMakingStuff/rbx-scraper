@@ -12245,7 +12245,6 @@
     "FFlagLuauFixCyclicUnionsOfIntersections": "True",
     "FFlagLuaAppOmniFeedItemErrorOnce": "True",
     "DFFlagVoiceChatTimeToInitializeMic": "True",
-    "FFlagReferringInstancesPerfImprov_Rollout": "True;60;2024-05-08T19:56:17",
     "FFlagUIBloxAlertTitleDesignTokenHeader": "True",
     "FFlagUIBloxInteractiveAlertDesignTokenMinMaxSize": "True",
     "DFFlagBatch20HotrodMigration_Rollout": "True;60;2024-05-08T20:26:36",
@@ -12254,6 +12253,8 @@
     "FFlagLuaAppOverrideExperienceTitle_Rollout": "True;60;2024-05-08T21:15:07",
     "FFlagClothingSortingDeeplink": "True",
     "FFlagDevFrameworkColorPicker": "True",
+    "DFFlagCheckSendTypeBeforeSetupTimerInHttpPointsReporter_Rollout": "True;60;2024-05-08T21:26:22",
+    "FFlagReferringInstancesPerfImprov": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12627,8 +12628,9 @@
     "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
     "DFFlagEnableParallelFrustumQueries3": "True",
     "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000",
-    "FStringFlagRepoGitHashFastString": "d0c334a27f45feebc506868256bc0c73a30f4b74",
-    "DFStringFlagRepoGitHashDynamicString": "d0c334a27f45feebc506868256bc0c73a30f4b74",
-    "FStringFlipTimeStampFastString": "2024-05-08T21:16:26.509Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-08T21:16:26.509Z"
+    "FFlagVoxelGridFixGetNonEmptyRegionsInside_Rollout": "True;60;2024-05-08T21:19:06",
+    "FStringFlagRepoGitHashFastString": "f5d68d2f2e65afab77e113ab520f02cca896a183",
+    "DFStringFlagRepoGitHashDynamicString": "f5d68d2f2e65afab77e113ab520f02cca896a183",
+    "FStringFlipTimeStampFastString": "2024-05-08T21:32:33.425Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-08T21:32:33.425Z"
 }
