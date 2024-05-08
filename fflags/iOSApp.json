@@ -12247,7 +12247,6 @@
     "DFFlagVoiceChatTimeToInitializeMic": "True",
     "FFlagUIBloxAlertTitleDesignTokenHeader": "True",
     "FFlagUIBloxInteractiveAlertDesignTokenMinMaxSize": "True",
-    "DFFlagReportSolverStatsFromSolver_Rollout": "True;60;2024-05-08T21:05:18",
     "FIntAXPointsEventHundredthsPercent": "10",
     "FFlagLuaAppOverrideExperienceTitle_Rollout": "True;60;2024-05-08T21:15:07",
     "FFlagClothingSortingDeeplink": "True",
@@ -12258,6 +12257,9 @@
     "FFlagLuaAppLinkSortTitle_Rollout": "True;60;2024-05-08T21:54:30",
     "DFFlagBatch20HotrodMigration": "True",
     "FFlagColorPickerSliderIXPEnabledForAll7_Rollout": "True;30;2024-05-08T22:05:10",
+    "DFIntImmersiveAdLoadEventThrottleHundrethsPercent_Rollout": "10000;60;2024-05-08T22:21:06",
+    "DFFlagReportSolverStatsFromSolver": "True",
+    "DFFlagStreamingSolverStepStats3_Rollout": "True;60;2024-05-08T22:38:55",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12721,8 +12723,9 @@
     "FFlagAppChatChannelsAPIForAllRC1": "True",
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-    "FStringFlagRepoGitHashFastString": "dadf37a3f8352cd6f70ef8bc0f0adfc840790787",
-    "DFStringFlagRepoGitHashDynamicString": "dadf37a3f8352cd6f70ef8bc0f0adfc840790787",
-    "FStringFlipTimeStampFastString": "2024-05-08T22:12:27.583Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-08T22:12:27.583Z"
+    "FFlagEnableVideoLandingRelease1_Rollout": "True;30;2024-05-08T22:27:15",
+    "FStringFlagRepoGitHashFastString": "7e7dbb0458ddd1bd9432d2d71c24c4b8c3b2c773",
+    "DFStringFlagRepoGitHashDynamicString": "7e7dbb0458ddd1bd9432d2d71c24c4b8c3b2c773",
+    "FStringFlipTimeStampFastString": "2024-05-08T22:39:28.812Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-08T22:39:28.812Z"
 }
