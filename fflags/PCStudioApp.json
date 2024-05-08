@@ -10375,7 +10375,6 @@
     "FFlagMoveAccessoriesForR15Rigs2": "True",
     "FFlagScriptingProductivityTelemetryAsComponent": "True",
     "FFlagDragDetectorUsesPermissionPolicy": "True",
-    "DFIntPerformanceControlPointsHundredthPercentageSent_PlaceFilter": "10000;12115047020",
     "DFIntPerformanceControlReportingPeriodInMs_PlaceFilter": "3000;12115047020",
     "DFFlagPingTimeoutStatsServer": "True",
     "FFlagStudioTeamCreateGamejoinRetryOnTimeout": "True",
@@ -12784,6 +12783,7 @@
     "FFlagStudioFixUnsafeAccessInExplorer": "True",
     "FFlagScriptRegisterationChecking2": "True",
     "FFlagAvatarPreviewerAddGeoToSelection": "True",
+    "FFlagStudioNoLegacyLockConstructingFileSyncServiceManager_Rollout": "True;60;2024-05-08T16:59:58",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12834,8 +12834,8 @@
     "FFlagUseParallelTypecheckInLSP2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagRefactorGuiRTCacheImpl2": "True",
-    "FStringFlagRepoGitHashFastString": "b9e9963c76860b1a378e5c4fbf57a362a428ed99",
-    "DFStringFlagRepoGitHashDynamicString": "b9e9963c76860b1a378e5c4fbf57a362a428ed99",
-    "FStringFlipTimeStampFastString": "2024-05-08T16:41:08.000Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-08T16:41:08.000Z"
+    "FStringFlagRepoGitHashFastString": "4cb5c25e5e087b8115093cfaab73850dd2649d45",
+    "DFStringFlagRepoGitHashDynamicString": "4cb5c25e5e087b8115093cfaab73850dd2649d45",
+    "FStringFlipTimeStampFastString": "2024-05-08T17:13:09.085Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-08T17:13:09.085Z"
 }

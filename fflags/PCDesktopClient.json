@@ -10375,7 +10375,6 @@
     "FFlagMoveAccessoriesForR15Rigs2": "True",
     "FFlagScriptingProductivityTelemetryAsComponent": "True",
     "FFlagDragDetectorUsesPermissionPolicy": "True",
-    "DFIntPerformanceControlPointsHundredthPercentageSent_PlaceFilter": "10000;12115047020",
     "DFIntPerformanceControlReportingPeriodInMs_PlaceFilter": "3000;12115047020",
     "DFFlagPingTimeoutStatsServer": "True",
     "FFlagStudioTeamCreateGamejoinRetryOnTimeout": "True",
@@ -12605,8 +12604,8 @@
     "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
     "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_PlaceFilter": "True;14184086618;16389398622",
-    "FStringFlagRepoGitHashFastString": "c962edeb2e919bc703278e6809d7ac4cb1703043",
-    "DFStringFlagRepoGitHashDynamicString": "c962edeb2e919bc703278e6809d7ac4cb1703043",
-    "FStringFlipTimeStampFastString": "2024-05-08T16:31:13.633Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-08T16:31:13.633Z"
+    "FStringFlagRepoGitHashFastString": "4cb5c25e5e087b8115093cfaab73850dd2649d45",
+    "DFStringFlagRepoGitHashDynamicString": "4cb5c25e5e087b8115093cfaab73850dd2649d45",
+    "FStringFlipTimeStampFastString": "2024-05-08T17:13:09.085Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-08T17:13:09.085Z"
 }
