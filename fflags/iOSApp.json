@@ -10986,7 +10986,7 @@
     "FFlagAssetImportReadConfigsFromRegistry2": "True",
     "FFlagAssetImporterCustomPresets2": "True",
     "FFlagModelPreviewThumbnailFallback": "True",
-    "FFlagLuaAppUpdateNotificationBadgeCountEnabled": "True",
+    "FFlagLuaAppUpdateNotificationBadgeCountEnabled": "False",
     "DFFlagLuauCodeGenIssueTelemetry": "True",
     "FFlagAvatarPreviewerCameraTiltAndState2": "True",
     "FFlagCryoMigrateTo1_0_3": "True",
@@ -12698,8 +12698,10 @@
     "DFIntHttpStatsErrorInfluxReportsPerMillion": "10",
     "DFIntHttpStatsDnsErrorInfluxReportsPerMillion_Rollout": "100;60;2024-05-08T16:55:30",
     "FFlagPathfindingReduceMemoryForHFs_Rollout": "True;60;2024-05-08T17:12:33",
-    "FStringFlagRepoGitHashFastString": "4cb5c25e5e087b8115093cfaab73850dd2649d45",
-    "DFStringFlagRepoGitHashDynamicString": "4cb5c25e5e087b8115093cfaab73850dd2649d45",
-    "FStringFlipTimeStampFastString": "2024-05-08T17:13:09.085Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-08T17:13:09.085Z"
+    "DFIntImmersiveAdLoadPointsThrottleHundredthsPercent_Rollout": "1000;60;2024-05-08T17:26:35",
+    "DFIntImmersiveAdProgressPointsThrottleHundredthsPercent_Rollout": "10000;60;2024-05-08T17:34:10",
+    "FStringFlagRepoGitHashFastString": "ca9910faa1862547e61cd4469d5f8186313b2f5e",
+    "DFStringFlagRepoGitHashDynamicString": "ca9910faa1862547e61cd4469d5f8186313b2f5e",
+    "FStringFlipTimeStampFastString": "2024-05-08T17:37:13.198Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-08T17:37:13.198Z"
 }
