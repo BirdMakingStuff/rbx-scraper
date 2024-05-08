@@ -12244,6 +12244,8 @@
     "FFlagProfileTelemetryDeprecateFrameCounter": "True",
     "DFFlagVoiceChatTimeToInitializeMic_Rollout": "True;60;2024-05-08T18:07:49",
     "DFIntLuauNativeExecutionEventHundredthsPercent_Rollout": "5000;30;2024-05-08T18:09:49",
+    "FFlagUIBloxInteractiveAlertDesignTokenMinMaxSize_Rollout": "True;60;2024-05-08T18:36:02",
+    "FFlagUIBloxAlertTitleDesignTokenHeader_Rollout": "True;60;2024-05-08T18:36:30",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12612,8 +12614,8 @@
     "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase_PlaceFilter": "True;14184086618;16389398622",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "aeae230722bde1493a3deacf701e85da37971985",
-    "DFStringFlagRepoGitHashDynamicString": "aeae230722bde1493a3deacf701e85da37971985",
-    "FStringFlipTimeStampFastString": "2024-05-08T18:17:19.983Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-08T18:17:19.983Z"
+    "FStringFlagRepoGitHashFastString": "36a994ce3168a4ed28d5c1b89177809452ccd13c",
+    "DFStringFlagRepoGitHashDynamicString": "36a994ce3168a4ed28d5c1b89177809452ccd13c",
+    "FStringFlipTimeStampFastString": "2024-05-08T18:39:27.005Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-08T18:39:27.005Z"
 }
