@@ -12251,7 +12251,6 @@
     "FFlagClothingSortingDeeplink": "True",
     "FFlagDevFrameworkColorPicker": "True",
     "FFlagReferringInstancesPerfImprov": "True",
-    "FFlagLuaAppLinkSortTitle_Rollout": "True;60;2024-05-08T21:54:30",
     "DFFlagBatch20HotrodMigration": "True",
     "DFIntImmersiveAdLoadEventThrottleHundrethsPercent_Rollout": "10000;60;2024-05-08T22:21:06",
     "DFFlagReportSolverStatsFromSolver": "True",
@@ -12263,6 +12262,7 @@
     "DFFlagSimSolverMemTrackStreamConstraintPositions": "True",
     "DFFlagCheckSendTypeBeforeSetupTimerInHttpPointsReporter": "True",
     "FFlagColorPickerSliderIXPEnabledForAll7": "True",
+    "FFlagLuaAppLinkSortTitle": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12878,8 +12878,8 @@
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
-    "FStringFlagRepoGitHashFastString": "14687a1bb17efe34feff12af43e5eb0c8ae9d509",
-    "DFStringFlagRepoGitHashDynamicString": "14687a1bb17efe34feff12af43e5eb0c8ae9d509",
-    "FStringFlipTimeStampFastString": "2024-05-08T23:12:10.595Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-08T23:12:10.595Z"
+    "FStringFlagRepoGitHashFastString": "837445d4f1845bd0bc98ff15834318b7b9654f5a",
+    "DFStringFlagRepoGitHashDynamicString": "837445d4f1845bd0bc98ff15834318b7b9654f5a",
+    "FStringFlipTimeStampFastString": "2024-05-08T23:32:14.582Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-08T23:32:14.582Z"
 }
