@@ -12258,9 +12258,9 @@
     "DFFlagCheckSendTypeBeforeSetupTimerInHttpPointsReporter": "True",
     "FFlagColorPickerSliderIXPEnabledForAll7": "True",
     "FFlagLuaAppLinkSortTitle": "True",
-    "FFlagCAPConversationalAIServiceComponent3_Rollout": "True;60;2024-05-08T23:58:01",
     "DFFlagStreamingSolverStepStats3": "True",
     "DFIntReportSSStatsHundredthsPercentage": "10",
+    "FFlagCAPConversationalAIServiceComponent3": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -12421,8 +12421,8 @@
     "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-    "FStringFlagRepoGitHashFastString": "f611d88a8e95417a13bfdc8a7d7fcb8d880b5c76",
-    "DFStringFlagRepoGitHashDynamicString": "f611d88a8e95417a13bfdc8a7d7fcb8d880b5c76",
-    "FStringFlipTimeStampFastString": "2024-05-09T01:13:14.869Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-09T01:13:14.869Z"
+    "FStringFlagRepoGitHashFastString": "6ffd8d5ba4ac5b512cd08e49509f11c6747aa17b",
+    "DFStringFlagRepoGitHashDynamicString": "6ffd8d5ba4ac5b512cd08e49509f11c6747aa17b",
+    "FStringFlipTimeStampFastString": "2024-05-09T01:31:53.718Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-09T01:31:53.718Z"
 }
