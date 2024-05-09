@@ -12589,9 +12589,9 @@
     "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-    "DFFlagEnableParallelFrustumQueries3_Rollout": "True;60;2024-05-09T18:38:17",
-    "FStringFlagRepoGitHashFastString": "98dcfce97ef28f51939dc74e9a560a4ab2b023f9",
-    "DFStringFlagRepoGitHashDynamicString": "98dcfce97ef28f51939dc74e9a560a4ab2b023f9",
-    "FStringFlipTimeStampFastString": "2024-05-09T19:36:39.969Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-09T19:36:39.969Z"
+    "DFFlagEnableParallelFrustumQueries3": "True",
+    "FStringFlagRepoGitHashFastString": "a1b1ce9828aa66a60388483c86b83b768079f159",
+    "DFStringFlagRepoGitHashDynamicString": "a1b1ce9828aa66a60388483c86b83b768079f159",
+    "FStringFlipTimeStampFastString": "2024-05-09T20:12:37.378Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-09T20:12:37.378Z"
 }
