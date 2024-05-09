@@ -12267,6 +12267,9 @@
     "DFFlagHttpFixSmallCompressedReserve_Rollout": "True;60;2024-05-09T17:02:25",
     "DFFlagSimSolverConsolidateEffectiveMassAndDiagonalComputation": "True",
     "DFFlagCheckSendTypeBeforeSetupTimerInBatchedReporter_Rollout": "True;60;2024-05-09T17:16:36",
+    "DFIntReportSSStatsHundredthsPercentage_Rollout": "2;60;2024-05-09T17:23:21",
+    "DFIntReportSSThresholdHundredthsPercentage_Rollout": "2;60;2024-05-09T17:27:08",
+    "FFlagTerrainFixThumbnailerTextures_Rollout": "True;60;2024-05-09T17:27:39",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12820,7 +12823,9 @@
     "FFlagTerrainEditorMultipleGizmoSources2": "True",
     "FFlagAssetImportRefactorFileOpen": "True",
     "FFlagCollisionGroupNamePropertyItem": "True",
-    "FFlagNcgToolingDumpCodeSizePerc_Rollout": "True;30;2024-05-09T16:28:34",
+    "FFlagEnableDropdownButtonTelemetry_Rollout": "True;60;2024-05-09T17:23:51",
+    "FFlagNcgToolingDumpCodeSizePerc": "True",
+    "DFFlagPoolSignalArgumentStorage_Rollout": "True;30;2024-05-09T17:34:16",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12882,8 +12887,8 @@
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
-    "FStringFlagRepoGitHashFastString": "758e6b7ac6f8cc3692fc4e7d5a2295161c13090e",
-    "DFStringFlagRepoGitHashDynamicString": "758e6b7ac6f8cc3692fc4e7d5a2295161c13090e",
-    "FStringFlipTimeStampFastString": "2024-05-09T17:17:14.369Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-09T17:17:14.369Z"
+    "FStringFlagRepoGitHashFastString": "672cdfc43d39dbf5ce8c52c88e0e45d982f81aac",
+    "DFStringFlagRepoGitHashDynamicString": "672cdfc43d39dbf5ce8c52c88e0e45d982f81aac",
+    "FStringFlipTimeStampFastString": "2024-05-09T17:36:26.106Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-09T17:36:26.106Z"
 }
