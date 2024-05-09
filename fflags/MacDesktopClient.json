@@ -8863,7 +8863,6 @@
     "FFlagExplorerFixInstanceSelectionSignal": "True",
     "DFFlagFixStreamingDistanceNotAllowingOvershootingForTargetValue": "False",
     "FFlagRefactorRCCJobs3": "True",
-    "DFIntReportRTLSupportThrottleHundrethsPercent2": "2000",
     "FFlagXboxSharedPlatform": "True",
     "FFlagACERigUtilsMigration": "True",
     "FStringVoiceChatRollOffIxpLayer": "Voice.RolloffConfig",
@@ -12274,6 +12273,8 @@
     "FFlagRemapR6AnimationJointIndex_Rollout": "True;60;2024-05-09T20:27:45",
     "FIntGrassLengthCustomization_FRMDensityScaling_UpperBound": "6",
     "FFlagIncreasePlayerNameSizeConsole_Rollout": "True;60;2024-05-09T20:35:49",
+    "FIntStudioEnableHeartbeatsRolloutHundredthPercent_Rollout": "10000;60;2024-05-09T20:56:52",
+    "FFlagAudioAnalyzerForceMono_Rollout": "False;60;2024-05-09T21:10:46",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12650,8 +12651,9 @@
     "DFFlagEnableParallelFrustumQueries3": "True",
     "FIntPathfindingLargeTileThrottleHundrethsPercentPoints": "10000",
     "FFlagVoxelGridFixGetNonEmptyRegionsInside": "True",
-    "FStringFlagRepoGitHashFastString": "2e7b21fee14d3e180b85d9525b8a7768b40f432c",
-    "DFStringFlagRepoGitHashDynamicString": "2e7b21fee14d3e180b85d9525b8a7768b40f432c",
-    "FStringFlipTimeStampFastString": "2024-05-09T20:38:19.737Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-09T20:38:19.737Z"
+    "FFlagMacSeverCrashpadOnUpdate_Rollout": "True;60;2024-05-09T20:49:15",
+    "FStringFlagRepoGitHashFastString": "636eb059668916166c0fce16b3403fd8b2d7cb1d",
+    "DFStringFlagRepoGitHashDynamicString": "636eb059668916166c0fce16b3403fd8b2d7cb1d",
+    "FStringFlipTimeStampFastString": "2024-05-09T21:16:40.683Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-09T21:16:40.683Z"
 }
