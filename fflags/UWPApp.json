@@ -12261,9 +12261,6 @@
     "DFFlagStreamingSolverStepStats3": "True",
     "DFIntReportSSStatsHundredthsPercentage": "10",
     "FFlagCAPConversationalAIServiceComponent3": "True",
-    "FFlagSessionTrackingAddCrashReasonAndMessage_Rollout": "True;60;2024-05-09T16:50:53",
-    "DFFlagLuauFastCrossTableMove_Rollout": "True;60;2024-05-09T16:57:43",
-    "DFFlagHttpFixSmallCompressedReserve_Rollout": "True;60;2024-05-09T17:02:25",
     "DFFlagSimSolverConsolidateEffectiveMassAndDiagonalComputation": "True",
     "DFFlagCheckSendTypeBeforeSetupTimerInBatchedReporter_Rollout": "True;60;2024-05-09T17:16:36",
     "DFIntReportSSStatsHundredthsPercentage_Rollout": "2;60;2024-05-09T17:23:21",
@@ -12271,6 +12268,9 @@
     "FFlagTerrainFixThumbnailerTextures_Rollout": "True;60;2024-05-09T17:27:39",
     "FFlagCapturesFixCoreGuiTypeHandling": "True",
     "FFlagReferencesByReferrerPerfImprov_Rollout": "True;60;2024-05-09T18:05:02",
+    "FFlagSessionTrackingAddCrashReasonAndMessage": "True",
+    "DFFlagLuauFastCrossTableMove": "True",
+    "DFFlagHttpFixSmallCompressedReserve": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12484,8 +12484,8 @@
     "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-    "FStringFlagRepoGitHashFastString": "414a52001d0c0d9edea3d7e3fe224523d29e9e8f",
-    "DFStringFlagRepoGitHashDynamicString": "414a52001d0c0d9edea3d7e3fe224523d29e9e8f",
-    "FStringFlipTimeStampFastString": "2024-05-09T18:22:47.483Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-09T18:22:47.483Z"
+    "FStringFlagRepoGitHashFastString": "9f33f7a775fb164f622a4ebe742d8a51d1094698",
+    "DFStringFlagRepoGitHashDynamicString": "9f33f7a775fb164f622a4ebe742d8a51d1094698",
+    "FStringFlipTimeStampFastString": "2024-05-09T18:38:46.747Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-09T18:38:46.747Z"
 }
