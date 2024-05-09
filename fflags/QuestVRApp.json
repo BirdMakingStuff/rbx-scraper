@@ -11450,7 +11450,7 @@
     "DFIntRestartFmodRecordingCooldownMs": "4000",
     "FFlagFixSetAvailableSpace": "False",
     "FFlagStudioEnableHeartbeatsRollout": "True",
-    "FIntStudioEnableHeartbeatsRolloutHundredthPercent": "100",
+    "FIntStudioEnableHeartbeatsRolloutHundredthPercent": "10000",
     "FFlagFixIgnoreAllGamepad": "True",
     "FFlagFriendsLandingSafeAreaPadding": "True",
     "FFlagAvatarPreviewerAutoSetupFixPositioning": "True",
@@ -12270,7 +12270,6 @@
     "FFlagFixCaptureOverlayFlashDeferredSignals": "True",
     "FFlagReferencesByReferrerPerfImprov": "True",
     "FIntGrassLengthCustomization_FRMDensityScaling_UpperBound": "6",
-    "FIntStudioEnableHeartbeatsRolloutHundredthPercent_Rollout": "10000;60;2024-05-09T20:56:52",
     "FFlagAudioAnalyzerForceMono_Rollout": "False;60;2024-05-09T21:10:46",
     "FFlagVoiceChatTrackDefaultVoice_Rollout": "True;60;2024-05-09T21:28:04",
     "FFlagACSPromptCreateAvatarEnabled": "False",
@@ -12812,8 +12811,8 @@
     "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
-    "FStringFlagRepoGitHashFastString": "464db794eb56d5fb06481a0c36f265d0314d2460",
-    "DFStringFlagRepoGitHashDynamicString": "464db794eb56d5fb06481a0c36f265d0314d2460",
-    "FStringFlipTimeStampFastString": "2024-05-09T22:15:01.386Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-09T22:15:01.386Z"
+    "FStringFlagRepoGitHashFastString": "3d1c1bf5f8292efe331186c9f95bc8aaf101039b",
+    "DFStringFlagRepoGitHashDynamicString": "3d1c1bf5f8292efe331186c9f95bc8aaf101039b",
+    "FStringFlipTimeStampFastString": "2024-05-09T22:35:59.607Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-09T22:35:59.607Z"
 }
