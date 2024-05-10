@@ -12856,6 +12856,8 @@
     "FFlagFixSocialPresenceDropdown": "True",
     "FFlagStudioAddAuxiliaryWindowOnce": "True",
     "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
+    "FFlagFixEmptyLimitedBadgesForBundles": "True",
+    "FFlagStudioStrictLowMemoryCheck_Rollout": "False;60;2024-05-10T17:38:20",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12922,8 +12924,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "5c4ddc106324799cbafa2fc78576804182eb78e1",
-    "DFStringFlagRepoGitHashDynamicString": "5c4ddc106324799cbafa2fc78576804182eb78e1",
-    "FStringFlipTimeStampFastString": "2024-05-10T17:05:41.022Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T17:05:41.022Z"
+    "FStringFlagRepoGitHashFastString": "549f1cb57a4b9c5bf1e58672805d17c2712b2174",
+    "DFStringFlagRepoGitHashDynamicString": "549f1cb57a4b9c5bf1e58672805d17c2712b2174",
+    "FStringFlipTimeStampFastString": "2024-05-10T17:39:00.019Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T17:39:00.019Z"
 }

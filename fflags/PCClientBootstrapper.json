@@ -99,6 +99,7 @@
     "FFlagColorPickerSliderIXPEnabled7": "True",
     "FFlagColorPickerSliderOptimization2": "True",
     "FIntMacInstallerRetryTerminateCheckMS": "2000",
+    "FFlagFixEmptyLimitedBadgesForBundles": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -120,8 +121,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "5c4ddc106324799cbafa2fc78576804182eb78e1",
-    "DFStringFlagRepoGitHashDynamicString": "5c4ddc106324799cbafa2fc78576804182eb78e1",
-    "FStringFlipTimeStampFastString": "2024-05-10T17:05:41.022Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T17:05:41.022Z"
+    "FStringFlagRepoGitHashFastString": "549f1cb57a4b9c5bf1e58672805d17c2712b2174",
+    "DFStringFlagRepoGitHashDynamicString": "549f1cb57a4b9c5bf1e58672805d17c2712b2174",
+    "FStringFlipTimeStampFastString": "2024-05-10T17:39:00.019Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T17:39:00.019Z"
 }
