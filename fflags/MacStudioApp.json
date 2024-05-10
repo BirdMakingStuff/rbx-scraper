@@ -12858,6 +12858,7 @@
     "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
     "FFlagFixEmptyLimitedBadgesForBundles": "True",
     "FFlagStudioStrictLowMemoryCheck_Rollout": "False;60;2024-05-10T17:38:20",
+    "FFlagPathEditorRotation_Rollout": "True;60;2024-05-10T18:26:23",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12909,6 +12910,7 @@
     "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
+    "DFFlagExtractFlagAttachmentAndSortFlags_Rollout": "True;60;2024-05-10T18:30:29",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -12919,8 +12921,9 @@
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync_PlaceFilter": "True;16539647965;16660185685;16580272204;16637214428;16552144512;16537295657;16745547480",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
-    "FStringFlagRepoGitHashFastString": "302caf138210151e1c18bfaadae22285bab08abf",
-    "DFStringFlagRepoGitHashDynamicString": "302caf138210151e1c18bfaadae22285bab08abf",
-    "FStringFlipTimeStampFastString": "2024-05-10T18:13:17.235Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T18:13:17.235Z"
+    "FFlagPathEditorControlPointVisualImprovements2_Rollout": "True;60;2024-05-10T18:26:19",
+    "FStringFlagRepoGitHashFastString": "6fa6a98781d250a1dbb5953e177ba369a2a0805f",
+    "DFStringFlagRepoGitHashDynamicString": "6fa6a98781d250a1dbb5953e177ba369a2a0805f",
+    "FStringFlipTimeStampFastString": "2024-05-10T18:31:00.102Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T18:31:00.102Z"
 }
