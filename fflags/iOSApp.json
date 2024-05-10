@@ -12758,9 +12758,9 @@
     "DFFlagVoicePublishConnectionStateTelemetryFix": "True",
     "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
     "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
-    "DFFlagExtractFlagAttachmentAndSortFlags_Rollout": "True;60;2024-05-10T18:30:29",
-    "FStringFlagRepoGitHashFastString": "bdf58409fd4571321e9e6d3c08123430b08c6a92",
-    "DFStringFlagRepoGitHashDynamicString": "bdf58409fd4571321e9e6d3c08123430b08c6a92",
-    "FStringFlipTimeStampFastString": "2024-05-10T19:11:44.342Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T19:11:44.342Z"
+    "DFFlagExtractFlagAttachmentAndSortFlags": "True",
+    "FStringFlagRepoGitHashFastString": "33b0616b675ecc12dfc9cf0244f9b100a084b9b4",
+    "DFStringFlagRepoGitHashDynamicString": "33b0616b675ecc12dfc9cf0244f9b100a084b9b4",
+    "FStringFlipTimeStampFastString": "2024-05-10T20:06:23.191Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T20:06:23.191Z"
 }
