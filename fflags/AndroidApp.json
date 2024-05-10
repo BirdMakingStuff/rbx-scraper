@@ -12783,9 +12783,10 @@
     "DFFlagEnableParallelFrustumQueries3": "True",
     "FFlagAppChatChannelsAPIRolloutRC1": "True",
     "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
-    "DFFlagDebugSimSolverReduceTimingStatFreq_Rollout": "True;60;2024-05-10T16:06:37",
-    "FStringFlagRepoGitHashFastString": "549f1cb57a4b9c5bf1e58672805d17c2712b2174",
-    "DFStringFlagRepoGitHashDynamicString": "549f1cb57a4b9c5bf1e58672805d17c2712b2174",
-    "FStringFlipTimeStampFastString": "2024-05-10T17:39:00.019Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T17:39:00.019Z"
+    "DFFlagDebugSimSolverReduceTimingStatFreq": "True",
+    "FFlagEnableVideoLandingRelease1_Rollout": "True;10;2024-05-10T18:12:47",
+    "FStringFlagRepoGitHashFastString": "302caf138210151e1c18bfaadae22285bab08abf",
+    "DFStringFlagRepoGitHashDynamicString": "302caf138210151e1c18bfaadae22285bab08abf",
+    "FStringFlipTimeStampFastString": "2024-05-10T18:13:17.235Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T18:13:17.235Z"
 }
