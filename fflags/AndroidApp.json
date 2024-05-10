@@ -12784,9 +12784,9 @@
     "FFlagAppChatChannelsAPIRolloutRC1": "True",
     "FIntAppChatChannelsAPIRolloutPercentRC1": "20",
     "DFFlagDebugSimSolverReduceTimingStatFreq": "True",
-    "FFlagEnableVideoLandingRelease1_Rollout": "True;10;2024-05-10T18:12:47",
-    "FStringFlagRepoGitHashFastString": "6fa6a98781d250a1dbb5953e177ba369a2a0805f",
-    "DFStringFlagRepoGitHashDynamicString": "6fa6a98781d250a1dbb5953e177ba369a2a0805f",
-    "FStringFlipTimeStampFastString": "2024-05-10T18:31:00.102Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T18:31:00.102Z"
+    "FFlagEnableVideoLandingRelease1": "True",
+    "FStringFlagRepoGitHashFastString": "bdf58409fd4571321e9e6d3c08123430b08c6a92",
+    "DFStringFlagRepoGitHashDynamicString": "bdf58409fd4571321e9e6d3c08123430b08c6a92",
+    "FStringFlipTimeStampFastString": "2024-05-10T19:11:44.342Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T19:11:44.342Z"
 }

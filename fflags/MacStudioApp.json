@@ -11971,7 +11971,7 @@
     "FFlagUseUpsellCardOmniFeedItem": "True",
     "FFlagMaterialPickerBetaFeature": "True",
     "FFlagGraphicsFixEmptyMeshResource": "True",
-    "FFlagStudioStrictLowMemoryCheck": "True",
+    "FFlagStudioStrictLowMemoryCheck": "False",
     "FFlagFixTerrainEditorDETruncations": "True",
     "FFlagUGCValidateFullBody2": "True",
     "FFlagUGCValidateMinBoundsOnlyMesh": "True",
@@ -12857,7 +12857,6 @@
     "FFlagStudioAddAuxiliaryWindowOnce": "True",
     "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
     "FFlagFixEmptyLimitedBadgesForBundles": "True",
-    "FFlagStudioStrictLowMemoryCheck_Rollout": "False;60;2024-05-10T17:38:20",
     "FFlagPathEditorRotation_Rollout": "True;60;2024-05-10T18:26:23",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -12922,8 +12921,8 @@
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
     "FFlagPathEditorControlPointVisualImprovements2_Rollout": "True;60;2024-05-10T18:26:19",
-    "FStringFlagRepoGitHashFastString": "6fa6a98781d250a1dbb5953e177ba369a2a0805f",
-    "DFStringFlagRepoGitHashDynamicString": "6fa6a98781d250a1dbb5953e177ba369a2a0805f",
-    "FStringFlipTimeStampFastString": "2024-05-10T18:31:00.102Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T18:31:00.102Z"
+    "FStringFlagRepoGitHashFastString": "bdf58409fd4571321e9e6d3c08123430b08c6a92",
+    "DFStringFlagRepoGitHashDynamicString": "bdf58409fd4571321e9e6d3c08123430b08c6a92",
+    "FStringFlipTimeStampFastString": "2024-05-10T19:11:44.342Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T19:11:44.342Z"
 }
