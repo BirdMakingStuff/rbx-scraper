@@ -6809,7 +6809,7 @@
     "DFFlagSimAlignPositionFixTargetVelocityClamp": "True",
     "FFlagEnableTagsTelemetry": "True",
     "FFlagAvatarJointUpgrade": "False",
-    "FFlagAvatarJointUpgrade_PlaceFilter": "True;11571326476;5828997002;16818255141;14892311500;14569410003;6295939019;189707",
+    "FFlagAvatarJointUpgrade_PlaceFilter": "True;11571326476;5828997002;16818255141;14892311500;14569410003;6295939019",
     "FFlagFFlagUserProfileTurnCacheBackOn": "True",
     "FFlagLuaAppImpressionNavigationFocusFix": "True",
     "FFlagAinInsertContextModel4": "True",

@@ -6809,7 +6809,7 @@
     "DFFlagSimAlignPositionFixTargetVelocityClamp": "True",
     "FFlagEnableTagsTelemetry": "True",
     "FFlagAvatarJointUpgrade": "False",
-    "FFlagAvatarJointUpgrade_PlaceFilter": "True;11571326476;5828997002;16818255141;14892311500;14569410003;6295939019;189707",
+    "FFlagAvatarJointUpgrade_PlaceFilter": "True;11571326476;5828997002;16818255141;14892311500;14569410003;6295939019",
     "FFlagFFlagUserProfileTurnCacheBackOn": "True",
     "FFlagLuaAppImpressionNavigationFocusFix": "True",
     "FFlagAinInsertContextModel4": "True",
@@ -12922,8 +12922,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "bd881d93cbcc929f132ae1da5444d7c8a8e12260",
-    "DFStringFlagRepoGitHashDynamicString": "bd881d93cbcc929f132ae1da5444d7c8a8e12260",
-    "FStringFlipTimeStampFastString": "2024-05-10T16:16:51.433Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-10T16:16:51.433Z"
+    "FStringFlagRepoGitHashFastString": "5c4ddc106324799cbafa2fc78576804182eb78e1",
+    "DFStringFlagRepoGitHashDynamicString": "5c4ddc106324799cbafa2fc78576804182eb78e1",
+    "FStringFlipTimeStampFastString": "2024-05-10T17:05:41.022Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-10T17:05:41.022Z"
 }
