@@ -2,5 +2,6 @@
     "enablePreLaunchUgcForAllWarning": "false",
     "enableAutomaticTranslationUpdates": "true",
     "enableConfigureCommentCheckBox": "false",
-    "enableLocalizationCsvManagement": "false"
+    "enableLocalizationCsvManagement": "false",
+    "enableGroupCreation": "true"
 }
