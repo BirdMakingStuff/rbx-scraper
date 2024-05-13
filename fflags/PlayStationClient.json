@@ -12339,8 +12339,13 @@
     "FFlagTenFootMoreSettingsAndAboutRefactor2": "True",
     "FFlagMacRemoveGotham_Rollout": "True;60;2024-05-13T21:07:02",
     "DFFlagPlayerConfigurer2886_Rollout": "True;60;2024-05-13T21:15:45",
+    "FFlagEnableAdGuiAssetPreloading_Rollout": "True;60;2024-05-13T21:21:18",
+    "FFlagDeprecateVideoAssetTypeInAdsGui_Rollout": "True;60;2024-05-13T21:22:24",
+    "FFlagCollisionGroupNamePropertyItem_Rollout": "True;60;2024-05-13T21:29:27",
+    "DFFlagLogServiceStudioOutputSpamFix2_Rollout": "True;60;2024-05-13T21:29:55",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
+    "DFFlagSimJobTimeAddUniverseId_Rollout": "True;60;2024-05-13T21:32:16",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
     "FIntHttpCurlMaxCachedHandlesPerHost": "8",
@@ -12496,8 +12501,8 @@
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
     "FFlagUseRelativeToRootCFrameForAccessories": "True",
-    "FStringFlagRepoGitHashFastString": "df8542983e7d53a67800ca6fc8eb35375e8944e2",
-    "DFStringFlagRepoGitHashDynamicString": "df8542983e7d53a67800ca6fc8eb35375e8944e2",
-    "FStringFlipTimeStampFastString": "2024-05-13T21:11:56.096Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-13T21:11:56.096Z"
+    "FStringFlagRepoGitHashFastString": "9505ba3bb35e5f6b00df4dbd40ebb20dda0605c4",
+    "DFStringFlagRepoGitHashDynamicString": "9505ba3bb35e5f6b00df4dbd40ebb20dda0605c4",
+    "FStringFlipTimeStampFastString": "2024-05-13T21:32:46.679Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-13T21:32:46.679Z"
 }

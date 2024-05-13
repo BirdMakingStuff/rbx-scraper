@@ -12339,7 +12339,10 @@
     "FFlagTenFootMoreSettingsAndAboutRefactor2": "True",
     "FFlagMacRemoveGotham_Rollout": "True;60;2024-05-13T21:07:02",
     "DFFlagPlayerConfigurer2886_Rollout": "True;60;2024-05-13T21:15:45",
+    "FFlagEnableAdGuiAssetPreloading_Rollout": "True;60;2024-05-13T21:21:18",
+    "FFlagDeprecateVideoAssetTypeInAdsGui_Rollout": "True;60;2024-05-13T21:22:24",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "DFFlagLogServiceStudioOutputSpamFix2_Rollout": "True;60;2024-05-13T21:29:55",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -12712,8 +12715,8 @@
     "FFlagVoxelGridNew4_PlaceFilter": "False;11729688377",
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3_Rollout": "True;60;2024-05-13T20:16:31",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "ad9766601851e5ec66443f393ae63846e41f3463",
-    "DFStringFlagRepoGitHashDynamicString": "ad9766601851e5ec66443f393ae63846e41f3463",
-    "FStringFlipTimeStampFastString": "2024-05-13T21:16:25.623Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-13T21:16:25.623Z"
+    "FStringFlagRepoGitHashFastString": "9505ba3bb35e5f6b00df4dbd40ebb20dda0605c4",
+    "DFStringFlagRepoGitHashDynamicString": "9505ba3bb35e5f6b00df4dbd40ebb20dda0605c4",
+    "FStringFlipTimeStampFastString": "2024-05-13T21:32:46.679Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-13T21:32:46.679Z"
 }
