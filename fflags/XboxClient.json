@@ -12380,10 +12380,7 @@
     "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
     "FFlagMacEvenBetterTrackpadScrolling": "True",
     "DFFlagUpdateToolbarConstraintDefaultSpeeds": "True",
-    "FFlagAnimationCurveDenseCacheEnabled_Rollout": "True;60;2024-05-14T19:40:51",
-    "DFFlagPerformanceControlSeparateSessionTrackingUpdates_Rollout": "True;60;2024-05-14T19:45:01",
     "FFlagLuauCodegenFixVectorFields": "True",
-    "FFlagXboxEliminateHeartbeat_Rollout": "True;60;2024-05-14T19:49:31",
     "FStringUnlockVoiceIcon": "icons/controls/microphone",
     "FFlagAUMAdapterReferenceInvisible": "True",
     "FFlagUserAgreementsDefaultSelection": "True",
@@ -12395,6 +12392,9 @@
     "FFlagAXAdaptiveScrollingItemResetFix2_Rollout": "True;60;2024-05-14T21:05:52",
     "FFlagIBEnableLimitedBundle_Rollout": "True;15;2024-05-14T21:07:29",
     "FFlagModalSelectorCloseButton_Rollout": "True;30;2024-05-14T21:12:17",
+    "DFFlagPerformanceControlSeparateSessionTrackingUpdates": "True",
+    "FFlagAnimationCurveDenseCacheEnabled": "True",
+    "FFlagXboxEliminateHeartbeat": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12707,8 +12707,8 @@
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
     "DFFlagEnableParallelFrustumQueries3": "True",
     "FFlagFmodFixXboxStallOnClose": "True",
-    "FStringFlagRepoGitHashFastString": "95657ff909a638af881a39a8876bc96d67f491de",
-    "DFStringFlagRepoGitHashDynamicString": "95657ff909a638af881a39a8876bc96d67f491de",
-    "FStringFlipTimeStampFastString": "2024-05-14T21:12:45.550Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-14T21:12:45.550Z"
+    "FStringFlagRepoGitHashFastString": "d52ed596dd3ea23746656176674999b17f51a7cb",
+    "DFStringFlagRepoGitHashDynamicString": "d52ed596dd3ea23746656176674999b17f51a7cb",
+    "FStringFlipTimeStampFastString": "2024-05-14T21:35:58.387Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-14T21:35:58.387Z"
 }

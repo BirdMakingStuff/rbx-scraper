@@ -12381,7 +12381,6 @@
     "FFlagMacEvenBetterTrackpadScrolling": "True",
     "DFFlagUpdateToolbarConstraintDefaultSpeeds": "True",
     "FFlagLuauCodegenFixVectorFields": "True",
-    "FFlagXboxEliminateHeartbeat_Rollout": "True;60;2024-05-14T19:49:31",
     "FStringUnlockVoiceIcon": "icons/controls/microphone",
     "FFlagAUMAdapterReferenceInvisible": "True",
     "FFlagUserAgreementsDefaultSelection": "True",
@@ -12395,6 +12394,8 @@
     "FFlagModalSelectorCloseButton_Rollout": "True;30;2024-05-14T21:12:17",
     "DFFlagPerformanceControlSeparateSessionTrackingUpdates": "True",
     "FFlagAnimationCurveDenseCacheEnabled": "True",
+    "FFlagXboxEliminateHeartbeat": "True",
+    "FFlagEnableQuestHaptics": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12895,7 +12896,6 @@
     "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
     "FFlagClientFRMManualToAutoExperimentCheck2": "True",
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-    "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
     "FFlagDisablePostFx": "True",
@@ -12923,8 +12923,8 @@
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
     "FFlagEnableGameInviteModalVRSupportV2": "True",
-    "FStringFlagRepoGitHashFastString": "dd490dd240e1655dbbe40127e9fb6ebfe2000957",
-    "DFStringFlagRepoGitHashDynamicString": "dd490dd240e1655dbbe40127e9fb6ebfe2000957",
-    "FStringFlipTimeStampFastString": "2024-05-14T21:17:08.622Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-14T21:17:08.622Z"
+    "FStringFlagRepoGitHashFastString": "d52ed596dd3ea23746656176674999b17f51a7cb",
+    "DFStringFlagRepoGitHashDynamicString": "d52ed596dd3ea23746656176674999b17f51a7cb",
+    "FStringFlipTimeStampFastString": "2024-05-14T21:35:58.387Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-14T21:35:58.387Z"
 }
