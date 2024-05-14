@@ -12395,11 +12395,11 @@
     "FFlagAnimationCurveDenseCacheEnabled": "True",
     "FFlagXboxEliminateHeartbeat": "True",
     "AllowVideoPreRoll": "True",
-    "DFFlagSimForgoSolverStatsForUniversalAppDM_Rollout": "True;30;2024-05-14T21:40:17",
     "FFlagPlayerHydrationServiceEnabled_Rollout": "True;60;2024-05-14T21:43:07",
     "FFlagLuauFixReduceStackPressure_Rollout": "True;60;2024-05-14T21:52:10",
     "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces_Rollout": "True;60;2024-05-14T21:55:12",
     "FFlagIBEnableLimitedBundle": "True",
+    "FFlagFacialAnimationStreamingIfNoDynamicHeadDisableA2C_Rollout": "True;60;2024-05-14T22:59:11",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12711,8 +12711,8 @@
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
     "DFFlagEnableParallelFrustumQueries3": "True",
     "FFlagFmodFixXboxStallOnClose": "True",
-    "FStringFlagRepoGitHashFastString": "3d92ae88ac99f1af44924992d56a526c682b359f",
-    "DFStringFlagRepoGitHashDynamicString": "3d92ae88ac99f1af44924992d56a526c682b359f",
-    "FStringFlipTimeStampFastString": "2024-05-14T21:56:48.113Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-14T21:56:48.113Z"
+    "FStringFlagRepoGitHashFastString": "450c0c5686a2f8bbb074cc83353bc84261bd5dff",
+    "DFStringFlagRepoGitHashDynamicString": "450c0c5686a2f8bbb074cc83353bc84261bd5dff",
+    "FStringFlipTimeStampFastString": "2024-05-14T23:33:40.166Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-14T23:33:40.166Z"
 }
