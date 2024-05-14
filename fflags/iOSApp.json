@@ -12362,6 +12362,12 @@
     "FFlagPerformanceControlCLI105137DenoteNoRolloutGroup": "True",
     "FFlagCapsLoadModuleRequirements": "True",
     "FFlagCAPSeparateWelcomeTutorialEndpoints": "True",
+    "FFlagFriendsCarouselInjectSocialBtn12": "True",
+    "FFlagFriendGridRowCreateCarouselList9": "True",
+    "FFlagFriendsLandingAllowNavParamsUAR": "True",
+    "FFlagContactImporterFixRedirectsFromSocialOnboardingBtns": "True",
+    "FFlagReportFlagAutomationFlags_Rollout": "True;60;2024-05-14T16:23:22",
+    "FFlagFriendsCarouselRenderItem3": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12822,8 +12828,8 @@
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
     "DFFlagHttpReportWhenAppSuspended": "True",
     "FFlagHttpBlockWhenAppSuspendedIOS": "True",
-    "FStringFlagRepoGitHashFastString": "fee9a62ee6197ad8b32b5025137360212e3f0fc7",
-    "DFStringFlagRepoGitHashDynamicString": "fee9a62ee6197ad8b32b5025137360212e3f0fc7",
-    "FStringFlipTimeStampFastString": "2024-05-14T00:51:22.586Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-14T00:51:22.586Z"
+    "FStringFlagRepoGitHashFastString": "b011cba70b7f80a7982ac00dceb1e2f3f8f1730c",
+    "DFStringFlagRepoGitHashDynamicString": "b011cba70b7f80a7982ac00dceb1e2f3f8f1730c",
+    "FStringFlipTimeStampFastString": "2024-05-14T16:25:14.035Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-14T16:25:14.035Z"
 }
