@@ -12959,6 +12959,7 @@
     "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
     "FFlagPathEditorRotation": "True",
     "FFlagLuauCompileTypeInfo": "True",
+    "FFlagLuauCodegenTypeInfo_Rollout": "True;60;2024-05-15T16:35:46",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13004,8 +13005,8 @@
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "d879c1d86648512ab4f80d2cfedf9b8509c8d4d4",
-    "DFStringFlagRepoGitHashDynamicString": "d879c1d86648512ab4f80d2cfedf9b8509c8d4d4",
-    "FStringFlipTimeStampFastString": "2024-05-15T16:08:37.200Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-15T16:08:37.200Z"
+    "FStringFlagRepoGitHashFastString": "8eb5a6235ffa87530290c80f5fa70bb253fa7787",
+    "DFStringFlagRepoGitHashDynamicString": "8eb5a6235ffa87530290c80f5fa70bb253fa7787",
+    "FStringFlipTimeStampFastString": "2024-05-15T16:36:13.981Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-15T16:36:13.981Z"
 }
