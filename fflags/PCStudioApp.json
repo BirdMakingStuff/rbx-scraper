@@ -12402,7 +12402,6 @@
     "FStringDebugAvatarGenerationStaticApiKey": "NOT_SET",
     "DFFlagSimForgoSolverStatsForUniversalAppDM": "True",
     "FFlagStudioAddAlternateTableKeys": "True",
-    "FFlagPathfindingClearNavmeshOnShutdown_Rollout": "True;60;2024-05-15T17:35:44",
     "FIntConsolidateBubbleChatRollout4": "100",
     "DFFlagSimSolverOptimizeIslandizerAllocations": "True",
     "FFlagStudioNoLegacyLockForGridSizeVerb_Rollout": "True;60;2024-05-15T17:45:54",
@@ -12411,6 +12410,7 @@
     "FFlagImproveShiftLockTransition_Rollout": "True;60;2024-05-15T18:13:58",
     "FFlagEnablePngMetadata": "True",
     "FFlagReplaceArialForFontFallback_Rollout": "True;60;2024-05-15T18:27:59",
+    "FFlagPathfindingClearNavmeshOnShutdown": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13013,8 +13013,8 @@
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "5ef9eb09a6d1eeb47a0322f98a825b371fc46722",
-    "DFStringFlagRepoGitHashDynamicString": "5ef9eb09a6d1eeb47a0322f98a825b371fc46722",
-    "FStringFlipTimeStampFastString": "2024-05-15T18:32:05.548Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-15T18:32:05.548Z"
+    "FStringFlagRepoGitHashFastString": "6639b43acc8c44197cea7ed3641d7d4f5b0c1053",
+    "DFStringFlagRepoGitHashDynamicString": "6639b43acc8c44197cea7ed3641d7d4f5b0c1053",
+    "FStringFlipTimeStampFastString": "2024-05-15T19:11:50.898Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-15T19:11:50.898Z"
 }

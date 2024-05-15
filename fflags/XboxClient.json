@@ -12411,6 +12411,7 @@
     "FFlagImproveShiftLockTransition_Rollout": "True;60;2024-05-15T18:13:58",
     "FFlagEnablePngMetadata": "True",
     "FFlagReplaceArialForFontFallback_Rollout": "True;60;2024-05-15T18:27:59",
+    "FFlagPathfindingClearNavmeshOnShutdown": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12722,8 +12723,8 @@
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
     "DFFlagEnableParallelFrustumQueries3": "True",
     "FFlagFmodFixXboxStallOnClose": "True",
-    "FStringFlagRepoGitHashFastString": "5ef9eb09a6d1eeb47a0322f98a825b371fc46722",
-    "DFStringFlagRepoGitHashDynamicString": "5ef9eb09a6d1eeb47a0322f98a825b371fc46722",
-    "FStringFlipTimeStampFastString": "2024-05-15T18:32:05.548Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-15T18:32:05.548Z"
+    "FStringFlagRepoGitHashFastString": "e1fc020a76a47d2d32386c778335a49090027067",
+    "DFStringFlagRepoGitHashDynamicString": "e1fc020a76a47d2d32386c778335a49090027067",
+    "FStringFlipTimeStampFastString": "2024-05-15T18:54:00.529Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-15T18:54:00.529Z"
 }

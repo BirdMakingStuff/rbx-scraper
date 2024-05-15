@@ -5,5 +5,5 @@
     "enableLocalizationCsvManagement": "false",
     "enableGroupCreation": "true",
     "enableDeveloperSubscriptionRevShareDemo": "true",
-    "enableDeveloperSubscriptionOffSale": "false"
+    "enableDeveloperSubscriptionOffSale": "true"
 }
