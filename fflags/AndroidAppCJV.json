@@ -12412,6 +12412,7 @@
     "FFlagImproveShiftLockTransition": "True",
     "FFlagReplaceArialForFontFallback": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering_Rollout": "True;60;2024-05-15T20:20:53",
+    "DFFlagEnableBanAsync_PlaceFilter": "True;14277673090",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12910,8 +12911,8 @@
     "FFlagEnableCrossExpVoiceQueryCallLaunchInGameJoin": "True",
     "FFlagClientFRMManualToAutoExperimentCheck2": "True",
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
-    "FFlagAppChatChannelsAPIForAllRC1_Rollout": "True;60;2024-05-15T18:53:23",
-    "FIntAppChatChannelsAPIRolloutPercentRC1_Rollout": "100;60;2024-05-15T18:53:23",
+    "FFlagAppChatChannelsAPIForAllRC1": "True",
+    "FIntAppChatChannelsAPIRolloutPercentRC1": "100",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -12943,8 +12944,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "e197be0f9f5abba6e49daf223868addaca05259d",
-    "DFStringFlagRepoGitHashDynamicString": "e197be0f9f5abba6e49daf223868addaca05259d",
-    "FStringFlipTimeStampFastString": "2024-05-15T20:22:03.689Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-15T20:22:03.689Z"
+    "FStringFlagRepoGitHashFastString": "c5f358bbe8707a64d10525eebd9b61480ec56a0a",
+    "DFStringFlagRepoGitHashDynamicString": "c5f358bbe8707a64d10525eebd9b61480ec56a0a",
+    "FStringFlipTimeStampFastString": "2024-05-15T20:30:04.985Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-15T20:30:04.985Z"
 }
