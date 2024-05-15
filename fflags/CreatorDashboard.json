@@ -3,5 +3,7 @@
     "enableAutomaticTranslationUpdates": "true",
     "enableConfigureCommentCheckBox": "false",
     "enableLocalizationCsvManagement": "false",
-    "enableGroupCreation": "true"
+    "enableGroupCreation": "true",
+    "enableDeveloperSubscriptionRevShareDemo": "true",
+    "enableDeveloperSubscriptionOffSale": "false"
 }
