@@ -12415,6 +12415,8 @@
     "FFlagEnableHarmonyOnFrameRateManagerShadow2_Rollout": "True;60;2024-05-15T20:42:07",
     "DFFlagEnableUnbanAsync_PlaceFilter": "True;14277673090",
     "FFlagAppChatChannelsAPIForAllRC1_Rollout": "True;60;2024-05-15T21:12:10",
+    "DFFlagCreatorBanUI_PlaceFilter": "True;14277673090",
+    "DFFlagStudioLanguagesBatchHotrodAccessorMigration_Rollout": "True;60;2024-05-15T21:21:33",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12624,8 +12626,8 @@
     "FFlagUseRelativeToRootCFrameForAccessories": "True",
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
     "FFlagUWPSkipNetworkCheck_Rollout": "True;60;2024-05-15T20:10:49",
-    "FStringFlagRepoGitHashFastString": "4f59248cbd320daa5b90ffcee5d1a95d67ff5c55",
-    "DFStringFlagRepoGitHashDynamicString": "4f59248cbd320daa5b90ffcee5d1a95d67ff5c55",
-    "FStringFlipTimeStampFastString": "2024-05-15T21:17:00.721Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-15T21:17:00.721Z"
+    "FStringFlagRepoGitHashFastString": "efd3bb58eb808b191b220c39d00e3a560a063d4f",
+    "DFStringFlagRepoGitHashDynamicString": "efd3bb58eb808b191b220c39d00e3a560a063d4f",
+    "FStringFlipTimeStampFastString": "2024-05-15T21:30:51.798Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-15T21:30:51.798Z"
 }
