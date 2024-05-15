@@ -12387,7 +12387,6 @@
     "FFlagUserAgreementsOnAppForegrounded": "True",
     "FFlagLuauCodegenVectorMispredictFix": "True",
     "FFlagLuauPushErrorStackCheck": "True",
-    "FFlagRenderInstanceClusterRetryPartInvalidationWhenMeshNotReady": "True",
     "FFlagPlayerIconAvatarFix": "True",
     "DFFlagPerformanceControlSeparateSessionTrackingUpdates": "True",
     "FFlagAnimationCurveDenseCacheEnabled": "True",
@@ -12400,6 +12399,9 @@
     "FFlagLuauFixReduceStackPressure": "True",
     "FFlagPlayerHydrationServiceEnabled": "True",
     "FFlagFacialAnimationStreamingIfNoDynamicHeadDisableA2C": "True",
+    "FFlagStudioAddAlternateTableKeys_Rollout": "True;60;2024-05-15T15:59:22",
+    "DFFlagSimForgoSolverStatsForUniversalAppDM_Rollout": "True;30;2024-05-15T16:06:54",
+    "DFFlagSimSolverOptimizeIslandizerAllocations_Rollout": "True;60;2024-05-15T16:08:17",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12954,7 +12956,6 @@
     "FFlagStudioEditBreakpointDialogStopDereferencedPointers": "True",
     "FFlagCAPAddLeadingTrailingSource": "True",
     "FFlagFixSocialPresenceDropdown": "True",
-    "FFlagStudioAddAuxiliaryWindowOnce": "True",
     "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": "True",
     "FFlagPathEditorRotation": "True",
     "FFlagLuauCompileTypeInfo": "True",
@@ -13003,8 +13004,8 @@
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "124987456cbbb42c7bbfdc8abbc22c6a12fa7e44",
-    "DFStringFlagRepoGitHashDynamicString": "124987456cbbb42c7bbfdc8abbc22c6a12fa7e44",
-    "FStringFlipTimeStampFastString": "2024-05-15T00:51:23.687Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-15T00:51:23.687Z"
+    "FStringFlagRepoGitHashFastString": "d879c1d86648512ab4f80d2cfedf9b8509c8d4d4",
+    "DFStringFlagRepoGitHashDynamicString": "d879c1d86648512ab4f80d2cfedf9b8509c8d4d4",
+    "FStringFlipTimeStampFastString": "2024-05-15T16:08:37.200Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-15T16:08:37.200Z"
 }
