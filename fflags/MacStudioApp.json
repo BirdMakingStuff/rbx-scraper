@@ -12390,7 +12390,6 @@
     "DFFlagPerformanceControlSeparateSessionTrackingUpdates": "True",
     "FFlagXboxEliminateHeartbeat": "True",
     "FFlagIBEnableLimitedBundle": "True",
-    "FFlagAXAdaptiveScrollingItemResetFix2": "True",
     "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces": "True",
     "DFIntImmersiveAdLoadPointsThrottleHundredthsPercent": "1000",
     "FFlagModalSelectorCloseButton": "True",
@@ -13047,8 +13046,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "624d3b5324729a47aea5962c947efcbc2003de64",
-    "DFStringFlagRepoGitHashDynamicString": "624d3b5324729a47aea5962c947efcbc2003de64",
-    "FStringFlipTimeStampFastString": "2024-05-16T20:59:38.189Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-16T20:59:38.189Z"
+    "FStringFlagRepoGitHashFastString": "b7b3edaf019767c15ab42126c52715367b518fb2",
+    "DFStringFlagRepoGitHashDynamicString": "b7b3edaf019767c15ab42126c52715367b518fb2",
+    "FStringFlipTimeStampFastString": "2024-05-16T21:36:13.496Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-16T21:36:13.496Z"
 }

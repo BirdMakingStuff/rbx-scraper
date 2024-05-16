@@ -12390,7 +12390,6 @@
     "DFFlagPerformanceControlSeparateSessionTrackingUpdates": "True",
     "FFlagXboxEliminateHeartbeat": "True",
     "FFlagIBEnableLimitedBundle": "True",
-    "FFlagAXAdaptiveScrollingItemResetFix2": "True",
     "FFlagSimCSGV3NotMergingIncorrectCoplanarFaces": "True",
     "DFIntImmersiveAdLoadPointsThrottleHundredthsPercent": "1000",
     "FFlagModalSelectorCloseButton": "True",
@@ -12741,8 +12740,8 @@
     "DFFlagEnableImmersiveAdViewabilityPointsThrottle": "True",
     "DFFlagEnableParallelFrustumQueries3": "True",
     "FFlagFmodFixXboxStallOnClose": "True",
-    "FStringFlagRepoGitHashFastString": "057649dc41902268d3bf9f01b1413ddd34b42951",
-    "DFStringFlagRepoGitHashDynamicString": "057649dc41902268d3bf9f01b1413ddd34b42951",
-    "FStringFlipTimeStampFastString": "2024-05-16T21:19:03.020Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-16T21:19:03.020Z"
+    "FStringFlagRepoGitHashFastString": "b7b3edaf019767c15ab42126c52715367b518fb2",
+    "DFStringFlagRepoGitHashDynamicString": "b7b3edaf019767c15ab42126c52715367b518fb2",
+    "FStringFlipTimeStampFastString": "2024-05-16T21:36:13.496Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-16T21:36:13.496Z"
 }
