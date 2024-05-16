@@ -12431,6 +12431,10 @@
     "DFFlagUIBatchHotrodAccessorMigration": "True",
     "FFlagFindAndReplaceResizing_Rollout": "True;60;2024-05-16T21:43:19",
     "FFlagEnableAudioEmitterDistanceAttenuation_Rollout": "True;60;2024-05-16T21:46:21",
+    "FFlagToolboxFixAlbumAndArtistClearingOnNewSearch_Rollout": "True;60;2024-05-16T22:23:18",
+    "FFlagCinFixApplyForBadSession_Rollout": "True;60;2024-05-16T22:26:15",
+    "FFlagPasteVerbsUseInstanceInserter3_Rollout": "True;30;2024-05-16T22:30:00",
+    "DFFlagBadgeServiceUseSingularGetBadgeAwardDate_PlaceFilter": "True;17513688068",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12791,8 +12795,8 @@
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
     "DFFlagReportPreRenderJobTimes": "True",
     "DFFlagFixVideoAdAveragePercentSeenTracking_Rollout": "True;60;2024-05-16T21:39:55",
-    "FStringFlagRepoGitHashFastString": "2577ec9997d31bd90b98a8d2d59f75bf4e803f95",
-    "DFStringFlagRepoGitHashDynamicString": "2577ec9997d31bd90b98a8d2d59f75bf4e803f95",
-    "FStringFlipTimeStampFastString": "2024-05-16T22:13:23.371Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-16T22:13:23.371Z"
+    "FStringFlagRepoGitHashFastString": "aa89a2d628a8f43d79cd02b07591397a54d01402",
+    "DFStringFlagRepoGitHashDynamicString": "aa89a2d628a8f43d79cd02b07591397a54d01402",
+    "FStringFlipTimeStampFastString": "2024-05-16T22:35:45.426Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-16T22:35:45.426Z"
 }
