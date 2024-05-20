@@ -12442,6 +12442,10 @@
     "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagSimModelLodMutexLockCrash2": "True",
+    "FFlagAvatarPreviewerAutoSetupDisablePublish_Rollout": "False;60;2024-05-20T18:25:34",
+    "DFFlagFixCharacterEmptyOptRead_Rollout": "True;30;2024-05-20T18:28:16",
+    "DFFlagDataStoreEnableSerializationChecksAndCounters_Rollout": "True;60;2024-05-20T18:28:20",
+    "FFlagUIBloxDevUseNewFontNameMapping_Rollout": "True;60;2024-05-20T18:28:32",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13017,6 +13021,8 @@
     "FFlagToolboxFixAssetTileHoverState": "True",
     "FFlagSTUDIOPLAT34381AddExtraStatsToStudioCrashDetails": "True",
     "FFlagStudioEnableMainThreadHangMonitor": "True",
+    "FFlagCodegenStatsProtectAssertion_Rollout": "True;30;2024-05-20T18:27:31",
+    "FFlagLuauCodegenAnalyzeHostVectorOps_Rollout": "True;60;2024-05-20T18:28:07",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13062,8 +13068,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "d0a77bfcbc84890181b76b899b6b132c16a506b5",
-    "DFStringFlagRepoGitHashDynamicString": "d0a77bfcbc84890181b76b899b6b132c16a506b5",
-    "FStringFlipTimeStampFastString": "2024-05-20T18:24:11.561Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-20T18:24:11.561Z"
+    "FStringFlagRepoGitHashFastString": "c9bd1b9f1a2ee6497965d7794e2bbb68af92b262",
+    "DFStringFlagRepoGitHashDynamicString": "c9bd1b9f1a2ee6497965d7794e2bbb68af92b262",
+    "FStringFlipTimeStampFastString": "2024-05-20T18:29:26.447Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-20T18:29:26.447Z"
 }
