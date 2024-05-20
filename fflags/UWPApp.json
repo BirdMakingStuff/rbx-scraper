@@ -12440,11 +12440,9 @@
     "DFIntImmersiveAdUnloadPointsThrottleHundredthsPercent": "1000",
     "DFIntImmersiveAdViewableImpressionPointsThrottleHundredthsPercent": "1000",
     "DFFlagSimModelLodMutexLockCrash2": "True",
-    "DFFlagPerformanceControlIXPAllowCustomTelemetryThrottles_Rollout": "True;60;2024-05-20T18:53:16",
     "DFIntAdServiceUserIdleThresholdInSeconds_PlaceFilter": "100000;16970181235",
     "FFlagAbstractShowWebpagePhoneUpsell_Rollout": "True;60;2024-05-20T19:07:08",
     "FFlagAbstractPhoneUpsellFromCentralOverlay_Rollout": "True;60;2024-05-20T19:07:24",
-    "DFFlagPerformanceControlSwitchFromPerfControlToCoordinatorForIXP_Rollout": "True;30;2024-05-20T19:22:19",
     "DFFlagFixCharacterEmptyOptRead": "True",
     "FFlagSourceAssetIdInModelChildren_Rollout": "True;60;2024-05-20T19:45:17",
     "FFlagLuaAppSingleHoveredGridTile2_Rollout": "True;60;2024-05-20T19:48:03",
@@ -12464,6 +12462,8 @@
     "DFFlagEnableBanAsync_Rollout": "True;60;2024-05-20T20:16:32",
     "FFlagCreatorBanWhitespaceSub_Rollout": "True;60;2024-05-20T20:16:41",
     "DFFlagEnableUnbanAsync_Rollout": "True;60;2024-05-20T20:17:02",
+    "DFFlagPerformanceControlIXPAllowCustomTelemetryThrottles": "True",
+    "DFFlagPerformanceControlSwitchFromPerfControlToCoordinatorForIXP": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12670,8 +12670,8 @@
     "FFlagUseRelativeToRootCFrameForAccessories": "True",
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": "True",
     "FFlagUWPSkipNetworkCheck": "True",
-    "FStringFlagRepoGitHashFastString": "a98ec3c285695df8862426481ec77ef2cbff0e1c",
-    "DFStringFlagRepoGitHashDynamicString": "a98ec3c285695df8862426481ec77ef2cbff0e1c",
-    "FStringFlipTimeStampFastString": "2024-05-20T20:17:54.866Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-20T20:17:54.866Z"
+    "FStringFlagRepoGitHashFastString": "91ad969bf240b2ea1a13c368f69e831dfe5213ee",
+    "DFStringFlagRepoGitHashDynamicString": "91ad969bf240b2ea1a13c368f69e831dfe5213ee",
+    "FStringFlipTimeStampFastString": "2024-05-20T20:36:04.259Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-20T20:36:04.259Z"
 }
