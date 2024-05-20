@@ -12480,6 +12480,7 @@
     "DFFlagSecretURLEncode_Rollout": "True;60;2024-05-20T23:11:27",
     "FFlagAvatarPreviewerHandleAvatarDeletion_Rollout": "True;60;2024-05-20T23:13:41",
     "FFlagAvatarPreviewerFixMeshSwitching3_Rollout": "True;60;2024-05-20T23:14:41",
+    "DFFlagSimAssemblyPrimitiveCounter_Rollout": "True;60;2024-05-20T23:33:58",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -12845,8 +12846,8 @@
     "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
     "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
     "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100",
-    "FStringFlagRepoGitHashFastString": "cceb5df699b073f0b0c69ab9cc2b700d211d1709",
-    "DFStringFlagRepoGitHashDynamicString": "cceb5df699b073f0b0c69ab9cc2b700d211d1709",
-    "FStringFlipTimeStampFastString": "2024-05-20T23:15:15.778Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-20T23:15:15.778Z"
+    "FStringFlagRepoGitHashFastString": "cc082d00cf295f14ec08e657215ac57b5c31d787",
+    "DFStringFlagRepoGitHashDynamicString": "cc082d00cf295f14ec08e657215ac57b5c31d787",
+    "FStringFlipTimeStampFastString": "2024-05-20T23:34:39.642Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-20T23:34:39.642Z"
 }
