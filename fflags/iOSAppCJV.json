@@ -11582,7 +11582,7 @@
     "DFFlagEnableRobloxCreditPurchase2": "True",
     "FFlagAppChatEventReceiverRefactorRefresh": "True",
     "FFlagRIDE7916StudioEmulatorFixCalibratePhysicalSize": "True",
-    "FFlagSelectRotatedGuiObjects": "True",
+    "FFlagSelectRotatedGuiObjects": "False",
     "FFlagOmniSearchSystemInfo": "True",
     "FFlagVoiceChatV2UseControlPlaneIsolationTag": "False",
     "FFlagCAPDebounceTimeoutWhenContentReceived": "True",
@@ -12489,7 +12489,6 @@
     "FFlagQualityFiltersInToolboxSearch5_Rollout": "False;60;2024-05-21T18:00:05",
     "DFFlagMoveGamePerfMonitorStart": "True",
     "FFlagLuauCodegenRemoveDeadStores5_Rollout": "True;60;2024-05-21T18:09:55",
-    "FFlagSelectRotatedGuiObjects_Rollout": "False;30;2024-05-21T18:10:03",
     "DFFlagRobloxTelemetryLogStringListField_Rollout": "True;60;2024-05-21T18:13:24",
     "FFlagRenameLockTool_Rollout": "True;30;2024-05-21T18:22:00",
     "FFlagCAPMarkdownRendererComponent_Rollout": "True;60;2024-05-21T18:25:00",
@@ -12995,8 +12994,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "59a3cf91c1bb27239fe9e53c6c0a19a512376989",
-    "DFStringFlagRepoGitHashDynamicString": "59a3cf91c1bb27239fe9e53c6c0a19a512376989",
-    "FStringFlipTimeStampFastString": "2024-05-21T18:34:58.682Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-21T18:34:58.682Z"
+    "FStringFlagRepoGitHashFastString": "d0cca062d7fdf3737f1bdf970d2b34680fb6ee80",
+    "DFStringFlagRepoGitHashDynamicString": "d0cca062d7fdf3737f1bdf970d2b34680fb6ee80",
+    "FStringFlipTimeStampFastString": "2024-05-21T19:11:39.523Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-21T19:11:39.523Z"
 }
