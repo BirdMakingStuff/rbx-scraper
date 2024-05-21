@@ -102,7 +102,7 @@
     "FFlagFixEmptyLimitedBadgesForBundles": "True",
     "FFlagAXEnableKeywordAnalyticsForSearch": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
-    "FFlagPublishServiceSupportAdditionalParameters_Rollout": "True;60;2024-05-21T19:57:55",
+    "FFlagPublishServiceSupportAdditionalParameters": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -124,8 +124,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "faf8d45e82b71a8ddd05ca19fc272f13fa854092",
-    "DFStringFlagRepoGitHashDynamicString": "faf8d45e82b71a8ddd05ca19fc272f13fa854092",
-    "FStringFlipTimeStampFastString": "2024-05-21T21:17:10.399Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-21T21:17:10.399Z"
+    "FStringFlagRepoGitHashFastString": "88648642e38aced36aac1bab85b62fd7a491c6af",
+    "DFStringFlagRepoGitHashDynamicString": "88648642e38aced36aac1bab85b62fd7a491c6af",
+    "FStringFlipTimeStampFastString": "2024-05-21T21:36:30.145Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-21T21:36:30.145Z"
 }
