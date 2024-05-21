@@ -12464,7 +12464,6 @@
     "FFlagGraphicsFixBoxMappedMesh2": "True",
     "FFlagAXAdaptiveScrollingItemResetFix2": "True",
     "DFFlagSimReportFrameAveragedAssemblyCount": "True",
-    "DFFlagPhysicsBatchHotrodAccessorMigration": "True",
     "FFlagFixSTFSMSignals": "True",
     "DFStringWebviewUrlAllowlist": "www.youtube-nocookie.com",
     "DFFlagSurroundEventStreamAccessesWithMutex": "True",
@@ -12494,7 +12493,6 @@
     "FFlagReplicateAnimationLooped": "True",
     "FFlagClientSendAvoidPlayerOnFireServer": "True",
     "FFlagLuaAppSponsoredGridTiles": "True",
-    "DFFlagBatch23HotrodMigration_Rollout": "True;60;2024-05-21T21:48:00",
     "FFlagEnableTenFootUiAppInfo": "True",
     "FFlagSBCustomMemoryAllocation": "True",
     "DFFlagHttpClientMoveBandwidthStats": "True",
@@ -12503,6 +12501,8 @@
     "DFFlagBatch22HotrodMigration": "True",
     "FFlagDisableChromeFollowupUnibar": "True",
     "FFlagGamepadMessageKey": "True",
+    "DFFlagBatch23HotrodMigration": "True",
+    "FFlagScreenshotCaptureWriteMetadata": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12881,8 +12881,8 @@
     "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent_Rollout": "10;60;2024-05-21T22:12:38",
     "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent_Rollout": "16;60;2024-05-21T22:25:02",
     "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3_Rollout": "True;60;2024-05-21T23:02:07",
-    "FStringFlagRepoGitHashFastString": "1ebf4922fe35d95ff5a7ce06c3bca95b4d7f7a5c",
-    "DFStringFlagRepoGitHashDynamicString": "1ebf4922fe35d95ff5a7ce06c3bca95b4d7f7a5c",
-    "FStringFlipTimeStampFastString": "2024-05-21T23:16:37.641Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-21T23:16:37.641Z"
+    "FStringFlagRepoGitHashFastString": "08c433962bc4884103081211187b3bd856d6264d",
+    "DFStringFlagRepoGitHashDynamicString": "08c433962bc4884103081211187b3bd856d6264d",
+    "FStringFlipTimeStampFastString": "2024-05-21T23:35:17.462Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-21T23:35:17.462Z"
 }
