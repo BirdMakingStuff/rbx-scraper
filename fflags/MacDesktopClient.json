@@ -12540,8 +12540,8 @@
     "DFFlagWaitSignalSmallArguments": "True",
     "FFlagAXEnableKeywordAnalyticsForSearch": "True",
     "FFlagSocialLuaAnalyticsAddTimestamp": "True",
-    "FFlagLuaAppAddDiscoveryOtaVersion_Rollout": "True;30;2024-05-21T16:27:48",
     "DFFlagTrackerPerfTelemetryIncludePerfData_Rollout": "True;60;2024-05-21T16:32:21",
+    "FFlagLuaAppAddDiscoveryOtaVersion": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12852,8 +12852,8 @@
     "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
     "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
     "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100",
-    "FStringFlagRepoGitHashFastString": "1612f3736291b70575dbe1fe8b3e3e8139bf2a0f",
-    "DFStringFlagRepoGitHashDynamicString": "1612f3736291b70575dbe1fe8b3e3e8139bf2a0f",
-    "FStringFlipTimeStampFastString": "2024-05-21T17:01:55.225Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-21T17:01:55.225Z"
+    "FStringFlagRepoGitHashFastString": "23938ffefca1fd37ec5e79fd3497fe062e778685",
+    "DFStringFlagRepoGitHashDynamicString": "23938ffefca1fd37ec5e79fd3497fe062e778685",
+    "FStringFlipTimeStampFastString": "2024-05-21T17:37:44.815Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-21T17:37:44.815Z"
 }
