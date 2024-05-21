@@ -12484,6 +12484,8 @@
     "DFFlagSimSolverDenseInvertTinyLDLComponents_Rollout": "True;30;2024-05-21T16:12:56",
     "DFFlagCLI104266_Rollout": "True;60;2024-05-21T16:20:19",
     "FIntFmodSoftwareChannels_Rollout": "200;60;2024-05-21T16:23:09",
+    "DFIntMaxAudibleSoundChannels_Rollout": "200;60;2024-05-21T16:23:56",
+    "DFFlagMoveGamePerfMonitorStart_Rollout": "True;60;2024-05-21T16:25:28",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12537,6 +12539,8 @@
     "DFFlagWaitSignalSmallArguments": "True",
     "FFlagAXEnableKeywordAnalyticsForSearch": "True",
     "FFlagSocialLuaAnalyticsAddTimestamp": "True",
+    "FFlagLuaAppAddDiscoveryOtaVersion_Rollout": "True;30;2024-05-21T16:27:48",
+    "DFFlagTrackerPerfTelemetryIncludePerfData_Rollout": "True;60;2024-05-21T16:32:21",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12844,8 +12848,8 @@
     "DFFlagEnableAdSizeTrackingInVimpAndProgress": "True",
     "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": "100",
     "FIntWindowsClientCrashpadRolloutHundredthPercent_Rollout": "5000;1;2024-05-21T16:14:18",
-    "FStringFlagRepoGitHashFastString": "7b153b1673c2fb2e6e0c36112729c5889332f927",
-    "DFStringFlagRepoGitHashDynamicString": "7b153b1673c2fb2e6e0c36112729c5889332f927",
-    "FStringFlipTimeStampFastString": "2024-05-21T16:23:31.273Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-21T16:23:31.273Z"
+    "FStringFlagRepoGitHashFastString": "6a5c972e3cc3a48445a051a99b8529cab6bca7a6",
+    "DFStringFlagRepoGitHashDynamicString": "6a5c972e3cc3a48445a051a99b8529cab6bca7a6",
+    "FStringFlipTimeStampFastString": "2024-05-21T16:32:41.432Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-21T16:32:41.432Z"
 }
