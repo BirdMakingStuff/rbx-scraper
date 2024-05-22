@@ -103,8 +103,8 @@
     "FFlagAXEnableKeywordAnalyticsForSearch": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagPublishServiceSupportAdditionalParameters": "True",
-    "FFlagSocialLuaAnalyticsAddTimestamp_Rollout": "True;60;2024-05-22T16:43:47",
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
+    "FFlagSocialLuaAnalyticsAddTimestamp": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -113,8 +113,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "08d5104d63253438237b4abead2e04706ffea29c",
-    "DFStringFlagRepoGitHashDynamicString": "08d5104d63253438237b4abead2e04706ffea29c",
-    "FStringFlipTimeStampFastString": "2024-05-22T17:39:58.740Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T17:39:58.740Z"
+    "FStringFlagRepoGitHashFastString": "8161765b5028dd2775fefe1fa6b94627197bb1f2",
+    "DFStringFlagRepoGitHashDynamicString": "8161765b5028dd2775fefe1fa6b94627197bb1f2",
+    "FStringFlipTimeStampFastString": "2024-05-22T18:20:51.495Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T18:20:51.495Z"
 }
