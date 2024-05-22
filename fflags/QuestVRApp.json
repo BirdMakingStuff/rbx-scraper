@@ -12507,6 +12507,9 @@
     "FFlagEnableQuestHaptics": "True",
     "DFFlagBetterErrorMessages_Rollout": "True;60;2024-05-22T18:12:57",
     "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-05-22T18:15:00",
+    "FFlagDisableFeedbackSoothsayerCheck_Rollout": "True;60;2024-05-22T18:26:42",
+    "FFlagDisableChromeFollowupFTUX_Rollout": "True;60;2024-05-22T18:26:52",
+    "FFlagEditableImageBetterPerfAnalytics_Rollout": "True;60;2024-05-22T18:26:55",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13010,8 +13013,8 @@
     "FFlagPlatformEventEnabled2": "True",
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
     "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-22T17:33:46",
-    "FFlagLuaAppOverrideExperienceImage_Rollout": "True;10;2024-05-22T17:38:54",
     "FFlagSocialLuaAnalyticsAddTimestamp": "True",
+    "FFlagLuaAppOverrideExperienceImage": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
     "FFlagDisablePostFx": "True",
@@ -13040,8 +13043,8 @@
     "FFlagLuaAppRedoOtaValidation": "True",
     "FFlagPublishServiceSupportAdditionalParameters": "True",
     "FFlagSoundManagerVolumeFix": "True",
-    "FStringFlagRepoGitHashFastString": "8161765b5028dd2775fefe1fa6b94627197bb1f2",
-    "DFStringFlagRepoGitHashDynamicString": "8161765b5028dd2775fefe1fa6b94627197bb1f2",
-    "FStringFlipTimeStampFastString": "2024-05-22T18:20:51.495Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T18:20:51.495Z"
+    "FStringFlagRepoGitHashFastString": "93179c6905bda126259d922b095df8977e4b230f",
+    "DFStringFlagRepoGitHashDynamicString": "93179c6905bda126259d922b095df8977e4b230f",
+    "FStringFlipTimeStampFastString": "2024-05-22T18:31:15.166Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T18:31:15.166Z"
 }

@@ -12507,6 +12507,9 @@
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "DFFlagBetterErrorMessages_Rollout": "True;60;2024-05-22T18:12:57",
     "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-05-22T18:15:00",
+    "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
+    "FFlagDisableChromeFollowupFTUX_Rollout": "True;60;2024-05-22T18:26:52",
+    "FFlagEditableImageBetterPerfAnalytics_Rollout": "True;60;2024-05-22T18:26:55",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13102,7 +13105,6 @@
     "FFlagSystemOutputControllerManagerComponent": "True",
     "FFlagToolboxContextualAudioRecommendations2": "True",
     "FFlagSocialLuaAnalyticsAddTimestamp": "True",
-    "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
     "FFlagEnableDMInitMeasurement": "True",
@@ -13146,8 +13148,8 @@
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "8161765b5028dd2775fefe1fa6b94627197bb1f2",
-    "DFStringFlagRepoGitHashDynamicString": "8161765b5028dd2775fefe1fa6b94627197bb1f2",
-    "FStringFlipTimeStampFastString": "2024-05-22T18:20:51.495Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T18:20:51.495Z"
+    "FStringFlagRepoGitHashFastString": "93179c6905bda126259d922b095df8977e4b230f",
+    "DFStringFlagRepoGitHashDynamicString": "93179c6905bda126259d922b095df8977e4b230f",
+    "FStringFlipTimeStampFastString": "2024-05-22T18:31:15.166Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T18:31:15.166Z"
 }
