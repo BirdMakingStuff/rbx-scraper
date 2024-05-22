@@ -12511,8 +12511,6 @@
     "FFlagEnableAppCommonInputHooks": "True",
     "FFlagEnableVRInputModeHandling": "True",
     "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True",
-    "FFlagSocialContextToastEventStream3_Rollout": "True;60;2024-05-22T20:23:21",
-    "FFlagVideoFixGpuShaderAspectRatio2_Rollout": "True;60;2024-05-22T20:32:08",
     "DFFlagCleanHex": "True",
     "FFlagStopPublishedPlacesOpening": "True",
     "FFlagFixWindowAverageUnderflow_Rollout": "True;60;2024-05-22T20:52:40",
@@ -12523,6 +12521,9 @@
     "FFlagLuaAppAddDiscoveryOtaVersion_Rollout": "True;30;2024-05-22T21:19:17",
     "DFFlagOnlyAllowThumbnailRbxCdnUrls2_Rollout": "True;60;2024-05-22T21:20:17",
     "FFlagDisableLinkedScriptStudioEditing1_Rollout": "True;60;2024-05-22T21:23:46",
+    "FFlagLuaAppInlineRequireAppConfigurer_Rollout": "True;60;2024-05-22T21:49:28",
+    "FFlagSocialContextToastEventStream3": "True",
+    "FFlagVideoFixGpuShaderAspectRatio2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13030,8 +13031,8 @@
     "DFFlagReportPreRenderJobTimes": "True",
     "FFlagAddUserScrollingStatData": "True",
     "DFFlagRemoveRBXCRASHFromAdGui_Rollout": "True;60;2024-05-22T21:25:47",
-    "FStringFlagRepoGitHashFastString": "9a78bd5ed9acb3e0f299e84dfb9ac185d316b591",
-    "DFStringFlagRepoGitHashDynamicString": "9a78bd5ed9acb3e0f299e84dfb9ac185d316b591",
-    "FStringFlipTimeStampFastString": "2024-05-22T21:26:47.755Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T21:26:47.755Z"
+    "FStringFlagRepoGitHashFastString": "ae6074d796a79dc43a869a1337360fffe93fadcb",
+    "DFStringFlagRepoGitHashDynamicString": "ae6074d796a79dc43a869a1337360fffe93fadcb",
+    "FStringFlipTimeStampFastString": "2024-05-22T22:10:06.121Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T22:10:06.121Z"
 }
