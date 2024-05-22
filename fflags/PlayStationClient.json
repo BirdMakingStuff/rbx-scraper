@@ -12659,8 +12659,9 @@
     "FFlagPSControllerDisconnect_Rollout": "True;60;2024-05-22T16:16:59",
     "FFlagSocialLuaAnalyticsAddTimestamp_Rollout": "True;60;2024-05-22T16:43:47",
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
-    "FStringFlagRepoGitHashFastString": "85a888dfdbdec44a7ad5b166e519fa15b5467fae",
-    "DFStringFlagRepoGitHashDynamicString": "85a888dfdbdec44a7ad5b166e519fa15b5467fae",
-    "FStringFlipTimeStampFastString": "2024-05-22T17:17:45.757Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T17:17:45.757Z"
+    "FFlagLuaAppOverrideExperienceImage_Rollout": "True;10;2024-05-22T17:38:54",
+    "FStringFlagRepoGitHashFastString": "08d5104d63253438237b4abead2e04706ffea29c",
+    "DFStringFlagRepoGitHashDynamicString": "08d5104d63253438237b4abead2e04706ffea29c",
+    "FStringFlipTimeStampFastString": "2024-05-22T17:39:58.740Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T17:39:58.740Z"
 }

@@ -13096,6 +13096,8 @@
     "FFlagTerrainEditorFixDrawIgnoreParts": "True",
     "FFlagTerrainGenerationHideWater": "True",
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;40;2024-05-22T17:17:14",
+    "FFlagPathEditorSurfaceGui_Rollout": "True;60;2024-05-22T17:26:20",
+    "FFlagPathEditorSurfaceGuiInput_Rollout": "True;60;2024-05-22T17:26:20",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -13135,6 +13137,7 @@
     "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
     "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "500",
     "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent_Rollout": "2500;60;2024-05-22T16:16:48",
+    "FFlagRuntimeUseNativeWorkers1_Rollout": "True;60;2024-05-22T17:28:39",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -13152,8 +13155,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "85a888dfdbdec44a7ad5b166e519fa15b5467fae",
-    "DFStringFlagRepoGitHashDynamicString": "85a888dfdbdec44a7ad5b166e519fa15b5467fae",
-    "FStringFlipTimeStampFastString": "2024-05-22T17:17:45.757Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T17:17:45.757Z"
+    "FStringFlagRepoGitHashFastString": "08d5104d63253438237b4abead2e04706ffea29c",
+    "DFStringFlagRepoGitHashDynamicString": "08d5104d63253438237b4abead2e04706ffea29c",
+    "FStringFlipTimeStampFastString": "2024-05-22T17:39:58.740Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T17:39:58.740Z"
 }
