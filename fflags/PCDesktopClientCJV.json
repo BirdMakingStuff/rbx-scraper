@@ -12502,8 +12502,6 @@
     "FFlagScreenshotCaptureWriteMetadata": "True",
     "DFFlagBatch25HotrodMigration": "True",
     "DFFlagShareHex": "True",
-    "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3_Rollout": "True;60;2024-05-22T18:49:46",
-    "DFFlagCleanHex_Rollout": "True;60;2024-05-22T19:00:43",
     "FFlagPSControllerDisconnect": "True",
     "AllowVideoPreRoll": "True",
     "FFlagStopPublishedPlacesOpening_Rollout": "True;60;2024-05-22T19:14:21",
@@ -12514,6 +12512,10 @@
     "FFlagDisableChromeFollowupFTUX": "True",
     "FFlagEnableAppCommonInputHooks": "True",
     "FFlagEnableVRInputModeHandling": "True",
+    "DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": "True",
+    "FFlagSocialContextToastEventStream3_Rollout": "True;60;2024-05-22T20:23:21",
+    "FFlagVideoFixGpuShaderAspectRatio2_Rollout": "True;60;2024-05-22T20:32:08",
+    "DFFlagCleanHex": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12885,8 +12887,8 @@
     "FFlagPlatformEventEnabled2": "True",
     "FFlagLuaAppOverrideExperienceImage": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "d0166af9a8c2aebe7e0f36c753e2f4372accd749",
-    "DFStringFlagRepoGitHashDynamicString": "d0166af9a8c2aebe7e0f36c753e2f4372accd749",
-    "FStringFlipTimeStampFastString": "2024-05-22T20:16:38.857Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T20:16:38.857Z"
+    "FStringFlagRepoGitHashFastString": "341220074a4efbfb35081169b46bfca26c1e167c",
+    "DFStringFlagRepoGitHashDynamicString": "341220074a4efbfb35081169b46bfca26c1e167c",
+    "FStringFlipTimeStampFastString": "2024-05-22T20:39:01.593Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T20:39:01.593Z"
 }
