@@ -12521,6 +12521,8 @@
     "DFIntNetworkStreamingGCUrgentMaxMicroSecondLimitPartsModels_Rollout": "200000;60;2024-05-22T21:02:17",
     "AndroidAppChatMigrationEnabled": "true",
     "FFlagEnableQuestHaptics": "True",
+    "DFFlagOnlyAllowThumbnailRbxCdnUrls2_Rollout": "True;60;2024-05-22T21:20:17",
+    "FFlagDisableLinkedScriptStudioEditing1_Rollout": "True;60;2024-05-22T21:23:46",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13027,6 +13029,7 @@
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "DFFlagReportPreRenderJobTimes": "True",
     "FFlagAddUserScrollingStatData": "True",
+    "DFFlagRemoveRBXCRASHFromAdGui_Rollout": "True;60;2024-05-22T21:25:47",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
     "FFlagDisablePostFx": "True",
@@ -13055,8 +13058,8 @@
     "FFlagLuaAppRedoOtaValidation": "True",
     "FFlagPublishServiceSupportAdditionalParameters": "True",
     "FFlagSoundManagerVolumeFix": "True",
-    "FStringFlagRepoGitHashFastString": "764ad38085f372125929d4dbb5ef5113820f7e6c",
-    "DFStringFlagRepoGitHashDynamicString": "764ad38085f372125929d4dbb5ef5113820f7e6c",
-    "FStringFlipTimeStampFastString": "2024-05-22T21:20:15.011Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T21:20:15.011Z"
+    "FStringFlagRepoGitHashFastString": "9a78bd5ed9acb3e0f299e84dfb9ac185d316b591",
+    "DFStringFlagRepoGitHashDynamicString": "9a78bd5ed9acb3e0f299e84dfb9ac185d316b591",
+    "FStringFlipTimeStampFastString": "2024-05-22T21:26:47.755Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T21:26:47.755Z"
 }
