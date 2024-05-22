@@ -12519,7 +12519,7 @@
     "FFlagLuaAppAddDiscoveryOtaVersion": "True",
     "FFlagFixWindowAverageUnderflow": "True",
     "FFlagShareCaptureUploadToApiEnabled": "True",
-    "FIntShareCaptureUploadToApiRolloutLimit_PlaceFilter": "1000;189707",
+    "FIntShareCaptureUploadToApiRolloutLimit_PlaceFilter": "1000;1818;189707;920587237",
     "FIntAIDiffPromptLengthCharLimits": "3145728",
     "DFIntNetworkStreamingGCMaxMicroSecondLimitPartsModels": "100000",
     "DFIntNetworkStreamingGCUrgentMaxMicroSecondLimitPartsModels": "200000",
@@ -13029,8 +13029,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "3ddb73ec75742a8185fa0cf0c5c7c25e355f3b47",
-    "DFStringFlagRepoGitHashDynamicString": "3ddb73ec75742a8185fa0cf0c5c7c25e355f3b47",
-    "FStringFlipTimeStampFastString": "2024-05-22T23:21:31.826Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-22T23:21:31.826Z"
+    "FStringFlagRepoGitHashFastString": "aa1ec4ff61f99c6d55962e065e2d4709d29b4044",
+    "DFStringFlagRepoGitHashDynamicString": "aa1ec4ff61f99c6d55962e065e2d4709d29b4044",
+    "FStringFlipTimeStampFastString": "2024-05-22T23:36:58.969Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-22T23:36:58.969Z"
 }
