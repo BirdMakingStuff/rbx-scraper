@@ -13164,6 +13164,7 @@
     "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
     "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "2500",
     "FFlagRuntimeUseNativeWorkers1": "True",
+    "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent_Rollout": "5000;60;2024-05-23T16:10:27",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -13180,8 +13181,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "c2a1df711888529f1faf173ad184fd949aed1af1",
-    "DFStringFlagRepoGitHashDynamicString": "c2a1df711888529f1faf173ad184fd949aed1af1",
-    "FStringFlipTimeStampFastString": "2024-05-23T01:11:38.473Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-23T01:11:38.473Z"
+    "FStringFlagRepoGitHashFastString": "016f2aa938e86d9cd3cfd98f77949a9bf647a5eb",
+    "DFStringFlagRepoGitHashDynamicString": "016f2aa938e86d9cd3cfd98f77949a9bf647a5eb",
+    "FStringFlipTimeStampFastString": "2024-05-23T16:12:15.217Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-23T16:12:15.217Z"
 }
