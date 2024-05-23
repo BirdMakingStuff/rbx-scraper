@@ -12536,7 +12536,6 @@
     "FFlagCancelReleasedPendingLoaders": "True",
     "FFlagStudioExternalActions": "True",
     "FFlagStudioTaskRunnerDeregisterRace": "True",
-    "FFlagSessionTrackingUtils_Rollout": "True;60;2024-05-23T18:57:08",
     "FFlagRuntimeUseNativeWorkers1": "True",
     "FFlagDismissKeyboardAfterUsernameInput_Rollout": "True;60;2024-05-23T19:12:23",
     "FFlagSwitchGothamFontToBuilderSans_Rollout": "True;60;2024-05-23T19:15:06",
@@ -12544,6 +12543,7 @@
     "FFlagSocialLuaAnalyticsAddTimestamp": "True",
     "DFFlagWaitSignalSmallArguments": "True",
     "DFFlagPerformanceControlOnPlaceStart": "True",
+    "FFlagSessionTrackingUtils": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13041,8 +13041,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "ffa44b98d33042095524eb33c2c6781940381aa5",
-    "DFStringFlagRepoGitHashDynamicString": "ffa44b98d33042095524eb33c2c6781940381aa5",
-    "FStringFlipTimeStampFastString": "2024-05-23T20:18:30.565Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-23T20:18:30.565Z"
+    "FStringFlagRepoGitHashFastString": "83325579197499a1e9f91ab468c92dfd4a50edfb",
+    "DFStringFlagRepoGitHashDynamicString": "83325579197499a1e9f91ab468c92dfd4a50edfb",
+    "FStringFlipTimeStampFastString": "2024-05-23T20:35:05.178Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-23T20:35:05.178Z"
 }
