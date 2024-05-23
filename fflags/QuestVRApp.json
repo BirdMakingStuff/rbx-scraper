@@ -10762,7 +10762,7 @@
     "DFIntEngineAPICloudProcessingMaxPayloadSize": "500000",
     "FFlagLuaAppReplaceTableUtilities": "True",
     "DFFlagInvalidNumPropertyAssignCheckExt": "True",
-    "FStringPlatformEventUrl": "https://www.roblox.com/the-classic",
+    "FStringPlatformEventUrl": "https://www.roblox.com/games/17427651911",
     "DFFlagStrictStringConvertReportTypeof": "True",
     "FFlagVoiceChatExplicitInProgressForSubsOperation": "True",
     "FFlagStudioComponentizeSleepStateTracker": "True",
@@ -12532,6 +12532,9 @@
     "FFlagGCRemovalTimeLimit": "True",
     "FFlagToolboxSampleProductMUS4182": "True",
     "AllowVideoPreRoll": "True",
+    "FFlagRefactorOmniSearchFetch": "True",
+    "FFlagCancelReleasedPendingLoaders_Rollout": "True;60;2024-05-23T17:18:32",
+    "FFlagStudioExternalActions_Rollout": "True;60;2024-05-23T17:19:42",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13066,8 +13069,8 @@
     "FFlagLuaAppRedoOtaValidation": "True",
     "FFlagPublishServiceSupportAdditionalParameters": "True",
     "FFlagSoundManagerVolumeFix": "True",
-    "FStringFlagRepoGitHashFastString": "318273671419caba0fe5f96402623196bd2b880f",
-    "DFStringFlagRepoGitHashDynamicString": "318273671419caba0fe5f96402623196bd2b880f",
-    "FStringFlipTimeStampFastString": "2024-05-23T16:40:53.770Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-23T16:40:53.770Z"
+    "FStringFlagRepoGitHashFastString": "a5f37e652a6ba5001f0cd9cd5f87643dc0844adb",
+    "DFStringFlagRepoGitHashDynamicString": "a5f37e652a6ba5001f0cd9cd5f87643dc0844adb",
+    "FStringFlipTimeStampFastString": "2024-05-23T17:20:30.163Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-23T17:20:30.163Z"
 }
