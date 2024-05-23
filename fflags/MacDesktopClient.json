@@ -12424,7 +12424,6 @@
     "FFlagDevFrameworkAssetRenderModelImprovedDragging": "True",
     "FFlagFindAndReplaceResizing": "True",
     "FFlagEnableAudioEmitterDistanceAttenuation": "True",
-    "FFlagPasteVerbsUseInstanceInserter3": "True",
     "FFlagToolboxFixAlbumAndArtistClearingOnNewSearch": "True",
     "FFlagCinFixApplyForBadSession": "True",
     "DFFlagBadgeServiceUseSingularGetBadgeAwardDate": "True",
@@ -12916,8 +12915,8 @@
     "FFlagHumanoidDefaultReplaceUnsafeBlockingLoadInstance": "True",
     "FFlagLuaAppOverrideExperienceImage": "True",
     "DFFlagRemoveRBXCRASHFromAdGui": "True",
-    "FStringFlagRepoGitHashFastString": "d377fa43d5a0ca51ea84e5d6ceaaecdbe2aa9235",
-    "DFStringFlagRepoGitHashDynamicString": "d377fa43d5a0ca51ea84e5d6ceaaecdbe2aa9235",
-    "FStringFlipTimeStampFastString": "2024-05-23T20:51:23.935Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-23T20:51:23.935Z"
+    "FStringFlagRepoGitHashFastString": "cc22c7c9455546e206f7b763013c967fff708149",
+    "DFStringFlagRepoGitHashDynamicString": "cc22c7c9455546e206f7b763013c967fff708149",
+    "FStringFlipTimeStampFastString": "2024-05-23T22:50:18.859Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-23T22:50:18.859Z"
 }
