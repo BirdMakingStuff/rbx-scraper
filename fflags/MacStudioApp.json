@@ -12531,6 +12531,7 @@
     "FFlagFixUpdateMovedPrimitivesInStepJoints": "True",
     "FFlagGCRemovalTimeLimit": "True",
     "FFlagToolboxSampleProductMUS4182": "True",
+    "DFFlagReportPreRenderJobTimes_Rollout": "True;60;2024-05-23T16:40:18",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13174,8 +13175,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "016f2aa938e86d9cd3cfd98f77949a9bf647a5eb",
-    "DFStringFlagRepoGitHashDynamicString": "016f2aa938e86d9cd3cfd98f77949a9bf647a5eb",
-    "FStringFlipTimeStampFastString": "2024-05-23T16:12:15.217Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-23T16:12:15.217Z"
+    "FStringFlagRepoGitHashFastString": "318273671419caba0fe5f96402623196bd2b880f",
+    "DFStringFlagRepoGitHashDynamicString": "318273671419caba0fe5f96402623196bd2b880f",
+    "FStringFlipTimeStampFastString": "2024-05-23T16:40:53.770Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-23T16:40:53.770Z"
 }
