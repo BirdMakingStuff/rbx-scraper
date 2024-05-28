@@ -12570,6 +12570,10 @@
     "FFlagDevFrameworkTextInputFocusLostInputObjParam_Rollout": "True;60;2024-05-28T20:28:06",
     "FFlagLuaAppToggleEITSelectable": "True",
     "FFlagLuaAppMakeRNViewNotSelectable": "True",
+    "FFlagLuaAppDismissFocusOnClick": "True",
+    "FFlagLuauCompileTypeInfo_Rollout": "True;60;2024-05-28T21:07:40",
+    "FFlagWinTTICheckBootDuration_Rollout": "True;60;2024-05-28T21:07:52",
+    "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "10000;1;2024-05-28T21:10:50",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -12725,8 +12729,8 @@
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagFixSceneMangerEndFrameNesting": "True",
-    "FStringFlagRepoGitHashFastString": "27be4afa602d413f9ba3ffca5dbddacc873c1eb1",
-    "DFStringFlagRepoGitHashDynamicString": "27be4afa602d413f9ba3ffca5dbddacc873c1eb1",
-    "FStringFlipTimeStampFastString": "2024-05-28T20:39:47.330Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-28T20:39:47.330Z"
+    "FStringFlagRepoGitHashFastString": "d9793398fc33f04bcaf627f72c23a7dca1a797fa",
+    "DFStringFlagRepoGitHashDynamicString": "d9793398fc33f04bcaf627f72c23a7dca1a797fa",
+    "FStringFlipTimeStampFastString": "2024-05-28T21:13:42.014Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-28T21:13:42.014Z"
 }

@@ -12570,7 +12570,9 @@
     "FFlagDevFrameworkTextInputFocusLostInputObjParam_Rollout": "True;60;2024-05-28T20:28:06",
     "FFlagLuaAppToggleEITSelectable": "True",
     "FFlagLuaAppMakeRNViewNotSelectable": "True",
+    "FFlagLuaAppDismissFocusOnClick": "True",
     "AllowVideoPreRoll": "True",
+    "FFlagWinTTICheckBootDuration_Rollout": "True;60;2024-05-28T21:07:52",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13212,8 +13214,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "9f7df007e7ec19e60c4154a34ffc864c8608888b",
-    "DFStringFlagRepoGitHashDynamicString": "9f7df007e7ec19e60c4154a34ffc864c8608888b",
-    "FStringFlipTimeStampFastString": "2024-05-28T20:38:56.125Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-28T20:38:56.125Z"
+    "FStringFlagRepoGitHashFastString": "d9793398fc33f04bcaf627f72c23a7dca1a797fa",
+    "DFStringFlagRepoGitHashDynamicString": "d9793398fc33f04bcaf627f72c23a7dca1a797fa",
+    "FStringFlipTimeStampFastString": "2024-05-28T21:13:42.014Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-28T21:13:42.014Z"
 }
