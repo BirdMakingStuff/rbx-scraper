@@ -12569,12 +12569,12 @@
     "FFlagLuauCompileTypeInfo_Rollout": "True;60;2024-05-28T21:07:40",
     "FFlagWinTTICheckBootDuration_Rollout": "True;60;2024-05-28T21:07:52",
     "FFlagPerformanceControlSoundTunableV22_Rollout": "True;60;2024-05-28T21:26:14",
-    "FFlagDragDetectorUsesPermissionPolicyRevised3": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP4_Rollout": "True;60;2024-05-28T21:41:44",
     "FFlagUseCreateDecalMaterial": "True",
     "FFlagLuaAppFixCursorHooks": "True",
     "FFlagDevFrameworkTextInputFocusLostInputObjParam": "True",
     "FFlagPackagifyJoinExperience_Rollout": "True;60;2024-05-28T22:18:21",
+    "DFIntAndroidDeprecationDate_Rollout": "1714460400;60;2024-05-28T22:27:27",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12952,8 +12952,8 @@
     "FFlagUniversalAppCsat3_Rollout": "True;60;2024-05-28T22:06:49",
     "FFlagFriendsCarouselPaginatedFriendsEnabled_v3": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "a8bde6adf88b5f7df817ea2fbd2e2ee8d5412244",
-    "DFStringFlagRepoGitHashDynamicString": "a8bde6adf88b5f7df817ea2fbd2e2ee8d5412244",
-    "FStringFlipTimeStampFastString": "2024-05-28T22:19:18.462Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-28T22:19:18.462Z"
+    "FStringFlagRepoGitHashFastString": "66af2a21a58bdcbb3d4f04c8c1fe0e1d0e012922",
+    "DFStringFlagRepoGitHashDynamicString": "66af2a21a58bdcbb3d4f04c8c1fe0e1d0e012922",
+    "FStringFlipTimeStampFastString": "2024-05-28T22:28:23.907Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-28T22:28:23.907Z"
 }
