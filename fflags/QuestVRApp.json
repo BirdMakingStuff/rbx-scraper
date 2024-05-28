@@ -12579,6 +12579,7 @@
     "FFlagEnableAXFPSLogging": "True",
     "FIntAvatarExperienceFPSDuration": "2",
     "FFlagLuaAppBootcampIntroUABOOTCAMP4": "True",
+    "FFlagSoundManagerVolumeFix_Rollout": "True;60;2024-05-28T23:34:52",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13111,10 +13112,9 @@
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagLuaAppRedoOtaValidation": "True",
     "FFlagPublishServiceSupportAdditionalParameters": "True",
-    "FFlagSoundManagerVolumeFix": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
-    "FStringFlagRepoGitHashFastString": "4a05c957cd425bb3fb6859b7221bee9f69786dc6",
-    "DFStringFlagRepoGitHashDynamicString": "4a05c957cd425bb3fb6859b7221bee9f69786dc6",
-    "FStringFlipTimeStampFastString": "2024-05-28T23:16:24.611Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-28T23:16:24.611Z"
+    "FStringFlagRepoGitHashFastString": "d11578006162ddd0fcec790390d6f74178b66f9d",
+    "DFStringFlagRepoGitHashDynamicString": "d11578006162ddd0fcec790390d6f74178b66f9d",
+    "FStringFlipTimeStampFastString": "2024-05-28T23:38:57.966Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-28T23:38:57.966Z"
 }
