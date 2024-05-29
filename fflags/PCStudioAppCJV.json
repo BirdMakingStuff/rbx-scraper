@@ -12597,6 +12597,7 @@
     "AllowVideoPreRoll": "True",
     "DFFlagEnhancedPacketDebugging_Rollout": "True;60;2024-05-29T19:26:52",
     "FFlagCreatePhysicsDataAsync": "True",
+    "FFlagEnsureRestoreStatsDisplayOnReturnToEditing_Rollout": "True;60;2024-05-29T20:36:12",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13188,6 +13189,7 @@
     "FFlagDropdownIconCanOpenPlugin2": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagStudioAddUIThreadRunTimeCheck": "True",
+    "FFlagCAPAddStopSourceToTimeout_Rollout": "True;15;2024-05-29T20:31:03",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13225,6 +13227,7 @@
     "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
     "FFlagFixSceneMangerEndFrameNesting": "True",
     "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent_Rollout": "10000;60;2024-05-29T19:09:42",
+    "FFlagVoxelGridFixUpsample_Rollout": "True;30;2024-05-29T20:26:45",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -13241,8 +13244,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "dbced867358b0fb6705653d9f698c27e485ed485",
-    "DFStringFlagRepoGitHashDynamicString": "dbced867358b0fb6705653d9f698c27e485ed485",
-    "FStringFlipTimeStampFastString": "2024-05-29T20:18:00.676Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-29T20:18:00.676Z"
+    "FStringFlagRepoGitHashFastString": "90de665dc1d4d7c74444a0e03625fbe2466e7711",
+    "DFStringFlagRepoGitHashDynamicString": "90de665dc1d4d7c74444a0e03625fbe2466e7711",
+    "FStringFlipTimeStampFastString": "2024-05-29T20:36:50.919Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-29T20:36:50.919Z"
 }
