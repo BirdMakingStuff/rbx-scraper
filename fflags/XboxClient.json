@@ -12603,6 +12603,10 @@
     "FFlagEnsureRestoreStatsDisplayOnReturnToEditing": "True",
     "DFFlagTeleportClientAssetPreloadingEnabled2_PlaceFilter": "True;17577184526;17577262450",
     "DFIntTeleportClientAssetPreloadingHundredthsPercentage_PlaceFilter": "10000;17577184526;17577262450",
+    "FFlagDragDetectorAllowOneTouch_Rollout": "True;60;2024-05-29T22:29:32",
+    "FFlagInsertObjectComponentization_Rollout": "True;60;2024-05-29T22:30:00",
+    "FFlagInsertConstraintComponentization_Rollout": "True;60;2024-05-29T22:30:15",
+    "FStringGraphicsVulkanVaryingBufferLimitMiB": "0x13B5:.+:.+=160;0x5143:.+:.+=160",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12915,8 +12919,8 @@
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagFixSceneMangerEndFrameNesting": "True",
-    "FStringFlagRepoGitHashFastString": "5585a4032d0fde10bbc04f834a509167cd2a8ff9",
-    "DFStringFlagRepoGitHashDynamicString": "5585a4032d0fde10bbc04f834a509167cd2a8ff9",
-    "FStringFlipTimeStampFastString": "2024-05-29T22:21:09.507Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-29T22:21:09.507Z"
+    "FStringFlagRepoGitHashFastString": "0067e45a43757e0381c36409d74ce9b04235c1dd",
+    "DFStringFlagRepoGitHashDynamicString": "0067e45a43757e0381c36409d74ce9b04235c1dd",
+    "FStringFlipTimeStampFastString": "2024-05-29T22:37:16.719Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-29T22:37:16.719Z"
 }
