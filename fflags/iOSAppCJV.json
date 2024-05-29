@@ -12599,6 +12599,8 @@
     "FFlagUpdateFriendCarousel10ft6_Rollout": "True;45;2024-05-29T20:49:34",
     "FFlagLuauCompileTempTypeInfo": "True",
     "DFFlagEnhancedPacketDebugging": "True",
+    "FFlagLanguageServiceReportICEOnShadowDataModelThread_Rollout": "True;60;2024-05-29T21:17:42",
+    "FFlagStudioNoLegacyLockConstructingPlayersDataManager2_Rollout": "True;60;2024-05-29T21:25:10",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13067,7 +13069,6 @@
     "FFlagCaptureServiceRequestSignature": "True",
     "FFlagUniversalAppCsat3": "True",
     "FFlagLuaAppSocialFeaturePill": "True",
-    "FFlagFFlagMoveCurrentSearchTypeToState": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
     "FFlagAXWidgetItemsPerRowLowerBound": "True",
     "FFlagContactImporterManagerPolicyFix_v1_Rollout": "True;60;2024-05-29T20:49:07",
@@ -13108,8 +13109,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "b489ec31e670d9f09120a514585415d8d15da9d7",
-    "DFStringFlagRepoGitHashDynamicString": "b489ec31e670d9f09120a514585415d8d15da9d7",
-    "FStringFlipTimeStampFastString": "2024-05-29T21:17:59.201Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-29T21:17:59.201Z"
+    "FStringFlagRepoGitHashFastString": "9a445a17a9477b5be15a05d3f99a8955bb7b99f8",
+    "DFStringFlagRepoGitHashDynamicString": "9a445a17a9477b5be15a05d3f99a8955bb7b99f8",
+    "FStringFlipTimeStampFastString": "2024-05-29T21:39:36.214Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-29T21:39:36.214Z"
 }

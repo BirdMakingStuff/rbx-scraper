@@ -12363,7 +12363,7 @@
     "DFFlagSimSolverUseAlreadyComputedDiagonalForPreconditioning": "True",
     "DFFlagLuauFastTableMaxn": "True",
     "FFlagFixEmptyLimitedBadgesForBundles": "True",
-    "FFlagUnifyNavigationGraph5": "True",
+    "FFlagUnifyNavigationGraph5": "False",
     "FFlagScriptContextInvalidFacetAccessFixes": "True",
     "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
     "DFFlagUpdateToolbarConstraintDefaultSpeeds": "True",
@@ -12599,6 +12599,8 @@
     "FFlagUpdateFriendCarousel10ft6_Rollout": "True;45;2024-05-29T20:49:34",
     "FFlagLuauCompileTempTypeInfo": "True",
     "DFFlagEnhancedPacketDebugging": "True",
+    "FFlagLanguageServiceReportICEOnShadowDataModelThread_Rollout": "True;60;2024-05-29T21:17:42",
+    "FFlagStudioNoLegacyLockConstructingPlayersDataManager2_Rollout": "True;60;2024-05-29T21:25:10",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13104,11 +13106,10 @@
     "FFlagAddUserScrollingStatData": "True",
     "DFFlagRemoveRBXCRASHFromAdGui": "True",
     "FFlagUniversalAppCsat3": "True",
-    "FFlagUnifyNavigationGraph5_Rollout": "False;60;2024-05-29T19:39:09",
     "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;60;2024-05-29T20:26:19",
     "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache;60;2024-05-29T20:55:22",
-    "FStringFlagRepoGitHashFastString": "2b0938460ddfc502f9ccfdda41bd21bbe6d780ca",
-    "DFStringFlagRepoGitHashDynamicString": "2b0938460ddfc502f9ccfdda41bd21bbe6d780ca",
-    "FStringFlipTimeStampFastString": "2024-05-29T21:16:48.702Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-29T21:16:48.702Z"
+    "FStringFlagRepoGitHashFastString": "fc5556697fd7cdca627b671c1ccba709c5d72132",
+    "DFStringFlagRepoGitHashDynamicString": "fc5556697fd7cdca627b671c1ccba709c5d72132",
+    "FStringFlipTimeStampFastString": "2024-05-29T21:36:30.738Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-29T21:36:30.738Z"
 }
