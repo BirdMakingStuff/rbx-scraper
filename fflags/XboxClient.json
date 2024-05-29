@@ -12594,11 +12594,11 @@
     "FFlagHumanoidDescriptionUseInstances3": "False",
     "FFlagHumanoidDescriptionUseInstances3_PlaceFilter": "True;16570073256;17362271377",
     "FFlagLuauCodegenTypeInfo": "True",
-    "FFlagLuauCompileTempTypeInfo_Rollout": "True;60;2024-05-29T19:21:58",
-    "DFFlagEnhancedPacketDebugging_Rollout": "True;60;2024-05-29T19:26:52",
     "FFlagCreatePhysicsDataAsync": "True",
     "FFlagEnsureRestoreStatsDisplayOnReturnToEditing_Rollout": "True;60;2024-05-29T20:36:12",
     "AllowVideoPreRoll": "True",
+    "FFlagLuauCompileTempTypeInfo": "True",
+    "DFFlagEnhancedPacketDebugging": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12911,8 +12911,8 @@
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagFixSceneMangerEndFrameNesting": "True",
-    "FStringFlagRepoGitHashFastString": "90de665dc1d4d7c74444a0e03625fbe2466e7711",
-    "DFStringFlagRepoGitHashDynamicString": "90de665dc1d4d7c74444a0e03625fbe2466e7711",
-    "FStringFlipTimeStampFastString": "2024-05-29T20:36:50.919Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-29T20:36:50.919Z"
+    "FStringFlagRepoGitHashFastString": "b489ec31e670d9f09120a514585415d8d15da9d7",
+    "DFStringFlagRepoGitHashDynamicString": "b489ec31e670d9f09120a514585415d8d15da9d7",
+    "FStringFlipTimeStampFastString": "2024-05-29T21:17:59.201Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-29T21:17:59.201Z"
 }

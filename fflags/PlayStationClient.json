@@ -12594,11 +12594,11 @@
     "FFlagHumanoidDescriptionUseInstances3": "False",
     "FFlagHumanoidDescriptionUseInstances3_PlaceFilter": "True;16570073256;17362271377",
     "FFlagLuauCodegenTypeInfo": "True",
-    "FFlagLuauCompileTempTypeInfo_Rollout": "True;60;2024-05-29T19:21:58",
-    "DFFlagEnhancedPacketDebugging_Rollout": "True;60;2024-05-29T19:26:52",
     "FFlagCreatePhysicsDataAsync": "True",
     "FFlagEnsureRestoreStatsDisplayOnReturnToEditing_Rollout": "True;60;2024-05-29T20:36:12",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+    "FFlagLuauCompileTempTypeInfo": "True",
+    "DFFlagEnhancedPacketDebugging": "True",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -12753,8 +12753,8 @@
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagFixSceneMangerEndFrameNesting": "True",
-    "FStringFlagRepoGitHashFastString": "90de665dc1d4d7c74444a0e03625fbe2466e7711",
-    "DFStringFlagRepoGitHashDynamicString": "90de665dc1d4d7c74444a0e03625fbe2466e7711",
-    "FStringFlipTimeStampFastString": "2024-05-29T20:36:50.919Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-29T20:36:50.919Z"
+    "FStringFlagRepoGitHashFastString": "2b0938460ddfc502f9ccfdda41bd21bbe6d780ca",
+    "DFStringFlagRepoGitHashDynamicString": "2b0938460ddfc502f9ccfdda41bd21bbe6d780ca",
+    "FStringFlipTimeStampFastString": "2024-05-29T21:16:48.702Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-29T21:16:48.702Z"
 }
