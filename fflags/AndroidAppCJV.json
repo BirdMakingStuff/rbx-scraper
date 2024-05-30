@@ -12595,7 +12595,6 @@
     "DFIntTeleportClientAssetPreloadingHundredthsPercentage_PlaceFilter": "10000;17577184526;17577262450",
     "FStringGraphicsVulkanVaryingBufferLimitMiB": "0x13B5:.+:.+=160;0x5143:.+:.+=160",
     "FFlagLanguageServiceReportICEOnShadowDataModelThread": "True",
-    "FFlagStudioNoLegacyLockConstructingPlayersDataManager2": "True",
     "FFlagInsertConstraintComponentization": "True",
     "FFlagInsertObjectComponentization": "False",
     "FFlagDragDetectorAllowOneTouch": "True",
@@ -12606,6 +12605,8 @@
     "DFFlagCanClientReplicateProp": "False",
     "DFFlagCanClientReplicateProp_PlaceFilter": "True;16570073256;17362271377",
     "FFlagVideoUseFeatureControl_Rollout": "True;60;2024-05-30T19:30:02",
+    "FFlagRefactorInstanceYieldingFunctionality_Rollout": "True;60;2024-05-30T20:06:58",
+    "FFlagStudioNoLegacyLockConstructingPlayersDataManager2_Rollout": "False;60;2024-05-30T20:09:12",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13143,8 +13144,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "83445082052009a2d98ab8a3cfc140d23fc3dabd",
-    "DFStringFlagRepoGitHashDynamicString": "83445082052009a2d98ab8a3cfc140d23fc3dabd",
-    "FStringFlipTimeStampFastString": "2024-05-30T19:36:08.223Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-30T19:36:08.223Z"
+    "FStringFlagRepoGitHashFastString": "e26f82fdd6b6be7e69115343e103f96a5ef77ffb",
+    "DFStringFlagRepoGitHashDynamicString": "e26f82fdd6b6be7e69115343e103f96a5ef77ffb",
+    "FStringFlipTimeStampFastString": "2024-05-30T20:14:42.022Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-30T20:14:42.022Z"
 }
