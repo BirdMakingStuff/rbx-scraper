@@ -6,5 +6,6 @@
     "enableGroupCreation": "true",
     "enableDeveloperSubscriptionRevShareDemo": "true",
     "enableDeveloperSubscriptionOffSale": "true",
-    "enableUENSocialMentions": "true"
+    "enableUENSocialMentions": "true",
+    "enableBundlePaginationOffset": "false"
 }
