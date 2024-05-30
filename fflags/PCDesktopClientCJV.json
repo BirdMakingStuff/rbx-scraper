@@ -12605,6 +12605,7 @@
     "FFlagEnableDeactivatedUserReactivation": "True",
     "DFFlagCanClientReplicateProp": "False",
     "DFFlagCanClientReplicateProp_PlaceFilter": "True;16570073256;17362271377",
+    "FFlagVideoUseFeatureControl_Rollout": "True;60;2024-05-30T19:30:02",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13003,8 +13004,8 @@
     "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True",
     "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "7ce76e56f5c6e0c00a2a3a156826399c327c89ba",
-    "DFStringFlagRepoGitHashDynamicString": "7ce76e56f5c6e0c00a2a3a156826399c327c89ba",
-    "FStringFlipTimeStampFastString": "2024-05-30T19:13:04.278Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-30T19:13:04.278Z"
+    "FStringFlagRepoGitHashFastString": "83445082052009a2d98ab8a3cfc140d23fc3dabd",
+    "DFStringFlagRepoGitHashDynamicString": "83445082052009a2d98ab8a3cfc140d23fc3dabd",
+    "FStringFlipTimeStampFastString": "2024-05-30T19:36:08.223Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-30T19:36:08.223Z"
 }
