@@ -13213,6 +13213,8 @@
     "FFlagAIDiffMessageJSONVariantTypeMatchesPropertyType": "True",
     "FFlagLuaAppBacktraceReportDiscovery": "True",
     "FFlagEnablePath2DSelectedControlPointPropertyEditor": "True",
+    "FFlagLuauCodegenLoadTypeUpvalCheck_Rollout": "True;20;2024-05-30T18:43:37",
+    "FFlagEnableConnectivityDiagnosticTelemetry_Rollout": "True;60;2024-05-30T19:12:28",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13257,6 +13259,7 @@
     "FFlagBootcampCLI107928": "False",
     "FFlagVoxelGridFixRegionChanged": "True",
     "FFlagAdIdentificationFixes": "True",
+    "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-30T19:04:18",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -13266,8 +13269,8 @@
     "FFlagDeferFmodDriverShutdown2": "True",
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
-    "FStringFlagRepoGitHashFastString": "bef25cbb8d9289333fa3f6b96772c81008579104",
-    "DFStringFlagRepoGitHashDynamicString": "bef25cbb8d9289333fa3f6b96772c81008579104",
-    "FStringFlipTimeStampFastString": "2024-05-30T18:22:55.755Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-30T18:22:55.755Z"
+    "FStringFlagRepoGitHashFastString": "7ce76e56f5c6e0c00a2a3a156826399c327c89ba",
+    "DFStringFlagRepoGitHashDynamicString": "7ce76e56f5c6e0c00a2a3a156826399c327c89ba",
+    "FStringFlipTimeStampFastString": "2024-05-30T19:13:04.278Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-30T19:13:04.278Z"
 }
