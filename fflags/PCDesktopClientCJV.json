@@ -12603,7 +12603,6 @@
     "FFlagEnableDeactivatedUserReactivation": "True",
     "DFFlagCanClientReplicateProp": "False",
     "DFFlagCanClientReplicateProp_PlaceFilter": "True;16570073256;17362271377",
-    "FFlagVideoUseFeatureControl_Rollout": "True;60;2024-05-30T19:30:02",
     "FFlagRefactorInstanceYieldingFunctionality_Rollout": "True;60;2024-05-30T20:06:58",
     "FFlagStudioNoLegacyLockConstructingPlayersDataManager2_Rollout": "False;60;2024-05-30T20:09:12",
     "FFlagSelfViewAssertFix_Rollout": "True;60;2024-05-30T20:20:46",
@@ -12615,6 +12614,8 @@
     "DFIntSimCSG3DCDRecomputeTotalWaitMiliSec_Rollout": "10000;10;2024-05-30T21:07:49",
     "FFlagSimCSG3DCDEnableVoxelCD_Rollout": "True;10;2024-05-30T21:07:49",
     "FIntSimCSG3DCDRecomputeStrategy_Rollout": "2;10;2024-05-30T21:07:49",
+    "FFlagVideoUseFeatureControl": "True",
+    "FFlagDragDetectorRestartDragOnlyWhenNeeded_Rollout": "True;60;2024-05-30T21:24:39",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13019,9 +13020,10 @@
     "DFIntSimSolverFixCircularRead": "100",
     "DFIntTaskSchedulerJobInGameThreads": "1",
     "DFIntTaskSchedulerJobInitThreads": "2",
+    "FFlagAXWidgetsByContext_Rollout": "True;60;2024-05-30T21:23:35",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "6ac11b6f1893bbfd0f5375fe0dff760ff29fb72f",
-    "DFStringFlagRepoGitHashDynamicString": "6ac11b6f1893bbfd0f5375fe0dff760ff29fb72f",
-    "FStringFlipTimeStampFastString": "2024-05-30T21:17:59.287Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-30T21:17:59.287Z"
+    "FStringFlagRepoGitHashFastString": "b92350c725ed9cd53dcdf6cd9c539233e7872e75",
+    "DFStringFlagRepoGitHashDynamicString": "b92350c725ed9cd53dcdf6cd9c539233e7872e75",
+    "FStringFlipTimeStampFastString": "2024-05-30T21:38:53.389Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-30T21:38:53.389Z"
 }
