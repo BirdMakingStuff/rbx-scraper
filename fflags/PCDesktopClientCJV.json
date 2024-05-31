@@ -12623,6 +12623,7 @@
     "DFFlagSimUpdateAssemblyHistoryOnEarlyOut_Rollout": "True;60;2024-05-31T18:25:54",
     "FFlagMoreStrictLimitOnRelayout": "True",
     "FFlagUIBloxEnableNewMenuLayout_Rollout": "True;20;2024-05-31T18:35:10",
+    "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;30;2024-05-31T18:50:20",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12679,7 +12680,6 @@
     "FFlagPublishServiceSupportAdditionalParameters": "True",
     "DFFlagCLIAVATAR2997": "True",
     "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
-    "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagFixSceneMangerEndFrameNesting": "True",
     "FIntFaceAnimatorV2CUseRuntimeWorker3HundredthPercent": "10000",
@@ -13030,8 +13030,8 @@
     "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
     "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneWindows",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "4712d7033e682bdc8a5b98259419bc33c11972d8",
-    "DFStringFlagRepoGitHashDynamicString": "4712d7033e682bdc8a5b98259419bc33c11972d8",
-    "FStringFlipTimeStampFastString": "2024-05-31T18:39:02.139Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-31T18:39:02.139Z"
+    "FStringFlagRepoGitHashFastString": "8241cf0ccfe6af7a4d9cbb17a0c1362a11086d5f",
+    "DFStringFlagRepoGitHashDynamicString": "8241cf0ccfe6af7a4d9cbb17a0c1362a11086d5f",
+    "FStringFlipTimeStampFastString": "2024-05-31T18:53:55.470Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-31T18:53:55.470Z"
 }
