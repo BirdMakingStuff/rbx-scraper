@@ -12393,7 +12393,6 @@
     "DFFlagEnableUnbanAsync_PlaceFilter": "True;14277673090",
     "DFFlagCreatorBanUI_PlaceFilter": "True;14277673090",
     "FFlagUIEditorFixSelectionZIndexOrdering": "True",
-    "FFlagMoreStrictLimitOnRelayout_PlaceFilter": "True;920587237;6299805723;4924922222;5289509545;2753915549",
     "FFlagEnableHarmonyOnFrameRateManagerShadow2": "True",
     "FFlagAppChatChannelsAPIForAllRC1": "True",
     "DFFlagStudioLanguagesBatchHotrodAccessorMigration": "True",
@@ -12619,6 +12618,7 @@
     "FFlagDragDetectorRestartDragOnlyWhenNeeded": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagStudioPluginAddGetComponent": "True",
+    "FFlagMoreStrictLimitOnRelayout_Rollout": "True;30;2024-05-31T17:28:35",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -12775,9 +12775,10 @@
     "FFlagProcessPSPlusItems": "True",
     "FFlagItemsReceivedAlert": "True",
     "FFlagEnableLoginByUsernameSSOErrorsTelemetry_Rollout": "True;60;2024-05-31T16:22:45",
-    "DFIntUIScrollingTime_ReportHundredthsPercent2_Rollout": "100;10;2024-05-31T16:41:22",
-    "FStringFlagRepoGitHashFastString": "56f09fa60451b5728b59e2082f9c327ca94ca14c",
-    "DFStringFlagRepoGitHashDynamicString": "56f09fa60451b5728b59e2082f9c327ca94ca14c",
-    "FStringFlipTimeStampFastString": "2024-05-31T16:44:04.128Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-31T16:44:04.128Z"
+    "FFlagIBFixLegacyItemStatus_Rollout": "True;10;2024-05-31T17:19:55",
+    "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
+    "FStringFlagRepoGitHashFastString": "2249c5254d08d89c8899f26552812bf5215f1fe4",
+    "DFStringFlagRepoGitHashDynamicString": "2249c5254d08d89c8899f26552812bf5215f1fe4",
+    "FStringFlipTimeStampFastString": "2024-05-31T17:29:02.252Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-31T17:29:02.252Z"
 }
