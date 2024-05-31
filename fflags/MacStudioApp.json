@@ -13266,6 +13266,8 @@
     "FFlagCAPAddInternalTraceContextMenuOption": "True",
     "FFlagCrashpadAddLocations": "True",
     "FFlagAimThereIsNoGameUpload": "True",
+    "FFlagWeakenDestroyedModule_Rollout": "True;60;2024-05-31T16:17:50",
+    "DFIntWeakExpiredRequireReportHundredthsPercent": "10000",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13310,7 +13312,7 @@
     "FFlagBootcampCLI107928": "False",
     "FFlagVoxelGridFixRegionChanged": "True",
     "FFlagAdIdentificationFixes": "True",
-    "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
+    "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-31T16:05:44",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -13321,8 +13323,8 @@
     "DFFlagEnableGamepassPurchaseIxpRollout": "True",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
     "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
-    "FStringFlagRepoGitHashFastString": "961b02b5b170b282f0bec2fc3f159962d0673aaa",
-    "DFStringFlagRepoGitHashDynamicString": "961b02b5b170b282f0bec2fc3f159962d0673aaa",
-    "FStringFlipTimeStampFastString": "2024-05-31T02:21:30.980Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-31T02:21:30.980Z"
+    "FStringFlagRepoGitHashFastString": "c71b8311932f4da7026bd52e72596f34e6536b5c",
+    "DFStringFlagRepoGitHashDynamicString": "c71b8311932f4da7026bd52e72596f34e6536b5c",
+    "FStringFlipTimeStampFastString": "2024-05-31T16:23:56.672Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-31T16:23:56.672Z"
 }

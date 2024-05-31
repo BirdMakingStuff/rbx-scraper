@@ -12690,10 +12690,10 @@
     "FFlagLuaAppBacktraceReportDiscovery": "True",
     "DFFlagEnableSetClientDeviceRam": "True",
     "FFlagLuaAppRefactorOpenGameDetail": "True",
-    "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
     "FFlagLuaAppShowOtaPackagesLoaded": "True",
     "FFlagKeepZeroInfluenceBones": "True",
     "FFlagAimThereIsNoGameUpload": "True",
+    "DFFlagSimIslandTimestepMultiplierAssignmentFix_Rollout": "True;60;2024-05-31T16:05:44",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13020,12 +13020,11 @@
     "DFFlagEnableFirstFrameVideoImpression": "True",
     "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True",
     "FFlagVideoCaptureServiceLoadDevicesAsync": "True",
-    "FFlagVoxelGridNew4": "True",
     "FFlagAXWidgetsByContext": "False",
     "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
     "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "961b02b5b170b282f0bec2fc3f159962d0673aaa",
-    "DFStringFlagRepoGitHashDynamicString": "961b02b5b170b282f0bec2fc3f159962d0673aaa",
-    "FStringFlipTimeStampFastString": "2024-05-31T02:21:30.980Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-31T02:21:30.980Z"
+    "FStringFlagRepoGitHashFastString": "c71b8311932f4da7026bd52e72596f34e6536b5c",
+    "DFStringFlagRepoGitHashDynamicString": "c71b8311932f4da7026bd52e72596f34e6536b5c",
+    "FStringFlipTimeStampFastString": "2024-05-31T16:23:56.672Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-31T16:23:56.672Z"
 }
