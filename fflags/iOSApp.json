@@ -12617,12 +12617,11 @@
     "FFlagDragDetectorRestartDragOnlyWhenNeeded": "True",
     "FFlagLuaAppChallengeNativeWrapperEnabled": "True",
     "FFlagStudioPluginAddGetComponent": "True",
-    "FFlagUseConstantBufferViewsMetal2_Rollout": "True;60;2024-05-31T18:22:07",
-    "DFFlagSimUpdateAssemblyHistoryOnEarlyOut_Rollout": "True;60;2024-05-31T18:25:54",
-    "FFlagMoreStrictLimitOnRelayout": "True",
-    "FFlagStopFallingBackToBrickIdsWhenThumbnailing_Rollout": "True;30;2024-05-31T18:50:20",
     "FFlagUIBloxEnableNewMenuLayout": "True",
     "FFlagStudioIndexPluginComponents": "True",
+    "FFlagUseConstantBufferViewsMetal2": "True",
+    "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
+    "DFFlagSimUpdateAssemblyHistoryOnEarlyOut": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13104,8 +13103,8 @@
     "FFlagUsernameDisplayNameRecommendationPostSwitch": "True",
     "FFlagIBFixLegacyItemStatus": "True",
     "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneiOS",
-    "FStringFlagRepoGitHashFastString": "85a5294d03d0912cc11f9b46e82d12beab674f39",
-    "DFStringFlagRepoGitHashDynamicString": "85a5294d03d0912cc11f9b46e82d12beab674f39",
-    "FStringFlipTimeStampFastString": "2024-05-31T19:31:38.533Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-31T19:31:38.533Z"
+    "FStringFlagRepoGitHashFastString": "3d19ca67208d039bdd808f7ad679a414898e9164",
+    "DFStringFlagRepoGitHashDynamicString": "3d19ca67208d039bdd808f7ad679a414898e9164",
+    "FStringFlipTimeStampFastString": "2024-05-31T20:17:37.464Z",
+    "DFStringFlipTimeStampDynamicString": "2024-05-31T20:17:37.464Z"
 }
