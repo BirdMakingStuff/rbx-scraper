@@ -110,6 +110,8 @@
     "FFlagReuseMicroprofilerCounterBuffer": "True",
     "FFlagColorPickerSliderEpsilon2": "True",
     "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-03T20:17:46",
+    "FFlagEnableBulkPurchaseApp3": "True",
+    "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -118,8 +120,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "2d1656d16574600e50d27e347339562af30cb7b5",
-    "DFStringFlagRepoGitHashDynamicString": "2d1656d16574600e50d27e347339562af30cb7b5",
-    "FStringFlipTimeStampFastString": "2024-06-03T20:33:12.822Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-03T20:33:12.822Z"
+    "FStringFlagRepoGitHashFastString": "0c433dfc1e7b23c8c0a9eac9eb79cfdecf94f210",
+    "DFStringFlagRepoGitHashDynamicString": "0c433dfc1e7b23c8c0a9eac9eb79cfdecf94f210",
+    "FStringFlipTimeStampFastString": "2024-06-03T21:18:55.754Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T21:18:55.754Z"
 }
