@@ -107,6 +107,7 @@
     "FFlagKeepZeroInfluenceBones": "True",
     "FFlagAimThereIsNoGameUpload": "True",
     "FFlagEnableAXClientLatencyLoggingByPlatform_Rollout": "True;60;2024-06-03T17:26:37",
+    "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -128,8 +129,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "a24a6ecfa88ac6913f7fe2694d163eef43a8e1eb",
-    "DFStringFlagRepoGitHashDynamicString": "a24a6ecfa88ac6913f7fe2694d163eef43a8e1eb",
-    "FStringFlipTimeStampFastString": "2024-06-03T17:37:17.852Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-03T17:37:17.852Z"
+    "FStringFlagRepoGitHashFastString": "770e801f67f746470cfbd2547a3fa59b26c6f9ff",
+    "DFStringFlagRepoGitHashDynamicString": "770e801f67f746470cfbd2547a3fa59b26c6f9ff",
+    "FStringFlipTimeStampFastString": "2024-06-03T18:27:09.185Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T18:27:09.185Z"
 }
