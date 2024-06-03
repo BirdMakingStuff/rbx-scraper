@@ -12623,6 +12623,9 @@
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "DFFlagSimUpdateAssemblyHistoryOnEarlyOut": "True",
     "FFlagMSPhase02Patch_Rollout": "True;60;2024-06-03T16:07:10",
+    "FFlagLuaAppRedoOtaValidation": "True",
+    "FFlagLiveScriptingOperationPeriodTelemetry_Rollout": "True;60;2024-06-03T16:35:32",
+    "FFlagScriptRegisterationChecking2_Rollout": "True;60;2024-06-03T16:36:20",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -12769,7 +12772,6 @@
     "FFlagUseRelativeToRootCFrameForAccessories": "True",
     "DFFlagHttpFixOsErrno": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
-    "FFlagLuaAppRedoOtaValidation": "True",
     "FFlagPublishServiceSupportAdditionalParameters": "True",
     "FFlagLuaAppOverrideExperienceImage": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
@@ -12780,8 +12782,8 @@
     "FFlagEnableLoginByUsernameSSOErrorsTelemetry": "True",
     "FFlagIBFixLegacyItemStatus": "True",
     "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
-    "FStringFlagRepoGitHashFastString": "f25f0f5ef39ab8f133ee5ea35d126c7731717872",
-    "DFStringFlagRepoGitHashDynamicString": "f25f0f5ef39ab8f133ee5ea35d126c7731717872",
-    "FStringFlipTimeStampFastString": "2024-06-03T16:21:50.873Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-03T16:21:50.873Z"
+    "FStringFlagRepoGitHashFastString": "2222b206371e1d98a54afe7f98e61d0e6a628d32",
+    "DFStringFlagRepoGitHashDynamicString": "2222b206371e1d98a54afe7f98e61d0e6a628d32",
+    "FStringFlipTimeStampFastString": "2024-06-03T16:40:59.183Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T16:40:59.183Z"
 }
