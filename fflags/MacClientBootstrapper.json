@@ -109,10 +109,9 @@
     "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
     "FFlagReuseMicroprofilerCounterBuffer": "True",
     "FFlagColorPickerSliderEpsilon2": "True",
-    "FFlagToolboxFixUGCBundleValidationCryoThingy1_Rollout": "True;60;2024-06-03T20:17:46",
-    "FFlagEnableBulkPurchaseApp3": "True",
     "FFlagAXCatalogRefreshEnabled_Rollout": "True;60;2024-06-03T21:16:09",
-    "DFFlagEnableBulkPurchase3_PlaceFilter": "True;5825389064",
+    "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523;12929529839;11901437921;7240922896;7240924645;14044547200;11206444213;14056754882;14133374560;13861308375;137877687;4074515213;7061415250;5960997154;5129305072;4984400432;7406897155;5814304937;10810086665;10810113603;11695679660;8554014495;15211366008;16820844139",
+    "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -134,8 +133,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "d55530ed2e7e408212be703f4b25b9d8fa58d6d5",
-    "DFStringFlagRepoGitHashDynamicString": "d55530ed2e7e408212be703f4b25b9d8fa58d6d5",
-    "FStringFlipTimeStampFastString": "2024-06-03T21:39:14.857Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-03T21:39:14.857Z"
+    "FStringFlagRepoGitHashFastString": "684344e3eeeb57aa231ee23ce0c16cbb36dea0b0",
+    "DFStringFlagRepoGitHashDynamicString": "684344e3eeeb57aa231ee23ce0c16cbb36dea0b0",
+    "FStringFlipTimeStampFastString": "2024-06-03T22:18:56.304Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T22:18:56.304Z"
 }
