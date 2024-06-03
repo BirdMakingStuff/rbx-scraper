@@ -12621,7 +12621,6 @@
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "DFFlagSimUpdateAssemblyHistoryOnEarlyOut": "True",
     "FFlagLuaAppRedoOtaValidation": "True",
-    "DFFlagPerformanceControlIXPMemoryCurveParameterOverride_Rollout": "True;60;2024-06-03T16:57:54",
     "DFFlagFixVideoAdAveragePercentSeenTracking_Rollout": "True;60;2024-06-03T17:11:14",
     "FFlagDeprecateSessionTrackingAppField_Rollout": "True;60;2024-06-03T17:13:13",
     "FIntPath2DMaxControlPointLimit_Rollout": "51;60;2024-06-03T17:19:55",
@@ -12642,6 +12641,8 @@
     "FFlagLiveScriptingOperationPeriodTelemetry": "True",
     "FFlagScriptRegisterationChecking2": "True",
     "FFlagVideoUseSharedStringIStreamIo": "True",
+    "DFFlagPerformanceControlIXPMemoryCurveParameterOverride": "True",
+    "DFFlagLevitationPreventZeroSlope_Rollout": "True;60;2024-06-03T18:32:20",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -12800,8 +12801,8 @@
     "DFFlagCreatorBanStatusData_Rollout": "True;60;2024-06-03T17:25:06",
     "FFlagLuaAppBacktraceReportDiscovery": "True",
     "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
-    "FStringFlagRepoGitHashFastString": "18acd82a4622a08203b836b82d45b9191625f8d0",
-    "DFStringFlagRepoGitHashDynamicString": "18acd82a4622a08203b836b82d45b9191625f8d0",
-    "FStringFlipTimeStampFastString": "2024-06-03T18:27:58.350Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-03T18:27:58.350Z"
+    "FStringFlagRepoGitHashFastString": "5d9205b25f76c835e272fb92af52ca12022f4d04",
+    "DFStringFlagRepoGitHashDynamicString": "5d9205b25f76c835e272fb92af52ca12022f4d04",
+    "FStringFlipTimeStampFastString": "2024-06-03T18:37:12.052Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T18:37:12.052Z"
 }
