@@ -12667,6 +12667,7 @@
     "DFFlagStreamJobShouldNotCallIsSetRequired_Rollout": "True;60;2024-06-03T22:06:35",
     "FFlagPasskeySignupLogErrorBody_Rollout": "True;30;2024-06-03T22:13:37",
     "FFlagMoveSessionResultEvaluation": "True",
+    "DFFlagOptimizeNonLinearZoom_Rollout": "True;60;2024-06-03T22:27:54",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12979,8 +12980,8 @@
     "FFlagKeepZeroInfluenceBones": "True",
     "FFlagAXWidgetsByContext": "False",
     "FFlagAimThereIsNoGameUpload": "True",
-    "FStringFlagRepoGitHashFastString": "684344e3eeeb57aa231ee23ce0c16cbb36dea0b0",
-    "DFStringFlagRepoGitHashDynamicString": "684344e3eeeb57aa231ee23ce0c16cbb36dea0b0",
-    "FStringFlipTimeStampFastString": "2024-06-03T22:18:56.304Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-03T22:18:56.304Z"
+    "FStringFlagRepoGitHashFastString": "023839ef69e11e8311855d390a6bde3074f3983c",
+    "DFStringFlagRepoGitHashDynamicString": "023839ef69e11e8311855d390a6bde3074f3983c",
+    "FStringFlipTimeStampFastString": "2024-06-03T22:28:29.892Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T22:28:29.892Z"
 }
