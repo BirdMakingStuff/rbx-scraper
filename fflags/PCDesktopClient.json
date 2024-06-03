@@ -12622,6 +12622,7 @@
     "FFlagUseConstantBufferViewsMetal2": "True",
     "FFlagStopFallingBackToBrickIdsWhenThumbnailing": "True",
     "DFFlagSimUpdateAssemblyHistoryOnEarlyOut": "True",
+    "FFlagMSPhase02Patch_Rollout": "True;60;2024-06-03T16:07:10",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13027,8 +13028,8 @@
     "FFlagSortCurrentlyWearingItemsIXPEnabled": "True",
     "FFlagSortCurrentlyWearingItemsIXPSetupEnabled": "True",
     "FStringUserSearchLoadingTimeDoneStats": "UserSearchLoadingTimeDoneWindows",
-    "FStringFlagRepoGitHashFastString": "37f653661c4d0584fca57f301b96280e6d9286e8",
-    "DFStringFlagRepoGitHashDynamicString": "37f653661c4d0584fca57f301b96280e6d9286e8",
-    "FStringFlipTimeStampFastString": "2024-05-31T23:09:53.247Z",
-    "DFStringFlipTimeStampDynamicString": "2024-05-31T23:09:53.247Z"
+    "FStringFlagRepoGitHashFastString": "f25f0f5ef39ab8f133ee5ea35d126c7731717872",
+    "DFStringFlagRepoGitHashDynamicString": "f25f0f5ef39ab8f133ee5ea35d126c7731717872",
+    "FStringFlipTimeStampFastString": "2024-06-03T16:21:50.873Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T16:21:50.873Z"
 }
