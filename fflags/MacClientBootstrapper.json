@@ -106,9 +106,9 @@
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagKeepZeroInfluenceBones": "True",
     "FFlagAimThereIsNoGameUpload": "True",
-    "FFlagEnableAXClientLatencyLoggingByPlatform_Rollout": "True;60;2024-06-03T17:26:37",
     "FFlagReuseMicroprofilerCounterBuffer_Rollout": "True;60;2024-06-03T17:55:15",
     "FFlagColorPickerSliderEpsilon2_Rollout": "True;30;2024-06-03T18:27:31",
+    "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -130,8 +130,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "5d9205b25f76c835e272fb92af52ca12022f4d04",
-    "DFStringFlagRepoGitHashDynamicString": "5d9205b25f76c835e272fb92af52ca12022f4d04",
-    "FStringFlipTimeStampFastString": "2024-06-03T18:37:12.052Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-03T18:37:12.052Z"
+    "FStringFlagRepoGitHashFastString": "ca9294e9a6fb4b23071d85241eb48d216701e475",
+    "DFStringFlagRepoGitHashDynamicString": "ca9294e9a6fb4b23071d85241eb48d216701e475",
+    "FStringFlipTimeStampFastString": "2024-06-03T19:11:38.760Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-03T19:11:38.760Z"
 }
