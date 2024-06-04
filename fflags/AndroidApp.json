@@ -12674,6 +12674,7 @@
     "FFlagCAPMarkdownRendererComponent_Rollout": "True;60;2024-06-04T16:12:48",
     "DFFlagHttpStatsErrorCopyPoints_Rollout": "True;60;2024-06-04T16:14:24",
     "FIntShareCaptureUploadToApiRolloutLimit_Rollout": "200;30;2024-06-04T16:28:04",
+    "FFlagInternalDebugWidgetSleepButton_Rollout": "True;60;2024-06-04T16:57:29",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13211,8 +13212,9 @@
     "FFlagAXCatalogRefreshEnabled": "True",
     "FFlagConditionallyFireAuthenticatedCredentials": "True",
     "FFlagCredProtocolRegisterPasswordOnSignup": "True",
-    "FStringFlagRepoGitHashFastString": "eddf85179bcfab9d7ba984242790191b0ccbcc86",
-    "DFStringFlagRepoGitHashDynamicString": "eddf85179bcfab9d7ba984242790191b0ccbcc86",
-    "FStringFlipTimeStampFastString": "2024-06-04T16:40:56.544Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-04T16:40:56.544Z"
+    "FFlagRenderAdreno730Workaround_Rollout": "True;60;2024-06-04T16:54:13",
+    "FStringFlagRepoGitHashFastString": "1c54f83643284a08d0e847394f5fbd8dce1b8f3b",
+    "DFStringFlagRepoGitHashDynamicString": "1c54f83643284a08d0e847394f5fbd8dce1b8f3b",
+    "FStringFlipTimeStampFastString": "2024-06-04T17:04:33.121Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-04T17:04:33.121Z"
 }
