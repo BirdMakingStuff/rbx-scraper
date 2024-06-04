@@ -12630,7 +12630,6 @@
     "FIntPath2DMaxControlPointLimit": "51",
     "FIntOtaLoaderInfoEventHundredthsPercent": "1",
     "DFFlagEnableGetBanHistoryAsync": "True",
-    "FFlagCleanUpMergedShadows": "True",
     "FFlagUseConstantBufferViewsVulkan2": "True",
     "FFlagAXEnableKeywordAnalyticsForSearch": "True",
     "FFlagAXEnableOverCountingFixCounters": "True",
@@ -12674,6 +12673,7 @@
     "FFlagUsernameDisplayNameRecommendationPostSwitch_Rollout": "True;60;2024-06-04T15:57:34",
     "FFlagCAPMarkdownRendererComponent_Rollout": "True;60;2024-06-04T16:12:48",
     "DFFlagHttpStatsErrorCopyPoints_Rollout": "True;60;2024-06-04T16:14:24",
+    "FIntShareCaptureUploadToApiRolloutLimit_Rollout": "200;30;2024-06-04T16:28:04",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13386,8 +13386,8 @@
     "FLogCloseDataModel": "6",
     "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
     "FFlagVoxelGridNew4_PlaceFilter": "False;5233782396",
-    "FStringFlagRepoGitHashFastString": "f14868cbb735400274f8fd4632a48df5a2c05b26",
-    "DFStringFlagRepoGitHashDynamicString": "f14868cbb735400274f8fd4632a48df5a2c05b26",
-    "FStringFlipTimeStampFastString": "2024-06-04T16:21:37.324Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-04T16:21:37.324Z"
+    "FStringFlagRepoGitHashFastString": "eddf85179bcfab9d7ba984242790191b0ccbcc86",
+    "DFStringFlagRepoGitHashDynamicString": "eddf85179bcfab9d7ba984242790191b0ccbcc86",
+    "FStringFlipTimeStampFastString": "2024-06-04T16:40:56.544Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-04T16:40:56.544Z"
 }
