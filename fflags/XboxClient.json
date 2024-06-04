@@ -12684,8 +12684,6 @@
     "DFFlagReportLegacyFRMStatsToTelemetryV2": "True",
     "FFlagReportCorrectAverageRenderThreadTimeInFRMStats": "True",
     "DFFlagFixMRCDiscrepancies": "True",
-    "FFlagEnableWebrtcFieldTrials_Rollout": "True;60;2024-06-04T19:48:23",
-    "FFlagLuaAppGameTileProps_Rollout": "True;60;2024-06-04T19:49:02",
     "FFlagEnableExperienceDetailsFuncComponent": "True",
     "FStringNewChatTabExperimentLayerValue": "ShowNewChatTab",
     "FStringNewChatTabExperimentationLayer": "PlayerApp.BottomBarNav",
@@ -12700,6 +12698,10 @@
     "FFlagKeepSubmenuOpenOnPin_Rollout": "True;60;2024-06-04T21:11:05",
     "FFlagSkipRenderingEmptyGlyphOrCursor_Rollout": "True;30;2024-06-04T21:11:41",
     "FFlagDisableMostRecentlyUsed_Rollout": "True;60;2024-06-04T21:11:46",
+    "FFlagEnableWebrtcFieldTrials": "True",
+    "FFlagLuaAppGameTileProps": "True",
+    "DFFlagVoiceChatV2DetailedPublishingErrorTelemetry_Rollout": "True;60;2024-06-04T21:31:10",
+    "DFFlagVoiceChatReportPublishingFailureOnLeave_Rollout": "True;60;2024-06-04T21:31:16",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13015,8 +13017,8 @@
     "FFlagLuaAppSocialLibUseLazyRequire_Rollout": "True;60;2024-06-04T20:22:13",
     "FFlagAXWidgetItemsPerRowLowerBound": "True",
     "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent_Rollout": "500;60;2024-06-04T20:58:03",
-    "FStringFlagRepoGitHashFastString": "e29dbbd6685cdc58cfffe8aee8c8a483372af48b",
-    "DFStringFlagRepoGitHashDynamicString": "e29dbbd6685cdc58cfffe8aee8c8a483372af48b",
-    "FStringFlipTimeStampFastString": "2024-06-04T21:12:48.406Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-04T21:12:48.406Z"
+    "FStringFlagRepoGitHashFastString": "b6b74080abf729c8f678f08db5e55849261b4126",
+    "DFStringFlagRepoGitHashDynamicString": "b6b74080abf729c8f678f08db5e55849261b4126",
+    "FStringFlipTimeStampFastString": "2024-06-04T21:36:49.604Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-04T21:36:49.604Z"
 }
