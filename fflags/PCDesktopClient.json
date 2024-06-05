@@ -12712,6 +12712,10 @@
     "FFlagDualWriteSubFlowDurationToV2Stats": "True",
     "FFlagOmniSearchAutoTabIXP": "True",
     "FFlagLuaAppBacktraceReportDiscovery": "True",
+    "FFlagStudioFixLowMemoryWarningDialogButtonRoles_Rollout": "True;60;2024-06-05T19:39:05",
+    "AllowVideoPreRoll": "True",
+    "FFlagVideoResolutionWorkaround_Rollout": "True;30;2024-06-05T19:48:10",
+    "FFlagPath2DFixCrashWithInvalidParent_Rollout": "True;60;2024-06-05T19:54:29",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12791,7 +12795,6 @@
     "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
     "FFlagVoiceChatFixRejoin": "True",
     "FFlagAXWidgetItemsPerRowLowerBound": "True",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13125,8 +13128,10 @@
     "FFlagLuaAppSocialLibUseLazyRequire": "True",
     "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
     "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-05T19:30:58",
-    "FStringFlagRepoGitHashFastString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
-    "DFStringFlagRepoGitHashDynamicString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
-    "FStringFlipTimeStampFastString": "2024-06-05T19:35:50.239Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-05T19:35:50.239Z"
+    "FFlagVoxelGridNew4_PlaceFilter": "True;12048809161;8655158217",
+    "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
+    "FStringFlagRepoGitHashFastString": "90d3b19ae99f199d10982704d78cb647906b3c2b",
+    "DFStringFlagRepoGitHashDynamicString": "90d3b19ae99f199d10982704d78cb647906b3c2b",
+    "FStringFlipTimeStampFastString": "2024-06-05T20:08:59.956Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-05T20:08:59.956Z"
 }
