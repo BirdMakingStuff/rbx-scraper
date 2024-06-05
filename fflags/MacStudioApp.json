@@ -12640,7 +12640,6 @@
     "EnableGothamCleanUp": "True",
     "DFFlagTrackDetectedOOMInST2": "True",
     "DFFlagLevitationPreventZeroSlope": "True",
-    "FIntOtaLoaderErrorEventHundredthsPercent": "5000",
     "DFFlagFixImageAdContinuousPercentSeenTracking": "True",
     "DFFlagSimSolverSendPerfTelemetryToElasticSearch2": "True",
     "FFlagDecalsAliasCulling": "True",
@@ -12717,8 +12716,9 @@
     "FFlagPoolSmallFmodAllocs3_Rollout": "True;60;2024-06-05T17:09:21",
     "FFlagSimSimplifyBreakJoints_Rollout": "True;60;2024-06-05T17:10:03",
     "FFlagSimSolverAllocateCacheContiguousWithConstraint_Rollout": "True;30;2024-06-05T17:10:25",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
+    "FFlagFixNestedAttachments_Rollout": "True;60;2024-06-05T17:30:10",
+    "AllowVideoPreRoll": "True",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -13434,8 +13434,8 @@
     "FFlagPathEditorControlPointVisualImprovements2": "True",
     "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
-    "FStringFlagRepoGitHashFastString": "ffd58b5d5bee5aeab372c63b8553f410745a6203",
-    "DFStringFlagRepoGitHashDynamicString": "ffd58b5d5bee5aeab372c63b8553f410745a6203",
-    "FStringFlipTimeStampFastString": "2024-06-05T17:10:59.823Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-05T17:10:59.823Z"
+    "FStringFlagRepoGitHashFastString": "eed4e4f6cbeff40e70cb759bb565b6ef1bcf377b",
+    "DFStringFlagRepoGitHashDynamicString": "eed4e4f6cbeff40e70cb759bb565b6ef1bcf377b",
+    "FStringFlipTimeStampFastString": "2024-06-05T17:37:45.903Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-05T17:37:45.903Z"
 }
