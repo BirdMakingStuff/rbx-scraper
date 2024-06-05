@@ -12718,8 +12718,6 @@
     "FFlagFixSensitivityTextPrecision": "True",
     "FFlagPath2DFixCrashWithInvalidParent": "True",
     "FFlagReduceDirtyFlagSettings": "True",
-    "FFlagEnableContactsMemPool_Rollout": "True;60;2024-06-05T21:37:40",
-    "FFlagEnableConnectivitySupport_Rollout": "True;60;2024-06-05T21:39:01",
     "FFlagResetVRSessionOnVREnabled_Rollout": "True;60;2024-06-05T21:46:54",
     "FFlagSimSimplifyBreakJoints_Rollout": "True;60;2024-06-05T21:48:42",
     "FFlagFastCFrameRenderUpdates_Rollout": "True;60;2024-06-05T22:01:37",
@@ -12732,6 +12730,8 @@
     "DFFlagSimSolverLevitationZeroCollisionLikeAngularImpulsesOnBodyA": "True",
     "EnableNetworkStateMonitoring": "True",
     "FixMaquettesPermissionsSupport": "True",
+    "FFlagEnableConnectivitySupport": "True",
+    "FFlagEnableContactsMemPool": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13047,8 +13047,8 @@
     "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
     "FFlagLuaAppSocialLibUseLazyRequire": "True",
     "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
-    "FStringFlagRepoGitHashFastString": "b1fee6fcf19b52e9e5db8c77910495b7573321e0",
-    "DFStringFlagRepoGitHashDynamicString": "b1fee6fcf19b52e9e5db8c77910495b7573321e0",
-    "FStringFlipTimeStampFastString": "2024-06-05T22:37:28.342Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-05T22:37:28.342Z"
+    "FStringFlagRepoGitHashFastString": "fec819f816ba0278a30e2be0643f57aebd76dcfd",
+    "DFStringFlagRepoGitHashDynamicString": "fec819f816ba0278a30e2be0643f57aebd76dcfd",
+    "FStringFlipTimeStampFastString": "2024-06-05T23:20:07.063Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-05T23:20:07.063Z"
 }
