@@ -12711,7 +12711,6 @@
     "FFlagEnableBundleItemDetailHttpLink": "True",
     "FFlagDualWriteSubFlowDurationToV2Stats": "True",
     "FFlagOmniSearchAutoTabIXP": "True",
-    "FFlagCaptureServiceRequestSignature": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13427,8 +13426,8 @@
     "FFlagPathEditorControlPointVisualImprovements2": "True",
     "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
-    "FStringFlagRepoGitHashFastString": "9413e93de47420c17ec91eeca79c63d4b4cea329",
-    "DFStringFlagRepoGitHashDynamicString": "9413e93de47420c17ec91eeca79c63d4b4cea329",
-    "FStringFlipTimeStampFastString": "2024-06-05T18:31:27.570Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-05T18:31:27.570Z"
+    "FStringFlagRepoGitHashFastString": "95113117f93490136934462d225267109cda20fb",
+    "DFStringFlagRepoGitHashDynamicString": "95113117f93490136934462d225267109cda20fb",
+    "FStringFlipTimeStampFastString": "2024-06-05T18:43:49.533Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-05T18:43:49.533Z"
 }
