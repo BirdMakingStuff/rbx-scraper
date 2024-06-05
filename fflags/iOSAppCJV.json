@@ -12711,6 +12711,7 @@
     "FFlagEnableBundleItemDetailHttpLink": "True",
     "FFlagDualWriteSubFlowDurationToV2Stats": "True",
     "FFlagOmniSearchAutoTabIXP": "True",
+    "FFlagLuaAppBacktraceReportDiscovery": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13179,7 +13180,6 @@
     "FFlagFullProfileViewIXPEnabled": "True",
     "FFlagFullProfileViewIXPSetupEnabled": "True",
     "FFlagRemoveCaptureWatermark": "True",
-    "FFlagLuaAppBacktraceReportDiscovery": "True",
     "FFlagLuaAppRefactorOpenGameDetail": "True",
     "FFlagLuaAppShowOtaPackagesLoaded": "True",
     "FFlagAXWidgetsByContext": "False",
@@ -13261,8 +13261,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "95113117f93490136934462d225267109cda20fb",
-    "DFStringFlagRepoGitHashDynamicString": "95113117f93490136934462d225267109cda20fb",
-    "FStringFlipTimeStampFastString": "2024-06-05T18:43:49.533Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-05T18:43:49.533Z"
+    "FStringFlagRepoGitHashFastString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
+    "DFStringFlagRepoGitHashDynamicString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
+    "FStringFlipTimeStampFastString": "2024-06-05T19:35:50.239Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-05T19:35:50.239Z"
 }

@@ -12711,6 +12711,7 @@
     "FFlagEnableBundleItemDetailHttpLink": "True",
     "FFlagDualWriteSubFlowDurationToV2Stats": "True",
     "FFlagOmniSearchAutoTabIXP": "True",
+    "FFlagLuaAppBacktraceReportDiscovery": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -12862,12 +12863,11 @@
     "DFIntUIScrollingTime_ReportHundredthsPercent2": "100",
     "FFlagIBFixLegacyItemStatus": "True",
     "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
-    "FFlagLuaAppBacktraceReportDiscovery": "True",
     "FFlagColorPickerSliderEpsilon2": "True",
     "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324",
     "FFlagAXCatalogRefreshEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "95113117f93490136934462d225267109cda20fb",
-    "DFStringFlagRepoGitHashDynamicString": "95113117f93490136934462d225267109cda20fb",
-    "FStringFlipTimeStampFastString": "2024-06-05T18:43:49.533Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-05T18:43:49.533Z"
+    "FStringFlagRepoGitHashFastString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
+    "DFStringFlagRepoGitHashDynamicString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
+    "FStringFlipTimeStampFastString": "2024-06-05T19:35:50.239Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-05T19:35:50.239Z"
 }

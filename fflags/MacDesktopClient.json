@@ -12711,6 +12711,7 @@
     "FFlagEnableBundleItemDetailHttpLink": "True",
     "FFlagDualWriteSubFlowDurationToV2Stats": "True",
     "FFlagOmniSearchAutoTabIXP": "True",
+    "FFlagLuaAppBacktraceReportDiscovery": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -12775,7 +12776,6 @@
     "FFlagBootcampCLI107928": "False",
     "FFlagVoxelGridFixRegionChanged": "True",
     "FFlagAdIdentificationFixes": "True",
-    "FFlagLuaAppBacktraceReportDiscovery": "True",
     "FFlagLuaAppRefactorOpenGameDetail": "True",
     "FFlagLuaAppShowOtaPackagesLoaded": "True",
     "FFlagKeepZeroInfluenceBones": "True",
@@ -13129,8 +13129,9 @@
     "FFlagLuaAppLazyRequireSocialLibsDeps": "True",
     "FFlagLuaAppSocialLibUseLazyRequire": "True",
     "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
-    "FStringFlagRepoGitHashFastString": "95113117f93490136934462d225267109cda20fb",
-    "DFStringFlagRepoGitHashDynamicString": "95113117f93490136934462d225267109cda20fb",
-    "FStringFlipTimeStampFastString": "2024-06-05T18:43:49.533Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-05T18:43:49.533Z"
+    "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-05T19:30:58",
+    "FStringFlagRepoGitHashFastString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
+    "DFStringFlagRepoGitHashDynamicString": "467af11fed8ca7a49ee032c5688a887a8e1485a3",
+    "FStringFlipTimeStampFastString": "2024-06-05T19:35:50.239Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-05T19:35:50.239Z"
 }
