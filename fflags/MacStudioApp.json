@@ -13436,11 +13436,10 @@
     "FFlagAdIdentificationFixes": "True",
     "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
     "FFlagIBFixLegacyItemStatus": "True",
-    "FFlagVoiceChatAddDataChannelToSubConnection2": "True",
+    "FFlagVoiceChatAddDataChannelToSubConnection2": "False",
     "FFlagVoiceChatFixRejoin": "True",
     "FFlagMoveCurrentSearchTypeToState_v2": "True",
     "FFlagGraphicsMetalShaderChecks": "True",
-    "FFlagVoiceChatAddDataChannelToSubConnection2_Rollout": "False;60;2024-06-05T23:52:42",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -13452,8 +13451,8 @@
     "FFlagPathEditorControlPointVisualImprovements2": "True",
     "FFlagStudioDeviceEmulatorHttpUserAgentFix": "True",
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
-    "FStringFlagRepoGitHashFastString": "4ad7aea53b4f2ebbedd65f6caf6a4c7fda420291",
-    "DFStringFlagRepoGitHashDynamicString": "4ad7aea53b4f2ebbedd65f6caf6a4c7fda420291",
-    "FStringFlipTimeStampFastString": "2024-06-06T00:25:15.736Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T00:25:15.736Z"
+    "FStringFlagRepoGitHashFastString": "c8d571350f7cb3d124e90ffd0d6b421914e2c097",
+    "DFStringFlagRepoGitHashDynamicString": "c8d571350f7cb3d124e90ffd0d6b421914e2c097",
+    "FStringFlipTimeStampFastString": "2024-06-06T01:30:02.381Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T01:30:02.381Z"
 }
