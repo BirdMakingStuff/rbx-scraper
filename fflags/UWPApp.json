@@ -12739,7 +12739,6 @@
     "FFlagSimCSG3WeakDMPointer": "True",
     "FFlagRenderEnableIGCounters": "True",
     "FFlagItemsReceivedAlert": "True",
-    "DFFlagCLI83296CheckRuppTokenLength_Rollout": "True;60;2024-06-06T21:37:01",
     "FFlagCaptureServiceRequestSignature": "True",
     "DFFlagCLIAVATAR2997_Rollout": "True;60;2024-06-06T22:00:02",
     "FFlagFriendsMenuDummyLoadingFriendsFixV3": "True",
@@ -12747,6 +12746,8 @@
     "FFlagAXStopUsingSystemBarAppPolicy": "True",
     "FFlagSimSolverOptimizeIslandizerManager3": "True",
     "FFlagFacialAnimationStreamingClearAllConnectionsFix_Rollout": "True;60;2024-06-06T22:20:35",
+    "FIntVoiceChatFeedStatusChangeCheckMaxNumFrames_Rollout": "1000;60;2024-06-06T22:51:30",
+    "DFFlagCLI83296CheckRuppTokenLength": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12971,8 +12972,8 @@
     "FFlagLuaAppSocialLibUseLazyRequire": "True",
     "FFlagLuaAppResponsiveHooks": "True",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
-    "FStringFlagRepoGitHashFastString": "81e6ca938cb3992fc15c31930aeeb9fdc7385b8a",
-    "DFStringFlagRepoGitHashDynamicString": "81e6ca938cb3992fc15c31930aeeb9fdc7385b8a",
-    "FStringFlipTimeStampFastString": "2024-06-06T22:21:46.942Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T22:21:46.942Z"
+    "FStringFlagRepoGitHashFastString": "fa210098ea57974d5b52a785b957c4e6f39f108f",
+    "DFStringFlagRepoGitHashDynamicString": "fa210098ea57974d5b52a785b957c4e6f39f108f",
+    "FStringFlipTimeStampFastString": "2024-06-06T23:17:45.387Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T23:17:45.387Z"
 }
