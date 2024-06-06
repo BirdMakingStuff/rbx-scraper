@@ -122,7 +122,7 @@
     "FIntWin32DesktopAppsDeprecationLevel2": "3",
     "FFlagWinBootstrapperUpdateStudioBinaryType": "True",
     "FFlagWinReportInstallerHostOSAndArch": "True",
-    "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-06T18:13:38",
+    "FFlagUIBloxUseFullPageModalZIndex": "True",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -137,8 +137,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "d46742c61d80e38f757005497927aeed3a1d6fce",
-    "DFStringFlagRepoGitHashDynamicString": "d46742c61d80e38f757005497927aeed3a1d6fce",
-    "FStringFlipTimeStampFastString": "2024-06-06T19:33:57.032Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T19:33:57.032Z"
+    "FStringFlagRepoGitHashFastString": "92ce199a28b299db5e9f9a92c8cac6f1a7bb352b",
+    "DFStringFlagRepoGitHashDynamicString": "92ce199a28b299db5e9f9a92c8cac6f1a7bb352b",
+    "FStringFlipTimeStampFastString": "2024-06-06T20:20:55.386Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T20:20:55.386Z"
 }
