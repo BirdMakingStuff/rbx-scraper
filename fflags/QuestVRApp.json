@@ -12746,6 +12746,7 @@
     "FFlagAXEnabledShowLeftNavBarForDesktopAndVR1": "True",
     "FFlagAXStopUsingSystemBarAppPolicy": "True",
     "FFlagSimSolverOptimizeIslandizerManager3": "True",
+    "FFlagFacialAnimationStreamingClearAllConnectionsFix_Rollout": "True;60;2024-06-06T22:20:35",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13328,8 +13329,8 @@
     "FFlagAimThereIsNoGameUpload": "True",
     "FFlagIBFixLegacyItemStatus": "True",
     "FFlagChatTabHideGroupsLinkOnVR": "True",
-    "FStringFlagRepoGitHashFastString": "f7dab5930a63b0646199465153a8daa4d9541fbb",
-    "DFStringFlagRepoGitHashDynamicString": "f7dab5930a63b0646199465153a8daa4d9541fbb",
-    "FStringFlipTimeStampFastString": "2024-06-06T22:18:23.340Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T22:18:23.340Z"
+    "FStringFlagRepoGitHashFastString": "81e6ca938cb3992fc15c31930aeeb9fdc7385b8a",
+    "DFStringFlagRepoGitHashDynamicString": "81e6ca938cb3992fc15c31930aeeb9fdc7385b8a",
+    "FStringFlipTimeStampFastString": "2024-06-06T22:21:46.942Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T22:21:46.942Z"
 }

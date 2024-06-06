@@ -12746,6 +12746,7 @@
     "FFlagAXEnabledShowLeftNavBarForDesktopAndVR1": "True",
     "FFlagAXStopUsingSystemBarAppPolicy": "True",
     "FFlagSimSolverOptimizeIslandizerManager3": "True",
+    "FFlagFacialAnimationStreamingClearAllConnectionsFix_Rollout": "True;60;2024-06-06T22:20:35",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13328,8 +13329,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "true",
-    "FStringFlagRepoGitHashFastString": "f7dab5930a63b0646199465153a8daa4d9541fbb",
-    "DFStringFlagRepoGitHashDynamicString": "f7dab5930a63b0646199465153a8daa4d9541fbb",
-    "FStringFlipTimeStampFastString": "2024-06-06T22:18:23.340Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T22:18:23.340Z"
+    "FStringFlagRepoGitHashFastString": "d1e531095e032e8e1a14787cd295899762b11ebf",
+    "DFStringFlagRepoGitHashDynamicString": "d1e531095e032e8e1a14787cd295899762b11ebf",
+    "FStringFlipTimeStampFastString": "2024-06-06T22:39:22.080Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T22:39:22.080Z"
 }
