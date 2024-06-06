@@ -12734,6 +12734,8 @@
     "FFlagLuauCodegenAnalyzeHostVectorOps": "True",
     "AllowVideoPreRoll": "True",
     "FFlagWindowsClientCrashpadRollout": "True",
+    "FFlagCoreScriptsDynamicDefaultDeviceType_Rollout": "True;60;2024-06-06T18:30:02",
+    "DFFlagSimEnableFastSpanningTreeTeardownReport_Rollout": "True;60;2024-06-06T18:36:15",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -13394,6 +13396,7 @@
     "DFIntReportInfluxFastLogHighPriorityHundredthsPercentage": "10000",
     "FFlagLuauVmSplitDoarith_Rollout": "True;60;2024-06-06T17:51:19",
     "FFlagUIBloxUseFullPageModalZIndex_Rollout": "True;60;2024-06-06T18:13:38",
+    "FFlagAmpersandsInInstanceNames_Rollout": "True;60;2024-06-06T18:39:46",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13446,6 +13449,7 @@
     "DFIntFastClusterUpdateDurationTelemetryCountThreshold": "10000",
     "FFlagFastClusterUpdateDurationTelemetrySendOnLeave": "True",
     "FFlagFastClusterUpdateDurationTelemetry_Rollout": "True;30;2024-06-06T18:20:52",
+    "FIntThrottleParticipantsUpdateMs_Rollout": "500;60;2024-06-06T18:27:38",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -13470,8 +13474,8 @@
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
     "FStringStudioEmergencyMessageV4_Rollout": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjI2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;60;2024-06-06T17:45:08",
-    "FStringFlagRepoGitHashFastString": "e63aa6b946395ab0d3c31d3790db623aff3a4cce",
-    "DFStringFlagRepoGitHashDynamicString": "e63aa6b946395ab0d3c31d3790db623aff3a4cce",
-    "FStringFlipTimeStampFastString": "2024-06-06T18:21:43.955Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T18:21:43.955Z"
+    "FStringFlagRepoGitHashFastString": "9167677b75630864dc2af81834927ec169e4ff0c",
+    "DFStringFlagRepoGitHashDynamicString": "9167677b75630864dc2af81834927ec169e4ff0c",
+    "FStringFlipTimeStampFastString": "2024-06-06T18:40:41.810Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T18:40:41.810Z"
 }
