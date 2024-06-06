@@ -12740,7 +12740,6 @@
     "FFlagRenderEnableIGCounters": "True",
     "FFlagItemsReceivedAlert": "True",
     "FFlagCaptureServiceRequestSignature": "True",
-    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagFriendsMenuDummyLoadingFriendsFixV3": "True",
     "FFlagAXEnabledShowLeftNavBarForDesktopAndVR1": "True",
     "FFlagAXStopUsingSystemBarAppPolicy": "True",
@@ -12748,6 +12747,8 @@
     "FFlagFacialAnimationStreamingClearAllConnectionsFix_Rollout": "True;60;2024-06-06T22:20:35",
     "FIntVoiceChatFeedStatusChangeCheckMaxNumFrames_Rollout": "1000;60;2024-06-06T22:51:30",
     "DFFlagCLI83296CheckRuppTokenLength": "True",
+    "DFFlagCLIAVATAR2997": "True",
+    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -12798,7 +12799,6 @@
     "DFFlagHttpFixOsErrno": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagPublishServiceSupportAdditionalParameters": "True",
-    "DFFlagCLIAVATAR2997": "True",
     "FFlagFaceAnimatorV2CUseRuntimeWorker3": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagFixSceneMangerEndFrameNesting": "True",
@@ -13175,8 +13175,8 @@
     "FIntFeedItemRowDataCounterThrottle": "1000",
     "FFlagOmniItemsRowDataEnabled2": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "fa210098ea57974d5b52a785b957c4e6f39f108f",
-    "DFStringFlagRepoGitHashDynamicString": "fa210098ea57974d5b52a785b957c4e6f39f108f",
-    "FStringFlipTimeStampFastString": "2024-06-06T23:17:45.387Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T23:17:45.387Z"
+    "FStringFlagRepoGitHashFastString": "8cb3534f32d5b7d96317e31a69c83d1081808d0a",
+    "DFStringFlagRepoGitHashDynamicString": "8cb3534f32d5b7d96317e31a69c83d1081808d0a",
+    "FStringFlipTimeStampFastString": "2024-06-06T23:37:14.642Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T23:37:14.642Z"
 }
