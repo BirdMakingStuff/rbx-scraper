@@ -137,8 +137,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "6b32816827694686d883a6e44b68fca62f98048e",
-    "DFStringFlagRepoGitHashDynamicString": "6b32816827694686d883a6e44b68fca62f98048e",
-    "FStringFlipTimeStampFastString": "2024-06-06T21:17:24.123Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T21:17:24.123Z"
+    "FStringFlagRepoGitHashFastString": "369db2dd1d39259fd7089716fd69f71a2fc8e78b",
+    "DFStringFlagRepoGitHashDynamicString": "369db2dd1d39259fd7089716fd69f71a2fc8e78b",
+    "FStringFlipTimeStampFastString": "2024-06-06T21:37:51.148Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T21:37:51.148Z"
 }
