@@ -12730,6 +12730,8 @@
     "FFlagAppChatCreateConversationFailedCheck": "True",
     "FFlagAppChatRemainingOlderMessagesLogResolve": "True",
     "DFFlagHttpApplyDecompressionMultiplier": "True",
+    "FFlagLuauCodegenAnalyzeHostVectorOps_Rollout": "True;30;2024-06-06T16:44:48",
+    "DFFlagCLI83296CheckRuppTokenLength_PlaceFilter": "True;151748951",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13148,8 +13150,11 @@
     "FFlagVoxelGridNew4_PlaceFilter": "True;12048809161;8655158217",
     "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
     "DFFlagTrackViewabilityStatsWhenAdOnScreen": "True",
-    "FStringFlagRepoGitHashFastString": "f24be74102731fe236af2e19ece3769164794c6f",
-    "DFStringFlagRepoGitHashDynamicString": "f24be74102731fe236af2e19ece3769164794c6f",
-    "FStringFlipTimeStampFastString": "2024-06-06T16:19:46.902Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T16:19:46.902Z"
+    "FFlagFixHangOnMonitorThreadExit_Rollout": "True;1;2024-06-06T17:00:16",
+    "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-06T17:06:47",
+    "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
+    "FStringFlagRepoGitHashFastString": "2b4ff0b3a0311ba7225c6ede427ba84a32e1ef8a",
+    "DFStringFlagRepoGitHashDynamicString": "2b4ff0b3a0311ba7225c6ede427ba84a32e1ef8a",
+    "FStringFlipTimeStampFastString": "2024-06-06T17:16:38.599Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T17:16:38.599Z"
 }

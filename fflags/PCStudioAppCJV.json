@@ -12731,6 +12731,7 @@
     "FFlagAppChatRemainingOlderMessagesLogResolve": "True",
     "DFFlagHttpApplyDecompressionMultiplier": "True",
     "AllowVideoPreRoll": "True",
+    "DFFlagCLI83296CheckRuppTokenLength_PlaceFilter": "True;151748951",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13452,6 +13453,7 @@
     "FIntEventMonitorIsOffThrottling": "10000",
     "FIntEventMonitorIsOnThrottling": "10000",
     "FIntEventWillSleepThrottling": "10000",
+    "FFlagFixHangOnMonitorThreadExit_Rollout": "True;1;2024-06-06T17:00:16",
     "DFIntReportInfluxFastLogHighPriorityHundredthsPercentage": "10000",
     "DFIntReportInfluxFastLogSendHundredthsPercentage": "10000",
     "DFLogHttpTrace": "0",
@@ -13462,8 +13464,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "f24be74102731fe236af2e19ece3769164794c6f",
-    "DFStringFlagRepoGitHashDynamicString": "f24be74102731fe236af2e19ece3769164794c6f",
-    "FStringFlipTimeStampFastString": "2024-06-06T16:19:46.902Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-06T16:19:46.902Z"
+    "FStringFlagRepoGitHashFastString": "2b4ff0b3a0311ba7225c6ede427ba84a32e1ef8a",
+    "DFStringFlagRepoGitHashDynamicString": "2b4ff0b3a0311ba7225c6ede427ba84a32e1ef8a",
+    "FStringFlipTimeStampFastString": "2024-06-06T17:16:38.599Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-06T17:16:38.599Z"
 }
