@@ -12815,7 +12815,6 @@
     "FFlagLuaAppShowOtaPackagesLoaded": "True",
     "FFlagKeepZeroInfluenceBones": "True",
     "FFlagAimThereIsNoGameUpload": "True",
-    "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
     "FFlagIBFixLegacyItemStatus": "True",
     "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
     "FFlagColorPickerSliderEpsilon2": "True",
@@ -13174,8 +13173,8 @@
     "FFlagLuaAppResponsiveHooks": "True",
     "FIntFeedItemRowDataCounterThrottle": "1000",
     "FFlagOmniItemsRowDataEnabled2": "True",
-    "FStringFlagRepoGitHashFastString": "b10b972e14ee10b5a4c42175f9d10fe687db781b",
-    "DFStringFlagRepoGitHashDynamicString": "b10b972e14ee10b5a4c42175f9d10fe687db781b",
-    "FStringFlipTimeStampFastString": "2024-06-07T02:02:22.020Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-07T02:02:22.020Z"
+    "FStringFlagRepoGitHashFastString": "0491e5caad2df735571752e74f0386fe49e0337e",
+    "DFStringFlagRepoGitHashDynamicString": "0491e5caad2df735571752e74f0386fe49e0337e",
+    "FStringFlipTimeStampFastString": "2024-06-07T16:23:03.056Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-07T16:23:03.056Z"
 }

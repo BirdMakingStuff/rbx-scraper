@@ -13298,6 +13298,7 @@
     "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
     "FFlagFFlagMoveCurrentSearchTypeToState": "True",
     "FFlagRenderEnableGlobalInstancingVulkan": "True",
+    "FStringRenderIGGPUWhitelistAndroid_Rollout": "PowerVR Rogue GE8322|PowerVR Rogue GE8100|Mali-G52|Mali-G52 MC2;60;2024-06-07T16:22:29",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -13330,8 +13331,8 @@
     "FFlagAimThereIsNoGameUpload": "True",
     "FFlagIBFixLegacyItemStatus": "True",
     "FFlagChatTabHideGroupsLinkOnVR": "True",
-    "FStringFlagRepoGitHashFastString": "b10b972e14ee10b5a4c42175f9d10fe687db781b",
-    "DFStringFlagRepoGitHashDynamicString": "b10b972e14ee10b5a4c42175f9d10fe687db781b",
-    "FStringFlipTimeStampFastString": "2024-06-07T02:02:22.020Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-07T02:02:22.020Z"
+    "FStringFlagRepoGitHashFastString": "0491e5caad2df735571752e74f0386fe49e0337e",
+    "DFStringFlagRepoGitHashDynamicString": "0491e5caad2df735571752e74f0386fe49e0337e",
+    "FStringFlipTimeStampFastString": "2024-06-07T16:23:03.056Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-07T16:23:03.056Z"
 }
