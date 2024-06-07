@@ -1498,7 +1498,7 @@
     "DFFlagReportClientAnimatorThrottlingStats": "True",
     "DFIntLuaParseIntegerIssuesInfluxHundrethsPercentage": "10000",
     "FFlagFixMisplacedHipMotionR15": "True",
-    "DFFlagReportSharedStringBreakdown": "True",
+    "DFFlagReportSharedStringBreakdown": "False",
     "DFFlagTextBoxServiceFilterEnabledV2": "True",
     "FIntLuaErrorsInfluxThrottling": "10000",
     "DFFlagWindowsWebViewTelemetryEnabled": "True",
@@ -12750,7 +12750,6 @@
     "FFlagGraphicsReportFbSize": "True",
     "DFFlagEnableFirstFrameVideoImpression": "True",
     "DFFlagSimIslandTimestepMultiplierAssignmentFix": "True",
-    "DFFlagReportSharedStringBreakdown_Rollout": "False;60;2024-06-07T18:03:39",
     "FFlagImproveHandlingConsoleErrorMsg_Rollout": "True;60;2024-06-07T18:09:58",
     "DFFlagUseSmallVectorHistory_Rollout": "True;60;2024-06-07T18:23:35",
     "AllowVideoPreRoll": "True",
@@ -12984,8 +12983,8 @@
     "FFlagLuaAppSocialLibUseLazyRequire": "True",
     "FFlagLuaAppResponsiveHooks": "True",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
-    "FStringFlagRepoGitHashFastString": "7c2244287d15026dce255b9b554f2e5791b0de7a",
-    "DFStringFlagRepoGitHashDynamicString": "7c2244287d15026dce255b9b554f2e5791b0de7a",
-    "FStringFlipTimeStampFastString": "2024-06-07T18:50:42.519Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-07T18:50:42.519Z"
+    "FStringFlagRepoGitHashFastString": "2705f97e8dc2a7b661c1ecbaec3525da1389173f",
+    "DFStringFlagRepoGitHashDynamicString": "2705f97e8dc2a7b661c1ecbaec3525da1389173f",
+    "FStringFlipTimeStampFastString": "2024-06-07T19:36:13.779Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-07T19:36:13.779Z"
 }
