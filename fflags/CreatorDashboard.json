@@ -7,5 +7,6 @@
     "enableDeveloperSubscriptionRevShareDemo": "true",
     "enableDeveloperSubscriptionOffSale": "true",
     "enableUENSocialMentions": "true",
-    "enableBundlePaginationOffset": "false"
+    "enableBundlePaginationOffset": "false",
+    "enableSafetyControls": "false"
 }
