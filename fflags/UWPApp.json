@@ -12748,7 +12748,6 @@
     "DFFlagCLIAVATAR2997": "True",
     "FFlagFacialAnimationStreamingClearAllConnectionsFix": "True",
     "FFlagGraphicsReportFbSize": "True",
-    "AxisAdornmentGrabSize": "12",
     "FFlagAXFixClosingTryOnManagerPeekViewForLooks_Rollout": "True;60;2024-06-07T17:06:41",
     "FFlagLuauVmSplitDoarith_Rollout": "True;60;2024-06-07T17:09:49",
     "FFlagQualityFiltersInToolboxSearch5_Rollout": "False;60;2024-06-07T17:12:17",
@@ -12758,6 +12757,8 @@
     "FFlagImproveHandlingConsoleErrorMsg_Rollout": "True;60;2024-06-07T18:09:58",
     "DFFlagUseSmallVectorHistory_Rollout": "True;60;2024-06-07T18:23:35",
     "AllowVideoPreRoll": "True",
+    "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
+    "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -12971,7 +12972,6 @@
     "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
     "FFlagColorPickerSliderEpsilon2": "True",
     "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523",
-    "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
     "FFlagAXCatalogRefreshEnabled": "True",
     "FFlagGameBasicSettingsFramerateCap5": "True",
     "FFlagAXWidgetItemsPerRowLowerBound": "True",
@@ -12980,8 +12980,8 @@
     "FFlagLuaAppSocialLibUseLazyRequire": "True",
     "FFlagLuaAppResponsiveHooks": "True",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
-    "FStringFlagRepoGitHashFastString": "193bcdf80e366398dca25a643d111bc58a6480b0",
-    "DFStringFlagRepoGitHashDynamicString": "193bcdf80e366398dca25a643d111bc58a6480b0",
-    "FStringFlipTimeStampFastString": "2024-06-07T18:24:30.473Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-07T18:24:30.473Z"
+    "FStringFlagRepoGitHashFastString": "015e7b9d6e58ed722a61228c4549c4236a62e726",
+    "DFStringFlagRepoGitHashDynamicString": "015e7b9d6e58ed722a61228c4549c4236a62e726",
+    "FStringFlipTimeStampFastString": "2024-06-07T18:33:20.868Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-07T18:33:20.868Z"
 }
