@@ -12760,7 +12760,6 @@
     "FFlagLightGuidesSupportNestedAttachments": "True",
     "DFFlagSimFastSpanningTreeTeardown": "True",
     "FFlagFixDialogInstanceGamepadImages": "True",
-    "FFlagDevFrameworkGetCellPaddingError_Rollout": "True;60;2024-06-10T17:40:16",
     "FFlagLuaAppRefactorOpenGameDetail": "True",
     "FFlagLuaAppShowOtaPackagesLoaded": "True",
     "DFFlagFixCorruptedInstallErrorMessage": "True",
@@ -12786,6 +12785,11 @@
     "FFlagUseNewTerrainBroadPhase8": "True",
     "FFlagDeprecationMessageDateLocalizationRefactor": "True",
     "FFlagStartupMessageDateLocalization": "True",
+    "FFlagDevFrameworkGetCellPaddingError": "True",
+    "FFlagTextureGeneratorFixTooltipAnchorPoint_Rollout": "True;60;2024-06-10T19:20:21",
+    "FFlagTextureGeneratorReturnPartGroupSkipInvalidParts_Rollout": "True;60;2024-06-10T19:20:48",
+    "FFlagPeekViewScrimColorOff_Rollout": "True;60;2024-06-10T19:24:14",
+    "FFlagCapturesFixPromptShareDuplicateToast_Rollout": "True;60;2024-06-10T19:33:32",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13365,8 +13369,8 @@
     "FFlagMoveCurrentSearchTypeToState_v2": "True",
     "FFlagAXPersistentCatalogFiltersIXPEnabled2_Rollout": "True;60;2024-06-10T18:51:17",
     "FFlagLuaAppHomeVngAppUpsell": "True",
-    "FStringFlagRepoGitHashFastString": "3b122fb371e4c6b5b03fdf87091064236477175c",
-    "DFStringFlagRepoGitHashDynamicString": "3b122fb371e4c6b5b03fdf87091064236477175c",
-    "FStringFlipTimeStampFastString": "2024-06-10T19:11:35.214Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-10T19:11:35.214Z"
+    "FStringFlagRepoGitHashFastString": "2cbc81e80b4716474192bc13c7131c4866f1da25",
+    "DFStringFlagRepoGitHashDynamicString": "2cbc81e80b4716474192bc13c7131c4866f1da25",
+    "FStringFlipTimeStampFastString": "2024-06-10T19:34:09.252Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-10T19:34:09.252Z"
 }
