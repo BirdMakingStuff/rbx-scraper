@@ -12767,6 +12767,9 @@
     "FFlagDevConsoleMemorySort_Rollout": "True;60;2024-06-10T16:16:33",
     "FFlagFullProfileViewIXPEnabled_Rollout": "True;60;2024-06-10T16:16:38",
     "DFFlagFixCorruptedInstallErrorMessage_Rollout": "True;60;2024-06-10T16:17:35",
+    "FLogStudioQtitanDocking_NewDocking_Rollout": "Warning,6;60;2024-06-10T16:28:24",
+    "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-10T16:34:05",
+    "FFlagUnregisterEditorLogic_Rollout": "True;60;2024-06-10T16:38:21",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13272,12 +13275,12 @@
     "FFlagMoveCurrentSearchTypeToState_v2": "True",
     "FFlagAutoSearchLoadingTimeEvent": "True",
     "FFlagOmniItemsRowDataEnabled2": "True",
-    "FFlagLuaAppResponsiveHooks": "True",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
     "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-    "FStringFlagRepoGitHashFastString": "a7b79f155800f304ac335daee601b708f47059bd",
-    "DFStringFlagRepoGitHashDynamicString": "a7b79f155800f304ac335daee601b708f47059bd",
-    "FStringFlipTimeStampFastString": "2024-06-10T16:18:31.759Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-10T16:18:31.759Z"
+    "FFlagVideoCodecRemoveInProgressFrameCheck_Rollout": "True;60;2024-06-10T16:36:51",
+    "FStringFlagRepoGitHashFastString": "a69727a973e124a15e03bd53d632d34cf5784176",
+    "DFStringFlagRepoGitHashDynamicString": "a69727a973e124a15e03bd53d632d34cf5784176",
+    "FStringFlipTimeStampFastString": "2024-06-10T16:39:03.747Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-10T16:39:03.747Z"
 }
