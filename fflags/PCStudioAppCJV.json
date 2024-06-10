@@ -12775,7 +12775,9 @@
     "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-10T16:50:25",
     "FFlagStudioUris_Rollout": "True;60;2024-06-10T16:57:15",
     "FFlagVideoReportDPI_Rollout": "False;60;2024-06-10T17:17:32",
+    "FFlagOpenURLUseRequestResponsev2_Rollout": "True;60;2024-06-10T17:19:05",
     "CaptureCountersIntervalInMinutes": "5",
+    "FFlagLuauForbidAliasNamedTypeof_Rollout": "True;60;2024-06-10T17:33:14",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
     "DFFlagCLI120342": "False",
@@ -13514,8 +13516,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "2d1b525b9c16732bad412a9610dcca389ba4a7ef",
-    "DFStringFlagRepoGitHashDynamicString": "2d1b525b9c16732bad412a9610dcca389ba4a7ef",
-    "FStringFlipTimeStampFastString": "2024-06-10T17:18:30.323Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-10T17:18:30.323Z"
+    "FStringFlagRepoGitHashFastString": "52a6d3346d1599f01e01f91af3f9bafbc052afa6",
+    "DFStringFlagRepoGitHashDynamicString": "52a6d3346d1599f01e01f91af3f9bafbc052afa6",
+    "FStringFlipTimeStampFastString": "2024-06-10T17:33:57.346Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-10T17:33:57.346Z"
 }
