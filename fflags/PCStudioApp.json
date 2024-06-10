@@ -12793,7 +12793,6 @@
     "FFlagCapturesFixPromptShareDuplicateToast": "True",
     "FFlagShareCaptureUploadToApiEnabled2": "True",
     "FFlagVideoReportBufferPoolStats2": "True",
-    "FFlagStreamSoundsCompressedInMemory4_Rollout": "True;60;2024-06-10T21:56:45",
     "DFFlagFixReportPlayerLoadTimeEvents_Rollout": "True;60;2024-06-10T22:07:25",
     "FFlagRemoveCaptureWatermark_Rollout": "True;60;2024-06-10T22:10:29",
     "DFStringTeamCreateNewPlaceUploadOptInPlaceIds": "16358775511",
@@ -12809,6 +12808,7 @@
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "DFFlagCLI97615FixTokenDeserializationCondition": "True",
     "FFlagAddFriendsBtnFixSelectionOnConsole": "True",
+    "FFlagStreamSoundsCompressedInMemory4": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13533,8 +13533,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "1a4689d9d59f91d70da8d4270fbba3d16866f02a",
-    "DFStringFlagRepoGitHashDynamicString": "1a4689d9d59f91d70da8d4270fbba3d16866f02a",
-    "FStringFlipTimeStampFastString": "2024-06-10T23:16:24.178Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-10T23:16:24.178Z"
+    "FStringFlagRepoGitHashFastString": "5bcf664088d7ee013fef75a313e73ba628a8bca1",
+    "DFStringFlagRepoGitHashDynamicString": "5bcf664088d7ee013fef75a313e73ba628a8bca1",
+    "FStringFlipTimeStampFastString": "2024-06-10T23:31:36.546Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-10T23:31:36.546Z"
 }
