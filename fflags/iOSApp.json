@@ -11650,7 +11650,7 @@
     "FFlagFixMaxInstancesPerBatch": "True",
     "FFlagMarketplaceServiceFixUnlimitedCollectibleAuthToken": "True",
     "DFFlagSimSolverOptimizeNoConstraintIslandizing": "True",
-    "FFlagOpenURLUseRequestResponseLua": "False",
+    "FFlagOpenURLUseRequestResponseLua": "True",
     "FFlagEnableVideoProgressEventReporting2": "True",
     "FFlagLuaAppFooterLayoutDataBySort": "True",
     "FFlagMannequinUtilityParentOption": "True",
@@ -12770,6 +12770,11 @@
     "FLogStudioQtitanDocking_NewDocking_Rollout": "Warning,6;60;2024-06-10T16:28:24",
     "FFlagLuaAppResponsiveHooks_Rollout": "True;60;2024-06-10T16:34:05",
     "FFlagUnregisterEditorLogic_Rollout": "True;60;2024-06-10T16:38:21",
+    "DFIntVideoStatsInfluxReportHundredthsPercent_Rollout": "2;60;2024-06-10T16:43:36",
+    "DFFlagTestmodeErrorMessage_Rollout": "True;60;2024-06-10T16:44:21",
+    "DFFlagTrackViewabilityStatsWhenAdOnScreen_Rollout": "True;60;2024-06-10T16:50:25",
+    "FFlagStudioUris_Rollout": "True;60;2024-06-10T16:57:15",
+    "FFlagVideoReportDPI_Rollout": "False;60;2024-06-10T17:17:32",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13279,8 +13284,8 @@
     "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": "True",
     "FFlagFFlagMoveCurrentSearchTypeToState": "True",
     "FFlagVideoCodecRemoveInProgressFrameCheck_Rollout": "True;60;2024-06-10T16:36:51",
-    "FStringFlagRepoGitHashFastString": "a69727a973e124a15e03bd53d632d34cf5784176",
-    "DFStringFlagRepoGitHashDynamicString": "a69727a973e124a15e03bd53d632d34cf5784176",
-    "FStringFlipTimeStampFastString": "2024-06-10T16:39:03.747Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-10T16:39:03.747Z"
+    "FStringFlagRepoGitHashFastString": "2d1b525b9c16732bad412a9610dcca389ba4a7ef",
+    "DFStringFlagRepoGitHashDynamicString": "2d1b525b9c16732bad412a9610dcca389ba4a7ef",
+    "FStringFlipTimeStampFastString": "2024-06-10T17:18:30.323Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-10T17:18:30.323Z"
 }
