@@ -12834,7 +12834,6 @@
     "DFFlagEnableBulkPurchase3": "False",
     "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523;12929529839;11901437921;7240922896;7240924645;14044547200;11206444213;14056754882;14133374560;13861308375;137877687;4074515213;7061415250;5960997154;5129305072;4984400432;7406897155;5814304937;10810086665;10810113603;11695679660;8554014495;15211366008;16820844139",
     "FFlagAuthIntentLoggingForGameJoinEnabledV2": "True",
-    "FFlagSimCSGV3ReplaceSeparateConnectedComponents_Rollout": "True;60;2024-06-11T20:47:06",
     "FFlagVideoCodecRemoveInProgressFrameCheck": "True",
     "FFlagRefactorGuiRTCacheImpl2": "True",
     "FFlagLuauLoadUserdataInfo": "True",
@@ -12855,6 +12854,8 @@
     "FFlagAddMaxLimitToAccountSelector_Rollout": "True;15;2024-06-11T22:06:25",
     "FFlagVoiceChatNewClientOperationFramework": "True",
     "FFlagRenderFixFog": "True",
+    "FFlagSimCSGV3ReplaceSeparateConnectedComponents": "True",
+    "FFlagUseNewTerrainBroadPhase8_PlaceFilter": "False;8908228901",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13404,8 +13405,9 @@
     "FStringDisableAECIxpLayer": "Voice.AudioInputQuality",
     "FStringDisableAGCIxpLayer": "Voice.AudioInputQuality",
     "FStringDisableNSIxpLayer": "Voice.AudioInputQuality",
-    "FStringFlagRepoGitHashFastString": "7e72148f1593a0a02f6c294c4f0f7c8a3628bdf1",
-    "DFStringFlagRepoGitHashDynamicString": "7e72148f1593a0a02f6c294c4f0f7c8a3628bdf1",
-    "FStringFlipTimeStampFastString": "2024-06-11T22:11:41.591Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-11T22:11:41.591Z"
+    "DFFlagReportAppSuspended_Rollout": "False;10;2024-06-11T22:32:30",
+    "FStringFlagRepoGitHashFastString": "e58df8c81d3ee5d165654178a325c1d035642bd9",
+    "DFStringFlagRepoGitHashDynamicString": "e58df8c81d3ee5d165654178a325c1d035642bd9",
+    "FStringFlipTimeStampFastString": "2024-06-11T22:33:33.781Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-11T22:33:33.781Z"
 }
