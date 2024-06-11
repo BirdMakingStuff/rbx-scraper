@@ -12561,7 +12561,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "False",
+    "FFlagMyDummyFlag": "True",
     "DFFlagPhoto2AvatarCounterAndStats": "False",
     "DFFlagPhoto2AvatarCounterAndStats_PlaceFilter": "True;16570073256;17362271377;17745270078",
     "DFFlagPhoto2AvatarDeleteResultFiles": "False",
@@ -13151,8 +13151,8 @@
     "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": "500",
     "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
     "FFlagFFlagMoveCurrentSearchTypeToState": "True",
-    "FStringFlagRepoGitHashFastString": "5ecd5aea0b19d0284ed7f612de73bf2569fa15d5",
-    "DFStringFlagRepoGitHashDynamicString": "5ecd5aea0b19d0284ed7f612de73bf2569fa15d5",
-    "FStringFlipTimeStampFastString": "2024-06-11T18:26:57.991Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-11T18:26:57.991Z"
+    "FStringFlagRepoGitHashFastString": "ca091b25ccea3f45f1f196b38dcffeb3ab3da1cc",
+    "DFStringFlagRepoGitHashDynamicString": "ca091b25ccea3f45f1f196b38dcffeb3ab3da1cc",
+    "FStringFlipTimeStampFastString": "2024-06-11T18:36:29.515Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-11T18:36:29.515Z"
 }
