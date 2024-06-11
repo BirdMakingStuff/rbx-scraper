@@ -12561,7 +12561,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "True",
+    "FFlagMyDummyFlag": "False",
     "DFFlagPhoto2AvatarCounterAndStats": "False",
     "DFFlagPhoto2AvatarCounterAndStats_PlaceFilter": "True;16570073256;17362271377;17745270078",
     "DFFlagPhoto2AvatarDeleteResultFiles": "False",
@@ -12810,6 +12810,9 @@
     "FFlagLooksAnalyticsEmptyItemsFixes": "True",
     "DFFlagPerformanceControlCLI105990OptimizeReportFailedTelemetryValidation": "True",
     "AllowVideoPreRoll": "True",
+    "FFlagUseHotrodStorageForFaceControls_Rollout": "True;60;2024-06-11T16:09:34",
+    "FFlagIsAltAttemptLoggingAtSignup_Rollout": "True;60;2024-06-11T16:10:51",
+    "FFlagDebugDisableCustomExposureLog_Rollout": "True;60;2024-06-11T16:18:58",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13533,8 +13536,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "eb378c8822dd44bdb5df0361223b8788e7d85615",
-    "DFStringFlagRepoGitHashDynamicString": "eb378c8822dd44bdb5df0361223b8788e7d85615",
-    "FStringFlipTimeStampFastString": "2024-06-11T00:07:56.706Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-11T00:07:56.706Z"
+    "FStringFlagRepoGitHashFastString": "77be92caf7001b5fabb0c292ad395247fd15389c",
+    "DFStringFlagRepoGitHashDynamicString": "77be92caf7001b5fabb0c292ad395247fd15389c",
+    "FStringFlipTimeStampFastString": "2024-06-11T16:19:38.792Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-11T16:19:38.792Z"
 }
