@@ -109,7 +109,6 @@
     "FFlagEnableAXClientLatencyLoggingByPlatform": "True",
     "FFlagReuseMicroprofilerCounterBuffer": "True",
     "FFlagColorPickerSliderEpsilon2": "True",
-    "DFFlagEnableBulkPurchase3_PlaceFilter": "True;17670190523",
     "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
     "FFlagAXCatalogRefreshEnabled": "True",
     "FFlagMoveCurrentSearchTypeToState_v2": "True",
@@ -123,8 +122,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "f01015538401f374488dee86c8ac641026a6a79a",
-    "DFStringFlagRepoGitHashDynamicString": "f01015538401f374488dee86c8ac641026a6a79a",
-    "FStringFlipTimeStampFastString": "2024-06-11T19:36:25.952Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-11T19:36:25.952Z"
+    "FStringFlagRepoGitHashFastString": "c95a6dcf6a4f2942bb00446cbed0773370170e78",
+    "DFStringFlagRepoGitHashDynamicString": "c95a6dcf6a4f2942bb00446cbed0773370170e78",
+    "FStringFlipTimeStampFastString": "2024-06-11T20:17:15.658Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-11T20:17:15.658Z"
 }
