@@ -12796,8 +12796,6 @@
     "DFStringTeamCreateNewPlaceUploadOptInPlaceIds": "16358775511",
     "EnableAppRatingResizeIXPExperiment": "True",
     "FFlagAppRatingTelemetry": "True",
-    "FFlagDevFrameworkRangeSliderOnInputEnded": "True",
-    "FFlagDevFrameworkSliderProcessing": "True",
     "DFIntTeamCreateNewPlaceUploadPublishRolloutHundredthPercent": "1000",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "DFFlagCLI97615FixTokenDeserializationCondition": "True",
@@ -12823,6 +12821,8 @@
     "FFlagRobloxIDEDocDisableClientPresenceCall": "True",
     "FFlagRobloxApplicationDisableClientPresenceCall": "True",
     "FFlagLuauCodegenUseVectorHooks": "True",
+    "FFlagGrassLengthCustomization_UsageMetrics_Rollout": "True;60;2024-06-11T17:31:24",
+    "FFlagReuseOldVoicePlaybackNodeOnSubRetry_Rollout": "True;60;2024-06-11T17:37:30",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13544,8 +13544,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "cf7d72c2164aeb1268bf47ce777510e38f8a8a92",
-    "DFStringFlagRepoGitHashDynamicString": "cf7d72c2164aeb1268bf47ce777510e38f8a8a92",
-    "FStringFlipTimeStampFastString": "2024-06-11T17:16:50.175Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-11T17:16:50.175Z"
+    "FStringFlagRepoGitHashFastString": "4dd8090c00eef384ed0279ac7a28d8f11f3bff82",
+    "DFStringFlagRepoGitHashDynamicString": "4dd8090c00eef384ed0279ac7a28d8f11f3bff82",
+    "FStringFlipTimeStampFastString": "2024-06-11T17:38:31.380Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-11T17:38:31.380Z"
 }
