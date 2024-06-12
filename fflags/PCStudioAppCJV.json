@@ -12561,7 +12561,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "True",
+    "FFlagMyDummyFlag": "False",
     "DFFlagPhoto2AvatarCounterAndStats": "False",
     "DFFlagPhoto2AvatarCounterAndStats_PlaceFilter": "True;16570073256;17362271377;17745270078",
     "DFFlagPhoto2AvatarDeleteResultFiles": "False",
@@ -12878,6 +12878,8 @@
     "FFlagGamePerfFrameTotalAndRenderingSimulationDiff": "True",
     "FFlagVideoThumbnailGenerator2_Rollout": "True;60;2024-06-12T19:47:26",
     "FFlagLinkedSourceMigratorDoublePromiseSetCrash": "True",
+    "DFFlagEngineTelemetryInt64FieldTruncationFix_Rollout": "True;60;2024-06-12T20:30:38",
+    "FFlagVideoFixGpuShaderAspectRatio2_Rollout": "True;60;2024-06-12T20:33:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13597,8 +13599,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "ef45d94caf2552d3e40286c8b2e115e4e9e5dff7",
-    "DFStringFlagRepoGitHashDynamicString": "ef45d94caf2552d3e40286c8b2e115e4e9e5dff7",
-    "FStringFlipTimeStampFastString": "2024-06-12T20:19:35.220Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-12T20:19:35.220Z"
+    "FStringFlagRepoGitHashFastString": "5a5cd84d1a9440823795b91ddc22f8a93d48925e",
+    "DFStringFlagRepoGitHashDynamicString": "5a5cd84d1a9440823795b91ddc22f8a93d48925e",
+    "FStringFlipTimeStampFastString": "2024-06-12T20:35:29.833Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-12T20:35:29.833Z"
 }
