@@ -12876,12 +12876,14 @@
     "FFlagStudioFixGPMTempItemsOOB": "True",
     "FFlagStudioRendererProfilerScopes": "True",
     "FFlagGamePerfFrameTotalAndRenderingSimulationDiff": "True",
-    "FFlagVideoThumbnailGenerator2_Rollout": "True;60;2024-06-12T19:47:26",
     "FFlagLinkedSourceMigratorDoublePromiseSetCrash": "True",
     "DFFlagEngineTelemetryInt64FieldTruncationFix_Rollout": "True;60;2024-06-12T20:30:38",
     "FFlagVideoFixGpuShaderAspectRatio2_Rollout": "True;60;2024-06-12T20:33:42",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntGjkBulkTileThreshold_Rollout": "1000;30;2024-06-12T21:16:53",
+    "FFlagUIListLayoutEnableFlex3_Rollout": "True;60;2024-06-12T21:18:45",
+    "FFlagVideoThumbnailGenerator2": "True",
+    "FFlagSimSolverImprovedAeroForce2_Rollout": "True;60;2024-06-12T21:35:08",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -13036,8 +13038,8 @@
     "FFlagLuaAppHomeVngAppUpsell": "True",
     "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
     "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-    "FStringFlagRepoGitHashFastString": "ab483b3e3867f43867ab2a469a8160ed8343a0b4",
-    "DFStringFlagRepoGitHashDynamicString": "ab483b3e3867f43867ab2a469a8160ed8343a0b4",
-    "FStringFlipTimeStampFastString": "2024-06-12T21:18:01.777Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-12T21:18:01.777Z"
+    "FStringFlagRepoGitHashFastString": "ea185b531b11aee952e1a901de15ed1df26309f3",
+    "DFStringFlagRepoGitHashDynamicString": "ea185b531b11aee952e1a901de15ed1df26309f3",
+    "FStringFlipTimeStampFastString": "2024-06-12T21:36:25.845Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-12T21:36:25.845Z"
 }
