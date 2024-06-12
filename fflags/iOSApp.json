@@ -12561,7 +12561,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "True",
+    "FFlagMyDummyFlag": "False",
     "DFFlagPhoto2AvatarCounterAndStats": "False",
     "DFFlagPhoto2AvatarCounterAndStats_PlaceFilter": "True;16570073256;17362271377;17745270078",
     "DFFlagPhoto2AvatarDeleteResultFiles": "False",
@@ -12787,7 +12787,6 @@
     "DFFlagCLI108675": "True",
     "FFlagTextureGeneratorFixTooltipAnchorPoint": "True",
     "FFlagPeekViewScrimColorOff": "True",
-    "FFlagTextureGeneratorReturnPartGroupSkipInvalidParts": "True",
     "FFlagCapturesFixPromptShareDuplicateToast": "True",
     "FFlagShareCaptureUploadToApiEnabled2": "True",
     "FFlagVideoReportBufferPoolStats2": "True",
@@ -12873,6 +12872,7 @@
     "FFlagGamePerfFrameTotalAndRenderingSimulationDiff_Rollout": "True;60;2024-06-12T18:03:23",
     "AllowVideoPreRoll": "True",
     "FFlagFmodFixXboxStallOnClose2": "True",
+    "FFlagLinkedSourceMigratorDoublePromiseSetCrash_Rollout": "True;60;2024-06-12T18:35:58",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13374,8 +13374,8 @@
     "FIntNewBlockingUtilityRollout": "0",
     "FFlagLuaAppFixOtaTelemetry": "True",
     "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneiOS",
-    "FStringFlagRepoGitHashFastString": "eaf6047dca484a2b39d8727a1f55a9b3cd4da54d",
-    "DFStringFlagRepoGitHashDynamicString": "eaf6047dca484a2b39d8727a1f55a9b3cd4da54d",
-    "FStringFlipTimeStampFastString": "2024-06-12T18:11:49.376Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-12T18:11:49.376Z"
+    "FStringFlagRepoGitHashFastString": "3b21814b6efee925835033ab32bb7a176f2a7972",
+    "DFStringFlagRepoGitHashDynamicString": "3b21814b6efee925835033ab32bb7a176f2a7972",
+    "FStringFlipTimeStampFastString": "2024-06-12T18:36:21.711Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-12T18:36:21.711Z"
 }
