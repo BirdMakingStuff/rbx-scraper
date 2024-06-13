@@ -12560,7 +12560,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "False",
+    "FFlagMyDummyFlag": "True",
     "DFFlagPhoto2AvatarCounterAndStats": "True",
     "DFFlagPhoto2AvatarDeleteResultFiles": "True",
     "DFIntPhoto2AvatarEventsThrottleHundredthsPercent": "0",
@@ -12885,6 +12885,7 @@
     "DFIntUIListLayoutStats_ReportHundredthsPercent2": "1",
     "FFlagEditableImageFromImageContent": "True",
     "FFlagSimSolverImprovedAeroForceIntegrator2": "True",
+    "FFlagEnableFriendsLandingControllerBar2_Rollout": "True;30;2024-06-13T16:32:01",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13299,8 +13300,8 @@
     "DFFlagVoiceReliabilityTelemetryEventIngest": "True",
     "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent": "10000",
     "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "336ecd316be50a671f654819cbd02287e6ea5b85",
-    "DFStringFlagRepoGitHashDynamicString": "336ecd316be50a671f654819cbd02287e6ea5b85",
-    "FStringFlipTimeStampFastString": "2024-06-13T16:15:18.601Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-13T16:15:18.601Z"
+    "FStringFlagRepoGitHashFastString": "c82eae65cb9ce277217047addaec72fd46c004c4",
+    "DFStringFlagRepoGitHashDynamicString": "c82eae65cb9ce277217047addaec72fd46c004c4",
+    "FStringFlipTimeStampFastString": "2024-06-13T16:35:16.468Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-13T16:35:16.468Z"
 }
