@@ -10236,7 +10236,6 @@
     "FFlagLuauAlwaysCommitInferencesOfFunctionCalls": "True",
     "FFlagLuauOkWithIteratingOverTableProperties": "True",
     "FFlagAndroidCameraCaptureUseTemplatePreview": "True",
-    "FFlagFaceAnimatorUseVideoBufferPool": "True",
     "DFFlagCLI92377": "True",
     "FFlagDebugGraphicsReportMemoryCategoryOnLeaks": "True",
     "DFFlagBufferWebSerialize": "True",
@@ -12962,6 +12961,7 @@
     "FIntOtaLoaderInfoEventHundredthsPercent2": "1",
     "FIntOtaLoaderErrorEventHundredthsPercent2": "1",
     "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
+    "FIntOtaLoaderErrorEventHundredthsPercent2_Rollout": "100;30;2024-06-13T16:08:01",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13304,8 +13304,8 @@
     "DFFlagVoiceReliabilityTelemetryEventIngest": "True",
     "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent": "10000",
     "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "5c5052e05ca4714f6e17910a43d9800cda533789",
-    "DFStringFlagRepoGitHashDynamicString": "5c5052e05ca4714f6e17910a43d9800cda533789",
-    "FStringFlipTimeStampFastString": "2024-06-13T01:11:19.158Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-13T01:11:19.158Z"
+    "FStringFlagRepoGitHashFastString": "336ecd316be50a671f654819cbd02287e6ea5b85",
+    "DFStringFlagRepoGitHashDynamicString": "336ecd316be50a671f654819cbd02287e6ea5b85",
+    "FStringFlipTimeStampFastString": "2024-06-13T16:15:18.601Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-13T16:15:18.601Z"
 }
