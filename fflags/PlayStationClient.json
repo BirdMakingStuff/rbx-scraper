@@ -12895,7 +12895,6 @@
     "FFlagPreserveWindowsCompactUtility": "True",
     "FFlagSupportCompactUtility2": "True",
     "FFlagStudioRendererThreadChecks": "True",
-    "FFlagEnableChromeDefaultOpen": "True",
     "FFlagEnableChromePinnedChat": "True",
     "FFlagSelfieViewPreviewShrinkIcon": "True",
     "FFlagStudioMoveGesturesFromOgre2": "True",
@@ -12924,6 +12923,10 @@
     "FFlagLightgridCPUAsyncCopyOnWrite": "True",
     "DFFlagFasterPublicChannelUpdates_Rollout": "True;60;2024-06-14T17:15:55",
     "FFlagAXAndroidBackButtonIXPEnabled_Rollout": "True;30;2024-06-14T17:31:49",
+    "DFFlagCreateMeshPartAtRuntime_Rollout": "True;60;2024-06-14T17:43:21",
+    "FStringVngAppUpsellUrl_Rollout": "https://roblox-vng.onelink.me/oITV/sau3tvgv;30;2024-06-14T17:45:27",
+    "FFlagExternalFlagNameFix_Rollout": "True;60;2024-06-14T17:46:24",
+    "FStringIxpNewLayersForRegistration_Rollout": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav;60;2024-06-14T17:51:19",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13077,8 +13080,8 @@
     "FFlagEnablePSAuthAndHomepagePrefetch": "True",
     "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
     "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
-    "FStringFlagRepoGitHashFastString": "25b1bd2666a62428f34b9c6e752eef57fd79cff9",
-    "DFStringFlagRepoGitHashDynamicString": "25b1bd2666a62428f34b9c6e752eef57fd79cff9",
-    "FStringFlipTimeStampFastString": "2024-06-14T17:32:24.381Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-14T17:32:24.381Z"
+    "FStringFlagRepoGitHashFastString": "827aa775749e4229ad0af40fe8a3129e92af6ccc",
+    "DFStringFlagRepoGitHashDynamicString": "827aa775749e4229ad0af40fe8a3129e92af6ccc",
+    "FStringFlipTimeStampFastString": "2024-06-14T18:27:25.994Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-14T18:27:25.994Z"
 }
