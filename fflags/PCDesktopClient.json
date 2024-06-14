@@ -13004,9 +13004,9 @@
     "FIntOtaLoaderErrorEventHundredthsPercent2": "100",
     "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
     "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure": "True",
-    "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-14T18:31:13",
     "FFlagAppChatMigrateIGMInvite": "True",
     "DFFlagSimPartCountReportFix": "True",
+    "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13353,12 +13353,12 @@
     "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
     "DFIntThirdPartyVideoAdFetchHundredthsPercent": "0",
     "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
-    "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04",
     "DFFlagGltfFlipEulerAngleOrder": "True",
     "FFlagUniversalAppCsat4": "True",
     "FFlagAXAvatarWidgetData14": "True",
-    "FStringFlagRepoGitHashFastString": "4973b11e0a6c14821fd575cc194e5acb9c530c70",
-    "DFStringFlagRepoGitHashDynamicString": "4973b11e0a6c14821fd575cc194e5acb9c530c70",
-    "FStringFlipTimeStampFastString": "2024-06-14T19:26:16.433Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-14T19:26:16.433Z"
+    "FFlagSocialAnalyticsSupportTelemetry": "True",
+    "FStringFlagRepoGitHashFastString": "1715b74db7704273053dc02666d85b357eb082f6",
+    "DFStringFlagRepoGitHashDynamicString": "1715b74db7704273053dc02666d85b357eb082f6",
+    "FStringFlipTimeStampFastString": "2024-06-14T20:06:33.719Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-14T20:06:33.719Z"
 }

@@ -13435,11 +13435,11 @@
     "FFlagEDPMissingIconFixEnabled": "True",
     "FFlagAXWidgetsByContext1": "True",
     "FFlagEnableFixForLanguageUpdate": "True",
-    "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04",
     "FFlagUniversalAppCsat4": "True",
     "FFlagAXAvatarWidgetData14": "True",
-    "FStringFlagRepoGitHashFastString": "4973b11e0a6c14821fd575cc194e5acb9c530c70",
-    "DFStringFlagRepoGitHashDynamicString": "4973b11e0a6c14821fd575cc194e5acb9c530c70",
-    "FStringFlipTimeStampFastString": "2024-06-14T19:26:16.433Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-14T19:26:16.433Z"
+    "FFlagSocialAnalyticsSupportTelemetry": "True",
+    "FStringFlagRepoGitHashFastString": "1715b74db7704273053dc02666d85b357eb082f6",
+    "DFStringFlagRepoGitHashDynamicString": "1715b74db7704273053dc02666d85b357eb082f6",
+    "FStringFlipTimeStampFastString": "2024-06-14T20:06:33.719Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-14T20:06:33.719Z"
 }

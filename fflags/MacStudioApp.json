@@ -13591,9 +13591,9 @@
     "DFFlagBanHistoryPagesFinish": "True",
     "FIntUGCValidateFacsDataOperationalThreshold": "105",
     "FFlagCLI_109140_OnePlaceForCSGLogFilename": "True",
-    "FFlagSocialAnalyticsSupportTelemetry_Rollout": "True;60;2024-06-14T18:27:04",
     "FFlagAppChatMigrateIGMInvite": "True",
     "DFFlagGltfFlipEulerAngleOrder": "True",
+    "FFlagSocialAnalyticsSupportTelemetry": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13639,8 +13639,8 @@
     "FFlagVoiceChatFixRejoin": "True",
     "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry": "True",
     "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure": "True",
-    "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-14T18:31:13",
     "DFFlagSimPartCountReportFix": "True",
+    "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -13653,8 +13653,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "4973b11e0a6c14821fd575cc194e5acb9c530c70",
-    "DFStringFlagRepoGitHashDynamicString": "4973b11e0a6c14821fd575cc194e5acb9c530c70",
-    "FStringFlipTimeStampFastString": "2024-06-14T19:26:16.433Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-14T19:26:16.433Z"
+    "FStringFlagRepoGitHashFastString": "1715b74db7704273053dc02666d85b357eb082f6",
+    "DFStringFlagRepoGitHashDynamicString": "1715b74db7704273053dc02666d85b357eb082f6",
+    "FStringFlipTimeStampFastString": "2024-06-14T20:06:33.719Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-14T20:06:33.719Z"
 }
