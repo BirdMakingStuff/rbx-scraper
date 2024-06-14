@@ -12559,7 +12559,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "False",
+    "FFlagMyDummyFlag": "True",
     "DFFlagPhoto2AvatarCounterAndStats": "True",
     "DFFlagPhoto2AvatarDeleteResultFiles": "True",
     "DFIntPhoto2AvatarEventsThrottleHundredthsPercent": "0",
@@ -12923,6 +12923,7 @@
     "FFlagStudioPluginPopupFixedSizePropertyNoFlicker": "True",
     "FFlagLightgridCPUAsyncCopyOnWrite": "True",
     "DFFlagFasterPublicChannelUpdates_Rollout": "True;60;2024-06-14T17:15:55",
+    "FFlagAXAndroidBackButtonIXPEnabled_Rollout": "True;30;2024-06-14T17:31:49",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13343,9 +13344,10 @@
     "FFlagFCSkinningCrashFix": "True",
     "FFlagEDPMissingIconFixEnabled": "True",
     "FFlagAXWidgetsByContext1": "True",
+    "DFFlagGltfFlipEulerAngleOrder_Rollout": "True;60;2024-06-14T17:30:07",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "3c62f0cff2c5f31e2504fd64f82d4f845127937f",
-    "DFStringFlagRepoGitHashDynamicString": "3c62f0cff2c5f31e2504fd64f82d4f845127937f",
-    "FStringFlipTimeStampFastString": "2024-06-14T17:16:38.143Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-14T17:16:38.143Z"
+    "FStringFlagRepoGitHashFastString": "25b1bd2666a62428f34b9c6e752eef57fd79cff9",
+    "DFStringFlagRepoGitHashDynamicString": "25b1bd2666a62428f34b9c6e752eef57fd79cff9",
+    "FStringFlipTimeStampFastString": "2024-06-14T17:32:24.381Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-14T17:32:24.381Z"
 }
