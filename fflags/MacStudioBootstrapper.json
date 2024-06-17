@@ -113,7 +113,7 @@
     "FFlagAXCatalogRefreshEnabled": "True",
     "FFlagMoveCurrentSearchTypeToState_v2": "True",
     "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
-    "FFlagEnableNextGenGamePassPurchase_Rollout": "True;60;2024-06-17T16:55:27",
+    "FFlagEnableNextGenGamePassPurchase": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -123,8 +123,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "307b6d133e93f29158336ed286a2aa2b6c4f1c61",
-    "DFStringFlagRepoGitHashDynamicString": "307b6d133e93f29158336ed286a2aa2b6c4f1c61",
-    "FStringFlipTimeStampFastString": "2024-06-17T18:26:25.127Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-17T18:26:25.127Z"
+    "FStringFlagRepoGitHashFastString": "7d28d18676533a321fc159c72a8ce8f78f307940",
+    "DFStringFlagRepoGitHashDynamicString": "7d28d18676533a321fc159c72a8ce8f78f307940",
+    "FStringFlipTimeStampFastString": "2024-06-17T18:38:57.828Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-17T18:38:57.828Z"
 }
