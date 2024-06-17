@@ -12928,6 +12928,8 @@
     "DFFlagFasterPublicChannelUpdates": "True",
     "DFFlagCreateMeshPartAtRuntime": "True",
     "FFlagExternalFlagNameFix": "True",
+    "AllowVideoPreRoll": "True",
+    "AxisAdornmentGrabSize": "12",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13008,8 +13010,6 @@
     "DFFlagSimPartCountReportFix": "True",
     "FFlagSocialAnalyticsSupportTelemetry": "True",
     "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
-    "AllowVideoPreRoll": "True",
-    "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -13365,8 +13365,8 @@
     "DFFlagGltfFlipEulerAngleOrder": "True",
     "FFlagUniversalAppCsat4": "True",
     "FFlagAXAvatarWidgetData14": "True",
-    "FStringFlagRepoGitHashFastString": "b04e325a676f4f42e7f439f64b7efd95ccfb0f23",
-    "DFStringFlagRepoGitHashDynamicString": "b04e325a676f4f42e7f439f64b7efd95ccfb0f23",
-    "FStringFlipTimeStampFastString": "2024-06-14T22:42:50.202Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-14T22:42:50.202Z"
+    "FStringFlagRepoGitHashFastString": "e285f8e39c78b315882c6c401f3bf0c91a9f6f14",
+    "DFStringFlagRepoGitHashDynamicString": "e285f8e39c78b315882c6c401f3bf0c91a9f6f14",
+    "FStringFlipTimeStampFastString": "2024-06-17T16:16:05.439Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-17T16:16:05.439Z"
 }
