@@ -12539,7 +12539,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "True",
+    "FFlagMyDummyFlag": "False",
     "DFFlagPhoto2AvatarCounterAndStats": "True",
     "DFFlagPhoto2AvatarDeleteResultFiles": "True",
     "DFIntPhoto2AvatarEventsThrottleHundredthsPercent": "0",
@@ -12914,7 +12914,6 @@
     "DFIntDataStoreFixedRequestLimit_PlaceFilter": "150;166986752",
     "DFIntSimReportAveWorldstepTimeEventIngestPercent_PlaceFilter": "10000;4924922222",
     "FFlagQueryWithCallTunableInitialStateZero": "True",
-    "DFFlagPath2DAnalytics_ProfilerScope": "True",
     "DFFlagReportPath2DAnalyticsEnabled_Perf": "True",
     "DFIntReportPath2DInstanceAPICallsHundrethsPercent": "2500",
     "FFlagFixOpenWithMenuConsole": "True",
@@ -13001,6 +13000,7 @@
     "DFFlagCanClientReplicateProp": "True",
     "FFlagUIBloxUseInputResponsiveShortcutBarChanges": "True",
     "FFlagShouldEnableOtpDisambiguationPeekViewFix": "True",
+    "FFlagLocalizeMenuNavigationToggleDialog": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13414,8 +13414,8 @@
     "FFlagEnableRuntimeThreadVisQueries3": "True",
     "FFlagAXAvatarWidgetTryOn5": "True",
     "FFlagEnableInGameMenuChromeABTest3": "True",
-    "FStringFlagRepoGitHashFastString": "e7fed1f8d21d063dff9080e6b5b444d26a4f48d7",
-    "DFStringFlagRepoGitHashDynamicString": "e7fed1f8d21d063dff9080e6b5b444d26a4f48d7",
-    "FStringFlipTimeStampFastString": "2024-06-18T00:47:06.686Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-18T00:47:06.686Z"
+    "FStringFlagRepoGitHashFastString": "7f71f49c48c653d19198b40421fc77cebe7a073e",
+    "DFStringFlagRepoGitHashDynamicString": "7f71f49c48c653d19198b40421fc77cebe7a073e",
+    "FStringFlipTimeStampFastString": "2024-06-18T16:02:29.353Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-18T16:02:29.353Z"
 }
