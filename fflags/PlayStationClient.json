@@ -13018,8 +13018,6 @@
     "FFlagHumanoidDescriptionCleanUpLambda": "True",
     "FFlagRobuxCounterVRFix": "True",
     "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure_Rollout": "True;60;2024-06-18T19:33:11",
-    "FStringChatAddFriendsBtnClickedCounter_Rollout": "ChatAddFriendsBtnClickedCommon;30;2024-06-18T19:34:37",
-    "FStringChatEmptyStateScreenRenderedCounter_Rollout": "ChatEmptyStateScreenRenderedCommon;30;2024-06-18T19:34:37",
     "FFlagMicroprofilerSetAssetReader": "True",
     "FFlagEnableNoFriendsViewPageRenderReport": "True",
     "FFlagFriendsLandingNoFriendsViewUseCustomLabels": "True",
@@ -13032,6 +13030,11 @@
     "FFlagViewportToolingFrameworkBetterSlider": "True",
     "DFFlagFastInstanceLists": "True",
     "FFlagLuauFixBindingForGlobalPos_Rollout": "True;60;2024-06-18T20:20:55",
+    "FFlagLuauNormalizeAwayUninhabitableTables_Rollout": "True;60;2024-06-18T20:22:00",
+    "FFlagPluginCalloutBindToCloseCrash2_Rollout": "True;60;2024-06-18T20:25:30",
+    "FFlagVoiceChatEnableSessionConfigFlags_Rollout": "True;60;2024-06-18T20:28:42",
+    "FStringChatAddFriendsBtnClickedCounter": "ChatAddFriendsBtnClickedCommon",
+    "FStringChatEmptyStateScreenRenderedCounter": "ChatEmptyStateScreenRenderedCommon",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13185,8 +13188,8 @@
     "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
     "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
     "FFlagEnableRuntimeThreadVisQueries3": "True",
-    "FStringFlagRepoGitHashFastString": "7f32949e3afeb6fd37dc63c492052393c15b4b75",
-    "DFStringFlagRepoGitHashDynamicString": "7f32949e3afeb6fd37dc63c492052393c15b4b75",
-    "FStringFlipTimeStampFastString": "2024-06-18T20:21:34.183Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-18T20:21:34.183Z"
+    "FStringFlagRepoGitHashFastString": "1c09eb23d0f3a48a9b5235b349a1d01d16e5b1f2",
+    "DFStringFlagRepoGitHashDynamicString": "1c09eb23d0f3a48a9b5235b349a1d01d16e5b1f2",
+    "FStringFlipTimeStampFastString": "2024-06-18T20:39:04.451Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-18T20:39:04.451Z"
 }
