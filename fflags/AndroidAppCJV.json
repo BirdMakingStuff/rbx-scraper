@@ -13029,7 +13029,6 @@
     "FFlagSimValidIndexShouldBeNonNegative": "True",
     "DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure": "True",
     "FStringLuaAppChartsPageExpLayer": "PlayerApp.HomePage.UX",
-    "DFFlagNANOutInertiaData_Rollout": "True;60;2024-06-18T21:36:03",
     "DFFlagCreatorBanNewErrorMessage": "True",
     "FFlagLuauFixBindingForGlobalPos": "True",
     "FFlagVoiceChatEnableSessionConfigFlags": "True",
@@ -13043,6 +13042,7 @@
     "FFlagShareLinkAvatarItemDetailsSupport": "True",
     "FFlagUseNewShortLinkGeneration": "True",
     "FFlagRemoveRBXMathTelemetryDep": "True",
+    "DFFlagNANOutInertiaData": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13632,8 +13632,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "937294b6a99ad5754c670a5c7cbcdc063a563986",
-    "DFStringFlagRepoGitHashDynamicString": "937294b6a99ad5754c670a5c7cbcdc063a563986",
-    "FStringFlipTimeStampFastString": "2024-06-18T22:36:51.121Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-18T22:36:51.121Z"
+    "FStringFlagRepoGitHashFastString": "1d9daf68a6834ac76924a9c547c7c563aa2b616e",
+    "DFStringFlagRepoGitHashDynamicString": "1d9daf68a6834ac76924a9c547c7c563aa2b616e",
+    "FStringFlipTimeStampFastString": "2024-06-18T23:12:25.876Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-18T23:12:25.876Z"
 }
