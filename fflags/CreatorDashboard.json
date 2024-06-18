@@ -1,5 +1,6 @@
 ﻿{
     "enablePreLaunchUgcForAllWarning": "false",
+    "enableUserAds": "false",
     "enableAutomaticTranslationUpdates": "true",
     "enableConfigureCommentCheckBox": "false",
     "enableLocalizationCsvManagement": "true",
