@@ -12914,7 +12914,6 @@
     "FFlagQueryWithCallTunableInitialStateZero": "True",
     "DFFlagReportPath2DAnalyticsEnabled_Perf": "True",
     "DFIntReportPath2DInstanceAPICallsHundrethsPercent": "2500",
-    "FFlagFixOpenWithMenuConsole": "True",
     "DFIntReportPath2DRecomputeTimeHundrethsPercent": "2500",
     "DFFlagReportSimulationRadius": "True",
     "DFFlagExcludeSimulationHeartbeatFromAllOthers": "True",
@@ -12940,7 +12939,6 @@
     "FFlagAddAudioPlayerVolumeProperty": "True",
     "FFlagTerrainEditorErrorHandling3": "True",
     "FFlagSessionTelemetryCounter2": "True",
-    "FFlagEnableNextGenGamePassPurchase": "True",
     "FFlagBaseWrapGetUVs": "True",
     "FFlagAvatarPreviewerReplicateEditorStateOnWorldModel": "True",
     "DFFlagCloneOptimizations": "True",
@@ -13445,7 +13443,6 @@
     "FFlagEnableThirdPartyAssetLoading2_PlaceFilter": "True;16270624805",
     "DFFlagEnableAdsApiClientV2Endpoint": "False",
     "DFFlagEnableAdsApiClientV2Endpoint_PlaceFilter": "True;16270624805",
-    "FFlagAXWidgetsByContext1": "True",
     "DFFlagThirdPartyVideoAdFetchMetrics_PlaceFilter": "True;16270624805",
     "DFIntThirdPartyVideoAdFetchHundredthsPercent_PlaceFilter": "10000;16270624805",
     "DFFlagGltfFlipEulerAngleOrder": "True",
@@ -13455,8 +13452,8 @@
     "FFlagEnableInGameMenuChromeABTest3": "True",
     "FFlagAXRefactorTryOnItems4": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "1d9daf68a6834ac76924a9c547c7c563aa2b616e",
-    "DFStringFlagRepoGitHashDynamicString": "1d9daf68a6834ac76924a9c547c7c563aa2b616e",
-    "FStringFlipTimeStampFastString": "2024-06-18T23:12:25.876Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-18T23:12:25.876Z"
+    "FStringFlagRepoGitHashFastString": "c4f36b4d2ad4a73193bc70f8da090b27c0a9162b",
+    "DFStringFlagRepoGitHashDynamicString": "c4f36b4d2ad4a73193bc70f8da090b27c0a9162b",
+    "FStringFlipTimeStampFastString": "2024-06-19T01:17:39.939Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-19T01:17:39.939Z"
 }
