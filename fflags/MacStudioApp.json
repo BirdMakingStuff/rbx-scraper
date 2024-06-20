@@ -13038,6 +13038,7 @@
     "FFlagUseNewShortLinkGeneration": "True",
     "FFlagRemoveRBXMathTelemetryDep": "True",
     "DFFlagNANOutInertiaData": "True",
+    "FFlagLuauCodegenUserdataOps_Rollout": "True;60;2024-06-20T16:10:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13756,8 +13757,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "18ba4d8dbd20a7618c8fcea80f71a4de76ead996",
-    "DFStringFlagRepoGitHashDynamicString": "18ba4d8dbd20a7618c8fcea80f71a4de76ead996",
-    "FStringFlipTimeStampFastString": "2024-06-19T21:46:23.002Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-19T21:46:23.002Z"
+    "FStringFlagRepoGitHashFastString": "595917d69fa8fa5b9ddd7fd44a0add2182338ff9",
+    "DFStringFlagRepoGitHashDynamicString": "595917d69fa8fa5b9ddd7fd44a0add2182338ff9",
+    "FStringFlipTimeStampFastString": "2024-06-20T16:16:25.804Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-20T16:16:25.804Z"
 }
