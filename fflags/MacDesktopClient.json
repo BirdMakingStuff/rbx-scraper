@@ -13456,10 +13456,8 @@
     "FFlagAXAvatarWidgetTryOn5": "True",
     "FFlagEnableInGameMenuChromeABTest3": "True",
     "FFlagAXRefactorTryOnItems4": "True",
-    "DFFlagEnableAdsApiClientV2Endpoint": "False",
-    "DFFlagEnableAdsApiClientV2Endpoint_PlaceFilter": "True;16270624805",
-    "FStringFlagRepoGitHashFastString": "5d5b97ebe655950640a5a0e031c6bc649353c683",
-    "DFStringFlagRepoGitHashDynamicString": "5d5b97ebe655950640a5a0e031c6bc649353c683",
-    "FStringFlipTimeStampFastString": "2024-06-20T20:12:26.669Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-20T20:12:26.669Z"
+    "FStringFlagRepoGitHashFastString": "600cae22dff2a47281ff1b3c10e0cef4ce5d02e2",
+    "DFStringFlagRepoGitHashDynamicString": "600cae22dff2a47281ff1b3c10e0cef4ce5d02e2",
+    "FStringFlipTimeStampFastString": "2024-06-20T20:51:06.228Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-20T20:51:06.228Z"
 }
