@@ -13027,7 +13027,6 @@
     "DFFlagCreatorBanNewErrorMessage": "True",
     "FFlagLuauFixBindingForGlobalPos": "True",
     "FFlagVoiceChatEnableSessionConfigFlags": "True",
-    "FFlagPluginCalloutBindToCloseCrash2": "True",
     "FFlagDevFrameworkEditTreeItemIdSupport": "True",
     "FIntAppNotificationHighVolumePercentage": "17",
     "FIntAppSelectVolumePercentage": "13",
@@ -13040,6 +13039,7 @@
     "DFFlagNANOutInertiaData": "True",
     "FFlagLuauCodegenUserdataOps_Rollout": "True;60;2024-06-20T16:10:36",
     "FFlagLuaAppChartsPageRenameIXP_Rollout": "True;60;2024-06-20T16:30:26",
+    "FFlagEnableNextGenGamePassPurchase_Rollout": "True;60;2024-06-20T16:53:59",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13769,8 +13769,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "9a8ecf4dbf245a5dcfd954c1810895245c407633",
-    "DFStringFlagRepoGitHashDynamicString": "9a8ecf4dbf245a5dcfd954c1810895245c407633",
-    "FStringFlipTimeStampFastString": "2024-06-20T16:31:38.429Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-20T16:31:38.429Z"
+    "FStringFlagRepoGitHashFastString": "fbf5a582af8cae3f1756a1180d3c05bbd540db41",
+    "DFStringFlagRepoGitHashDynamicString": "fbf5a582af8cae3f1756a1180d3c05bbd540db41",
+    "FStringFlipTimeStampFastString": "2024-06-20T17:15:56.729Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-20T17:15:56.729Z"
 }
