@@ -12871,7 +12871,6 @@
     "FFlagEnableChromePinnedChat": "True",
     "FFlagSelfieViewPreviewShrinkIcon": "True",
     "FFlagStudioMoveGesturesFromOgre2": "True",
-    "FFlagFixReducedMotionStuckIGM": "True",
     "FStringMicrophoneDevicePermissionsLoggingEventName": "microphoneDevicePermissionPromptedV2",
     "FFlagChromeObservableStateCheck": "True",
     "DFFlagAPSNumFrames": "True",
@@ -13048,6 +13047,8 @@
     "FFlagLuaAppChartsExpCustomExposureLog_Rollout": "True;30;2024-06-21T16:37:11",
     "FFlagSimReduceBuffersAPS_Rollout": "True;60;2024-06-21T16:59:01",
     "DFIntRobloxTelemetryStatV2POCRandomOffset_Rollout": "-1000;30;2024-06-21T17:16:23",
+    "FFlagSTFSMEnableAppSessionSuccess_Rollout": "True;60;2024-06-21T17:26:44",
+    "DFIntSessionReportAppSuccessEventIngestThrottleHundredthsPercent_Rollout": "10000;60;2024-06-21T17:26:44",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13556,8 +13557,8 @@
     "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17",
     "FFlagCheckFor0UserIdOnContactImporter": "True",
     "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-21T17:09:50",
-    "FStringFlagRepoGitHashFastString": "8c39a0576c83d59e82100b47d40a09ff00a27037",
-    "DFStringFlagRepoGitHashDynamicString": "8c39a0576c83d59e82100b47d40a09ff00a27037",
-    "FStringFlipTimeStampFastString": "2024-06-21T17:20:28.046Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-21T17:20:28.046Z"
+    "FStringFlagRepoGitHashFastString": "e5d7581e6a0d1195db965db29159fa2134700afd",
+    "DFStringFlagRepoGitHashDynamicString": "e5d7581e6a0d1195db965db29159fa2134700afd",
+    "FStringFlipTimeStampFastString": "2024-06-21T17:37:58.862Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-21T17:37:58.862Z"
 }
