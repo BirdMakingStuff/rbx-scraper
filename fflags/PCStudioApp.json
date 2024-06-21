@@ -13049,7 +13049,7 @@
     "FIntMaxTimestepMultiplierVelocity_PlaceFilter": "4;189707",
     "FFlagManagerAddDisplayOrderAndBackgroundDismiss": "True",
     "DFFlagSimHumanoidTimestepModelUpdate_PlaceFilter": "True;189707",
-    "FFlagSTFSMEnableAppSessionSuccess": "True",
+    "FFlagSTFSMEnableAppSessionSuccess": "False",
     "DFIntSessionReportAppSuccessEventIngestThrottleHundredthsPercent": "10000",
     "DFFlagPlayerHumanoidPropertyUpdateRestrict": "True",
     "FFlagFixAddTagPopupClose": "True",
@@ -13059,7 +13059,6 @@
     "FFlagStudioFixComponentTestOverrideRegistration": "True",
     "DFFlagSimPartCountReportFix": "True",
     "DFFlagHandleTaskSchedulerHangInST": "True",
-    "FFlagSTFSMEnableAppSessionSuccess_Rollout": "False;30;2024-06-21T21:39:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13806,8 +13805,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "d25cf81c3c84a8e57299567f367441a683679a8f",
-    "DFStringFlagRepoGitHashDynamicString": "d25cf81c3c84a8e57299567f367441a683679a8f",
-    "FStringFlipTimeStampFastString": "2024-06-21T21:40:21.201Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-21T21:40:21.201Z"
+    "FStringFlagRepoGitHashFastString": "fb0dc1ab998447143ba407bbdfc898fec2f21304",
+    "DFStringFlagRepoGitHashDynamicString": "fb0dc1ab998447143ba407bbdfc898fec2f21304",
+    "FStringFlipTimeStampFastString": "2024-06-21T22:42:28.285Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-21T22:42:28.285Z"
 }
