@@ -13042,6 +13042,7 @@
     "FFlagLegacyAppShellLogOnRequire": "True",
     "FFlagEnableNextGenGamePassPurchase": "True",
     "FFlagCapsAssistant": "True",
+    "FFlagScriptingCommandBarTelemetry_Rollout": "True;60;2024-06-21T16:20:34",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13445,8 +13446,8 @@
     "FFlagAXAvatarWidgetTryOn5": "True",
     "FFlagEnableInGameMenuChromeABTest3": "True",
     "FFlagAXRefactorTryOnItems4": "True",
-    "FStringFlagRepoGitHashFastString": "600cae22dff2a47281ff1b3c10e0cef4ce5d02e2",
-    "DFStringFlagRepoGitHashDynamicString": "600cae22dff2a47281ff1b3c10e0cef4ce5d02e2",
-    "FStringFlipTimeStampFastString": "2024-06-20T20:51:06.228Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-20T20:51:06.228Z"
+    "FStringFlagRepoGitHashFastString": "457c448689a183dd5b413bef7aaa74f4c1c84533",
+    "DFStringFlagRepoGitHashDynamicString": "457c448689a183dd5b413bef7aaa74f4c1c84533",
+    "FStringFlipTimeStampFastString": "2024-06-21T16:23:57.890Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-21T16:23:57.890Z"
 }
