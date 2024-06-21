@@ -13043,6 +13043,9 @@
     "FFlagEnableNextGenGamePassPurchase": "True",
     "FFlagCapsAssistant": "True",
     "FFlagScriptingCommandBarTelemetry_Rollout": "True;60;2024-06-21T16:20:34",
+    "FFlagCAPThumbnailAssetDataLoaderComponent_Rollout": "True;60;2024-06-21T16:21:19",
+    "FFlagCAPConversationalAIExperimentationComponent2_Rollout": "True;60;2024-06-21T16:24:25",
+    "FFlagLuaAppChartsExpCustomExposureLog_Rollout": "True;30;2024-06-21T16:37:11",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13446,8 +13449,10 @@
     "FFlagAXAvatarWidgetTryOn5": "True",
     "FFlagEnableInGameMenuChromeABTest3": "True",
     "FFlagAXRefactorTryOnItems4": "True",
-    "FStringFlagRepoGitHashFastString": "457c448689a183dd5b413bef7aaa74f4c1c84533",
-    "DFStringFlagRepoGitHashDynamicString": "457c448689a183dd5b413bef7aaa74f4c1c84533",
-    "FStringFlipTimeStampFastString": "2024-06-21T16:23:57.890Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-21T16:23:57.890Z"
+    "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;30;2024-06-21T16:22:04",
+    "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17",
+    "FStringFlagRepoGitHashFastString": "62c1b21c36268616b015887ce054993d3d74adc4",
+    "DFStringFlagRepoGitHashDynamicString": "62c1b21c36268616b015887ce054993d3d74adc4",
+    "FStringFlipTimeStampFastString": "2024-06-21T16:40:16.143Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-21T16:40:16.143Z"
 }
