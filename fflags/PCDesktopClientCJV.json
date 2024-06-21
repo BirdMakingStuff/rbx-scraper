@@ -13046,6 +13046,8 @@
     "FFlagCAPThumbnailAssetDataLoaderComponent_Rollout": "True;60;2024-06-21T16:21:19",
     "FFlagCAPConversationalAIExperimentationComponent2_Rollout": "True;60;2024-06-21T16:24:25",
     "FFlagLuaAppChartsExpCustomExposureLog_Rollout": "True;30;2024-06-21T16:37:11",
+    "FFlagSimReduceBuffersAPS_Rollout": "True;60;2024-06-21T16:59:01",
+    "DFIntRobloxTelemetryStatV2POCRandomOffset_Rollout": "-1000;30;2024-06-21T17:16:23",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13119,6 +13121,7 @@
     "FFlagVoiceChatPeerConnectionTelemetryDetails": "True",
     "FFlagFCSkinningCrashFix": "True",
     "FFlagFastClusterUpdateDurationTelemetry": "True",
+    "FFlagCounterNoInternetConnectionResultsList_Rollout": "True;60;2024-06-21T17:09:50",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13452,8 +13455,8 @@
     "DFFlagSignalArgStorageNoSubmitTask_Rollout": "True;30;2024-06-21T16:22:04",
     "FFlagLuaAppRemoveSeeAllDropdownIXP_Rollout": "True;60;2024-06-21T16:39:17",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "62c1b21c36268616b015887ce054993d3d74adc4",
-    "DFStringFlagRepoGitHashDynamicString": "62c1b21c36268616b015887ce054993d3d74adc4",
-    "FStringFlipTimeStampFastString": "2024-06-21T16:40:16.143Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-21T16:40:16.143Z"
+    "FStringFlagRepoGitHashFastString": "8c39a0576c83d59e82100b47d40a09ff00a27037",
+    "DFStringFlagRepoGitHashDynamicString": "8c39a0576c83d59e82100b47d40a09ff00a27037",
+    "FStringFlipTimeStampFastString": "2024-06-21T17:20:28.046Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-21T17:20:28.046Z"
 }
