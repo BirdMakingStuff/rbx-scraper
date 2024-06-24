@@ -13067,6 +13067,11 @@
     "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking_CrashReporter": "True",
     "FFlagSTUDIOPLAT_34239_ReportHangsToBacktraceOnWindows": "True",
     "FFlagFixPlayerGuiResetCrash": "True",
+    "DFIntReportFrequencyBucketSizePercent_Rollout": "1000;60;2024-06-24T19:27:00",
+    "DFIntSimPhysicsSteppingMethodStatsHundredthsPercentage_Rollout": "1000;60;2024-06-24T19:27:20",
+    "DFIntTeamCreateNewPlaceUploadPublishRolloutHundredthPercent_Rollout": "5000;30;2024-06-24T19:27:31",
+    "DFFlagMicroProfilerMemoryScope_Rollout": "True;30;2024-06-24T19:35:50",
+    "FFlagSetDbgInfoMetal_Rollout": "True;30;2024-06-24T19:36:40",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13618,8 +13623,8 @@
     "FFlagEnableInGameMenuChromeABTest3": "True",
     "FFlagAXAvatarWidgetTryOn5": "True",
     "FFlagAXRefactorTryOnItems4": "True",
-    "FStringFlagRepoGitHashFastString": "c30c687b9f6f5d54b00a8cc09d62c61cf8d2bfda",
-    "DFStringFlagRepoGitHashDynamicString": "c30c687b9f6f5d54b00a8cc09d62c61cf8d2bfda",
-    "FStringFlipTimeStampFastString": "2024-06-24T19:16:16.892Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-24T19:16:16.892Z"
+    "FStringFlagRepoGitHashFastString": "878e8720bdf942a7172c5cccc5915673355640be",
+    "DFStringFlagRepoGitHashDynamicString": "878e8720bdf942a7172c5cccc5915673355640be",
+    "FStringFlipTimeStampFastString": "2024-06-24T19:37:37.743Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-24T19:37:37.743Z"
 }
