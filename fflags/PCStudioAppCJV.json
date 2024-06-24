@@ -13059,6 +13059,8 @@
     "FFlagStudioFixComponentTestOverrideRegistration": "True",
     "DFFlagSimPartCountReportFix": "True",
     "DFFlagHandleTaskSchedulerHangInST": "True",
+    "FFlagRenderOptimizeDecalTransparencyInvalidation_Rollout": "True;60;2024-06-24T16:02:01",
+    "FFlagBB91ImpersonatorLoaderFacetChange_Rollout": "True;60;2024-06-24T16:12:22",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13726,7 +13728,6 @@
     "FFlagCounterNoInternetConnectionResultsList": "True",
     "FFlagSystemOutputControllerComponent2": "True",
     "DFFlagRaiseDisplayReasonLimit": "True",
-    "FFlagReportLuaScriptNameHangs": "True",
     "FFlagExplorerKillSelectionChangedTelemetry": "True",
     "FFlagExplorerFixRename": "True",
     "FFlagEnableExplorerTelemetry2": "True",
@@ -13743,6 +13744,7 @@
     "FFlagAXSearchRefactorForAnalytics": "True",
     "FFlagCollisionGroupNamePropertyItemImprovement": "True",
     "FFlagSTUDIOPLAT_27752_ReportFileDialogVisible": "True",
+    "FFlagLuauAttributeSyntaxFunExpr_Rollout": "True;30;2024-06-24T16:13:36",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13814,8 +13816,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "448949cca367baeda0308a22be2a7728b1f5e37a",
-    "DFStringFlagRepoGitHashDynamicString": "448949cca367baeda0308a22be2a7728b1f5e37a",
-    "FStringFlipTimeStampFastString": "2024-06-22T22:41:09.116Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-22T22:41:09.116Z"
+    "FStringFlagRepoGitHashFastString": "d45658c688db759fa9df77cc9bc077b878a3d045",
+    "DFStringFlagRepoGitHashDynamicString": "d45658c688db759fa9df77cc9bc077b878a3d045",
+    "FStringFlipTimeStampFastString": "2024-06-24T16:24:48.965Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-24T16:24:48.965Z"
 }
