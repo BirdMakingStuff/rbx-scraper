@@ -13059,7 +13059,6 @@
     "FFlagStudioFixComponentTestOverrideRegistration": "True",
     "DFFlagSimPartCountReportFix": "True",
     "DFFlagHandleTaskSchedulerHangInST": "True",
-    "FFlagRenderOptimizeDecalTransparencyInvalidation_Rollout": "True;60;2024-06-24T16:02:01",
     "FFlagBB91ImpersonatorLoaderFacetChange_Rollout": "True;60;2024-06-24T16:12:22",
     "FFlagFixPlayerGuiResetCrash_Rollout": "True;60;2024-06-24T16:23:47",
     "AxisAdornmentGrabSize": "12",
@@ -13083,6 +13082,11 @@
     "DFFlagPhoto2AvatarLogOffense_Rollout": "True;60;2024-06-24T17:16:27",
     "DFFlagCLI120342": "False",
     "FFlagLuauAttributeSyntax": "True",
+    "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-06-24T17:17:31",
+    "FFlagLightgridCPUAsyncUpdate4_Rollout": "True;60;2024-06-24T17:23:23",
+    "FFlagFCSkinningCrashFix_Rollout": "True;60;2024-06-24T17:27:02",
+    "FFlagRenderOptimizeDecalTransparencyInvalidation": "True",
+    "FFlagCheckFirstItemVisibleForPadding_Rollout": "True;30;2024-06-24T17:37:52",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
     "DFFlagDebugVisualizerTrackRotationPredictions": "True",
     "DFFlagDoNotRenderMeshLODByDefault": "True",
@@ -13822,8 +13826,9 @@
     "FIntEventWillSleepThrottling": "10000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "cddb52405422d770142ec87216567caf36dd824d",
-    "DFStringFlagRepoGitHashDynamicString": "cddb52405422d770142ec87216567caf36dd824d",
-    "FStringFlipTimeStampFastString": "2024-06-24T17:18:03.434Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-24T17:18:03.434Z"
+    "FFlagSTUDIOPLAT_27752_ReportFileDialogVisible_Rollout": "True;60;2024-06-24T17:19:46",
+    "FStringFlagRepoGitHashFastString": "0eb5b703bc9b5e45833653d90fd40c69f0d05d2d",
+    "DFStringFlagRepoGitHashDynamicString": "0eb5b703bc9b5e45833653d90fd40c69f0d05d2d",
+    "FStringFlipTimeStampFastString": "2024-06-24T17:39:05.449Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-24T17:39:05.449Z"
 }

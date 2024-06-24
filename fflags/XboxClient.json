@@ -13059,7 +13059,6 @@
     "FFlagStudioFixComponentTestOverrideRegistration": "True",
     "DFFlagSimPartCountReportFix": "True",
     "DFFlagHandleTaskSchedulerHangInST": "True",
-    "FFlagRenderOptimizeDecalTransparencyInvalidation_Rollout": "True;60;2024-06-24T16:02:01",
     "FFlagBB91ImpersonatorLoaderFacetChange_Rollout": "True;60;2024-06-24T16:12:22",
     "FFlagFixPlayerGuiResetCrash_Rollout": "True;60;2024-06-24T16:23:47",
     "DFFlagBanHistoryPagesFinish_Rollout": "True;60;2024-06-24T16:30:24",
@@ -13084,6 +13083,10 @@
     "FFlagGamepadDeviceTypeSelectionFix_Rollout": "True;60;2024-06-24T17:17:08",
     "FFlagLuauAttributeSyntax": "True",
     "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-06-24T17:17:31",
+    "FFlagLightgridCPUAsyncUpdate4_Rollout": "True;60;2024-06-24T17:23:23",
+    "FFlagFCSkinningCrashFix_Rollout": "True;60;2024-06-24T17:27:02",
+    "FFlagRenderOptimizeDecalTransparencyInvalidation": "True",
+    "FFlagCheckFirstItemVisibleForPadding_Rollout": "True;30;2024-06-24T17:37:52",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -13402,8 +13405,8 @@
     "FFlagAXFixSearchResultsBarSpacing1": "True",
     "FFlagAXSearchRefactorForAnalytics": "True",
     "FFlagLuaAppMockUserRemoveDev_Rollout": "True;30;2024-06-24T17:06:35",
-    "FStringFlagRepoGitHashFastString": "6c94ef418bacfc89ec9cd69bd6bacfc4284a24c9",
-    "DFStringFlagRepoGitHashDynamicString": "6c94ef418bacfc89ec9cd69bd6bacfc4284a24c9",
-    "FStringFlipTimeStampFastString": "2024-06-24T17:18:45.392Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-24T17:18:45.392Z"
+    "FStringFlagRepoGitHashFastString": "0eb5b703bc9b5e45833653d90fd40c69f0d05d2d",
+    "DFStringFlagRepoGitHashDynamicString": "0eb5b703bc9b5e45833653d90fd40c69f0d05d2d",
+    "FStringFlipTimeStampFastString": "2024-06-24T17:39:05.449Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-24T17:39:05.449Z"
 }
