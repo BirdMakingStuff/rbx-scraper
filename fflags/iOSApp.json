@@ -12759,7 +12759,7 @@
     "DFStringTeamCreateNewPlaceUploadOptInPlaceIds": "16358775511",
     "EnableAppRatingResizeIXPExperiment": "True",
     "FFlagAppRatingTelemetry": "True",
-    "DFIntTeamCreateNewPlaceUploadPublishRolloutHundredthPercent": "1000",
+    "DFIntTeamCreateNewPlaceUploadPublishRolloutHundredthPercent": "5000",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "DFFlagCLI97615FixTokenDeserializationCondition": "True",
     "FFlagAddFriendsBtnFixSelectionOnConsole": "True",
@@ -13069,7 +13069,6 @@
     "FFlagFixPlayerGuiResetCrash": "True",
     "DFIntReportFrequencyBucketSizePercent_Rollout": "1000;60;2024-06-24T19:27:00",
     "DFIntSimPhysicsSteppingMethodStatsHundredthsPercentage_Rollout": "1000;60;2024-06-24T19:27:20",
-    "DFIntTeamCreateNewPlaceUploadPublishRolloutHundredthPercent_Rollout": "5000;30;2024-06-24T19:27:31",
     "DFFlagMicroProfilerMemoryScope_Rollout": "True;30;2024-06-24T19:35:50",
     "FFlagSetDbgInfoMetal_Rollout": "True;30;2024-06-24T19:36:40",
     "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-06-24T19:38:43",
@@ -13080,6 +13079,7 @@
     "FFlagSTUDIOPLAT_34529_ProtectCrashreporterDestruction_Rollout": "True;60;2024-06-24T20:10:59",
     "DFIntRobloxTelemetryStatV2POCRandomOffset_Rollout": "2000;30;2024-06-24T20:17:41",
     "FFlagSTUDIOPLAT_34770_TrackMonitorOnOffEventsOnMac": "False",
+    "FFlagFixLayoutNodeInstanceCrash_Rollout": "True;60;2024-06-24T20:37:39",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13595,8 +13595,9 @@
     "FFlagAXFixSearchResultsBarSpacing1": "True",
     "FFlagAXSearchRefactorForAnalytics": "True",
     "FFlagEnableHarmonyOnFrameRateManager4_Rollout": "True;60;2024-06-24T19:39:37",
-    "FStringFlagRepoGitHashFastString": "960bb4320b899ac7b9c719d01092c03a2f1de95e",
-    "DFStringFlagRepoGitHashDynamicString": "960bb4320b899ac7b9c719d01092c03a2f1de95e",
-    "FStringFlipTimeStampFastString": "2024-06-24T20:18:52.887Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-24T20:18:52.887Z"
+    "FFlagUseCatalogItemDetailsToResolveBundlePurchase_Rollout": "True;60;2024-06-24T20:34:34",
+    "FStringFlagRepoGitHashFastString": "8d4aaa8165e94c0e42b91aa98d01ef1b2d71b8bf",
+    "DFStringFlagRepoGitHashDynamicString": "8d4aaa8165e94c0e42b91aa98d01ef1b2d71b8bf",
+    "FStringFlipTimeStampFastString": "2024-06-24T20:38:53.738Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-24T20:38:53.738Z"
 }
