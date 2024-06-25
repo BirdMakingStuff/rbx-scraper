@@ -12925,7 +12925,6 @@
     "DFFlagVoiceReliabilityTelemetryEventIngest": "True",
     "DFIntVoicePublishReliabilityEventThrottleHundredthsPercent": "10000",
     "DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent": "10000",
-    "FFlagChatTranslationForceSetting": "True",
     "FFlagChatTranslationNewDefaults": "True",
     "FFlagChatTranslationWaitForIXP": "True",
     "FFlagChangePlayerNameToDisplayName": "True",
@@ -13103,6 +13102,7 @@
     "FFlagStudioFixPlaceManagerSaveCrashes_Rollout": "True;60;2024-06-25T17:05:16",
     "FFlagQualityFiltersFixInResultsView_Rollout": "True;60;2024-06-25T17:13:17",
     "AllowVideoPreRoll": "True",
+    "FFlagLuaAppDefaultSelectionCursor_Rollout": "True;30;2024-06-25T17:29:20",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13848,8 +13848,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "7e86cc853f8916826313339bf807c0a0b4b5b884",
-    "DFStringFlagRepoGitHashDynamicString": "7e86cc853f8916826313339bf807c0a0b4b5b884",
-    "FStringFlipTimeStampFastString": "2024-06-25T17:17:05.771Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-25T17:17:05.771Z"
+    "FStringFlagRepoGitHashFastString": "5b6897525561bffd6c4c43c91ad9bfa15d2805ee",
+    "DFStringFlagRepoGitHashDynamicString": "5b6897525561bffd6c4c43c91ad9bfa15d2805ee",
+    "FStringFlipTimeStampFastString": "2024-06-25T17:36:44.676Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-25T17:36:44.676Z"
 }
