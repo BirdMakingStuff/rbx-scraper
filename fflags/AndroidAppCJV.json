@@ -13107,11 +13107,13 @@
     "FFlagVoiceChatPeerConnectionTelemetryDetails_Rollout": "True;60;2024-06-25T19:46:20",
     "FFlagLuaAppFixNavigationUidLogging": "True",
     "FFlagFixTextNilCrash2_Rollout": "True;60;2024-06-25T19:46:48",
-    "DFFlagAbuseReportInExperienceStateCaptureMode_Rollout": "True;30;2024-06-25T19:46:52",
     "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;60;2024-06-25T19:59:16",
     "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
     "FFlagAXWidgetItemsPerRowLowerBound": "True",
     "FFlagSyncStorageWithSystemLocale_Rollout": "True;60;2024-06-25T20:23:13",
+    "FFlagUseCachedAudibilityMeasurements_Rollout": "True;60;2024-06-25T20:45:16",
+    "FFlagTrackDistanceAttenuationTelemetry_Rollout": "True;60;2024-06-25T20:46:34",
+    "DFFlagAbuseReportInExperienceStateCaptureMode": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13704,8 +13706,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "179a16e95fd287ee059baf409f1b9c427e0d134b",
-    "DFStringFlagRepoGitHashDynamicString": "179a16e95fd287ee059baf409f1b9c427e0d134b",
-    "FStringFlipTimeStampFastString": "2024-06-25T20:39:46.158Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-25T20:39:46.158Z"
+    "FStringFlagRepoGitHashFastString": "c3e3f898a953df73536954967f354de68514b264",
+    "DFStringFlagRepoGitHashDynamicString": "c3e3f898a953df73536954967f354de68514b264",
+    "FStringFlipTimeStampFastString": "2024-06-25T21:18:09.042Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-25T21:18:09.042Z"
 }
