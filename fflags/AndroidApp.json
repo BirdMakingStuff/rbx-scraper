@@ -12955,7 +12955,6 @@
     "FFlagFixMicSelection": "True",
     "FFlagUsePolishedAnimations": "True",
     "FFlagWindowFixes": "True",
-    "FFlagClientTokenFromHeader33_PlaceFilter": "True;151748951",
     "FFlagFinishRolloutsForStaleFlags2": "True",
     "FIntStaleRolloutTimeSeconds": "7200",
     "FFlagSimSolverDecreasePartMinimumDensityPhasedRollout2": "True",
@@ -13112,6 +13111,7 @@
     "FFlagMoveUpdateCheckToUniversalApp_Rollout": "True;60;2024-06-25T19:59:16",
     "FFlagAXCloseTryOnManagerWhenUnselectingLook": "True",
     "FFlagAXWidgetItemsPerRowLowerBound": "True",
+    "FFlagSyncStorageWithSystemLocale_Rollout": "True;60;2024-06-25T20:23:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13672,8 +13672,8 @@
     "FFlagAXAvatarEventIngestService_Rollout": "True;30;2024-06-25T19:31:16",
     "FFlagAXHideSeeAllIfTooFewItems": "True",
     "FFlagAXRedesignWidgetDividers2": "True",
-    "FStringFlagRepoGitHashFastString": "5c0082caa89c3c9404992a3d22ec66efca45a631",
-    "DFStringFlagRepoGitHashDynamicString": "5c0082caa89c3c9404992a3d22ec66efca45a631",
-    "FStringFlipTimeStampFastString": "2024-06-25T20:13:07.115Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-25T20:13:07.115Z"
+    "FStringFlagRepoGitHashFastString": "bbd0203a6c8a6a712b9bdf194369f522bfa86d32",
+    "DFStringFlagRepoGitHashDynamicString": "bbd0203a6c8a6a712b9bdf194369f522bfa86d32",
+    "FStringFlipTimeStampFastString": "2024-06-25T20:36:40.180Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-25T20:36:40.180Z"
 }
