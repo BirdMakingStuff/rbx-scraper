@@ -13180,6 +13180,7 @@
     "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
     "FFlagAXAvatarLevel3Sessionization": "True",
     "FFlagLuaAppMockUserRemoveDev": "True",
+    "FFlagNavigationIncorrectPolyRefPathfindingLink_Rollout": "True;60;2024-06-25T16:42:10",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13519,8 +13520,8 @@
     "FFlagAXWidgetsByContextRouteFix": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "702f61109a09b37acc06327e1f00acbdf278ac86",
-    "DFStringFlagRepoGitHashDynamicString": "702f61109a09b37acc06327e1f00acbdf278ac86",
-    "FStringFlipTimeStampFastString": "2024-06-25T16:21:46.301Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-25T16:21:46.301Z"
+    "FStringFlagRepoGitHashFastString": "012d6cbe26882c0930525224ff998e5f5ede7e24",
+    "DFStringFlagRepoGitHashDynamicString": "012d6cbe26882c0930525224ff998e5f5ede7e24",
+    "FStringFlipTimeStampFastString": "2024-06-25T16:42:37.930Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-25T16:42:37.930Z"
 }
