@@ -13061,7 +13061,6 @@
     "DFFlagHandleTaskSchedulerHangInST": "True",
     "FIntUnexpectedLuaFileRequiredErrorThrottleHundrethsPercent": "500",
     "FFlagLuauAttributeSyntax": "True",
-    "FFlagRenderOptimizeDecalTransparencyInvalidation": "True",
     "FFlagBB91ImpersonatorLoaderFacetChange": "True",
     "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking": "True",
     "FFlagSTUDIOPLAT_34239_RemoveUnusedActionTracking_CrashReporter": "True",
@@ -13077,7 +13076,7 @@
     "FFlagShareExperienceInviteLinkPolicy": "True",
     "FFlagEnableNewChatTabExperiment5": "True",
     "FFlagHumanoidDescriptionResetIncludesBodyParts": "True",
-    "FFlagRuppFromServer24_DataCenterFilter": "True;361",
+    "FFlagRuppFromServer24_DataCenterFilter": "True;361;369",
     "FFlagFixReloadChatOnConflict": "True",
     "FFlagSTUDIOPLAT_34529_ProtectCrashreporterDestruction": "True",
     "FFlagCheckFirstItemVisibleForPadding": "True",
@@ -13316,8 +13315,8 @@
     "FFlagAXPersistentCatalogFiltersIXPEnabled2": "True",
     "FFlagRemoveMemoryPrioritizationDependencyFromPerformanceControl3": "True",
     "FFlagEnableInGameMenuChromeABTest3": "True",
-    "FStringFlagRepoGitHashFastString": "93371ee8151a3d6fea6082ef59ce78523771d624",
-    "DFStringFlagRepoGitHashDynamicString": "93371ee8151a3d6fea6082ef59ce78523771d624",
-    "FStringFlipTimeStampFastString": "2024-06-25T01:26:56.992Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-25T01:26:56.992Z"
+    "FStringFlagRepoGitHashFastString": "702f61109a09b37acc06327e1f00acbdf278ac86",
+    "DFStringFlagRepoGitHashDynamicString": "702f61109a09b37acc06327e1f00acbdf278ac86",
+    "FStringFlipTimeStampFastString": "2024-06-25T16:21:46.301Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-25T16:21:46.301Z"
 }
