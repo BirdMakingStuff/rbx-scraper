@@ -13097,6 +13097,12 @@
     "FFlagLuauCheckedEmbeddedDefinitions2": "True",
     "DFFlagSimWakeAssembliesDequeOptimization": "True",
     "FFlagCAPConversationalAIModelComponent4": "True",
+    "DFFlagVideoCaptureReportRemoveExtraCall_Rollout": "True;60;2024-06-25T16:44:54",
+    "DFFlagIkLimitFixBadCache_Rollout": "True;60;2024-06-25T16:45:20",
+    "FFlagStudioRemovePscFromDiagnostics_Rollout": "True;60;2024-06-25T17:05:12",
+    "FFlagStudioFixPlaceManagerSaveCrashes_Rollout": "True;60;2024-06-25T17:05:16",
+    "FFlagQualityFiltersFixInResultsView_Rollout": "True;60;2024-06-25T17:13:17",
+    "FFlagGamepadDeviceTypeSelectionFix_Rollout": "True;60;2024-06-25T17:16:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13651,6 +13657,7 @@
     "FFlagEnableHarmonyOnFrameRateManager4": "True",
     "FIntVkErrorEventsThrottleHundredthsPercent": "500",
     "DFFlagHttpBlockWhenAppSuspended": "True",
+    "DFIntDebugSimSolverMinFlopsToSpawnLDLThread_Rollout": "6500;60;2024-06-25T17:04:57",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -13683,8 +13690,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "012d6cbe26882c0930525224ff998e5f5ede7e24",
-    "DFStringFlagRepoGitHashDynamicString": "012d6cbe26882c0930525224ff998e5f5ede7e24",
-    "FStringFlipTimeStampFastString": "2024-06-25T16:42:37.930Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-25T16:42:37.930Z"
+    "FStringFlagRepoGitHashFastString": "7e86cc853f8916826313339bf807c0a0b4b5b884",
+    "DFStringFlagRepoGitHashDynamicString": "7e86cc853f8916826313339bf807c0a0b4b5b884",
+    "FStringFlipTimeStampFastString": "2024-06-25T17:17:05.771Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-25T17:17:05.771Z"
 }
