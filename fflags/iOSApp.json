@@ -13128,6 +13128,8 @@
     "FFlagEnablePSUpdateAdapter": "True",
     "FFlagLuaAppTextLabelHeightIsOffset3": "True",
     "DFFlagReportSharedStringBreakdown2": "True",
+    "FFlagScriptProfilerUseNewAPI_Rollout": "True;60;2024-06-26T16:44:22",
+    "FFlagUIBloxUseNewInteractableCoreScript_Rollout": "True;60;2024-06-26T17:07:20",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13665,8 +13667,11 @@
     "FFlagAXCounterBeforeSharingSheet": "True",
     "FFlagPYMKCarouselLoadingEvents": "True",
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01",
-    "FStringFlagRepoGitHashFastString": "b3db7f797dfa93a35ce8ca8f7766c9955c893505",
-    "DFStringFlagRepoGitHashDynamicString": "b3db7f797dfa93a35ce8ca8f7766c9955c893505",
-    "FStringFlipTimeStampFastString": "2024-06-26T16:41:33.219Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-26T16:41:33.219Z"
+    "DFFlagRandomNewSeedLimitReport_Rollout": "True;30;2024-06-26T16:55:29",
+    "DFFlagRandomNewSeedLimitReportOnce_Rollout": "True;60;2024-06-26T16:59:08",
+    "FFlagLuaAppConsoleSupportRFY4_Rollout": "True;60;2024-06-26T17:16:50",
+    "FStringFlagRepoGitHashFastString": "e77fceb3c1850f700d072666ec67d8a6bf1f59dd",
+    "DFStringFlagRepoGitHashDynamicString": "e77fceb3c1850f700d072666ec67d8a6bf1f59dd",
+    "FStringFlipTimeStampFastString": "2024-06-26T17:17:26.333Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-26T17:17:26.333Z"
 }
