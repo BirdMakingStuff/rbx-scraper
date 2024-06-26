@@ -12534,7 +12534,7 @@
     "DFFlagPacketErrorProgressServer": "True",
     "FFlagSoundManagerVolumeFix": "True",
     "FFlagFixAudioPlayerPreloadAsync": "True",
-    "FFlagMyDummyFlag": "True",
+    "FFlagMyDummyFlag": "False",
     "DFFlagPhoto2AvatarCounterAndStats": "True",
     "DFFlagPhoto2AvatarDeleteResultFiles": "True",
     "DFIntPhoto2AvatarEventsThrottleHundredthsPercent": "0",
@@ -13132,7 +13132,6 @@
     "FFlagLuaAppOmniFeedLoadMoreRows": "True",
     "FFlagSocialLuaAnalyticsAddPlatformValueFix": "True",
     "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
-    "FFlagSimUseFactoryMethodForListInArray_Rollout": "True;60;2024-06-26T19:50:48",
     "FFlagEnableVRToggleForVRInitialization": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -13565,8 +13564,8 @@
     "FFlagWinFixTIIRegression0529": "True",
     "FFlagProfileTrackLoadingTime_v1": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "5e359b63f6697d554b025dc6f64596ad02721ffc",
-    "DFStringFlagRepoGitHashDynamicString": "5e359b63f6697d554b025dc6f64596ad02721ffc",
-    "FStringFlipTimeStampFastString": "2024-06-26T20:39:23.697Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-26T20:39:23.697Z"
+    "FStringFlagRepoGitHashFastString": "aafaeb0f8b96221b9409d55eaf2aa0454b765801",
+    "DFStringFlagRepoGitHashDynamicString": "aafaeb0f8b96221b9409d55eaf2aa0454b765801",
+    "FStringFlipTimeStampFastString": "2024-06-26T20:52:41.377Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-26T20:52:41.377Z"
 }
