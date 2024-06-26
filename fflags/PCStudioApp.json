@@ -13073,7 +13073,7 @@
     "FFlagShareExperienceInviteLinkPolicy": "True",
     "FFlagEnableNewChatTabExperiment5": "True",
     "FFlagHumanoidDescriptionResetIncludesBodyParts": "True",
-    "FFlagRuppFromServer24_DataCenterFilter": "True;361;369;265",
+    "FFlagRuppFromServer24_DataCenterFilter": "True;361;369;265;353",
     "FFlagFixReloadChatOnConflict": "True",
     "FFlagSTUDIOPLAT_34529_ProtectCrashreporterDestruction": "True",
     "FFlagCheckFirstItemVisibleForPadding": "True",
@@ -13813,6 +13813,8 @@
     "FFlagAXRedesignWidgetDividers2": "True",
     "FFlagDevFrameworkLimitDropdownHeightFix": "True",
     "FFlagDevFrameworkMaterialActionAsTool": "True",
+    "FFlagCAPConvAiExperimentBackendRename_Rollout": "True;60;2024-06-26T16:34:21",
+    "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "1000;60;2024-06-26T16:41:01",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13881,8 +13883,8 @@
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
     "FFlagPrintFileAndLineForClampedColorValues": "True",
-    "FStringFlagRepoGitHashFastString": "e2332521732edd14a9dfe05c44b3c221004e1279",
-    "DFStringFlagRepoGitHashDynamicString": "e2332521732edd14a9dfe05c44b3c221004e1279",
-    "FStringFlipTimeStampFastString": "2024-06-26T01:11:59.819Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-26T01:11:59.819Z"
+    "FStringFlagRepoGitHashFastString": "b3db7f797dfa93a35ce8ca8f7766c9955c893505",
+    "DFStringFlagRepoGitHashDynamicString": "b3db7f797dfa93a35ce8ca8f7766c9955c893505",
+    "FStringFlipTimeStampFastString": "2024-06-26T16:41:33.219Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-26T16:41:33.219Z"
 }
