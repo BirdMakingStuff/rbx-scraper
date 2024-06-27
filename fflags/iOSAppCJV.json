@@ -13144,7 +13144,6 @@
     "FFlagAimMigrateUploadApiToPublishService_Rollout": "True;60;2024-06-27T18:15:07",
     "FFlagUnpinUnavailable": "True",
     "FFlagCollisionGroupNamePropertyItemImprovement_Rollout": "True;60;2024-06-27T18:20:58",
-    "FFlagPrintFileAndLineForClampedColorValues_Rollout": "True;30;2024-06-27T18:24:34",
     "FFlagVoiceChatCustomAudioMixerEnableUpdateSourcesTelemetry_Rollout": "True;60;2024-06-27T18:30:01",
     "FFlagVoiceChatCustomAudioDeviceEnableNeedMorePlayoutTelemetry2_Rollout": "True;60;2024-06-27T18:32:03",
     "FFlagFaceAnimatorUseVideoBufferPool": "True",
@@ -13161,6 +13160,7 @@
     "FFlagTextureGeneratorReturnPartGroupSkipInvalidParts1": "True",
     "FFlagEditProfileDisplayNameErrorMessages": "True",
     "FFlagEnableSaveUserPins2": "True",
+    "FFlagPrintFileAndLineForClampedColorValues": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13749,8 +13749,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "343410476dd7b5979161be8a5da41bcff0871f93",
-    "DFStringFlagRepoGitHashDynamicString": "343410476dd7b5979161be8a5da41bcff0871f93",
-    "FStringFlipTimeStampFastString": "2024-06-27T19:17:34.385Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-27T19:17:34.385Z"
+    "FStringFlagRepoGitHashFastString": "34fbabfe10612f106b477706b1cd829ac89d66d8",
+    "DFStringFlagRepoGitHashDynamicString": "34fbabfe10612f106b477706b1cd829ac89d66d8",
+    "FStringFlipTimeStampFastString": "2024-06-27T19:32:24.923Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-27T19:32:24.923Z"
 }
