@@ -11611,7 +11611,7 @@
     "DFFlagEnableRealWorldCommercePOC": "False",
     "DFFlagEnableRealWorldCommercePOC_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
     "DFStringInExperienceRealWorldCommerceUrlAllowlist": "",
-    "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,myshopify.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
+    "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,thingmade.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
     "FFlagScriptProfilerMobileSettingsUI": "True",
     "FFlagUseLargerCDLCodeFontForVRV2": "True",
     "FFlagErrorPromptResizesHeight": "True",
@@ -13133,6 +13133,7 @@
     "FFlagSocialLuaAnalyticsAddPlatformValueFix": "True",
     "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
     "FFlagEnableVRToggleForVRInitialization": "True",
+    "FFlagEnableOptionalVRDeviceCreation_Rollout": "True;60;2024-06-26T23:49:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13720,8 +13721,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
-    "FStringFlagRepoGitHashFastString": "aafaeb0f8b96221b9409d55eaf2aa0454b765801",
-    "DFStringFlagRepoGitHashDynamicString": "aafaeb0f8b96221b9409d55eaf2aa0454b765801",
-    "FStringFlipTimeStampFastString": "2024-06-26T20:52:41.377Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-26T20:52:41.377Z"
+    "FStringFlagRepoGitHashFastString": "fca3d477d0daea47d705b0eb432b1c4648ebe57d",
+    "DFStringFlagRepoGitHashDynamicString": "fca3d477d0daea47d705b0eb432b1c4648ebe57d",
+    "FStringFlipTimeStampFastString": "2024-06-26T23:56:01.726Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-26T23:56:01.726Z"
 }
