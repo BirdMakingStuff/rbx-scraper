@@ -9260,7 +9260,6 @@
     "FFlagCAPAddTutorialWorkflowLinks": "True",
     "FFlagPluginCalloutCustomOnShutdown": "True",
     "FFlagStudioNotificationsBetaFeature": "True",
-    "FFlagRuntimeStmExpEnabled1": "True",
     "DFIntRuntimeConcurrency": "2",
     "FStringStudioNotificationsBetaFeatureUrl": "https://devforum.roblox.com/t/studio-notification-tray-overhaul-beta/2725944",
     "FFlagAXBypassScrollPanel": "True",
@@ -13779,8 +13778,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "e141394723b6559cffe53425da7f4c6cef90549b",
-    "DFStringFlagRepoGitHashDynamicString": "e141394723b6559cffe53425da7f4c6cef90549b",
-    "FStringFlipTimeStampFastString": "2024-06-28T16:22:29.230Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-28T16:22:29.230Z"
+    "FStringFlagRepoGitHashFastString": "2d06103e15f21cb35a7982c6b664abf3db86441d",
+    "DFStringFlagRepoGitHashDynamicString": "2d06103e15f21cb35a7982c6b664abf3db86441d",
+    "FStringFlipTimeStampFastString": "2024-06-28T16:26:03.978Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-28T16:26:03.978Z"
 }
