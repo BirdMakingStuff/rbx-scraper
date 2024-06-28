@@ -13165,8 +13165,6 @@
     "DFFlagRandomNewSeedConsistentArm": "True",
     "FFlagOnContactTouchedUntouched": "True",
     "FFlagAffineSkinning5": "True",
-    "FFlagSimIslandReIntegration2_Rollout": "True;60;2024-06-28T17:41:47",
-    "FFlagGCRemovalTimeLimit2_Rollout": "True;60;2024-06-28T17:47:12",
     "FFlagAnalyticsServiceForClient_PlaceFilter": "True;16571223438",
     "FFlagReportTotalMemoryInBytes": "True",
     "FFlagToolboxContextualRecommendationsShadowTraffic": "True",
@@ -13174,6 +13172,8 @@
     "FFlagFixPluginDependencyInNcgMetrics": "True",
     "FFlagPresentPluginGuisQuicker": "True",
     "FFlagUseCorrectDataModelForAuxiliaryWindows": "True",
+    "FFlagSimIslandReIntegration2": "True",
+    "FFlagGCRemovalTimeLimit2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13743,8 +13743,8 @@
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "FFlagProfileTrackLoadingTime_v1": "True",
     "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
-    "FStringFlagRepoGitHashFastString": "9e3983b41d199f52192cb7283e463cf42eab81b9",
-    "DFStringFlagRepoGitHashDynamicString": "9e3983b41d199f52192cb7283e463cf42eab81b9",
-    "FStringFlipTimeStampFastString": "2024-06-28T19:11:54.605Z",
-    "DFStringFlipTimeStampDynamicString": "2024-06-28T19:11:54.605Z"
+    "FStringFlagRepoGitHashFastString": "19f850ada1b7867be42b860df9cd69b63368bc33",
+    "DFStringFlagRepoGitHashDynamicString": "19f850ada1b7867be42b860df9cd69b63368bc33",
+    "FStringFlipTimeStampFastString": "2024-06-28T19:21:25.417Z",
+    "DFStringFlipTimeStampDynamicString": "2024-06-28T19:21:25.417Z"
 }
