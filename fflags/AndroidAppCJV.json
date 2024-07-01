@@ -13186,13 +13186,13 @@
     "FStringChatDetailsLeaveGroupBtnClickedCounter": "ChatDetailsLeaveGroupBtnClickedAndroid",
     "FFlagEnableNewChatDetailsEvents": "True",
     "FFlagStudioHasItsOwnMasterVolume2": "True",
-    "FLogPluginWidgetCleanup_Rollout": "Verbose,6;60;2024-07-01T19:04:12",
     "FFlagRuppFromServer24_Rollout": "True;60;2024-07-01T19:10:26",
     "FFlagLuaAppSettingsPageFocusNavigationFix": "True",
     "DFFlagRandomNewSeedMapInvalidToZero": "True",
     "FFlagUseImprovedLazyComponent": "True",
     "FFlagMaterialGeneratorValidateCacheEntry": "True",
     "FFlagDeprecateAvatarImport": "True",
+    "FLogPluginWidgetCleanup": "Verbose,6",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13793,8 +13793,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "3a318de500f2a8784f0725989099d0ec6d3406f1",
-    "DFStringFlagRepoGitHashDynamicString": "3a318de500f2a8784f0725989099d0ec6d3406f1",
-    "FStringFlipTimeStampFastString": "2024-07-01T19:51:40.917Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-01T19:51:40.917Z"
+    "FStringFlagRepoGitHashFastString": "30fed6bb980d4f7829fe5df536059bcf9716539a",
+    "DFStringFlagRepoGitHashDynamicString": "30fed6bb980d4f7829fe5df536059bcf9716539a",
+    "FStringFlipTimeStampFastString": "2024-07-01T20:36:41.638Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-01T20:36:41.638Z"
 }
