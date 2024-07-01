@@ -126,6 +126,7 @@
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "DFFlagRandomNewSeedLimitWarn": "True",
     "DFFlagContentProviderPriorityListFix": "True",
+    "FFlagAXFixUnitsAvailableForConsumption_Rollout": "True;60;2024-07-01T18:49:25",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -141,8 +142,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FStringFlagRepoGitHashFastString": "7760ebbdb455ed718c2c71175d2d1169760df4ed",
-    "DFStringFlagRepoGitHashDynamicString": "7760ebbdb455ed718c2c71175d2d1169760df4ed",
-    "FStringFlipTimeStampFastString": "2024-07-01T18:36:12.106Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-01T18:36:12.106Z"
+    "FStringFlagRepoGitHashFastString": "f9f4605a62d695ff636e5270cee6ce440a20456a",
+    "DFStringFlagRepoGitHashDynamicString": "f9f4605a62d695ff636e5270cee6ce440a20456a",
+    "FStringFlipTimeStampFastString": "2024-07-01T19:16:43.978Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-01T19:16:43.978Z"
 }
