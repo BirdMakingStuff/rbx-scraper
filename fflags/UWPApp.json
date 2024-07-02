@@ -12498,7 +12498,6 @@
     "FFlagScriptProfilerPluginAnnotation": "True",
     "FFlagAddArialToLegacyContent": "True",
     "FFlagAddGothamToLegacyContent": "True",
-    "FFlagScriptProfilerShowPlugins2": "True",
     "FFlagScriptProfilerRememberExpandedNodes2": "True",
     "DFFlagEnableCaptureServiceServerEventsHandling": "True",
     "FFlagScriptProfilerNewAPIAccess": "True",
@@ -13203,6 +13202,7 @@
     "DFFlagTeleportMarketPlacePermissionDependencyRemoved": "True",
     "DFFlagTeleportThirdPartyPermissionCheckDisabled": "True",
     "FFlagRobloxTelemetryDualWritePointToV2_Rollout": "True;60;2024-07-02T16:13:36",
+    "FFlagStudioRendererWindowManager3_Rollout": "True;60;2024-07-02T16:28:22",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13424,8 +13424,8 @@
     "FFlagAXRefactorTryOnItems4": "True",
     "DFFlagContentProviderPriorityListFix": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
-    "FStringFlagRepoGitHashFastString": "3c627e16b81e1db0815676c61260d0d6f50a565b",
-    "DFStringFlagRepoGitHashDynamicString": "3c627e16b81e1db0815676c61260d0d6f50a565b",
-    "FStringFlipTimeStampFastString": "2024-07-02T16:16:13.313Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-02T16:16:13.313Z"
+    "FStringFlagRepoGitHashFastString": "018f34487d03c2d45b67a2ae257962bf598d7273",
+    "DFStringFlagRepoGitHashDynamicString": "018f34487d03c2d45b67a2ae257962bf598d7273",
+    "FStringFlipTimeStampFastString": "2024-07-02T16:41:32.273Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-02T16:41:32.273Z"
 }
