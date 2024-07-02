@@ -11601,7 +11601,7 @@
     "DFFlagEnableRealWorldCommercePOC": "False",
     "DFFlagEnableRealWorldCommercePOC_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
     "DFStringInExperienceRealWorldCommerceUrlAllowlist": "",
-    "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,thingmade.com,www.store.thingmade.com,elfcosmetics.com,development.elfcosmetics.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
+    "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,thingmade.com,www.store.thingmade.com,elfcosmetics.com,development.elfcosmetics.com,www.elfcosmetics.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630",
     "FFlagScriptProfilerMobileSettingsUI": "True",
     "FFlagUseLargerCDLCodeFontForVRV2": "True",
     "FFlagErrorPromptResizesHeight": "True",
@@ -13208,6 +13208,7 @@
     "FFlagExcessFmodAllocsTriggerOom_Rollout": "True;60;2024-07-02T18:22:01",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
+    "FFlagRealMobileOutline4_Rollout": "True;60;2024-07-02T18:54:28",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13318,6 +13319,7 @@
     "FFlagAXFixUnitsAvailableForConsumption": "True",
     "FFlagEnableFlagParseTiming": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
+    "FFlagSyncSubStateOnVoiceJoin_Rollout": "True;60;2024-07-02T18:50:18",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -13661,8 +13663,8 @@
     "FFlagDeprecateMidPhaseCollection": "True",
     "FFlagLuaAppGameCarouselUseFormula2": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "cbea8756385dbb4d7027cb60043e29c9660b31c2",
-    "DFStringFlagRepoGitHashDynamicString": "cbea8756385dbb4d7027cb60043e29c9660b31c2",
-    "FStringFlipTimeStampFastString": "2024-07-02T18:41:30.024Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-02T18:41:30.024Z"
+    "FStringFlagRepoGitHashFastString": "8267858875c7217eeb0fde310a3b45fadcd4c7b8",
+    "DFStringFlagRepoGitHashDynamicString": "8267858875c7217eeb0fde310a3b45fadcd4c7b8",
+    "FStringFlipTimeStampFastString": "2024-07-02T19:07:10.641Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-02T19:07:10.641Z"
 }
