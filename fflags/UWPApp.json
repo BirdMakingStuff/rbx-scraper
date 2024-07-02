@@ -13203,7 +13203,6 @@
     "DFFlagTeleportThirdPartyPermissionCheckDisabled": "True",
     "FFlagUseCachedAudibilityMeasurements_PlaceFilter": "False;13546288145",
     "FFlagStudioRendererWindowManager3": "True",
-    "FFlagRealMobileOutline4_Rollout": "True;60;2024-07-02T18:54:28",
     "FFlagUseCachedAudibilityMeasurements": "True",
     "DFFlagVoiceChatCullingDisableTransportSends_Rollout": "True;60;2024-07-02T19:35:07",
     "FFlagStudioNoLegacyLockConstructingPlayersDataManager3": "True",
@@ -13211,6 +13210,7 @@
     "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
     "FFlagPYMKCarouselLoadingEvents": "True",
     "FFlagFixCatalogContextItemReportURLConstruction_Rollout": "True;60;2024-07-02T20:14:44",
+    "FFlagRealMobileOutline4": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13432,8 +13432,8 @@
     "FFlagAXRefactorTryOnItems4": "True",
     "DFFlagContentProviderPriorityListFix": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
-    "FStringFlagRepoGitHashFastString": "de84fc97973b2a26a7da1461d311a34b67a59de0",
-    "DFStringFlagRepoGitHashDynamicString": "de84fc97973b2a26a7da1461d311a34b67a59de0",
-    "FStringFlipTimeStampFastString": "2024-07-02T20:15:27.931Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-02T20:15:27.931Z"
+    "FStringFlagRepoGitHashFastString": "ce24e6f54daa4b1414bf1cb1756543ff34f57f48",
+    "DFStringFlagRepoGitHashDynamicString": "ce24e6f54daa4b1414bf1cb1756543ff34f57f48",
+    "FStringFlipTimeStampFastString": "2024-07-02T20:37:26.637Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-02T20:37:26.637Z"
 }
