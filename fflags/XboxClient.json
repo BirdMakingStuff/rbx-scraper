@@ -13199,9 +13199,9 @@
     "FFlagStudioWithUiContextRemoveShortCircuit": "True",
     "FFlagAXAvatarLevel3Sessionization": "True",
     "FFlagAXAvatarEventIngestService": "True",
-    "DFFlagTeleportMarketPlacePermissionDependencyRemoved_Rollout": "True;1;2024-07-01T23:30:10",
-    "DFFlagTeleportThirdPartyPermissionCheckDisabled_Rollout": "True;30;2024-07-01T23:35:03",
     "FFlagStudioCleanupPluginWidgetImmediately": "True",
+    "DFFlagTeleportMarketPlacePermissionDependencyRemoved": "True",
+    "DFFlagTeleportThirdPartyPermissionCheckDisabled": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13530,8 +13530,8 @@
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "FFlagFriendsCarouselLoadingEventPlatformSpecificity": "True",
     "DFFlagContentProviderPriorityListFix": "True",
-    "FStringFlagRepoGitHashFastString": "2cc07a57f93415dc72a19e6394a41114fc3d3862",
-    "DFStringFlagRepoGitHashDynamicString": "2cc07a57f93415dc72a19e6394a41114fc3d3862",
-    "FStringFlipTimeStampFastString": "2024-07-01T23:36:32.082Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-01T23:36:32.082Z"
+    "FStringFlagRepoGitHashFastString": "f255794c7f3ff7213bfa7d48c12490aa986c7ba9",
+    "DFStringFlagRepoGitHashDynamicString": "f255794c7f3ff7213bfa7d48c12490aa986c7ba9",
+    "FStringFlipTimeStampFastString": "2024-07-02T00:36:40.470Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-02T00:36:40.470Z"
 }
