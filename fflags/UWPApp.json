@@ -13202,13 +13202,14 @@
     "DFFlagTeleportMarketPlacePermissionDependencyRemoved": "True",
     "DFFlagTeleportThirdPartyPermissionCheckDisabled": "True",
     "FFlagUseCachedAudibilityMeasurements_PlaceFilter": "False;13546288145",
-    "FFlagUseCachedAudibilityMeasurements_Rollout": "True;60;2024-07-02T17:52:09",
     "FFlagStudioRendererWindowManager3": "True",
     "FFlagStudioNoLegacyLockConstructingPlayersDataManager3_Rollout": "True;60;2024-07-02T18:13:28",
     "FFlagExcessFmodAllocsTriggerOom_Rollout": "True;60;2024-07-02T18:22:01",
     "FFlagFriendsCarouselLoadingEventPlatformSpecificity_Rollout": "True;60;2024-07-02T18:25:53",
     "FFlagPYMKCarouselLoadingEvents_Rollout": "True;60;2024-07-02T18:26:34",
     "FFlagRealMobileOutline4_Rollout": "True;60;2024-07-02T18:54:28",
+    "FFlagUseCachedAudibilityMeasurements": "True",
+    "DFFlagVoiceChatCullingDisableTransportSends_Rollout": "True;60;2024-07-02T19:35:07",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13430,8 +13431,8 @@
     "FFlagAXRefactorTryOnItems4": "True",
     "DFFlagContentProviderPriorityListFix": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
-    "FStringFlagRepoGitHashFastString": "8267858875c7217eeb0fde310a3b45fadcd4c7b8",
-    "DFStringFlagRepoGitHashDynamicString": "8267858875c7217eeb0fde310a3b45fadcd4c7b8",
-    "FStringFlipTimeStampFastString": "2024-07-02T19:07:10.641Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-02T19:07:10.641Z"
+    "FStringFlagRepoGitHashFastString": "2f65a09ec6ea95f333d269d6a9e91a0ba756ea4c",
+    "DFStringFlagRepoGitHashDynamicString": "2f65a09ec6ea95f333d269d6a9e91a0ba756ea4c",
+    "FStringFlipTimeStampFastString": "2024-07-02T19:35:48.249Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-02T19:35:48.249Z"
 }
