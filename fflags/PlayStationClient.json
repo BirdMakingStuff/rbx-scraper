@@ -13007,7 +13007,6 @@
     "DFFlagMicroprofilerOutput2": "True",
     "FFlagAXAddCopyLinkButtonAndMeetCompanyCompliance": "True",
     "FFlagShareLinkAvatarItemDetailsSupport": "True",
-    "FFlagUseNewShortLinkGeneration": "True",
     "FFlagRemoveRBXMathTelemetryDep": "True",
     "DFFlagNANOutInertiaData": "True",
     "FFlagLuauCodegenUserdataOps": "True",
@@ -13395,8 +13394,8 @@
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "DFFlagContentProviderPriorityListFix": "True",
-    "FStringFlagRepoGitHashFastString": "fa236439c519b6faa6fedac860bc7270d7f87a86",
-    "DFStringFlagRepoGitHashDynamicString": "fa236439c519b6faa6fedac860bc7270d7f87a86",
-    "FStringFlipTimeStampFastString": "2024-07-03T19:21:44.750Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-03T19:21:44.750Z"
+    "FStringFlagRepoGitHashFastString": "c5ec83576b921cb5007dd923da06989ccd01cade",
+    "DFStringFlagRepoGitHashDynamicString": "c5ec83576b921cb5007dd923da06989ccd01cade",
+    "FStringFlipTimeStampFastString": "2024-07-03T20:46:17.340Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-03T20:46:17.340Z"
 }
