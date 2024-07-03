@@ -13229,6 +13229,7 @@
     "FFlagStudioCleanupRenderBindLocks_Rollout": "True;60;2024-07-03T16:12:58",
     "FFlagRuntimeConsistentSseState_Rollout": "True;60;2024-07-03T16:21:06",
     "AllowVideoPreRoll": "True",
+    "FFlagLuaAppWideTileFixBackground_Rollout": "True;60;2024-07-03T16:51:14",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13554,8 +13555,9 @@
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "DFFlagContentProviderPriorityListFix": "True",
-    "FStringFlagRepoGitHashFastString": "fa69a2b8a580d31431302a1a0359d2a542cd0b93",
-    "DFStringFlagRepoGitHashDynamicString": "fa69a2b8a580d31431302a1a0359d2a542cd0b93",
-    "FStringFlipTimeStampFastString": "2024-07-03T16:38:17.651Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-03T16:38:17.651Z"
+    "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure;59;2024-07-03T17:05:00",
+    "FStringFlagRepoGitHashFastString": "109bc1fd02346d9051a45f0a5214a4d78e55cb31",
+    "DFStringFlagRepoGitHashDynamicString": "109bc1fd02346d9051a45f0a5214a4d78e55cb31",
+    "FStringFlipTimeStampFastString": "2024-07-03T17:06:19.492Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-03T17:06:19.492Z"
 }
