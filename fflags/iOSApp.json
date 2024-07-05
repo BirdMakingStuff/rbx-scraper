@@ -13771,7 +13771,6 @@
     "FFlagLuaAppUseCollectionViewIXP2": "True",
     "FFlagMediaGallerySnappingTelemetry": "True",
     "FFlagEnableSuspendReceiveRemoteNotification": "True",
-    "FFlagFixDuplicateAutoSearch_v2": "True",
     "FFlagShareLinkPrivateServerAnalyticsEnabled": "True",
     "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
     "FFlagDisableBulkPurchaseWhenNoItems": "True",
