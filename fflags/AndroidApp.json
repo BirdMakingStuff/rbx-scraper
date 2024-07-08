@@ -13232,6 +13232,9 @@
     "FFlagLuaAppWideTileFixBackground": "True",
     "DFFlagEphemeralEarlyKeys": "True",
     "FFlagToolboxFixGroupCreatedAvatarAssetRequest": "True",
+    "UseSecureRandom": "True",
+    "FFlagRenderDisableOpaqueWithAlphaPrepassAndroid_Rollout": "True;60;2024-07-08T16:58:24",
+    "DFIntNetworkStreamingGCMaxMicroSecondLimitPartsModels_Rollout": "50000;60;2024-07-08T17:14:32",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13796,8 +13799,9 @@
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "DFFlagContentProviderPriorityListFix": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
-    "FStringFlagRepoGitHashFastString": "8484fdc58af6caa58b4594981aa5ef36641f2d2a",
-    "DFStringFlagRepoGitHashDynamicString": "8484fdc58af6caa58b4594981aa5ef36641f2d2a",
-    "FStringFlipTimeStampFastString": "2024-07-08T16:40:40.743Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-08T16:40:40.743Z"
+    "CrashpadEnableApiUnification": "true",
+    "FStringFlagRepoGitHashFastString": "a9340d4d9e0d53ab5ddbe3ab7596c1de17891998",
+    "DFStringFlagRepoGitHashDynamicString": "a9340d4d9e0d53ab5ddbe3ab7596c1de17891998",
+    "FStringFlipTimeStampFastString": "2024-07-08T17:15:46.971Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-08T17:15:46.971Z"
 }
