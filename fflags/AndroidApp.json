@@ -13243,9 +13243,7 @@
     "FFlagLuauAttributeSyntaxFunExpr": "True",
     "FFlagSimIndexationUseHashMap": "True",
     "FFlagEnableSubscriptionPurchaseInEDP4": "True",
-    "FFlagUIBloxEnableTextFieldInputType_Rollout": "True;60;2024-07-08T21:45:57",
     "FFlagParticleLocalTransparencyModifierEnabled2": "True",
-    "FIntUGCValidationHeadThreshold_Rollout": "35;60;2024-07-08T21:54:29",
     "FFlagUGCValidateOrthographicTransparency2": "True",
     "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
     "FFlagEnableSubscriptionPurchaseInEdpIxpExperiment": "True",
@@ -13260,6 +13258,9 @@
     "FFlagEnableAppealsDeeplinks": "True",
     "FFlagAXFixCatalogDataOverride": "True",
     "DFLogAnalyticsService_PlaceFilter": "Verbose,6;16571223438",
+    "FFlagUIBloxEnableTextFieldInputType": "True",
+    "FIntUGCValidationHeadThreshold": "35",
+    "FFlagUGCValidationValidateTransparencyServer3_Rollout": "True;60;2024-07-08T23:28:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13824,8 +13825,8 @@
     "DFFlagContentProviderPriorityListFix": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
     "CrashpadEnableApiUnification": "true",
-    "FStringFlagRepoGitHashFastString": "3332a7d34c4030c3492a4bf6adfa2e2fb864010e",
-    "DFStringFlagRepoGitHashDynamicString": "3332a7d34c4030c3492a4bf6adfa2e2fb864010e",
-    "FStringFlipTimeStampFastString": "2024-07-08T23:19:48.815Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-08T23:19:48.815Z"
+    "FStringFlagRepoGitHashFastString": "19ccf151dbd19f6293ff8e892e62d82453d290c7",
+    "DFStringFlagRepoGitHashDynamicString": "19ccf151dbd19f6293ff8e892e62d82453d290c7",
+    "FStringFlipTimeStampFastString": "2024-07-08T23:29:08.037Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-08T23:29:08.037Z"
 }

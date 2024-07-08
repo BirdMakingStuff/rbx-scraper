@@ -13243,9 +13243,7 @@
     "FFlagLuauAttributeSyntaxFunExpr": "True",
     "FFlagSimIndexationUseHashMap": "True",
     "FFlagEnableSubscriptionPurchaseInEDP4": "True",
-    "FFlagUIBloxEnableTextFieldInputType_Rollout": "True;60;2024-07-08T21:45:57",
     "FFlagParticleLocalTransparencyModifierEnabled2": "True",
-    "FIntUGCValidationHeadThreshold_Rollout": "35;60;2024-07-08T21:54:29",
     "FFlagUGCValidateOrthographicTransparency2": "True",
     "FFlagVideoCaptureServiceLoadDevicesAsync2": "True",
     "FFlagEnableSubscriptionPurchaseInEdpIxpExperiment": "True",
@@ -13259,6 +13257,10 @@
     "FFlagEnableRbxCrashReportInSessionTracking_Rollout": "True;30;2024-07-08T23:15:00",
     "FFlagEnableAppealsDeeplinks": "True",
     "FFlagAXFixCatalogDataOverride": "True",
+    "DFLogAnalyticsService_PlaceFilter": "Verbose,6;16571223438",
+    "FFlagUIBloxEnableTextFieldInputType": "True",
+    "FIntUGCValidationHeadThreshold": "35",
+    "FFlagUGCValidationValidateTransparencyServer3_Rollout": "True;60;2024-07-08T23:28:36",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13420,8 +13422,8 @@
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "DFFlagContentProviderPriorityListFix": "True",
-    "FStringFlagRepoGitHashFastString": "e6ca488c47274819d916d2ffbfac02a836198b8b",
-    "DFStringFlagRepoGitHashDynamicString": "e6ca488c47274819d916d2ffbfac02a836198b8b",
-    "FStringFlipTimeStampFastString": "2024-07-08T23:16:36.425Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-08T23:16:36.425Z"
+    "FStringFlagRepoGitHashFastString": "19ccf151dbd19f6293ff8e892e62d82453d290c7",
+    "DFStringFlagRepoGitHashDynamicString": "19ccf151dbd19f6293ff8e892e62d82453d290c7",
+    "FStringFlipTimeStampFastString": "2024-07-08T23:29:08.037Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-08T23:29:08.037Z"
 }
