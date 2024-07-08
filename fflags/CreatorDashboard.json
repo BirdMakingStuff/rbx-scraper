@@ -9,5 +9,6 @@
     "enableDeveloperSubscriptionOffSale": "true",
     "enableUENSocialMentions": "true",
     "enableBundlePaginationOffset": "false",
-    "enableSafetyControls": "false"
+    "enableSafetyControls": "false",
+    "enableOrganizationPayouts": "true"
 }
