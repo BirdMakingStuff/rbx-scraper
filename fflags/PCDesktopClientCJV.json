@@ -13019,7 +13019,7 @@
     "FIntGameGridFlexFeedItemTileNumPerFeed": "500",
     "FIntMaxTimestepMultiplierVelocity_PlaceFilter": "4;189707",
     "FFlagManagerAddDisplayOrderAndBackgroundDismiss": "True",
-    "DFFlagSimHumanoidTimestepModelUpdate_PlaceFilter": "True;189707;537413528;2913303231",
+    "DFFlagSimHumanoidTimestepModelUpdate_PlaceFilter": "True;189707;537413528;2913303231;12177325772",
     "FFlagSTFSMEnableAppSessionSuccess": "True",
     "DFIntSessionReportAppSuccessEventIngestThrottleHundredthsPercent": "10000",
     "DFFlagPlayerHumanoidPropertyUpdateRestrict": "True",
@@ -13266,6 +13266,8 @@
     "FFlagGraphicsVulkanImageViewName": "True",
     "FFlagRenderCloudsSkipGLES2": "True",
     "FFlagRenderFixSetScissorAssert": "True",
+    "DFFlagRenderingHighlightsTreatGLSLAsDesktop_Rollout": "True;30;2024-07-09T19:42:28",
+    "FFlagEnableSubscriptionPurchaseInEDP4": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -13722,8 +13724,8 @@
     "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
     "FFlagVideoCaptureServiceWinEnumeratorAsyncFix": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "c539d98ec1934c6fbe097b2e65fd03b8ebe75beb",
-    "DFStringFlagRepoGitHashDynamicString": "c539d98ec1934c6fbe097b2e65fd03b8ebe75beb",
-    "FStringFlipTimeStampFastString": "2024-07-09T19:36:46.166Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-09T19:36:46.166Z"
+    "FStringFlagRepoGitHashFastString": "6f74d03735c51257e84b2db18d57da7e954398b5",
+    "DFStringFlagRepoGitHashDynamicString": "6f74d03735c51257e84b2db18d57da7e954398b5",
+    "FStringFlipTimeStampFastString": "2024-07-09T20:08:12.889Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-09T20:08:12.889Z"
 }
