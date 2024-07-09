@@ -13275,6 +13275,7 @@
     "FIntCAP1209DataSharingTOSVersion": "71024",
     "FFlagPath2DFixPropertyPanelChangesUpdateTooling": "True",
     "FFlagFixRestoreIDEStateRaceCondition": "True",
+    "DFFlagAnalyticsServiceEnabled_PlaceFilter": "True;16571223438",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13838,7 +13839,7 @@
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "FFlagAXFixAvatarLayeredClothing": "True",
     "CrashpadEnableApiUnification": "true",
-    "FFlagUniversalAppCsat4_Rollout": "True;30;2024-07-09T22:00:52",
+    "FFlagUniversalAppCsat4": "True",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -13873,8 +13874,8 @@
     "FFlagAXAddShowBottomBarProp": "True",
     "FFlagAXFixSearchResultsBarSpacing1": "True",
     "FFlagEnableFlagParseTiming": "True",
-    "FStringFlagRepoGitHashFastString": "c7986b7aca9f4c149d5a20af62f765dbae9ffbdf",
-    "DFStringFlagRepoGitHashDynamicString": "c7986b7aca9f4c149d5a20af62f765dbae9ffbdf",
-    "FStringFlipTimeStampFastString": "2024-07-09T22:31:44.229Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-09T22:31:44.229Z"
+    "FStringFlagRepoGitHashFastString": "0dc241e7946c9f6eeeca0c52270232930d68135f",
+    "DFStringFlagRepoGitHashDynamicString": "0dc241e7946c9f6eeeca0c52270232930d68135f",
+    "FStringFlipTimeStampFastString": "2024-07-09T23:14:20.823Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-09T23:14:20.823Z"
 }
