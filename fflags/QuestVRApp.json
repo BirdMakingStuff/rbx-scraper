@@ -13268,13 +13268,13 @@
     "FFlagEnableSubscriptionPurchaseInEDP4": "True",
     "DFFlagContentProviderPriorityListFix": "True",
     "DFFlagRenderingHighlightsTreatGLSLAsDesktop": "True",
-    "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-07-09T20:56:32",
     "FFlagRenderingTestFixMissingSetCanvasSize": "True",
     "FFlagRenderingTestFixPreRotationIncorrectCameraViewport": "True",
     "FIntCAP1107ThrottleHundredthsPercentage": "10000",
     "FIntCAP1209DataSharingRolloutPercentage": "5",
     "FIntCAP1209DataSharingTOSVersion": "71024",
     "FFlagPath2DFixPropertyPanelChangesUpdateTooling": "True",
+    "FFlagFixRestoreIDEStateRaceCondition": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13873,8 +13873,8 @@
     "FFlagAXAddShowBottomBarProp": "True",
     "FFlagAXFixSearchResultsBarSpacing1": "True",
     "FFlagEnableFlagParseTiming": "True",
-    "FStringFlagRepoGitHashFastString": "ed76b34ef89e1b14ff74a038e395c55604244191",
-    "DFStringFlagRepoGitHashDynamicString": "ed76b34ef89e1b14ff74a038e395c55604244191",
-    "FStringFlipTimeStampFastString": "2024-07-09T22:19:30.831Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-09T22:19:30.831Z"
+    "FStringFlagRepoGitHashFastString": "c7986b7aca9f4c149d5a20af62f765dbae9ffbdf",
+    "DFStringFlagRepoGitHashDynamicString": "c7986b7aca9f4c149d5a20af62f765dbae9ffbdf",
+    "FStringFlipTimeStampFastString": "2024-07-09T22:31:44.229Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-09T22:31:44.229Z"
 }
