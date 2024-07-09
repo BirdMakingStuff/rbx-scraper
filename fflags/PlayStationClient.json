@@ -13276,6 +13276,7 @@
     "FFlagPath2DFixPropertyPanelChangesUpdateTooling": "True",
     "FFlagFixRestoreIDEStateRaceCondition": "True",
     "DFFlagAnalyticsServiceEnabled_PlaceFilter": "True;16571223438",
+    "DFFlagNoFileAndLineTelemetry_Rollout": "True;60;2024-07-09T23:23:12",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13436,8 +13437,8 @@
     "DFFlagRandomNewSeedLimitReport": "True",
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
     "DFFlagRandomNewSeedLimitReportOnce": "True",
-    "FStringFlagRepoGitHashFastString": "0dc241e7946c9f6eeeca0c52270232930d68135f",
-    "DFStringFlagRepoGitHashDynamicString": "0dc241e7946c9f6eeeca0c52270232930d68135f",
-    "FStringFlipTimeStampFastString": "2024-07-09T23:14:20.823Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-09T23:14:20.823Z"
+    "FStringFlagRepoGitHashFastString": "0619747f679e0ac20795548d91439dd5bc346cd3",
+    "DFStringFlagRepoGitHashDynamicString": "0619747f679e0ac20795548d91439dd5bc346cd3",
+    "FStringFlipTimeStampFastString": "2024-07-09T23:24:02.066Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-09T23:24:02.066Z"
 }
