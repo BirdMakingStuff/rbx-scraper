@@ -13267,7 +13267,6 @@
     "FFlagRenderFixSetScissorAssert": "True",
     "FFlagEnableSubscriptionPurchaseInEDP4": "True",
     "DFFlagContentProviderPriorityListFix": "True",
-    "FFlagPath2DFixPropertyPanelChangesUpdateTooling_Rollout": "True;60;2024-07-09T20:34:41",
     "DFFlagRenderingHighlightsTreatGLSLAsDesktop": "True",
     "FFlagFixRestoreIDEStateRaceCondition_Rollout": "True;60;2024-07-09T20:56:32",
     "FFlagRenderingTestFixMissingSetCanvasSize": "True",
@@ -13275,6 +13274,7 @@
     "FIntCAP1107ThrottleHundredthsPercentage": "10000",
     "FIntCAP1209DataSharingRolloutPercentage": "5",
     "FIntCAP1209DataSharingTOSVersion": "71024",
+    "FFlagPath2DFixPropertyPanelChangesUpdateTooling": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13733,8 +13733,9 @@
     "FFlagLuaAppGameCarouselUseFormula2": "True",
     "FFlagLuaAppSupportGridTilesOnDiscover": "True",
     "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
-    "FStringFlagRepoGitHashFastString": "8dc436bca13d08a8ca92b8884c1a9b7a7680e61e",
-    "DFStringFlagRepoGitHashDynamicString": "8dc436bca13d08a8ca92b8884c1a9b7a7680e61e",
-    "FStringFlipTimeStampFastString": "2024-07-09T21:32:18.778Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-09T21:32:18.778Z"
+    "FFlagUniversalAppCsat4_Rollout": "True;30;2024-07-09T22:00:52",
+    "FStringFlagRepoGitHashFastString": "ed76b34ef89e1b14ff74a038e395c55604244191",
+    "DFStringFlagRepoGitHashDynamicString": "ed76b34ef89e1b14ff74a038e395c55604244191",
+    "FStringFlipTimeStampFastString": "2024-07-09T22:19:30.831Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-09T22:19:30.831Z"
 }
