@@ -13851,8 +13851,9 @@
     "FFlagUniversalAppCsat4": "True",
     "FFlagEnableLoginWithExistingAccountVariant": "True",
     "DFFlagStrictStringConvertReport2": "True",
-    "FStringFlagRepoGitHashFastString": "c3fc641d571f770c85c7e9e840d809ce2724e267",
-    "DFStringFlagRepoGitHashDynamicString": "c3fc641d571f770c85c7e9e840d809ce2724e267",
-    "FStringFlipTimeStampFastString": "2024-07-10T22:16:23.912Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T22:16:23.912Z"
+    "FFlagCheckUserIdExistsFetchFriends_Rollout": "True;60;2024-07-10T22:36:49",
+    "FStringFlagRepoGitHashFastString": "cd7639b3c2404a7af0dce97c97998d7aefa8c750",
+    "DFStringFlagRepoGitHashDynamicString": "cd7639b3c2404a7af0dce97c97998d7aefa8c750",
+    "FStringFlipTimeStampFastString": "2024-07-10T22:37:25.472Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T22:37:25.472Z"
 }
