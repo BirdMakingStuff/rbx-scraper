@@ -10,5 +10,6 @@
     "enableUENSocialMentions": "true",
     "enableBundlePaginationOffset": "false",
     "enableSafetyControls": "false",
-    "enableOrganizationPayouts": "true"
+    "enableOrganizationPayouts": "true",
+    "enableDSC": "true"
 }

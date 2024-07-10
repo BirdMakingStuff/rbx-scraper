@@ -13706,7 +13706,6 @@
     "FFlagLuaAppSocialLibUseLazyRequire": "True",
     "DFFlagFbxAddAnimationEndTimeEpsilon": "True",
     "FStringDebugShowFlagState_PlaceFilter": "FFlagVoxelGridNew4, FFlagVoxelGridFixRegionChanged, FFlagVoxelGridFixUpsample;12048809161;8655158217",
-    "FIntWindowsClientCrashpadRolloutHundredthPercent": "500",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FStringAllFriendsNextPageCarouselLoadingTimeDoneStats": "AllFriendsNextPageCarouselLoadingTimeDoneWindows",
     "FFlagEnableThirdPartyAssetLoading2": "False",
@@ -13736,8 +13735,9 @@
     "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
     "FFlagVideoCaptureServiceWinEnumeratorAsyncFix": "True",
     "FFlagUniversalAppCsat4": "True",
-    "FStringFlagRepoGitHashFastString": "186cc44699597c54fa319b514fca66eb9f1328ef",
-    "DFStringFlagRepoGitHashDynamicString": "186cc44699597c54fa319b514fca66eb9f1328ef",
-    "FStringFlipTimeStampFastString": "2024-07-10T16:35:43.224Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T16:35:43.224Z"
+    "FIntWindowsClientCrashpadRolloutHundredthPercent_Rollout": "5000;60;2024-07-10T16:43:48",
+    "FStringFlagRepoGitHashFastString": "0824b4bc71ee7ae582cc6d4914d00ef7e204b2dc",
+    "DFStringFlagRepoGitHashDynamicString": "0824b4bc71ee7ae582cc6d4914d00ef7e204b2dc",
+    "FStringFlipTimeStampFastString": "2024-07-10T16:44:21.199Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T16:44:21.199Z"
 }
