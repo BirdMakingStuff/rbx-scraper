@@ -10088,7 +10088,6 @@
     "FFlagContactsToastPolicyEnabled": "True",
     "DFFlagDontSubscribeIfNotVoiceEnabled": "True",
     "DFFlagFixInteractionGroupSignaling": "True",
-    "FFlagNavigationUseProjectionForNeighourSelection2_PlaceFilter": "False;13238950471",
     "FFlagShareLinkAddTrackingForStamp": "True",
     "FFlagContactsToastExperimentEnabled": "True",
     "FFlagNoRethrowSetAndLockParent_PlaceFilter": "False;6737970321;12985361032",
@@ -13853,8 +13852,8 @@
     "FFlagUniversalAppCsat4": "True",
     "FFlagEnableLoginWithExistingAccountVariant": "True",
     "DFFlagStrictStringConvertReport2": "True",
-    "FStringFlagRepoGitHashFastString": "15e8371ceed7be33bd131b54ed6436e27749b85e",
-    "DFStringFlagRepoGitHashDynamicString": "15e8371ceed7be33bd131b54ed6436e27749b85e",
-    "FStringFlipTimeStampFastString": "2024-07-10T21:09:01.806Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T21:09:01.806Z"
+    "FStringFlagRepoGitHashFastString": "5f011345df78c01e2c24dadf44cb1edf6051c72d",
+    "DFStringFlagRepoGitHashDynamicString": "5f011345df78c01e2c24dadf44cb1edf6051c72d",
+    "FStringFlipTimeStampFastString": "2024-07-10T21:36:49.455Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T21:36:49.455Z"
 }

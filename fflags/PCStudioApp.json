@@ -10088,7 +10088,6 @@
     "FFlagContactsToastPolicyEnabled": "True",
     "DFFlagDontSubscribeIfNotVoiceEnabled": "True",
     "DFFlagFixInteractionGroupSignaling": "True",
-    "FFlagNavigationUseProjectionForNeighourSelection2_PlaceFilter": "False;13238950471",
     "FFlagShareLinkAddTrackingForStamp": "True",
     "FFlagContactsToastExperimentEnabled": "True",
     "FFlagNoRethrowSetAndLockParent_PlaceFilter": "False;6737970321;12985361032",
@@ -13294,6 +13293,7 @@
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FFlagGraphicsVulkanBufferWaw": "True",
     "FFlagGraphicsVulkanSwapchainCount": "True",
+    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14016,7 +14016,6 @@
     "FFlagDraggersSetStateInRender": "True",
     "DFFlagStrictStringConvertWarning2": "True",
     "FFlagToolboxSetParentFix": "True",
-    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -14093,8 +14092,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize_Rollout": "True;60;2024-07-10T20:23:50",
-    "FStringFlagRepoGitHashFastString": "15e8371ceed7be33bd131b54ed6436e27749b85e",
-    "DFStringFlagRepoGitHashDynamicString": "15e8371ceed7be33bd131b54ed6436e27749b85e",
-    "FStringFlipTimeStampFastString": "2024-07-10T21:09:01.806Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T21:09:01.806Z"
+    "FStringFlagRepoGitHashFastString": "da0c35a7ed8d096783b5bb5a1fd65a24bbb238c4",
+    "DFStringFlagRepoGitHashDynamicString": "da0c35a7ed8d096783b5bb5a1fd65a24bbb238c4",
+    "FStringFlipTimeStampFastString": "2024-07-10T21:39:11.845Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T21:39:11.845Z"
 }
