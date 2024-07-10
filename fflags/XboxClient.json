@@ -13277,6 +13277,8 @@
     "FFlagFixRestoreIDEStateRaceCondition": "True",
     "DFFlagAnalyticsServiceEnabled_PlaceFilter": "True;16571223438",
     "DFFlagNoFileAndLineTelemetry": "True",
+    "FFlagLuauCompileUserdataInfo_Rollout": "True;60;2024-07-10T16:14:25",
+    "FFlagBaselineTrackAllVoiceUsage_Rollout": "True;60;2024-07-10T16:17:24",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13602,8 +13604,8 @@
     "DFFlagRandomNewSeedLimitReportOnce": "True",
     "FFlagEnableFlagParseTiming": "True",
     "FFlagLuaAppMigrateOmniContentType": "True",
-    "FStringFlagRepoGitHashFastString": "f0d0521fe73e3a7bc792f2151c35525787d4f38f",
-    "DFStringFlagRepoGitHashDynamicString": "f0d0521fe73e3a7bc792f2151c35525787d4f38f",
-    "FStringFlipTimeStampFastString": "2024-07-10T00:56:21.040Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T00:56:21.040Z"
+    "FStringFlagRepoGitHashFastString": "5598b925461c7bf30dd95a838e6304e0ce1af6f9",
+    "DFStringFlagRepoGitHashDynamicString": "5598b925461c7bf30dd95a838e6304e0ce1af6f9",
+    "FStringFlipTimeStampFastString": "2024-07-10T16:18:05.036Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T16:18:05.036Z"
 }
