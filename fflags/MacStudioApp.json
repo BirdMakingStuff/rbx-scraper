@@ -13276,7 +13276,7 @@
     "FFlagPath2DFixPropertyPanelChangesUpdateTooling": "True",
     "FFlagFixRestoreIDEStateRaceCondition": "True",
     "DFFlagAnalyticsServiceEnabled_PlaceFilter": "True;16571223438",
-    "DFFlagNoFileAndLineTelemetry_Rollout": "True;60;2024-07-09T23:23:12",
+    "DFFlagNoFileAndLineTelemetry": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14071,8 +14071,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "0619747f679e0ac20795548d91439dd5bc346cd3",
-    "DFStringFlagRepoGitHashDynamicString": "0619747f679e0ac20795548d91439dd5bc346cd3",
-    "FStringFlipTimeStampFastString": "2024-07-09T23:24:02.066Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-09T23:24:02.066Z"
+    "FStringFlagRepoGitHashFastString": "f0d0521fe73e3a7bc792f2151c35525787d4f38f",
+    "DFStringFlagRepoGitHashDynamicString": "f0d0521fe73e3a7bc792f2151c35525787d4f38f",
+    "FStringFlipTimeStampFastString": "2024-07-10T00:56:21.040Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T00:56:21.040Z"
 }
