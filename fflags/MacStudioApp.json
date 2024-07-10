@@ -13280,6 +13280,8 @@
     "FFlagLuauCompileUserdataInfo_Rollout": "True;60;2024-07-10T16:14:25",
     "FFlagBaselineTrackAllVoiceUsage_Rollout": "True;60;2024-07-10T16:17:24",
     "DFIntNetworkStreamingGCMaxMicroSecondLimitPartsModels_Rollout": "20000;60;2024-07-10T16:35:16",
+    "FFlagPreparseForRtlCharacters2_Rollout": "True;60;2024-07-10T17:21:06",
+    "DFFlagNotifyOutOfMemoryWithCallsiteID_Rollout": "True;60;2024-07-10T17:25:22",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14074,8 +14076,9 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FFlagFixHangOnMonitorThreadExit": "True",
     "FLogStartPageIXPCheck": "Warning,6",
-    "FStringFlagRepoGitHashFastString": "0824b4bc71ee7ae582cc6d4914d00ef7e204b2dc",
-    "DFStringFlagRepoGitHashDynamicString": "0824b4bc71ee7ae582cc6d4914d00ef7e204b2dc",
-    "FStringFlipTimeStampFastString": "2024-07-10T16:44:21.199Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T16:44:21.199Z"
+    "DFFlagRobloxTelemetrySendByBatchSize_Rollout": "True;60;2024-07-10T17:21:58",
+    "FStringFlagRepoGitHashFastString": "75025cfc1d42365c8dab194be952593bf76db3c6",
+    "DFStringFlagRepoGitHashDynamicString": "75025cfc1d42365c8dab194be952593bf76db3c6",
+    "FStringFlipTimeStampFastString": "2024-07-10T17:28:27.225Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T17:28:27.225Z"
 }
