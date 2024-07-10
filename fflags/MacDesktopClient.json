@@ -13279,6 +13279,7 @@
     "DFFlagNoFileAndLineTelemetry": "True",
     "FFlagLuauCompileUserdataInfo_Rollout": "True;60;2024-07-10T16:14:25",
     "FFlagBaselineTrackAllVoiceUsage_Rollout": "True;60;2024-07-10T16:17:24",
+    "DFIntNetworkStreamingGCMaxMicroSecondLimitPartsModels_Rollout": "20000;60;2024-07-10T16:35:16",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13738,8 +13739,8 @@
     "FFlagLuaAppSupportGridTilesOnDiscover": "True",
     "FFlagLuaAppAddUniverseIdToHoverPlayEvent": "True",
     "FFlagUniversalAppCsat4": "True",
-    "FStringFlagRepoGitHashFastString": "5598b925461c7bf30dd95a838e6304e0ce1af6f9",
-    "DFStringFlagRepoGitHashDynamicString": "5598b925461c7bf30dd95a838e6304e0ce1af6f9",
-    "FStringFlipTimeStampFastString": "2024-07-10T16:18:05.036Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T16:18:05.036Z"
+    "FStringFlagRepoGitHashFastString": "186cc44699597c54fa319b514fca66eb9f1328ef",
+    "DFStringFlagRepoGitHashDynamicString": "186cc44699597c54fa319b514fca66eb9f1328ef",
+    "FStringFlipTimeStampFastString": "2024-07-10T16:35:43.224Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T16:35:43.224Z"
 }
