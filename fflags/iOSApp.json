@@ -13294,6 +13294,7 @@
     "FFlagHumanoidDescriptionUseInstances4": "False",
     "FFlagHumanoidDescriptionUseInstances4_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "FFlagBetterDuplicateCostumeAssetsErrorMessage_Rollout": "True;60;2024-07-10T23:08:24",
+    "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "500;166986752",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13855,8 +13856,8 @@
     "FFlagEnableLoginWithExistingAccountVariant": "True",
     "DFFlagStrictStringConvertReport2": "True",
     "FFlagCheckUserIdExistsFetchFriends_Rollout": "True;60;2024-07-10T22:36:49",
-    "FStringFlagRepoGitHashFastString": "ffa8740d4569993482b1f8516b7a339a12d5e5ec",
-    "DFStringFlagRepoGitHashDynamicString": "ffa8740d4569993482b1f8516b7a339a12d5e5ec",
-    "FStringFlipTimeStampFastString": "2024-07-10T23:18:54.469Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-10T23:18:54.469Z"
+    "FStringFlagRepoGitHashFastString": "8a3cdd7e450ef492b86e97effa17c46c1cbf4aa8",
+    "DFStringFlagRepoGitHashDynamicString": "8a3cdd7e450ef492b86e97effa17c46c1cbf4aa8",
+    "FStringFlipTimeStampFastString": "2024-07-10T23:40:09.472Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-10T23:40:09.472Z"
 }
