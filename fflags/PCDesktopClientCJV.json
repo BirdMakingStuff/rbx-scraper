@@ -13306,6 +13306,7 @@
     "FFlagAimNoMorePackageBump_Rollout": "True;15;2024-07-11T18:13:43",
     "FFlagUIEditorFixSelectionZIndexOrdering_Rollout": "True;60;2024-07-11T18:16:34",
     "FFlagClientTokenFromHeader33_DataCenterFilter": "True;361",
+    "DFFlagPath2DAnalytics_ProfilerScope_Rollout": "True;60;2024-07-11T18:30:10",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13761,8 +13762,8 @@
     "DFFlagStrictStringConvertReport2": "True",
     "DFFlagRobloxTelemetrySendByBatchSize": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "d373dac774d60e126d2f5f0339ba4031ab67011c",
-    "DFStringFlagRepoGitHashDynamicString": "d373dac774d60e126d2f5f0339ba4031ab67011c",
-    "FStringFlipTimeStampFastString": "2024-07-11T18:27:11.547Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-11T18:27:11.547Z"
+    "FStringFlagRepoGitHashFastString": "1b2c424e1f2063515a0a180e2bb36593a324502d",
+    "DFStringFlagRepoGitHashDynamicString": "1b2c424e1f2063515a0a180e2bb36593a324502d",
+    "FStringFlipTimeStampFastString": "2024-07-11T18:37:38.127Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-11T18:37:38.127Z"
 }
