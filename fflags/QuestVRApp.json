@@ -13296,7 +13296,10 @@
     "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "500;166986752",
     "DFIntDataStoreListInitialBudget_PlaceFilter": "500;166986752",
     "FFlagBetterDuplicateCostumeAssetsErrorMessage": "True",
+    "DFFlagReportTimeBetweenTTServerNew_DataCenterFilter": "True;361",
     "AllowVideoPreRoll": "True",
+    "DFFlagReportTimeBetweenTTClientNew_DataCenterFilter": "True;361",
+    "DFStringDualWritePointToV2WhiteList_Rollout": "\"\";30;2024-07-11T16:40:41",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13894,8 +13897,9 @@
     "FFlagAXAddShowBottomBarProp": "True",
     "FFlagAXFixSearchResultsBarSpacing1": "True",
     "FFlagEnableFlagParseTiming": "True",
-    "FStringFlagRepoGitHashFastString": "15336b105819b9fe752154cbf651cf9decfb8b07",
-    "DFStringFlagRepoGitHashDynamicString": "15336b105819b9fe752154cbf651cf9decfb8b07",
-    "FStringFlipTimeStampFastString": "2024-07-11T16:19:14.924Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-11T16:19:14.924Z"
+    "FFlagEnableFlagParseTiming_Rollout": "True;30;2024-07-11T16:28:43",
+    "FStringFlagRepoGitHashFastString": "582244b530fa56a9a0189aa91a8eacbb9288452c",
+    "DFStringFlagRepoGitHashDynamicString": "582244b530fa56a9a0189aa91a8eacbb9288452c",
+    "FStringFlipTimeStampFastString": "2024-07-11T16:41:27.271Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-11T16:41:27.271Z"
 }
