@@ -13427,6 +13427,8 @@
     "FFlagPYMKUseUpdatedSetUpFireEvent_Rollout": "True;30;2024-07-11T19:59:05",
     "FFlagExplorerPackageIconIxpExperimentation2_Rollout": "True;30;2024-07-11T20:11:35",
     "FIntPathfindingHighComputeImplTimeReportThrottleHundrethsPercentPoints_Rollout": "7000;60;2024-07-11T20:16:15",
+    "FFlagPassPatchTypeInInitParams_Rollout": "True;60;2024-07-11T20:25:35",
+    "FFlagVoiceChatAddDataChannelToSubConnection5_Rollout": "True;60;2024-07-11T20:30:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13772,13 +13774,13 @@
     "FIntWindowsClientCrashpadRolloutHundredthPercent": "5000",
     "DFFlagStrictStringConvertReport2": "True",
     "DFFlagRobloxTelemetrySendByBatchSize": "True",
-    "FFlagWinTTIParseArg_Rollout": "True;60;2024-07-11T18:55:02",
     "FFlagVideoCaptureServiceWinFixMetricsCrash_Rollout": "True;60;2024-07-11T19:26:27",
     "DFFlagRobloxTelemetrySendByBatchSize_Rollout": "False;30;2024-07-11T19:40:51",
     "FFlagUserHeartbeatsInExperienceTracking_Rollout": "True;30;2024-07-11T20:15:07",
+    "FFlagWinTTIParseArg": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "fa11c44dc5ee87a433af285cccd21faf38c5d263",
-    "DFStringFlagRepoGitHashDynamicString": "fa11c44dc5ee87a433af285cccd21faf38c5d263",
-    "FStringFlipTimeStampFastString": "2024-07-11T20:17:49.763Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-11T20:17:49.763Z"
+    "FStringFlagRepoGitHashFastString": "6b8f7758aad7e33ffb88c1b83ee586913b14c685",
+    "DFStringFlagRepoGitHashDynamicString": "6b8f7758aad7e33ffb88c1b83ee586913b14c685",
+    "FStringFlipTimeStampFastString": "2024-07-11T20:31:18.225Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-11T20:31:18.225Z"
 }
