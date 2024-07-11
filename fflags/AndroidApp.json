@@ -13319,6 +13319,7 @@
     "FFlagSwitchAssetIdToAsset": "True",
     "FFlagSupportOpenTypeFeatures_Rollout": "True;30;2024-07-11T21:15:15",
     "AllowVideoPreRoll": "True",
+    "DFFlagStreamingChildAddedModelCheckingFix_Rollout": "True;60;2024-07-11T21:28:22",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13879,8 +13880,8 @@
     "CrashpadEnableApiUnification": "true",
     "FFlagUniversalAppCsat4": "True",
     "DFFlagStrictStringConvertReport2": "True",
-    "FStringFlagRepoGitHashFastString": "48ea433ac6bedadf0221cfa61fb67d0ae419deb2",
-    "DFStringFlagRepoGitHashDynamicString": "48ea433ac6bedadf0221cfa61fb67d0ae419deb2",
-    "FStringFlipTimeStampFastString": "2024-07-11T21:21:18.185Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-11T21:21:18.185Z"
+    "FStringFlagRepoGitHashFastString": "d6b5669d00eaacf7915492d1075b862a899a50e5",
+    "DFStringFlagRepoGitHashDynamicString": "d6b5669d00eaacf7915492d1075b862a899a50e5",
+    "FStringFlipTimeStampFastString": "2024-07-11T21:38:36.956Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-11T21:38:36.956Z"
 }
