@@ -13314,6 +13314,7 @@
     "DFIntTimestepArbiterHumanoidLinearVelThreshold_Rollout": "21;60;2024-07-11T19:11:12",
     "DFIntTimestepArbiterHumanoidTurningVelThreshold_Rollout": "17;60;2024-07-11T19:11:12",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "FFlagSwitchAssetIdToAsset_Rollout": "True;60;2024-07-11T19:29:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14036,6 +14037,8 @@
     "FFlagDraggersSetStateInRender": "True",
     "DFFlagStrictStringConvertWarning2": "True",
     "FFlagToolboxSetParentFix": "True",
+    "FFlagAXEnableSearchCounters1_Rollout": "True;60;2024-07-11T19:30:26",
+    "FFlagAXSearchRefactorForAnalytics1_Rollout": "True;60;2024-07-11T19:30:26",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -14109,8 +14112,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "True",
-    "FStringFlagRepoGitHashFastString": "a5a93fb6cecc2ba2b9ea754dd9e8b65af1a20282",
-    "DFStringFlagRepoGitHashDynamicString": "a5a93fb6cecc2ba2b9ea754dd9e8b65af1a20282",
-    "FStringFlipTimeStampFastString": "2024-07-11T19:13:10.013Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-11T19:13:10.013Z"
+    "FStringFlagRepoGitHashFastString": "f69e450da98150692208f02f060553caa563a0b8",
+    "DFStringFlagRepoGitHashDynamicString": "f69e450da98150692208f02f060553caa563a0b8",
+    "FStringFlipTimeStampFastString": "2024-07-11T19:31:00.325Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-11T19:31:00.325Z"
 }
