@@ -1544,7 +1544,7 @@
     "DFFlagTextBoxServiceMasterV4": "True",
     "DFFlagTextBoxServiceMasterV4AnalyticsEnabled": "True",
     "DFIntMinSoundStreamSizeBytes": "512000",
-    "DFIntMinSoundStreamSizeBytes_PlaceFilter": "1000000;17018663967",
+    "DFIntMinSoundStreamSizeBytes_PlaceFilter": "150000;7902470429",
     "FFlagLuaAppDisableACSessionRestartOnSearchCleared": "True",
     "FFlagWaveEmoteOnAvatarContextMenuWithExpChat": "True",
     "DFIntReportReplicateDestroySettingInfluxHundredthsPercentage": "100",
@@ -12950,7 +12950,6 @@
     "DFFlagUseInProductionChannel": "True",
     "FFlagReadOnlyDisablesAutocomplete": "True",
     "FFlagConsolesSearchAutoKeyboard": "True",
-    "DFFlagThirdPartyVideoAdFetchMetrics": "True",
     "FFlagSocialAnalyticsSupportTelemetry": "True",
     "DFIntThirdPartyVideoAdFetchHundredthsPercent": "10000",
     "FFlagXboxDeferActivation": "True",
@@ -13918,8 +13917,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "e247bb72a8df5c03081852cde77c9653bf451528",
-    "DFStringFlagRepoGitHashDynamicString": "e247bb72a8df5c03081852cde77c9653bf451528",
-    "FStringFlipTimeStampFastString": "2024-07-12T16:25:57.750Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-12T16:25:57.750Z"
+    "FStringFlagRepoGitHashFastString": "8f3abb1754eaa4eb12e35c9bd2b377187316176e",
+    "DFStringFlagRepoGitHashDynamicString": "8f3abb1754eaa4eb12e35c9bd2b377187316176e",
+    "FStringFlipTimeStampFastString": "2024-07-12T16:41:17.453Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-12T16:41:17.453Z"
 }

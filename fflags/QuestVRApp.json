@@ -1544,7 +1544,7 @@
     "DFFlagTextBoxServiceMasterV4": "True",
     "DFFlagTextBoxServiceMasterV4AnalyticsEnabled": "True",
     "DFIntMinSoundStreamSizeBytes": "512000",
-    "DFIntMinSoundStreamSizeBytes_PlaceFilter": "1000000;17018663967",
+    "DFIntMinSoundStreamSizeBytes_PlaceFilter": "150000;7902470429",
     "FFlagLuaAppDisableACSessionRestartOnSearchCleared": "True",
     "FFlagWaveEmoteOnAvatarContextMenuWithExpChat": "True",
     "DFIntReportReplicateDestroySettingInfluxHundredthsPercentage": "100",
@@ -12950,7 +12950,6 @@
     "DFFlagUseInProductionChannel": "True",
     "FFlagReadOnlyDisablesAutocomplete": "True",
     "FFlagConsolesSearchAutoKeyboard": "True",
-    "DFFlagThirdPartyVideoAdFetchMetrics": "True",
     "FFlagSocialAnalyticsSupportTelemetry": "True",
     "DFIntThirdPartyVideoAdFetchHundredthsPercent": "10000",
     "FFlagXboxDeferActivation": "True",
@@ -13927,8 +13926,8 @@
     "FFlagUseNewShortLinkGeneration1": "True",
     "FFlagVRSettingsPage": "True",
     "FFlagEnableFlagParseTiming_Rollout": "True;30;2024-07-12T16:15:29",
-    "FStringFlagRepoGitHashFastString": "fac2c7cffd62a3b8aa52ccd036ad34a20a423359",
-    "DFStringFlagRepoGitHashDynamicString": "fac2c7cffd62a3b8aa52ccd036ad34a20a423359",
-    "FStringFlipTimeStampFastString": "2024-07-12T16:19:19.115Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-12T16:19:19.115Z"
+    "FStringFlagRepoGitHashFastString": "8f3abb1754eaa4eb12e35c9bd2b377187316176e",
+    "DFStringFlagRepoGitHashDynamicString": "8f3abb1754eaa4eb12e35c9bd2b377187316176e",
+    "FStringFlipTimeStampFastString": "2024-07-12T16:41:17.453Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-12T16:41:17.453Z"
 }

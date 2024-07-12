@@ -12950,7 +12950,6 @@
     "DFFlagUseInProductionChannel": "True",
     "FFlagReadOnlyDisablesAutocomplete": "True",
     "FFlagConsolesSearchAutoKeyboard": "True",
-    "DFFlagThirdPartyVideoAdFetchMetrics": "True",
     "FFlagSocialAnalyticsSupportTelemetry": "True",
     "DFIntThirdPartyVideoAdFetchHundredthsPercent": "10000",
     "FFlagXboxDeferActivation": "True",
@@ -13485,8 +13484,8 @@
     "DFFlagRandomNewSeedLimitReport": "True",
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
     "DFFlagRandomNewSeedLimitReportOnce": "True",
-    "FStringFlagRepoGitHashFastString": "fac2c7cffd62a3b8aa52ccd036ad34a20a423359",
-    "DFStringFlagRepoGitHashDynamicString": "fac2c7cffd62a3b8aa52ccd036ad34a20a423359",
-    "FStringFlipTimeStampFastString": "2024-07-12T16:19:19.115Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-12T16:19:19.115Z"
+    "FStringFlagRepoGitHashFastString": "8f3abb1754eaa4eb12e35c9bd2b377187316176e",
+    "DFStringFlagRepoGitHashDynamicString": "8f3abb1754eaa4eb12e35c9bd2b377187316176e",
+    "FStringFlipTimeStampFastString": "2024-07-12T16:41:17.453Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-12T16:41:17.453Z"
 }
