@@ -12209,7 +12209,6 @@
     "FFlagPhoto2AvatarRemoveSurfaceAppearances": "False",
     "FFlagPhoto2AvatarRemoveSurfaceAppearances_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "FFlagPhoto2AvatarReplicateTempAssetIds": "True",
-    "FFlagPhoto2AvatarReplicateTempAssetIds_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "FFlagRemapR6AnimationJointIndex": "True",
     "FFlagIncreasePlayerNameSizeConsole": "True",
     "FFlagVoiceChatTrackDefaultVoice": "True",
@@ -13445,6 +13444,9 @@
     "FFlagExplorerPackageIconColumn2": "True",
     "FFlagAXByPassAppPolicyForLandingPage": "True",
     "FFlagUseNewShortLinkGeneration1": "True",
+    "FFlagTextBoxScrollingContentAware_Rollout": "True;60;2024-07-12T16:14:18",
+    "FFlagEnableFlagParseTiming_Rollout": "True;30;2024-07-12T16:15:29",
+    "DFFlagFixExtraParserMapEntries_Rollout": "True;30;2024-07-12T16:18:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13794,8 +13796,8 @@
     "FFlagVideoCaptureServiceWinFixMetricsCrash": "True",
     "FFlagUserHeartbeatsInExperienceTracking": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "22e99d5a16b9bef69cc95bf15c0096e44280c77e",
-    "DFStringFlagRepoGitHashDynamicString": "22e99d5a16b9bef69cc95bf15c0096e44280c77e",
-    "FStringFlipTimeStampFastString": "2024-07-12T01:16:13.773Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-12T01:16:13.773Z"
+    "FStringFlagRepoGitHashFastString": "e247bb72a8df5c03081852cde77c9653bf451528",
+    "DFStringFlagRepoGitHashDynamicString": "e247bb72a8df5c03081852cde77c9653bf451528",
+    "FStringFlipTimeStampFastString": "2024-07-12T16:25:57.750Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-12T16:25:57.750Z"
 }
