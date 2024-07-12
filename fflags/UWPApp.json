@@ -13322,13 +13322,14 @@
     "FFlagDisableChromeV3Captures": "True",
     "FFlagDoNotPausePriorToGameLoading_Rollout": "True;60;2024-07-12T16:59:22",
     "FFlagFixBacktraceUniqueID2_Rollout": "True;60;2024-07-12T17:07:07",
-    "DFFlagFixExplosionTimescale_Rollout": "True;30;2024-07-12T17:13:08",
     "FFlagHandleExitingPlaySoloDuringLoad_Rollout": "True;60;2024-07-12T17:13:35",
     "FFlagDraftsDoNotRemoveScriptsWhileAddingThem_Rollout": "True;60;2024-07-12T17:14:29",
     "FFlagEnableBillboardUpdateFrequency_PlaceFilter": "True;12123120785;7746948539",
     "DFFlagTrackSessionIndex_Rollout": "False;60;2024-07-12T17:22:59",
     "FFlagStudioLabelMainThread_Rollout": "True;60;2024-07-12T17:34:35",
     "FFlagStudioMonitorDMThreadBlockingMain_Rollout": "True;60;2024-07-12T17:35:17",
+    "FFlagRemoveUtilityDataCallbackForUpdatingUtilityCurves_Rollout": "True;60;2024-07-12T17:49:01",
+    "DFFlagFixExplosionTimescale": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13551,8 +13552,8 @@
     "FFlagAXFixAvatarLayeredClothing": "True",
     "DFFlagStrictStringConvertReport2": "True",
     "FFlagEnableFlagParseTiming": "True",
-    "FStringFlagRepoGitHashFastString": "719d97783b264f6a23386cc2214cb4d7bd9e5ad5",
-    "DFStringFlagRepoGitHashDynamicString": "719d97783b264f6a23386cc2214cb4d7bd9e5ad5",
-    "FStringFlipTimeStampFastString": "2024-07-12T17:38:54.906Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-12T17:38:54.906Z"
+    "FStringFlagRepoGitHashFastString": "4fce1890b2d5337b85a5e36038e4ef0f526b048d",
+    "DFStringFlagRepoGitHashDynamicString": "4fce1890b2d5337b85a5e36038e4ef0f526b048d",
+    "FStringFlipTimeStampFastString": "2024-07-12T18:19:26.642Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-12T18:19:26.642Z"
 }
