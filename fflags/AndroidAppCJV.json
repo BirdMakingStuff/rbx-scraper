@@ -13321,13 +13321,13 @@
     "FFlagViewportFrameEnvMapSupport2": "True",
     "FFlagDisableChromeV3Captures": "True",
     "FFlagEnableBillboardUpdateFrequency_PlaceFilter": "True;12123120785;7746948539",
-    "FFlagRemoveUtilityDataCallbackForUpdatingUtilityCurves_Rollout": "True;60;2024-07-12T17:49:01",
     "DFFlagFixExplosionTimescale": "True",
     "FFlagDoNotPausePriorToGameLoading": "True",
     "FFlagDraftsDoNotRemoveScriptsWhileAddingThem": "True",
     "FFlagHandleExitingPlaySoloDuringLoad": "True",
     "FFlagStudioLabelMainThread": "True",
     "FFlagStudioMonitorDMThreadBlockingMain": "True",
+    "FFlagRemoveUtilityDataCallbackForUpdatingUtilityCurves": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13920,8 +13920,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "f57f9f2ab925c8081fb2906768618edd8983a621",
-    "DFStringFlagRepoGitHashDynamicString": "f57f9f2ab925c8081fb2906768618edd8983a621",
-    "FStringFlipTimeStampFastString": "2024-07-12T19:11:44.761Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-12T19:11:44.761Z"
+    "FStringFlagRepoGitHashFastString": "25d59c1b2a0553b085ad294a195e8c6a65f3c8a4",
+    "DFStringFlagRepoGitHashDynamicString": "25d59c1b2a0553b085ad294a195e8c6a65f3c8a4",
+    "FStringFlipTimeStampFastString": "2024-07-12T19:21:53.803Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-12T19:21:53.803Z"
 }
