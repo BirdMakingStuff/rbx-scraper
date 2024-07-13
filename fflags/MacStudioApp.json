@@ -11691,7 +11691,7 @@
     "DFFlagExperienceStateCaptureDisableSound": "True",
     "DFFlagExperienceStateCaptureMinMemEnabled": "False",
     "FFlagExperienceStateCaptureAddPlayers": "True",
-    "FFlagRunSoundCacheTunableV2BranchIXP": "True",
+    "FFlagRunSoundCacheTunableV2BranchIXP": "False",
     "FFlagFasterSoundIdHashing": "True",
     "FFlagLinkedSourceMigrator": "True",
     "FFlagHookUgcGameDidClose": "True",
@@ -13327,7 +13327,6 @@
     "FFlagStudioLabelMainThread": "True",
     "FFlagStudioMonitorDMThreadBlockingMain": "True",
     "FFlagRemoveUtilityDataCallbackForUpdatingUtilityCurves": "False",
-    "FFlagRunSoundCacheTunableV2BranchIXP_Rollout": "False;60;2024-07-12T23:03:44",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14152,8 +14151,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "cd918856aad8cdf7f258027f5c43fc0e0e1f0d7c",
-    "DFStringFlagRepoGitHashDynamicString": "cd918856aad8cdf7f258027f5c43fc0e0e1f0d7c",
-    "FStringFlipTimeStampFastString": "2024-07-12T23:07:05.282Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-12T23:07:05.282Z"
+    "FStringFlagRepoGitHashFastString": "1f6830b8cd644b6abe2a478f145209f762986c40",
+    "DFStringFlagRepoGitHashDynamicString": "1f6830b8cd644b6abe2a478f145209f762986c40",
+    "FStringFlipTimeStampFastString": "2024-07-13T00:37:27.701Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-13T00:37:27.701Z"
 }
