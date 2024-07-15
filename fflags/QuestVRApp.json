@@ -13249,7 +13249,6 @@
     "FIntUGCValidationHeadThreshold": "35",
     "FFlagEnableRbxCrashReportInSessionTracking": "True",
     "FFlagMoveShouldStoreOriginalValues": "True",
-    "FFlagSimSolverConsolidatePerfTelemetrySendLogic": "True",
     "DFFlagTrackSessionIndex": "False",
     "DFFlagFloorCacheAccessCorrectOrder": "False",
     "FFlagFixBacktraceUniqueID2": "True",
@@ -13927,8 +13926,9 @@
     "FFlagAXByPassAppPolicyForLandingPage": "True",
     "FFlagUseNewShortLinkGeneration1": "True",
     "FFlagVRSettingsPage": "True",
-    "FStringFlagRepoGitHashFastString": "1f6830b8cd644b6abe2a478f145209f762986c40",
-    "DFStringFlagRepoGitHashDynamicString": "1f6830b8cd644b6abe2a478f145209f762986c40",
-    "FStringFlipTimeStampFastString": "2024-07-13T00:37:27.701Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-13T00:37:27.701Z"
+    "FFlagEnableFlagParseTiming_Rollout": "True;30;2024-07-15T16:11:10",
+    "FStringFlagRepoGitHashFastString": "d8be2a0aa69d6c47b6ea5026d26c9941ce1edb61",
+    "DFStringFlagRepoGitHashDynamicString": "d8be2a0aa69d6c47b6ea5026d26c9941ce1edb61",
+    "FStringFlipTimeStampFastString": "2024-07-15T16:11:38.695Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-15T16:11:38.695Z"
 }
