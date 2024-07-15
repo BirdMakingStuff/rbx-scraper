@@ -14074,6 +14074,11 @@
     "FFlagChangeHistoryLoggingAndTelemetry": "True",
     "DFFlagBanHistoryServerMessage_Rollout": "True;60;2024-07-15T16:10:57",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "FFlagLuaAppMigrateOmniContentType_Rollout": "True;30;2024-07-15T16:25:05",
+    "FFlagAppChatAvoidDroppingMessagesInReducer_Rollout": "True;60;2024-07-15T16:27:38",
+    "FFlagLuaAppFixMemoizeOnError_Rollout": "True;30;2024-07-15T16:33:29",
+    "FFlagLuaAppRefactorGameInfos_Rollout": "True;30;2024-07-15T16:36:30",
+    "FFlagConvAIFixStreamCreationTiming_Rollout": "True;60;2024-07-15T16:37:51",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -14153,8 +14158,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "d8be2a0aa69d6c47b6ea5026d26c9941ce1edb61",
-    "DFStringFlagRepoGitHashDynamicString": "d8be2a0aa69d6c47b6ea5026d26c9941ce1edb61",
-    "FStringFlipTimeStampFastString": "2024-07-15T16:11:38.695Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-15T16:11:38.695Z"
+    "FStringFlagRepoGitHashFastString": "01dc358dd379080a8bb71606c1f9af5981ce33c4",
+    "DFStringFlagRepoGitHashDynamicString": "01dc358dd379080a8bb71606c1f9af5981ce33c4",
+    "FStringFlipTimeStampFastString": "2024-07-15T16:38:10.867Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-15T16:38:10.867Z"
 }
