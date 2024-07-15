@@ -13330,6 +13330,10 @@
     "FFlagUIBloxEnableTooltipV2BodyFontFix_Rollout": "True;60;2024-07-15T18:19:16",
     "FFlagUIBloxEnableTooltipV2HoverControllerReRenderFix_Rollout": "True;60;2024-07-15T18:21:17",
     "FFlagEnableExperimentCacheManagerInitFix_Rollout": "True;60;2024-07-15T18:23:55",
+    "FFlagLuaAppUseAppHeaderBar_Rollout": "True;60;2024-07-15T18:37:50",
+    "FFlagUIBloxUseNewHeaderBar3_Rollout": "True;60;2024-07-15T18:38:22",
+    "DFFlagCLI96239ReportOnly_Rollout": "True;20;2024-07-15T18:38:56",
+    "FFlagReplaceOldCFrameSanitize_Rollout": "True;60;2024-07-15T18:39:34",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13489,7 +13493,6 @@
     "DFFlagRandomNewSeedLimitReport": "True",
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
     "DFFlagRandomNewSeedLimitReportOnce": "True",
-    "FFlagGamepadNavigationDialogABTest_Rollout": "True;60;2024-07-15T17:09:43",
     "FFlagEnableFlagParseTiming": "True",
     "FFlagLuaAppMigrateOmniContentType": "True",
     "FFlagFixReducedMotionStuckIGM2_Rollout": "True;60;2024-07-15T17:35:09",
@@ -13504,8 +13507,9 @@
     "FFlagLuaAppUseCollectionViewIXP2": "True",
     "FIntSquareGameTileMinItemCount": "8",
     "FFlagScaleJointsBeforeMeshes_Rollout": "True;60;2024-07-15T18:17:10",
-    "FStringFlagRepoGitHashFastString": "8fb6fbcd0db06c574bd7429ece7e322589db8ad3",
-    "DFStringFlagRepoGitHashDynamicString": "8fb6fbcd0db06c574bd7429ece7e322589db8ad3",
-    "FStringFlipTimeStampFastString": "2024-07-15T18:27:24.159Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-15T18:27:24.159Z"
+    "FFlagGamepadNavigationDialogABTest": "True",
+    "FStringFlagRepoGitHashFastString": "d71e1c08743bac7290ac25030cfa65095f99cc70",
+    "DFStringFlagRepoGitHashDynamicString": "d71e1c08743bac7290ac25030cfa65095f99cc70",
+    "FStringFlipTimeStampFastString": "2024-07-15T18:41:29.848Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-15T18:41:29.848Z"
 }
