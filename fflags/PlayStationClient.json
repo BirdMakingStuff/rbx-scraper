@@ -13362,13 +13362,13 @@
     "DFFlagEchoSoundEffectFeedbackFix": "True",
     "FFlagFixDialogTouchNotWorking": "True",
     "FFlagConvertToPackageMuteSounds": "True",
-    "FFlagAnimationCurveDenseCacheEnabled2_Rollout": "False;30;2024-07-16T19:17:45",
     "FIntHumanoidParallelMinParallelSize": "2",
     "FIntHumanoidParallelMultiSubmitBatchSize": "2",
     "FFlagSwitchInExpTranslationsPackage2": "True",
     "FFlagArrayDynamicDetailHandleFailedAllocation2_Rollout": "True;60;2024-07-16T19:59:26",
     "FFlagDSAReportingIGMv2": "True",
     "FFlagFixEmotesMenuVR": "True",
+    "FFlagAnimationCurveDenseCacheEnabled2": "False",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13556,8 +13556,9 @@
     "FFlagUseNewShortLinkGeneration1": "True",
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": "100",
     "FFlagPhysicsCountLocalSimulatedTouchEvents": "True",
-    "FStringFlagRepoGitHashFastString": "ca95ffd1cf85974c4eac7f6583c95387f7594d85",
-    "DFStringFlagRepoGitHashDynamicString": "ca95ffd1cf85974c4eac7f6583c95387f7594d85",
-    "FStringFlipTimeStampFastString": "2024-07-16T20:20:26.559Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-16T20:20:26.559Z"
+    "DFFlagEnableGameJoinPriority_Rollout": "True;60;2024-07-16T20:26:51",
+    "FStringFlagRepoGitHashFastString": "361c1f000c2f68e67d43f42bc62ba49cfdf93098",
+    "DFStringFlagRepoGitHashDynamicString": "361c1f000c2f68e67d43f42bc62ba49cfdf93098",
+    "FStringFlipTimeStampFastString": "2024-07-16T20:37:31.414Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-16T20:37:31.414Z"
 }
