@@ -134,10 +134,10 @@
     "FFlagEnableUnknownErrorCreatorDashboardMessage": "True",
     "FFlagScaleJointsBeforeMeshes": "True",
     "FFlagEnableNotApprovedForeshadowingConsequenceABTest": "True",
-    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1_Rollout": "True;60;2024-07-16T17:54:38",
     "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing_Rollout": "True;60;2024-07-16T18:10:47",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
     "FFlagDefaultUDimSuperBriefView_Rollout": "True;60;2024-07-16T19:10:40",
+    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -160,8 +160,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "5571a68ecbce09bb4f12c0eb059fc00467067ea1",
-    "DFStringFlagRepoGitHashDynamicString": "5571a68ecbce09bb4f12c0eb059fc00467067ea1",
-    "FStringFlipTimeStampFastString": "2024-07-16T19:12:02.930Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-16T19:12:02.930Z"
+    "FStringFlagRepoGitHashFastString": "5b3a8b11df159557ca74f10174b8bf98d404f463",
+    "DFStringFlagRepoGitHashDynamicString": "5b3a8b11df159557ca74f10174b8bf98d404f463",
+    "FStringFlipTimeStampFastString": "2024-07-16T19:36:40.012Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-16T19:36:40.012Z"
 }
