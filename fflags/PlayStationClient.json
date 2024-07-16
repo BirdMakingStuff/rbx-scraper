@@ -13372,6 +13372,7 @@
     "FFlagPerformanceTelemetrySubsystem_Rollout": "True;60;2024-07-16T21:52:35",
     "FFlagCAPWidgetCleanupUIOnPlaceClose_Rollout": "True;60;2024-07-16T21:52:59",
     "DFFlagSimSolverOptimizeLargeIslandCountBatching2_Rollout": "True;60;2024-07-16T22:02:43",
+    "FFlagAXNewColorPickerPalette_Rollout": "True;60;2024-07-16T23:19:31",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13559,13 +13560,13 @@
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": "100",
     "FFlagPhysicsCountLocalSimulatedTouchEvents": "True",
     "FFlagDefaultUDimSuperBriefView": "True",
-    "FFlagFixExposureLoggingForDisplayNameTooltip_Rollout": "True;60;2024-07-16T21:41:03",
-    "FFlagProfileShareLinksIXPSetupEnabled_v2_Rollout": "True;60;2024-07-16T21:42:19",
-    "FFlagProfileShareLinkAddProfileShareFriendType_Rollout": "True;60;2024-07-16T21:42:48",
     "DFFlagEnableGameJoinPriority": "True",
     "FFlagAXItemCreatorNames1_Rollout": "True;60;2024-07-16T22:14:22",
-    "FStringFlagRepoGitHashFastString": "889f725d55fa578ecf7e1d35211f30fd0f5f9e49",
-    "DFStringFlagRepoGitHashDynamicString": "889f725d55fa578ecf7e1d35211f30fd0f5f9e49",
-    "FStringFlipTimeStampFastString": "2024-07-16T22:30:56.043Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-16T22:30:56.043Z"
+    "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
+    "FFlagProfileShareLinkAddProfileShareFriendType": "True",
+    "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
+    "FStringFlagRepoGitHashFastString": "23be7ea9507a7f4e3782975b644d7eb9d643e8d3",
+    "DFStringFlagRepoGitHashDynamicString": "23be7ea9507a7f4e3782975b644d7eb9d643e8d3",
+    "FStringFlipTimeStampFastString": "2024-07-16T23:20:03.296Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-16T23:20:03.296Z"
 }
