@@ -13369,10 +13369,8 @@
     "FFlagFixEmotesMenuVR": "True",
     "FFlagAnimationCurveDenseCacheEnabled2": "False",
     "FFlagArrayDynamicDetailHandleFailedAllocation2": "True",
-    "FFlagPerformanceTelemetrySubsystem_Rollout": "True;60;2024-07-16T21:52:35",
-    "FFlagCAPWidgetCleanupUIOnPlaceClose_Rollout": "True;60;2024-07-16T21:52:59",
-    "DFFlagSimSolverOptimizeLargeIslandCountBatching2_Rollout": "True;60;2024-07-16T22:02:43",
     "FFlagAXNewColorPickerPalette_Rollout": "True;60;2024-07-16T23:19:31",
+    "DFFlagSimSolverOptimizeLargeIslandCountBatching2": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13510,8 +13508,6 @@
     "FFlagUseSessionServiceWrapper": "True",
     "DFFlagCollisionMeshCachingStats2": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FFlagFixUIGradientFlickering": "True",
-    "FFlagFixUIRayGoingThruExistingVerts2": "True",
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "True",
     "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing": "True",
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": "100",
@@ -13872,8 +13868,8 @@
     "FFlagApplyDescriptionFinishedEvent_PlaceFilter": "True;7061415250",
     "DFFlagVoiceChatHideTurnCredentialsInLog": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "23be7ea9507a7f4e3782975b644d7eb9d643e8d3",
-    "DFStringFlagRepoGitHashDynamicString": "23be7ea9507a7f4e3782975b644d7eb9d643e8d3",
-    "FStringFlipTimeStampFastString": "2024-07-16T23:20:03.296Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-16T23:20:03.296Z"
+    "FStringFlagRepoGitHashFastString": "4ec43c20fb5e624363f6a6ec38ffe81fcd89c40e",
+    "DFStringFlagRepoGitHashDynamicString": "4ec43c20fb5e624363f6a6ec38ffe81fcd89c40e",
+    "FStringFlipTimeStampFastString": "2024-07-16T23:37:18.096Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-16T23:37:18.096Z"
 }
