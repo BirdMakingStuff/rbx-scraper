@@ -14129,6 +14129,7 @@
     "FFlagSessionTelemetryNameFilterFix": "True",
     "FFlagVoiceChatEnableTurnAuthFromRCC_CLIENT": "True",
     "FFlagMainWindowNoNotificationService": "True",
+    "FFlagMigratePackagesOffOfWWWPart2_Rollout": "True;60;2024-07-16T16:02:46",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14215,8 +14216,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "515f4b70a43b5baca635d84d9abc0ae3c3086c33",
-    "DFStringFlagRepoGitHashDynamicString": "515f4b70a43b5baca635d84d9abc0ae3c3086c33",
-    "FStringFlipTimeStampFastString": "2024-07-16T01:16:56.165Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-16T01:16:56.165Z"
+    "FStringFlagRepoGitHashFastString": "9bdd63e822417b03f3de2977dbe9107e984b4537",
+    "DFStringFlagRepoGitHashDynamicString": "9bdd63e822417b03f3de2977dbe9107e984b4537",
+    "FStringFlipTimeStampFastString": "2024-07-16T16:06:00.569Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-16T16:06:00.569Z"
 }
