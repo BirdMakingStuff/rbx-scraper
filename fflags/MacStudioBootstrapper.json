@@ -134,10 +134,10 @@
     "FFlagEnableUnknownErrorCreatorDashboardMessage": "True",
     "FFlagScaleJointsBeforeMeshes": "True",
     "FFlagEnableNotApprovedForeshadowingConsequenceABTest": "True",
-    "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing_Rollout": "True;60;2024-07-16T18:10:47",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
     "FFlagDefaultUDimSuperBriefView_Rollout": "True;60;2024-07-16T19:10:40",
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "True",
+    "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -147,8 +147,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "5b3a8b11df159557ca74f10174b8bf98d404f463",
-    "DFStringFlagRepoGitHashDynamicString": "5b3a8b11df159557ca74f10174b8bf98d404f463",
-    "FStringFlipTimeStampFastString": "2024-07-16T19:36:40.012Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-16T19:36:40.012Z"
+    "FStringFlagRepoGitHashFastString": "ca95ffd1cf85974c4eac7f6583c95387f7594d85",
+    "DFStringFlagRepoGitHashDynamicString": "ca95ffd1cf85974c4eac7f6583c95387f7594d85",
+    "FStringFlipTimeStampFastString": "2024-07-16T20:20:26.559Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-16T20:20:26.559Z"
 }
