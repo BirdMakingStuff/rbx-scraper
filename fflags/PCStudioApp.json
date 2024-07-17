@@ -13290,7 +13290,7 @@
     "DFFlagReportTimeBetweenTTServerNew_DataCenterFilter": "True;361",
     "DFFlagReportTimeBetweenTTClientNew_DataCenterFilter": "True;361",
     "DFFlagHarmonyStreamingNewMetrics": "True",
-    "FFlagClientTokenFromHeader33_DataCenterFilter": "True;361",
+    "FFlagClientTokenFromHeader33_DataCenterFilter": "True;361;369",
     "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming": "True",
     "FFlagFixChatMessageSort": "True",
     "FFlagAimNoMorePackageBump": "True",
@@ -13371,6 +13371,7 @@
     "FFlagArrayDynamicDetailHandleFailedAllocation2": "True",
     "DFFlagSimSolverOptimizeLargeIslandCountBatching2": "True",
     "FFlagAXNewColorPickerPalette": "True",
+    "FFlagSimSolverConsolidatePerfTelemetrySendLogic": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14160,6 +14161,8 @@
     "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
     "FFlagStudioRefactorRestoreIDEState": "True",
     "DFFlagAllowPropertyDefaultSkip": "True",
+    "FFlagRegisterTerminationCrashHandler_Rollout": "True;60;2024-07-17T16:05:53",
+    "FFlagLuaRibbonPerformanceImprovement_Rollout": "True;60;2024-07-17T16:38:30",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14246,8 +14249,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "8a288bbc795962b93e86d3b256ea30f4bcd03dba",
-    "DFStringFlagRepoGitHashDynamicString": "8a288bbc795962b93e86d3b256ea30f4bcd03dba",
-    "FStringFlipTimeStampFastString": "2024-07-17T01:07:41.454Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T01:07:41.454Z"
+    "FStringFlagRepoGitHashFastString": "8375e98b623cb3da1bf068b900d982a42b8675ac",
+    "DFStringFlagRepoGitHashDynamicString": "8375e98b623cb3da1bf068b900d982a42b8675ac",
+    "FStringFlipTimeStampFastString": "2024-07-17T16:39:10.888Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T16:39:10.888Z"
 }
