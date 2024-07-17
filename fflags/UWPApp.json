@@ -11979,7 +11979,7 @@
     "DFFlagSignalAncestryDeferredYield": "True",
     "DFFlagAvatarChatServiceEnableVoiceEnabledV1_PlaceFilter": "True;17083276694;16808943290;7746948539",
     "FFlagAvatarChatServiceExposeUserVerifiedForVoiceV2_PlaceFilter": "True;17083276694;16808943290;7746948539",
-    "FFlagSendLikelySpeakingUsers_PlaceFilter": "True;17083276694;16808943290;7746948539;15364080980;6884319169",
+    "FFlagSendLikelySpeakingUsers_PlaceFilter": "True;17083276694;16808943290;7746948539;15364080980;6884319169;1962657432",
     "FFlagLuaAppExperienceJoinIdempotencyKey": "True",
     "DFFlagEnableTelemetryV2FRMStats": "True",
     "FFlagTenFootUiExperiencesOmniLogFix": "True",
@@ -13640,10 +13640,10 @@
     "FFlagLuaAppDeprecateGameSortEntry": "True",
     "FFlagLuaAppCollectionViewOta": "True",
     "FFlagLuaAppUnifyGameModel": "True",
-    "FFlagAXItemCardTallEnabled3_Rollout": "True;60;2024-07-17T21:56:27",
     "FFlagGetTextBoundsRichText": "True",
-    "FStringFlagRepoGitHashFastString": "6ea55d078d9a17490619d06568bb253bc85eea12",
-    "DFStringFlagRepoGitHashDynamicString": "6ea55d078d9a17490619d06568bb253bc85eea12",
-    "FStringFlipTimeStampFastString": "2024-07-17T23:17:49.184Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T23:17:49.184Z"
+    "FFlagAXItemCardTallEnabled3": "True",
+    "FStringFlagRepoGitHashFastString": "89589e1348fe006cb70b1362f77cd2b423612b8c",
+    "DFStringFlagRepoGitHashDynamicString": "89589e1348fe006cb70b1362f77cd2b423612b8c",
+    "FStringFlipTimeStampFastString": "2024-07-17T23:32:53.543Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T23:32:53.543Z"
 }
