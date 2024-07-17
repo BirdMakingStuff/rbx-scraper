@@ -13373,6 +13373,8 @@
     "DFIntWindowsMinimumClientVersion": "630",
     "FIntMaterialPickerBetaFeatureRolloutPercent_Rollout": "100;60;2024-07-17T18:54:42",
     "FFlagWinBackgroundDownloadUpdates": "True",
+    "DFFlagContentProviderPriorityList2_Rollout": "True;60;2024-07-17T19:54:12",
+    "FFlagDisableWearAfterPurchaseForCollectibles_Rollout": "False;60;2024-07-17T20:13:16",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13994,8 +13996,10 @@
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagVoiceChatNullMidFix": "True",
     "FFlagUniversalAppCsat4": "True",
-    "FStringFlagRepoGitHashFastString": "8ef427e7025974668774c475dc8f3ca9dc3cbdef",
-    "DFStringFlagRepoGitHashDynamicString": "8ef427e7025974668774c475dc8f3ca9dc3cbdef",
-    "FStringFlipTimeStampFastString": "2024-07-17T19:27:26.491Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T19:27:26.491Z"
+    "FFlagEnableAccountSelectorPeekviewRemoveSuperBriefState_Rollout": "True;15;2024-07-17T19:46:18",
+    "FFlagEnableVideoLandingRelease3_Rollout": "True;30;2024-07-17T19:59:52",
+    "FStringFlagRepoGitHashFastString": "3974da959ba7d1e2cc65bb689e0021ec6a37705f",
+    "DFStringFlagRepoGitHashDynamicString": "3974da959ba7d1e2cc65bb689e0021ec6a37705f",
+    "FStringFlipTimeStampFastString": "2024-07-17T20:14:55.566Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T20:14:55.566Z"
 }
