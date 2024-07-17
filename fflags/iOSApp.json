@@ -13383,6 +13383,7 @@
     "FFlagEnableDropdownButtonTelemetry": "True",
     "FFlagEnableMaterialPicker": "True",
     "FFlagMaterialPickerBetaEnabled": "True",
+    "FFlagGraphicsGLFixTextureNPOTCheck2_Rollout": "True;60;2024-07-17T21:00:09",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14003,10 +14004,12 @@
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagVoiceChatNullMidFix": "True",
     "FFlagUniversalAppCsat4": "True",
-    "FFlagEnableVideoLandingRelease3_Rollout": "True;30;2024-07-17T19:59:52",
     "FFlagEnableAccountSelectorPeekviewRemoveSuperBriefState": "True",
-    "FStringFlagRepoGitHashFastString": "d9719ece5ebad2141289bbdc37c5d1c7af26593a",
-    "DFStringFlagRepoGitHashDynamicString": "d9719ece5ebad2141289bbdc37c5d1c7af26593a",
-    "FStringFlipTimeStampFastString": "2024-07-17T20:38:19.416Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T20:38:19.416Z"
+    "FFlagEnableNewWebRtcFlow_Rollout": "True;60;2024-07-17T20:52:45",
+    "FFlagGetTextBoundsRichText_Rollout": "True;30;2024-07-17T20:54:29",
+    "FFlagEnableVideoLandingRelease3": "True",
+    "FStringFlagRepoGitHashFastString": "304c6b126638655d946e1d5c4bf52d391137347b",
+    "DFStringFlagRepoGitHashDynamicString": "304c6b126638655d946e1d5c4bf52d391137347b",
+    "FStringFlipTimeStampFastString": "2024-07-17T21:03:01.356Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T21:03:01.356Z"
 }
