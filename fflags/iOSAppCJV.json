@@ -13976,7 +13976,7 @@
     "FFlagVoiceChatEnableTurnAuthFromRCC_CLIENT": "True",
     "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
     "FFlagUIBloxGetTextHeightOptionalMaxHeight": "True",
-    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "True",
+    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "False",
     "FFlagEDPContextReduceIXPVariableUsage": "True",
     "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing": "True",
     "FFlagEnablePushNotificationsUpsellModal3": "True",
@@ -13990,8 +13990,9 @@
     "DFFlagEnableGameJoinPriority": "True",
     "FFlagEnableAddAccountPeekviewRemoveSuperBriefState": "True",
     "FFlagVoiceChatRecordMetricsForSubPeerConnected": "True",
-    "FFlagRegisterTerminationCrashHandler_Rollout": "True;60;2024-07-17T16:05:53",
-    "FFlagVoiceChatNullMidFix_Rollout": "True;60;2024-07-17T16:31:22",
+    "FFlagRegisterTerminationCrashHandler": "True",
+    "FFlagUniversalAppCsat4_Rollout": "True;30;2024-07-17T17:55:42",
+    "FFlagVoiceChatNullMidFix": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -14030,8 +14031,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "2283a0992323847788ced3d3c3319a31dab37c87",
-    "DFStringFlagRepoGitHashDynamicString": "2283a0992323847788ced3d3c3319a31dab37c87",
-    "FStringFlipTimeStampFastString": "2024-07-17T17:31:29.166Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T17:31:29.166Z"
+    "FStringFlagRepoGitHashFastString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
+    "DFStringFlagRepoGitHashDynamicString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
+    "FStringFlipTimeStampFastString": "2024-07-17T18:24:15.967Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T18:24:15.967Z"
 }

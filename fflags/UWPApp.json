@@ -13609,7 +13609,7 @@
     "FFlagEnableNotApprovedForeshadowingConsequenceABTest": "True",
     "FFlagVoiceChatEnableTurnAuthFromRCC_CLIENT": "True",
     "FFlagLightgridCPUAsyncUpdate5": "True",
-    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "True",
+    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "False",
     "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing": "True",
     "FFlagUseNewShortLinkGeneration1": "True",
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": "100",
@@ -13619,9 +13619,12 @@
     "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
     "FFlagProfileShareLinkAddProfileShareFriendType": "True",
     "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
-    "FFlagRegisterTerminationCrashHandler_Rollout": "True;60;2024-07-17T16:05:53",
-    "FStringFlagRepoGitHashFastString": "2283a0992323847788ced3d3c3319a31dab37c87",
-    "DFStringFlagRepoGitHashDynamicString": "2283a0992323847788ced3d3c3319a31dab37c87",
-    "FStringFlipTimeStampFastString": "2024-07-17T17:31:29.166Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T17:31:29.166Z"
+    "FFlagRegisterTerminationCrashHandler": "True",
+    "FFlagLuaAppDeprecateGameSortEntry_Rollout": "True;60;2024-07-17T17:51:13",
+    "FFlagLuaAppUnifyGameModel_Rollout": "True;60;2024-07-17T18:18:20",
+    "FFlagLuaAppCollectionViewOta_Rollout": "True;60;2024-07-17T18:19:28",
+    "FStringFlagRepoGitHashFastString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
+    "DFStringFlagRepoGitHashDynamicString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
+    "FStringFlipTimeStampFastString": "2024-07-17T18:24:15.967Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T18:24:15.967Z"
 }

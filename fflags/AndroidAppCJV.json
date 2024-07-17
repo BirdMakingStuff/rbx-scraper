@@ -13930,6 +13930,7 @@
     "FFlagAXFixAvatarLayeredClothing": "True",
     "CrashpadEnableApiUnification": "true",
     "DFFlagStrictStringConvertReport2": "True",
+    "FFlagUniversalAppCsat4_Rollout": "True;30;2024-07-17T17:55:42",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -13962,8 +13963,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "2283a0992323847788ced3d3c3319a31dab37c87",
-    "DFStringFlagRepoGitHashDynamicString": "2283a0992323847788ced3d3c3319a31dab37c87",
-    "FStringFlipTimeStampFastString": "2024-07-17T17:31:29.166Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T17:31:29.166Z"
+    "FStringFlagRepoGitHashFastString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
+    "DFStringFlagRepoGitHashDynamicString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
+    "FStringFlipTimeStampFastString": "2024-07-17T18:24:15.967Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T18:24:15.967Z"
 }
