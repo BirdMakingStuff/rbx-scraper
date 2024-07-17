@@ -13371,6 +13371,7 @@
     "FFlagAXNewColorPickerPalette": "True",
     "FFlagSimSolverConsolidatePerfTelemetrySendLogic": "True",
     "DFIntWindowsMinimumClientVersion_Rollout": "630;60;2024-07-17T17:16:06",
+    "FFlagWinBackgroundDownloadUpdates_Rollout": "True;60;2024-07-17T17:28:56",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13870,8 +13871,8 @@
     "DFFlagVoiceChatHideTurnCredentialsInLog": "True",
     "FFlagSurfaceAppearanceTinting3_Rollout": "True;60;2024-07-17T16:21:57",
     "FFlagVoiceChatNullMidFix_Rollout": "True;60;2024-07-17T16:31:22",
-    "FStringFlagRepoGitHashFastString": "49f8d4f67cc52e9ed505d00034dcefdf50de1f4f",
-    "DFStringFlagRepoGitHashDynamicString": "49f8d4f67cc52e9ed505d00034dcefdf50de1f4f",
-    "FStringFlipTimeStampFastString": "2024-07-17T17:16:48.153Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T17:16:48.153Z"
+    "FStringFlagRepoGitHashFastString": "2283a0992323847788ced3d3c3319a31dab37c87",
+    "DFStringFlagRepoGitHashDynamicString": "2283a0992323847788ced3d3c3319a31dab37c87",
+    "FStringFlipTimeStampFastString": "2024-07-17T17:31:29.166Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T17:31:29.166Z"
 }

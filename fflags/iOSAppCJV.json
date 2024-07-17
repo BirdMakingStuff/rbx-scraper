@@ -13371,6 +13371,7 @@
     "FFlagAXNewColorPickerPalette": "True",
     "FFlagSimSolverConsolidatePerfTelemetrySendLogic": "True",
     "DFIntWindowsMinimumClientVersion_Rollout": "630;60;2024-07-17T17:16:06",
+    "FFlagWinBackgroundDownloadUpdates_Rollout": "True;60;2024-07-17T17:28:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14029,8 +14030,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "49f8d4f67cc52e9ed505d00034dcefdf50de1f4f",
-    "DFStringFlagRepoGitHashDynamicString": "49f8d4f67cc52e9ed505d00034dcefdf50de1f4f",
-    "FStringFlipTimeStampFastString": "2024-07-17T17:16:48.153Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T17:16:48.153Z"
+    "FStringFlagRepoGitHashFastString": "2283a0992323847788ced3d3c3319a31dab37c87",
+    "DFStringFlagRepoGitHashDynamicString": "2283a0992323847788ced3d3c3319a31dab37c87",
+    "FStringFlipTimeStampFastString": "2024-07-17T17:31:29.166Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T17:31:29.166Z"
 }
