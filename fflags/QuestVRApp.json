@@ -13372,7 +13372,6 @@
     "FFlagSimSolverConsolidatePerfTelemetrySendLogic": "True",
     "DFIntWindowsMinimumClientVersion": "630",
     "FFlagWinBackgroundDownloadUpdates": "True",
-    "DFFlagContentProviderPriorityList2_Rollout": "True;60;2024-07-17T19:54:12",
     "FFlagDisableWearAfterPurchaseForCollectibles_Rollout": "False;60;2024-07-17T20:13:16",
     "FFlagUseNewAboutUrls_Rollout": "True;60;2024-07-17T20:27:28",
     "FIntMaterialPickerBetaFeatureRolloutPercent": "100",
@@ -13384,6 +13383,9 @@
     "FFlagEnableMaterialPicker": "True",
     "FFlagMaterialPickerBetaEnabled": "True",
     "FFlagGraphicsGLFixTextureNPOTCheck2_Rollout": "True;60;2024-07-17T21:00:09",
+    "FFlagGeometryVertexSize_Rollout": "True;60;2024-07-17T21:24:33",
+    "DFFlagContentProviderPriorityList2": "True",
+    "DFFlagAnalyticsServiceEnabled_Rollout": "True;60;2024-07-17T21:38:41",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14012,8 +14014,9 @@
     "FFlagLuaAppDeprecateGameSortEntry": "True",
     "FFlagLuaAppCollectionViewOta": "True",
     "FFlagLuaAppUnifyGameModel": "True",
-    "FStringFlagRepoGitHashFastString": "304c6b126638655d946e1d5c4bf52d391137347b",
-    "DFStringFlagRepoGitHashDynamicString": "304c6b126638655d946e1d5c4bf52d391137347b",
-    "FStringFlipTimeStampFastString": "2024-07-17T21:03:01.356Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T21:03:01.356Z"
+    "FFlagEnableVideoLandingRelease3": "False",
+    "FStringFlagRepoGitHashFastString": "3779738a155e652c1680d3d68c2da390f60afe32",
+    "DFStringFlagRepoGitHashDynamicString": "3779738a155e652c1680d3d68c2da390f60afe32",
+    "FStringFlipTimeStampFastString": "2024-07-17T21:39:26.594Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T21:39:26.594Z"
 }
