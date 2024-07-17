@@ -13369,8 +13369,8 @@
     "FFlagFixEmotesMenuVR": "True",
     "FFlagAnimationCurveDenseCacheEnabled2": "True",
     "FFlagArrayDynamicDetailHandleFailedAllocation2": "True",
-    "FFlagAXNewColorPickerPalette_Rollout": "True;60;2024-07-16T23:19:31",
     "DFFlagSimSolverOptimizeLargeIslandCountBatching2": "True",
+    "FFlagAXNewColorPickerPalette": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13513,7 +13513,6 @@
     "FFlagPhysicsCountLocalSimulatedTouchEvents": "True",
     "FFlagDefaultUDimSuperBriefView": "True",
     "DFFlagEnableGameJoinPriority": "True",
-    "FFlagAXItemCreatorNames1_Rollout": "True;60;2024-07-16T22:14:22",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13866,8 +13865,8 @@
     "FFlagSurfaceAppearanceTinting3": "True",
     "FFlagGetTextBoundsRichText": "True",
     "DFFlagVoiceChatHideTurnCredentialsInLog": "True",
-    "FStringFlagRepoGitHashFastString": "4ec43c20fb5e624363f6a6ec38ffe81fcd89c40e",
-    "DFStringFlagRepoGitHashDynamicString": "4ec43c20fb5e624363f6a6ec38ffe81fcd89c40e",
-    "FStringFlipTimeStampFastString": "2024-07-16T23:37:18.096Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-16T23:37:18.096Z"
+    "FStringFlagRepoGitHashFastString": "8a288bbc795962b93e86d3b256ea30f4bcd03dba",
+    "DFStringFlagRepoGitHashDynamicString": "8a288bbc795962b93e86d3b256ea30f4bcd03dba",
+    "FStringFlipTimeStampFastString": "2024-07-17T01:07:41.454Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T01:07:41.454Z"
 }
