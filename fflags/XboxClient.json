@@ -13370,8 +13370,9 @@
     "DFFlagSimSolverOptimizeLargeIslandCountBatching2": "True",
     "FFlagAXNewColorPickerPalette": "True",
     "FFlagSimSolverConsolidatePerfTelemetrySendLogic": "True",
-    "DFIntWindowsMinimumClientVersion_Rollout": "630;60;2024-07-17T17:16:06",
-    "FFlagWinBackgroundDownloadUpdates_Rollout": "True;60;2024-07-17T17:28:56",
+    "DFIntWindowsMinimumClientVersion": "630",
+    "FIntMaterialPickerBetaFeatureRolloutPercent_Rollout": "100;60;2024-07-17T18:54:42",
+    "FFlagWinBackgroundDownloadUpdates": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13738,8 +13739,9 @@
     "FFlagFixRescaleVideoMemLeak": "True",
     "FFlagLuaAppUnifyGameModel_Rollout": "True;60;2024-07-17T18:18:20",
     "FFlagLuaAppCollectionViewOta_Rollout": "True;60;2024-07-17T18:19:28",
-    "FStringFlagRepoGitHashFastString": "c0387dc5c226e85c6ad807a385e3e3ee56c4268f",
-    "DFStringFlagRepoGitHashDynamicString": "c0387dc5c226e85c6ad807a385e3e3ee56c4268f",
-    "FStringFlipTimeStampFastString": "2024-07-17T18:40:13.571Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T18:40:13.571Z"
+    "FFlagVoiceChatEnableTurnAuthFromRCC_CLIENT_Rollout": "True;60;2024-07-17T19:12:43",
+    "FStringFlagRepoGitHashFastString": "bbcbee7e1c4f1da598fab33d4e20a1bbc8b85946",
+    "DFStringFlagRepoGitHashDynamicString": "bbcbee7e1c4f1da598fab33d4e20a1bbc8b85946",
+    "FStringFlipTimeStampFastString": "2024-07-17T19:13:33.170Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T19:13:33.170Z"
 }
