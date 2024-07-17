@@ -13738,8 +13738,8 @@
     "FFlagFixRescaleVideoMemLeak": "True",
     "FFlagLuaAppUnifyGameModel_Rollout": "True;60;2024-07-17T18:18:20",
     "FFlagLuaAppCollectionViewOta_Rollout": "True;60;2024-07-17T18:19:28",
-    "FStringFlagRepoGitHashFastString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
-    "DFStringFlagRepoGitHashDynamicString": "1ecaae49cee5f10a348c45c234e6f1dcc1109af0",
-    "FStringFlipTimeStampFastString": "2024-07-17T18:24:15.967Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T18:24:15.967Z"
+    "FStringFlagRepoGitHashFastString": "c0387dc5c226e85c6ad807a385e3e3ee56c4268f",
+    "DFStringFlagRepoGitHashDynamicString": "c0387dc5c226e85c6ad807a385e3e3ee56c4268f",
+    "FStringFlipTimeStampFastString": "2024-07-17T18:40:13.571Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T18:40:13.571Z"
 }
