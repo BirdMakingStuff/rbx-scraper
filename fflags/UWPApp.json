@@ -13380,12 +13380,13 @@
     "FFlagEnableDropdownButtonTelemetry": "True",
     "FFlagEnableMaterialPicker": "True",
     "FFlagMaterialPickerBetaEnabled": "True",
-    "FFlagGraphicsGLFixTextureNPOTCheck2_Rollout": "True;60;2024-07-17T21:00:09",
     "FFlagGeometryVertexSize_Rollout": "True;60;2024-07-17T21:24:33",
     "DFFlagContentProviderPriorityList2": "True",
     "DFFlagAnalyticsServiceEnabled_Rollout": "True;60;2024-07-17T21:38:41",
     "DFFlagCollectFixedNOUSetsNonRecursively_Rollout": "True;60;2024-07-17T21:42:58",
     "FFlagUseNewAboutUrls": "True",
+    "DFStringDualWritePointToV2WhiteList_Rollout": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+    "FFlagGraphicsGLFixTextureNPOTCheck2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13639,8 +13640,8 @@
     "FFlagLuaAppUnifyGameModel": "True",
     "FFlagAXItemCardTallEnabled3_Rollout": "True;60;2024-07-17T21:56:27",
     "FFlagGetTextBoundsRichText": "True",
-    "FStringFlagRepoGitHashFastString": "c432ba0c31e91f723d162622826d042957e7aa84",
-    "DFStringFlagRepoGitHashDynamicString": "c432ba0c31e91f723d162622826d042957e7aa84",
-    "FStringFlipTimeStampFastString": "2024-07-17T22:16:58.804Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-17T22:16:58.804Z"
+    "FStringFlagRepoGitHashFastString": "13154c098aa3e58eea93db03deceaa2afb8632ad",
+    "DFStringFlagRepoGitHashDynamicString": "13154c098aa3e58eea93db03deceaa2afb8632ad",
+    "FStringFlipTimeStampFastString": "2024-07-17T22:38:08.401Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-17T22:38:08.401Z"
 }
