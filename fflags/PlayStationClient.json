@@ -13288,7 +13288,7 @@
     "DFFlagReportTimeBetweenTTServerNew_DataCenterFilter": "True;361",
     "DFFlagReportTimeBetweenTTClientNew_DataCenterFilter": "True;361",
     "DFFlagHarmonyStreamingNewMetrics": "True",
-    "FFlagClientTokenFromHeader33_DataCenterFilter": "True;361;369",
+    "FFlagClientTokenFromHeader33_DataCenterFilter": "True;361;369;295",
     "DFFlagReduceRunTimeOverheadOfPerformanceControlForStreaming": "True",
     "FFlagFixChatMessageSort": "True",
     "FFlagAimNoMorePackageBump": "True",
@@ -13388,6 +13388,10 @@
     "DFFlagSolverNOURemovedUnderSetOptimized2": "True",
     "DFIntGjkVertexEqualityEpsilonMicro": "500",
     "FFlagEnableChatSystemMessages_Rollout": "True;60;2024-07-18T17:31:16",
+    "FFlagFixGamepadUIScrollingFrameClips_Rollout": "True;60;2024-07-18T18:04:29",
+    "FFlagAimMigrateUploadApiToPublishService_Rollout": "True;60;2024-07-18T18:14:20",
+    "FFlagBatchVoiceParticipantsUpdates_Rollout": "True;60;2024-07-18T18:18:13",
+    "FFlagEnableBillboardUpdateFrequency_Rollout": "True;60;2024-07-18T18:18:23",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13586,8 +13590,9 @@
     "FFlagLuaAppUnifyGameModel": "True",
     "FFlagVoiceChatEnableTurnAuthFromRCC_CLIENT": "True",
     "FFlagAXItemCardTallEnabled3": "True",
-    "FStringFlagRepoGitHashFastString": "46d651fe7ebdc71f13d48ef5707e326901fce3da",
-    "DFStringFlagRepoGitHashDynamicString": "46d651fe7ebdc71f13d48ef5707e326901fce3da",
-    "FStringFlipTimeStampFastString": "2024-07-18T17:34:26.609Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T17:34:26.609Z"
+    "FFlagSurfaceAppearanceTinting3_Rollout": "True;60;2024-07-18T17:58:41",
+    "FStringFlagRepoGitHashFastString": "f1e7729d348ef642a156135da8e9f399e998ef5e",
+    "DFStringFlagRepoGitHashDynamicString": "f1e7729d348ef642a156135da8e9f399e998ef5e",
+    "FStringFlipTimeStampFastString": "2024-07-18T18:22:57.293Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T18:22:57.293Z"
 }
