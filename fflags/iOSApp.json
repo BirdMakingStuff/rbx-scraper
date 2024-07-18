@@ -13977,7 +13977,7 @@
     "DFIntImmersiveAdVideoCollapseScreenEventThrottleHundredthsPercent": "10000",
     "FFlagScaleJointsBeforeMeshes": "True",
     "FFlagEnableGameEngineAppflyerUIDReporting": "True",
-    "FFlagEnableLuaAppsAppflyerUIDReportingV2": "True",
+    "FFlagEnableLuaAppsAppflyerUIDReportingV2": "False",
     "FFlagEnableLuaAppsAppflyerUIDReportingV3": "True",
     "FFlagEnableAppNavABTest": "True",
     "FFlagEnableNotApprovedForeshadowingConsequenceABTest": "True",
@@ -14014,9 +14014,9 @@
     "FFlagSurfaceAppearanceTinting3": "True",
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagDisableVerifyPhoneViewOnSuccess_Rollout": "True;60;2024-07-18T16:29:19",
-    "FFlagEnableLuaAppsAppflyerUIDReportingV2_Rollout": "False;1;2024-07-18T16:35:21",
-    "FStringFlagRepoGitHashFastString": "dcfdfc1195fe75de0490d355bf9a37aa1cf39df9",
-    "DFStringFlagRepoGitHashDynamicString": "dcfdfc1195fe75de0490d355bf9a37aa1cf39df9",
-    "FStringFlipTimeStampFastString": "2024-07-18T16:36:05.890Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T16:36:05.890Z"
+    "FIntThrottleParticipantsUpdateMs2_Rollout": "500;60;2024-07-18T16:54:45",
+    "FStringFlagRepoGitHashFastString": "c1985fa56b871351a8fd9529c8e41e8629e22cf3",
+    "DFStringFlagRepoGitHashDynamicString": "c1985fa56b871351a8fd9529c8e41e8629e22cf3",
+    "FStringFlipTimeStampFastString": "2024-07-18T17:16:27.403Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T17:16:27.403Z"
 }
