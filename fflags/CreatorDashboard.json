@@ -11,5 +11,6 @@
     "enableBundlePaginationOffset": "false",
     "enableSafetyControls": "false",
     "enableOrganizationPayouts": "true",
-    "enableDSC": "true"
+    "enableDSC": "true",
+    "enablePlaceThumbnailAssetsUploadApi": "true"
 }

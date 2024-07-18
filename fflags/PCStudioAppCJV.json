@@ -13268,7 +13268,7 @@
     "AndroidImplementPanVelocity": "True",
     "DFFlagDebugPhoto2AvatarReturnFullOutput": "False",
     "DFFlagDebugPhoto2AvatarReturnFullOutput_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
-    "DFFlagNotifyOutOfMemoryWithCallsiteID": "True",
+    "DFFlagNotifyOutOfMemoryWithCallsiteID": "False",
     "DFIntReportPath2DInstanceAPICallsHundrethsPercent": "9999",
     "DFIntReportPath2DRecomputeTimeHundrethsPercent": "9999",
     "FFlagDmPatchNameReserveCheck": "True",
@@ -13392,7 +13392,7 @@
     "FFlagAimMigrateUploadApiToPublishService": "True",
     "FFlagBatchVoiceParticipantsUpdates": "True",
     "FFlagEnableBillboardUpdateFrequency": "True",
-    "DFIntCLI102833TelemSuccessReportsPerMillion_Rollout": "1;60;2024-07-18T20:06:47",
+    "FIntLuauAutocompleteCheckTimeoutMs_Rollout": "1000;60;2024-07-18T20:43:05",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14282,6 +14282,7 @@
     "FFlagTextureManagerFixMipReduceRestore": "True",
     "FIntWinBackgroundDownloadUpdatesHundredthPercent": "0",
     "FFlagDisableVerifyPhoneViewOnSuccess": "True",
+    "DFFlagDoJoinBackTeleport_Rollout": "True;60;2024-07-18T21:04:14",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -14307,8 +14308,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "4d03214fc2f3bc6187a70a9e0df0ca3b11e0f7e4",
-    "DFStringFlagRepoGitHashDynamicString": "4d03214fc2f3bc6187a70a9e0df0ca3b11e0f7e4",
-    "FStringFlipTimeStampFastString": "2024-07-18T20:32:07.808Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T20:32:07.808Z"
+    "FStringFlagRepoGitHashFastString": "d65c89b98fa6797058206dfd6932dae14474e60f",
+    "DFStringFlagRepoGitHashDynamicString": "d65c89b98fa6797058206dfd6932dae14474e60f",
+    "FStringFlipTimeStampFastString": "2024-07-18T21:19:14.444Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T21:19:14.444Z"
 }
