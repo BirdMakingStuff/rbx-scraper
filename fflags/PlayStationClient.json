@@ -13591,8 +13591,8 @@
     "FFlagVoiceChatEnableTurnAuthFromRCC_CLIENT": "True",
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagSurfaceAppearanceTinting3_Rollout": "True;60;2024-07-18T17:58:41",
-    "FStringFlagRepoGitHashFastString": "f1e7729d348ef642a156135da8e9f399e998ef5e",
-    "DFStringFlagRepoGitHashDynamicString": "f1e7729d348ef642a156135da8e9f399e998ef5e",
-    "FStringFlipTimeStampFastString": "2024-07-18T18:22:57.293Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T18:22:57.293Z"
+    "FStringFlagRepoGitHashFastString": "0c8ad84510e5607a08765827ae38a9906bf9272d",
+    "DFStringFlagRepoGitHashDynamicString": "0c8ad84510e5607a08765827ae38a9906bf9272d",
+    "FStringFlipTimeStampFastString": "2024-07-18T18:40:21.784Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T18:40:21.784Z"
 }
