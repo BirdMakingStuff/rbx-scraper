@@ -13538,6 +13538,7 @@
     "FFlagTextureManagerFixMipReduceRestore": "True",
     "FIntWinBackgroundDownloadUpdatesHundredthPercent": "1000",
     "FFlagAXItemCardTallEnabled3": "True",
+    "FFlagDisableVerifyPhoneViewOnSuccess_Rollout": "True;60;2024-07-18T16:29:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13895,8 +13896,8 @@
     "FFlagUniversalAppCsat4": "True",
     "FFlagGetTextBoundsRichText": "True",
     "FFlagEnableNewWebRtcFlow": "True",
-    "FStringFlagRepoGitHashFastString": "0fbe3538f831e44fce95815f7fad33fb18cf3b13",
-    "DFStringFlagRepoGitHashDynamicString": "0fbe3538f831e44fce95815f7fad33fb18cf3b13",
-    "FStringFlipTimeStampFastString": "2024-07-18T16:18:12.677Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T16:18:12.677Z"
+    "FStringFlagRepoGitHashFastString": "dcfdfc1195fe75de0490d355bf9a37aa1cf39df9",
+    "DFStringFlagRepoGitHashDynamicString": "dcfdfc1195fe75de0490d355bf9a37aa1cf39df9",
+    "FStringFlipTimeStampFastString": "2024-07-18T16:36:05.890Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T16:36:05.890Z"
 }
