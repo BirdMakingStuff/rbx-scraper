@@ -143,13 +143,14 @@
     "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagAXItemCardTallEnabled3": "True",
-    "FFlagFullProfileViewIXPSetupEnabled_v2_Rollout": "True;60;2024-07-18T17:43:29",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
+    "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
     "FFlagMacInstallerUseDeployPathExtension": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
+    "FFlagFullProfileViewIXPSetupEnabled_v2_Rollout": "True;60;2024-07-18T17:43:29",
     "DFIntCrashUploadToBacktracePercentage": "10",
     "DeprecatedOSXLinkURL": "https://en.help.roblox.com/hc/articles/203312800",
     "DeprecatedOSXMinorVersion": "9",
@@ -166,8 +167,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "0c8ad84510e5607a08765827ae38a9906bf9272d",
-    "DFStringFlagRepoGitHashDynamicString": "0c8ad84510e5607a08765827ae38a9906bf9272d",
-    "FStringFlipTimeStampFastString": "2024-07-18T18:40:21.784Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T18:40:21.784Z"
+    "FStringFlagRepoGitHashFastString": "044e52f439c3d7790a443dd39aee70b2a9e54585",
+    "DFStringFlagRepoGitHashDynamicString": "044e52f439c3d7790a443dd39aee70b2a9e54585",
+    "FStringFlipTimeStampFastString": "2024-07-18T19:06:42.559Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T19:06:42.559Z"
 }
