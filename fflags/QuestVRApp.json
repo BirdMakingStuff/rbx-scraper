@@ -13387,11 +13387,12 @@
     "DFFlagCollectFixedNOUSetsNonRecursively": "True",
     "DFFlagSolverNOURemovedUnderSetOptimized2": "True",
     "DFIntGjkVertexEqualityEpsilonMicro": "500",
-    "FFlagAimMigrateUploadApiToPublishService_Rollout": "True;60;2024-07-18T18:14:20",
-    "FFlagBatchVoiceParticipantsUpdates_Rollout": "True;60;2024-07-18T18:18:13",
-    "FFlagEnableBillboardUpdateFrequency_Rollout": "True;60;2024-07-18T18:18:23",
     "FFlagEnableChatSystemMessages": "True",
     "FFlagFixGamepadUIScrollingFrameClips": "True",
+    "FFlagAimMigrateUploadApiToPublishService": "True",
+    "FFlagBatchVoiceParticipantsUpdates": "True",
+    "FFlagEnableBillboardUpdateFrequency": "True",
+    "DFIntCLI102833TelemSuccessReportsPerMillion_Rollout": "1;60;2024-07-18T20:06:47",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14024,8 +14025,8 @@
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
     "FFlagSurfaceAppearanceTinting3": "True",
-    "FStringFlagRepoGitHashFastString": "021a6a3fa083f34044e5ace32c8c2caa312d97ca",
-    "DFStringFlagRepoGitHashDynamicString": "021a6a3fa083f34044e5ace32c8c2caa312d97ca",
-    "FStringFlipTimeStampFastString": "2024-07-18T19:36:41.474Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T19:36:41.474Z"
+    "FStringFlagRepoGitHashFastString": "89be424d90fdd216c25c548b8f4950942a64d6e0",
+    "DFStringFlagRepoGitHashDynamicString": "89be424d90fdd216c25c548b8f4950942a64d6e0",
+    "FStringFlipTimeStampFastString": "2024-07-18T20:16:38.154Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T20:16:38.154Z"
 }
