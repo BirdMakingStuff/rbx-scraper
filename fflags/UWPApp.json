@@ -7380,7 +7380,7 @@
     "FFlagFixDoubleSpacesAfterPrefixText": "True",
     "FFlagHideLocalPlayerControlBubbleForVR": "True",
     "FFlagUpgradeExpChatV4_1_10": "True",
-    "FStringPerformanceControlIncludedTunables": "None",
+    "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, RenderingQuality",
     "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
     "FFlagGridDesignTokens3": "True",
     "FFlagTenFootUiMoreSettings": "True",
@@ -13393,6 +13393,7 @@
     "FFlagBatchVoiceParticipantsUpdates": "True",
     "FFlagEnableBillboardUpdateFrequency": "True",
     "FIntLuauAutocompleteCheckTimeoutMs_Rollout": "1000;60;2024-07-18T20:43:05",
+    "FFlagWinBackgroundDownloadUpdates_Rollout": "False;5;2024-07-18T21:31:21",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13646,9 +13647,8 @@
     "FFlagLuaAppUnifyGameModel": "True",
     "FFlagGetTextBoundsRichText": "True",
     "FFlagAXItemCardTallEnabled3": "True",
-    "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, RenderingQuality;60;2024-07-18T19:51:48",
-    "FStringFlagRepoGitHashFastString": "dfa1fa39053b7f5021b6f965116d8ee8b6c28f40",
-    "DFStringFlagRepoGitHashDynamicString": "dfa1fa39053b7f5021b6f965116d8ee8b6c28f40",
-    "FStringFlipTimeStampFastString": "2024-07-18T21:04:52.537Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-18T21:04:52.537Z"
+    "FStringFlagRepoGitHashFastString": "b326bcb45e293fb6cf1f8efe36e83c12d0072636",
+    "DFStringFlagRepoGitHashDynamicString": "b326bcb45e293fb6cf1f8efe36e83c12d0072636",
+    "FStringFlipTimeStampFastString": "2024-07-18T21:32:55.393Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-18T21:32:55.393Z"
 }
