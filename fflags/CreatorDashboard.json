@@ -12,5 +12,5 @@
     "enableSafetyControls": "false",
     "enableOrganizationPayouts": "true",
     "enableDSC": "true",
-    "enablePlaceThumbnailAssetsUploadApi": "true"
+    "enablePlaceThumbnailAssetsUploadApi": "false"
 }
