@@ -13404,6 +13404,8 @@
     "FFlagSelfieViewHideCameraStatusDot": "True",
     "FFlagUseNewUnibarIcon": "True",
     "FFlagSetDbgInfoD3D11Memory_Rollout": "True;30;2024-07-19T16:17:34",
+    "DFFlagEnableModerationShutdown_Rollout": "True;60;2024-07-19T17:04:31",
+    "DFIntTeamCreateNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "0;10;2024-07-19T17:18:21",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14309,8 +14311,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
     "DFStringProductionPointToV2WhiteList": "\"\"",
-    "FStringFlagRepoGitHashFastString": "be97a97d1fea4ab4eab04f4555b301c47f4bf17c",
-    "DFStringFlagRepoGitHashDynamicString": "be97a97d1fea4ab4eab04f4555b301c47f4bf17c",
-    "FStringFlipTimeStampFastString": "2024-07-19T16:35:27.631Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T16:35:27.631Z"
+    "FStringFlagRepoGitHashFastString": "de1d87b831e562267620b53e2c11f048e083ed8b",
+    "DFStringFlagRepoGitHashDynamicString": "de1d87b831e562267620b53e2c11f048e083ed8b",
+    "FStringFlipTimeStampFastString": "2024-07-19T17:19:13.307Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-19T17:19:13.307Z"
 }
