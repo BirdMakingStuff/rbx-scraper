@@ -13403,9 +13403,11 @@
     "FFlagSelfieViewDontStartOnOpen": "True",
     "FFlagSelfieViewHideCameraStatusDot": "True",
     "FFlagUseNewUnibarIcon": "True",
-    "FFlagSetDbgInfoD3D11Memory_Rollout": "True;30;2024-07-19T16:17:34",
     "DFFlagEnableModerationShutdown_Rollout": "True;60;2024-07-19T17:04:31",
     "DFIntTeamCreateNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "0;10;2024-07-19T17:18:21",
+    "FFlagSetDbgInfoD3D11Memory": "True",
+    "FFlagDisableVRMenuFix_Rollout": "True;60;2024-07-19T17:32:03",
+    "FFlagEnableVRAppResumeReset_Rollout": "True;60;2024-07-19T17:32:45",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13919,8 +13921,8 @@
     "FIntThrottleParticipantsUpdateMs2": "500",
     "FFlagShowUpdatedScreenshotHotkey_v2": "True",
     "DFFlagGraphicsQualityUsageTelemetry": "True",
-    "FStringFlagRepoGitHashFastString": "de1d87b831e562267620b53e2c11f048e083ed8b",
-    "DFStringFlagRepoGitHashDynamicString": "de1d87b831e562267620b53e2c11f048e083ed8b",
-    "FStringFlipTimeStampFastString": "2024-07-19T17:19:13.307Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T17:19:13.307Z"
+    "FStringFlagRepoGitHashFastString": "12993fe7079a9603a47e97b657b5b24cba65b53d",
+    "DFStringFlagRepoGitHashDynamicString": "12993fe7079a9603a47e97b657b5b24cba65b53d",
+    "FStringFlipTimeStampFastString": "2024-07-19T17:33:43.779Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-19T17:33:43.779Z"
 }
