@@ -14016,7 +14016,6 @@
     "FFlagEnablePermissionsProtocolForPushNotification": "True",
     "FFlagDefaultUDimSuperBriefView": "True",
     "DFFlagVoiceChatHideTurnCredentialsInLog": "True",
-    "FFlagLightgridCPUAsyncUpdate5": "True",
     "DFFlagEnableGameJoinPriority": "True",
     "FFlagEnableAddAccountPeekviewRemoveSuperBriefState": "True",
     "FFlagVoiceChatRecordMetricsForSubPeerConnected": "True",
@@ -14033,8 +14032,8 @@
     "FFlagLuaEnableShowUpsellMethod2": "True",
     "FFlagSwitchPremiumUIToSubscriptionUI": "True",
     "FFlagSmoothClusterDisableAsyncUpload": "True",
-    "FStringFlagRepoGitHashFastString": "f7ce529ccbff9afe9e44d7f3fc76778ec924c706",
-    "DFStringFlagRepoGitHashDynamicString": "f7ce529ccbff9afe9e44d7f3fc76778ec924c706",
-    "FStringFlipTimeStampFastString": "2024-07-19T16:18:20.509Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T16:18:20.509Z"
+    "FStringFlagRepoGitHashFastString": "be97a97d1fea4ab4eab04f4555b301c47f4bf17c",
+    "DFStringFlagRepoGitHashDynamicString": "be97a97d1fea4ab4eab04f4555b301c47f4bf17c",
+    "FStringFlipTimeStampFastString": "2024-07-19T16:35:27.631Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-19T16:35:27.631Z"
 }

@@ -14285,7 +14285,6 @@
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": "100",
     "FFlagPhysicsCountLocalSimulatedTouchEvents": "True",
     "DFFlagEnableGameJoinPriority": "True",
-    "FFlagLightgridCPUAsyncUpdate5": "True",
     "DFFlagRobloxTelemetryV2PointEncoding": "True",
     "DFFlagTeleportJoinBack": "True",
     "DFFlagOptimizeFlagDatabankSetValue2": "True",
@@ -14310,8 +14309,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
     "DFStringProductionPointToV2WhiteList": "\"\"",
-    "FStringFlagRepoGitHashFastString": "f7ce529ccbff9afe9e44d7f3fc76778ec924c706",
-    "DFStringFlagRepoGitHashDynamicString": "f7ce529ccbff9afe9e44d7f3fc76778ec924c706",
-    "FStringFlipTimeStampFastString": "2024-07-19T16:18:20.509Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T16:18:20.509Z"
+    "FStringFlagRepoGitHashFastString": "be97a97d1fea4ab4eab04f4555b301c47f4bf17c",
+    "DFStringFlagRepoGitHashDynamicString": "be97a97d1fea4ab4eab04f4555b301c47f4bf17c",
+    "FStringFlipTimeStampFastString": "2024-07-19T16:35:27.631Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-19T16:35:27.631Z"
 }
