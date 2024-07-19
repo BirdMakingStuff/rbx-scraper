@@ -13403,10 +13403,11 @@
     "FFlagSelfieViewDontStartOnOpen": "True",
     "FFlagSelfieViewHideCameraStatusDot": "True",
     "FFlagUseNewUnibarIcon": "True",
-    "DFFlagEnableModerationShutdown_Rollout": "True;60;2024-07-19T17:04:31",
     "FFlagSetDbgInfoD3D11Memory": "True",
     "FFlagDisableVRMenuFix_Rollout": "True;60;2024-07-19T17:32:03",
     "FFlagEnableVRAppResumeReset_Rollout": "True;60;2024-07-19T17:32:45",
+    "FLogPlaySoloWaypoint_Rollout": "Warning,6;30;2024-07-19T18:33:02",
+    "DFFlagEnableModerationShutdown": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14036,8 +14037,8 @@
     "FFlagEnableVideoLandingRelease3": "False",
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
-    "FStringFlagRepoGitHashFastString": "117b9c1596e47cda3dab067710033ef8e21d35bb",
-    "DFStringFlagRepoGitHashDynamicString": "117b9c1596e47cda3dab067710033ef8e21d35bb",
-    "FStringFlipTimeStampFastString": "2024-07-19T18:18:07.970Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T18:18:07.970Z"
+    "FStringFlagRepoGitHashFastString": "a076ed01105572e23fc1ffa9a0e6099bbd0094d2",
+    "DFStringFlagRepoGitHashDynamicString": "a076ed01105572e23fc1ffa9a0e6099bbd0094d2",
+    "FStringFlipTimeStampFastString": "2024-07-19T18:36:40.208Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-19T18:36:40.208Z"
 }
