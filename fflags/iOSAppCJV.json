@@ -13321,7 +13321,7 @@
     "FFlagStudioLabelMainThread": "True",
     "FFlagStudioMonitorDMThreadBlockingMain": "True",
     "FFlagRemoveUtilityDataCallbackForUpdatingUtilityCurves": "True",
-    "DFIntTeamCreateNewPlaceUploadSaveRolloutHundredthPercent": "5000",
+    "DFIntTeamCreateNewPlaceUploadSaveRolloutHundredthPercent": "0",
     "DFFlagBanHistoryPagesFinish": "True",
     "DFFlagCLI96239ReportOnly": "True",
     "FFlagEnableResponsiveProvider": "True",
@@ -13404,7 +13404,6 @@
     "FFlagSelfieViewHideCameraStatusDot": "True",
     "FFlagUseNewUnibarIcon": "True",
     "DFFlagEnableModerationShutdown_Rollout": "True;60;2024-07-19T17:04:31",
-    "DFIntTeamCreateNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "0;10;2024-07-19T17:18:21",
     "FFlagSetDbgInfoD3D11Memory": "True",
     "FFlagDisableVRMenuFix_Rollout": "True;60;2024-07-19T17:32:03",
     "FFlagEnableVRAppResumeReset_Rollout": "True;60;2024-07-19T17:32:45",
@@ -14074,8 +14073,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "12993fe7079a9603a47e97b657b5b24cba65b53d",
-    "DFStringFlagRepoGitHashDynamicString": "12993fe7079a9603a47e97b657b5b24cba65b53d",
-    "FStringFlipTimeStampFastString": "2024-07-19T17:33:43.779Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T17:33:43.779Z"
+    "FStringFlagRepoGitHashFastString": "117b9c1596e47cda3dab067710033ef8e21d35bb",
+    "DFStringFlagRepoGitHashDynamicString": "117b9c1596e47cda3dab067710033ef8e21d35bb",
+    "FStringFlipTimeStampFastString": "2024-07-19T18:18:07.970Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-19T18:18:07.970Z"
 }
