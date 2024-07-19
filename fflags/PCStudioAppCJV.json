@@ -13405,10 +13405,10 @@
     "FFlagUseNewUnibarIcon": "True",
     "FFlagSetDbgInfoD3D11Memory": "True",
     "DFFlagEnableModerationShutdown": "True",
-    "FFlagUIEditorFixDisplayOrderAndTransparencySelection_Rollout": "True;60;2024-07-19T18:58:54",
     "FFlagDisableVRMenuFix": "True",
     "FFlagEnableVRAppResumeReset": "True",
     "FLogPlaySoloWaypoint": "Warning,6",
+    "FFlagUIEditorFixDisplayOrderAndTransparencySelection": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14193,7 +14193,6 @@
     "DFFlagAllowPropertyDefaultSkip": "True",
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagLuaRibbonPerformanceImprovement": "True",
-    "FFlagStudioForceAngleD3D11": "True",
     "FFlagStudioTasksBackgroundByDefault": "True",
     "FFlagUGCValidateTotalSurfaceAreaTestAccessory": "True",
     "FFlagUGCValidateTotalSurfaceAreaTestBody": "True",
@@ -14329,8 +14328,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "aaa388197893994de0c5d2bcc71ea9ffbd731f2d",
-    "DFStringFlagRepoGitHashDynamicString": "aaa388197893994de0c5d2bcc71ea9ffbd731f2d",
-    "FStringFlipTimeStampFastString": "2024-07-19T19:37:33.256Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T19:37:33.256Z"
+    "FStringFlagRepoGitHashFastString": "8c7fedd2a14e2066d4c592269b99c51f5bfc186e",
+    "DFStringFlagRepoGitHashDynamicString": "8c7fedd2a14e2066d4c592269b99c51f5bfc186e",
+    "FStringFlipTimeStampFastString": "2024-07-19T20:33:05.783Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-19T20:33:05.783Z"
 }
