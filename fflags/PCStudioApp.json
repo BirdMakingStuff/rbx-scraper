@@ -13385,7 +13385,6 @@
     "FFlagGeometryVertexSize": "True",
     "DFFlagAnalyticsServiceEnabled": "True",
     "DFFlagCollectFixedNOUSetsNonRecursively": "True",
-    "DFFlagSolverNOURemovedUnderSetOptimized2": "True",
     "DFIntGjkVertexEqualityEpsilonMicro": "500",
     "FFlagEnableChatSystemMessages": "True",
     "FFlagFixGamepadUIScrollingFrameClips": "True",
@@ -14318,8 +14317,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
     "DFStringProductionPointToV2WhiteList": "\"\"",
-    "FStringFlagRepoGitHashFastString": "8c7fedd2a14e2066d4c592269b99c51f5bfc186e",
-    "DFStringFlagRepoGitHashDynamicString": "8c7fedd2a14e2066d4c592269b99c51f5bfc186e",
-    "FStringFlipTimeStampFastString": "2024-07-19T20:33:05.783Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-19T20:33:05.783Z"
+    "FStringFlagRepoGitHashFastString": "05ba3fd98df2963d849b2bc1977e700f905724c2",
+    "DFStringFlagRepoGitHashDynamicString": "05ba3fd98df2963d849b2bc1977e700f905724c2",
+    "FStringFlipTimeStampFastString": "2024-07-20T00:43:03.430Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-20T00:43:03.430Z"
 }
