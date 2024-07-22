@@ -13422,6 +13422,14 @@
     "FFlagProfileShareLinkAddProfileShareFriendType_Rollout": "True;60;2024-07-22T16:17:38",
     "FFlagDeprecateMidPhaseCollection_Rollout": "True;60;2024-07-22T16:25:37",
     "FFlagDeprecateMidPhaseComponentBase_Rollout": "True;60;2024-07-22T16:25:41",
+    "DFFlagPhysicsAddPlaceInstanceId_Rollout": "True;60;2024-07-22T16:26:24",
+    "DFFlagLogServiceStudioServerFix_Rollout": "True;30;2024-07-22T16:29:31",
+    "FFlagLuauReusableSubstitutions_Rollout": "True;30;2024-07-22T16:30:53",
+    "FFlagFixRescaleVideoMemLeak_Rollout": "True;30;2024-07-22T16:32:47",
+    "DFFlagTrackMemoryOnSessionStartEndInST2_Rollout": "True;60;2024-07-22T16:35:18",
+    "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing_Rollout": "True;60;2024-07-22T16:38:38",
+    "FFlagLuaAppUnifyGameModel_Rollout": "True;30;2024-07-22T16:39:56",
+    "FFlagDoNotShowCGNWarningIfNotInWorkspace_Rollout": "True;60;2024-07-22T16:41:09",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13985,8 +13993,8 @@
     "FFlagFixPermissionsButtonsEvents_Rollout": "True;60;2024-07-22T16:11:59",
     "FFlagFullProfileViewIXPSetupEnabled_v2_Rollout": "True;60;2024-07-22T16:15:21",
     "EnableAndroidAppsflyerCustomerUserID": "true",
-    "FStringFlagRepoGitHashFastString": "334d804dddbef59a6e1ec040cf352f679363c750",
-    "DFStringFlagRepoGitHashDynamicString": "334d804dddbef59a6e1ec040cf352f679363c750",
-    "FStringFlipTimeStampFastString": "2024-07-22T16:26:16.134Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-22T16:26:16.134Z"
+    "FStringFlagRepoGitHashFastString": "76e44dd131093e68e0d873d3a828d4fae609acd4",
+    "DFStringFlagRepoGitHashDynamicString": "76e44dd131093e68e0d873d3a828d4fae609acd4",
+    "FStringFlipTimeStampFastString": "2024-07-22T16:41:35.111Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-22T16:41:35.111Z"
 }
