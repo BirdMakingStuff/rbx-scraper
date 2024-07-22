@@ -14060,7 +14060,7 @@
     "DFFlagReportVideoCompletionAt99Percent": "True",
     "DFIntImmersiveAdVideoCollapseScreenEventThrottleHundredthsPercent": "10000",
     "FFlagScaleJointsBeforeMeshes": "True",
-    "FFlagEnableLuaAppsAppflyerUIDReportingV2": "False",
+    "FFlagEnableLuaAppsAppflyerUIDReportingV2": "True",
     "FFlagEnableLuaAppsAppflyerUIDReportingV3": "True",
     "FFlagEnableAppNavABTest": "True",
     "FFlagEnableNotApprovedForeshadowingConsequenceABTest": "True",
@@ -14099,7 +14099,6 @@
     "FFlagFixPermissionsButtonsEvents": "True",
     "FFlagFixDuplicateAutoSearch_v3": "True",
     "FFlagEnableDeeplinkLoggingPolicy": "False",
-    "FFlagEnableLuaAppsAppflyerUIDReportingV2_Rollout": "True;60;2024-07-22T20:56:41",
     "FFlagPathfindingReduceMemoryForHFs_PlaceFilter": "False;10548891534",
     "DFFlagTeleportJoinBack": "True",
     "FFlagTestProcessTimestampCall": "True",
@@ -14144,8 +14143,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "74c86f06eef803dc0f8910cdd4ecb72cf016809a",
-    "DFStringFlagRepoGitHashDynamicString": "74c86f06eef803dc0f8910cdd4ecb72cf016809a",
-    "FStringFlipTimeStampFastString": "2024-07-22T22:15:34.552Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-22T22:15:34.552Z"
+    "FStringFlagRepoGitHashFastString": "04e19131c4024ebe14a9a555292627718d45bf2b",
+    "DFStringFlagRepoGitHashDynamicString": "04e19131c4024ebe14a9a555292627718d45bf2b",
+    "FStringFlipTimeStampFastString": "2024-07-22T22:32:53.552Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-22T22:32:53.552Z"
 }
