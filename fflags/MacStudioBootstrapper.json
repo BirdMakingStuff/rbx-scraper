@@ -138,8 +138,6 @@
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "False",
     "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing": "True",
     "FFlagDefaultUDimSuperBriefView": "True",
-    "FFlagFixExposureLoggingForDisplayNameTooltip": "True",
-    "FFlagProfileShareLinkAddProfileShareFriendType": "True",
     "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagAXItemCardTallEnabled3": "True",
@@ -153,8 +151,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "05ba3fd98df2963d849b2bc1977e700f905724c2",
-    "DFStringFlagRepoGitHashDynamicString": "05ba3fd98df2963d849b2bc1977e700f905724c2",
-    "FStringFlipTimeStampFastString": "2024-07-20T00:43:03.430Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-20T00:43:03.430Z"
+    "FStringFlagRepoGitHashFastString": "334d804dddbef59a6e1ec040cf352f679363c750",
+    "DFStringFlagRepoGitHashDynamicString": "334d804dddbef59a6e1ec040cf352f679363c750",
+    "FStringFlipTimeStampFastString": "2024-07-22T16:26:16.134Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-22T16:26:16.134Z"
 }
