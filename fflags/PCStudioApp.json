@@ -14388,6 +14388,7 @@
     "FFlagSupportLooksTileFooter3_Rollout": "False;60;2024-07-23T23:07:49",
     "FFlagAXFixClosingLookDetailsManagerPeekView_Rollout": "True;60;2024-07-23T23:10:33",
     "FFlagAXFixClosingAlternateManagerScreen_Rollout": "True;60;2024-07-23T23:13:42",
+    "FFlagEnqueueVoiceClientJoinOperationLua_Rollout": "True;60;2024-07-23T23:28:30",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -14404,8 +14405,8 @@
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
     "DFStringProductionPointToV2WhiteList": "\"\"",
     "FFlagUIFlexLayoutTrackFlexStatusOnParent2": "True",
-    "FStringFlagRepoGitHashFastString": "54ea525c8fa8faac5d38141c99898b4778f3c0ed",
-    "DFStringFlagRepoGitHashDynamicString": "54ea525c8fa8faac5d38141c99898b4778f3c0ed",
-    "FStringFlipTimeStampFastString": "2024-07-23T23:17:37.384Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-23T23:17:37.384Z"
+    "FStringFlagRepoGitHashFastString": "230db7695663fc74b9514f1f0538f1c4690cb641",
+    "DFStringFlagRepoGitHashDynamicString": "230db7695663fc74b9514f1f0538f1c4690cb641",
+    "FStringFlipTimeStampFastString": "2024-07-23T23:36:51.938Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-23T23:36:51.938Z"
 }
