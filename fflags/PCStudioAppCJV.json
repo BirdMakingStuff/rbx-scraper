@@ -13517,6 +13517,7 @@
     "FFlagVoiceChatClientGameDataClientIntegration_Rollout": "True;60;2024-07-23T18:05:40",
     "FFlagLuauCodegenFastcall3": "True",
     "DFIntRuntimeTickrate_Rollout": "1000000;60;2024-07-23T18:22:49",
+    "FFlagBatchVoiceParticipantsUpdates_Rollout": "True;60;2024-07-23T18:28:08",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14300,6 +14301,7 @@
     "FFlagStudioFixStudioServiceLock": "True",
     "FFlagStudioRenderBlockerApi": "True",
     "DFFlagOptimizeFlagDatabankSetValue2": "True",
+    "FFlagStudioAddMachineValidationToModerationCheck_Rollout": "True;60;2024-07-23T18:34:21",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14375,6 +14377,7 @@
     "FFlagFixDuplicateAutoSearch_v3": "True",
     "FFlagLuaAppBackgroundMural": "True",
     "DFFlagCheckDataModelManagerBeforeAccessing": "True",
+    "FFlagPlayerHydrationServiceResiliencyEnabled_Rollout": "True;60;2024-07-23T18:28:49",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -14401,8 +14404,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "2d3f0d3ae3d2f62664f002219da69380222f97ff",
-    "DFStringFlagRepoGitHashDynamicString": "2d3f0d3ae3d2f62664f002219da69380222f97ff",
-    "FStringFlipTimeStampFastString": "2024-07-23T18:27:10.315Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-23T18:27:10.315Z"
+    "FStringFlagRepoGitHashFastString": "14ae4fe67ebc440ba42a7bfa6f571880c2abe4a2",
+    "DFStringFlagRepoGitHashDynamicString": "14ae4fe67ebc440ba42a7bfa6f571880c2abe4a2",
+    "FStringFlipTimeStampFastString": "2024-07-23T18:37:18.321Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-23T18:37:18.321Z"
 }
