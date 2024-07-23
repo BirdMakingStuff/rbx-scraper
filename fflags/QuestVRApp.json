@@ -13506,8 +13506,6 @@
     "FFlagDraggerTerrainSummonFix": "True",
     "FFlagTextureDeduplicationByHash4": "False",
     "FFlagEnableFlagParseTiming": "True",
-    "FFlagFasterPreciseTime_Rollout": "True;60;2024-07-23T17:43:02",
-    "FFlagVisQueryBitset_Rollout": "True;60;2024-07-23T17:43:12",
     "FFlagVoiceChatClientGameDataClientIntegration_Rollout": "True;60;2024-07-23T18:05:40",
     "FFlagLuauCodegenFastcall3": "True",
     "DFIntRuntimeTickrate_Rollout": "1000000;60;2024-07-23T18:22:49",
@@ -13515,7 +13513,7 @@
     "FFlagEnableConnectTabChatTileRecolorExperiment": "True",
     "FFlagGetTextBoundsRichText": "True",
     "FFlagAbuseReportShouldUseCanDisplayPeoplesUsernamesAppPolicy": "True",
-    "FIntIndexBufferAlignment_Rollout": "4;60;2024-07-23T19:01:16",
+    "FFlagVisQueryBitset": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14131,7 +14129,6 @@
     "FFlagEnableUnknownErrorCreatorDashboardMessage": "True",
     "FFlagScaleJointsBeforeMeshes": "True",
     "DFFlagFixExtraParserMapEntries": "True",
-    "FFlagEnableAppNavABTest": "True",
     "FFlagEnableNotApprovedForeshadowingConsequenceABTest": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "False",
@@ -14142,8 +14139,8 @@
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagEnableVideoLandingRelease3": "False",
     "FFlagAXItemCardTallEnabled3": "True",
-    "FStringFlagRepoGitHashFastString": "42b1e0ac47a9c7408a7bb6baa1b1e7850002bbc6",
-    "DFStringFlagRepoGitHashDynamicString": "42b1e0ac47a9c7408a7bb6baa1b1e7850002bbc6",
-    "FStringFlipTimeStampFastString": "2024-07-23T19:15:15.174Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-23T19:15:15.174Z"
+    "FStringFlagRepoGitHashFastString": "cca465384005f6e48308fdd5838b5281bc77b694",
+    "DFStringFlagRepoGitHashDynamicString": "cca465384005f6e48308fdd5838b5281bc77b694",
+    "FStringFlipTimeStampFastString": "2024-07-23T19:37:21.579Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-23T19:37:21.579Z"
 }
