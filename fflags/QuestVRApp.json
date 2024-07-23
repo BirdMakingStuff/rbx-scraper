@@ -13506,6 +13506,8 @@
     "FFlagVoiceChatAddClientGameDataClientToControlPlane2": "True",
     "FFlagDraggerTerrainSummonFix": "True",
     "FFlagTextureDeduplicationByHash4": "False",
+    "FFlagEnableQuestHaptics": "True",
+    "DFFlagTeleportThirdPartyPermissionCheckDisabled_Rollout": "True;60;2024-07-23T16:19:43",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14076,7 +14078,6 @@
     "DFFlagDoJoinBackTeleport": "True",
     "FFlagEnableLuaAppsAppflyerUIDReportingV2": "True",
     "FFlagSyncSubStateOnVoiceJoin": "True",
-    "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
     "FFlagDisablePostFx": "True",
@@ -14133,8 +14134,9 @@
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagEnableVideoLandingRelease3": "False",
     "FFlagAXItemCardTallEnabled3": "True",
-    "FStringFlagRepoGitHashFastString": "da3ec5c9bb20c0427c90ac38f8a1f0e9384033ed",
-    "DFStringFlagRepoGitHashDynamicString": "da3ec5c9bb20c0427c90ac38f8a1f0e9384033ed",
-    "FStringFlipTimeStampFastString": "2024-07-23T01:06:50.680Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-23T01:06:50.680Z"
+    "FFlagEnableFlagParseTiming_Rollout": "True;60;2024-07-23T16:10:03",
+    "FStringFlagRepoGitHashFastString": "e5d53de23b21c187e053c022af1427877710aae0",
+    "DFStringFlagRepoGitHashDynamicString": "e5d53de23b21c187e053c022af1427877710aae0",
+    "FStringFlipTimeStampFastString": "2024-07-23T16:20:29.183Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-23T16:20:29.183Z"
 }
