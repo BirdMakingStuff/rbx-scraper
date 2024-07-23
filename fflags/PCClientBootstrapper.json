@@ -138,7 +138,6 @@
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "False",
     "FFlagSendGeometryPhysicsAnalyticsBeforeDMClosing": "True",
     "FFlagDefaultUDimSuperBriefView": "True",
-    "FFlagProfileShareLinksIXPSetupEnabled_v2": "True",
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
@@ -166,8 +165,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "db8c3cdcb7da13c99fdd2e020ed5097887039afc",
-    "DFStringFlagRepoGitHashDynamicString": "db8c3cdcb7da13c99fdd2e020ed5097887039afc",
-    "FStringFlipTimeStampFastString": "2024-07-23T21:18:58.536Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-23T21:18:58.536Z"
+    "FStringFlagRepoGitHashFastString": "b09b4322ba8012790f40b1fbf66c72c3c3a47867",
+    "DFStringFlagRepoGitHashDynamicString": "b09b4322ba8012790f40b1fbf66c72c3c3a47867",
+    "FStringFlipTimeStampFastString": "2024-07-23T21:33:18.587Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-23T21:33:18.587Z"
 }
