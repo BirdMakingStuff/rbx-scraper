@@ -14088,6 +14088,7 @@
     "DFFlagDoJoinBackTeleport": "True",
     "FFlagSyncSubStateOnVoiceJoin": "True",
     "FFlagSimEnableCSG46_PlaceFilter": "True;14182040324;17298617678;17365283247;16153613601;7655489843;17400898103;9213869953;17601020405;15121756860;8325420137;17191083560;15484491121;17684763172;4705424376;16977524432;12134682271;10597909307;6059947762;17327054881;17478668021;13546288145;15532962292;9863689497;17469332289;17469323359;17739873639;14001440964;11177641368;17660133624;16679850585;14592111376;14641042570;11510416200;6806569448;17152784158;15230420430;17342613578;17744101991;17744224453;11835639544;13905975027;13905671876",
+    "FFlagAnimationCurveDenseCacheEnabled2_Rollout": "False;30;2024-07-24T17:05:29",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -14120,8 +14121,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "0f20a614f8a130d0b080b7cf018e5afe1cac0023",
-    "DFStringFlagRepoGitHashDynamicString": "0f20a614f8a130d0b080b7cf018e5afe1cac0023",
-    "FStringFlipTimeStampFastString": "2024-07-24T16:34:47.517Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-24T16:34:47.517Z"
+    "FStringFlagRepoGitHashFastString": "d017ceefcf2294ba95617806458941b1987f903c",
+    "DFStringFlagRepoGitHashDynamicString": "d017ceefcf2294ba95617806458941b1987f903c",
+    "FStringFlipTimeStampFastString": "2024-07-24T17:16:16.722Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-24T17:16:16.722Z"
 }
