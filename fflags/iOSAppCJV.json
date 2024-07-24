@@ -14108,7 +14108,6 @@
     "FFlagEnableBuilderFontLoad": "True",
     "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
     "FFlagUIBloxGetTextHeightOptionalMaxHeight": "True",
-    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "False",
     "FFlagEDPContextReduceIXPVariableUsage": "True",
     "FFlagEnablePushNotificationsUpsellModal3": "True",
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": "100",
@@ -14167,6 +14166,7 @@
     "DFFlagCheckDataModelManagerBeforeAccessing": "True",
     "FIntTimeToSendMeshRenderFidelitySec": "300",
     "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime_Rollout": "1000;60;2024-07-24T20:02:00",
+    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1_Rollout": "True;60;2024-07-24T21:05:56",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -14205,8 +14205,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "91863c456162d191db051c4c6958a08645e395b7",
-    "DFStringFlagRepoGitHashDynamicString": "91863c456162d191db051c4c6958a08645e395b7",
-    "FStringFlipTimeStampFastString": "2024-07-24T20:38:32.298Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-24T20:38:32.298Z"
+    "FStringFlagRepoGitHashFastString": "715884246ae8c12b17abba899bdd571c696e5529",
+    "DFStringFlagRepoGitHashDynamicString": "715884246ae8c12b17abba899bdd571c696e5529",
+    "FStringFlipTimeStampFastString": "2024-07-24T21:06:57.682Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-24T21:06:57.682Z"
 }

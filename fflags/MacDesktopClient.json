@@ -13649,7 +13649,6 @@
     "FFlagUseSessionServiceWrapper": "True",
     "DFFlagCollisionMeshCachingStats2": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "False",
     "DFIntPhysicsCountLocalSimulatedTouchEventsHundredthsPercentage": "100",
     "FFlagPhysicsCountLocalSimulatedTouchEvents": "True",
     "FFlagDefaultUDimSuperBriefView": "True",
@@ -14044,8 +14043,8 @@
     "FFlagMoreStrictLimitOnRelayout2": "True",
     "FFlagMoreStrictLimitOnRelayout2_PlaceFilter": "False;7491927311",
     "FFlagSurfaceAppearanceTinting3": "True",
-    "FStringFlagRepoGitHashFastString": "91863c456162d191db051c4c6958a08645e395b7",
-    "DFStringFlagRepoGitHashDynamicString": "91863c456162d191db051c4c6958a08645e395b7",
-    "FStringFlipTimeStampFastString": "2024-07-24T20:38:32.298Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-24T20:38:32.298Z"
+    "FStringFlagRepoGitHashFastString": "715884246ae8c12b17abba899bdd571c696e5529",
+    "DFStringFlagRepoGitHashDynamicString": "715884246ae8c12b17abba899bdd571c696e5529",
+    "FStringFlipTimeStampFastString": "2024-07-24T21:06:57.682Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-24T21:06:57.682Z"
 }
