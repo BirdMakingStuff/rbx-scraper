@@ -13277,7 +13277,6 @@
     "FFlagGraphicsVulkanBufferWaw": "True",
     "FFlagMoveCarouselHeader": "True",
     "FFlagXboxGamepadUserInfoAnalytics": "True",
-    "DFFlagCLI102833PrelimTelemetry2": "True",
     "FFlagHumanoidDescriptionUseInstances4": "False",
     "FFlagHumanoidDescriptionUseInstances4_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "500;166986752",
@@ -13520,6 +13519,9 @@
     "FFlagAvatarChatServiceExposeUserVerifiedForVoiceV2": "True",
     "DFFlagFastBvhDequantize": "True",
     "FFlagAnimationCurveDenseCacheEnabled2_Rollout": "False;30;2024-07-24T17:05:29",
+    "FFlagTerrain_ClampMaterial_Rollout": "True;30;2024-07-24T17:24:18",
+    "FFlagEnableLoginWithExistingAccountVariant_Rollout": "True;60;2024-07-24T17:33:28",
+    "FreeMemoryCheckerActive": "False",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13718,8 +13720,8 @@
     "FFlagUIListLayoutEnableFlex3": "True",
     "FFlagRefactorRescaleVideo_Rollout": "True;21;2024-07-24T16:59:20",
     "FFlagEnableEngineContextScope4_Rollout": "True;60;2024-07-24T17:15:36",
-    "FStringFlagRepoGitHashFastString": "d017ceefcf2294ba95617806458941b1987f903c",
-    "DFStringFlagRepoGitHashDynamicString": "d017ceefcf2294ba95617806458941b1987f903c",
-    "FStringFlipTimeStampFastString": "2024-07-24T17:16:16.722Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-24T17:16:16.722Z"
+    "FStringFlagRepoGitHashFastString": "85528811fc498c3d2733fc47fe73d0255f314bf6",
+    "DFStringFlagRepoGitHashDynamicString": "85528811fc498c3d2733fc47fe73d0255f314bf6",
+    "FStringFlipTimeStampFastString": "2024-07-24T17:39:03.484Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-24T17:39:03.484Z"
 }

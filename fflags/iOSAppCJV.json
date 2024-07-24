@@ -13277,7 +13277,6 @@
     "FFlagGraphicsVulkanBufferWaw": "True",
     "FFlagMoveCarouselHeader": "True",
     "FFlagXboxGamepadUserInfoAnalytics": "True",
-    "DFFlagCLI102833PrelimTelemetry2": "True",
     "FFlagHumanoidDescriptionUseInstances4": "False",
     "FFlagHumanoidDescriptionUseInstances4_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "500;166986752",
@@ -13520,7 +13519,9 @@
     "FFlagAvatarChatServiceExposeUserVerifiedForVoiceV2": "True",
     "DFFlagFastBvhDequantize": "True",
     "FFlagAnimationCurveDenseCacheEnabled2_Rollout": "False;30;2024-07-24T17:05:29",
+    "FFlagTerrain_ClampMaterial_Rollout": "True;30;2024-07-24T17:24:18",
     "AllowVideoPreRoll": "True",
+    "FreeMemoryCheckerActive": "False",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13714,7 +13715,6 @@
     "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5",
     "FStringRoactChatFetchedOlderConversationCounter": "RoactChatFetchedOlderConversationiOS",
     "FStringSignalRRelativePath": "notifications",
-    "FreeMemoryCheckerActive": "False",
     "FreeMemoryCheckerRateMilliSeconds": "100",
     "FreeMemoryCheckerThresholdKiloBytes": "4096",
     "GoogleAnalyticsAccountPropertyID": "UA-43420590-3",
@@ -14197,8 +14197,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "d017ceefcf2294ba95617806458941b1987f903c",
-    "DFStringFlagRepoGitHashDynamicString": "d017ceefcf2294ba95617806458941b1987f903c",
-    "FStringFlipTimeStampFastString": "2024-07-24T17:16:16.722Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-24T17:16:16.722Z"
+    "FStringFlagRepoGitHashFastString": "85528811fc498c3d2733fc47fe73d0255f314bf6",
+    "DFStringFlagRepoGitHashDynamicString": "85528811fc498c3d2733fc47fe73d0255f314bf6",
+    "FStringFlipTimeStampFastString": "2024-07-24T17:39:03.484Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-24T17:39:03.484Z"
 }
