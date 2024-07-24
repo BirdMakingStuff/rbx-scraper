@@ -13531,6 +13531,9 @@
     "FFlagReleaseCinImporterSettingsV23": "False",
     "FFlagReleaseCinImporterSettingsV23_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "EnableWebPageGameDetail": "True",
+    "FFlagCrashpadReportVendorDeviceFLevelQLevelWindows_Rollout": "True;60;2024-07-24T19:55:25",
+    "FFlagCrashpadReportVendorDeviceFLevelQLevelAlsoWindows_Rollout": "True;60;2024-07-24T19:55:42",
+    "FFlagReportRenderDistanceTelemetry_Rollout": "True;60;2024-07-24T20:11:38",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14155,8 +14158,8 @@
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagEnableVideoLandingRelease3": "False",
     "FFlagAXItemCardTallEnabled3": "True",
-    "FStringFlagRepoGitHashFastString": "b7a7800b826a26f5c8975c5732472e1f241718cc",
-    "DFStringFlagRepoGitHashDynamicString": "b7a7800b826a26f5c8975c5732472e1f241718cc",
-    "FStringFlipTimeStampFastString": "2024-07-24T19:36:03.404Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-24T19:36:03.404Z"
+    "FStringFlagRepoGitHashFastString": "2b0bcdf18789caa5e0b50e72bcc1d6630437b4b3",
+    "DFStringFlagRepoGitHashDynamicString": "2b0bcdf18789caa5e0b50e72bcc1d6630437b4b3",
+    "FStringFlipTimeStampFastString": "2024-07-24T20:16:58.370Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-24T20:16:58.370Z"
 }
