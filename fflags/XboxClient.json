@@ -11666,7 +11666,7 @@
     "FFlagEnableAudioDuckingAroundVideoAds": "True",
     "FFlagAppContainerSplitOutRouteConfigs": "True",
     "FFlagAdsHideCustomUIInFullscreen": "True",
-    "FFlagUIListLayoutEnableFlex3_PlaceFilter": "False;130793019;2925613126;2983487801;16114172050;740581795",
+    "FFlagUIListLayoutEnableFlex3_PlaceFilter": "False;130793019;2925613126;2983487801;16114172050;740581795;17162125383",
     "DFFlagLogServiceDeprecateCanManage": "True",
     "FIntPathfindingLargeTerrainTileThrottleHundrethsPercentPoints": "10000",
     "FFlagDragDetectorUsesPermissionPolicyRevised2": "False",
@@ -13862,7 +13862,6 @@
     "FIntSquareGameTileMinItemCount": "8",
     "FFlagRaknetAllocOrCrash": "True",
     "FFlagFreeTypeAllocOrCrash": "True",
-    "FFlagGamepadNavigationDialogABTest": "True",
     "FFlagFixReducedMotionStuckIGM2": "True",
     "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": "True",
     "FFlagEnableUnknownErrorCreatorDashboardMessage": "True",
@@ -13891,9 +13890,9 @@
     "FFlagUIListLayoutEnableFlex3": "True",
     "FFlagEnableEngineContextScope4_Rollout": "True;60;2024-07-24T17:15:36",
     "FFlagRefactorRescaleVideo": "True",
-    "FFlagMoreStrictLimitOnRelayout3_PlaceFilter": "False;7491927311;740581795",
-    "FStringFlagRepoGitHashFastString": "f5da883453ce0b432ece10d49008e387257acdbb",
-    "DFStringFlagRepoGitHashDynamicString": "f5da883453ce0b432ece10d49008e387257acdbb",
-    "FStringFlipTimeStampFastString": "2024-07-24T18:26:33.538Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-24T18:26:33.538Z"
+    "FFlagMoreStrictLimitOnRelayout3_PlaceFilter": "False;7491927311;740581795;17162125383",
+    "FStringFlagRepoGitHashFastString": "a5256dcadb91c554b4474ac124a13c6532502198",
+    "DFStringFlagRepoGitHashDynamicString": "a5256dcadb91c554b4474ac124a13c6532502198",
+    "FStringFlipTimeStampFastString": "2024-07-24T18:41:41.290Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-24T18:41:41.290Z"
 }
