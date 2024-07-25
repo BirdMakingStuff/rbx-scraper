@@ -145,8 +145,6 @@
     "FFlagRefactorRescaleVideo": "True",
     "FFlagAnimationCurveDenseCacheEnabled2": "False",
     "FFlagAXFixDetailsButtonLabel": "True",
-    "FFlagDisplaySocialLinksInProfileIXPEnabled": "True",
-    "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -162,8 +160,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FStringFlagRepoGitHashFastString": "69576aae5ba0a47592d8cc946f2c0f63bd27e4f4",
-    "DFStringFlagRepoGitHashDynamicString": "69576aae5ba0a47592d8cc946f2c0f63bd27e4f4",
-    "FStringFlipTimeStampFastString": "2024-07-25T21:36:24.921Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-25T21:36:24.921Z"
+    "FStringFlagRepoGitHashFastString": "7a27166bdf214898e5eade6e6862f69fdd5ed900",
+    "DFStringFlagRepoGitHashDynamicString": "7a27166bdf214898e5eade6e6862f69fdd5ed900",
+    "FStringFlipTimeStampFastString": "2024-07-25T22:13:06.659Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-25T22:13:06.659Z"
 }
