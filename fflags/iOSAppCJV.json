@@ -13545,6 +13545,7 @@
     "DFFlagPrehashSerializerBinary_Rollout": "True;60;2024-07-25T18:17:35",
     "FFlagLuaAppReportExperienceLaunchedParams": "True",
     "FFlagLuaAppUseCollectionViewIXP2": "True",
+    "DFFlagCLI102833v2_Rollout": "True;60;2024-07-25T19:34:01",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14174,11 +14175,11 @@
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "True",
     "FFlagAXFixDetailsButtonLabel": "True",
     "DFFlagCLI111655": "True",
-    "FFlagLuaAppFixGameGridAnalyticsUniverseId_Rollout": "True;30;2024-07-25T18:27:36",
     "FFlagDisplaySocialLinksInProfileIXPEnabled": "True",
     "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3": "True",
     "FFlagReportCrossAppLoginAttempt_Rollout": "True;60;2024-07-25T18:37:53",
     "DFStringRobloxTelemetryV2PointAdatpterDualWriteWhitelist_Rollout": "SessionTracking;60;2024-07-25T18:44:56",
+    "FFlagLuaAppFixGameGridAnalyticsUniverseId": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -14217,8 +14218,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "9c3300a4530107e6cf214317b64e327d6393c1f7",
-    "DFStringFlagRepoGitHashDynamicString": "9c3300a4530107e6cf214317b64e327d6393c1f7",
-    "FStringFlipTimeStampFastString": "2024-07-25T19:12:53.246Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-25T19:12:53.246Z"
+    "FStringFlagRepoGitHashFastString": "435ed3c910c0a637976085407b5391d6c44c79b1",
+    "DFStringFlagRepoGitHashDynamicString": "435ed3c910c0a637976085407b5391d6c44c79b1",
+    "FStringFlipTimeStampFastString": "2024-07-25T19:38:54.131Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-25T19:38:54.131Z"
 }
