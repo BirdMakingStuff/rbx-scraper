@@ -146,6 +146,7 @@
     "FFlagAnimationCurveDenseCacheEnabled2": "False",
     "FFlagAXFixDetailsButtonLabel": "True",
     "DFFlagFixExtraParserMapEntries_Rollout": "True;30;2024-07-25T22:38:09",
+    "DFFlagOptimizeFlagDatabankSetValue2_Rollout": "True;30;2024-07-25T22:41:05",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -168,8 +169,8 @@
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "c1d8b56c24d0388d7281e48ce02b8ce4f4a94343",
-    "DFStringFlagRepoGitHashDynamicString": "c1d8b56c24d0388d7281e48ce02b8ce4f4a94343",
-    "FStringFlipTimeStampFastString": "2024-07-25T22:39:21.137Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-25T22:39:21.137Z"
+    "FStringFlagRepoGitHashFastString": "a9a831268800e126934287e2dead3c8a388f900b",
+    "DFStringFlagRepoGitHashDynamicString": "a9a831268800e126934287e2dead3c8a388f900b",
+    "FStringFlipTimeStampFastString": "2024-07-25T23:17:39.424Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-25T23:17:39.424Z"
 }

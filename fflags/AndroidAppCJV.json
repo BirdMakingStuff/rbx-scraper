@@ -13548,6 +13548,15 @@
     "FFlagSTUDIOPLAT_35330_LowMemoryAttributes_Rollout": "True;60;2024-07-25T22:34:10",
     "FFlagReplaceWaitForChildDependancy2964_Rollout": "True;30;2024-07-25T22:37:48",
     "DFFlagFixExtraParserMapEntries_Rollout": "True;30;2024-07-25T22:38:09",
+    "DFFlagOptimizeFlagDatabankSetValue2_Rollout": "True;30;2024-07-25T22:41:05",
+    "DFFlagDSTelemetryV2RenameDataStoreService_Rollout": "True;30;2024-07-25T22:44:32",
+    "DFFlagDSTelemetryV2ReplaceSeparator_Rollout": "True;30;2024-07-25T22:44:47",
+    "DFFlagCallUpdateDbgInfoEarly": "True",
+    "FFlagDebugWriteDataModelTaskTelemetryToLog_Rollout": "True;60;2024-07-25T22:46:31",
+    "FFlagDebugWritePlaceSessionStateTelemetryToLog_Rollout": "True;60;2024-07-25T22:48:01",
+    "FFlagStudioCancellableDialogManager_Rollout": "True;60;2024-07-25T22:53:39",
+    "FFlagPropertiesMigrateImageUpload3_Rollout": "True;60;2024-07-25T23:06:52",
+    "DFFlagSimSkipVoxelCDECMerge_Rollout": "True;30;2024-07-25T23:21:35",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14149,8 +14158,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "c1d8b56c24d0388d7281e48ce02b8ce4f4a94343",
-    "DFStringFlagRepoGitHashDynamicString": "c1d8b56c24d0388d7281e48ce02b8ce4f4a94343",
-    "FStringFlipTimeStampFastString": "2024-07-25T22:39:21.137Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-25T22:39:21.137Z"
+    "FStringFlagRepoGitHashFastString": "c0271748e650ecf8acbbf545c6ff10c8a6a9bf99",
+    "DFStringFlagRepoGitHashDynamicString": "c0271748e650ecf8acbbf545c6ff10c8a6a9bf99",
+    "FStringFlipTimeStampFastString": "2024-07-25T23:22:13.086Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-25T23:22:13.086Z"
 }
