@@ -13557,7 +13557,6 @@
     "FFlagExplorerFixGhostSelection": "True",
     "FIntLuaAppHomeFeedProfilePosition": "0",
     "FFlagDisplaySocialLinksInProfileIXPEnabled": "True",
-    "FIntTimeToSendMeshRenderFidelitySec_Rollout": "300;60;2024-07-26T18:09:21",
     "FFlagAXFixItemOwnershipClickThrough": "True",
     "FFlagUseLinkingService_Rollout": "True;60;2024-07-26T18:50:55",
     "FFlagAddIxpLayersPlayerAppLogout": "True",
@@ -13565,6 +13564,7 @@
     "FFlagEnableExplorerTelemetry2": "True",
     "FFlagExplorerFixRename": "True",
     "FFlagTransformToolFixDeferredDrag": "True",
+    "FIntTimeToSendMeshRenderFidelitySec": "300",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13760,8 +13760,8 @@
     "FFlagSSOLoggingProtocolEnabled2": "True",
     "DFIntUIListLayoutStats_ReportHundredthsPercent2": "100",
     "FFlagAXFixDetailsButtonLabel": "True",
-    "FStringFlagRepoGitHashFastString": "0f7bfd1fa773350b5873ced644942d073c76bee2",
-    "DFStringFlagRepoGitHashDynamicString": "0f7bfd1fa773350b5873ced644942d073c76bee2",
-    "FStringFlipTimeStampFastString": "2024-07-26T19:36:36.929Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-26T19:36:36.929Z"
+    "FStringFlagRepoGitHashFastString": "dc8cedb5293671e58f6cc4bcfe2e6d2bec945da5",
+    "DFStringFlagRepoGitHashDynamicString": "dc8cedb5293671e58f6cc4bcfe2e6d2bec945da5",
+    "FStringFlipTimeStampFastString": "2024-07-26T19:41:41.389Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-26T19:41:41.389Z"
 }
