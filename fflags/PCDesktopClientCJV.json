@@ -13556,6 +13556,8 @@
     "FFlagTextureGeneratorMuteSounds": "True",
     "FFlagClientFixCreatorIdValue": "True",
     "FFlagExplorerFixGhostSelection": "True",
+    "FIntLuaAppHomeFeedProfilePosition_Rollout": "0;30;2024-07-26T16:20:38",
+    "FFlagDisplaySocialLinksInProfileIXPEnabled_Rollout": "True;60;2024-07-26T16:23:05",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -13711,6 +13713,9 @@
     "FFlagLuaAppDiscoveryOtaApiValidation": "True",
     "FFlagAXAvatarWidgetLogging": "True",
     "FFlagAXAvatarWidgetLandingEnum": "True",
+    "DFFlagEnableInPlaceFlagJsonParsing_Rollout": "True;60;2024-07-26T16:04:36",
+    "FFlagProximityPromptFixCrashOnDelete_Rollout": "True;60;2024-07-26T16:19:56",
+    "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3_Rollout": "True;60;2024-07-26T16:22:49",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14073,9 +14078,10 @@
     "FFlagMoreStrictLimitOnRelayout2": "True",
     "FFlagMoreStrictLimitOnRelayout2_PlaceFilter": "False;7491927311",
     "FFlagWindowsClientCrashpadHasChannelArg": "True",
+    "FFlagRuntimeEnabled8_Rollout": "True;30;2024-07-26T16:20:36",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "44b48da317e2263db2f8f4df0c78f1330978c882",
-    "DFStringFlagRepoGitHashDynamicString": "44b48da317e2263db2f8f4df0c78f1330978c882",
-    "FStringFlipTimeStampFastString": "2024-07-26T01:21:45.106Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-26T01:21:45.106Z"
+    "FStringFlagRepoGitHashFastString": "026faf0e96777263cf163c86061385e981e58bf0",
+    "DFStringFlagRepoGitHashDynamicString": "026faf0e96777263cf163c86061385e981e58bf0",
+    "FStringFlipTimeStampFastString": "2024-07-26T16:24:00.203Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-26T16:24:00.203Z"
 }

@@ -13556,6 +13556,8 @@
     "FFlagTextureGeneratorMuteSounds": "True",
     "FFlagClientFixCreatorIdValue": "True",
     "FFlagExplorerFixGhostSelection": "True",
+    "FIntLuaAppHomeFeedProfilePosition_Rollout": "0;30;2024-07-26T16:20:38",
+    "FFlagDisplaySocialLinksInProfileIXPEnabled_Rollout": "True;60;2024-07-26T16:23:05",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14187,6 +14189,7 @@
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": "True",
     "FFlagAXFixDetailsButtonLabel": "True",
     "DFFlagCLI111655": "True",
+    "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3_Rollout": "True;60;2024-07-26T16:22:49",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -14225,8 +14228,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "44b48da317e2263db2f8f4df0c78f1330978c882",
-    "DFStringFlagRepoGitHashDynamicString": "44b48da317e2263db2f8f4df0c78f1330978c882",
-    "FStringFlipTimeStampFastString": "2024-07-26T01:21:45.106Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-26T01:21:45.106Z"
+    "FStringFlagRepoGitHashFastString": "026faf0e96777263cf163c86061385e981e58bf0",
+    "DFStringFlagRepoGitHashDynamicString": "026faf0e96777263cf163c86061385e981e58bf0",
+    "FStringFlipTimeStampFastString": "2024-07-26T16:24:00.203Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-26T16:24:00.203Z"
 }

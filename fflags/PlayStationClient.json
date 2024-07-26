@@ -13557,6 +13557,7 @@
     "FFlagClientFixCreatorIdValue": "True",
     "FFlagExplorerFixGhostSelection": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+    "FFlagDisplaySocialLinksInProfileIXPEnabled_Rollout": "True;60;2024-07-26T16:23:05",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -13752,8 +13753,8 @@
     "FFlagSSOLoggingProtocolEnabled2": "True",
     "DFIntUIListLayoutStats_ReportHundredthsPercent2": "100",
     "FFlagAXFixDetailsButtonLabel": "True",
-    "FStringFlagRepoGitHashFastString": "44b48da317e2263db2f8f4df0c78f1330978c882",
-    "DFStringFlagRepoGitHashDynamicString": "44b48da317e2263db2f8f4df0c78f1330978c882",
-    "FStringFlipTimeStampFastString": "2024-07-26T01:21:45.106Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-26T01:21:45.106Z"
+    "FStringFlagRepoGitHashFastString": "026faf0e96777263cf163c86061385e981e58bf0",
+    "DFStringFlagRepoGitHashDynamicString": "026faf0e96777263cf163c86061385e981e58bf0",
+    "FStringFlipTimeStampFastString": "2024-07-26T16:24:00.203Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-26T16:24:00.203Z"
 }
