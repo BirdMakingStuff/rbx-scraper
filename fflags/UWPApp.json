@@ -13558,13 +13558,13 @@
     "FIntLuaAppHomeFeedProfilePosition": "0",
     "FFlagDisplaySocialLinksInProfileIXPEnabled": "True",
     "FFlagAXFixItemOwnershipClickThrough": "True",
-    "FFlagUseLinkingService_Rollout": "True;60;2024-07-26T18:50:55",
     "FFlagAddIxpLayersPlayerAppLogout": "True",
     "FFlagRemoveRBXSystem": "True",
     "FFlagEnableExplorerTelemetry2": "True",
     "FFlagExplorerFixRename": "True",
     "FFlagTransformToolFixDeferredDrag": "True",
     "FIntTimeToSendMeshRenderFidelitySec": "300",
+    "FFlagUseLinkingService": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13811,8 +13811,8 @@
     "FFlagRefactorRescaleVideo": "True",
     "FFlagAXFixDetailsButtonLabel": "True",
     "DFFlagCLI111655": "True",
-    "FStringFlagRepoGitHashFastString": "dc8cedb5293671e58f6cc4bcfe2e6d2bec945da5",
-    "DFStringFlagRepoGitHashDynamicString": "dc8cedb5293671e58f6cc4bcfe2e6d2bec945da5",
-    "FStringFlipTimeStampFastString": "2024-07-26T19:41:41.389Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-26T19:41:41.389Z"
+    "FStringFlagRepoGitHashFastString": "a313d7a4005116b49eb2018337c593303092a6d7",
+    "DFStringFlagRepoGitHashDynamicString": "a313d7a4005116b49eb2018337c593303092a6d7",
+    "FStringFlipTimeStampFastString": "2024-07-26T20:27:46.027Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-26T20:27:46.027Z"
 }
