@@ -171,8 +171,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FStringClientChannelProbabilityString": "1000;zflag=50",
-    "FStringFlagRepoGitHashFastString": "d6d7f45c91cb7a193329f609dff19fe4daedd1de",
-    "DFStringFlagRepoGitHashDynamicString": "d6d7f45c91cb7a193329f609dff19fe4daedd1de",
-    "FStringFlipTimeStampFastString": "2024-07-29T19:14:57.148Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-29T19:14:57.148Z"
+    "FStringFlagRepoGitHashFastString": "89905a73e4ca757ad10a377d60ea0473f8a78816",
+    "DFStringFlagRepoGitHashDynamicString": "89905a73e4ca757ad10a377d60ea0473f8a78816",
+    "FStringFlipTimeStampFastString": "2024-07-29T19:37:45.752Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-29T19:37:45.752Z"
 }
