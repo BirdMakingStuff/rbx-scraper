@@ -148,7 +148,7 @@
     "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3": "True",
     "FFlagReplaceChannelNameForDownload": "True",
     "FFlagRemoveRBXSystem": "True",
-    "FFlagAXFixDisabledNonLimitedCollectibles_Rollout": "True;60;2024-07-29T18:40:41",
+    "FFlagAXFixDisabledNonLimitedCollectibles": "True",
     "FFlagMacBootstrapperReportClientUpdateInfo": "True",
     "FFlagMacInstallerReportClientInstallInfo": "True",
     "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -158,8 +158,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "89905a73e4ca757ad10a377d60ea0473f8a78816",
-    "DFStringFlagRepoGitHashDynamicString": "89905a73e4ca757ad10a377d60ea0473f8a78816",
-    "FStringFlipTimeStampFastString": "2024-07-29T19:37:45.752Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-29T19:37:45.752Z"
+    "FStringFlagRepoGitHashFastString": "b7438a86067f2641b7ade853cab84195d7f9ffa2",
+    "DFStringFlagRepoGitHashDynamicString": "b7438a86067f2641b7ade853cab84195d7f9ffa2",
+    "FStringFlipTimeStampFastString": "2024-07-29T20:16:44.821Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-29T20:16:44.821Z"
 }
