@@ -13580,6 +13580,10 @@
     "DFFlagPrehashSerializerBinary_Rollout": "True;60;2024-07-29T17:14:11",
     "FFlagFixExplorerServiceVisibility2_Rollout": "True;60;2024-07-29T17:17:36",
     "FFlagRemoveTransformToolDefaultShortcut_Rollout": "True;60;2024-07-29T17:18:25",
+    "FStringVulkanBuggyRenderpassList_Rollout": "Adreno (TM) 730;60;2024-07-29T17:23:32",
+    "DFFlagShorelines_AutoUpgradeTrivial2_Rollout": "True;30;2024-07-29T17:28:42",
+    "FFlagStudioTasksBackgroundByDefault_Rollout": "True;60;2024-07-29T17:29:00",
+    "FFlagCAPConvAiExperimentBackendRename": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -14090,8 +14094,8 @@
     "DFFlagEnableValidateEngineContextLiveTrace_Rollout": "True;60;2024-07-29T16:25:11",
     "DFIntEngineContextValidationFailureThrottleHundredthsPercent_Rollout": "10000;60;2024-07-29T16:41:42",
     "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1_Rollout": "True;60;2024-07-29T17:18:52",
-    "FStringFlagRepoGitHashFastString": "9ea83eeb87b48b0e7402bf5f374b3a1ea613347f",
-    "DFStringFlagRepoGitHashDynamicString": "9ea83eeb87b48b0e7402bf5f374b3a1ea613347f",
-    "FStringFlipTimeStampFastString": "2024-07-29T17:19:38.143Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-29T17:19:38.143Z"
+    "FStringFlagRepoGitHashFastString": "b6f1518657fe5e5fdcd133ec30ff0ea1d3857eb3",
+    "DFStringFlagRepoGitHashDynamicString": "b6f1518657fe5e5fdcd133ec30ff0ea1d3857eb3",
+    "FStringFlipTimeStampFastString": "2024-07-29T17:38:42.419Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-29T17:38:42.419Z"
 }
