@@ -13621,9 +13621,6 @@
     "FFlagAddHapticsToggle": "True",
     "FIntToolboxSceneAnalysisViewportMaxScreenDivisions_Rollout": "1;60;2024-07-29T22:19:52",
     "FFlagRemoveAvatarFetchThumbnail": "True",
-    "FFlagSTUDIOPLAT_34529_ProtectCrashreporterDestruction_Rollout": "True;30;2024-07-29T22:25:14",
-    "FFlagCLI_109140_OnePlaceForCSGLogFilename_Rollout": "True;30;2024-07-29T22:25:48",
-    "FFlagSTUDIOPLAT_35311_UserActivityTrackerUnitTestRefactoring_Rollout": "True;30;2024-07-29T22:26:56",
     "DFFlagCLI102833v2_Rollout": "True;50;2024-07-29T22:27:00",
     "FFlagLuaAppAvatarHardLockFix": "True",
     "FFlagGlobalNavImageIcon": "True",
@@ -13634,6 +13631,8 @@
     "DFFlagSupportTriangleRefactor": "True",
     "DFFlagSimAeroForceModelJacobianTransposeFix_Rollout": "True;60;2024-07-29T23:15:00",
     "FFlagEnableGUACControlTOSPPLinks": "True",
+    "FFlagCLI_109140_OnePlaceForCSGLogFilename": "True",
+    "FFlagSTUDIOPLAT_35311_UserActivityTrackerUnitTestRefactoring": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13987,8 +13986,8 @@
     "DFFlagOptimizeFlagProcessing": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2_Rollout": "True;30;2024-07-29T23:11:59",
-    "FStringFlagRepoGitHashFastString": "8e70567bf24ce1dfbf0104d2c1663b237b2bcde4",
-    "DFStringFlagRepoGitHashDynamicString": "8e70567bf24ce1dfbf0104d2c1663b237b2bcde4",
-    "FStringFlipTimeStampFastString": "2024-07-29T23:18:09.538Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-29T23:18:09.538Z"
+    "FStringFlagRepoGitHashFastString": "b939eec252b6f9c88e70af54eba614c6fc8a4174",
+    "DFStringFlagRepoGitHashDynamicString": "b939eec252b6f9c88e70af54eba614c6fc8a4174",
+    "FStringFlipTimeStampFastString": "2024-07-29T23:31:46.217Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-29T23:31:46.217Z"
 }
