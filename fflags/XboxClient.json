@@ -13633,7 +13633,13 @@
     "FIntToolboxSceneAnalysisViewportMaxScreenDivisions": "1",
     "DFFlagCLI102833v2": "True",
     "DFFlagSimAeroForceModelJacobianTransposeFix": "True",
+    "FFlagFixFmodDlMallocCrash_Rollout": "True;60;2024-07-30T16:08:39",
+    "FFlagGateLeaderboardPlayerDropdownViaGUAC_Rollout": "True;60;2024-07-30T16:09:07",
+    "FFlagEnsureGridSizeSettingsSetOnceGameLoaded_Rollout": "True;60;2024-07-30T16:09:43",
+    "FFlagGateEducationalPopupVisibilityViaGUAC_Rollout": "True;60;2024-07-30T16:10:50",
+    "FFlagLuaAppRefactorOmniPageType_Rollout": "True;30;2024-07-30T16:11:49",
     "AllowVideoPreRoll": "True",
+    "FFlagSocialBtnsFollowupExperiment": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13986,8 +13992,8 @@
     "DFFlagOptimizeFlagProcessing": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
-    "FStringFlagRepoGitHashFastString": "be4f6843ddc4f76fae6bc2acda6ec319ab4f5f7a",
-    "DFStringFlagRepoGitHashDynamicString": "be4f6843ddc4f76fae6bc2acda6ec319ab4f5f7a",
-    "FStringFlipTimeStampFastString": "2024-07-30T00:46:56.147Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T00:46:56.147Z"
+    "FStringFlagRepoGitHashFastString": "0c9f429c0ed57554f086ffbf0099fcbc9d6c18f3",
+    "DFStringFlagRepoGitHashDynamicString": "0c9f429c0ed57554f086ffbf0099fcbc9d6c18f3",
+    "FStringFlipTimeStampFastString": "2024-07-30T16:23:16.430Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:23:16.430Z"
 }
