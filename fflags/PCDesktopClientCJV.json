@@ -13670,7 +13670,6 @@
     "DFFlagSeparateImageAndVideoStats2": "True",
     "FFlagEnableCrashUploadToBacktracePercentage2": "True",
     "DFFlagOtherFieldsPerfdata": "True",
-    "DFFlagTaskLibAddNaninfWarningToDelay_Rollout": "True;60;2024-07-30T21:55:03",
     "FFlagPathfindingHighComputeImplTimeAnalytics2": "True",
     "FFlagWaitForUniverseDataHangFix_Rollout": "True;60;2024-07-30T22:06:03",
     "DFFlagSimIslandBatchRemoveStdBind": "True",
@@ -13696,6 +13695,8 @@
     "FFlagFixMeshLoadingHang": "True",
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry_Rollout": "True;60;2024-07-30T23:16:00",
     "FFlagSimMeshLoDTranscoderE2ETest": "True",
+    "FFlagRemoveKickWhitespaceSub_Rollout": "True;60;2024-07-30T23:21:25",
+    "DFFlagTaskLibAddNaninfWarningToDelay": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
     "FFlagEnableDMInitMeasurement": "True",
@@ -14193,8 +14194,8 @@
     "FFlagUAppBlockPageUseTextFromGUAC": "True",
     "FFlagDisableLogWhenMonitorConditionLocked2": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "74f7af3bfbc997751350eb13a4a568ac7c281d32",
-    "DFStringFlagRepoGitHashDynamicString": "74f7af3bfbc997751350eb13a4a568ac7c281d32",
-    "FStringFlipTimeStampFastString": "2024-07-30T23:16:49.284Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T23:16:49.284Z"
+    "FStringFlagRepoGitHashFastString": "1cca9f107d5a421be3be7eff02611bdc34d0621b",
+    "DFStringFlagRepoGitHashDynamicString": "1cca9f107d5a421be3be7eff02611bdc34d0621b",
+    "FStringFlipTimeStampFastString": "2024-07-30T23:26:43.700Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T23:26:43.700Z"
 }
