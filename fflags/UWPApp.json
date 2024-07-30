@@ -13651,6 +13651,9 @@
     "FFlagRenderTestAddBetterLogging_Rollout": "True;60;2024-07-30T17:13:59",
     "FFlagRenderTestInitViewportSettings_Rollout": "True;60;2024-07-30T17:14:05",
     "FFlagLuaAppRefactorOmniPageType": "True",
+    "FFlagLuaAppDiscoveryOtaApiValidation_Rollout": "True;30;2024-07-30T17:29:35",
+    "FStringLuaAppSortsWithDividers_Rollout": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,500000000,500000001,600000000;30;2024-07-30T17:29:52",
+    "FFlagAXEnableAvatarDataRefreshV2_Rollout": "True;60;2024-07-30T17:32:40",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13893,8 +13896,8 @@
     "DFFlagCLI111655": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
-    "FStringFlagRepoGitHashFastString": "a12109680684df806489a63c604e44fd089b3f5e",
-    "DFStringFlagRepoGitHashDynamicString": "a12109680684df806489a63c604e44fd089b3f5e",
-    "FStringFlipTimeStampFastString": "2024-07-30T17:18:13.622Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:18:13.622Z"
+    "FStringFlagRepoGitHashFastString": "607e9eeac1cc4973c1b04d33b90eae775deee8a8",
+    "DFStringFlagRepoGitHashDynamicString": "607e9eeac1cc4973c1b04d33b90eae775deee8a8",
+    "FStringFlipTimeStampFastString": "2024-07-30T17:33:21.354Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:33:21.354Z"
 }
