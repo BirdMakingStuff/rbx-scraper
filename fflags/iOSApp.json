@@ -13640,6 +13640,7 @@
     "AxisAdornmentGrabSize": "12",
     "AllowVideoPreRoll": "True",
     "FFlagSocialBtnsFollowupExperiment": "True",
+    "FFlagVideoIOSUseDynamicMaxReorderFrame_Rollout": "True;60;2024-07-30T16:37:54",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -14257,8 +14258,8 @@
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": "True",
-    "FStringFlagRepoGitHashFastString": "e01cf78d90fb81968357962f826cfde57543dd93",
-    "DFStringFlagRepoGitHashDynamicString": "e01cf78d90fb81968357962f826cfde57543dd93",
-    "FStringFlipTimeStampFastString": "2024-07-30T16:21:51.193Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:21:51.193Z"
+    "FStringFlagRepoGitHashFastString": "294c5b9cdb2eee2a46db163ae1fec6e086fa2339",
+    "DFStringFlagRepoGitHashDynamicString": "294c5b9cdb2eee2a46db163ae1fec6e086fa2339",
+    "FStringFlipTimeStampFastString": "2024-07-30T16:38:56.281Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:38:56.281Z"
 }
