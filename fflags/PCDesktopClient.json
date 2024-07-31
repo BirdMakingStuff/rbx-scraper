@@ -13698,10 +13698,11 @@
     "FFlagHumanoidDescriptionUseInstances5_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry": "True",
     "FFlagRemoveKickWhitespaceSub": "True",
-    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagLuaAppGameDetailLockState_Rollout": "True;60;2024-07-31T16:08:50",
     "DFFlagCLI111655_Rollout": "True;60;2024-07-31T16:22:47",
-    "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
+    "FFlagWinBackgroundDownloadUpdates_Rollout": "True;10;2024-07-31T16:27:47",
+    "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
     "FFlagEnableDMInitMeasurement": "True",
@@ -14195,8 +14196,8 @@
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": "True",
     "FFlagUAppBlockPageUseTextFromGUAC": "True",
     "FFlagDisableLogWhenMonitorConditionLocked2": "True",
-    "FStringFlagRepoGitHashFastString": "cedc4f585a1af4df1d4274f9aa7c84f18d517e29",
-    "DFStringFlagRepoGitHashDynamicString": "cedc4f585a1af4df1d4274f9aa7c84f18d517e29",
-    "FStringFlipTimeStampFastString": "2024-07-31T16:23:30.429Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T16:23:30.429Z"
+    "FStringFlagRepoGitHashFastString": "08ea5128380e5785301d5e83f7c475c6807c81ad",
+    "DFStringFlagRepoGitHashDynamicString": "08ea5128380e5785301d5e83f7c475c6807c81ad",
+    "FStringFlipTimeStampFastString": "2024-07-31T16:42:25.573Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T16:42:25.573Z"
 }

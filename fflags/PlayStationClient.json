@@ -13701,6 +13701,8 @@
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "FFlagLuaAppGameDetailLockState_Rollout": "True;60;2024-07-31T16:08:50",
     "DFFlagCLI111655_Rollout": "True;60;2024-07-31T16:22:47",
+    "FFlagWinBackgroundDownloadUpdates_Rollout": "True;10;2024-07-31T16:27:47",
+    "FIntWinBackgroundDownloadUpdatesHundredthPercent_Rollout": "1000;10;2024-07-31T16:28:15",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -13883,8 +13885,8 @@
     "FFlagAXFixDisabledNonLimitedCollectibles": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
-    "FStringFlagRepoGitHashFastString": "cedc4f585a1af4df1d4274f9aa7c84f18d517e29",
-    "DFStringFlagRepoGitHashDynamicString": "cedc4f585a1af4df1d4274f9aa7c84f18d517e29",
-    "FStringFlipTimeStampFastString": "2024-07-31T16:23:30.429Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T16:23:30.429Z"
+    "FStringFlagRepoGitHashFastString": "08ea5128380e5785301d5e83f7c475c6807c81ad",
+    "DFStringFlagRepoGitHashDynamicString": "08ea5128380e5785301d5e83f7c475c6807c81ad",
+    "FStringFlipTimeStampFastString": "2024-07-31T16:42:25.573Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T16:42:25.573Z"
 }
