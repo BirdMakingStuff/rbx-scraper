@@ -13685,7 +13685,6 @@
     "FFlagDevFrameworkGetRowHeight": "True",
     "FFlagAXFixAdaptiveScrollingSnapAndroid": "True",
     "FFlagPeekViewContentAndSystemBarFrameJitterFixIXP": "True",
-    "FFlagFixMeshLoadingHang": "True",
     "FFlagSimMeshLoDTranscoderE2ETest": "True",
     "DFFlagTaskLibAddNaninfWarningToDelay": "True",
     "FFlagWaitForUniverseDataHangFix": "True",
@@ -13699,6 +13698,9 @@
     "FFlagHumanoidDescriptionUseInstances5_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry": "True",
     "FFlagRemoveKickWhitespaceSub": "True",
+    "FFlagRegisterTerminationCrashHandler_Rollout": "True;60;2024-07-31T16:06:01",
+    "FFlagLuaAppGameDetailLockState_Rollout": "True;60;2024-07-31T16:08:50",
+    "DFFlagCLI111655_Rollout": "True;60;2024-07-31T16:22:47",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14273,8 +14275,8 @@
     "DFFlagMicroprofilerOutput2": "True",
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": "True",
     "DFFlagReportSwapUsage2": "True",
-    "FStringFlagRepoGitHashFastString": "dfac08fdeb4828dcb9a568ea3cd8e33d9f418281",
-    "DFStringFlagRepoGitHashDynamicString": "dfac08fdeb4828dcb9a568ea3cd8e33d9f418281",
-    "FStringFlipTimeStampFastString": "2024-07-31T00:56:16.014Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T00:56:16.014Z"
+    "FStringFlagRepoGitHashFastString": "cedc4f585a1af4df1d4274f9aa7c84f18d517e29",
+    "DFStringFlagRepoGitHashDynamicString": "cedc4f585a1af4df1d4274f9aa7c84f18d517e29",
+    "FStringFlipTimeStampFastString": "2024-07-31T16:23:30.429Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T16:23:30.429Z"
 }
