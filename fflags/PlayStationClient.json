@@ -13701,7 +13701,6 @@
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagLuaAppGameDetailLockState": "True",
     "DFFlagCLI111655": "True",
-    "DFFlagVector23AngleMathPiFix_Rollout": "True;60;2024-07-31T17:57:18",
     "DFFlagSimCSGSubstituteSizeFilter_Rollout": "True;60;2024-07-31T18:10:32",
     "FFlagSimCSG4FixIntersection_Rollout": "True;60;2024-07-31T18:10:32",
     "DFFlagPhoto2AvatarConsolidateEvents": "True",
@@ -13720,6 +13719,7 @@
     "FFlagUnbindRenderSteps_Rollout": "True;60;2024-07-31T19:02:16",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase635": "True",
     "FFlagSessionTelemetryNameFilterFix": "True",
+    "DFFlagVector23AngleMathPiFix": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13902,8 +13902,8 @@
     "FFlagAXFixDisabledNonLimitedCollectibles": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
-    "FStringFlagRepoGitHashFastString": "572afb59fdbf2a5664f089a2e810f515c194846b",
-    "DFStringFlagRepoGitHashDynamicString": "572afb59fdbf2a5664f089a2e810f515c194846b",
-    "FStringFlipTimeStampFastString": "2024-07-31T19:16:53.250Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T19:16:53.250Z"
+    "FStringFlagRepoGitHashFastString": "d782d7bbcb45bb1910e3e304e7ec9636cd323cc9",
+    "DFStringFlagRepoGitHashDynamicString": "d782d7bbcb45bb1910e3e304e7ec9636cd323cc9",
+    "FStringFlipTimeStampFastString": "2024-07-31T19:32:11.055Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T19:32:11.055Z"
 }
