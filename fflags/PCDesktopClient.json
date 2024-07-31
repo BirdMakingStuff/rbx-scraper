@@ -13723,7 +13723,6 @@
     "FFlagVngLogoutGlobalAppSessionsOnConversion": "True",
     "FStringAssetAccessEligibleAssetTypesCSV": "Audio,Video",
     "FIntSimSolverMoverConstraintRootBehaviorDefault": "1",
-    "FFlagVoiceChatUseChannelIdToGroupVoiceSessions_Rollout": "True;60;2024-07-31T21:56:25",
     "FFlagCleanupDestructedInstanceNodes_Rollout": "True;60;2024-07-31T22:07:04",
     "FFlagPathfindingOffsetClimbableSpans": "True",
     "FFlagThreadSafeDataModelServicesUpdateDataModel": "True",
@@ -13739,6 +13738,7 @@
     "FFlagLuaAppsNotificationTimerChangesEnabled_Dev": "True",
     "FFlagFixTenFootUiMorePage_Rollout": "True;60;2024-07-31T22:57:33",
     "FFlagNewChatConversationScreenMoreIcon": "True",
+    "FFlagVoiceChatUseChannelIdToGroupVoiceSessions": "True",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14233,8 +14233,8 @@
     "FFlagUAppBlockPageUseTextFromGUAC": "True",
     "FFlagDisableLogWhenMonitorConditionLocked2": "True",
     "FIntWindowsClientCrashpadRolloutHundredthPercent_Rollout": "500;60;2024-07-31T23:06:58",
-    "FStringFlagRepoGitHashFastString": "cd3824b4a131f8cbc8855b877640fac7a463a72f",
-    "DFStringFlagRepoGitHashDynamicString": "cd3824b4a131f8cbc8855b877640fac7a463a72f",
-    "FStringFlipTimeStampFastString": "2024-07-31T23:14:14.208Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T23:14:14.208Z"
+    "FStringFlagRepoGitHashFastString": "6a03c3a6b4e06d60299f53d6a196d999825d0464",
+    "DFStringFlagRepoGitHashDynamicString": "6a03c3a6b4e06d60299f53d6a196d999825d0464",
+    "FStringFlipTimeStampFastString": "2024-07-31T23:36:54.314Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T23:36:54.314Z"
 }
