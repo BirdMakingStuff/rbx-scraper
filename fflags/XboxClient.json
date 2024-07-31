@@ -13709,6 +13709,9 @@
     "DFFlagPhoto2AvatarLogErrorWithCounter_Rollout": "True;30;2024-07-31T17:08:40",
     "FIntWinBackgroundDownloadUpdatesHundredthPercent": "1000",
     "FFlagAnalyticsGlobalVarRefactorV1_Rollout": "True;60;2024-07-31T17:18:44",
+    "DFFlagAllowDisablingSTFields_Rollout": "False;60;2024-07-31T17:20:50",
+    "FFlagAudioMetadataAPIWorksWithPlugins_Rollout": "True;60;2024-07-31T17:29:42",
+    "FFlagNewOptimizeNoCollisionPrimitiveInMidphase635_Rollout": "True;60;2024-07-31T17:31:27",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -14046,7 +14049,7 @@
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
-    "DFFlagTeleportJoinBack": "True",
+    "DFFlagTeleportJoinBack": "False",
     "DFFlagDoJoinBackTeleport": "False",
     "DFFlagCheckDataModelManagerBeforeAccessing": "True",
     "FFlagMoreStrictLimitOnRelayout3_PlaceFilter": "False;7491927311;740581795;17162125383;17715563868;3144588566;15327728308;14745996;15609075485;7398060988;15286601288;16873809426;8602041390;16235502178;18629458857;15624728229;15092194243;15345399657",
@@ -14058,9 +14061,8 @@
     "FFlagAXFixDisabledNonLimitedCollectibles": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
-    "DFFlagTeleportJoinBack_Rollout": "False;60;2024-07-31T17:03:26",
-    "FStringFlagRepoGitHashFastString": "08186e966e801af5001784a2846838ae8a7eb42c",
-    "DFStringFlagRepoGitHashDynamicString": "08186e966e801af5001784a2846838ae8a7eb42c",
-    "FStringFlipTimeStampFastString": "2024-07-31T17:19:20.005Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T17:19:20.005Z"
+    "FStringFlagRepoGitHashFastString": "0a560c6a39f623a8cdcd36ce4365852a0e9f89b1",
+    "DFStringFlagRepoGitHashDynamicString": "0a560c6a39f623a8cdcd36ce4365852a0e9f89b1",
+    "FStringFlipTimeStampFastString": "2024-07-31T17:38:12.312Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T17:38:12.312Z"
 }
