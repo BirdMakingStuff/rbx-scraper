@@ -13682,7 +13682,6 @@
     "DFIntAvatarLoadFlowTelemetryEventsThrottle": "1000",
     "FFlagDevFrameworkGetRowHeight": "True",
     "FFlagAXFixAdaptiveScrollingSnapAndroid": "True",
-    "FFlagPeekViewContentAndSystemBarFrameJitterFixIXP": "True",
     "FFlagSimMeshLoDTranscoderE2ETest": "True",
     "DFFlagTaskLibAddNaninfWarningToDelay": "True",
     "FFlagWaitForUniverseDataHangFix": "True",
@@ -13764,9 +13763,10 @@
     "FFlagAddPublishServiceErrorToUploadFailureMsg_Rollout": "True;60;2024-08-01T21:33:53",
     "FFlagIncludeUGCAssetNameInUploadErrorMessages_Rollout": "True;60;2024-08-01T21:33:53",
     "FFlagDSAReadOnlyLinkForConsole_Rollout": "True;60;2024-08-01T21:35:43",
-    "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
     "FFlagEnableDMInitMeasurement": "True",
+    "DFIntRccCloseReasonAdoptionMetricsHundredths": "100",
+    "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagEnableLoadPatchMetric": "True",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
@@ -14255,8 +14255,8 @@
     "FFlagAXAvatarWidgetCharactersTabEnum": "True",
     "FFlagAXWidgetsByContext3": "True",
     "FFlagLooksTileSeeAllFooterBottomPadding": "True",
-    "FStringFlagRepoGitHashFastString": "b7600598d8ade771f0cc05a1692f0b1c2f2f4aa2",
-    "DFStringFlagRepoGitHashDynamicString": "b7600598d8ade771f0cc05a1692f0b1c2f2f4aa2",
-    "FStringFlipTimeStampFastString": "2024-08-01T21:36:18.067Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T21:36:18.067Z"
+    "FStringFlagRepoGitHashFastString": "e2100b887a7514fbb244f04ee1cd40a85c58be08",
+    "DFStringFlagRepoGitHashDynamicString": "e2100b887a7514fbb244f04ee1cd40a85c58be08",
+    "FStringFlipTimeStampFastString": "2024-08-01T22:17:41.864Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T22:17:41.864Z"
 }

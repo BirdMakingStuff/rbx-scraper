@@ -13682,7 +13682,6 @@
     "DFIntAvatarLoadFlowTelemetryEventsThrottle": "1000",
     "FFlagDevFrameworkGetRowHeight": "True",
     "FFlagAXFixAdaptiveScrollingSnapAndroid": "True",
-    "FFlagPeekViewContentAndSystemBarFrameJitterFixIXP": "True",
     "FFlagSimMeshLoDTranscoderE2ETest": "True",
     "DFFlagTaskLibAddNaninfWarningToDelay": "True",
     "FFlagWaitForUniverseDataHangFix": "True",
@@ -13766,6 +13765,9 @@
     "FFlagDSAReadOnlyLinkForConsole_Rollout": "True;60;2024-08-01T21:35:43",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
+    "DFIntRccCloseReasonAdoptionMetricsHundredths": "100",
+    "FFlagEnableQuestHaptics": "True",
+    "DFFlagCleanupLoadChatInfoInternal_Rollout": "True;60;2024-08-01T22:20:03",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "CatalogPromoAssetId": "-1",
@@ -14337,7 +14339,6 @@
     "DFFlagMicroprofilerOutput2": "True",
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": "True",
     "DFFlagReportSwapUsage2": "True",
-    "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
     "FFlagDisablePostFx": "True",
@@ -14381,8 +14382,8 @@
     "FFlagEnableVideoLandingRelease3": "False",
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3": "True",
-    "FStringFlagRepoGitHashFastString": "b7600598d8ade771f0cc05a1692f0b1c2f2f4aa2",
-    "DFStringFlagRepoGitHashDynamicString": "b7600598d8ade771f0cc05a1692f0b1c2f2f4aa2",
-    "FStringFlipTimeStampFastString": "2024-08-01T21:36:18.067Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T21:36:18.067Z"
+    "FStringFlagRepoGitHashFastString": "c1d59bb286f744e4a8d3ebd6cd9fe6ec109369ac",
+    "DFStringFlagRepoGitHashDynamicString": "c1d59bb286f744e4a8d3ebd6cd9fe6ec109369ac",
+    "FStringFlipTimeStampFastString": "2024-08-01T22:20:43.118Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T22:20:43.118Z"
 }
