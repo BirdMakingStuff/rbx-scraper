@@ -13747,7 +13747,6 @@
     "FFlagDisableiOSAppsflyerSignupEvent": "True",
     "FFlagLuaAppUseCollectionViewByDefault2": "True",
     "FFlagLuaAppFixGameGridAnalyticsUniverseId": "True",
-    "FFlagFixOutfitTileHeight_Rollout": "True;60;2024-08-01T17:35:12",
     "FFlagLooksTileFooterTruncateCurator_Rollout": "True;60;2024-08-01T17:43:07",
     "DFFlagSimAdaptiveCheckBoundingBoxOverlap": "True",
     "FFlagEnableQuestHaptics": "True",
@@ -13756,6 +13755,7 @@
     "FFlagStudioVietnameseLocale": "True",
     "FFlagCAPInstanceTrackerForUndoTelemetry2_Rollout": "True;60;2024-08-01T18:29:03",
     "FFlagFindPlayerWithAddressOpt": "True",
+    "FFlagFixOutfitTileHeight": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14373,8 +14373,8 @@
     "FFlagEnableVideoLandingRelease3": "False",
     "FFlagAXItemCardTallEnabled3": "True",
     "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3": "True",
-    "FStringFlagRepoGitHashFastString": "5715e2fb7c3110d4b4c0a42597c2dac46d411a55",
-    "DFStringFlagRepoGitHashDynamicString": "5715e2fb7c3110d4b4c0a42597c2dac46d411a55",
-    "FStringFlipTimeStampFastString": "2024-08-01T18:41:05.442Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T18:41:05.442Z"
+    "FStringFlagRepoGitHashFastString": "0fe875313a915030a07b5dc0640879d2daf52377",
+    "DFStringFlagRepoGitHashDynamicString": "0fe875313a915030a07b5dc0640879d2daf52377",
+    "FStringFlipTimeStampFastString": "2024-08-01T19:09:02.857Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T19:09:02.857Z"
 }
