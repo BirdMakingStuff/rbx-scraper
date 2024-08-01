@@ -14249,15 +14249,15 @@
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": "True",
     "FFlagUAppBlockPageUseTextFromGUAC": "True",
     "FFlagDisableLogWhenMonitorConditionLocked2": "False",
-    "DFFlagVoiceChatCullingRefDataChannel_Rollout": "True;60;2024-08-01T18:53:48",
-    "DFIntVoiceChatPeerConnectionSleepUntilEnabled_Rollout": "1;60;2024-08-01T19:03:51",
     "DFFlagVoiceChatInternalReorderPCFRemovalEnabled_Rollout": "True;60;2024-08-01T19:08:12",
     "FFlagAXAvatarWidgetCharactersTabEnum": "True",
     "FFlagAXWidgetsByContext3": "True",
     "FFlagLooksTileSeeAllFooterBottomPadding": "True",
     "DFFlagVoiceChatSubManagerUnlockThroughCloseDestructor_Rollout": "True;60;2024-08-01T20:06:39",
-    "FStringFlagRepoGitHashFastString": "28c9987b73889eb6ae128dbaa12703c4c594109b",
-    "DFStringFlagRepoGitHashDynamicString": "28c9987b73889eb6ae128dbaa12703c4c594109b",
-    "FStringFlipTimeStampFastString": "2024-08-01T20:12:11.380Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T20:12:11.380Z"
+    "DFFlagVoiceChatCullingRefDataChannel": "True",
+    "DFIntVoiceChatPeerConnectionSleepUntilEnabled": "1",
+    "FStringFlagRepoGitHashFastString": "1a2ce93d913cadd071f0a3fdd3a495296642f982",
+    "DFStringFlagRepoGitHashDynamicString": "1a2ce93d913cadd071f0a3fdd3a495296642f982",
+    "FStringFlipTimeStampFastString": "2024-08-01T20:38:12.166Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T20:38:12.166Z"
 }
