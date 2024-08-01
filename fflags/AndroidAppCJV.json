@@ -13739,6 +13739,12 @@
     "DFFlagVoiceChatHideTurnCredentialsInLog": "True",
     "FFlagFixTenFootUiMorePage": "True",
     "FFlagEnableNewWebRtcFlow": "True",
+    "FFlagDisableiOSAppsflyerSignupEvent_Rollout": "True;10;2024-08-01T16:10:05",
+    "FFlagDisableiOSAppsflyerLoginEvent_Rollout": "True;10;2024-08-01T16:10:13",
+    "FFlagDisableiOSAppsflyerPurchaseEvent_Rollout": "True;10;2024-08-01T16:11:00",
+    "FFlagLuaAppUseCollectionViewByDefault2_Rollout": "True;30;2024-08-01T16:11:44",
+    "DisableAndroidAppsflyerPurchaseEvent": "true",
+    "DisableAndroidAppsflyerLoginEvent": "true",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14344,8 +14350,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "1dc9dc2150b84c982defa1fbc0f329c01f17c629",
-    "DFStringFlagRepoGitHashDynamicString": "1dc9dc2150b84c982defa1fbc0f329c01f17c629",
-    "FStringFlipTimeStampFastString": "2024-08-01T01:16:41.945Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T01:16:41.945Z"
+    "FStringFlagRepoGitHashFastString": "c8ea1621336b196029a64eea1ea02472e725466c",
+    "DFStringFlagRepoGitHashDynamicString": "c8ea1621336b196029a64eea1ea02472e725466c",
+    "FStringFlipTimeStampFastString": "2024-08-01T16:26:55.262Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:26:55.262Z"
 }

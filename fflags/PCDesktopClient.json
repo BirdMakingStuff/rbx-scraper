@@ -13739,7 +13739,11 @@
     "DFFlagVoiceChatHideTurnCredentialsInLog": "True",
     "FFlagFixTenFootUiMorePage": "True",
     "FFlagEnableNewWebRtcFlow": "True",
+    "FFlagDisableiOSAppsflyerSignupEvent_Rollout": "True;10;2024-08-01T16:10:05",
+    "FFlagDisableiOSAppsflyerLoginEvent_Rollout": "True;10;2024-08-01T16:10:13",
+    "FFlagDisableiOSAppsflyerPurchaseEvent_Rollout": "True;10;2024-08-01T16:11:00",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "DisableAndroidAppsflyerPurchaseEvent": "true",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -14232,8 +14236,8 @@
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": "True",
     "FFlagUAppBlockPageUseTextFromGUAC": "True",
     "FFlagDisableLogWhenMonitorConditionLocked2": "True",
-    "FStringFlagRepoGitHashFastString": "1dc9dc2150b84c982defa1fbc0f329c01f17c629",
-    "DFStringFlagRepoGitHashDynamicString": "1dc9dc2150b84c982defa1fbc0f329c01f17c629",
-    "FStringFlipTimeStampFastString": "2024-08-01T01:16:41.945Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T01:16:41.945Z"
+    "FStringFlagRepoGitHashFastString": "ed6aa66cd4ee68136dac27d456281dd6d395d79b",
+    "DFStringFlagRepoGitHashDynamicString": "ed6aa66cd4ee68136dac27d456281dd6d395d79b",
+    "FStringFlipTimeStampFastString": "2024-08-01T16:24:05.408Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:24:05.408Z"
 }
