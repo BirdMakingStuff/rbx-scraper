@@ -13747,6 +13747,8 @@
     "DisableAndroidAppsflyerLoginEvent": "true",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
+    "DisableAndroidAppsflyerSignupEvent": "true",
+    "FFlagSkipSessionTrackingForVoiceDm_Rollout": "True;60;2024-08-01T16:42:24",
     "FFlagTextureManagerUsePerfControl2": "True",
     "FFlagEnableDMInitMeasurement": "True",
     "FFlagEnableLoadPatchMetric": "True",
@@ -13886,6 +13888,7 @@
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "DFFlagPreventFloatConversionError": "True",
     "FFlagLuaAppUseCollectionViewByDefault2": "True",
+    "FFlagLuaAppFixWebUrlSortLink_Rollout": "True;30;2024-08-01T16:28:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14238,8 +14241,8 @@
     "FFlagUAppBlockPageUseTextFromGUAC": "True",
     "FFlagDisableLogWhenMonitorConditionLocked2": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "ed6aa66cd4ee68136dac27d456281dd6d395d79b",
-    "DFStringFlagRepoGitHashDynamicString": "ed6aa66cd4ee68136dac27d456281dd6d395d79b",
-    "FStringFlipTimeStampFastString": "2024-08-01T16:24:05.408Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:24:05.408Z"
+    "FStringFlagRepoGitHashFastString": "05f6388d68c3099ad3d0ada4abae8716cbb0ddb8",
+    "DFStringFlagRepoGitHashDynamicString": "05f6388d68c3099ad3d0ada4abae8716cbb0ddb8",
+    "FStringFlipTimeStampFastString": "2024-08-01T16:42:55.827Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:42:55.827Z"
 }

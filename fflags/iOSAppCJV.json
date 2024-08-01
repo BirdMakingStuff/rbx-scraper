@@ -13745,7 +13745,10 @@
     "FFlagLuaAppUseCollectionViewByDefault2_Rollout": "True;30;2024-08-01T16:11:44",
     "DisableAndroidAppsflyerPurchaseEvent": "true",
     "DisableAndroidAppsflyerLoginEvent": "true",
+    "DFFlagSimAdaptiveCheckBoundingBoxOverlap_Rollout": "True;60;2024-08-01T16:26:34",
     "AllowVideoPreRoll": "True",
+    "DisableAndroidAppsflyerSignupEvent": "true",
+    "FFlagSkipSessionTrackingForVoiceDm_Rollout": "True;60;2024-08-01T16:42:24",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -14352,6 +14355,7 @@
     "FFlagLuaAppGameSortLinkPathFix": "True",
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "FFlagLuaAppPlaceholderGrid": "True",
+    "FFlagLuaAppFixWebUrlSortLink_Rollout": "True;30;2024-08-01T16:28:31",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -14390,8 +14394,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "c8ea1621336b196029a64eea1ea02472e725466c",
-    "DFStringFlagRepoGitHashDynamicString": "c8ea1621336b196029a64eea1ea02472e725466c",
-    "FStringFlipTimeStampFastString": "2024-08-01T16:26:55.262Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:26:55.262Z"
+    "FStringFlagRepoGitHashFastString": "05f6388d68c3099ad3d0ada4abae8716cbb0ddb8",
+    "DFStringFlagRepoGitHashDynamicString": "05f6388d68c3099ad3d0ada4abae8716cbb0ddb8",
+    "FStringFlipTimeStampFastString": "2024-08-01T16:42:55.827Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:42:55.827Z"
 }

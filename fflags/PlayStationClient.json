@@ -13744,7 +13744,11 @@
     "FFlagDisableiOSAppsflyerPurchaseEvent_Rollout": "True;10;2024-08-01T16:11:00",
     "FFlagLuaAppUseCollectionViewByDefault2_Rollout": "True;30;2024-08-01T16:11:44",
     "DisableAndroidAppsflyerPurchaseEvent": "true",
+    "DisableAndroidAppsflyerLoginEvent": "true",
+    "DFFlagSimAdaptiveCheckBoundingBoxOverlap_Rollout": "True;60;2024-08-01T16:26:34",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+    "DisableAndroidAppsflyerSignupEvent": "true",
+    "FFlagSkipSessionTrackingForVoiceDm_Rollout": "True;60;2024-08-01T16:42:24",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -13925,8 +13929,8 @@
     "FFlagAXFixDisabledNonLimitedCollectibles": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
-    "FStringFlagRepoGitHashFastString": "ed6aa66cd4ee68136dac27d456281dd6d395d79b",
-    "DFStringFlagRepoGitHashDynamicString": "ed6aa66cd4ee68136dac27d456281dd6d395d79b",
-    "FStringFlipTimeStampFastString": "2024-08-01T16:24:05.408Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:24:05.408Z"
+    "FStringFlagRepoGitHashFastString": "05f6388d68c3099ad3d0ada4abae8716cbb0ddb8",
+    "DFStringFlagRepoGitHashDynamicString": "05f6388d68c3099ad3d0ada4abae8716cbb0ddb8",
+    "FStringFlipTimeStampFastString": "2024-08-01T16:42:55.827Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-01T16:42:55.827Z"
 }
