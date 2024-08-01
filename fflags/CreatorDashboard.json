@@ -13,5 +13,6 @@
     "enableOrganizationPayouts": "true",
     "enableDSC": "true",
     "enablePlaceThumbnailAssetsUploadApi": "true",
-    "enableDynamicPriceFloorBundle": "true"
+    "enableDynamicPriceFloorBundle": "true",
+    "enableInactiveBadgeCreation": "true"
 }
