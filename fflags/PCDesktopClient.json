@@ -13772,6 +13772,7 @@
     "DFFlagEnableRccCloseReasonAdoptionTracking": "True",
     "FFlagReduceActiveSubscriptionFetch": "True",
     "DFFlagEnableCommerceWebviewDomainTitle": "True",
+    "FFlagSTUDIOPLAT_34678_CrashpadRefreshDebugInfo2_Rollout": "True;30;2024-08-02T16:10:53",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14267,8 +14268,9 @@
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription": "True",
     "DFFlagVoiceChatSubManagerReadWriteLockApiInteractionsEnabled": "True",
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
-    "FStringFlagRepoGitHashFastString": "3d43b0da5f885f0b69d5ea13e6f8e462134d9bd5",
-    "DFStringFlagRepoGitHashDynamicString": "3d43b0da5f885f0b69d5ea13e6f8e462134d9bd5",
-    "FStringFlipTimeStampFastString": "2024-08-02T00:41:20.416Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-02T00:41:20.416Z"
+    "DFIntVoiceChatPeerConnectionInterfaceHolderDelayMs_Rollout": "50;60;2024-08-02T16:16:55",
+    "FStringFlagRepoGitHashFastString": "54bad079642880e4d9dc84744d7fd6f6bb5f9c7a",
+    "DFStringFlagRepoGitHashDynamicString": "54bad079642880e4d9dc84744d7fd6f6bb5f9c7a",
+    "FStringFlipTimeStampFastString": "2024-08-02T16:17:22.594Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-02T16:17:22.594Z"
 }
