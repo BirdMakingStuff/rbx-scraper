@@ -13774,11 +13774,11 @@
     "FFlagSTUDIOPLAT_34678_CrashpadRefreshDebugInfo2": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP20": "True",
     "FFlagDragDetectorRestartDragAnchorFix": "True",
-    "DFFlagCLI103221_Rollout": "True;30;2024-08-02T18:24:04",
     "FFlagSTUDIOPLAT_34678_ReportGPUonANRTelemetry2": "True",
     "FFlagQuickExitIfFailedToFindDocuments": "True",
     "FFlagDoNotClearOnDMChange2": "True",
     "DFFlagRemoveDeadIsUnreliableCheck": "True",
+    "DFFlagCLI103221": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14380,8 +14380,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "f62d935412b686f57c97ea9e8d88c766f767d2b8",
-    "DFStringFlagRepoGitHashDynamicString": "f62d935412b686f57c97ea9e8d88c766f767d2b8",
-    "FStringFlipTimeStampFastString": "2024-08-02T19:11:29.083Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-02T19:11:29.083Z"
+    "FStringFlagRepoGitHashFastString": "efaa93c1b4c012559da276c16fa9ee305a307bd3",
+    "DFStringFlagRepoGitHashDynamicString": "efaa93c1b4c012559da276c16fa9ee305a307bd3",
+    "FStringFlipTimeStampFastString": "2024-08-02T19:27:18.854Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-02T19:27:18.854Z"
 }

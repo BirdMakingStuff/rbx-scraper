@@ -13779,6 +13779,7 @@
     "FFlagQuickExitIfFailedToFindDocuments": "True",
     "FFlagDoNotClearOnDMChange2": "True",
     "DFFlagRemoveDeadIsUnreliableCheck": "True",
+    "DFFlagCLI103221": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",

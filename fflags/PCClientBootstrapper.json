@@ -172,8 +172,8 @@
     "FFlagEnableRandomRobloxChannelSelection": "True",
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
-    "FStringFlagRepoGitHashFastString": "f62d935412b686f57c97ea9e8d88c766f767d2b8",
-    "DFStringFlagRepoGitHashDynamicString": "f62d935412b686f57c97ea9e8d88c766f767d2b8",
-    "FStringFlipTimeStampFastString": "2024-08-02T19:11:29.083Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-02T19:11:29.083Z"
+    "FStringFlagRepoGitHashFastString": "efaa93c1b4c012559da276c16fa9ee305a307bd3",
+    "DFStringFlagRepoGitHashDynamicString": "efaa93c1b4c012559da276c16fa9ee305a307bd3",
+    "FStringFlipTimeStampFastString": "2024-08-02T19:27:18.854Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-02T19:27:18.854Z"
 }
