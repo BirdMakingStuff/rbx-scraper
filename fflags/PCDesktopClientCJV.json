@@ -13717,7 +13717,6 @@
     "FFlagDenseCacheFixOptionalRead": "True",
     "FFlagUnbindRenderSteps": "True",
     "DFFlagSpawnWrongStatusOnResumptionFix": "True",
-    "CrashWhenFlagsNotLoaded": "True",
     "FFlagVngLogoutGlobalAppSessionsOnConversion": "True",
     "FStringAssetAccessEligibleAssetTypesCSV": "Audio,Video",
     "FIntSimSolverMoverConstraintRootBehaviorDefault": "1",
@@ -14275,12 +14274,11 @@
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription": "True",
     "DFFlagVoiceChatSubManagerReadWriteLockApiInteractionsEnabled": "True",
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
-    "DFIntVoiceChatPeerConnectionInterfaceHolderDelayMs": "50",
-    "FFlagFixBundlePromptThumbnail_Rollout": "True;60;2024-08-02T18:31:01",
-    "DFIntVoiceChatPeerConnectionInterfaceHolderDelayMs_Rollout": "100;60;2024-08-02T18:48:02",
+    "DFIntVoiceChatPeerConnectionInterfaceHolderDelayMs": "100",
+    "FFlagFixBundlePromptThumbnail": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "efaa93c1b4c012559da276c16fa9ee305a307bd3",
-    "DFStringFlagRepoGitHashDynamicString": "efaa93c1b4c012559da276c16fa9ee305a307bd3",
-    "FStringFlipTimeStampFastString": "2024-08-02T19:27:18.854Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-02T19:27:18.854Z"
+    "FStringFlagRepoGitHashFastString": "8d5a9c2214eb9e1b9c790c29e1e8f4ec2cd9b847",
+    "DFStringFlagRepoGitHashDynamicString": "8d5a9c2214eb9e1b9c790c29e1e8f4ec2cd9b847",
+    "FStringFlipTimeStampFastString": "2024-08-02T20:22:03.917Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-02T20:22:03.917Z"
 }
