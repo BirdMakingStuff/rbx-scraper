@@ -14704,8 +14704,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "8d5a9c2214eb9e1b9c790c29e1e8f4ec2cd9b847",
-    "DFStringFlagRepoGitHashDynamicString": "8d5a9c2214eb9e1b9c790c29e1e8f4ec2cd9b847",
-    "FStringFlipTimeStampFastString": "2024-08-02T20:22:03.917Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-02T20:22:03.917Z"
+    "FStringFlagRepoGitHashFastString": "15765e671bf3a217c615cba935d9695ea11d6cf3",
+    "DFStringFlagRepoGitHashDynamicString": "15765e671bf3a217c615cba935d9695ea11d6cf3",
+    "FStringFlipTimeStampFastString": "2024-08-02T20:29:58.556Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-02T20:29:58.556Z"
 }
