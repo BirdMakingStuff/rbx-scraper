@@ -13777,6 +13777,11 @@
     "DFFlagRemoveDeadIsUnreliableCheck": "True",
     "DFFlagCLI103221": "True",
     "DFFlagNANOutInertiaData_PlaceFilter": "True;15696848933",
+    "DFFlagSendSameTV2Data2EventStream_Rollout": "True;60;2024-08-05T16:06:35",
+    "DFFlagStripOutPlaceIDFromVictoriaMetricsReports_Rollout": "True;60;2024-08-05T16:07:05",
+    "DFIntDynamicRCCMemoryLimitsPerPlayerMB_Rollout": "25;60;2024-08-05T16:08:49",
+    "DFIntDynamicRCCMemoryLimitsBaseMB_Rollout": "6400;60;2024-08-05T16:09:28",
+    "DFFlagDynamicRCCMemoryLimitsTelem4_Rollout": "True;60;2024-08-05T16:10:25",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13956,8 +13961,9 @@
     "DFFlagMicroProfilerMemoryScope": "True",
     "DFFlagMicroprofilerOutput2": "True",
     "FFlagFixBundlePromptThumbnail": "True",
-    "FStringFlagRepoGitHashFastString": "60baa710bfd7311bdba47fb7505967f2bd809f93",
-    "DFStringFlagRepoGitHashDynamicString": "60baa710bfd7311bdba47fb7505967f2bd809f93",
-    "FStringFlipTimeStampFastString": "2024-08-03T05:07:34.614Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-03T05:07:34.614Z"
+    "FFlagVideoLibOggUseRobloxMemory_Rollout": "True;29;2024-08-05T16:14:32",
+    "FStringFlagRepoGitHashFastString": "491e2a62722ad4457837f79a73bd14de4a8196ce",
+    "DFStringFlagRepoGitHashDynamicString": "491e2a62722ad4457837f79a73bd14de4a8196ce",
+    "FStringFlipTimeStampFastString": "2024-08-05T16:15:09.812Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-05T16:15:09.812Z"
 }
