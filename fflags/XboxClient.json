@@ -13800,6 +13800,8 @@
     "FFlagEnableChatHiddenMessages_Rollout": "True;60;2024-08-05T20:09:43",
     "FFlagImproveUpdateConversation_Rollout": "True;60;2024-08-05T20:09:43",
     "FFlagXboxBackgroundOnConstrained_Rollout": "True;30;2024-08-05T20:12:51",
+    "FFlagUnifiedMeshMassBetaFeature_Rollout": "True;60;2024-08-05T20:38:20",
+    "FStringUnifiedMeshMassBetaFeatureUrl_Rollout": "https://devforum.roblox.com/t/improved-mass-properties-decoupling-collision-geometry-and-mass-properties-beta/3104033;60;2024-08-05T20:39:06",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14154,8 +14156,8 @@
     "FFlagLuaAppGameSortLinkPathFix": "True",
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "FFlagEnableAppNavABTest": "True",
-    "FStringFlagRepoGitHashFastString": "3dd66724c98b500cb99fcb36651eacfbc4bd3d10",
-    "DFStringFlagRepoGitHashDynamicString": "3dd66724c98b500cb99fcb36651eacfbc4bd3d10",
-    "FStringFlipTimeStampFastString": "2024-08-05T20:22:01.067Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-05T20:22:01.067Z"
+    "FStringFlagRepoGitHashFastString": "966214ef4602724fcb64b4130c97e35b4db1e52b",
+    "DFStringFlagRepoGitHashDynamicString": "966214ef4602724fcb64b4130c97e35b4db1e52b",
+    "FStringFlipTimeStampFastString": "2024-08-05T20:39:42.018Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-05T20:39:42.018Z"
 }
