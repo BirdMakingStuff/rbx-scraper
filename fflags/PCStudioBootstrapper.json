@@ -139,7 +139,6 @@
     "FFlagDefaultUDimSuperBriefView": "True",
     "FFlagRegisterTerminationCrashHandler": "True",
     "FFlagAXItemCardTallEnabled3": "True",
-    "FFlagFullProfileViewIXPSetupEnabled_v2": "True",
     "DFFlagFixExtraParserMapEntries": "True",
     "DFFlagOptimizeFlagDatabankSetValue2": "True",
     "FFlagRefactorRescaleVideo": "True",
@@ -169,8 +168,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FStringFlagRepoGitHashFastString": "966214ef4602724fcb64b4130c97e35b4db1e52b",
-    "DFStringFlagRepoGitHashDynamicString": "966214ef4602724fcb64b4130c97e35b4db1e52b",
-    "FStringFlipTimeStampFastString": "2024-08-05T20:39:42.018Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-05T20:39:42.018Z"
+    "FStringFlagRepoGitHashFastString": "97f5ed6fed254acc7cd83d07f521e736cbf8da78",
+    "DFStringFlagRepoGitHashDynamicString": "97f5ed6fed254acc7cd83d07f521e736cbf8da78",
+    "FStringFlipTimeStampFastString": "2024-08-05T21:21:50.358Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-05T21:21:50.358Z"
 }
