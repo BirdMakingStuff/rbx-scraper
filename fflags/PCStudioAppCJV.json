@@ -13785,6 +13785,7 @@
     "DFIntAvatarLoadFlowTelemetryEventsThrottle_Rollout": "2000;60;2024-08-05T16:45:14",
     "DFFlagFixVictoriaMetricsNegativeNumbersHistogram_Rollout": "True;60;2024-08-05T16:49:01",
     "DFFlagSimUseStoredUnscaledInertia_Rollout": "True;60;2024-08-05T17:17:51",
+    "FFlagEnableTransparentNativeChallengeWrapper_Rollout": "True;60;2024-08-05T17:33:16",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14618,6 +14619,8 @@
     "DFFlagEnableBindToCloseReasonAPI_PlaceFilter": "True;13887077177;14195623932;14195710068",
     "FFlagStudioCheckForExistingDebuggerConnections_Rollout": "True;60;2024-08-05T16:12:13",
     "FFlagPanelObserverDontCrashOnShutdown_Rollout": "True;60;2024-08-05T16:28:05",
+    "FFlagAXDefaultMobileUIToFullShopIXPEnabled_Rollout": "True;60;2024-08-05T17:28:04",
+    "FFlagAXDisableWidgetPlatformLayerExposure_Rollout": "True;60;2024-08-05T17:28:04",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14723,8 +14726,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "3c7b8e8594dd427fd96b0fa300923e1852f62cfe",
-    "DFStringFlagRepoGitHashDynamicString": "3c7b8e8594dd427fd96b0fa300923e1852f62cfe",
-    "FStringFlipTimeStampFastString": "2024-08-05T17:18:17.111Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-05T17:18:17.111Z"
+    "FStringFlagRepoGitHashFastString": "51b9b0d8e9902ce43bd4272c34a8e1cce5830b26",
+    "DFStringFlagRepoGitHashDynamicString": "51b9b0d8e9902ce43bd4272c34a8e1cce5830b26",
+    "FStringFlipTimeStampFastString": "2024-08-05T17:34:13.171Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-05T17:34:13.171Z"
 }
