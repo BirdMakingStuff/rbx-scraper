@@ -9,7 +9,7 @@
     "enableDeveloperSubscriptionOffSale": "true",
     "enableUENSocialMentions": "true",
     "enableBundlePaginationOffset": "false",
-    "enableSafetyControls": "false",
+    "enableSafetyControls": "true",
     "enableOrganizationPayouts": "true",
     "enableDSC": "true",
     "enablePlaceThumbnailAssetsUploadApi": "true",
