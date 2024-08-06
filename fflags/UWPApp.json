@@ -13843,6 +13843,7 @@
     "FFlagSTUDIOPLAT_34655_FixingNumberOfEntriesInCrashpadDictionary": "True",
     "FFlagSwitchPremiumUIToSubscriptionUI": "True",
     "FFlagEnableSubscriptionPurchaseToast": "True",
+    "FFlagLuaAppMockContentProviderThumbs_Rollout": "True;30;2024-08-06T16:16:01",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14082,8 +14083,8 @@
     "FFlagLuaAppPlaceholderGrid": "True",
     "FFlagLuaAppGameSortLinkPathFix": "True",
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
-    "FStringFlagRepoGitHashFastString": "5a205b2ca5c3569f81a4d52bf6f86c26cfa07044",
-    "DFStringFlagRepoGitHashDynamicString": "5a205b2ca5c3569f81a4d52bf6f86c26cfa07044",
-    "FStringFlipTimeStampFastString": "2024-08-06T00:56:46.457Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-06T00:56:46.457Z"
+    "FStringFlagRepoGitHashFastString": "2f23c7bcdf0627e6c68b5b9b5ba108e95e9addfc",
+    "DFStringFlagRepoGitHashDynamicString": "2f23c7bcdf0627e6c68b5b9b5ba108e95e9addfc",
+    "FStringFlipTimeStampFastString": "2024-08-06T16:16:38.063Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-06T16:16:38.063Z"
 }
