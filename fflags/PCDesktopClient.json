@@ -13815,7 +13815,6 @@
     "FFlagRemoveVoiceJoiceDisconnectFix": "False",
     "FFlagEnableInExpVoiceUpsell8": "True",
     "FFlagEnableAppChatAnalyticsReportUserEvent": "True",
-    "FFlagEnableChatHiddenMessages": "True",
     "FFlagImproveUpdateConversation": "True",
     "FFlagShowLikelySpeakingBubbles2": "True",
     "FFlagUnifiedMeshMassBetaFeature": "True",
@@ -13866,7 +13865,6 @@
     "FFlagStudioVREnabled": "True",
     "DFFlagReportSwapUsage2": "True",
     "FFlagAvatarChatFixReadAnimationPayload": "True",
-    "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime_Rollout": "1000;60;2024-08-06T20:54:41",
     "FFlagSettingsHubCurrentPageSignal_Rollout": "True;60;2024-08-06T21:05:45",
     "FFlagAXFixDetailsButtonLabel_Rollout": "True;60;2024-08-06T21:08:22",
     "FFlagAXAdaptiveScrollingAvatarEditor_Rollout": "True;60;2024-08-06T21:15:48",
@@ -13878,6 +13876,8 @@
     "DFFlagSkipRegionExtentsIterationServer_Rollout": "True;60;2024-08-06T22:00:33",
     "FFlagApplyDescriptionFinishedEvent_Rollout": "True;60;2024-08-06T22:11:08",
     "DFFlagMockCodecFixVideoMemory": "True",
+    "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime": "1000",
+    "DFIntSessionReportAppSuccessPointsThrottleHundredthsPercent_Rollout": "100;30;2024-08-06T22:29:05",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14367,8 +14367,8 @@
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
     "DFIntVoiceChatPeerConnectionInterfaceHolderDelayMs": "100",
     "FFlagFixBundlePromptThumbnail": "True",
-    "FStringFlagRepoGitHashFastString": "a6971c1f4cea9405240679bbbe442d531fb37217",
-    "DFStringFlagRepoGitHashDynamicString": "a6971c1f4cea9405240679bbbe442d531fb37217",
-    "FStringFlipTimeStampFastString": "2024-08-06T22:19:52.084Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-06T22:19:52.084Z"
+    "FStringFlagRepoGitHashFastString": "5c9bc083f3310a940f94b2f391ed5f5cefcae9fd",
+    "DFStringFlagRepoGitHashDynamicString": "5c9bc083f3310a940f94b2f391ed5f5cefcae9fd",
+    "FStringFlipTimeStampFastString": "2024-08-06T22:30:38.671Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-06T22:30:38.671Z"
 }
