@@ -13859,11 +13859,14 @@
     "FFlagLuauCompileUserdataInfo_Rollout": "True;60;2024-08-06T18:06:05",
     "FFlagLuauCompileFastcall3": "True",
     "FFlagEnableBacktraceRobloxChannel_Rollout": "True;30;2024-08-06T18:15:42",
-    "DFFlagReportSwapUsage2_Rollout": "True;60;2024-08-06T18:16:03",
     "FFlagSTUDIOPLAT_35104_InitializeHardwareSleepListenersOnce": "True",
     "FFlagDevVoiceChatHandleSubscriptionFeedStartedEvent_PlaceFilter": "True;11116930529",
     "FFlagSFDontSinkEndEvent_Rollout": "True;60;2024-08-06T18:26:22",
     "FFlagFixActionBindingSecurity_Rollout": "True;60;2024-08-06T18:28:24",
+    "FFlagUserCameraInputDt_Rollout": "True;60;2024-08-06T18:29:27",
+    "FFlagStudioVREnabled_Rollout": "True;60;2024-08-06T18:31:29",
+    "DFFlagReportSwapUsage2_Rollout": "True;60;2024-08-06T18:38:19",
+    "FFlagAvatarChatFixReadAnimationPayload_Rollout": "True;60;2024-08-06T18:39:36",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -14050,8 +14053,8 @@
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "FFlagEnableAppNavABTest": "True",
     "FFlagGamepadNavigationDialogABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "4b632c3e8ca65f2a1f43ccbfeb8df9a5058fc2d2",
-    "DFStringFlagRepoGitHashDynamicString": "4b632c3e8ca65f2a1f43ccbfeb8df9a5058fc2d2",
-    "FStringFlipTimeStampFastString": "2024-08-06T18:29:17.814Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-06T18:29:17.814Z"
+    "FStringFlagRepoGitHashFastString": "88e1339d30466ae5c2a3d7f62723a5d9f13c2de0",
+    "DFStringFlagRepoGitHashDynamicString": "88e1339d30466ae5c2a3d7f62723a5d9f13c2de0",
+    "FStringFlipTimeStampFastString": "2024-08-06T18:40:06.062Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-06T18:40:06.062Z"
 }
