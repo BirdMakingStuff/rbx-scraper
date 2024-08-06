@@ -13848,6 +13848,9 @@
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "AxisAdornmentGrabSize": "12",
     "FFlagSTUDIOPLAT_35104_InitializeHardwareSleepListenersOnce_Rollout": "True;60;2024-08-06T16:41:11",
+    "FFlagLuaAppGameCarouselUseFormula2_Rollout": "True;30;2024-08-06T16:51:43",
+    "FFlagLuaAppAddUniverseIdToHoverPlayEvent_Rollout": "True;30;2024-08-06T16:53:14",
+    "FFlagLuaAppSupportGridTilesOnDiscover_Rollout": "True;30;2024-08-06T16:55:16",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -14770,8 +14773,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "3b5499bcf4dd5a1d8d0db8cc2123e71e00a495b7",
-    "DFStringFlagRepoGitHashDynamicString": "3b5499bcf4dd5a1d8d0db8cc2123e71e00a495b7",
-    "FStringFlipTimeStampFastString": "2024-08-06T16:41:53.261Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-06T16:41:53.261Z"
+    "FStringFlagRepoGitHashFastString": "a023ba0a57f0ee16a7c0d95c22dd881600e99c88",
+    "DFStringFlagRepoGitHashDynamicString": "a023ba0a57f0ee16a7c0d95c22dd881600e99c88",
+    "FStringFlipTimeStampFastString": "2024-08-06T17:17:26.447Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-06T17:17:26.447Z"
 }
