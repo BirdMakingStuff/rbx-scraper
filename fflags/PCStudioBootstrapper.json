@@ -143,7 +143,6 @@
     "DFFlagOptimizeFlagDatabankSetValue2": "True",
     "FFlagRefactorRescaleVideo": "True",
     "FFlagAnimationCurveDenseCacheEnabled2": "False",
-    "FFlagAXFixDetailsButtonLabel": "True",
     "FFlagDisplaySocialLinksInProfileIXPSetupEnabled_v3": "True",
     "FFlagReplaceChannelNameForDownload": "True",
     "FFlagRemoveRBXSystem": "True",
@@ -168,8 +167,8 @@
     "FFlagWindowsMonitorAnalytics": "True",
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FStringFlagRepoGitHashFastString": "4b185e1cb01b40eab4e7d35f49d684485745475b",
-    "DFStringFlagRepoGitHashDynamicString": "4b185e1cb01b40eab4e7d35f49d684485745475b",
-    "FStringFlipTimeStampFastString": "2024-08-06T20:37:39.958Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-06T20:37:39.958Z"
+    "FStringFlagRepoGitHashFastString": "4af1b995b0ae672f34ae6d1348127273e6df4def",
+    "DFStringFlagRepoGitHashDynamicString": "4af1b995b0ae672f34ae6d1348127273e6df4def",
+    "FStringFlipTimeStampFastString": "2024-08-06T21:18:12.787Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-06T21:18:12.787Z"
 }
