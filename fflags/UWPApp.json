@@ -13863,12 +13863,13 @@
     "FFlagLuauCompileUserdataInfo": "True",
     "FFlagFixActionBindingSecurity": "True",
     "FFlagSFDontSinkEndEvent": "True",
-    "FFlagUserCameraInputDt": "True",
     "FFlagStudioVREnabled": "True",
     "FFlagRealtimeFixFailedJsonParse_Rollout": "True;60;2024-08-06T20:07:56",
     "DFFlagReportSwapUsage2": "True",
     "FFlagAvatarChatFixReadAnimationPayload": "True",
     "FFlagFixFlexLayoutNodeTests_Rollout": "True;60;2024-08-06T20:16:11",
+    "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime_Rollout": "1000;60;2024-08-06T20:26:51",
+    "DFIntAvatarLoadFlowTelemetryEventsThrottle_Rollout": "7500;60;2024-08-06T20:32:26",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14108,8 +14109,8 @@
     "FFlagLuaAppPlaceholderGrid": "True",
     "FFlagLuaAppGameSortLinkPathFix": "True",
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
-    "FStringFlagRepoGitHashFastString": "e9beeff04b51a846aa3a2342e89087b5197a80d1",
-    "DFStringFlagRepoGitHashDynamicString": "e9beeff04b51a846aa3a2342e89087b5197a80d1",
-    "FStringFlipTimeStampFastString": "2024-08-06T20:16:45.889Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-06T20:16:45.889Z"
+    "FStringFlagRepoGitHashFastString": "4b185e1cb01b40eab4e7d35f49d684485745475b",
+    "DFStringFlagRepoGitHashDynamicString": "4b185e1cb01b40eab4e7d35f49d684485745475b",
+    "FStringFlipTimeStampFastString": "2024-08-06T20:37:39.958Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-06T20:37:39.958Z"
 }
