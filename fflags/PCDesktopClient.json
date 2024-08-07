@@ -13891,6 +13891,7 @@
     "AllowVideoPreRoll": "True",
     "DFFlagCapMinStatsTo50Percent": "True",
     "FFlagCGECanRenameStudioSelectable": "True",
+    "FFlagSendRenderFidelityTelemetry_Rollout": "True;60;2024-08-07T20:28:26",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14022,6 +14023,7 @@
     "FFlagAXDisableWidgetPlatformLayerExposure": "True",
     "FFlagUnifySessionTrackingReporting2": "True",
     "DFFlagCalculateCPV15StatsWhileVideoPlaying_Rollout": "True;60;2024-08-07T20:20:41",
+    "DFFlagFixImageCumulativePercentInView_Rollout": "True;60;2024-08-07T20:22:01",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -14379,8 +14381,8 @@
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
     "DFIntVoiceChatPeerConnectionInterfaceHolderDelayMs": "100",
     "FFlagFixBundlePromptThumbnail": "True",
-    "FStringFlagRepoGitHashFastString": "8173b1d83d2cfcdcbcc447f73c7f694610b22127",
-    "DFStringFlagRepoGitHashDynamicString": "8173b1d83d2cfcdcbcc447f73c7f694610b22127",
-    "FStringFlipTimeStampFastString": "2024-08-07T20:21:51.209Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-07T20:21:51.209Z"
+    "FStringFlagRepoGitHashFastString": "71e9293898140b49f41338f5a9603ec52481f62c",
+    "DFStringFlagRepoGitHashDynamicString": "71e9293898140b49f41338f5a9603ec52481f62c",
+    "FStringFlipTimeStampFastString": "2024-08-07T20:39:41.853Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-07T20:39:41.853Z"
 }
