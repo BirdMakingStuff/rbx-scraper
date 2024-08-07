@@ -13688,7 +13688,6 @@
     "DFFlagReportEarlyContactManagerConstruction": "False",
     "DFFlagMicroprofilerEventLoopFix": "True",
     "FFlagPerformanceControlPlannerBreakOnlyOnFullStep2": "True",
-    "FFlagHumanoidDescriptionUseInstances5": "True",
     "FFlagHumanoidDescriptionUseInstances5_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry": "True",
     "FFlagRemoveKickWhitespaceSub": "True",
@@ -13879,7 +13878,10 @@
     "FFlagApplyDescriptionFinishedEvent": "True",
     "FIntAchievementGrantedThrottleHundrethsPercent_Rollout": "500;40;2024-08-07T16:13:02",
     "FFlagPlayerHydrationServiceResiliencyEnabled_Rollout": "True;60;2024-08-07T16:33:50",
+    "FFlagEditProfileFetchUserInfoOnLoad_Rollout": "True;60;2024-08-07T16:51:35",
+    "FStringProfilePlatformLayer_Rollout": "Social.ProfilePeekView;60;2024-08-07T16:53:10",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+    "FFlagEditProfileAddPurchaseRobux_Rollout": "True;60;2024-08-07T17:10:04",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -14063,8 +14065,9 @@
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "FFlagEnableAppNavABTest": "True",
     "FFlagGamepadNavigationDialogABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "a27d19d80b167181228a70f97c0c0f9c96be5cee",
-    "DFStringFlagRepoGitHashDynamicString": "a27d19d80b167181228a70f97c0c0f9c96be5cee",
-    "FStringFlipTimeStampFastString": "2024-08-07T16:34:23.524Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-07T16:34:23.524Z"
+    "FFlagHumanoidDescriptionUseInstances5": "True",
+    "FStringFlagRepoGitHashFastString": "2cdf9e63b9442b0231b28036362a9ea165baf80e",
+    "DFStringFlagRepoGitHashDynamicString": "2cdf9e63b9442b0231b28036362a9ea165baf80e",
+    "FStringFlipTimeStampFastString": "2024-08-07T17:15:06.562Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-07T17:15:06.562Z"
 }
