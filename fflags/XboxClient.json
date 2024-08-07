@@ -13876,7 +13876,6 @@
     "DFIntSessionReportAppSuccessPointsThrottleHundredthsPercent": "100",
     "DFFlagSkipRegionExtentsIterationServer": "True",
     "FFlagApplyDescriptionFinishedEvent": "True",
-    "FFlagEditProfileAddPurchaseRobux_Rollout": "True;60;2024-08-07T17:10:04",
     "FIntAchievementGrantedThrottleHundrethsPercent": "500",
     "FFlagSetAliasAddLoadingShimmer_Rollout": "True;60;2024-08-07T17:44:24",
     "DFFlagPreventFloatConversionError_Rollout": "True;60;2024-08-07T17:51:01",
@@ -13889,6 +13888,9 @@
     "FFlagSimEnableCSG46_Rollout": "True;60;2024-08-07T18:30:01",
     "DFFlagSimFastSpanningTreeTeardown_Rollout": "True;60;2024-08-07T18:35:31",
     "FFlagHumanoidDescriptionUseInstances5": "True",
+    "FFlagEditProfileAddPurchaseRobux": "True",
+    "FFlagCGECanRenameStudioSelectable_Rollout": "True;60;2024-08-07T18:43:29",
+    "DFFlagCapMinStatsTo50Percent_Rollout": "True;60;2024-08-07T18:44:24",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14240,8 +14242,8 @@
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "FFlagEnableAppNavABTest": "True",
     "FFlagGamepadNavigationDialogABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "2f92d9d628f8ff9ce501b07b3c68da3f6f3786a7",
-    "DFStringFlagRepoGitHashDynamicString": "2f92d9d628f8ff9ce501b07b3c68da3f6f3786a7",
-    "FStringFlipTimeStampFastString": "2024-08-07T18:42:23.430Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-07T18:42:23.430Z"
+    "FStringFlagRepoGitHashFastString": "fccef7b67549c4a54f65785429287f4758f3c85d",
+    "DFStringFlagRepoGitHashDynamicString": "fccef7b67549c4a54f65785429287f4758f3c85d",
+    "FStringFlipTimeStampFastString": "2024-08-07T19:01:48.484Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-07T19:01:48.484Z"
 }
