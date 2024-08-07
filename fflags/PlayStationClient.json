@@ -13877,7 +13877,6 @@
     "DFFlagSkipRegionExtentsIterationServer": "True",
     "FFlagApplyDescriptionFinishedEvent": "True",
     "FIntAchievementGrantedThrottleHundrethsPercent": "500",
-    "DFFlagPreventFloatConversionError_Rollout": "True;60;2024-08-07T17:51:01",
     "FFlagPlayerHydrationServiceResiliencyEnabled": "True",
     "FFlagEditProfileAddOnEditField_Rollout": "True;60;2024-08-07T18:12:23",
     "FFlagEnableNoFriendsViewButtonEnabledProp_Rollout": "True;60;2024-08-07T18:16:55",
@@ -13891,6 +13890,8 @@
     "FFlagCGECanRenameStudioSelectable_Rollout": "True;60;2024-08-07T18:43:29",
     "DFFlagCapMinStatsTo50Percent_Rollout": "True;60;2024-08-07T18:44:24",
     "FFlagSetAliasAddLoadingShimmer": "True",
+    "FIntPlayerHydrationServiceApiTimeoutMilliseconds": "15000",
+    "DFFlagPreventFloatConversionError": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -14075,8 +14076,8 @@
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "FFlagEnableAppNavABTest": "True",
     "FFlagGamepadNavigationDialogABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "a74fd43c9ce01cebf997b47c7f0bdd95571c4669",
-    "DFStringFlagRepoGitHashDynamicString": "a74fd43c9ce01cebf997b47c7f0bdd95571c4669",
-    "FStringFlipTimeStampFastString": "2024-08-07T19:17:42.347Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-07T19:17:42.347Z"
+    "FStringFlagRepoGitHashFastString": "4a2f652977394ded54637a713c06aae4e5d558f2",
+    "DFStringFlagRepoGitHashDynamicString": "4a2f652977394ded54637a713c06aae4e5d558f2",
+    "FStringFlipTimeStampFastString": "2024-08-07T19:26:34.016Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-07T19:26:34.016Z"
 }
