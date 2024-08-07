@@ -13877,6 +13877,7 @@
     "DFIntSessionReportAppSuccessPointsThrottleHundredthsPercent": "100",
     "DFFlagSkipRegionExtentsIterationServer": "True",
     "FFlagApplyDescriptionFinishedEvent": "True",
+    "FIntAchievementGrantedThrottleHundrethsPercent_Rollout": "500;40;2024-08-07T16:13:02",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14482,8 +14483,8 @@
     "DFFlagEnableThirdPartyAdFullScreenCollapseEventReporting3": "True",
     "DFFlagEnableThirdPartyAdPauseResumeEventReporting2": "True",
     "FFlagUpdateDividerStartBounds": "True",
-    "FStringFlagRepoGitHashFastString": "1d7008d9322fefae7f9c3d34b8326ef80aea7fe7",
-    "DFStringFlagRepoGitHashDynamicString": "1d7008d9322fefae7f9c3d34b8326ef80aea7fe7",
-    "FStringFlipTimeStampFastString": "2024-08-07T00:52:07.754Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-07T00:52:07.754Z"
+    "FStringFlagRepoGitHashFastString": "ab5d288d8412ecab7fc6d8ec29de73909018ed3e",
+    "DFStringFlagRepoGitHashDynamicString": "ab5d288d8412ecab7fc6d8ec29de73909018ed3e",
+    "FStringFlipTimeStampFastString": "2024-08-07T16:13:37.345Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-07T16:13:37.345Z"
 }
