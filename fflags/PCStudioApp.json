@@ -14736,6 +14736,8 @@
     "FFlagStudioDeletePluginInFiberOnly": "True",
     "FFlagClientFixCreatorIdValueForSimulation": "True",
     "FFlagEnableQrCodePageProfileShareLink_Rollout": "True;60;2024-08-08T16:11:26",
+    "FFlagExplorerPackageIconColumn3_Rollout": "True;1;2024-08-08T16:34:29",
+    "FFlagMeasureStudioEventsLeadingToFontHang_Rollout": "True;60;2024-08-08T16:35:54",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14814,6 +14816,7 @@
     "DFFlagCalculateCPV15StatsWhileVideoPlaying": "True",
     "DFFlagEnableFullscreenVisibilityCheck": "True",
     "DFFlagFixImageCumulativePercentInView": "True",
+    "DFFlagWindowsClipboardLockupFix_Rollout": "True;60;2024-08-08T16:39:25",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -14828,8 +14831,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "1db87dbdf7f8086702c08ef938f97f12e7340222",
-    "DFStringFlagRepoGitHashDynamicString": "1db87dbdf7f8086702c08ef938f97f12e7340222",
-    "FStringFlipTimeStampFastString": "2024-08-08T16:20:47.269Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-08T16:20:47.269Z"
+    "FStringFlagRepoGitHashFastString": "acdc04702d6af2f504a77819de3f6ad6c7003220",
+    "DFStringFlagRepoGitHashDynamicString": "acdc04702d6af2f504a77819de3f6ad6c7003220",
+    "FStringFlipTimeStampFastString": "2024-08-08T16:40:03.385Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-08T16:40:03.385Z"
 }
