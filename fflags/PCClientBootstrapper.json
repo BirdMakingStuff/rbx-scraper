@@ -153,6 +153,7 @@
     "FFlagAXDefaultMobileUIToFullShopIXPEnabled": "True",
     "FFlagAXDisableWidgetPlatformLayerExposure": "True",
     "FFlagEnableQrCodePageProfileShareLink_Rollout": "True;60;2024-08-08T16:11:26",
+    "FFlagVngTOSRevisedEnabled_Rollout": "True;60;2024-08-08T17:21:46",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -174,8 +175,8 @@
     "FFlagEnableRandomRobloxChannelSelection": "True",
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
-    "FStringFlagRepoGitHashFastString": "c6ca3e25ee99e2a921cf79d3a5dfd2338ed26473",
-    "DFStringFlagRepoGitHashDynamicString": "c6ca3e25ee99e2a921cf79d3a5dfd2338ed26473",
-    "FStringFlipTimeStampFastString": "2024-08-08T17:19:05.316Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-08T17:19:05.316Z"
+    "FStringFlagRepoGitHashFastString": "77250df28aadbab8f920bc4421dfa4d4a8524e42",
+    "DFStringFlagRepoGitHashDynamicString": "77250df28aadbab8f920bc4421dfa4d4a8524e42",
+    "FStringFlipTimeStampFastString": "2024-08-08T17:39:09.933Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-08T17:39:09.933Z"
 }

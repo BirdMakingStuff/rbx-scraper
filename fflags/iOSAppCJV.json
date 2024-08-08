@@ -13896,6 +13896,7 @@
     "FFlagUIDragDetectorMinMaxScaleWithReferenceUIFix": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
+    "FLogVIPTeleport_Rollout": "Debug,0;60;2024-08-08T17:27:55",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -14502,6 +14503,7 @@
     "FFlagSocialAddExperienceRoutes_v3": "True",
     "FFlagProfileReRouteToProfilePlatform_v1": "True",
     "FFlagEnableQrCodePageProfileShareLink_Rollout": "True;60;2024-08-08T16:11:26",
+    "FFlagVngTOSRevisedEnabled_Rollout": "True;60;2024-08-08T17:21:46",
     "FFlagMaterialGeneratorBetaFeature": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -14540,8 +14542,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAppBridgeStartupController": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "c6ca3e25ee99e2a921cf79d3a5dfd2338ed26473",
-    "DFStringFlagRepoGitHashDynamicString": "c6ca3e25ee99e2a921cf79d3a5dfd2338ed26473",
-    "FStringFlipTimeStampFastString": "2024-08-08T17:19:05.316Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-08T17:19:05.316Z"
+    "FStringFlagRepoGitHashFastString": "77250df28aadbab8f920bc4421dfa4d4a8524e42",
+    "DFStringFlagRepoGitHashDynamicString": "77250df28aadbab8f920bc4421dfa4d4a8524e42",
+    "FStringFlipTimeStampFastString": "2024-08-08T17:39:09.933Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-08T17:39:09.933Z"
 }
