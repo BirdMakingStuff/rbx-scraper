@@ -13891,9 +13891,9 @@
     "FFlagBottomAnchorXDLCodeModal": "True",
     "FFlagUIBloxEnableButtonLoadingShimmerPanelFix": "True",
     "FFlagDisableQrCodeForVR": "True",
-    "FFlagUIDragDetectorMinMaxScaleWithReferenceUIFix_Rollout": "True;30;2024-08-08T16:08:35",
-    "FFlagUIDragDetectorBoundingBehaviorEnum_Rollout": "True;30;2024-08-08T16:09:17",
     "FFlagLightgridCPUAsyncUpdate5_Rollout": "True;60;2024-08-08T16:20:04",
+    "FFlagUIDragDetectorBoundingBehaviorEnum": "True",
+    "FFlagUIDragDetectorMinMaxScaleWithReferenceUIFix": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14245,8 +14245,8 @@
     "FFlagLuaAppCountdownSubtitleWithLink": "True",
     "FFlagEnableAppNavABTest": "True",
     "FFlagGamepadNavigationDialogABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "acdc04702d6af2f504a77819de3f6ad6c7003220",
-    "DFStringFlagRepoGitHashDynamicString": "acdc04702d6af2f504a77819de3f6ad6c7003220",
-    "FStringFlipTimeStampFastString": "2024-08-08T16:40:03.385Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-08T16:40:03.385Z"
+    "FStringFlagRepoGitHashFastString": "c6ca3e25ee99e2a921cf79d3a5dfd2338ed26473",
+    "DFStringFlagRepoGitHashDynamicString": "c6ca3e25ee99e2a921cf79d3a5dfd2338ed26473",
+    "FStringFlipTimeStampFastString": "2024-08-08T17:19:05.316Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-08T17:19:05.316Z"
 }
