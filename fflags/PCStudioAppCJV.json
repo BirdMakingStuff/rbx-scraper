@@ -13890,6 +13890,10 @@
     "FFlagFixPermissionsButtonsEvents": "True",
     "FFlagBottomAnchorXDLCodeModal": "True",
     "FFlagUIBloxEnableButtonLoadingShimmerPanelFix": "True",
+    "FFlagDisableQrCodeForVR": "True",
+    "FFlagUIDragDetectorMinMaxScaleWithReferenceUIFix_Rollout": "True;30;2024-08-08T16:08:35",
+    "FFlagUIDragDetectorBoundingBehaviorEnum_Rollout": "True;30;2024-08-08T16:09:17",
+    "FFlagLightgridCPUAsyncUpdate5_Rollout": "True;60;2024-08-08T16:20:04",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14731,6 +14735,7 @@
     "FFlagLuaRibbonSocialPresence": "True",
     "FFlagStudioDeletePluginInFiberOnly": "True",
     "FFlagClientFixCreatorIdValueForSimulation": "True",
+    "FFlagEnableQrCodePageProfileShareLink_Rollout": "True;60;2024-08-08T16:11:26",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14833,8 +14838,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "b3171570983817668b4d6115da0c05e1b2f1664a",
-    "DFStringFlagRepoGitHashDynamicString": "b3171570983817668b4d6115da0c05e1b2f1664a",
-    "FStringFlipTimeStampFastString": "2024-08-08T01:26:52.398Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-08T01:26:52.398Z"
+    "FStringFlagRepoGitHashFastString": "1db87dbdf7f8086702c08ef938f97f12e7340222",
+    "DFStringFlagRepoGitHashDynamicString": "1db87dbdf7f8086702c08ef938f97f12e7340222",
+    "FStringFlipTimeStampFastString": "2024-08-08T16:20:47.269Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-08T16:20:47.269Z"
 }
