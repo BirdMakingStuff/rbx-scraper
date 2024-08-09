@@ -13880,7 +13880,6 @@
     "FFlagEditProfileAddOnEditField": "True",
     "FFlagEnableNoFriendsViewButtonEnabledProp": "True",
     "FFlagDevVoiceChatHandleSubscriptionFeedStartedEvent_PlaceFilter": "True;11116930529",
-    "FFlagBootcampCLI112681": "True",
     "FFlagEmitCorrectEventForVoiceBans": "True",
     "DFIntPerfDataEveryFrameThrottleHundredthsPercent": "3000",
     "DFFlagDontAllocatePointsIfCantSend": "True",
@@ -13931,6 +13930,11 @@
     "FFlagCloseReadOnlyMappedFileAfterOpen": "True",
     "DFFlagCapsAssignCheck_Rollout": "True;60;2024-08-09T16:03:00",
     "FFlagLuauPreserveLudataRenaming_Rollout": "True;60;2024-08-09T16:37:46",
+    "FFlagLuaAppURLEncodeGameSearchQuery_Rollout": "True;30;2024-08-09T17:02:01",
+    "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "10;60;2024-08-09T17:10:55",
+    "FStringConversationIneligibleModalLearnMoreClickedCounter_Rollout": "ConversationIneligibleModalLearnMoreClickedCommon;60;2024-08-09T17:18:46",
+    "FStringConversationIneligibleModalLeftGroupCounter_Rollout": "ConversationIneligibleModalLeftGroupCommon;60;2024-08-09T17:18:46",
+    "FStringConversationIneligibleModalRenderedCounter_Rollout": "ConversationIneligibleModalRenderedCommon;60;2024-08-09T17:18:46",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -14111,8 +14115,8 @@
     "FFlagAXDefaultMobileUIToFullShopIXPEnabled": "True",
     "FFlagAXDisableWidgetPlatformLayerExposure": "True",
     "FFlagGamepadNavigationDialogABTest2": "True",
-    "FStringFlagRepoGitHashFastString": "c47803aa395b7c29142e4071330cc340cf3bed1f",
-    "DFStringFlagRepoGitHashDynamicString": "c47803aa395b7c29142e4071330cc340cf3bed1f",
-    "FStringFlipTimeStampFastString": "2024-08-09T16:40:31.180Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-09T16:40:31.180Z"
+    "FStringFlagRepoGitHashFastString": "af37cf02ed9baf0f20d1a223e1bc706965336bb2",
+    "DFStringFlagRepoGitHashDynamicString": "af37cf02ed9baf0f20d1a223e1bc706965336bb2",
+    "FStringFlipTimeStampFastString": "2024-08-09T17:19:21.101Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-09T17:19:21.101Z"
 }
