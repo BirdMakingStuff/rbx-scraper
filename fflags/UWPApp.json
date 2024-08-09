@@ -13929,6 +13929,7 @@
     "FFlagLegacyAppShellLogOnRequire2": "True",
     "FFlagIncreaseConsoleReportMenuSize": "True",
     "FFlagCloseReadOnlyMappedFileAfterOpen": "True",
+    "DFFlagCapsAssignCheck_Rollout": "True;60;2024-08-09T16:03:00",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14163,8 +14164,8 @@
     "FFlagFixNilButtonCrashApp": "True",
     "FFlagAXDefaultMobileUIToFullShopIXPEnabled": "True",
     "FFlagAXDisableWidgetPlatformLayerExposure": "True",
-    "FStringFlagRepoGitHashFastString": "e3ba9becca7ef9b8eeb0877142666057feb5a8f3",
-    "DFStringFlagRepoGitHashDynamicString": "e3ba9becca7ef9b8eeb0877142666057feb5a8f3",
-    "FStringFlipTimeStampFastString": "2024-08-09T01:22:04.575Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-09T01:22:04.575Z"
+    "FStringFlagRepoGitHashFastString": "6b64bfffd4633b6f81d70c25b0919ef7d5aedcd7",
+    "DFStringFlagRepoGitHashDynamicString": "6b64bfffd4633b6f81d70c25b0919ef7d5aedcd7",
+    "FStringFlipTimeStampFastString": "2024-08-09T16:20:13.652Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-09T16:20:13.652Z"
 }
