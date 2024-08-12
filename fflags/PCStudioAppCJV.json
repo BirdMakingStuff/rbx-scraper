@@ -13941,6 +13941,9 @@
     "FStringConversationPvUpsellRenderedCounter": "ConversationPvUpsellRenderedCommon",
     "FStringConversationPvUpsellSucceededCounter": "ConversationPvUpsellSucceededCommon",
     "FFlagLuaAppTrimNewlinesFromName_Rollout": "True;30;2024-08-12T16:22:38",
+    "FFlagAppChatSelectChatMembersAssumeOfflinePresence_Rollout": "True;60;2024-08-12T16:55:19",
+    "FFlagLuaAppRemoveOmniFeedViewSelector_Rollout": "True;30;2024-08-12T17:03:03",
+    "FFlagEnableHidePremiumForVngUsers_Rollout": "True;60;2024-08-12T17:13:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14811,6 +14814,7 @@
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FIntToolboxYieldInsertPerInstanceModulus": "5000",
     "FFlagToolboxYieldWhenInserting_Rollout": "True;60;2024-08-12T16:33:47",
+    "FFlagStudioSettingsManagerExtensibility3_Rollout": "True;60;2024-08-12T17:10:01",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagTextureManagerUsePerfControl2": "True",
@@ -14921,8 +14925,8 @@
     "FFlagFailsafeHumanoid_2": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagStudioUseGlobalBinaryTypeForChannels": "True",
-    "FStringFlagRepoGitHashFastString": "93070e0617d40b451b0f8e0a9be3bc3ebd3029aa",
-    "DFStringFlagRepoGitHashDynamicString": "93070e0617d40b451b0f8e0a9be3bc3ebd3029aa",
-    "FStringFlipTimeStampFastString": "2024-08-12T16:34:22.155Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-12T16:34:22.155Z"
+    "FStringFlagRepoGitHashFastString": "8f79f9137cfdefdd6c83da5af0c2f4fbe0712d7a",
+    "DFStringFlagRepoGitHashDynamicString": "8f79f9137cfdefdd6c83da5af0c2f4fbe0712d7a",
+    "FStringFlipTimeStampFastString": "2024-08-12T17:17:09.015Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T17:17:09.015Z"
 }

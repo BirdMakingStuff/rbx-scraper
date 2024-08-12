@@ -13941,6 +13941,9 @@
     "FStringConversationPvUpsellRenderedCounter": "ConversationPvUpsellRenderedDUAR",
     "FStringConversationPvUpsellSucceededCounter": "ConversationPvUpsellSucceededDUAR",
     "FFlagLuaAppTrimNewlinesFromName_Rollout": "True;30;2024-08-12T16:22:38",
+    "FFlagAppChatSelectChatMembersAssumeOfflinePresence_Rollout": "True;60;2024-08-12T16:55:19",
+    "FFlagLuaAppRemoveOmniFeedViewSelector_Rollout": "True;30;2024-08-12T17:03:03",
+    "FFlagEnableHidePremiumForVngUsers_Rollout": "True;60;2024-08-12T17:13:13",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14449,8 +14452,8 @@
     "FFlagUniversalAppCsat4": "True",
     "FFlagSceneUpdaterFCFix_Rollout": "True;60;2024-08-12T16:00:57",
     "FFlagSurfaceAppearanceTinting3_PlaceFilter": "True;15101393044;15642262165;15642275269;17481176031;17697677491;18772458917",
-    "FStringFlagRepoGitHashFastString": "93070e0617d40b451b0f8e0a9be3bc3ebd3029aa",
-    "DFStringFlagRepoGitHashDynamicString": "93070e0617d40b451b0f8e0a9be3bc3ebd3029aa",
-    "FStringFlipTimeStampFastString": "2024-08-12T16:34:22.155Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-12T16:34:22.155Z"
+    "FStringFlagRepoGitHashFastString": "8f79f9137cfdefdd6c83da5af0c2f4fbe0712d7a",
+    "DFStringFlagRepoGitHashDynamicString": "8f79f9137cfdefdd6c83da5af0c2f4fbe0712d7a",
+    "FStringFlipTimeStampFastString": "2024-08-12T17:17:09.015Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T17:17:09.015Z"
 }
