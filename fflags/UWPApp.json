@@ -13940,6 +13940,7 @@
     "FStringConversationPvUpsellLeftGroupCounter": "ConversationPvUpsellLeftGroupCommon",
     "FStringConversationPvUpsellRenderedCounter": "ConversationPvUpsellRenderedCommon",
     "FStringConversationPvUpsellSucceededCounter": "ConversationPvUpsellSucceededCommon",
+    "FFlagLuaAppTrimNewlinesFromName_Rollout": "True;30;2024-08-12T16:22:38",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14174,8 +14175,10 @@
     "FFlagFixNilButtonCrashApp": "True",
     "FFlagAXDefaultMobileUIToFullShopIXPEnabled": "True",
     "FFlagAXDisableWidgetPlatformLayerExposure": "True",
-    "FStringFlagRepoGitHashFastString": "56f2866298d633a9d7f55c917ab3d7d05fd9252b",
-    "DFStringFlagRepoGitHashDynamicString": "56f2866298d633a9d7f55c917ab3d7d05fd9252b",
-    "FStringFlipTimeStampFastString": "2024-08-10T00:07:41.005Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-10T00:07:41.005Z"
+    "FFlagSceneUpdaterFCFix_Rollout": "True;60;2024-08-12T16:00:57",
+    "FFlagSurfaceAppearanceTinting3_PlaceFilter": "True;15101393044;15642262165;15642275269;17481176031;17697677491;18772458917",
+    "FStringFlagRepoGitHashFastString": "41fc8ebb9e283b37098636090c561206f0104c4b",
+    "DFStringFlagRepoGitHashDynamicString": "41fc8ebb9e283b37098636090c561206f0104c4b",
+    "FStringFlipTimeStampFastString": "2024-08-12T16:23:39.617Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T16:23:39.617Z"
 }
