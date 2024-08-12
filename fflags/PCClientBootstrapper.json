@@ -156,6 +156,7 @@
     "FFlagVngTOSRevisedEnabled": "True",
     "FFlagAXFixShopAndExperiencesById_Rollout": "True;60;2024-08-12T18:20:59",
     "FFlagAXAvatarFetchResultCamelCase_Rollout": "True;30;2024-08-12T18:36:19",
+    "DFFlagDoNotAutosaveTeamCreateIfNoChangesToPlace_Rollout": "True;60;2024-08-12T19:35:48",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -177,8 +178,8 @@
     "FFlagEnableRandomRobloxChannelSelection": "True",
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
-    "FStringFlagRepoGitHashFastString": "9ab1a29d461e2eae21f8b8f895f3956d1dc88ee8",
-    "DFStringFlagRepoGitHashDynamicString": "9ab1a29d461e2eae21f8b8f895f3956d1dc88ee8",
-    "FStringFlipTimeStampFastString": "2024-08-12T19:16:44.315Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-12T19:16:44.315Z"
+    "FStringFlagRepoGitHashFastString": "3628c755eeeb972752eacf889ba48bc1d12306ec",
+    "DFStringFlagRepoGitHashDynamicString": "3628c755eeeb972752eacf889ba48bc1d12306ec",
+    "FStringFlipTimeStampFastString": "2024-08-12T19:39:07.104Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T19:39:07.104Z"
 }
