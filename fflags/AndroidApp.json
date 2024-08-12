@@ -13965,6 +13965,9 @@
     "FFlagAppChatExternalNavigationAdjustment_Rollout": "True;60;2024-08-12T21:13:37",
     "FFlagAppChatSizeAdjustment_Rollout": "True;60;2024-08-12T21:13:37",
     "DFIntPerfDataEveryFrameThrottleHundredthsPercent_Rollout": "5000;60;2024-08-12T21:33:39",
+    "FFlagUITextureRendererFixFontAtlasMipmapUpdate_Rollout": "True;60;2024-08-12T21:58:15",
+    "FFlagSimCSG4FixEmptyResultError_Rollout": "True;60;2024-08-12T22:12:52",
+    "FFlagSimEnableCSG46_Rollout": "True;60;2024-08-12T22:12:52",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14538,8 +14541,8 @@
     "DFIntRestartAppOnOpenGLMemoryLeak_Threshold": "100000000",
     "DFStringRestartAppOnOpenGLMemoryLeak_DeviceList": "Vivo V2120|Vivo V2125",
     "DFFlagRestartAppOnOpenGLMemoryLeak": "True",
-    "FStringFlagRepoGitHashFastString": "6a56e7e644e48b36c709bcf176b171c2e2f86728",
-    "DFStringFlagRepoGitHashDynamicString": "6a56e7e644e48b36c709bcf176b171c2e2f86728",
-    "FStringFlipTimeStampFastString": "2024-08-12T21:37:02.927Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-12T21:37:02.927Z"
+    "FStringFlagRepoGitHashFastString": "2e6c5d4f70de4928bd4670565f055700f572edc9",
+    "DFStringFlagRepoGitHashDynamicString": "2e6c5d4f70de4928bd4670565f055700f572edc9",
+    "FStringFlipTimeStampFastString": "2024-08-12T22:14:08.876Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T22:14:08.876Z"
 }

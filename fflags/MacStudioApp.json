@@ -13965,8 +13965,9 @@
     "FFlagAppChatExternalNavigationAdjustment_Rollout": "True;60;2024-08-12T21:13:37",
     "FFlagAppChatSizeAdjustment_Rollout": "True;60;2024-08-12T21:13:37",
     "DFIntPerfDataEveryFrameThrottleHundredthsPercent_Rollout": "5000;60;2024-08-12T21:33:39",
-    "AllowVideoPreRoll": "True",
+    "FFlagUITextureRendererFixFontAtlasMipmapUpdate_Rollout": "True;60;2024-08-12T21:58:15",
     "AxisAdornmentGrabSize": "12",
+    "AllowVideoPreRoll": "True",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -14838,6 +14839,7 @@
     "FFlagAXFixShopAndExperiencesById": "True",
     "FFlagExplorerPropertiesUseStyledObject": "True",
     "FFlagAXAccessoryAdjustment": "True",
+    "DFFlagBadgeServiceEnableCheckUserBadges429Check_Rollout": "True;60;2024-08-12T22:00:18",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
     "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -14942,8 +14944,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "6a56e7e644e48b36c709bcf176b171c2e2f86728",
-    "DFStringFlagRepoGitHashDynamicString": "6a56e7e644e48b36c709bcf176b171c2e2f86728",
-    "FStringFlipTimeStampFastString": "2024-08-12T21:37:02.927Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-12T21:37:02.927Z"
+    "FStringFlagRepoGitHashFastString": "2e6c5d4f70de4928bd4670565f055700f572edc9",
+    "DFStringFlagRepoGitHashDynamicString": "2e6c5d4f70de4928bd4670565f055700f572edc9",
+    "FStringFlipTimeStampFastString": "2024-08-12T22:14:08.876Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T22:14:08.876Z"
 }
