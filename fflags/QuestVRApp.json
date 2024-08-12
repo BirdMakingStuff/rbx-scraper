@@ -13960,7 +13960,6 @@
     "FFlagShowSpeakerIconWithChatBubbles": "True",
     "FFlagShowSpeakerIconWithChatBubblesTCS": "True",
     "FFlagVoiceChatClientJoinOperationJoinTimerSignaling": "True",
-    "FFlagUITextureRendererFixFontAtlasMipmapUpdate_Rollout": "True;60;2024-08-12T21:58:15",
     "FFlagSimCSG4FixEmptyResultError_Rollout": "True;60;2024-08-12T22:12:52",
     "FFlagSimEnableCSG46_Rollout": "True;60;2024-08-12T22:12:52",
     "FFlagDeviceMtlWaitForCompletionHangCheck_Rollout": "True;60;2024-08-12T22:43:19",
@@ -13974,6 +13973,9 @@
     "FFlagCleanUpMergedShadows2_Rollout": "True;60;2024-08-12T22:57:43",
     "FFlagRomarkPhaseSupportNonStreaming_Rollout": "True;60;2024-08-12T23:19:11",
     "FFlagAXEnableAvatarHeadShotSidebarRefresh_Rollout": "False;60;2024-08-12T23:19:26",
+    "FFlagUITextureRendererFixFontAtlasMipmapUpdate": "True",
+    "DFIntPerfDataEveryFrameThrottleHundredthsPercent_Rollout": "7000;60;2024-08-12T23:31:39",
+    "DFFlagTotalTrackedMemory_Rollout": "True;60;2024-08-12T23:35:24",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14599,8 +14601,8 @@
     "FFlagAXFixShopAndExperiencesById": "True",
     "FFlagLayoutNodeNewParentUpdateDescendantDirtyBits": "True",
     "FFlagAXAccessoryAdjustment": "True",
-    "FStringFlagRepoGitHashFastString": "76c2592d56a48a19333d4cf5579a2901da72f97d",
-    "DFStringFlagRepoGitHashDynamicString": "76c2592d56a48a19333d4cf5579a2901da72f97d",
-    "FStringFlipTimeStampFastString": "2024-08-12T23:20:29.601Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-12T23:20:29.601Z"
+    "FStringFlagRepoGitHashFastString": "c52132556386422df2ce0bfaf314e12ad2a94472",
+    "DFStringFlagRepoGitHashDynamicString": "c52132556386422df2ce0bfaf314e12ad2a94472",
+    "FStringFlipTimeStampFastString": "2024-08-12T23:37:09.719Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T23:37:09.719Z"
 }

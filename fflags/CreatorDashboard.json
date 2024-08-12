@@ -14,5 +14,6 @@
     "enableDSC": "true",
     "enablePlaceThumbnailAssetsUploadApi": "true",
     "enableDynamicPriceFloorBundle": "true",
-    "enableInactiveBadgeCreation": "true"
+    "enableInactiveBadgeCreation": "true",
+    "priceExperimentProductBatchSize": "25"
 }
