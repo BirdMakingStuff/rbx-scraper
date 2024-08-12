@@ -13929,7 +13929,7 @@
     "DFFlagCapsAssignCheck": "True",
     "FFlagLuaAppURLEncodeGameSearchQuery": "True",
     "FFlagLuauPreserveLudataRenaming": "True",
-    "DFIntHeatmapServiceEnabledHundredthPercent": "10",
+    "DFIntHeatmapServiceEnabledHundredthPercent": "0",
     "FStringConversationIneligibleModalLearnMoreClickedCounter": "ConversationIneligibleModalLearnMoreClickedDUAR",
     "FStringConversationIneligibleModalLeftGroupCounter": "ConversationIneligibleModalLeftGroupDUAR",
     "FStringConversationIneligibleModalRenderedCounter": "ConversationIneligibleModalRenderedDUAR",
@@ -14106,10 +14106,10 @@
     "FFlagProfileReRouteToProfilePlatform_v1": "True",
     "DFFlagGuiLayerStrongInputEnded": "True",
     "DFFlagModuleStateDelayedRelease": "True",
-    "FFlagEnqueueVoiceClientJoinOperationLuaV2_Rollout": "True;30;2024-08-12T19:27:16",
     "FFlagAXAvatarFetchResultCamelCase": "True",
     "FFlagAXFixShopAndExperiencesById": "True",
     "FFlagAXAccessoryAdjustment_Rollout": "True;60;2024-08-12T20:04:57",
+    "FFlagEnqueueVoiceClientJoinOperationLuaV2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14473,8 +14473,8 @@
     "FFlagUniversalAppCsat4": "True",
     "FFlagWinEnableCVersionLoadCheck": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "380802f4c2a068a980d5754b5e71bf368080193c",
-    "DFStringFlagRepoGitHashDynamicString": "380802f4c2a068a980d5754b5e71bf368080193c",
-    "FStringFlipTimeStampFastString": "2024-08-12T20:16:53.273Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-12T20:16:53.273Z"
+    "FStringFlagRepoGitHashFastString": "f7fdb3f8c9225c21fbaf07e470d2bef75478e2c7",
+    "DFStringFlagRepoGitHashDynamicString": "f7fdb3f8c9225c21fbaf07e470d2bef75478e2c7",
+    "FStringFlipTimeStampFastString": "2024-08-12T20:40:18.124Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-12T20:40:18.124Z"
 }
