@@ -8185,8 +8185,6 @@
     "FIntProfileCardRolloutEnabled_v1": "100",
     "FIntProfileInsightsShadowTrafficEnabled_v1": "0",
     "FStringFriendsCarouselVariant": "circularTiles",
-    "FStringProfileQRCodeEnable3DAvatarExperimentKey": "is_new_avatar",
-    "FStringUserProfileBaseUrl": "https://apis.roblox.com/",
     "FFlagEnableDMInitMeasurement": "True",
     "FFlagEnableLoadPatchMetric": "True",
     "FFlagGpuGeometryManager10": "True",
