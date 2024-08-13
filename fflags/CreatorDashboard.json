@@ -15,5 +15,8 @@
     "enablePlaceThumbnailAssetsUploadApi": "true",
     "enableDynamicPriceFloorBundle": "true",
     "enableInactiveBadgeCreation": "true",
-    "priceExperimentProductBatchSize": "25"
+    "priceExperimentProductBatchSize": "25",
+    "enablePersonalizationBanner": "false",
+    "enableUpsellBanner": "false",
+    "personalizationBannerWhitelist": "3983517384"
 }
