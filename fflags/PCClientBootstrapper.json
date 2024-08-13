@@ -69,7 +69,6 @@
     "FFlagMacInstallerProtocolStringParam": "True",
     "FFlagMacInstallerUseHandleInstallSuccess": "True",
     "FIntClientLaunchTimeoutMillisec": "20000",
-    "FFlagDisableGoogleAnalytics": "True",
     "FFlagEanbleTerminationWithTimeout": "True",
     "FIntClientTermniateTimeoutMillisec": "10000",
     "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
@@ -178,8 +177,8 @@
     "FFlagEnableRandomRobloxChannelSelection": "True",
     "FFlagBootstrapperCheckOSBitPreReq": "True",
     "FIntWin32BitClientDeprecationLevel": "1",
-    "FStringFlagRepoGitHashFastString": "ea73e1f99570cbd2cf22a1cb5c9b4b0a3e52da9d",
-    "DFStringFlagRepoGitHashDynamicString": "ea73e1f99570cbd2cf22a1cb5c9b4b0a3e52da9d",
-    "FStringFlipTimeStampFastString": "2024-08-13T01:38:17.426Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-13T01:38:17.426Z"
+    "FStringFlagRepoGitHashFastString": "9a94fbf0ff3d78118178143bf105f96af7d17d82",
+    "DFStringFlagRepoGitHashDynamicString": "9a94fbf0ff3d78118178143bf105f96af7d17d82",
+    "FStringFlipTimeStampFastString": "2024-08-13T16:19:57.167Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-13T16:19:57.167Z"
 }
