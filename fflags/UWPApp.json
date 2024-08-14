@@ -6559,6 +6559,14 @@
     "FFlagLuaAppRequestFetchStatusReducer_Rollout": "True;30;2024-08-14T16:19:22",
     "DFFlagReportDeviceInputCreationToEventIngest_Rollout": "True;60;2024-08-14T16:27:10",
     "FFlagAppChatWideModeRightContainerClipsDescendants_Rollout": "True;60;2024-08-14T16:27:30",
+    "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "10;30;2024-08-14T16:28:36",
+    "DFFlagCalculateCPV15StatsWhileVideoPlaying_Rollout": "True;60;2024-08-14T16:30:05",
+    "FFlagFaceAnimatorV2CUseRuntimeWorker3_Rollout": "True;60;2024-08-14T16:31:39",
+    "FFlagRegionSetData_Rollout": "True;60;2024-08-14T16:38:19",
+    "FFlagVideoVP9HardWareDecoderCap2_Rollout": "True;60;2024-08-14T16:40:13",
+    "DFIntReportFrequencyBucketSizePercent_PlaceFilter": "10000;4924922222;2753915549;142823291;10449761463;8481844229;15532962292;1537690962;9872472334",
+    "DFIntSimReportAveWorldstepTimeEventIngestPercent_PlaceFilter": "10000;4924922222;2753915549;142823291;10449761463;8481844229;15532962292;1537690962;9872472334",
+    "DFIntAverageTimeSimulationBreakdownHundredthsPercentage_PlaceFilter": "10000;4924922222;2753915549;142823291;10449761463;8481844229;15532962292;1537690962;9872472334",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -6757,8 +6765,8 @@
     "FFlagAXAvatarFetchResultCamelCase": "True",
     "FFlagAXFixShopAndExperiencesById": "True",
     "FFlagAXAccessoryAdjustment": "True",
-    "FStringFlagRepoGitHashFastString": "bd0e016fdc13b0af620a0b113e2cf8f9bcb75b74",
-    "DFStringFlagRepoGitHashDynamicString": "bd0e016fdc13b0af620a0b113e2cf8f9bcb75b74",
-    "FStringFlipTimeStampFastString": "2024-08-14T16:28:21.130Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-14T16:28:21.130Z"
+    "FStringFlagRepoGitHashFastString": "01707f8e14cf8baa470f9028625c5356bc0b0a3e",
+    "DFStringFlagRepoGitHashDynamicString": "01707f8e14cf8baa470f9028625c5356bc0b0a3e",
+    "FStringFlipTimeStampFastString": "2024-08-14T16:43:58.474Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-14T16:43:58.474Z"
 }
