@@ -6649,6 +6649,7 @@
     "DFFlagTotalTrackedMemory": "True",
     "FFlagSupportLooksTileFooter4_Rollout": "True;60;2024-08-15T16:13:09",
     "DFFlagCLI111800E_Rollout": "True;60;2024-08-15T16:16:27",
+    "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "500;30;2024-08-15T16:37:18",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7083,8 +7084,8 @@
     "FFlagSocialAddExperienceRoutes_v3": "True",
     "FFlagUniversalAppCsat4": "True",
     "FFlagWinEnableCVersionLoadCheck": "True",
-    "FStringFlagRepoGitHashFastString": "747509015a71ccb0cbc052f4b6e78b44c100ec81",
-    "DFStringFlagRepoGitHashDynamicString": "747509015a71ccb0cbc052f4b6e78b44c100ec81",
-    "FStringFlipTimeStampFastString": "2024-08-15T16:22:16.659Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-15T16:22:16.659Z"
+    "FStringFlagRepoGitHashFastString": "b40ee0238a690aa93cbe6f7da23c7ea9ce1bfc0e",
+    "DFStringFlagRepoGitHashDynamicString": "b40ee0238a690aa93cbe6f7da23c7ea9ce1bfc0e",
+    "FStringFlipTimeStampFastString": "2024-08-15T16:38:24.690Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-15T16:38:24.690Z"
 }
