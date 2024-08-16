@@ -18,5 +18,6 @@
     "priceExperimentProductBatchSize": "25",
     "enablePersonalizationBanner": "false",
     "enableUpsellBanner": "false",
-    "personalizationBannerWhitelist": "3983517384"
+    "personalizationBannerWhitelist": "3983517384",
+    "enableDynamicFloorNonLimitedPostLaunchBanner": "true"
 }
