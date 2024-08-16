@@ -6678,6 +6678,8 @@
     "DFFlagDetectPatchOOM": "True",
     "FFlagCAPConvAiExperimentLogMessageSent": "True",
     "FFlagFetchBlockListFromServer_Rollout": "True;60;2024-08-16T16:14:44",
+    "AllowVideoPreRoll": "True",
+    "AxisAdornmentGrabSize": "12",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -6802,8 +6804,6 @@
     "FFlagLuaAppValidateOmniRecsPageType": "True",
     "FFlagLuaAppRefactorOmniRecsMetadata": "True",
     "FFlagLuaAppUseCollectionViewIXP2": "True",
-    "AllowVideoPreRoll": "True",
-    "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -7115,8 +7115,8 @@
     "FFlagEnableUnfilteredThreadsUI": "True",
     "FFlagFriendRequestNicknamesV9": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "ffd2baa0e552819130f9d5fd4c63a50b0b2b017f",
-    "DFStringFlagRepoGitHashDynamicString": "ffd2baa0e552819130f9d5fd4c63a50b0b2b017f",
-    "FStringFlipTimeStampFastString": "2024-08-16T16:30:37.539Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-16T16:30:37.539Z"
+    "FStringFlagRepoGitHashFastString": "d6cd0c229226ffdba1909773208f5005f8a4d0bb",
+    "DFStringFlagRepoGitHashDynamicString": "d6cd0c229226ffdba1909773208f5005f8a4d0bb",
+    "FStringFlipTimeStampFastString": "2024-08-16T17:16:48.904Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-16T17:16:48.904Z"
 }
