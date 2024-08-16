@@ -6652,7 +6652,6 @@
     "FFlagUseV2LivePreviewWatermark": "True",
     "FStringLivePreviewPlaceId": "16970181235",
     "FIntNumFramesToCaptureCallStack": "32",
-    "FFlagEnableAccessBlockAtAppContainerLevel": "True",
     "FFlagFinishedSoundLoadersUseWeakPtr": "True",
     "FFlagXboxRemoveUnusedPerformFunctions": "True",
     "DFFlagDebugCheckSessionMetricTeleportCondition": "True",
@@ -6677,10 +6676,10 @@
     "FFlagAddUserScrollingStatData": "True",
     "DFFlagDetectPatchOOM": "True",
     "FFlagCAPConvAiExperimentLogMessageSent": "True",
-    "FFlagFetchBlockListFromServer_Rollout": "True;60;2024-08-16T16:14:44",
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription_Rollout": "True;60;2024-08-16T16:59:51",
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription_Rollout": "True;60;2024-08-16T17:00:58",
     "FFlagStudioPluginDisableTitleBarOption_Rollout": "True;60;2024-08-16T17:29:51",
+    "FFlagFetchBlockListFromServer": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7160,8 +7159,8 @@
     "EnableAndroidPreWarmOkHttp": "true",
     "FFlagEnableSignupMinimumAge": "True",
     "DFStringProductionPointToV2WhiteList": "SessionTracking",
-    "FStringFlagRepoGitHashFastString": "f3e4a6358b48c00d56f8334f0179ec3c54a39b91",
-    "DFStringFlagRepoGitHashDynamicString": "f3e4a6358b48c00d56f8334f0179ec3c54a39b91",
-    "FStringFlipTimeStampFastString": "2024-08-16T17:38:36.355Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-16T17:38:36.355Z"
+    "FStringFlagRepoGitHashFastString": "f1ca4d3ae7c1ee2cb95b79f7c6e5cb9a5514bb43",
+    "DFStringFlagRepoGitHashDynamicString": "f1ca4d3ae7c1ee2cb95b79f7c6e5cb9a5514bb43",
+    "FStringFlipTimeStampFastString": "2024-08-16T18:01:52.258Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-16T18:01:52.258Z"
 }
