@@ -6615,7 +6615,7 @@
     "FStringConversationPvDialogFailedCounter": "ConversationPvDialogFailedDUAR",
     "FStringConversationPvDialogRenderedCounter": "ConversationPvDialogRenderedDUAR",
     "FStringConversationPvDialogSucceededCounter": "ConversationPvDialogSucceededDUAR",
-    "FFlagStudioPluginDisableTitleBarOption": "False",
+    "FFlagStudioPluginDisableTitleBarOption": "True",
     "FFlagFCOptimization": "True",
     "FFlagUAppBlockPageUseTextFromGUAC": "True",
     "FFlagUseNewLoadStreamAnimationAPI": "True",
@@ -6676,7 +6676,6 @@
     "FFlagAddUserScrollingStatData": "True",
     "DFFlagDetectPatchOOM": "True",
     "FFlagCAPConvAiExperimentLogMessageSent": "True",
-    "FFlagStudioPluginDisableTitleBarOption_Rollout": "True;60;2024-08-16T17:29:51",
     "FFlagFetchBlockListFromServer": "True",
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription": "True",
@@ -7114,8 +7113,9 @@
     "DFFlagSimSolverSetReducedMeshOptionDefaultsToFalse": "True",
     "FFlagEnableUnfilteredThreadsUI": "True",
     "FFlagFriendRequestNicknamesV9": "True",
-    "FStringFlagRepoGitHashFastString": "6c80e9f1bdbd7808919b3b223ea91a5228ee8aff",
-    "DFStringFlagRepoGitHashDynamicString": "6c80e9f1bdbd7808919b3b223ea91a5228ee8aff",
-    "FStringFlipTimeStampFastString": "2024-08-16T18:37:31.337Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-16T18:37:31.337Z"
+    "DFFlagVoiceChatSubManagerReadWriteLockApiInteractionsEnabled_Rollout": "False;30;2024-08-16T19:01:22",
+    "FStringFlagRepoGitHashFastString": "1243125fa113b25fe7aa33f3a5802977ad42a3fc",
+    "DFStringFlagRepoGitHashDynamicString": "1243125fa113b25fe7aa33f3a5802977ad42a3fc",
+    "FStringFlipTimeStampFastString": "2024-08-16T19:02:24.701Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-16T19:02:24.701Z"
 }
