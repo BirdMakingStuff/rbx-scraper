@@ -6679,6 +6679,7 @@
     "FFlagFetchBlockListFromServer": "True",
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription": "True",
+    "FStringLuaAppSortsWithDividers_Rollout": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,400000001,500000000,500000001,600000000;30;2024-08-17T17:32:02",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7113,8 +7114,8 @@
     "DFFlagSimSolverSetReducedMeshOptionDefaultsToFalse": "True",
     "FFlagEnableUnfilteredThreadsUI": "True",
     "FFlagFriendRequestNicknamesV9": "True",
-    "FStringFlagRepoGitHashFastString": "bb9dbc360bc758a7de0385228d46c782de9fd172",
-    "DFStringFlagRepoGitHashDynamicString": "bb9dbc360bc758a7de0385228d46c782de9fd172",
-    "FStringFlipTimeStampFastString": "2024-08-16T20:06:55.504Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-16T20:06:55.504Z"
+    "FStringFlagRepoGitHashFastString": "6b510aa6ff86876bab551fed7274a66fcac65090",
+    "DFStringFlagRepoGitHashDynamicString": "6b510aa6ff86876bab551fed7274a66fcac65090",
+    "FStringFlipTimeStampFastString": "2024-08-17T17:32:59.312Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-17T17:32:59.312Z"
 }
