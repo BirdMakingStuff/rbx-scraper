@@ -3888,7 +3888,7 @@
     "FFlagLuaAppSortHideSeeAll3": "True",
     "FFlagDisableChromeFollowupOcclusion": "True",
     "FFlagUserClearPanOnCameraDisable": "True",
-    "FStringLuaAppSortsWithDividers": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,500000000,500000001,600000000",
+    "FStringLuaAppSortsWithDividers": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,400000001,500000000,500000001,600000000",
     "FFlagLuauExtendedSizeClasses": "True",
     "FFlagLuaAppSortSubtitlesEnabled3": "True",
     "FFlagLuaAppYoutubeNoCookie": "True",
@@ -6679,7 +6679,6 @@
     "FFlagFetchBlockListFromServer": "True",
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription": "True",
-    "FStringLuaAppSortsWithDividers_Rollout": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,400000001,500000000,500000001,600000000;30;2024-08-17T17:32:02",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7115,8 +7114,8 @@
     "FFlagEnableUnfilteredThreadsUI": "True",
     "FFlagFriendRequestNicknamesV9": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "6b510aa6ff86876bab551fed7274a66fcac65090",
-    "DFStringFlagRepoGitHashDynamicString": "6b510aa6ff86876bab551fed7274a66fcac65090",
-    "FStringFlipTimeStampFastString": "2024-08-17T17:32:59.312Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-17T17:32:59.312Z"
+    "FStringFlagRepoGitHashFastString": "b4a02ae9ab6b839323337a68e6680e6e2619e01f",
+    "DFStringFlagRepoGitHashDynamicString": "b4a02ae9ab6b839323337a68e6680e6e2619e01f",
+    "FStringFlipTimeStampFastString": "2024-08-17T19:03:51.380Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-17T19:03:51.380Z"
 }
