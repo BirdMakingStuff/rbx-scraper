@@ -6711,6 +6711,7 @@
     "FFlagLuaAppRefactorExperienceInfoTable3_Rollout": "True;60;2024-08-19T23:15:31",
     "FFlagSimInvalidateRecycledIndices": "True",
     "FFlagEnableLifecycleStateManager2": "True",
+    "FFlagMarketplaceServiceFixBulkPurchaseRobuxType": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7271,8 +7272,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "0358f730d673b956c6bf81d0005558da7b21a526",
-    "DFStringFlagRepoGitHashDynamicString": "0358f730d673b956c6bf81d0005558da7b21a526",
-    "FStringFlipTimeStampFastString": "2024-08-19T23:21:42.792Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-19T23:21:42.792Z"
+    "FStringFlagRepoGitHashFastString": "a10a3a33379c3c64c3eb1ec18b5b51071a1f4677",
+    "DFStringFlagRepoGitHashDynamicString": "a10a3a33379c3c64c3eb1ec18b5b51071a1f4677",
+    "FStringFlipTimeStampFastString": "2024-08-19T23:30:45.733Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-19T23:30:45.733Z"
 }
