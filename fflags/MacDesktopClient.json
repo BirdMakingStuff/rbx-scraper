@@ -6690,7 +6690,6 @@
     "FFlagFRMRefactor": "True",
     "FFlagEnableAssistantWithBF": "True",
     "FFlagDisableUserMovementWhenVirtualCursorIsActive": "True",
-    "DFIntDeeplinkReceivedEventThrottleHundredthsPercentage_Rollout": "10000;30;2024-08-19T19:24:20",
     "FFlagStudioCommandBridgesMultiBind": "True",
     "DFFlagAlwaysRaiseTranslatorLocaleSignal": "True",
     "DFFlagRefactorTranslatorInstance2": "True",
@@ -6699,6 +6698,7 @@
     "FFlagRenderGlobalInstancingFixResize": "True",
     "FFlagHDSubInstancesUseHDIcon": "True",
     "FFlagToolboxVotingUrlToHaveAssetIdInURL2": "True",
+    "DFIntDeeplinkReceivedEventThrottleHundredthsPercentage": "10000",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -7130,9 +7130,9 @@
     "DFFlagSimSolverSetReducedMeshOptionDefaultsToFalse": "True",
     "FFlagFriendRequestNicknamesV9": "True",
     "FFlagPlayerSearchRemovalFix": "True",
-    "FFlagVideoUseBaseClassBufferPool_Rollout": "True;30;2024-08-19T19:22:18",
-    "FStringFlagRepoGitHashFastString": "1fa3de3a481239420bdcf906409173ab5374f912",
-    "DFStringFlagRepoGitHashDynamicString": "1fa3de3a481239420bdcf906409173ab5374f912",
-    "FStringFlipTimeStampFastString": "2024-08-19T20:16:48.375Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-19T20:16:48.375Z"
+    "FFlagVideoUseBaseClassBufferPool": "True",
+    "FStringFlagRepoGitHashFastString": "3d2497f8bebb16bf62ae1f8eeffda5eca3a4ec6e",
+    "DFStringFlagRepoGitHashDynamicString": "3d2497f8bebb16bf62ae1f8eeffda5eca3a4ec6e",
+    "FStringFlipTimeStampFastString": "2024-08-19T20:39:19.237Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-19T20:39:19.237Z"
 }
