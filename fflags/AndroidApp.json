@@ -6695,7 +6695,6 @@
     "FFlagToolboxVotingUrlToHaveAssetIdInURL2": "True",
     "DFIntDeeplinkReceivedEventThrottleHundredthsPercentage": "10000",
     "FFlagFasterPreciseTime2": "True",
-    "FFlagNewCameraControls_MouseDeltaFix_Rollout": "True;60;2024-08-19T20:58:59",
     "FFlagEnableDeeplinkReceivedEvent_Rollout": "True;60;2024-08-19T21:12:28",
     "FFlagEnableUnfilteredThreadsUI": "True",
     "FFlagUIListLayoutTrackInstanceCount2": "True",
@@ -6705,6 +6704,10 @@
     "FFlagMultiStyleLink_Rollout": "True;60;2024-08-19T22:06:25",
     "FFlagEnableEngineContextScope4": "True",
     "DFFlagBadgeServiceEnableCheckUserBadgesAsync": "True",
+    "FFlagExplorerFixRename_Rollout": "True;60;2024-08-19T22:28:22",
+    "FFlagGrassLengthHarmony2_Rollout": "True;60;2024-08-19T22:30:20",
+    "FFlagNewCameraControls_MouseDeltaFix": "True",
+    "DFFlagPauseSurfaceControllerBeforeSwappingDataModel_Rollout": "True;60;2024-08-19T22:34:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7184,8 +7187,8 @@
     "EnableAndroidPreWarmOkHttp": "true",
     "FFlagEnableSignupMinimumAge": "True",
     "DFStringProductionPointToV2WhiteList": "SessionTracking",
-    "FStringFlagRepoGitHashFastString": "5973795449c4578a6dc106b47823061be38863d1",
-    "DFStringFlagRepoGitHashDynamicString": "5973795449c4578a6dc106b47823061be38863d1",
-    "FStringFlipTimeStampFastString": "2024-08-19T22:21:00.011Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-19T22:21:00.011Z"
+    "FStringFlagRepoGitHashFastString": "8efb4942404b3d9aca1d16d95eb7d171e88f0cfd",
+    "DFStringFlagRepoGitHashDynamicString": "8efb4942404b3d9aca1d16d95eb7d171e88f0cfd",
+    "FStringFlipTimeStampFastString": "2024-08-19T22:35:02.543Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-19T22:35:02.543Z"
 }
