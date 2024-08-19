@@ -6469,7 +6469,6 @@
     "FFlagAXColorPickerErrorAnalytics": "True",
     "DFFlagFixMigrateAvatarTelemetryToDurationLogger": "True",
     "DFFlagRobloxTelemetryV2PointEncoding": "True",
-    "DFIntUIListLayoutStats_ReportHundredthsPercent2_PlaceFilter": "0;2753915549;4442272183;7449423635",
     "DFFlagSimAllowMatrixCapacityReduction": "True",
     "FStringChatLandingPvUpsellContinueClickedCounter": "ChatLandingPvUpsellContinueClickediOS",
     "FStringChatLandingPvUpsellDismissedCounter": "ChatLandingPvUpsellDismissediOS",
@@ -6701,6 +6700,8 @@
     "FFlagNewCameraControls_MouseDeltaFix_Rollout": "True;60;2024-08-19T20:58:59",
     "FFlagEnableDeeplinkReceivedEvent_Rollout": "True;60;2024-08-19T21:12:28",
     "FFlagEnableUnfilteredThreadsUI": "True",
+    "FFlagUIListLayoutTrackInstanceCount2": "True",
+    "FFlagVoiceChatCullingDecibelsAudibilityThresholdEnabled_Rollout": "True;60;2024-08-19T21:29:03",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7229,8 +7230,8 @@
     "FFlagPlayerSearchRemovalFix": "True",
     "FFlagRemovePhoneUpsellWebview": "True",
     "FFlagMergeFakeInputEvents": "False",
-    "FStringFlagRepoGitHashFastString": "8cc20c3966fbbd8ab161c1b95971d38a37835287",
-    "DFStringFlagRepoGitHashDynamicString": "8cc20c3966fbbd8ab161c1b95971d38a37835287",
-    "FStringFlipTimeStampFastString": "2024-08-19T21:21:51.508Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-19T21:21:51.508Z"
+    "FStringFlagRepoGitHashFastString": "fbdcbb78de2305bdabec9e6fe3a64e6feb638475",
+    "DFStringFlagRepoGitHashDynamicString": "fbdcbb78de2305bdabec9e6fe3a64e6feb638475",
+    "FStringFlipTimeStampFastString": "2024-08-19T21:29:42.615Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-19T21:29:42.615Z"
 }
