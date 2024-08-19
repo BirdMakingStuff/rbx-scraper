@@ -6681,9 +6681,6 @@
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription": "True",
     "FFlagVideoUseRvSubsystemInitialization": "True",
     "DFFlagSimRefactorCollisionGeometry2": "True",
-    "FFlagDisableUserMovementWhenVirtualCursorIsActive_Rollout": "True;60;2024-08-19T17:46:34",
-    "FFlagEnableAssistantWithBF_Rollout": "True;60;2024-08-19T17:48:54",
-    "FFlagStudioCommandBridgesMultiBind_Rollout": "True;60;2024-08-19T18:02:52",
     "DFFlagAlwaysRaiseTranslatorLocaleSignal_Rollout": "True;60;2024-08-19T18:05:55",
     "DFFlagRefactorTranslatorInstance2_Rollout": "True;60;2024-08-19T18:08:19",
     "FFlagRenderTestEnableDistanceCulling": "True",
@@ -6699,6 +6696,10 @@
     "FFlagEnableThirdPartyAssetLoading3": "True",
     "FFlagRemoveRakBitStream23": "True",
     "FFlagFRMRefactor": "True",
+    "FFlagEnableAssistantWithBF": "True",
+    "FFlagDisableUserMovementWhenVirtualCursorIsActive": "True",
+    "DFIntDeeplinkReceivedEventThrottleHundredthsPercentage_Rollout": "10000;30;2024-08-19T19:24:20",
+    "FFlagStudioCommandBridgesMultiBind": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7227,8 +7228,8 @@
     "FFlagEnableUnfilteredThreadsUI": "True",
     "FFlagPlayerSearchRemovalFix": "True",
     "FFlagRemovePhoneUpsellWebview": "True",
-    "FStringFlagRepoGitHashFastString": "c56728aff28457d043790ab831a3b084f668d45d",
-    "DFStringFlagRepoGitHashDynamicString": "c56728aff28457d043790ab831a3b084f668d45d",
-    "FStringFlipTimeStampFastString": "2024-08-19T19:17:24.814Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-19T19:17:24.814Z"
+    "FStringFlagRepoGitHashFastString": "de47f9face53fe8d5c5a4cef9c966962df0b17c3",
+    "DFStringFlagRepoGitHashDynamicString": "de47f9face53fe8d5c5a4cef9c966962df0b17c3",
+    "FStringFlipTimeStampFastString": "2024-08-19T19:37:00.397Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-19T19:37:00.397Z"
 }
