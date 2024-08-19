@@ -6679,6 +6679,9 @@
     "FFlagFetchBlockListFromServer": "True",
     "DFFlagVoiceChatSessionConnMgrNullptrWhileLeaveCloseSubscription": "True",
     "DFFlagVoiceChatSessionHoldLockWhileLeaveCloseSubscription": "True",
+    "DFFlagSimRefactorCollisionGeometry2_Rollout": "True;60;2024-08-19T15:56:33",
+    "FFlagVideoUseRvSubsystemInitialization_Rollout": "True;30;2024-08-19T16:10:19",
+    "FFlagStudioCommandBridgesMultiBind_Rollout": "True;60;2024-08-19T16:16:29",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7372,6 +7375,8 @@
     "FFlagTerrainEditorUpgradesUndoListener": "True",
     "FFlagTerrainEditorVoxelRegionFloor": "True",
     "FIntComponentCommandsTelemetryHundredthsPercent": "100",
+    "FFlagStudioSetQActionMenuRole_Rollout": "True;60;2024-08-19T16:13:45",
+    "FFlagRespectFlagsWhenBinding_Rollout": "True;60;2024-08-19T16:14:39",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -7452,8 +7457,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "b4a02ae9ab6b839323337a68e6680e6e2619e01f",
-    "DFStringFlagRepoGitHashDynamicString": "b4a02ae9ab6b839323337a68e6680e6e2619e01f",
-    "FStringFlipTimeStampFastString": "2024-08-17T19:03:51.380Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-17T19:03:51.380Z"
+    "FStringFlagRepoGitHashFastString": "9be79b8e6613da47cfeb8a08468bc7b110eb4282",
+    "DFStringFlagRepoGitHashDynamicString": "9be79b8e6613da47cfeb8a08468bc7b110eb4282",
+    "FStringFlipTimeStampFastString": "2024-08-19T16:17:05.457Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-19T16:17:05.457Z"
 }
