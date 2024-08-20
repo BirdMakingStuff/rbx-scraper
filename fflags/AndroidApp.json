@@ -6713,12 +6713,14 @@
     "FFlagLuaAppRefactorExperienceInfoTable3": "True",
     "FFlagReferredByPlayerId": "True",
     "FFlagSupportGameCardForInExpPlatChat_Dev": "True",
-    "FFlagInstanceAttributesNewStorage_Rollout": "True;60;2024-08-20T16:03:50",
     "FFlagFixQRCodeErrorMsgsForConsole_Rollout": "True;45;2024-08-20T16:23:25",
     "FFlagEnableQrCodePageProfileShareLink_Rollout": "True;60;2024-08-20T17:08:44",
     "FFlagUGCValidateTotalSurfaceAreaTestAccessory_Rollout": "True;60;2024-08-20T17:11:24",
     "FFlagUGCValidateTotalSurfaceAreaTestBody_Rollout": "True;60;2024-08-20T17:13:53",
     "FFlagUGCValidateCageOrigin_Rollout": "True;60;2024-08-20T17:16:24",
+    "DFFlagPerformanceControlChangeValidationToAcceptUnknownDirection_Rollout": "True;60;2024-08-20T17:25:40",
+    "FFlagVkDeviceFixCtrAssert_Rollout": "True;60;2024-08-20T17:33:02",
+    "FFlagInstanceAttributesNewStorage": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7198,8 +7200,8 @@
     "EnableAndroidPreWarmOkHttp": "true",
     "FFlagEnableSignupMinimumAge": "True",
     "DFStringProductionPointToV2WhiteList": "SessionTracking",
-    "FStringFlagRepoGitHashFastString": "9b838570fa136b71bda72df81b0c8994ff512862",
-    "DFStringFlagRepoGitHashDynamicString": "9b838570fa136b71bda72df81b0c8994ff512862",
-    "FStringFlipTimeStampFastString": "2024-08-20T17:18:16.913Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-20T17:18:16.913Z"
+    "FStringFlagRepoGitHashFastString": "9add7db5dcf6a669780cbf529c826847f9eadc88",
+    "DFStringFlagRepoGitHashDynamicString": "9add7db5dcf6a669780cbf529c826847f9eadc88",
+    "FStringFlipTimeStampFastString": "2024-08-20T17:37:05.530Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-20T17:37:05.530Z"
 }
