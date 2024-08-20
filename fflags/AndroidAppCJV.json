@@ -6720,7 +6720,6 @@
     "FFlagUGCValidateTotalSurfaceAreaTestAccessory": "True",
     "FFlagUGCValidateTotalSurfaceAreaTestBody": "True",
     "FFlagUGCValidateCageOrigin": "True",
-    "FIntUGCValidateMaxTotalSurfaceArea_Rollout": "400;60;2024-08-20T18:59:53",
     "DFFlagPerformanceControlChangeValidationToAcceptUnknownDirection": "True",
     "FFlagVkDeviceFixCtrAssert": "True",
     "DFStringProductionPointToV2WhiteList": "SessionTracking",
@@ -6730,6 +6729,11 @@
     "FFlagSimCSG4EnableCollisionTypeReporting": "True",
     "FFlagSTUDIOPLAT_34679_ReportTelemetryWhenMonitorGoesOnOff": "True",
     "FFlagSTUDIOPLAT_34679_StopANRDetectorWhenMonitorIsOff": "True",
+    "FIntUnfilteredThreadsPvDelayMs_Rollout": "2000;60;2024-08-20T20:30:07",
+    "FStringChatDetailsLeaveGroupDialogLeaveClickedCounter_Rollout": "ChatDetailsLeaveGroupDialogLeaveClickedAndroid;60;2024-08-20T20:30:07",
+    "FStringChatDetailsLeaveGroupDialogRenderedCounter_Rollout": "ChatDetailsLeaveGroupDialogRenderedAndroid;60;2024-08-20T20:30:07",
+    "FStringChatDetailsLeaveGroupDialogStayClickedCounter_Rollout": "ChatDetailsLeaveGroupDialogStayClickedAndroid;60;2024-08-20T20:30:07",
+    "FIntUGCValidateMaxTotalSurfaceArea": "400",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7238,8 +7242,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "b7f72d0fb2a4b59ffa3db12726e5d261a96c6dd2",
-    "DFStringFlagRepoGitHashDynamicString": "b7f72d0fb2a4b59ffa3db12726e5d261a96c6dd2",
-    "FStringFlipTimeStampFastString": "2024-08-20T20:11:20.501Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-20T20:11:20.501Z"
+    "FStringFlagRepoGitHashFastString": "97ca71dfff764b63153f2b7e13a03253a79bbc16",
+    "DFStringFlagRepoGitHashDynamicString": "97ca71dfff764b63153f2b7e13a03253a79bbc16",
+    "FStringFlipTimeStampFastString": "2024-08-20T20:32:17.738Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-20T20:32:17.738Z"
 }
