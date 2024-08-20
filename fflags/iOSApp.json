@@ -6729,8 +6729,6 @@
     "FFlagSTUDIOPLAT_34679_StopANRDetectorWhenMonitorIsOff": "True",
     "FIntUGCValidateMaxTotalSurfaceArea": "400",
     "FStringDebugLuaLogLevel_PlaceFilter": "Trace;7746948539",
-    "FFlagEnableReminderOfNormsABTest_Rollout": "True;60;2024-08-20T21:42:21",
-    "DFFlagRemoveDurationHMS_Rollout": "True;60;2024-08-20T21:47:21",
     "FFlagInitNpWebApiOnPSPlatform": "True",
     "FIntUnfilteredThreadsPvDelayMs": "2000",
     "FStringChatDetailsLeaveGroupDialogLeaveClickedCounter": "ChatDetailsLeaveGroupDialogLeaveClickediOS",
@@ -6749,6 +6747,8 @@
     "FFlagStudioDeviceEmulatorFixBlockyRoundedCorners": "True",
     "DFIntHeatmapServiceEnabledHundredthPercent_Rollout": "10000;60;2024-08-20T23:08:57",
     "FFlagEnableReminderOfNormsABTest": "True",
+    "DFFlagRemoveDurationHMS": "True",
+    "FFlagEnableCustomPropertyItemForTonemapper_Rollout": "True;30;2024-08-20T23:30:06",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7276,8 +7276,8 @@
     "FFlagMergeFakeInputEvents": "False",
     "FFlagFixProfilePlatformAndroidBackButton": "True",
     "FFlagProfilePlatformFixTelemetryEvents": "True",
-    "FStringFlagRepoGitHashFastString": "dac38dc86d9419c98b526789bf3ca99a7625e7a5",
-    "DFStringFlagRepoGitHashDynamicString": "dac38dc86d9419c98b526789bf3ca99a7625e7a5",
-    "FStringFlipTimeStampFastString": "2024-08-20T23:09:39.182Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-20T23:09:39.182Z"
+    "FStringFlagRepoGitHashFastString": "ebfa5cf14a22f63c13c99c59f373e71de1887609",
+    "DFStringFlagRepoGitHashDynamicString": "ebfa5cf14a22f63c13c99c59f373e71de1887609",
+    "FStringFlipTimeStampFastString": "2024-08-20T23:31:25.029Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-20T23:31:25.029Z"
 }
