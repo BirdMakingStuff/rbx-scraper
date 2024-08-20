@@ -6740,6 +6740,7 @@
     "FFlagRemovePredelete_Rollout": "True;60;2024-08-20T20:46:15",
     "FFlagDynamicDpiUpdateAndroidMacOS_Rollout": "True;60;2024-08-20T21:15:33",
     "FFlagMaterialGenErrorTextFiltered_Rollout": "True;60;2024-08-20T21:16:53",
+    "FStringDebugLuaLogLevel_PlaceFilter": "Trace;7746948539",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7506,8 +7507,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "191c00d6c55b8465d9160de57db1df4f882046e2",
-    "DFStringFlagRepoGitHashDynamicString": "191c00d6c55b8465d9160de57db1df4f882046e2",
-    "FStringFlipTimeStampFastString": "2024-08-20T21:17:46.934Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-20T21:17:46.934Z"
+    "FStringFlagRepoGitHashFastString": "cb601fe80fc997e18b9b6ff1ff42cdb76ef25c24",
+    "DFStringFlagRepoGitHashDynamicString": "cb601fe80fc997e18b9b6ff1ff42cdb76ef25c24",
+    "FStringFlipTimeStampFastString": "2024-08-20T21:21:10.466Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-20T21:21:10.466Z"
 }
