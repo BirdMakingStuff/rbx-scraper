@@ -6694,7 +6694,6 @@
     "FFlagHDSubInstancesUseHDIcon": "True",
     "FFlagToolboxVotingUrlToHaveAssetIdInURL2": "True",
     "DFIntDeeplinkReceivedEventThrottleHundredthsPercentage": "10000",
-    "FFlagFasterPreciseTime2": "True",
     "FFlagEnableUnfilteredThreadsUI": "True",
     "FFlagUIListLayoutTrackInstanceCount2": "True",
     "FFlagEnableEngineContextScope4": "True",
@@ -6714,6 +6713,8 @@
     "FFlagLuaAppRefactorExperienceInfoTable3": "True",
     "FFlagReferredByPlayerId": "True",
     "FFlagSupportGameCardForInExpPlatChat_Dev": "True",
+    "FFlagInstanceAttributesNewStorage_Rollout": "True;60;2024-08-20T16:03:50",
+    "FFlagFixQRCodeErrorMsgsForConsole_Rollout": "True;45;2024-08-20T16:23:25",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7492,8 +7493,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "b1c05c64aa9e787edf81b3ba34e6050a6002b701",
-    "DFStringFlagRepoGitHashDynamicString": "b1c05c64aa9e787edf81b3ba34e6050a6002b701",
-    "FStringFlipTimeStampFastString": "2024-08-20T01:22:01.375Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-20T01:22:01.375Z"
+    "FStringFlagRepoGitHashFastString": "c1fa72de7ed4199b8139ee3b204334b717584828",
+    "DFStringFlagRepoGitHashDynamicString": "c1fa72de7ed4199b8139ee3b204334b717584828",
+    "FStringFlipTimeStampFastString": "2024-08-20T16:23:54.393Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-20T16:23:54.393Z"
 }
