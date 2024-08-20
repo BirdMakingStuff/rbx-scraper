@@ -6715,7 +6715,6 @@
     "FFlagSupportGameCardForInExpPlatChat_Dev": "True",
     "FFlagInstanceAttributesNewStorage": "True",
     "FFlagFixQRCodeErrorMsgsForConsole": "True",
-    "DFFlagBindToMessageWhileRequiringError_Rollout": "True;60;2024-08-20T17:50:21",
     "FFlagAXMigrateCatalogContextMenuFromRoactGamepad": "True",
     "FFlagLegacyAppShellErrorOnRequire2_Rollout": "False;60;2024-08-20T18:17:32",
     "FFlagUITextureRendererZeroCanvasSizeFix_Rollout": "True;60;2024-08-20T18:21:39",
@@ -6736,6 +6735,7 @@
     "FFlagSTUDIOPLAT_34679_StopANRDetectorWhenMonitorIsOff_Rollout": "True;30;2024-08-20T19:04:35",
     "FFlagVkDeviceFixCtrAssert": "True",
     "DFStringProductionPointToV2WhiteList": "SessionTracking",
+    "DFFlagBindToMessageWhileRequiringError": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7295,8 +7295,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "6a95366e7b5cc540b9e85cde8a16d248e43b4c22",
-    "DFStringFlagRepoGitHashDynamicString": "6a95366e7b5cc540b9e85cde8a16d248e43b4c22",
-    "FStringFlipTimeStampFastString": "2024-08-20T19:17:00.389Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-20T19:17:00.389Z"
+    "FStringFlagRepoGitHashFastString": "adf1633bd1db1d7380e6415a4cf7a0c15547d5fd",
+    "DFStringFlagRepoGitHashDynamicString": "adf1633bd1db1d7380e6415a4cf7a0c15547d5fd",
+    "FStringFlipTimeStampFastString": "2024-08-20T19:26:51.809Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-20T19:26:51.809Z"
 }
