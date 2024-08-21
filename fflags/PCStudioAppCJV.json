@@ -6759,6 +6759,11 @@
     "CaptureCountersIntervalInMinutes": "5",
     "AllowVideoPreRoll": "True",
     "FFlagEnableLeaveGroupDialogAnalytics_Rollout": "True;30;2024-08-21T16:36:59",
+    "FFlagRobloxCLIMultiplayerCoverageReport_Rollout": "True;60;2024-08-21T16:51:06",
+    "FFlagCreateMCPOnFetch_Rollout": "True;60;2024-08-21T17:09:26",
+    "DFFlagRobloxTelemetryAddCheckSum_Rollout": "False;30;2024-08-21T17:09:31",
+    "FFlagAvatarPreviewerSkinToneAlphaDetection_Rollout": "True;60;2024-08-21T17:10:23",
+    "FFlagEnableCompatibilityMigrationStudioChanges_Rollout": "True;60;2024-08-21T17:13:39",
     "DFFlagGenerateMeshLOD_Fix1": "True",
     "DFFlagGoodbyeChoiceActiveProperty": "True",
     "DFFlagLockViolationInstanceCrash": "False",
@@ -7526,8 +7531,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "9e5eb209509ee41c879580f86025439aae6a01e6",
-    "DFStringFlagRepoGitHashDynamicString": "9e5eb209509ee41c879580f86025439aae6a01e6",
-    "FStringFlipTimeStampFastString": "2024-08-21T16:37:49.595Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T16:37:49.595Z"
+    "FStringFlagRepoGitHashFastString": "060aaf2511f0771deb45d73f91ce7b7cc9b5c966",
+    "DFStringFlagRepoGitHashDynamicString": "060aaf2511f0771deb45d73f91ce7b7cc9b5c966",
+    "FStringFlipTimeStampFastString": "2024-08-21T17:14:21.891Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-21T17:14:21.891Z"
 }
