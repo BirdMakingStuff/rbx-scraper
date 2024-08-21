@@ -6760,8 +6760,8 @@
     "DFIntVoiceChatPeerConnectionSleepUntilEnabled": "1",
     "FFlagEnableTechnologyMigrationEditor": "True",
     "DFFlagMicroprofilerOutput2": "True",
-    "FFlagFixChunkLightingUpdate2_Rollout": "True;60;2024-08-21T21:01:14",
     "DFFlagSanityChecksForIndexArray": "True",
+    "FFlagFixChunkLightingUpdate2": "True",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -6884,6 +6884,7 @@
     "DFStringRobloxTelemetryAdapterPointV2Prefix": "v2_adapter_0819_",
     "DFStringRobloxTelemetryV2PointAdatpterDualWriteWhitelist": "\"\"",
     "FFlagPathfindingSkipPartsExceedTileCapacity": "True",
+    "FFlagGetFFlagCountryCodeBoldPrefixEnabled_Rollout": "True;60;2024-08-21T22:22:57",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7194,8 +7195,8 @@
     "FFlagPlayerSearchRemovalFix": "True",
     "FFlagVideoUseBaseClassBufferPool": "True",
     "FFlagDisableLogWhenMonitorConditionLocked3": "True",
-    "FStringFlagRepoGitHashFastString": "e7f6750138724b561338518741ed63e4fd1a3d85",
-    "DFStringFlagRepoGitHashDynamicString": "e7f6750138724b561338518741ed63e4fd1a3d85",
-    "FStringFlipTimeStampFastString": "2024-08-21T22:19:22.946Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T22:19:22.946Z"
+    "FStringFlagRepoGitHashFastString": "6ca24ed98bcd3998fa6db3461562b75a0d66efee",
+    "DFStringFlagRepoGitHashDynamicString": "6ca24ed98bcd3998fa6db3461562b75a0d66efee",
+    "FStringFlipTimeStampFastString": "2024-08-21T22:37:53.709Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-21T22:37:53.709Z"
 }
