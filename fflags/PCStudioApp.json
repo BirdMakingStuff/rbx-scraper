@@ -7455,6 +7455,7 @@
     "DFFlagMicroProfilerMemoryScope": "True",
     "FStringCompatibilityLightingMigrationDevForumURL_Rollout": "https://devforum.roblox.com/t/compatibility-lighting-becomes-retro-tone-mapping-sunset-migration/3128560;30;2024-08-21T22:36:28",
     "FFlagStudioPreloadCloudPlugins": "True",
+    "FFlagMigrateCompatibilityPhaseOne_Rollout": "True;30;2024-08-21T22:39:52",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7532,8 +7533,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "6ca24ed98bcd3998fa6db3461562b75a0d66efee",
-    "DFStringFlagRepoGitHashDynamicString": "6ca24ed98bcd3998fa6db3461562b75a0d66efee",
-    "FStringFlipTimeStampFastString": "2024-08-21T22:37:53.709Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T22:37:53.709Z"
+    "FStringFlagRepoGitHashFastString": "d62e638036379892d59c181997f60be3a9a7bd3f",
+    "DFStringFlagRepoGitHashDynamicString": "d62e638036379892d59c181997f60be3a9a7bd3f",
+    "FStringFlipTimeStampFastString": "2024-08-21T22:40:53.140Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-21T22:40:53.140Z"
 }
