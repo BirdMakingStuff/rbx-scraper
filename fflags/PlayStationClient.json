@@ -6755,7 +6755,6 @@
     "FIntUGCValidationLeftLegThresholdBack_Rollout": "30;60;2024-08-21T16:31:38",
     "FIntUGCValidationLeftLegThresholdSide_Rollout": "30;60;2024-08-21T16:32:34",
     "FIntUGCValidationRightLegThresholdFront_Rollout": "30;60;2024-08-21T16:33:27",
-    "FFlagEnableColorGrading_Rollout": "True;30;2024-08-21T16:34:04",
     "FIntUGCValidationRightLegThresholdBack_Rollout": "30;60;2024-08-21T16:34:45",
     "FIntUGCValidationRightLegThresholdSide_Rollout": "30;60;2024-08-21T16:35:07",
     "FFlagEnableLeaveGroupDialogAnalytics_Rollout": "True;30;2024-08-21T16:36:59",
@@ -6764,6 +6763,8 @@
     "DFFlagRobloxTelemetryAddCheckSum_Rollout": "False;30;2024-08-21T17:09:31",
     "FFlagAvatarPreviewerSkinToneAlphaDetection_Rollout": "True;60;2024-08-21T17:10:23",
     "FFlagEnableCompatibilityMigrationStudioChanges_Rollout": "True;60;2024-08-21T17:13:39",
+    "DFFlagSetFocusCallbackAPI2_Rollout": "True;60;2024-08-21T17:33:52",
+    "FFlagEnableColorGrading": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -6930,8 +6931,8 @@
     "FFlagAXAvatarFetchResultCamelCase": "True",
     "FFlagAXFixShopAndExperiencesById": "True",
     "FIntWideGameTileVerticalGap": "24",
-    "FStringFlagRepoGitHashFastString": "060aaf2511f0771deb45d73f91ce7b7cc9b5c966",
-    "DFStringFlagRepoGitHashDynamicString": "060aaf2511f0771deb45d73f91ce7b7cc9b5c966",
-    "FStringFlipTimeStampFastString": "2024-08-21T17:14:21.891Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T17:14:21.891Z"
+    "FStringFlagRepoGitHashFastString": "d73e9bdbfd0d4ddae2c095cfb817340d68146646",
+    "DFStringFlagRepoGitHashDynamicString": "d73e9bdbfd0d4ddae2c095cfb817340d68146646",
+    "FStringFlipTimeStampFastString": "2024-08-21T17:37:15.573Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-21T17:37:15.573Z"
 }
