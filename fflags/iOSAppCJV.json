@@ -6767,6 +6767,8 @@
     "FFlagEnableTechnologyMigrationEditor": "True",
     "FStringIxpNewLayersForRegistration_Rollout": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors;60;2024-08-21T19:55:49",
     "DFFlagMicroprofilerOutput2": "True",
+    "DFFlagSanityChecksForIndexArray_Rollout": "True;60;2024-08-21T20:43:40",
+    "FFlagFixChunkLightingUpdate2_Rollout": "True;60;2024-08-21T21:01:14",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7325,8 +7327,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "20c5d3413edb23c4d1a7d2c44b663c8d78dec160",
-    "DFStringFlagRepoGitHashDynamicString": "20c5d3413edb23c4d1a7d2c44b663c8d78dec160",
-    "FStringFlipTimeStampFastString": "2024-08-21T20:37:50.911Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T20:37:50.911Z"
+    "FStringFlagRepoGitHashFastString": "d4c1e2dfcc44a7044fdb1009bdde83b1e4fc161b",
+    "DFStringFlagRepoGitHashDynamicString": "d4c1e2dfcc44a7044fdb1009bdde83b1e4fc161b",
+    "FStringFlipTimeStampFastString": "2024-08-21T21:04:20.034Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-21T21:04:20.034Z"
 }
