@@ -6748,6 +6748,7 @@
     "DFFlagRemoveDurationHMS": "True",
     "FFlagEnableToastLifecycleEventsHandler": "True",
     "FFlagEnableCustomPropertyItemForTonemapper": "True",
+    "FFlagAudioAnalyzerSpectrumEnabledProperty_Rollout": "True;60;2024-08-21T16:17:23",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7202,7 +7203,6 @@
     "CrashpadEnableApiUnification": "False",
     "DFFlagStrictStringConvertReport2": "True",
     "FFlagEnableLuaAppsAppflyerUIDReportingV3": "True",
-    "FFlagPathfindingReduceMemoryForHFs_PlaceFilter": "False;10548891534",
     "DFFlagTeleportJoinBack": "False",
     "FFlagTestProcessTimestampCall": "True",
     "DFFlagDoJoinBackTeleport": "False",
@@ -7226,7 +7226,6 @@
     "DFFlagRestartAppOnOpenGLMemoryLeak": "True",
     "EnableAndroidPreWarmOkHttp": "true",
     "FFlagEnableSignupMinimumAge": "True",
-    "FFlagUnifySessionTrackingReporting2": "True",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -7271,8 +7270,8 @@
     "FFlagAXAvatarFetchResultCamelCase": "True",
     "FFlagAXFixShopAndExperiencesById": "True",
     "FFlagLayoutNodeNewParentUpdateDescendantDirtyBits": "True",
-    "FStringFlagRepoGitHashFastString": "866efa283744629721e9ef51a2c7ba51edf40e5a",
-    "DFStringFlagRepoGitHashDynamicString": "866efa283744629721e9ef51a2c7ba51edf40e5a",
-    "FStringFlipTimeStampFastString": "2024-08-21T00:42:05.058Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T00:42:05.058Z"
+    "FStringFlagRepoGitHashFastString": "5099fb6a26c8378ae844a2a4ee7e0cf95fb8ed29",
+    "DFStringFlagRepoGitHashDynamicString": "5099fb6a26c8378ae844a2a4ee7e0cf95fb8ed29",
+    "FStringFlipTimeStampFastString": "2024-08-21T16:18:09.334Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-21T16:18:09.334Z"
 }
