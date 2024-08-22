@@ -6769,6 +6769,7 @@
     "FFlagEditableImageMoreAPIsSupportCombineType_Rollout": "True;60;2024-08-22T18:02:42",
     "DFFlagEnumRootMethod_Rollout": "True;30;2024-08-22T18:09:05",
     "FFlagLimitSleeps_Rollout": "True;60;2024-08-22T18:19:15",
+    "FFlagUGCValidationDownloadFailureInfo_Rollout": "True;60;2024-08-22T18:32:35",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7062,8 +7063,8 @@
     "FFlagAXFixShopAndExperiencesById": "True",
     "FIntWideGameTileVerticalGap": "24",
     "FFlagGetFFlagCountryCodeBoldPrefixEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "2a436f0432260d1d1394d30d159466ac33b6f402",
-    "DFStringFlagRepoGitHashDynamicString": "2a436f0432260d1d1394d30d159466ac33b6f402",
-    "FStringFlipTimeStampFastString": "2024-08-22T18:27:55.151Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-22T18:27:55.151Z"
+    "FStringFlagRepoGitHashFastString": "8c9815a786e2f25f7cfbda39bcab83b466fb0be3",
+    "DFStringFlagRepoGitHashDynamicString": "8c9815a786e2f25f7cfbda39bcab83b466fb0be3",
+    "FStringFlipTimeStampFastString": "2024-08-22T18:42:15.507Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T18:42:15.507Z"
 }
