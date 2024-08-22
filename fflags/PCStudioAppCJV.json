@@ -7456,6 +7456,8 @@
     "FFlagStudioPreloadCloudPlugins": "True",
     "FFlagMigrateCompatibilityPhaseOne": "True",
     "FStringCompatibilityLightingMigrationDevForumURL": "https://devforum.roblox.com/t/compatibility-lighting-becomes-retro-tone-mapping-sunset-migration/3128560",
+    "FFlagDedupeDisconnectTelemetry_Rollout": "True;60;2024-08-22T17:07:29",
+    "DFFlagNewEnumReflection_Rollout": "True;30;2024-08-22T17:08:50",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7521,6 +7523,8 @@
     "DFStringRobloxTelemetryAdapterPointV2Prefix": "v2_adapter_0819_",
     "DFStringRobloxTelemetryV2PointAdatpterDualWriteWhitelist": "\"\"",
     "FFlagGetFFlagCountryCodeBoldPrefixEnabled": "True",
+    "FFlagWindowsTTIReportUpdateDuration_Rollout": "True;60;2024-08-22T16:51:58",
+    "DFFlagFixMigrateAvatarTelemetryToDurationLogger2_Rollout": "True;60;2024-08-22T17:02:29",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -7541,8 +7545,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "e00cff97280b81b7b77e9d99bfec5804de097e25",
-    "DFStringFlagRepoGitHashDynamicString": "e00cff97280b81b7b77e9d99bfec5804de097e25",
-    "FStringFlipTimeStampFastString": "2024-08-22T16:45:32.699Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-22T16:45:32.699Z"
+    "FStringFlagRepoGitHashFastString": "2fc0bc483b3578343c414b342af75a65fe762acf",
+    "DFStringFlagRepoGitHashDynamicString": "2fc0bc483b3578343c414b342af75a65fe762acf",
+    "FStringFlipTimeStampFastString": "2024-08-22T17:15:53.435Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T17:15:53.435Z"
 }
