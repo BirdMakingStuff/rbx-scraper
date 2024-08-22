@@ -7453,9 +7453,9 @@
     "FFlagPathfindingSkipPartsExceedTileCapacity": "True",
     "FFlagMicroprofilerSetAssetReaderApp": "True",
     "DFFlagMicroProfilerMemoryScope": "True",
-    "FStringCompatibilityLightingMigrationDevForumURL_Rollout": "https://devforum.roblox.com/t/compatibility-lighting-becomes-retro-tone-mapping-sunset-migration/3128560;30;2024-08-21T22:36:28",
     "FFlagStudioPreloadCloudPlugins": "True",
-    "FFlagMigrateCompatibilityPhaseOne_Rollout": "True;30;2024-08-21T22:39:52",
+    "FFlagMigrateCompatibilityPhaseOne": "True",
+    "FStringCompatibilityLightingMigrationDevForumURL": "https://devforum.roblox.com/t/compatibility-lighting-becomes-retro-tone-mapping-sunset-migration/3128560",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7520,7 +7520,7 @@
     "FFlagRemovePhoneUpsellWebview": "True",
     "DFStringRobloxTelemetryAdapterPointV2Prefix": "v2_adapter_0819_",
     "DFStringRobloxTelemetryV2PointAdatpterDualWriteWhitelist": "\"\"",
-    "FFlagGetFFlagCountryCodeBoldPrefixEnabled_Rollout": "True;60;2024-08-21T22:22:57",
+    "FFlagGetFFlagCountryCodeBoldPrefixEnabled": "True",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -7541,8 +7541,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "7350b8a56f1c35665927f9d01d9c3e5b205f0434",
-    "DFStringFlagRepoGitHashDynamicString": "7350b8a56f1c35665927f9d01d9c3e5b205f0434",
-    "FStringFlipTimeStampFastString": "2024-08-21T23:32:59.895Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T23:32:59.895Z"
+    "FStringFlagRepoGitHashFastString": "03ee489402e9c5067b2954e8f04f6bbfb6d3be78",
+    "DFStringFlagRepoGitHashDynamicString": "03ee489402e9c5067b2954e8f04f6bbfb6d3be78",
+    "FStringFlipTimeStampFastString": "2024-08-22T00:03:02.566Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T00:03:02.566Z"
 }

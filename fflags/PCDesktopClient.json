@@ -6884,7 +6884,7 @@
     "DFStringRobloxTelemetryAdapterPointV2Prefix": "v2_adapter_0819_",
     "DFStringRobloxTelemetryV2PointAdatpterDualWriteWhitelist": "\"\"",
     "FFlagPathfindingSkipPartsExceedTileCapacity": "True",
-    "FFlagGetFFlagCountryCodeBoldPrefixEnabled_Rollout": "True;60;2024-08-21T22:22:57",
+    "FFlagGetFFlagCountryCodeBoldPrefixEnabled": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7195,8 +7195,8 @@
     "FFlagPlayerSearchRemovalFix": "True",
     "FFlagVideoUseBaseClassBufferPool": "True",
     "FFlagDisableLogWhenMonitorConditionLocked3": "True",
-    "FStringFlagRepoGitHashFastString": "7350b8a56f1c35665927f9d01d9c3e5b205f0434",
-    "DFStringFlagRepoGitHashDynamicString": "7350b8a56f1c35665927f9d01d9c3e5b205f0434",
-    "FStringFlipTimeStampFastString": "2024-08-21T23:32:59.895Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-21T23:32:59.895Z"
+    "FStringFlagRepoGitHashFastString": "03ee489402e9c5067b2954e8f04f6bbfb6d3be78",
+    "DFStringFlagRepoGitHashDynamicString": "03ee489402e9c5067b2954e8f04f6bbfb6d3be78",
+    "FStringFlipTimeStampFastString": "2024-08-22T00:03:02.566Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T00:03:02.566Z"
 }
