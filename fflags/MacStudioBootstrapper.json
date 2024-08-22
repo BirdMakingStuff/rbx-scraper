@@ -113,13 +113,14 @@
     "FFlagAXFixShopAndExperiencesById": "True",
     "FFlagAXNoFaceHeadToastCounter": "True",
     "FFlagProfilePlatformRemainingLogging": "True",
+    "FFlagExperienceStateCaptureIsInBackground_Rollout": "True;60;2024-08-22T22:46:20",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "e00df31319a261822d1c97a2c7968d4460706a59",
-    "DFStringFlagRepoGitHashDynamicString": "e00df31319a261822d1c97a2c7968d4460706a59",
-    "FStringFlipTimeStampFastString": "2024-08-22T22:38:17.250Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-22T22:38:17.250Z"
+    "FStringFlagRepoGitHashFastString": "14347e186ac5939946e9302eb26a59184839be2b",
+    "DFStringFlagRepoGitHashDynamicString": "14347e186ac5939946e9302eb26a59184839be2b",
+    "FStringFlipTimeStampFastString": "2024-08-22T23:17:35.785Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T23:17:35.785Z"
 }
