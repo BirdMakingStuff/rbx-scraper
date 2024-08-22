@@ -7458,6 +7458,10 @@
     "FStringCompatibilityLightingMigrationDevForumURL": "https://devforum.roblox.com/t/compatibility-lighting-becomes-retro-tone-mapping-sunset-migration/3128560",
     "FFlagDedupeDisconnectTelemetry_Rollout": "True;60;2024-08-22T17:07:29",
     "DFFlagNewEnumReflection_Rollout": "True;30;2024-08-22T17:08:50",
+    "FFlagCodeAssistSilentAutoTrigger_Rollout": "True;30;2024-08-22T17:25:22",
+    "FFlagToolboxRenameMeshAndImage_Rollout": "True;60;2024-08-22T17:26:16",
+    "FFlagMaterialGeneratorAllowPatternName_Rollout": "True;60;2024-08-22T17:37:08",
+    "FFlagMaterialGeneratorFixSelectedMaterial_Rollout": "True;60;2024-08-22T17:38:01",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7545,8 +7549,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "2fc0bc483b3578343c414b342af75a65fe762acf",
-    "DFStringFlagRepoGitHashDynamicString": "2fc0bc483b3578343c414b342af75a65fe762acf",
-    "FStringFlipTimeStampFastString": "2024-08-22T17:15:53.435Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-22T17:15:53.435Z"
+    "FStringFlagRepoGitHashFastString": "a8b0240e4e97a972fbb7fe20ae93c8058cc3c1ab",
+    "DFStringFlagRepoGitHashDynamicString": "a8b0240e4e97a972fbb7fe20ae93c8058cc3c1ab",
+    "FStringFlipTimeStampFastString": "2024-08-22T17:38:47.172Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T17:38:47.172Z"
 }
