@@ -7214,11 +7214,10 @@
     "FFlagFriendRequestNicknamesV9": "True",
     "FFlagPlayerSearchRemovalFix": "True",
     "FFlagVideoUseBaseClassBufferPool": "True",
-    "DFFlagEnableAdsApiClientV2Endpoint2": "True",
     "FFlagEarlyUpdateTotalOSMemory": "True",
     "FFlagPollVoiceState": "True",
-    "FStringFlagRepoGitHashFastString": "14347e186ac5939946e9302eb26a59184839be2b",
-    "DFStringFlagRepoGitHashDynamicString": "14347e186ac5939946e9302eb26a59184839be2b",
-    "FStringFlipTimeStampFastString": "2024-08-22T23:17:35.785Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-22T23:17:35.785Z"
+    "FStringFlagRepoGitHashFastString": "7f9260ff365a90afc0f5cb2372109bd197fce835",
+    "DFStringFlagRepoGitHashDynamicString": "7f9260ff365a90afc0f5cb2372109bd197fce835",
+    "FStringFlipTimeStampFastString": "2024-08-22T23:37:33.296Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-22T23:37:33.296Z"
 }
