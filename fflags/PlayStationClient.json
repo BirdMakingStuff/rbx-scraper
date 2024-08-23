@@ -6535,7 +6535,6 @@
     "FFlagSupportOverrideIconForInstance": "True",
     "DFIntReportFrequencyBucketSizePercent_PlaceFilter": "10000;4924922222;2753915549;142823291;10449761463;8481844229;15532962292;1537690962;9872472334",
     "DFIntSimReportAveWorldstepTimeEventIngestPercent_PlaceFilter": "10000;4924922222;2753915549;142823291;10449761463;8481844229;15532962292;1537690962;9872472334",
-    "DFIntAverageTimeSimulationBreakdownHundredthsPercentage_PlaceFilter": "10000;4924922222;2753915549;142823291;10449761463;8481844229;15532962292;1537690962;9872472334",
     "DFIntHttpReportCLI111800HundredthsPercent": "10000",
     "DFFlagWindowsClipboardLockupFix": "True",
     "DFIntTeleportV2ForTeleportAsyncPartyPerTenThousand2_PlaceFilter": "10000;18444772531;18445293021",
@@ -6785,6 +6784,7 @@
     "FFlagCLI111152": "True",
     "DFFlagCheckTimerValidityOnStop": "True",
     "DFFlagFixExactlyOverlappingObjects": "True",
+    "FFlagCaptureUtilitiesUseUpdatedCreatePost_Rollout": "True;60;2024-08-23T17:24:02",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -6947,8 +6947,9 @@
     "FFlagAXFixShopAndExperiencesById": "True",
     "FIntWideGameTileVerticalGap": "24",
     "FFlagGetFFlagCountryCodeBoldPrefixEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "ff0e4cbfef7bb910aca247991ca25a353a5652c0",
-    "DFStringFlagRepoGitHashDynamicString": "ff0e4cbfef7bb910aca247991ca25a353a5652c0",
-    "FStringFlipTimeStampFastString": "2024-08-23T17:17:56.162Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-23T17:17:56.162Z"
+    "FFlagLuaAppOmniRecStats_Rollout": "True;30;2024-08-23T17:25:48",
+    "FStringFlagRepoGitHashFastString": "7f8a620d76a93066ffeceb917fd933d879040df4",
+    "DFStringFlagRepoGitHashDynamicString": "7f8a620d76a93066ffeceb917fd933d879040df4",
+    "FStringFlipTimeStampFastString": "2024-08-23T17:36:22.011Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-23T17:36:22.011Z"
 }
