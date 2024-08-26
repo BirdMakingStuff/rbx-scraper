@@ -25,7 +25,9 @@ fflagChannels = [
 "iOSAppCJV",
 "PCStudioAppCJV",
 "QuestVRApp",
-"PlayStationClient"
+"PlayStationClient",
+"GoogleAndroidApp",
+"RCCBootstrapper",
 ]
 
 if not os.path.exists(fflagFolderLocation):
