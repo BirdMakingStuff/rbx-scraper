@@ -6788,6 +6788,7 @@
     "DFFlagFixMaxPartsIncorrectType": "True",
     "DFFlagEnableCommerceWebviewDomainTitle2_Rollout": "True;60;2024-08-26T15:59:16",
     "AllowVideoPreRoll": "True",
+    "FFlagCSGDecalOptimizeVB_Rollout": "True;60;2024-08-26T16:32:54",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -7599,8 +7600,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "fdd9cd5dc2dcb1f495eb4e6b636ff4270f688511",
-    "DFStringFlagRepoGitHashDynamicString": "fdd9cd5dc2dcb1f495eb4e6b636ff4270f688511",
-    "FStringFlipTimeStampFastString": "2024-08-26T16:10:14.286Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-26T16:10:14.286Z"
+    "FStringFlagRepoGitHashFastString": "65cf3051581fa4f9a9c125027cddc0ad7b8fd180",
+    "DFStringFlagRepoGitHashDynamicString": "65cf3051581fa4f9a9c125027cddc0ad7b8fd180",
+    "FStringFlipTimeStampFastString": "2024-08-26T16:44:55.197Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-26T16:44:55.197Z"
 }

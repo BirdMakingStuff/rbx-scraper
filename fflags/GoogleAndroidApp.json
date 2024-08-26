@@ -6788,6 +6788,7 @@
     "DFFlagFixMaxPartsIncorrectType": "True",
     "DFFlagEnableCommerceWebviewDomainTitle2_Rollout": "True;60;2024-08-26T15:59:16",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
+    "FFlagCSGDecalOptimizeVB_Rollout": "True;60;2024-08-26T16:32:54",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7263,6 +7264,7 @@
     "EnableAndroidPreWarmOkHttp": "true",
     "FFlagEnableSignupMinimumAge": "True",
     "FFlagEnableAccessBlockAtAppContainerLevel": "True",
+    "FFlagComputeUsedVertexRangeSize3_Rollout": "True;30;2024-08-26T16:23:46",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagLuaAppSocialFeaturePill": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
@@ -7355,8 +7357,8 @@
     "FFlagFixProfilePlatformAndroidBackButton": "True",
     "FFlagProfilePlatformFixTelemetryEvents": "True",
     "FFlagGetFFlagCountryCodeBoldPrefixEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "fdd9cd5dc2dcb1f495eb4e6b636ff4270f688511",
-    "DFStringFlagRepoGitHashDynamicString": "fdd9cd5dc2dcb1f495eb4e6b636ff4270f688511",
-    "FStringFlipTimeStampFastString": "2024-08-26T16:10:14.286Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-26T16:10:14.286Z"
+    "FStringFlagRepoGitHashFastString": "65cf3051581fa4f9a9c125027cddc0ad7b8fd180",
+    "DFStringFlagRepoGitHashDynamicString": "65cf3051581fa4f9a9c125027cddc0ad7b8fd180",
+    "FStringFlipTimeStampFastString": "2024-08-26T16:44:55.197Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-26T16:44:55.197Z"
 }
