@@ -114,14 +114,14 @@
     "FFlagAXNoFaceHeadToastCounter": "True",
     "FFlagProfilePlatformRemainingLogging": "True",
     "FFlagExperienceStateCaptureIsInBackground": "True",
-    "FFlagAXHideSeeAllIfTooFewItems_Rollout": "True;60;2024-08-26T18:55:30",
+    "FFlagAXHideSeeAllIfTooFewItems": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "0463ad5a7523ba2eb356a1b07a9d9a3c7ed59b4e",
-    "DFStringFlagRepoGitHashDynamicString": "0463ad5a7523ba2eb356a1b07a9d9a3c7ed59b4e",
-    "FStringFlipTimeStampFastString": "2024-08-26T20:23:20.497Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-26T20:23:20.497Z"
+    "FStringFlagRepoGitHashFastString": "cfb9425eea70c3840680bb4a1ff235af3d6a9bf9",
+    "DFStringFlagRepoGitHashDynamicString": "cfb9425eea70c3840680bb4a1ff235af3d6a9bf9",
+    "FStringFlipTimeStampFastString": "2024-08-26T20:37:36.264Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-26T20:37:36.264Z"
 }
