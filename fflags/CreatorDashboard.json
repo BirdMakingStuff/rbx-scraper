@@ -11,7 +11,6 @@
     "enableBundlePaginationOffset": "false",
     "enableSafetyControls": "true",
     "enableOrganizationPayouts": "true",
-    "enableDSC": "true",
     "enablePlaceThumbnailAssetsUploadApi": "true",
     "enableDynamicPriceFloorBundle": "true",
     "enableInactiveBadgeCreation": "true",
