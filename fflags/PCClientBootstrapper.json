@@ -127,8 +127,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "cf2f513efdb4b57313cb9675d2c99e17ac4ff100",
-    "DFStringFlagRepoGitHashDynamicString": "cf2f513efdb4b57313cb9675d2c99e17ac4ff100",
-    "FStringFlipTimeStampFastString": "2024-08-26T17:37:31.099Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-26T17:37:31.099Z"
+    "FStringFlagRepoGitHashFastString": "d81cd76068e47f53f1ccf97e7c97920769c14f37",
+    "DFStringFlagRepoGitHashDynamicString": "d81cd76068e47f53f1ccf97e7c97920769c14f37",
+    "FStringFlipTimeStampFastString": "2024-08-26T18:28:22.093Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-26T18:28:22.093Z"
 }
