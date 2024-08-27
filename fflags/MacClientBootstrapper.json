@@ -111,7 +111,6 @@
     "FFlagVngTOSRevisedEnabled": "True",
     "FFlagAXAvatarFetchResultCamelCase": "True",
     "FFlagAXFixShopAndExperiencesById": "True",
-    "FFlagAXNoFaceHeadToastCounter": "True",
     "FFlagProfilePlatformRemainingLogging": "True",
     "FFlagExperienceStateCaptureIsInBackground": "True",
     "FFlagAXHideSeeAllIfTooFewItems": "True",
@@ -131,8 +130,8 @@
     "DeprecatedOSXMajorVersion": "10",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "f202cc0bbe94315c483083b4930896879ec49fb2",
-    "DFStringFlagRepoGitHashDynamicString": "f202cc0bbe94315c483083b4930896879ec49fb2",
-    "FStringFlipTimeStampFastString": "2024-08-27T20:38:39.526Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-27T20:38:39.526Z"
+    "FStringFlagRepoGitHashFastString": "f4bd0c72af8c53000f2b6c400fec10fb6add28f0",
+    "DFStringFlagRepoGitHashDynamicString": "f4bd0c72af8c53000f2b6c400fec10fb6add28f0",
+    "FStringFlipTimeStampFastString": "2024-08-27T21:18:05.043Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-27T21:18:05.043Z"
 }
