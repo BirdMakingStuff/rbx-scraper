@@ -6907,6 +6907,7 @@
     "FFlagDragDetectorDisableDuringContinueCBEndsDrag_Rollout": "True;60;2024-08-27T16:04:00",
     "FFlagScriptProfilerBetterStateManagement_Rollout": "True;60;2024-08-27T16:09:51",
     "FFlagRenderFixBrokenAvatarShadow_Rollout": "True;30;2024-08-27T16:28:06",
+    "FFlagEnumConversionMethods_Rollout": "True;60;2024-08-27T17:00:54",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7381,6 +7382,7 @@
     "FFlagEnableSignupMinimumAge": "True",
     "FFlagEnableAccessBlockAtAppContainerLevel": "True",
     "FFlagComputeUsedVertexRangeSize3": "True",
+    "FFlagUniversalAppCsat4_Rollout": "False;60;2024-08-27T17:15:42",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagLuaAppSocialFeaturePill": "True",
@@ -7468,8 +7470,8 @@
     "FFlagRemovePhoneUpsellWebview": "True",
     "FFlagProfilePlatformFixTelemetryEvents": "True",
     "EnableDeviceNameInPushRegister": "True",
-    "FStringFlagRepoGitHashFastString": "2fed987ba40390e42be85cd48b135fb19993f622",
-    "DFStringFlagRepoGitHashDynamicString": "2fed987ba40390e42be85cd48b135fb19993f622",
-    "FStringFlipTimeStampFastString": "2024-08-27T16:35:30.555Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-27T16:35:30.555Z"
+    "FStringFlagRepoGitHashFastString": "f9e417bb26e74dae0aaf09efa3d0cd471be1406c",
+    "DFStringFlagRepoGitHashDynamicString": "f9e417bb26e74dae0aaf09efa3d0cd471be1406c",
+    "FStringFlipTimeStampFastString": "2024-08-27T17:16:24.721Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-27T17:16:24.721Z"
 }
