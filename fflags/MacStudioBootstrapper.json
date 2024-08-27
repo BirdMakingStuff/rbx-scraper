@@ -119,8 +119,8 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "602e55aa1d13d2bbfa04dbdbb9d1414e2c0b5c94",
-    "DFStringFlagRepoGitHashDynamicString": "602e55aa1d13d2bbfa04dbdbb9d1414e2c0b5c94",
-    "FStringFlipTimeStampFastString": "2024-08-27T22:23:33.733Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-27T22:23:33.733Z"
+    "FStringFlagRepoGitHashFastString": "0e43e29531141836735ba913a695b0219ae0e197",
+    "DFStringFlagRepoGitHashDynamicString": "0e43e29531141836735ba913a695b0219ae0e197",
+    "FStringFlipTimeStampFastString": "2024-08-27T22:42:19.634Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-27T22:42:19.634Z"
 }
