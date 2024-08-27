@@ -6956,6 +6956,7 @@
     "DFFlagMakeRaycastFunctionsReturnOptional_Rollout": "True;60;2024-08-27T23:07:53",
     "FFlagAppChatUseNowForSentMessages": "True",
     "FFlagFixChatBubbleTail": "True",
+    "FFlagVideoTextureYuvUseBuffer_Rollout": "True;60;2024-08-27T23:22:34",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -7244,8 +7245,8 @@
     "FFlagLuaAppOmniRecStats": "True",
     "FIntMediumCollectionItemVerticalGap": "24",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "b0c2ede905bd6cfbb552e71f6cef2fd0148b38cd",
-    "DFStringFlagRepoGitHashDynamicString": "b0c2ede905bd6cfbb552e71f6cef2fd0148b38cd",
-    "FStringFlipTimeStampFastString": "2024-08-27T23:12:15.113Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-27T23:12:15.113Z"
+    "FStringFlagRepoGitHashFastString": "e76f8fee6cf4a2d6cf3c451a80e6e622edd73256",
+    "DFStringFlagRepoGitHashDynamicString": "e76f8fee6cf4a2d6cf3c451a80e6e622edd73256",
+    "FStringFlipTimeStampFastString": "2024-08-27T23:28:19.539Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-27T23:28:19.539Z"
 }
