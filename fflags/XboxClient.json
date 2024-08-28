@@ -6951,7 +6951,6 @@
     "FStringChatLandingPvUpsellSeenAction_Rollout": "no_op;60;2024-08-28T20:05:06",
     "FFlagEnableLuaLoginRevamp3_Rollout": "True;30;2024-08-28T20:15:45",
     "FFlagFCSubsetCheck_Rollout": "True;60;2024-08-28T20:16:46",
-    "FFlagReplaceIHttpClientStdoutWithHttpTraceError_Rollout": "True;60;2024-08-28T20:21:55",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7240,8 +7239,8 @@
     "FFlagLuaAppOmniRecStats": "True",
     "FIntMediumCollectionItemVerticalGap": "24",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "a31e12cb1d1fa642313d90ee6302677a5891b7c3",
-    "DFStringFlagRepoGitHashDynamicString": "a31e12cb1d1fa642313d90ee6302677a5891b7c3",
-    "FStringFlipTimeStampFastString": "2024-08-28T20:22:48.689Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-28T20:22:48.689Z"
+    "FStringFlagRepoGitHashFastString": "493daccb6ed026030133be009163286019b83f79",
+    "DFStringFlagRepoGitHashDynamicString": "493daccb6ed026030133be009163286019b83f79",
+    "FStringFlipTimeStampFastString": "2024-08-28T20:39:13.203Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-28T20:39:13.203Z"
 }
