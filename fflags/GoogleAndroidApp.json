@@ -7419,7 +7419,6 @@
     "DFFlagRestartAppOnOpenGLMemoryLeak": "False",
     "EnableAndroidPreWarmOkHttp": "true",
     "FFlagEnableSignupMinimumAge": "True",
-    "FFlagEnableAccessBlockAtAppContainerLevel": "True",
     "FFlagComputeUsedVertexRangeSize3": "True",
     "FFlagScreenshotsSaveToDeviceToast_v2": "True",
     "FFlagPath2dAntiAliasing": "True",
@@ -7511,8 +7510,8 @@
     "FFlagLuaAppMoveProfileIntoTopBarIXP": "True",
     "FFlagLooksAvatarPDP8": "True",
     "FFlagPushUpsellExposureLogFix": "True",
-    "FStringFlagRepoGitHashFastString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "DFStringFlagRepoGitHashDynamicString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "FStringFlipTimeStampFastString": "2024-08-28T16:00:40.456Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-28T16:00:40.456Z"
+    "FStringFlagRepoGitHashFastString": "1c6179b6bc27614ec6b843d064939721834a573b",
+    "DFStringFlagRepoGitHashDynamicString": "1c6179b6bc27614ec6b843d064939721834a573b",
+    "FStringFlipTimeStampFastString": "2024-08-28T18:44:16.381Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-28T18:44:16.381Z"
 }

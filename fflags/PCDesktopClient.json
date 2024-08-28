@@ -7060,7 +7060,6 @@
     "DFFlagFixMigrateAvatarTelemetryToDurationLogger2": "True",
     "FFlagLuaAppFixCollectionFrameOverlap": "True",
     "FFlagLuaAppOmniRecStats": "True",
-    "FFlagEnableAccessBlockAtAppContainerLevel": "True",
     "FFlagScreenshotsSaveToDeviceToast_v2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
@@ -7369,8 +7368,8 @@
     "FFlagLooksAvatarPDP8": "True",
     "FFlagEnableUniversalFocusNavigation": "True",
     "FFlagPath2dAntiAliasing": "True",
-    "FStringFlagRepoGitHashFastString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "DFStringFlagRepoGitHashDynamicString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "FStringFlipTimeStampFastString": "2024-08-28T16:00:40.456Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-28T16:00:40.456Z"
+    "FStringFlagRepoGitHashFastString": "1c6179b6bc27614ec6b843d064939721834a573b",
+    "DFStringFlagRepoGitHashDynamicString": "1c6179b6bc27614ec6b843d064939721834a573b",
+    "FStringFlipTimeStampFastString": "2024-08-28T18:44:16.381Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-28T18:44:16.381Z"
 }

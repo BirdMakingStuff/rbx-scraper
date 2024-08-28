@@ -7711,7 +7711,6 @@
     "DFFlagFixMigrateAvatarTelemetryToDurationLogger2": "True",
     "FFlagLuaAppFixCollectionFrameOverlap": "True",
     "FFlagLuaAppOmniRecStats": "True",
-    "FFlagEnableAccessBlockAtAppContainerLevel": "True",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -7723,8 +7722,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "DFStringFlagRepoGitHashDynamicString": "3723490a7c59f99384e0ee92cdedd0774672241d",
-    "FStringFlipTimeStampFastString": "2024-08-28T16:00:40.456Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-28T16:00:40.456Z"
+    "FStringFlagRepoGitHashFastString": "1c6179b6bc27614ec6b843d064939721834a573b",
+    "DFStringFlagRepoGitHashDynamicString": "1c6179b6bc27614ec6b843d064939721834a573b",
+    "FStringFlipTimeStampFastString": "2024-08-28T18:44:16.381Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-28T18:44:16.381Z"
 }
