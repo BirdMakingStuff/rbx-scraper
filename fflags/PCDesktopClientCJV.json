@@ -7009,6 +7009,7 @@
     "DFFlagDataModelModeHeader": "True",
     "FFlagExperienceChatSiblingZIndexBehavior_Rollout": "True;60;2024-08-29T22:19:35",
     "DFIntGpuHDRSupportReportThrottleHundredthsPercent_Rollout": "3;60;2024-08-29T22:21:10",
+    "FFlagEnableLeaveGameUpsellEntrypoint_Rollout": "True;60;2024-08-29T22:28:41",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7128,6 +7129,7 @@
     "FFlagSimStepPostSimulationDuringPause": "True",
     "DFFlagEnableHttpCacheV2Stats3_Rollout": "True;60;2024-08-29T22:04:58",
     "DFIntHttpCacheV2CounterHundredthsPercent_Rollout": "10000;60;2024-08-29T22:04:58",
+    "DFFlagFixFloatConversionPlaybackError_Rollout": "True;60;2024-08-29T22:38:20",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7440,8 +7442,8 @@
     "DFFlagUpdateClientChannelA_Rollout": "True;60;2024-08-29T21:53:39",
     "DFFlagDebugUpdateClientChannelA": "True",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "0fa52bcb122152328b1b673e433a61e20fb5fe9f",
-    "DFStringFlagRepoGitHashDynamicString": "0fa52bcb122152328b1b673e433a61e20fb5fe9f",
-    "FStringFlipTimeStampFastString": "2024-08-29T22:22:39.869Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-29T22:22:39.869Z"
+    "FStringFlagRepoGitHashFastString": "aad5a92f21c16ef408fe06494d2b885895d5e2af",
+    "DFStringFlagRepoGitHashDynamicString": "aad5a92f21c16ef408fe06494d2b885895d5e2af",
+    "FStringFlipTimeStampFastString": "2024-08-29T22:38:52.687Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-29T22:38:52.687Z"
 }

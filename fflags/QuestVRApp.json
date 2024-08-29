@@ -7009,6 +7009,7 @@
     "DFFlagDataModelModeHeader": "True",
     "FFlagExperienceChatSiblingZIndexBehavior_Rollout": "True;60;2024-08-29T22:19:35",
     "DFIntGpuHDRSupportReportThrottleHundredthsPercent_Rollout": "3;60;2024-08-29T22:21:10",
+    "FFlagEnableLeaveGameUpsellEntrypoint_Rollout": "True;60;2024-08-29T22:28:41",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7528,8 +7529,8 @@
     "FFlagUIBloxUseNewInteractable2": "False",
     "EnableZstdClientSettingsSharedCompressionDictionary": "false",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "0fa52bcb122152328b1b673e433a61e20fb5fe9f",
-    "DFStringFlagRepoGitHashDynamicString": "0fa52bcb122152328b1b673e433a61e20fb5fe9f",
-    "FStringFlipTimeStampFastString": "2024-08-29T22:22:39.869Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-29T22:22:39.869Z"
+    "FStringFlagRepoGitHashFastString": "aad5a92f21c16ef408fe06494d2b885895d5e2af",
+    "DFStringFlagRepoGitHashDynamicString": "aad5a92f21c16ef408fe06494d2b885895d5e2af",
+    "FStringFlipTimeStampFastString": "2024-08-29T22:38:52.687Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-29T22:38:52.687Z"
 }
