@@ -6994,6 +6994,7 @@
     "FFlagEnableInExpPhoneVoiceUpsellEntrypoints2_Rollout": "True;60;2024-08-29T20:11:44",
     "FFlagSearchActiveTabByName_Rollout": "True;60;2024-08-29T20:12:39",
     "FFlagGpuHDRCompressedTextureSupportTelemetry_Rollout": "True;60;2024-08-29T20:20:32",
+    "FFlagAssetImportSwitchTestRunner_Rollout": "True;60;2024-08-29T20:23:39",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7109,6 +7110,9 @@
     "DFFlagUpdateTeamCreateAutosaveAttemptTelemetry": "True",
     "DFFlagFixVideoLoopViewabilityIssue_Rollout": "True;60;2024-08-29T20:07:12",
     "FFlagSimStepPostSimulationDuringPause_Rollout": "True;60;2024-08-29T20:14:46",
+    "FFlagLuaAppMiscSearchPageFixes": "True",
+    "FFlagLuaAppAutoSearchUuidFix": "True",
+    "FFlagAddSearchResultsOmniFeedExtend3_Rollout": "True;30;2024-08-29T20:31:34",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7417,9 +7421,10 @@
     "FFlagProfilePlatformFixItemTypeLogging": "True",
     "DFFlagFixWinVideoDecoderLeak2": "True",
     "FFlagThirdPartyAdsAddPerformanceMetrics3": "True",
+    "DFFlagEnableAdsApiClientV2Endpoint2_Rollout": "True;30;2024-08-29T20:35:16",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "570cda88d4b94c0e204ff6a9ca4d5bf6dac3d371",
-    "DFStringFlagRepoGitHashDynamicString": "570cda88d4b94c0e204ff6a9ca4d5bf6dac3d371",
-    "FStringFlipTimeStampFastString": "2024-08-29T20:22:31.743Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-29T20:22:31.743Z"
+    "FStringFlagRepoGitHashFastString": "500d3a55482d7410f45d3203749f1f1f678f3549",
+    "DFStringFlagRepoGitHashDynamicString": "500d3a55482d7410f45d3203749f1f1f678f3549",
+    "FStringFlipTimeStampFastString": "2024-08-29T20:36:44.665Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-29T20:36:44.665Z"
 }

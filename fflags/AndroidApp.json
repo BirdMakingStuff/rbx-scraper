@@ -6994,6 +6994,8 @@
     "FFlagEnableInExpPhoneVoiceUpsellEntrypoints2_Rollout": "True;60;2024-08-29T20:11:44",
     "FFlagSearchActiveTabByName_Rollout": "True;60;2024-08-29T20:12:39",
     "FFlagGpuHDRCompressedTextureSupportTelemetry_Rollout": "True;60;2024-08-29T20:20:32",
+    "FFlagAssetImportSwitchTestRunner_Rollout": "True;60;2024-08-29T20:23:39",
+    "FFlagLuaAppOmniRecStats_Rollout": "True;30;2024-08-29T20:29:04",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7470,8 +7472,8 @@
     "FFlagPath2dAntiAliasing": "True",
     "FStringGraphicsVulkanVertexOutputsBufferLimitMiB": "0x13B5:.+:.+=160",
     "EnableAndroidSubsequentDNSPreWarm": "true",
-    "FStringFlagRepoGitHashFastString": "570cda88d4b94c0e204ff6a9ca4d5bf6dac3d371",
-    "DFStringFlagRepoGitHashDynamicString": "570cda88d4b94c0e204ff6a9ca4d5bf6dac3d371",
-    "FStringFlipTimeStampFastString": "2024-08-29T20:22:31.743Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-29T20:22:31.743Z"
+    "FStringFlagRepoGitHashFastString": "500d3a55482d7410f45d3203749f1f1f678f3549",
+    "DFStringFlagRepoGitHashDynamicString": "500d3a55482d7410f45d3203749f1f1f678f3549",
+    "FStringFlipTimeStampFastString": "2024-08-29T20:36:44.665Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-29T20:36:44.665Z"
 }
