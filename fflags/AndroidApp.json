@@ -6994,9 +6994,6 @@
     "FFlagExperienceChatSetZIndex": "True",
     "FFlagEnableInExpPhoneVoiceUpsellEntrypoints2": "True",
     "FFlagSearchActiveTabByName": "True",
-    "FFlagUIBloxUseSeparatedCalcFunction_Rollout": "True;60;2024-08-29T21:49:22",
-    "FFlagUIBloxUseSeparatedCalcFunctionIAP_Rollout": "True;60;2024-08-29T21:49:29",
-    "FFlagAvatarPreviewerAddGeoToSelection_Rollout": "True;60;2024-08-29T21:55:23",
     "FFlagGpuHDRCompressedTextureSupportTelemetry": "True",
     "FFlagAssetImportSwitchTestRunner": "True",
     "FFlagMacClientSupportIME9_Rollout": "True;60;2024-08-29T22:06:40",
@@ -7011,6 +7008,10 @@
     "FFlagProximityPromptFixCrashOnDelete2": "True",
     "FFlagDraggerFinalShortcuts": "True",
     "FFlagAppChatNetworkingTelemetry": "True",
+    "FFlagUIBloxUseSeparatedCalcFunction": "True",
+    "FFlagUIBloxUseSeparatedCalcFunctionIAP": "True",
+    "FFlagAvatarPreviewerAddGeoToSelection": "True",
+    "FFlagLuaAppAddFriendIdToGamePlayIntentEvents_Rollout": "True;30;2024-08-29T23:31:55",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7487,8 +7488,8 @@
     "FFlagPath2dAntiAliasing": "True",
     "FStringGraphicsVulkanVertexOutputsBufferLimitMiB": "0x13B5:.+:.+=160",
     "EnableAndroidSubsequentDNSPreWarm": "true",
-    "FStringFlagRepoGitHashFastString": "15c60bf989ff6a1431fb8d40bee70d676ac43ac1",
-    "DFStringFlagRepoGitHashDynamicString": "15c60bf989ff6a1431fb8d40bee70d676ac43ac1",
-    "FStringFlipTimeStampFastString": "2024-08-29T23:11:03.354Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-29T23:11:03.354Z"
+    "FStringFlagRepoGitHashFastString": "3789f1bb778a6ec017770522dbbd76c28f8552b6",
+    "DFStringFlagRepoGitHashDynamicString": "3789f1bb778a6ec017770522dbbd76c28f8552b6",
+    "FStringFlipTimeStampFastString": "2024-08-29T23:37:48.046Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-29T23:37:48.046Z"
 }
