@@ -6988,8 +6988,12 @@
     "DFFlagEI176_FixDMSwitch": "True",
     "FFlagFFlagPCMAcceptWidthAsProp": "True",
     "FFlagSTUDIOPLAT_35903_CRASHPAD": "True",
-    "FStringNewChatTabExperimentationLayer": "PlayerApp.HomePage.UX",
     "FFlagAnimatorAndADFRefactorInternal_PlaceFilter": "True;15221258110",
+    "FFlagCapsAtomicClass_Rollout": "True;30;2024-08-29T20:03:12",
+    "FFlagExperienceChatSetZIndex_Rollout": "True;60;2024-08-29T20:08:45",
+    "FFlagEnableInExpPhoneVoiceUpsellEntrypoints2_Rollout": "True;60;2024-08-29T20:11:44",
+    "FFlagSearchActiveTabByName_Rollout": "True;60;2024-08-29T20:12:39",
+    "FFlagGpuHDRCompressedTextureSupportTelemetry_Rollout": "True;60;2024-08-29T20:20:32",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7556,8 +7560,8 @@
     "FFlagProfilePlatformFixOrigin": "True",
     "FFlagProfilePlatformFixItemTypeLogging": "True",
     "FFlagLuaAppPYMKCollectionMigrationIXP": "True",
-    "FStringFlagRepoGitHashFastString": "e6faad3d8d1ca905f462b615b81625ba31cef35a",
-    "DFStringFlagRepoGitHashDynamicString": "e6faad3d8d1ca905f462b615b81625ba31cef35a",
-    "FStringFlipTimeStampFastString": "2024-08-29T19:25:50.684Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-29T19:25:50.684Z"
+    "FStringFlagRepoGitHashFastString": "570cda88d4b94c0e204ff6a9ca4d5bf6dac3d371",
+    "DFStringFlagRepoGitHashDynamicString": "570cda88d4b94c0e204ff6a9ca4d5bf6dac3d371",
+    "FStringFlipTimeStampFastString": "2024-08-29T20:22:31.743Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-29T20:22:31.743Z"
 }
