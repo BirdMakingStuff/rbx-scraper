@@ -6989,6 +6989,9 @@
     "FFlagLooksDisableSelfReporting": "True",
     "DFFlagEI176_FixDMSwitch": "True",
     "FFlagFFlagPCMAcceptWidthAsProp": "True",
+    "FFlagGraphicsFixStaleGeometryAfterInstBuff_Rollout": "True;60;2024-08-29T16:05:53",
+    "FFlagSTUDIOPLAT_35903_CRASHPAD_Rollout": "True;30;2024-08-29T16:15:07",
+    "DFFlagEngineTelemetryUInt64FieldTruncationFix_Rollout": "True;30;2024-08-29T16:17:31",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7410,9 +7413,11 @@
     "FFlagProfilePlatformFixItemTypeLogging": "True",
     "DFFlagFixWinVideoDecoderLeak2": "True",
     "FFlagThirdPartyAdsAddPerformanceMetrics3": "True",
+    "FFlagSceneHashMaps2_Rollout": "True;60;2024-08-29T16:01:26",
+    "DFFlagEnableAdsApiClientV2Endpoint2_Rollout": "True;30;2024-08-29T16:26:18",
     "FFlagMaterialGeneratorBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "06e9a8306e112d453eba1d6f46335118b654efc3",
-    "DFStringFlagRepoGitHashDynamicString": "06e9a8306e112d453eba1d6f46335118b654efc3",
-    "FStringFlipTimeStampFastString": "2024-08-29T01:26:37.587Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-29T01:26:37.587Z"
+    "FStringFlagRepoGitHashFastString": "8fc079a080ebc777a329b8d7b193cae4996df20c",
+    "DFStringFlagRepoGitHashDynamicString": "8fc079a080ebc777a329b8d7b193cae4996df20c",
+    "FStringFlipTimeStampFastString": "2024-08-29T16:27:12.294Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-29T16:27:12.294Z"
 }
