@@ -6999,7 +6999,7 @@
     "FFlagAnalyticsGlobalVarRefactorV9": "True",
     "DFFlagDataModelModeHeader": "True",
     "FFlagBreakOutCheckAddStraffing": "True",
-    "FFlagProximityPromptFixCrashOnDelete2": "True",
+    "FFlagProximityPromptFixCrashOnDelete2": "False",
     "FFlagDraggerFinalShortcuts": "True",
     "FFlagAppChatNetworkingTelemetry": "True",
     "FFlagUIBloxUseSeparatedCalcFunction": "True",
@@ -7017,7 +7017,6 @@
     "DFFlagBatchAssetApiAllowUserDefinedCachePolicyAlt": "True",
     "DFFlagCLI109126C": "True",
     "DFFlagCapsReflect": "True",
-    "FFlagInitialModuleCheckMultithread": "True",
     "DFFlagRemoveMemoryCategory": "True",
     "FFlagUWPUpgradeUseCDN": "True",
     "DFFlagRemoveProfTotalFromPerfAggregate": "True",
@@ -7035,6 +7034,7 @@
     "DFFlagCorrectCachePolicySkipRedirectCache": "True",
     "DFIntDynamicTextureManagerReportingHundredthsPercent": "10000",
     "FFlagRealNamesInDisplayNameExperimentRunning_Rollout": "False;60;2024-08-30T22:24:29",
+    "FFlagAXCatalogItemCardIndexingNilFix_Rollout": "True;60;2024-08-30T22:45:35",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7847,8 +7847,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "2681a316640eb703bded763783b6096366fabfee",
-    "DFStringFlagRepoGitHashDynamicString": "2681a316640eb703bded763783b6096366fabfee",
-    "FStringFlipTimeStampFastString": "2024-08-30T22:25:51.162Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-30T22:25:51.162Z"
+    "FStringFlagRepoGitHashFastString": "a81dfcc3b9ee250d84d6379bea998a66d3292db2",
+    "DFStringFlagRepoGitHashDynamicString": "a81dfcc3b9ee250d84d6379bea998a66d3292db2",
+    "FStringFlipTimeStampFastString": "2024-08-30T22:56:38.229Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-30T22:56:38.229Z"
 }
