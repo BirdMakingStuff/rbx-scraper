@@ -7015,8 +7015,6 @@
     "DFFlagReduceQueryAPS": "True",
     "FFlagTrimLongTitleForTOSEnabled": "True",
     "FFlagSceneHashMaps2": "True",
-    "FFlagDevFrameworkFixTreeTableHoverScroll_Rollout": "True;60;2024-08-30T17:12:48",
-    "FFlagLayoutNodeGetSharedInstance_Rollout": "True;60;2024-08-30T17:14:31",
     "FFlagAddMorePhoneUpsellEvents_Rollout": "True;60;2024-08-30T17:43:35",
     "FFlagRenderQueueCheckTechnique_Rollout": "True;60;2024-08-30T17:46:01",
     "DFFlagBatchAssetApiAllowUserDefinedCachePolicyAlt": "True",
@@ -7033,6 +7031,11 @@
     "FFlagStylingRemoveDeadCode_Rollout": "True;60;2024-08-30T18:23:21",
     "FFlagFixColor3ToHexImprecision_Rollout": "True;60;2024-08-30T18:24:31",
     "DFFlagResetMemoryHighwaterOnSessionStart": "True",
+    "DFFlagCorrectCachePolicySkipRedirectCache_Rollout": "True;60;2024-08-30T18:46:31",
+    "FFlagDevFrameworkFixTreeTableHoverScroll": "True",
+    "FFlagLayoutNodeGetSharedInstance": "True",
+    "FFlagEnableParentalControlsDeeplinks": "True",
+    "DFIntDynamicTextureManagerReportingHundredthsPercent_Rollout": "10000;60;2024-08-30T18:53:17",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7509,8 +7512,8 @@
     "FFlagPath2dAntiAliasing": "True",
     "FStringGraphicsVulkanVertexOutputsBufferLimitMiB": "0x13B5:.+:.+=160",
     "EnableAndroidSubsequentDNSPreWarm": "true",
-    "FStringFlagRepoGitHashFastString": "f3128681694702cb104af4136312e3b12aca181c",
-    "DFStringFlagRepoGitHashDynamicString": "f3128681694702cb104af4136312e3b12aca181c",
-    "FStringFlipTimeStampFastString": "2024-08-30T18:41:36.992Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-30T18:41:36.992Z"
+    "FStringFlagRepoGitHashFastString": "fb84dcf86f5fc2e91b53c769c997f7e2d2bdd5fa",
+    "DFStringFlagRepoGitHashDynamicString": "fb84dcf86f5fc2e91b53c769c997f7e2d2bdd5fa",
+    "FStringFlipTimeStampFastString": "2024-08-30T19:02:11.800Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-30T19:02:11.800Z"
 }
