@@ -7756,11 +7756,12 @@
     "FFlagDraggerSafeScaleTo": "True",
     "FFlagDraggerSafeThresholdCast": "True",
     "FFlagGameSettingsSupportMultiplePopups": "True",
-    "FFlagStudioFindReplaceResetPositionOnCloseFix_Rollout": "True;60;2024-08-30T16:04:07",
     "FFlagStudioIgnoreKeyPressEventWhenDisableTitle3_Rollout": "True;60;2024-08-30T16:48:26",
     "FFlagStudioFixNewOpenPlaceCameraSaving_Rollout": "False;60;2024-08-30T16:53:40",
     "FIntRuntimeMaxNumOfConditions_Rollout": "4800;60;2024-08-30T17:03:47",
     "FIntRuntimeMaxNumOfLatches_Rollout": "4800;60;2024-08-30T17:06:15",
+    "FFlagFixTooltipShowDelay_Rollout": "True;60;2024-08-30T17:25:31",
+    "FFlagStudioFindReplaceResetPositionOnCloseFix": "True",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7838,8 +7839,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "7abbc45a12bd72dacc9663d39eb5e4c1b92af0a3",
-    "DFStringFlagRepoGitHashDynamicString": "7abbc45a12bd72dacc9663d39eb5e4c1b92af0a3",
-    "FStringFlipTimeStampFastString": "2024-08-30T17:15:14.466Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-30T17:15:14.466Z"
+    "FStringFlagRepoGitHashFastString": "170eb160f821d1626eb39c1d854b958d209d926d",
+    "DFStringFlagRepoGitHashDynamicString": "170eb160f821d1626eb39c1d854b958d209d926d",
+    "FStringFlipTimeStampFastString": "2024-08-30T17:36:57.489Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-30T17:36:57.489Z"
 }
