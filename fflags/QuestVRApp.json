@@ -2562,7 +2562,7 @@
     "DFFlagVoiceChatTriggerEventOnBlocklistUpdate": "True",
     "DFFlagVideoSeparateHttpCachePerUniverse": "True",
     "DFIntVideoSplitCacheRolloutHundredthsPercent": "10000",
-    "FFlagRealNamesInDisplayNameExperimentRunning": "True",
+    "FFlagRealNamesInDisplayNameExperimentRunning": "False",
     "FFlagToolboxFixInventoryGridSearch": "True",
     "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
     "FFlagEnableShimmeringIcon": "True",
@@ -7033,8 +7033,7 @@
     "FFlagStylingRemoveDeadCode": "True",
     "DFFlagCorrectCachePolicySkipRedirectCache": "True",
     "DFIntDynamicTextureManagerReportingHundredthsPercent": "10000",
-    "FFlagRealNamesInDisplayNameExperimentRunning_Rollout": "False;60;2024-08-30T22:24:29",
-    "FFlagAXCatalogItemCardIndexingNilFix_Rollout": "True;60;2024-08-30T22:45:35",
+    "FFlagAXCatalogItemCardIndexingNilFix": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7554,8 +7553,8 @@
     "FFlagUIBloxUseNewInteractable2": "False",
     "EnableZstdClientSettingsSharedCompressionDictionary": "false",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "a81dfcc3b9ee250d84d6379bea998a66d3292db2",
-    "DFStringFlagRepoGitHashDynamicString": "a81dfcc3b9ee250d84d6379bea998a66d3292db2",
-    "FStringFlipTimeStampFastString": "2024-08-30T22:56:38.229Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-30T22:56:38.229Z"
+    "FStringFlagRepoGitHashFastString": "12d17a21dcebf13774223915d59ba4182fc48bf4",
+    "DFStringFlagRepoGitHashDynamicString": "12d17a21dcebf13774223915d59ba4182fc48bf4",
+    "FStringFlipTimeStampFastString": "2024-08-31T00:22:02.496Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-31T00:22:02.496Z"
 }
