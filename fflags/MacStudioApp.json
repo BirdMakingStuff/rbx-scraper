@@ -7034,6 +7034,7 @@
     "DFFlagCorrectCachePolicySkipRedirectCache": "True",
     "DFIntDynamicTextureManagerReportingHundredthsPercent": "10000",
     "FFlagAXCatalogItemCardIndexingNilFix": "True",
+    "FIntAppChatNetworkingTelemetryThrottlingThousandths_Rollout": "1000;60;2024-09-03T16:00:00",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7769,6 +7770,8 @@
     "FFlagStudioIgnoreKeyPressEventWhenDisableTitle3": "True",
     "FFlagFixTooltipShowDelay": "True",
     "FFlagLuauCodegenArmNumToVecFix": "True",
+    "FFlagAudioPluginFontFixEq_Rollout": "True;60;2024-09-03T16:14:21",
+    "FFlagAudioPluginFontFixAt_Rollout": "True;60;2024-09-03T16:15:21",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -7845,8 +7848,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "12d17a21dcebf13774223915d59ba4182fc48bf4",
-    "DFStringFlagRepoGitHashDynamicString": "12d17a21dcebf13774223915d59ba4182fc48bf4",
-    "FStringFlipTimeStampFastString": "2024-08-31T00:22:02.496Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-31T00:22:02.496Z"
+    "FStringFlagRepoGitHashFastString": "079c5f4fb846ef0470f2bad96ce1a5ec54964921",
+    "DFStringFlagRepoGitHashDynamicString": "079c5f4fb846ef0470f2bad96ce1a5ec54964921",
+    "FStringFlipTimeStampFastString": "2024-09-03T16:16:29.821Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-03T16:16:29.821Z"
 }
