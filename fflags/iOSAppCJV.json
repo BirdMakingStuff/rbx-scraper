@@ -7051,11 +7051,11 @@
     "FFlagAXPurchaseIndexPosition": "True",
     "FFlagLooksAvatarPDP8": "True",
     "FFlagDebuggerFixBreakModeInUnitTest_Rollout": "True;60;2024-09-03T20:11:29",
-    "DFFlagUseConfigurablePropSyncTeamCreate_Rollout": "True;30;2024-09-03T20:32:22",
     "FFlagAppChatResponsiveOverlay": "True",
     "FFlagCrashpadReportVendorDeviceFLevelQLevelMac_Rollout": "True;60;2024-09-03T20:40:20",
     "DFStringDualWritePointToV2WhiteList_Rollout": "app_launch_flow,ImmersiveAdRender;30;2024-09-03T20:48:28",
     "FFlagAvatarPreviewerNewCatalogAccessories5_Rollout": "True;60;2024-09-03T20:57:22",
+    "DFFlagUseConfigurablePropSyncTeamCreate": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7572,6 +7572,7 @@
     "FFlagProfilePlatformFixItemTypeLogging": "True",
     "FFlagRevertUIScaleForMaxSize": "True",
     "FFlagLuaAppPYMKCollectionMigrationIXP": "True",
+    "FFlagAppChatShutdownBeforeLaunch_Rollout": "True;60;2024-09-03T21:24:22",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -7604,8 +7605,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "6c13201baf920445d3eedfbb677775ee48aff967",
-    "DFStringFlagRepoGitHashDynamicString": "6c13201baf920445d3eedfbb677775ee48aff967",
-    "FStringFlipTimeStampFastString": "2024-09-03T21:14:55.824Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-03T21:14:55.824Z"
+    "FStringFlagRepoGitHashFastString": "f9f52ebfb4f07cd0590cf79beb0ab789243c728f",
+    "DFStringFlagRepoGitHashDynamicString": "f9f52ebfb4f07cd0590cf79beb0ab789243c728f",
+    "FStringFlipTimeStampFastString": "2024-09-03T21:36:28.936Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-03T21:36:28.936Z"
 }
