@@ -7039,7 +7039,6 @@
     "FFlagGraphicsFixStaleGeometryAfterInstBuff": "True",
     "FIntAppChatNetworkingTelemetryThrottlingThousandths": "7500",
     "FFlagLuaAppGenreUnderConstructionDesktopFix": "True",
-    "FFlagAXPurchaseIndexPosition_Rollout": "True;30;2024-09-03T18:31:57",
     "FFlagProfilePlatformFixOrigin": "True",
     "DFFlagRecategorizeSelfTerminationCrashes": "True",
     "FFlagSetDbgInfoOpenGL": "True",
@@ -7052,6 +7051,8 @@
     "FFlagSearchOmniAutocompletePageIXP4": "True",
     "FFlagAppChatResponsiveOverlay_Rollout": "True;60;2024-09-03T19:03:39",
     "FFlagAddSearchResultsOmniFeedExtend3": "True",
+    "FFlagAXPurchaseIndexPosition": "True",
+    "FFlagUGCValidateCageOrigin_Rollout": "False;60;2024-09-03T19:37:10",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7568,7 +7569,7 @@
     "FFlagProfilePlatformFixItemTypeLogging": "True",
     "FFlagRevertUIScaleForMaxSize": "True",
     "FFlagLuaAppPYMKCollectionMigrationIXP": "True",
-    "FFlagEnableMaterialGenerator_Rollout": "False;60;2024-09-03T18:02:26",
+    "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
     "DFLogClientRecvFromRaknet": "10",
@@ -7600,8 +7601,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "330f0b2043caf42e1cc0bbf4e6da61c949bec0fc",
-    "DFStringFlagRepoGitHashDynamicString": "330f0b2043caf42e1cc0bbf4e6da61c949bec0fc",
-    "FStringFlipTimeStampFastString": "2024-09-03T19:16:54.444Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-03T19:16:54.444Z"
+    "FStringFlagRepoGitHashFastString": "cc1cc08d3482bba93a94f8dfd268662e909c278e",
+    "DFStringFlagRepoGitHashDynamicString": "cc1cc08d3482bba93a94f8dfd268662e909c278e",
+    "FStringFlipTimeStampFastString": "2024-09-03T19:37:59.306Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-03T19:37:59.306Z"
 }
