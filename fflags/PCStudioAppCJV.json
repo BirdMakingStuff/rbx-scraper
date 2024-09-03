@@ -7772,6 +7772,7 @@
     "FFlagLuauCodegenArmNumToVecFix": "True",
     "FFlagAudioPluginFontFixEq_Rollout": "True;60;2024-09-03T16:14:21",
     "FFlagAudioPluginFontFixAt_Rollout": "True;60;2024-09-03T16:15:21",
+    "DFFlagStoreClassNameInDmClassReflection_Rollout": "True;30;2024-09-03T16:35:54",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7837,6 +7838,7 @@
     "DFFlagEnableHttpCacheV2Stats3": "True",
     "DFIntHttpCacheV2CounterHundredthsPercent": "10000",
     "DFFlagFixFloatConversionPlaybackError": "True",
+    "FFlagLuaAppUseCollectionViewIXP2_Rollout": "False;30;2024-09-03T16:31:44",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -7857,8 +7859,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "079c5f4fb846ef0470f2bad96ce1a5ec54964921",
-    "DFStringFlagRepoGitHashDynamicString": "079c5f4fb846ef0470f2bad96ce1a5ec54964921",
-    "FStringFlipTimeStampFastString": "2024-09-03T16:16:29.821Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-03T16:16:29.821Z"
+    "FStringFlagRepoGitHashFastString": "a229d52581486748df276e9b296713165eb0b085",
+    "DFStringFlagRepoGitHashDynamicString": "a229d52581486748df276e9b296713165eb0b085",
+    "FStringFlipTimeStampFastString": "2024-09-03T16:41:48.449Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-03T16:41:48.449Z"
 }

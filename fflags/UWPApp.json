@@ -7035,6 +7035,7 @@
     "DFIntDynamicTextureManagerReportingHundredthsPercent": "10000",
     "FFlagAXCatalogItemCardIndexingNilFix": "True",
     "FIntAppChatNetworkingTelemetryThrottlingThousandths_Rollout": "1000;60;2024-09-03T16:00:00",
+    "FFlagLuaAppAutoSearchUuidFix_Rollout": "True;30;2024-09-03T16:40:30",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7221,8 +7222,8 @@
     "FFlagAXDisableWidgetPlatformLayerExposure": "True",
     "FFlagAXAvatarFetchResultCamelCase": "True",
     "FFlagAXFixShopAndExperiencesById": "True",
-    "FStringFlagRepoGitHashFastString": "079c5f4fb846ef0470f2bad96ce1a5ec54964921",
-    "DFStringFlagRepoGitHashDynamicString": "079c5f4fb846ef0470f2bad96ce1a5ec54964921",
-    "FStringFlipTimeStampFastString": "2024-09-03T16:16:29.821Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-03T16:16:29.821Z"
+    "FStringFlagRepoGitHashFastString": "a229d52581486748df276e9b296713165eb0b085",
+    "DFStringFlagRepoGitHashDynamicString": "a229d52581486748df276e9b296713165eb0b085",
+    "FStringFlipTimeStampFastString": "2024-09-03T16:41:48.449Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-03T16:41:48.449Z"
 }
