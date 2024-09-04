@@ -7086,6 +7086,7 @@
     "FFlagCapturesCarouselCTABarUIUpdateEnabled_Rollout": "True;60;2024-09-04T20:18:16",
     "DFFlagFixExactlyTouchingSpheres": "True",
     "FFlagNotificationsNoLongerRequireControllerState": "True",
+    "FFlagBlendedSerpUserResults_v4_Rollout": "True;60;2024-09-04T20:36:45",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7821,6 +7822,8 @@
     "FFlagSTUDIO_CRASH_17823": "True",
     "FFlagAudioEqualizerEditorFixes": "True",
     "FFlagSplitCoreAndDevUIMetrics_Rollout": "True;60;2024-09-04T19:49:01",
+    "FFlagStudioDataCollectionExperimentRaceCondition_Rollout": "True;30;2024-09-04T20:35:56",
+    "FFlagEnableLuaStartPage2": "True",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -7889,6 +7892,7 @@
     "FFlagLuaAppPYMKCollectionMigrationByDefault": "True",
     "FFlagAppChatShutdownBeforeLaunch": "True",
     "FFlagEnableAccessBlockAtAppContainerLevel": "True",
+    "FFlagVideoCMCDTruncateUserAgent_Rollout": "True;30;2024-09-04T20:37:05",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -7899,8 +7903,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "c3d41e83964f808e4c51350bf5fe9e10707efbfa",
-    "DFStringFlagRepoGitHashDynamicString": "c3d41e83964f808e4c51350bf5fe9e10707efbfa",
-    "FStringFlipTimeStampFastString": "2024-09-04T20:22:51.008Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-04T20:22:51.008Z"
+    "FStringFlagRepoGitHashFastString": "b537a6a2d7b25f7d53b33330c3161a1c604047bc",
+    "DFStringFlagRepoGitHashDynamicString": "b537a6a2d7b25f7d53b33330c3161a1c604047bc",
+    "FStringFlipTimeStampFastString": "2024-09-04T20:38:54.349Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-04T20:38:54.349Z"
 }
