@@ -7081,8 +7081,6 @@
     "FFlagStudioUriPluginIdFix": "True",
     "FFlagStudioWidgetStateCleanup": "True",
     "FFlagPath2dAntiAliasing": "True",
-    "FFlagRemoveScriptAssetUpload_Rollout": "True;60;2024-09-04T20:04:01",
-    "DFFlagReportUseAssetRequest_Rollout": "True;30;2024-09-04T20:17:13",
     "FFlagCapturesCarouselCTABarUIUpdateEnabled_Rollout": "True;60;2024-09-04T20:18:16",
     "DFFlagFixExactlyTouchingSpheres": "True",
     "FFlagNotificationsNoLongerRequireControllerState": "True",
@@ -7090,6 +7088,10 @@
     "FFlagLuaAppUpdateRobloxTranslatorFallback_Rollout": "True;60;2024-09-04T20:45:14",
     "FFlagLuaAppMigrateUseScreenSizeHook_Rollout": "True;30;2024-09-04T20:48:20",
     "FFlagPermitTemporaryIdsLSS_Rollout": "True;60;2024-09-04T21:16:34",
+    "DFFlagReportUseAssetRequest": "True",
+    "FIntCAPCodeRunnerDMHierarchyMaxBytes_Rollout": "250000;15;2024-09-04T21:24:46",
+    "FFlagAvatarPreviewerPickTabsMenu_Rollout": "True;60;2024-09-04T21:27:32",
+    "FFlagRemoveScriptAssetUpload": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -7251,8 +7253,8 @@
     "DFFlagReportAssetRequestMetrics_Rollout": "True;60;2024-09-04T21:11:55",
     "DFFlagReportAssetRequestV1Telemetry_Rollout": "True;60;2024-09-04T21:11:55",
     "DFFlagReportAssetRequestV2Telemetry_Rollout": "True;60;2024-09-04T21:11:55",
-    "FStringFlagRepoGitHashFastString": "6d9c4a6fc9cf8a42ebe97434187d0aafaae8e0fa",
-    "DFStringFlagRepoGitHashDynamicString": "6d9c4a6fc9cf8a42ebe97434187d0aafaae8e0fa",
-    "FStringFlipTimeStampFastString": "2024-09-04T21:17:43.964Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-04T21:17:43.964Z"
+    "FStringFlagRepoGitHashFastString": "272b061ca444e39c3c84e1e86aa2ff940b56f1ab",
+    "DFStringFlagRepoGitHashDynamicString": "272b061ca444e39c3c84e1e86aa2ff940b56f1ab",
+    "FStringFlipTimeStampFastString": "2024-09-04T21:39:00.491Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-04T21:39:00.491Z"
 }
