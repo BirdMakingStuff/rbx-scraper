@@ -7804,6 +7804,7 @@
     "DFFlagPropertyRejectionCountTelemetry": "True",
     "FFlagStudioReportLuauAny2": "False",
     "FFlagSTUDIO_CRASH_17823_Rollout": "True;30;2024-09-04T16:21:22",
+    "FFlagAudioEqualizerEditorFixes_Rollout": "True;60;2024-09-04T16:36:31",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7881,8 +7882,8 @@
     "FIntEventWillSleepThrottling": "10000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "5dd2d490ff932a1caeb1fda533f923ccb15558a8",
-    "DFStringFlagRepoGitHashDynamicString": "5dd2d490ff932a1caeb1fda533f923ccb15558a8",
-    "FStringFlipTimeStampFastString": "2024-09-04T16:22:02.675Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-04T16:22:02.675Z"
+    "FStringFlagRepoGitHashFastString": "c0437f410023ebf277dec1f2f75a1beaffcc2fca",
+    "DFStringFlagRepoGitHashDynamicString": "c0437f410023ebf277dec1f2f75a1beaffcc2fca",
+    "FStringFlipTimeStampFastString": "2024-09-04T16:37:10.779Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-04T16:37:10.779Z"
 }
