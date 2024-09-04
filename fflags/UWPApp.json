@@ -7058,7 +7058,6 @@
     "FFlagCapturesManagerStorageDecimalFix": "True",
     "FFlagExperienceAffiliateShareLinksEnabled": "True",
     "FFlagDevFrameworkTabsForwardRef2": "True",
-    "FFlagEnableRuntimeThreadVisQueries4": "True",
     "FFlagVisBugChecksThreadYield": "True",
     "FFlagVisBugJitter": "True",
     "FFlagVisBugTelemetry2": "True",
@@ -7257,8 +7256,8 @@
     "FFlagLuaAppExperienceInfoTableGenreIcon": "True",
     "DFFlagEnableHttpCacheV2Stats3": "True",
     "DFIntHttpCacheV2CounterHundredthsPercent": "1000",
-    "FStringFlagRepoGitHashFastString": "e142e3d1be926b55f7b240f61f1733b989cb4389",
-    "DFStringFlagRepoGitHashDynamicString": "e142e3d1be926b55f7b240f61f1733b989cb4389",
-    "FStringFlipTimeStampFastString": "2024-09-04T00:52:29.602Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-04T00:52:29.602Z"
+    "FStringFlagRepoGitHashFastString": "5dd2d490ff932a1caeb1fda533f923ccb15558a8",
+    "DFStringFlagRepoGitHashDynamicString": "5dd2d490ff932a1caeb1fda533f923ccb15558a8",
+    "FStringFlipTimeStampFastString": "2024-09-04T16:22:02.675Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-04T16:22:02.675Z"
 }
