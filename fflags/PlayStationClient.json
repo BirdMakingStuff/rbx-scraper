@@ -7087,6 +7087,9 @@
     "DFFlagFixExactlyTouchingSpheres": "True",
     "FFlagNotificationsNoLongerRequireControllerState": "True",
     "FFlagBlendedSerpUserResults_v4_Rollout": "True;60;2024-09-04T20:36:45",
+    "FFlagLuaAppUpdateRobloxTranslatorFallback_Rollout": "True;60;2024-09-04T20:45:14",
+    "FFlagLuaAppMigrateUseScreenSizeHook_Rollout": "True;30;2024-09-04T20:48:20",
+    "FFlagPermitTemporaryIdsLSS_Rollout": "True;60;2024-09-04T21:16:34",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -7245,8 +7248,11 @@
     "DFFlagEnableHttpCacheV2Stats3": "True",
     "DFIntHttpCacheV2CounterHundredthsPercent": "1000",
     "FFlagEnableRuntimeThreadVisQueries4": "True",
-    "FStringFlagRepoGitHashFastString": "b537a6a2d7b25f7d53b33330c3161a1c604047bc",
-    "DFStringFlagRepoGitHashDynamicString": "b537a6a2d7b25f7d53b33330c3161a1c604047bc",
-    "FStringFlipTimeStampFastString": "2024-09-04T20:38:54.349Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-04T20:38:54.349Z"
+    "DFFlagReportAssetRequestMetrics_Rollout": "True;60;2024-09-04T21:11:55",
+    "DFFlagReportAssetRequestV1Telemetry_Rollout": "True;60;2024-09-04T21:11:55",
+    "DFFlagReportAssetRequestV2Telemetry_Rollout": "True;60;2024-09-04T21:11:55",
+    "FStringFlagRepoGitHashFastString": "6d9c4a6fc9cf8a42ebe97434187d0aafaae8e0fa",
+    "DFStringFlagRepoGitHashDynamicString": "6d9c4a6fc9cf8a42ebe97434187d0aafaae8e0fa",
+    "FStringFlipTimeStampFastString": "2024-09-04T21:17:43.964Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-04T21:17:43.964Z"
 }
