@@ -7067,6 +7067,10 @@
     "FFlagStudioLSMHandlesTCDisconnect": "True",
     "FFlagEnableContentPostDeepLink": "True",
     "FFlagShareLinkEnableContentPostDeepLink": "True",
+    "FFlagLuaRibbonPerformanceImprovement_Rollout": "True;60;2024-09-04T16:55:39",
+    "FFlagRCCMemoryLimitNeverZero_Rollout": "True;60;2024-09-04T16:55:53",
+    "FFlagUpdateFmodResourcesOnServer_Rollout": "True;60;2024-09-04T17:06:24",
+    "FFlagAudioPlayerClicksAndPopsBegone_Rollout": "True;60;2024-09-04T17:08:49",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7593,8 +7597,8 @@
     "FFlagUIBloxUseNewInteractable2": "False",
     "EnableZstdClientSettingsSharedCompressionDictionary": "false",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "c0437f410023ebf277dec1f2f75a1beaffcc2fca",
-    "DFStringFlagRepoGitHashDynamicString": "c0437f410023ebf277dec1f2f75a1beaffcc2fca",
-    "FStringFlipTimeStampFastString": "2024-09-04T16:37:10.779Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-04T16:37:10.779Z"
+    "FStringFlagRepoGitHashFastString": "220d1733c0847bb44f6f969fdf3421d3e80c5547",
+    "DFStringFlagRepoGitHashDynamicString": "220d1733c0847bb44f6f969fdf3421d3e80c5547",
+    "FStringFlipTimeStampFastString": "2024-09-04T17:09:31.771Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-04T17:09:31.771Z"
 }
