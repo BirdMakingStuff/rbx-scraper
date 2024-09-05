@@ -22,5 +22,6 @@
     "enableLimitedPriceFloor": "true",
     "useNewActivityFeedEndpoint": "true",
     "enableEventsUnderExperiences": "true",
-    "enablePriceOptimizationBanner": "false"
+    "enablePriceOptimizationBanner": "false",
+    "enableMeshTextureApisToggle": "false"
 }
