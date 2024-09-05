@@ -7109,7 +7109,6 @@
     "DFFlagParallelLuaCompareVMsIfActorsAreNull": "True",
     "FIntAudioWiringApiBetaFeatureRolloutPercent": "50",
     "FFlagLuaAppFoundationColorsABTest": "True",
-    "DFFlagFixVideoLoopViewabilityIssue_Rollout": "True;60;2024-09-05T19:01:35",
     "DFFlagStoreClassNameInDmClassReflection": "True",
     "FFlagLuauCodegenArmNumToVecFix": "True",
     "FFlagEnableDiskUsageCollection": "True",
@@ -7118,6 +7117,7 @@
     "FFlagMSPhase02RoofShinglesNew": "True",
     "FFlagThirdPartyAdsAddPerformanceMetrics3": "True",
     "FFlagEnableAudioEqualizerEditor2": "True",
+    "DFFlagFixVideoLoopViewabilityIssue": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7310,8 +7310,8 @@
     "DFFlagReportAssetRequestMetrics": "True",
     "DFFlagReportAssetRequestV1Telemetry": "True",
     "DFFlagReportAssetRequestV2Telemetry": "True",
-    "FStringFlagRepoGitHashFastString": "9751417e9275abd0a926c5c49bb6db60a5d3f851",
-    "DFStringFlagRepoGitHashDynamicString": "9751417e9275abd0a926c5c49bb6db60a5d3f851",
-    "FStringFlipTimeStampFastString": "2024-09-05T20:16:28.144Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-05T20:16:28.144Z"
+    "FStringFlagRepoGitHashFastString": "20a3aae264e387240cb2e712801e03dda3af06b9",
+    "DFStringFlagRepoGitHashDynamicString": "20a3aae264e387240cb2e712801e03dda3af06b9",
+    "FStringFlipTimeStampFastString": "2024-09-05T20:38:12.987Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-05T20:38:12.987Z"
 }
