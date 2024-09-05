@@ -478,7 +478,6 @@
     "FFlagLuauNonStrictByDefaultBetaFeature": "True",
     "DFIntInfluxReportingPackageAnalyticsHundrethsPercent": "10000",
     "DFLogHttpTraceLight": "0",
-    "DFLogHttpTraceLight_PlaceFilter": "12;9619907968;4310476380;6847035264;6847034886;4465989351;4646472003;4310463616;6510868181;6510862058;6075083204;6075085184;2978696440;4050468028;5703355191;3885726701;4465989998;3994953548;4646475342;4646475570;6386112652;4465987684;4310464656;3383444582;4310478830;4646473427;5703353651;4465988196;3165900886;2727067538;4310463940",
     "FIntStudioPackagesPublishAnalyticsNumOfTopClassName": "10",
     "FIntMaxGroupIdsPerGroupInfoRequest": "100",
     "FIntMaxPackageAssetIdsPerAssetInfoRequest": "50",
@@ -7094,6 +7093,8 @@
     "FFlagPermitTemporaryIdsLSS": "True",
     "FFlagAvatarPreviewerPickTabsMenu": "True",
     "FFlagFixLuaAchievementsTest": "True",
+    "DFFlagFixWinVideoDecoderLeak2_Rollout": "True;30;2024-09-05T16:08:47",
+    "FFlagLuaAppAddThumbnailListIdToImpressions_Rollout": "True;30;2024-09-05T16:19:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7625,8 +7626,8 @@
     "FFlagUIBloxUseNewInteractable2": "False",
     "EnableZstdClientSettingsSharedCompressionDictionary": "false",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "696b08b8d4ed4fa6918528e8a61a5f06920ab98d",
-    "DFStringFlagRepoGitHashDynamicString": "696b08b8d4ed4fa6918528e8a61a5f06920ab98d",
-    "FStringFlipTimeStampFastString": "2024-09-05T00:41:55.691Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-05T00:41:55.691Z"
+    "FStringFlagRepoGitHashFastString": "ad53000686c8a02886c6680a9f190d2ccf755c85",
+    "DFStringFlagRepoGitHashDynamicString": "ad53000686c8a02886c6680a9f190d2ccf755c85",
+    "FStringFlipTimeStampFastString": "2024-09-05T16:26:41.093Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-05T16:26:41.093Z"
 }
