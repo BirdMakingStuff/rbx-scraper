@@ -7093,8 +7093,8 @@
     "FFlagPermitTemporaryIdsLSS": "True",
     "FFlagAvatarPreviewerPickTabsMenu": "True",
     "FFlagFixLuaAchievementsTest": "True",
-    "AllowVideoPreRoll": "True",
     "FFlagLuaAppAddThumbnailListIdToImpressions_Rollout": "True;30;2024-09-05T16:19:31",
+    "DFFlagRobloxTelemetryFixChannelTag_Rollout": "True;30;2024-09-05T16:30:21",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7220,6 +7220,8 @@
     "DFFlagCatchUpVideoProgress": "True",
     "DFFlagFixFloatConversionPlaybackErrorForImage": "True",
     "FFlagAdsEudsaModalUseAnimationTimeFlag": "True",
+    "DFFlagRobloxTelemetryFixPlaceIdAttachment_Rollout": "True;30;2024-09-05T16:29:51",
+    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -7532,8 +7534,8 @@
     "DFIntSimExplodingTrainHundredthsPercentage_PlaceFilter": "100;18973473972",
     "FFlagEnableRuntimeThreadVisQueries4": "True",
     "FFlagSplitCoreAndDevUIMetrics": "True",
-    "FStringFlagRepoGitHashFastString": "ad53000686c8a02886c6680a9f190d2ccf755c85",
-    "DFStringFlagRepoGitHashDynamicString": "ad53000686c8a02886c6680a9f190d2ccf755c85",
-    "FStringFlipTimeStampFastString": "2024-09-05T16:26:41.093Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-05T16:26:41.093Z"
+    "FStringFlagRepoGitHashFastString": "3926ad20496e7f0814b31c190c1ddda0b37887f9",
+    "DFStringFlagRepoGitHashDynamicString": "3926ad20496e7f0814b31c190c1ddda0b37887f9",
+    "FStringFlipTimeStampFastString": "2024-09-05T16:38:14.800Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-05T16:38:14.800Z"
 }
