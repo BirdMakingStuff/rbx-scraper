@@ -7950,7 +7950,6 @@
     "FFlagAdsEudsaModalUseAnimationTimeFlag": "True",
     "DFFlagRobloxTelemetryFixPlaceIdAttachment": "True",
     "FFlagReportStaticFlagsVersionCounter": "True",
-    "FIntStaticFlagsVersionCounter": "1",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -7971,8 +7970,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "1d36dd3f9ada7e4469dc0404cc38bf4679c78c88",
-    "DFStringFlagRepoGitHashDynamicString": "1d36dd3f9ada7e4469dc0404cc38bf4679c78c88",
-    "FStringFlipTimeStampFastString": "2024-09-06T19:31:55.268Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-06T19:31:55.268Z"
+    "FStringFlagRepoGitHashFastString": "271f3c8cf9afd1ab6ce07fc62ad3337dcefa71eb",
+    "DFStringFlagRepoGitHashDynamicString": "271f3c8cf9afd1ab6ce07fc62ad3337dcefa71eb",
+    "FStringFlipTimeStampFastString": "2024-09-06T21:48:53.973Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-06T21:48:53.973Z"
 }
