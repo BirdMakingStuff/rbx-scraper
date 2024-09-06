@@ -23,5 +23,6 @@
     "useNewActivityFeedEndpoint": "true",
     "enableEventsUnderExperiences": "true",
     "enablePriceOptimizationBanner": "false",
-    "enableMeshTextureApisToggle": "false"
+    "enableMeshTextureApisToggle": "false",
+    "enableShareLinkPromo": "true"
 }
