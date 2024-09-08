@@ -7873,7 +7873,6 @@
     "FFlagFixStudioSpotlightCrashPlaceClose": "True",
     "FFlagFixStudioLocalPlaceSaveFileShortcut": "True",
     "FFlagFixStudioPlaySoloStopButtonNotWorking": "True",
-    "FFlagFixGradientEditorColorSelectionOnMacOS": "True",
     "FFlagStudioEnableInteractionTelemetry3": "True",
     "FFlagToolboxAudioUpdateLandingPage": "True",
     "FFlagGpuGeometryManager10": "True",
@@ -7961,8 +7960,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "faa393762c63223deaeca8b5073a2a067ed8c427",
-    "DFStringFlagRepoGitHashDynamicString": "faa393762c63223deaeca8b5073a2a067ed8c427",
-    "FStringFlipTimeStampFastString": "2024-09-07T03:00:47.565Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-07T03:00:47.565Z"
+    "FStringFlagRepoGitHashFastString": "da75c2b670ec6414e66be7915ff4d48f8f9b01d3",
+    "DFStringFlagRepoGitHashDynamicString": "da75c2b670ec6414e66be7915ff4d48f8f9b01d3",
+    "FStringFlipTimeStampFastString": "2024-09-08T01:39:40.686Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-08T01:39:40.686Z"
 }
