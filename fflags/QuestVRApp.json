@@ -7118,6 +7118,8 @@
     "FFlagEnableAudioEqualizerEditor2": "True",
     "DFFlagFixVideoLoopViewabilityIssue": "True",
     "FFlagToolboxAddAudioTypeFiltering": "True",
+    "DFFlagFixFloatConversionPlaybackError_Rollout": "True;60;2024-09-09T16:03:30",
+    "DFIntSimExplodingTrainHundredthsPercentage_PlaceFilter": "10000;18973473972;6214255393;7027922660;9133022367;5177561496;6927810595;10082031223;4119848102;6458393580;6510504476;13295432657",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7594,7 +7596,7 @@
     "FStringGraphicsVulkanVertexOutputsBufferLimitMiB": "0x13B5:.+:.+=160",
     "EnableAndroidSubsequentDNSPreWarm": "true",
     "FFlagVideoAnalyticsAvoidTempStringConstruction": "True",
-    "DFFlagDebugSimSolverDetectExplodingTrains_PlaceFilter": "True;18973473972",
+    "DFFlagDebugSimSolverDetectExplodingTrains_PlaceFilter": "True;18973473972;6214255393;7027922660;9133022367;5177561496;6927810595;10082031223;4119848102;6458393580;6510504476;13295432657",
     "FFlagAppChatShutdownBeforeLaunch": "True",
     "DFFlagEnableHttpCacheV2Stats3": "True",
     "DFIntHttpCacheV2CounterHundredthsPercent": "1000",
@@ -7647,8 +7649,8 @@
     "FFlagUIBloxUseNewInteractable2": "False",
     "EnableZstdClientSettingsSharedCompressionDictionary": "false",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "da75c2b670ec6414e66be7915ff4d48f8f9b01d3",
-    "DFStringFlagRepoGitHashDynamicString": "da75c2b670ec6414e66be7915ff4d48f8f9b01d3",
-    "FStringFlipTimeStampFastString": "2024-09-08T01:39:40.686Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-08T01:39:40.686Z"
+    "FStringFlagRepoGitHashFastString": "ea8d339302193f52382bef08fec6c305e3f792c8",
+    "DFStringFlagRepoGitHashDynamicString": "ea8d339302193f52382bef08fec6c305e3f792c8",
+    "FStringFlipTimeStampFastString": "2024-09-09T16:25:06.567Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-09T16:25:06.567Z"
 }
