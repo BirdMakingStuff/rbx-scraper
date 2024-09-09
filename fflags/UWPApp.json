@@ -5942,7 +5942,7 @@
     "FFlagSetDbgInfoD3D11Memory": "True",
     "DFFlagEnableModerationShutdown": "True",
     "FFlagDisableVRMenuFix": "True",
-    "FFlagEnableVRAppResumeReset": "True",
+    "FFlagEnableVRAppResumeReset": "False",
     "FLogPlaySoloWaypoint": "Warning,6",
     "FFlagUIEditorFixDisplayOrderAndTransparencySelection": "True",
     "FFlagLuaAppDeprecateGameSortEntry": "True",
@@ -7159,6 +7159,7 @@
     "CaptureCountersIntervalInMinutes": "5",
     "AxisAdornmentGrabSize": "12",
     "AllowVideoPreRoll": "True",
+    "FFlagVerbsToComponentizedDataModelActions2_Rollout": "True;60;2024-09-09T20:34:00",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
     "DFFlagEnableRemoteProfiling": "True",
@@ -7346,9 +7347,9 @@
     "DFFlagReportAssetRequestMetrics": "True",
     "DFFlagReportAssetRequestV1Telemetry": "True",
     "DFFlagReportAssetRequestV2Telemetry": "True",
-    "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent_Rollout": "10000;60;2024-09-09T18:57:34",
-    "FStringFlagRepoGitHashFastString": "d41d7d7a219bb2c5b9ce2189eeab0b9076f25ab9",
-    "DFStringFlagRepoGitHashDynamicString": "d41d7d7a219bb2c5b9ce2189eeab0b9076f25ab9",
-    "FStringFlipTimeStampFastString": "2024-09-09T20:23:52.131Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-09T20:23:52.131Z"
+    "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": "10000",
+    "FStringFlagRepoGitHashFastString": "c1f2ddb7013eec4b3e8df8f8a00aa68e42bebe73",
+    "DFStringFlagRepoGitHashDynamicString": "c1f2ddb7013eec4b3e8df8f8a00aa68e42bebe73",
+    "FStringFlipTimeStampFastString": "2024-09-09T20:38:45.019Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-09T20:38:45.019Z"
 }

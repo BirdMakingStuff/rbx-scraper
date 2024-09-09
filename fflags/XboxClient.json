@@ -7159,6 +7159,7 @@
     "CaptureCountersIntervalInMinutes": "5",
     "AxisAdornmentGrabSize": "12",
     "AllowVideoPreRoll": "True",
+    "FFlagVerbsToComponentizedDataModelActions2_Rollout": "True;60;2024-09-09T20:34:00",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
     "DFFlagEnableRemoteProfiling": "True",
@@ -7442,8 +7443,8 @@
     "DFFlagReportAssetRequestMetrics": "True",
     "DFFlagReportAssetRequestV1Telemetry": "True",
     "DFFlagReportAssetRequestV2Telemetry": "True",
-    "FStringFlagRepoGitHashFastString": "2406232f07af4634c50b8b96a22b389918294061",
-    "DFStringFlagRepoGitHashDynamicString": "2406232f07af4634c50b8b96a22b389918294061",
-    "FStringFlipTimeStampFastString": "2024-09-09T20:24:11.144Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-09T20:24:11.144Z"
+    "FStringFlagRepoGitHashFastString": "c1f2ddb7013eec4b3e8df8f8a00aa68e42bebe73",
+    "DFStringFlagRepoGitHashDynamicString": "c1f2ddb7013eec4b3e8df8f8a00aa68e42bebe73",
+    "FStringFlipTimeStampFastString": "2024-09-09T20:38:45.019Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-09T20:38:45.019Z"
 }

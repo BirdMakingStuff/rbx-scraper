@@ -5942,7 +5942,7 @@
     "FFlagSetDbgInfoD3D11Memory": "True",
     "DFFlagEnableModerationShutdown": "True",
     "FFlagDisableVRMenuFix": "True",
-    "FFlagEnableVRAppResumeReset": "True",
+    "FFlagEnableVRAppResumeReset": "False",
     "FLogPlaySoloWaypoint": "Warning,6",
     "FFlagUIEditorFixDisplayOrderAndTransparencySelection": "True",
     "FFlagLuaAppDeprecateGameSortEntry": "True",
@@ -7159,6 +7159,7 @@
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagGpuGeometryManager10": "True",
+    "FFlagVerbsToComponentizedDataModelActions2_Rollout": "True;60;2024-09-09T20:34:00",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
     "FFlagGpuGeometryManager13": "True",
@@ -7591,8 +7592,8 @@
     "FFlagSplitCoreAndDevUIMetrics": "True",
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
     "FFlagReportIsFriendsWithUsage": "True",
-    "FStringFlagRepoGitHashFastString": "d41d7d7a219bb2c5b9ce2189eeab0b9076f25ab9",
-    "DFStringFlagRepoGitHashDynamicString": "d41d7d7a219bb2c5b9ce2189eeab0b9076f25ab9",
-    "FStringFlipTimeStampFastString": "2024-09-09T20:23:52.131Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-09T20:23:52.131Z"
+    "FStringFlagRepoGitHashFastString": "c1f2ddb7013eec4b3e8df8f8a00aa68e42bebe73",
+    "DFStringFlagRepoGitHashDynamicString": "c1f2ddb7013eec4b3e8df8f8a00aa68e42bebe73",
+    "FStringFlipTimeStampFastString": "2024-09-09T20:38:45.019Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-09T20:38:45.019Z"
 }
