@@ -7172,6 +7172,8 @@
     "FFlagTenFootUiSearchLoadMore2_Rollout": "True;60;2024-09-09T21:10:17",
     "FFlagEnableAffiliateLinksQualifiedSignUpTracking_Rollout": "True;60;2024-09-09T21:12:24",
     "DFFlagAccessCookiesWithUrlEnabled_Rollout": "True;60;2024-09-09T21:14:18",
+    "FFlagUGCValidateCageOrigin_Rollout": "True;60;2024-09-09T21:26:46",
+    "FFlagInferredCrashHandleInf_Rollout": "True;60;2024-09-09T21:34:51",
     "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
     "FFlagGpuGeometryManager13": "True",
     "FFlagBuildInitialCacheFix": "True",
@@ -7303,6 +7305,11 @@
     "FFlagAXUseDynamicIsLooksWidget_Rollout": "True;30;2024-09-09T20:40:49",
     "DFFlagVoiceChatSendPubAbandonedToClient_Rollout": "False;60;2024-09-09T20:49:37",
     "FFlagVoiceSetInitPromiseFirst": "True",
+    "FFlagEnableSearchLandingPageGameCollectionCarousel_Rollout": "True;30;2024-09-09T21:20:40",
+    "FFlagFixSearchLandingPageGameImpressionsInterface_Rollout": "True;30;2024-09-09T21:22:35",
+    "FFlagAXFixAdaptiveScrollingForCarousel_Rollout": "True;60;2024-09-09T21:31:42",
+    "FFlagAXComponentBasedWidgetMargin_Rollout": "True;60;2024-09-09T21:32:42",
+    "FFlagUseStylePropsForScrollButtons_Rollout": "True;60;2024-09-09T21:33:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7614,8 +7621,8 @@
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
     "FFlagReportIsFriendsWithUsage": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "e15c1c11ca7d6369ebb3b62308f80d0701d4e697",
-    "DFStringFlagRepoGitHashDynamicString": "e15c1c11ca7d6369ebb3b62308f80d0701d4e697",
-    "FStringFlipTimeStampFastString": "2024-09-09T21:15:16.562Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-09T21:15:16.562Z"
+    "FStringFlagRepoGitHashFastString": "a4129625c8a0c8d1c2d2aed87dc4ce5dcef1ae33",
+    "DFStringFlagRepoGitHashDynamicString": "a4129625c8a0c8d1c2d2aed87dc4ce5dcef1ae33",
+    "FStringFlipTimeStampFastString": "2024-09-09T21:35:37.697Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-09T21:35:37.697Z"
 }
