@@ -7166,7 +7166,6 @@
     "DFFlagReportAssetRequestMetrics": "True",
     "DFFlagReportAssetRequestV1Telemetry": "True",
     "DFFlagReportAssetRequestV2Telemetry": "True",
-    "FFlagStudioRibbonXMLViewOnly_Rollout": "True;60;2024-09-09T22:02:39",
     "FFlagVerbsToComponentizedDataModelActions2": "True",
     "FFlagTenFootUIPlayerSearchBackground_Rollout": "True;60;2024-09-09T22:11:37",
     "FFlagVoiceChatSubscriptionsDroppedTelemetry_Rollout": "True;60;2024-09-09T22:14:23",
@@ -7178,6 +7177,8 @@
     "FFlagInferredCrashHandleInf": "True",
     "FFlagMicroprofilerSetAssetReaderApp": "True",
     "FFlagInsertObjectComponentization3": "True",
+    "FFlagEnableTenFootReport_Rollout": "True;60;2024-09-09T23:33:27",
+    "FFlagStudioRibbonXMLViewOnly": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7698,8 +7699,8 @@
     "FFlagUIBloxUseNewInteractable2": "False",
     "EnableZstdClientSettingsSharedCompressionDictionary": "false",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "f628f5d8d83ffbfeaafda1d5c958bc95fafe06d8",
-    "DFStringFlagRepoGitHashDynamicString": "f628f5d8d83ffbfeaafda1d5c958bc95fafe06d8",
-    "FStringFlipTimeStampFastString": "2024-09-09T23:22:26.224Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-09T23:22:26.224Z"
+    "FStringFlagRepoGitHashFastString": "48cb6db13fe5409d6160be8af4bdf94457a7b092",
+    "DFStringFlagRepoGitHashDynamicString": "48cb6db13fe5409d6160be8af4bdf94457a7b092",
+    "FStringFlipTimeStampFastString": "2024-09-09T23:36:41.516Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-09T23:36:41.516Z"
 }

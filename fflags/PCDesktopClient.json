@@ -7166,7 +7166,6 @@
     "DFFlagReportAssetRequestMetrics": "True",
     "DFFlagReportAssetRequestV1Telemetry": "True",
     "DFFlagReportAssetRequestV2Telemetry": "True",
-    "FFlagStudioRibbonXMLViewOnly_Rollout": "True;60;2024-09-09T22:02:39",
     "FFlagVerbsToComponentizedDataModelActions2": "True",
     "FFlagTenFootUIPlayerSearchBackground_Rollout": "True;60;2024-09-09T22:11:37",
     "FFlagVoiceChatSubscriptionsDroppedTelemetry_Rollout": "True;60;2024-09-09T22:14:23",
@@ -7178,6 +7177,8 @@
     "FFlagInferredCrashHandleInf": "True",
     "FFlagMicroprofilerSetAssetReaderApp": "True",
     "FFlagInsertObjectComponentization3": "True",
+    "FFlagEnableTenFootReport_Rollout": "True;60;2024-09-09T23:33:27",
+    "FFlagStudioRibbonXMLViewOnly": "True",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7625,8 +7626,8 @@
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
     "FFlagReportIsFriendsWithUsage": "True",
     "DFFlagMicroprofilerDiff": "True",
-    "FStringFlagRepoGitHashFastString": "106b00f0c2ac706bd9e9013a01ca3af6d1fb0d59",
-    "DFStringFlagRepoGitHashDynamicString": "106b00f0c2ac706bd9e9013a01ca3af6d1fb0d59",
-    "FStringFlipTimeStampFastString": "2024-09-09T23:12:44.479Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-09T23:12:44.479Z"
+    "FStringFlagRepoGitHashFastString": "48cb6db13fe5409d6160be8af4bdf94457a7b092",
+    "DFStringFlagRepoGitHashDynamicString": "48cb6db13fe5409d6160be8af4bdf94457a7b092",
+    "FStringFlipTimeStampFastString": "2024-09-09T23:36:41.516Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-09T23:36:41.516Z"
 }
