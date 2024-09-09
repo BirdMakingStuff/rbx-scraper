@@ -24,5 +24,6 @@
     "enableEventsUnderExperiences": "true",
     "enablePriceOptimizationBanner": "false",
     "enableMeshTextureApisToggle": "false",
-    "enableShareLinkPromo": "true"
+    "enableShareLinkPromo": "true",
+    "enableShareLinkManagment": "true"
 }
