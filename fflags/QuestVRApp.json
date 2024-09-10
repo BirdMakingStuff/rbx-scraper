@@ -7181,7 +7181,6 @@
     "DFFlagAssetRequestReportToCacheCountersV2": "True",
     "FStringStudioPlayModeAllowedBuiltins_Rollout": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm;60;2024-09-10T17:28:02",
     "FFlagFixArrayIterWarning_Rollout": "True;60;2024-09-10T17:35:00",
-    "FFlagEnableBirthdateDropDownMinimumAgeSelector_Rollout": "True;30;2024-09-10T17:35:14",
     "DFStringMeshLODTranscodeMajorVersion_Rollout": "0.1.2;60;2024-09-10T17:37:06",
     "DFStringMeshLODTranscodeDefaultFormat_Rollout": "fmd;45;2024-09-10T17:42:25",
     "FFlagAddRomarkAnalyticsForPathfinding_Rollout": "True;60;2024-09-10T17:44:01",
@@ -7194,6 +7193,7 @@
     "FFlagSimulationPauseAndStepBetaFeature_Rollout": "False;60;2024-09-10T18:23:03",
     "FFlagEnableSimulationStep_Rollout": "True;60;2024-09-10T18:23:03",
     "FFlagSmoothClusterMeshTaskCountCleanUp": "True",
+    "FFlagEnableBirthdateDropDownMinimumAgeSelector": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7714,8 +7714,8 @@
     "FFlagUIBloxUseNewInteractable2": "False",
     "EnableZstdClientSettingsSharedCompressionDictionary": "false",
     "FIntSmallCollectionItemMinItemCount": "8",
-    "FStringFlagRepoGitHashFastString": "ef71255a3cc5f91fad4f4cae450a1322acdeeffa",
-    "DFStringFlagRepoGitHashDynamicString": "ef71255a3cc5f91fad4f4cae450a1322acdeeffa",
-    "FStringFlipTimeStampFastString": "2024-09-10T18:28:35.028Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-10T18:28:35.028Z"
+    "FStringFlagRepoGitHashFastString": "cd92164f6ee308b5859368f2578ad70a0da11f67",
+    "DFStringFlagRepoGitHashDynamicString": "cd92164f6ee308b5859368f2578ad70a0da11f67",
+    "FStringFlipTimeStampFastString": "2024-09-10T18:42:00.894Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-10T18:42:00.894Z"
 }
