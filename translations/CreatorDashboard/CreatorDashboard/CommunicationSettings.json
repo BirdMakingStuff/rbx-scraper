@@ -1,0 +1,16 @@
+﻿{
+    "Heading.StrongLanguage": "Strong Language",
+    "Error.Unknown": "Something went wrong. Please try again.",
+    "Heading.CommunicationSettings": "Communication Settings",
+    "Message.ConfigureExperienceSuccess": "Successfully updated communication settings!",
+    "Message.ConfigureExperienceFailAgeGuidelinesNotMet": "Profanity is only allowed to be enabled for 17+ universes.",
+    "Action.Save": "Save Changes",
+    "Action.Cancel": "Cancel",
+    "Tooltip.StrongLanguage": "Strong language includes vulgar and obscene language that is not used to harass, discriminate, incite violence, or threaten others, or used in a sexual context. All content on Roblox must follow our Community Standards.",
+    "Label.StrongLanguageDescription": "Choose whether to allow strong language between users in text chat. This setting is only available for 17+ experiences.",
+    "Label.StrongLanguageToggleHintEnabled": "Turning off this setting will filter most profanity from text chat. ",
+    "Label.StrongLanguageToggleHintDisabled": "Turning on this setting will allow some profanity in text chat. ",
+    "Toggle.AllowStrongLanguage": "Allow Strong Language",
+    "Label.LearnMore": "Learn more",
+    "Label.Under17GameNotAllowedToEnableStrongLanguage": "This setting is only available for 17+ experiences."
+}

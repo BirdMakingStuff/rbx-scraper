@@ -1,0 +1,20 @@
+﻿{
+    "Title.AutomaticTextCapture": "Automatic Text Capture",
+    "Description.AutomaticTextCapture": "Capture text from experience UI while users play",
+    "Title.UseTranslatedContent": "Use Translated Content",
+    "Description.UseTranslatedContent": "Enable translated content in experience",
+    "Button.Clear": "Clear",
+    "Title.ClearUntranslatedAutoCapture": "Clear unmodified auto-captured entries",
+    "Description.ClearUntranslatedAutoCapture": "This will clear all unmodified entries that have been automatically captured. If you have you edited an entry or its translation in any way, that entry will not be cleared.",
+    "Description.TwentyFourHours": "24 Hours",
+    "Description.ThreeDays": "3 Days",
+    "Description.SevenDays": "7 Days",
+    "Description.ThirtyDays": "30 Days",
+    "All": "All",
+    "Toast.ToggleSuccess": "Changes saved successfully.",
+    "Toast.ButtonSuccess": "Confirmed. Please note that this process may take several minutes.",
+    "Toast.GenericError": "Something went wrong!",
+    "Description.AutomaticEntriesSettings": "Allow Roblox to add strings that were previously missed and remove stale entries from your localization table on a daily basis. Entries with manually edited translations will not be impacted. This setting can only be turned on if Automatic Text Capture is enabled.",
+    "Description.TextCaptureAddition": "Capture strings from game UI while users play. It may take up to a few days for strings to be added to your localization table. To add text immediately, use the {startLink} Studio text capture tool {endLink}.",
+    "Description.TextCaptureDeletions": "Allow Roblox to remove stale entries from your localization table. Entries with manually edited translations will not be impacted."
+}

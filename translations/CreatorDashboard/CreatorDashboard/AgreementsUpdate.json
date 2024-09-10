@@ -1,0 +1,18 @@
+﻿{
+    "Heading.AgreementsUpdate": "Updated Agreements",
+    "Description.AgreementsUpdate": "To continue, please agree to our updated Terms of Service. Changes have been made to the following documents:",
+    "Label.TermOfService": "Term of Use",
+    "Label.PrivacyPolicy": "Privacy Policy",
+    "Button.Accept": "Agree",
+    "Button.Reject": "Reject",
+    "Label.ChildrenPrivacyPolicy": "Children Privacy Policy",
+    "Label.ConsentFlow": "Consent Flow",
+    "Label.LuobuThirdPartyDataUse": "Luobu Third Party Data Use",
+    "Label.PersonalInformationPolicy": "Personal Information Policy",
+    "Label.RefundTerms": "Refund Terms",
+    "Label.RiderTerms": "Rider Terms",
+    "Label.TermsOfService": "Terms Of Service",
+    "Label.LegalAgreements": "Legal Agreements",
+    "Description.EnterElectronicSignature": "Enter your full legal name as your electronic signature",
+    "Description.ReviewStatementsToSubmit": "Review the below statements carefully. All statements must be true to submit."
+}
