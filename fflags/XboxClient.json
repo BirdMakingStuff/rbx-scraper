@@ -7191,7 +7191,6 @@
     "FFlagAXEnableAvatarDataRefreshV4": "True",
     "FFlagAddLabelNamesForConnectionIndicatorDialogUnitTests": "True",
     "DFFlagNetworkUseZstdWrapper": "True",
-    "FFlagUnfilteredThreadsRespectSource_Rollout": "True;60;2024-09-10T19:53:31",
     "DFFlagRemoveLegacyCompressErrorLog": "True",
     "FFlagEnableSimulationStep": "True",
     "FFlagSimulationPauseAndStepBetaFeature": "False",
@@ -7215,6 +7214,8 @@
     "FFlagSTUDIOPLAT_35843_EndActiveSessionOnANR": "True",
     "DFIntClientPropSyncExpiryTeamCreateTimeSec_Rollout": "6;60;2024-09-10T21:13:11",
     "FFlagSimCSG4ImprovedCSGMeshMemory_Rollout": "True;60;2024-09-10T21:16:32",
+    "FFlagUnfilteredThreadsRespectSource": "True",
+    "FFlagPublishRootInstance_Rollout": "True;60;2024-09-10T21:31:34",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7496,8 +7497,8 @@
     "FIntMediumCollectionItemVerticalGap": "24",
     "FIntSmallCollectionItemMinItemCount": "8",
     "FFlagEnableRuntimeThreadVisQueries4": "True",
-    "FStringFlagRepoGitHashFastString": "fc24c0c3edb1fcea17154655d0ccc9f18afcffcc",
-    "DFStringFlagRepoGitHashDynamicString": "fc24c0c3edb1fcea17154655d0ccc9f18afcffcc",
-    "FStringFlipTimeStampFastString": "2024-09-10T21:17:51.997Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-10T21:17:51.997Z"
+    "FStringFlagRepoGitHashFastString": "fe4c07f1dbdb6246d268ab20ddde113d581adcfe",
+    "DFStringFlagRepoGitHashDynamicString": "fe4c07f1dbdb6246d268ab20ddde113d581adcfe",
+    "FStringFlipTimeStampFastString": "2024-09-10T21:33:07.213Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-10T21:33:07.213Z"
 }
