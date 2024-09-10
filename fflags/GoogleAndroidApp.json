@@ -7179,6 +7179,7 @@
     "FFlagTenFootUIPlayerSearchBackground": "True",
     "FFlagVoiceChatSubscriptionsDroppedTelemetry": "True",
     "FFlagEnableTenFootReport": "True",
+    "DFFlagAssetRequestReportToCacheCountersV2_Rollout": "True;30;2024-09-10T16:00:50",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7757,8 +7758,10 @@
     "FFlagAXComponentBasedWidgetMargin": "True",
     "FFlagAXFixAdaptiveScrollingForCarousel": "True",
     "FFlagUseStylePropsForScrollButtons": "True",
-    "FStringFlagRepoGitHashFastString": "cd869a824e477d0b3ebc7fa69dcd91ac55706547",
-    "DFStringFlagRepoGitHashDynamicString": "cd869a824e477d0b3ebc7fa69dcd91ac55706547",
-    "FStringFlipTimeStampFastString": "2024-09-10T00:07:22.355Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-10T00:07:22.355Z"
+    "FFlagUAppBlockPageDisableLogOutFromGUAC_Rollout": "True;60;2024-09-10T16:04:53",
+    "FFlagUAppBlockPageResponsiveLayout_Rollout": "True;60;2024-09-10T16:05:38",
+    "FStringFlagRepoGitHashFastString": "989c01687d5cd91ac4465724de497169f984d2e0",
+    "DFStringFlagRepoGitHashDynamicString": "989c01687d5cd91ac4465724de497169f984d2e0",
+    "FStringFlipTimeStampFastString": "2024-09-10T16:16:41.461Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-10T16:16:41.461Z"
 }
