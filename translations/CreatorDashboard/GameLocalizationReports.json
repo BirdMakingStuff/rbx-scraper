@@ -1,9 +1,0 @@
-﻿{
-    "Title.DownloadReport": "Download translation contribution reports",
-    "Action.Download": "Download",
-    "Message.DownloadReportError": "There was a problem with your request. Please try again later.",
-    "Label.SelectDate": "Select Date Range",
-    "Heading.ContributionReports": "Contribution Reports",
-    "Label.Translator": "Translator",
-    "Message.TranslatorNameError": "Unable to get translator name"
-}

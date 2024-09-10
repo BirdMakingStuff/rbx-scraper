@@ -1,9 +1,0 @@
-﻿{
-    "Label.OptionShowAll": "Show All",
-    "Label.OptionPasses": "Passes",
-    "Label.OptionBadges": "Badges",
-    "Label.OptionDeveloperProducts": "Developer Products",
-    "Message.FailedToFetchIconData": "Failed to fetch icon data",
-    "Message.FailedToFetchProduct": "Failed to fetch some of the product data",
-    "Message.NoProductsFound": "No products found for this experience"
-}
