@@ -7222,6 +7222,8 @@
     "DFFlagParallelLuaCachedThreadMap": "True",
     "FFlagVoiceChatEnableMicSessionTracking": "True",
     "FFlagReleaseFmodSoundLoadersOnFailure": "True",
+    "FFlagEDPDescriptionFocusHideControllerBar10ft_Rollout": "True;60;2024-09-11T16:16:05",
+    "FFlagSceneHashMapsHandleRecursiveUpdate": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7998,6 +8000,7 @@
     "FFlagDevFrameworkStyledDialogCancelAccept": "True",
     "DFFlagVoiceChatCullingSendMessagesOnWorkerThread": "True",
     "FFlagResetSortingOnCategoryChange": "True",
+    "DFFlagDataStoreEnableV2BudgetReporting_Rollout": "True;30;2024-09-11T16:28:31",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -8091,8 +8094,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "d92bdf26ccdfebc2113df7b739e4b22f656ad415",
-    "DFStringFlagRepoGitHashDynamicString": "d92bdf26ccdfebc2113df7b739e4b22f656ad415",
-    "FStringFlipTimeStampFastString": "2024-09-11T01:40:35.116Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-11T01:40:35.116Z"
+    "FStringFlagRepoGitHashFastString": "27f91d4363d66b22b91c07a42ff6f82c4dfd104f",
+    "DFStringFlagRepoGitHashDynamicString": "27f91d4363d66b22b91c07a42ff6f82c4dfd104f",
+    "FStringFlipTimeStampFastString": "2024-09-11T16:29:25.918Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-11T16:29:25.918Z"
 }

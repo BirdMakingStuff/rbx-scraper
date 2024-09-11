@@ -7222,6 +7222,8 @@
     "DFFlagParallelLuaCachedThreadMap": "True",
     "FFlagVoiceChatEnableMicSessionTracking": "True",
     "FFlagReleaseFmodSoundLoadersOnFailure": "True",
+    "FFlagEDPDescriptionFocusHideControllerBar10ft_Rollout": "True;60;2024-09-11T16:16:05",
+    "FFlagSceneHashMapsHandleRecursiveUpdate": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -7376,8 +7378,8 @@
     "FIntMediumCollectionItemVerticalGap": "24",
     "FIntSmallCollectionItemMinItemCount": "8",
     "FFlagEnableRuntimeThreadVisQueries4": "True",
-    "FStringFlagRepoGitHashFastString": "d92bdf26ccdfebc2113df7b739e4b22f656ad415",
-    "DFStringFlagRepoGitHashDynamicString": "d92bdf26ccdfebc2113df7b739e4b22f656ad415",
-    "FStringFlipTimeStampFastString": "2024-09-11T01:40:35.116Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-11T01:40:35.116Z"
+    "FStringFlagRepoGitHashFastString": "27f91d4363d66b22b91c07a42ff6f82c4dfd104f",
+    "DFStringFlagRepoGitHashDynamicString": "27f91d4363d66b22b91c07a42ff6f82c4dfd104f",
+    "FStringFlipTimeStampFastString": "2024-09-11T16:29:25.918Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-11T16:29:25.918Z"
 }
