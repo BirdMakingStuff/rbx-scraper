@@ -1,0 +1,20 @@
+﻿{
+    "Title.Preferences": "Preferences",
+    "Label.Dark": "Dark Mode",
+    "Label.Light": "Light Mode",
+    "Label.SyncWWW": "Sync with roblox.com",
+    "Label.SyncDevice": "Sync with Device",
+    "Heading.Preferences": "Preferences",
+    "Heading.Appearance": "Appearance",
+    "Description.SyncWWW": "Automatically sync appearance with your www.roblox.com settings.",
+    "Description.SyncDevice": "Automatically sync appearance with your device settings.",
+    "Heading.Language": "Language",
+    "Description.SetPreferenceFailed": "Can’t save changes. Check your internet connection, or try again later.",
+    "Description.SetPreferenceSuccessful": "Successfully changed appearance",
+    "Title.DocumentationLanguage": "Documentation Language",
+    "Description.DocumentationLanguage": "Translated documentation is in beta. Some content is not localized. Content displays in English if no translations exist.",
+    "Label.DocumentationLanguage": "Documentation language",
+    "Label.SyncWithRoblox": "Sync with roblox.com",
+    "Description.BetaMachineTranslationsWithoutLink": "This content is translated using AI (Beta) and may contain errors.",
+    "Description.BetaMachineTranslations": "This content is translated using AI (Beta) and may contain errors. To view this page in English, click {useEnglishLinkStart}here{useEnglishLinkEnd}."
+}

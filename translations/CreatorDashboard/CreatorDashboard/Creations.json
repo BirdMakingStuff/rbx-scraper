@@ -473,5 +473,6 @@
     "Label.ItemTypePrice": "{itemType} price",
     "Action.EESaveEvent": "Save Event",
     "Label.CannotBeSold": "Cannot Be Sold",
-    "Label.AvatarCreationsCreatorName": "By {linkStart} {creatorName} {linkEnd}"
+    "Label.AvatarCreationsCreatorName": "By {linkStart} {creatorName} {linkEnd}",
+    "Action.Analytics": "Analytics"
 }

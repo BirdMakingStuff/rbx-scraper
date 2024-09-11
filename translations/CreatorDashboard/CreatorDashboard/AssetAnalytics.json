@@ -1,0 +1,9 @@
+﻿{
+    "Heading.Analytics": "Analytics",
+    "Message.LoadAssetError": "Unable to load asset analytics.",
+    "Heading.HistoricalData": "Historical Data",
+    "Heading.Sales": "Hourly Sales Over Time",
+    "Description.SalesTooltip": "This chart shows the how many units of this item has been sold each hour in the last 24 hours",
+    "Title.Sales": "Units Sold",
+    "Label.Total": "Units Sold"
+}

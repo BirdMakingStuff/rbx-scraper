@@ -1,0 +1,12 @@
+﻿{
+    "Action.WeChatLogin": "WeChat Login",
+    "Action.QQLogin": "QQ Login",
+    "Description.LuobuUserAgreement": "I have read and agree to Luobulesi Games' {termsLinkStart}Terms of Service{termsLinkEnd} and {privacyLinkStart}Privacy Policy{privacyLinkEnd}.",
+    "Response.AgreeToTermsOfUse": "You need to agree to the Terms of Use to continue.",
+    "Response.SignUpLuobuAccount": "Please sign up for a {linkStart}Luobu account{linkEnd} to log into the Creator Dashboard.",
+    "Heading.NoAccountFound": "No Account Found",
+    "Description.NoAccountFound": "Sorry, it looks like you don't have a Luobu account. Please try again or sign up for a Luobu account.",
+    "Action.TryAgain": "Try Again",
+    "Description.SignUpLuobuAccount": "Don't have a Luobu account? {linkStart}Sign up{linkEnd}",
+    "Action.LoginHelper": "Need help signing in?"
+}

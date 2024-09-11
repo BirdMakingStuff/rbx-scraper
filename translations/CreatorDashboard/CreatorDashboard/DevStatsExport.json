@@ -1,0 +1,21 @@
+﻿{
+    "Heading.MonthlyRevenueData": "Download Monthly Revenue Data",
+    "Description.RevenueData": "Generate and download .CSV files of your experiences's sales data. Each file contains a month's worth of data broken down by the item sold and the place it was sold in. Includes data on sales of passes, developer products, gear, and more! You can open the .CSV file in your favorite charting program and make some awesome graphs of how your developer product sales have improved over the last 6 months. See the wiki for more information on how to use .CSV files. Get started by selecting a month below: ",
+    "Heading.MonthlyGameStatsData": "Download Monthly Game Stats Data",
+    "Description.GameStatsData": "Generate and download Excel spreadsheets files of your experiences's popularity data. Each file contains a month's worth of data, including data on rankings, downloads in different areas, and evolution of your experiences's popularity! Includes graphs of progress and can be opened by Excel or Google Sheets. Get started by selecting a month below: ",
+    "Label.DownloadCSV": "Download CSV",
+    "Label.DownloadXLSX": "Download XLSX",
+    "Label.Generating": "Generating...",
+    "Label.SelectMonth": "Select Month",
+    "Description.GeneratingXLSX": "Generating XLSXs can take a long time. Your request has been queued and will continue in the background. Check back later to download the XLSX.",
+    "Description.GeneratingCSV": "Generating CSVs can take a long time. Your request has been queued and will continue in the background. Check back later to download the CSV.",
+    "Heading.Export": "Export",
+    "Description.DownloadCSVError1": "The universe does not exist",
+    "Description.DownloadCSVError10": "Report name is invalid",
+    "Description.DownloadCSVError11": "No report found by this name",
+    "Description.DownloadCSVError13": "Your experience may not have any transactions during this time period",
+    "Description.DownloadXLSXError1": "The universe does not exist",
+    "Description.DownloadXLSXError10": "Report name is invalid",
+    "Description.DisabledFeature": "The feature is disabled",
+    "Description.NoReportFound": "No report found by this name"
+}

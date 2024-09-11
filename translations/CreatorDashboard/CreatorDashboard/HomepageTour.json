@@ -1,0 +1,15 @@
+﻿{
+    "Title.HomepageTourBackground": "Welcome to Creator Hub",
+    "Description.HomepageTourBackground": "Creator Hub is where you can build anything you can imagine on Roblox",
+    "Title.DocumentationStep": "Learn how to create",
+    "Description.DocumentationStep": "Get started building on Roblox with step-by-step tutorials and in-depth resources.",
+    "Title.StoreStep": "Browse community creations",
+    "Description.StoreStep": "Kickstart your projects by using models and other creations from creators just like you.",
+    "Title.DashboardStep": "Manage your content",
+    "Action.Next": "Next",
+    "Action.Back": "Back",
+    "Action.Done": "Done",
+    "Description.DashboardStep": "Use these tools to promote your creations and see how they’re doing.",
+    "Label.TourProgress": "{stepNumber} of {steps}",
+    "Label.EndTour": "End Tour"
+}
