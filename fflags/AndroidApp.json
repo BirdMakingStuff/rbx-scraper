@@ -7255,6 +7255,9 @@
     "FFlagAXFixAccessoryAdjustmentDiscards": "True",
     "FFlagAXFixDuplicateOutfits": "True",
     "FFlagAXGimbalPositionReplacement": "True",
+    "FFlagFixKeyDownWithNoIMEMac_Rollout": "True;60;2024-09-11T23:00:39",
+    "FFlagVoiceChatCullingEnableMutedSubsTelemetry_Rollout": "True;30;2024-09-11T23:22:01",
+    "FFlagExperienceDetailsPagePlayButtonTextAndDisableFixEnabled_Rollout": "True;60;2024-09-11T23:28:06",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7734,8 +7737,9 @@
     "FFlagEnableRuntimeThreadVisQueries4": "True",
     "EnablePrewarmableOkHttpDnsResolver": "false",
     "AccessCookiesWithUrlAndroidEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "601d3400d4d8ca859612659c0131290353f9f4d0",
-    "DFStringFlagRepoGitHashDynamicString": "601d3400d4d8ca859612659c0131290353f9f4d0",
-    "FStringFlipTimeStampFastString": "2024-09-11T22:17:49.028Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-11T22:17:49.028Z"
+    "DFIntUIPerfSplitCoreDev_ReportHundredthsPercent2_Rollout": "10;30;2024-09-11T23:03:08",
+    "FStringFlagRepoGitHashFastString": "605c6f1d91f39e668b8d0509a5b6d9d93f282917",
+    "DFStringFlagRepoGitHashDynamicString": "605c6f1d91f39e668b8d0509a5b6d9d93f282917",
+    "FStringFlipTimeStampFastString": "2024-09-11T23:27:55.977Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-11T23:27:55.977Z"
 }

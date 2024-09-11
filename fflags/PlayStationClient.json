@@ -7237,7 +7237,6 @@
     "FFlagEnableMacOSLifecycleStateManager": "True",
     "FFlagEnableUWPLifecycleStateManager": "True",
     "FFlagXboxEnableLifecycleManager": "True",
-    "FFlagAXGimbalPositionReplacement_Rollout": "True;60;2024-09-11T20:41:11",
     "DFStringDualWritePointToV2WhiteList": "\"\"",
     "FFlagUseInteractableWithTileAndCell": "False",
     "FFlagDevVoiceChatIncludePCSetupInSubsProcess": "True",
@@ -7255,6 +7254,10 @@
     "FFlagAXAlignLCListToTop": "True",
     "FFlagAXFixAccessoryAdjustmentDiscards": "True",
     "FFlagAXFixDuplicateOutfits": "True",
+    "FFlagAXGimbalPositionReplacement": "True",
+    "FFlagFixKeyDownWithNoIMEMac_Rollout": "True;60;2024-09-11T23:00:39",
+    "FFlagVoiceChatCullingEnableMutedSubsTelemetry_Rollout": "True;30;2024-09-11T23:22:01",
+    "FFlagExperienceDetailsPagePlayButtonTextAndDisableFixEnabled_Rollout": "True;60;2024-09-11T23:28:06",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -7409,8 +7412,9 @@
     "FIntMediumCollectionItemVerticalGap": "24",
     "FIntSmallCollectionItemMinItemCount": "8",
     "FFlagEnableRuntimeThreadVisQueries4": "True",
-    "FStringFlagRepoGitHashFastString": "49ec50acb790424ea6ef1a529cb820076ecc6504",
-    "DFStringFlagRepoGitHashDynamicString": "49ec50acb790424ea6ef1a529cb820076ecc6504",
-    "FStringFlipTimeStampFastString": "2024-09-11T22:16:24.660Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-11T22:16:24.660Z"
+    "DFIntUIPerfSplitCoreDev_ReportHundredthsPercent2_Rollout": "10;30;2024-09-11T23:03:08",
+    "FStringFlagRepoGitHashFastString": "5b500896eeea33c00b09503eb3050ff7c4a98243",
+    "DFStringFlagRepoGitHashDynamicString": "5b500896eeea33c00b09503eb3050ff7c4a98243",
+    "FStringFlipTimeStampFastString": "2024-09-11T23:28:46.802Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-11T23:28:46.802Z"
 }
