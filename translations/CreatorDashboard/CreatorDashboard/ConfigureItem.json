@@ -371,5 +371,9 @@
     "Label.PublishAdvanceInfoShort": "Roblox will not take commission until the publishing advance is fully recouped.",
     "Label.CannotBeSold": "Cannot be sold",
     "Label.TokenId": "Token ID",
-    "Action.CreateToken": "Create Token for {price}"
+    "Action.CreateToken": "Create Token for {price}",
+    "Label.CreationFeeDescription": "Non-refundable fee to create {item}",
+    "Label.AvatarCreationToken": "Avatar Creation Token",
+    "Label.CreationAdvance": "Creation Advance",
+    "Label.CreationFee": "Creation Fee"
 }

@@ -27,5 +27,6 @@
     "Label.Url": "URL",
     "Description.ExperienceUrlHelperText": "When users follow your link, they will be redirected to the experience you select",
     "Label.ExperienceUrl": "Experience URL",
-    "Label.ExperienceUrlPlaceHolder": "ex: “www.roblox.com/games/12345/My-Experience-Name”"
+    "Label.ExperienceUrlPlaceHolder": "ex: “www.roblox.com/games/12345/My-Experience-Name”",
+    "Label.FilterError": "Contains inappropriate language."
 }
