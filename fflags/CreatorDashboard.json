@@ -25,5 +25,6 @@
     "enablePriceOptimizationBanner": "false",
     "enableMeshTextureApisToggle": "false",
     "enableShareLinkPromo": "true",
-    "enableShareLinkManagment": "true"
+    "enableShareLinkManagment": "true",
+    "isOldAutomaticTextCaptureDisabled": "false"
 }
