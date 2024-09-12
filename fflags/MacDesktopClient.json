@@ -7225,7 +7225,7 @@
     "FFlagSceneHashMapsHandleRecursiveUpdate": "True",
     "FFlagEDPDescriptionFocusHideControllerBar10ft": "True",
     "FFlagEnableLifecycleStateManager2": "True",
-    "DFFlagVoiceChatRecordRoomMetricsFromRCC2_PlaceFilter": "True;11116930529",
+    "DFFlagVoiceChatRecordRoomMetricsFromRCC2_PlaceFilter": "True;11116930529;15546218972",
     "FixChromeBookNonTouchScreenScroll2": "True",
     "FFlagLuauAcceptIndexingTableUnionsIntersections": "True",
     "FFlagSTUDIOPLAT35908_RDP": "True",
@@ -7257,6 +7257,7 @@
     "FFlagVoiceChatCullingEnableMutedSubsTelemetry": "True",
     "FFlagFixKeyDownWithNoIMEMac": "True",
     "FFlagExperienceDetailsPagePlayButtonTextAndDisableFixEnabled": "True",
+    "FFlagShareLinkAddReferredByPlayerIdLaunchParam_Rollout": "True;60;2024-09-12T17:02:05",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -7716,8 +7717,12 @@
     "FFlagUserSearchPresenceHydration_v2": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP36": "True",
     "FFlagConvexRayCast4": "True",
-    "FStringFlagRepoGitHashFastString": "00933ca62da2291be34f9fde3dfbe5bf0ef83987",
-    "DFStringFlagRepoGitHashDynamicString": "00933ca62da2291be34f9fde3dfbe5bf0ef83987",
-    "FStringFlipTimeStampFastString": "2024-09-12T16:06:23.542Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-12T16:06:23.542Z"
+    "FFlagFCFlagsPartSignal": "True",
+    "FFlagFCFlagsThreadSafe5": "True",
+    "FFlagFCFlagsThreadSafe6": "True",
+    "DFFlagClusterCache8_Rollout": "True;60;2024-09-12T17:32:01",
+    "FStringFlagRepoGitHashFastString": "1afe2b33401e6f5008d2c10aa8dd0ee65a3b1b07",
+    "DFStringFlagRepoGitHashDynamicString": "1afe2b33401e6f5008d2c10aa8dd0ee65a3b1b07",
+    "FStringFlipTimeStampFastString": "2024-09-12T17:33:17.283Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-12T17:33:17.283Z"
 }
