@@ -225,5 +225,11 @@
     "Description.Timeline.StartDate": "{date} [today]",
     "Label.Timeline.StartPriceTest": "Start price test",
     "Label.Timeline.ViewTestResults": "View test results",
-    "Label.Timeline.PriceReviewPeriod": "Price review period"
+    "Label.Timeline.PriceReviewPeriod": "Price review period",
+    "Heading.PriceCheckActiveWarning": "Dynamic Price Check is enabled",
+    "Description.PriceCheckActiveWarning": "Price tests cannot be run when enabled. We recommend disabling this tool before running price tests.",
+    "Heading.PriceCheckEnabled": "Dynamic Price Check enabled",
+    "Description.PriceCheckEnabled": "Please wait a few minutes before test prices are visible in your experience.\n\nThis tool may affect price tests while active. For best results, disable it before running price-related tests.",
+    "Heading.PriceCheckDisabled": "Dynamic Price Check disabled",
+    "Description.PriceCheckDisabled": "Please wait a few minutes before test prices return to original amounts."
 }
