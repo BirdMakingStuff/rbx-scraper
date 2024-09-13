@@ -203,5 +203,7 @@
     "Heading.Commerce": "Commerce",
     "Label.ActivityHistory": "Activity History",
     "Heading.ImportCatalog": "Import Catalog",
-    "Heading.RemovalRequests": "Removal Requests"
+    "Heading.RemovalRequests": "Removal Requests",
+    "Heading.CustomMatchmaking": "Custom Matchmaking",
+    "Heading.CreateRule": "Create Rule"
 }
