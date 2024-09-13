@@ -7274,6 +7274,11 @@
     "DFIntSimTelemetrizeSporadicFluidUsageHundredthsPercentage": "100",
     "FFlagUserSearchAgedUpFriendSearchPrompt": "True",
     "FFlagConvexRayCast4": "True",
+    "FFlagStudioNoRenderOnMonitorOff2_Rollout": "True;30;2024-09-13T16:13:04",
+    "FIntVoiceChatCullingJobStepIntervalMs_Rollout": "128;30;2024-09-13T16:13:42",
+    "DFFlagApiProposal323_Rollout": "True;60;2024-09-13T16:20:04",
+    "DFFlagCFrameFromRotationBetweenVectors_Rollout": "True;60;2024-09-13T16:20:35",
+    "FFlagFixSaveCapturesMacOS": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7815,8 +7820,8 @@
     "FFlagCheckNilUrlWhenStartListening": "True",
     "DFIntUIPerfSplitCoreDev_ReportHundredthsPercent2": "10",
     "FFlagDisableLoadSettingsJSONFromFile": "True",
-    "FStringFlagRepoGitHashFastString": "87e7e63af6c0c1ef28529d8407f85495413c0619",
-    "DFStringFlagRepoGitHashDynamicString": "87e7e63af6c0c1ef28529d8407f85495413c0619",
-    "FStringFlipTimeStampFastString": "2024-09-13T00:36:48.260Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-13T00:36:48.260Z"
+    "FStringFlagRepoGitHashFastString": "96287f95578a4d3585e22c0905b05d92926fe892",
+    "DFStringFlagRepoGitHashDynamicString": "96287f95578a4d3585e22c0905b05d92926fe892",
+    "FStringFlipTimeStampFastString": "2024-09-13T16:35:28.099Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-13T16:35:28.099Z"
 }
