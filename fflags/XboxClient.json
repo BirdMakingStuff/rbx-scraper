@@ -7279,6 +7279,11 @@
     "DFFlagApiProposal323": "True",
     "DFFlagCFrameFromRotationBetweenVectors": "True",
     "DFFlagUseNewSerializerBinaryAPI": "True",
+    "FFlagFlagRolloutTestStaticBool10_Rollout": "True;60;2024-09-13T21:38:38",
+    "DFFlagFlagRolloutTestDynamicBool10_Rollout": "True;60;2024-09-13T21:38:49",
+    "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-09-13T21:53:22",
+    "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-09-13T21:53:29",
+    "FFlagDefaultRenderFidelityForceReplicate_Rollout": "True;60;2024-09-13T22:12:53",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7564,8 +7569,8 @@
     "DFIntUIPerfSplitCoreDev_ReportHundredthsPercent2": "10",
     "FFlagUseChannelBoundEnum": "True",
     "DFFlagFixFloatConversionPlaybackErrorForImage": "True",
-    "FStringFlagRepoGitHashFastString": "299eeea297ba96c3dd0296398b4381e01f1ac81f",
-    "DFStringFlagRepoGitHashDynamicString": "299eeea297ba96c3dd0296398b4381e01f1ac81f",
-    "FStringFlipTimeStampFastString": "2024-09-13T20:32:45.059Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-13T20:32:45.059Z"
+    "FStringFlagRepoGitHashFastString": "37ba69206904c3a84fc1d9e0c6c9fb8267d8218b",
+    "DFStringFlagRepoGitHashDynamicString": "37ba69206904c3a84fc1d9e0c6c9fb8267d8218b",
+    "FStringFlipTimeStampFastString": "2024-09-13T22:14:16.111Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-13T22:14:16.111Z"
 }
