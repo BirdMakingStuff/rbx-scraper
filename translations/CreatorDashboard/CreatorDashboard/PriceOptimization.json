@@ -236,5 +236,8 @@
     "Description.PriceCheckActiveCreateWarning": "Newly created product pricing may not display as expected while Dynamic Price Check tool is enabled.",
     "Description.ApplyOrDecline": "Apply the price changes today (with an optional price review period) or you can decline the results and start again.",
     "Description.RecommendedChange.Tooltip": "Based on the optimization test performance, we recommend changing prices by this percentage.",
-    "Description.LongTermImpact.Tooltip": "Our projection of revenue increase over a period of 4 weeks."
+    "Description.LongTermImpact.Tooltip": "Our projection of revenue increase over a period of 4 weeks.",
+    "Heading.PriceCheckEnabledWarning": "Dynamic Price Check tool is enabled",
+    "Description.PriceCheckEnabledWarning": "Price optimization tests cannot run when the Dynamic Price Check tool is enabled. Would you like to disable it now?",
+    "Action.PriceCheckEnabledWarning": "Disable Tool"
 }
