@@ -9,7 +9,7 @@
     "Label.InvalidCharacters": "Use only letters, numbers, or dashes. No spaces or special characters.",
     "Label.UniqueName": "Name already in use. Use a unique name.",
     "Label.CampaignName": "Campaign Name",
-    "Label.CampaignNamePlaceholder": "ex: “guilded-summer-promotion-v1”",
+    "Label.CampaignNamePlaceholder": "ex: “Guilded Summer Promotion V1”",
     "Description.CampaignNameHelperText": "Choose a unique name to display on charts and tables on Creator Hub",
     "Label.InvalidExperienceUrl": "Use a valid experience URL",
     "Action.Cancel": "Cancel",

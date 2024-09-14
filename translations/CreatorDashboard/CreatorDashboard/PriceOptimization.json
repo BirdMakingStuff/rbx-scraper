@@ -239,5 +239,10 @@
     "Description.LongTermImpact.Tooltip": "Our projection of revenue increase over a period of 4 weeks.",
     "Heading.PriceCheckEnabledWarning": "Dynamic Price Check tool is enabled",
     "Description.PriceCheckEnabledWarning": "Price optimization tests cannot run when the Dynamic Price Check tool is enabled. Would you like to disable it now?",
-    "Action.PriceCheckEnabledWarning": "Disable Tool"
+    "Action.PriceCheckEnabledWarning": "Disable Tool",
+    "Action.WatchVideo": "How it works",
+    "Message.UsePriceCheckTool": "Check your price integration before starting a test. {linkStart}Dynamic Price Check{linkEnd}",
+    "Description.UsePriceCheckTool": "The Dynamic Price Check tool helps validate if the prices in your experience can be dynamically updated.",
+    "Heading.Introduction": "Introducing Price Optimizer",
+    "Description.Introduction": "We’ll help determine the best price points for your products, so you can get the most revenue from every Robux purchase.\n\nLearn more in our {linkStart}documentation{linkEnd}."
 }
