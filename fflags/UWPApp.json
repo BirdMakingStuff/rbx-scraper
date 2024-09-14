@@ -6011,7 +6011,7 @@
     "DFFlagSafetyServiceEnableGenreForcedScreenshot": "True",
     "FFlagAppChatAvoidDroppingMessagesInReducer": "True",
     "FFlagSetDbgInfoOpenGLMemory": "True",
-    "FFlagDefaultRenderFidelityForceReplicate": "False",
+    "FFlagDefaultRenderFidelityForceReplicate": "True",
     "FFlagLuauDeclarationExtraPropData": "True",
     "FFlagSignatureHelpOptionalDefault": "True",
     "FFlagCaptureServiceGuisHiddenMetadataEnabled": "True",
@@ -7243,7 +7243,6 @@
     "FFlagAvatarPreviewerTestWithAssets": "True",
     "FFlagFixCullRadiusFlicker": "True",
     "FFlagVoiceChatPcHolderDataChannelCloseWorkaroundEnabled": "True",
-    "FFlagSplitCoreAndDevUIMetrics": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP34": "True",
     "FFlagAXAccessoryAdjustmentUnmountDiscard": "True",
     "FFlagAXAlignLCListToTop": "True",
@@ -7279,7 +7278,6 @@
     "DFFlagApiProposal323": "True",
     "DFFlagCFrameFromRotationBetweenVectors": "True",
     "DFFlagUseNewSerializerBinaryAPI": "True",
-    "FFlagDefaultRenderFidelityForceReplicate_Rollout": "True;60;2024-09-13T22:12:53",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7467,8 +7465,8 @@
     "FFlagAXFixShopAndExperiencesById": "True",
     "FFlagLuaAppExperienceInfoTableGenreIcon": "True",
     "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "c32d6d049b339e790ba231d41b62b1f8bf484e4e",
-    "DFStringFlagRepoGitHashDynamicString": "c32d6d049b339e790ba231d41b62b1f8bf484e4e",
-    "FStringFlipTimeStampFastString": "2024-09-13T23:35:11.529Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-13T23:35:11.529Z"
+    "FStringFlagRepoGitHashFastString": "34eae5a9acf1c7ac733eef527cf89184a930bd5a",
+    "DFStringFlagRepoGitHashDynamicString": "34eae5a9acf1c7ac733eef527cf89184a930bd5a",
+    "FStringFlipTimeStampFastString": "2024-09-13T23:47:11.459Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-13T23:47:11.459Z"
 }
