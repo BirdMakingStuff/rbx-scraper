@@ -7287,7 +7287,6 @@
     "DFFlagVoiceChatCullingEnableOnlyCullWhenNotMutedOptimization": "True",
     "FFlagGridHoverTile": "True",
     "FFlagDisableLogWhenMonitorConditionLocked3": "True",
-    "FFlagExpChatRefactorVisibleMessages_Rollout": "True;60;2024-09-16T21:05:51",
     "FFlagEnablePreferredTextSizeStyleFixesInAppShell3": "True",
     "FFlagVoiceChatCullingStartingStateIsCulled": "True",
     "FFlagTextBoxScrollingContentAware": "True",
@@ -7295,6 +7294,9 @@
     "FFlagEnableTextSizeConstraintEmojiWrapper": "True",
     "FFlagEnableTextSizeConstraintSystemBar": "True",
     "FFlagAlignProcessCheckInLayoutMinSizeWithLayoutSize": "True",
+    "FFlagExpChatRefactorVisibleMessages": "True",
+    "FFlagRemoveDuplicateThrottlingFilterTextBWStats_Rollout": "True;30;2024-09-16T23:16:04",
+    "FFlagEnablePreferredTextSizeStyleFixesAddFriends_Rollout": "True;30;2024-09-16T23:17:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7774,8 +7776,10 @@
     "FFlagEnableRuntimeThreadVisQueries4": "True",
     "EnablePrewarmableOkHttpDnsResolver": "false",
     "AccessCookiesWithUrlAndroidEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "ff5f1a135a82587a95b0d372d8810899057049ca",
-    "DFStringFlagRepoGitHashDynamicString": "ff5f1a135a82587a95b0d372d8810899057049ca",
-    "FStringFlipTimeStampFastString": "2024-09-16T22:21:55.624Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-16T22:21:55.624Z"
+    "FFlagDoNotReadExtentsFromKdTree_Rollout": "True;60;2024-09-16T23:18:29",
+    "FFlagDoNotUseExplicitConvexHull_Rollout": "True;60;2024-09-16T23:19:11",
+    "FStringFlagRepoGitHashFastString": "58207c6920285d83607141ecfd3bfe99cd82b0f2",
+    "DFStringFlagRepoGitHashDynamicString": "58207c6920285d83607141ecfd3bfe99cd82b0f2",
+    "FStringFlipTimeStampFastString": "2024-09-16T23:20:36.750Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-16T23:20:36.750Z"
 }
