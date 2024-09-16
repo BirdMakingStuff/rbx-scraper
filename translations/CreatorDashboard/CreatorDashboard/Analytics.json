@@ -877,5 +877,9 @@
     "Label.WinningSegment.FemaleAbove13": "Female 13+",
     "Description.SeeAllAvatarCreations": "Explore your top Avatar Creations. To see all your Avatar Creations, visit the {linkStart}creations tab{linkEnd}.",
     "Heading.TopAvatarCreations": "Top Avatar Creations",
-    "Description.TakeActionCommerce": "Take action to earn more revenue through commerce."
+    "Description.TakeActionCommerce": "Take action to earn more revenue through commerce.",
+    "Heading.ThumbnailPersonalization": "Thumbnail Personalization",
+    "Label.Metric.ThumbnailImpressions": "Impressions",
+    "Label.Metric.ThumbnailQualifiedPTR": "Qualified Play Through Rate",
+    "Label.Dimension.ThumbnailAsset": "Thumbnail"
 }

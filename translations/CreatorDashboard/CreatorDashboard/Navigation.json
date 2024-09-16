@@ -205,5 +205,8 @@
     "Heading.ImportCatalog": "Import Catalog",
     "Heading.RemovalRequests": "Removal Requests",
     "Heading.CustomMatchmaking": "Custom Matchmaking",
-    "Heading.CreateRule": "Create Rule"
+    "Heading.CreateRule": "Create Rule",
+    "Heading.CreateProduct": "Create Products",
+    "Heading.CreateAttribute": "Create Attribute",
+    "Heading.DynamicPriceCheck": "Dynamic Price Check"
 }

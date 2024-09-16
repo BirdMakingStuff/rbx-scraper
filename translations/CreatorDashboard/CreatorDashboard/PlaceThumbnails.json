@@ -90,6 +90,9 @@
     "Title.ThumbnailPersonalizationNUXBannerOff": "Use automatic thumbnail targeting to grow faster",
     "Description.ThumbnailPersonalizationNUXBannerOff": "Upload multiple thumbnails to Home now and we'll auto-target the best one to each user to boost your qualified play-through rate.",
     "Title.ConfirmTestNewThumbnails": "Test new thumbnails?",
-    "Description.ConfirmTestNewThumbnails": "Are you sure you want to test this new set of thumbnails? We will begin optimizing thumbnail traffic within one hour, and your data will reset and display again after a few hours.",
-    "Description.ConfirmTestNewThumbnailsTips": "Pro tip: Set your best thumbnails as active and avoid changing them more than 1-2 times per week. This will allow data to stabilize for optimal results."
+    "Description.ConfirmTestNewThumbnails": "Your data will reset so download it now. New data will appear in a few hours. Traffic will be evenly split across thumbnails for a few hours, then more traffic will be sent to the best performing thumbnails every hour.",
+    "Description.ConfirmTestNewThumbnailsTips": "1. Wait for qualified PTR per thumbnail to stabilize before changes.",
+    "Description.ConfirmTestNewThumbnailsTips2": "2. Avoid updating your thumbnails more than 1-2x a week.",
+    "Description.ConfirmTestNewThumbnailsTips3": "3. Personalization may not yield meaningful results if <1000 DAU.",
+    "Action.ConfirmTest": "Yes, test"
 }

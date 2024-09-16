@@ -20,5 +20,6 @@
     "Description.ASPS": "Average Robux purchased per qualified spender",
     "Description.EstimatedAffiliatePayout": "Estimate of lifetime earnings before adjustments",
     "Label.NoData": "N/A",
-    "Label.Total": "Total"
+    "Label.Total": "Total",
+    "Label.CampaignNameRequired": "Campaign name is required"
 }

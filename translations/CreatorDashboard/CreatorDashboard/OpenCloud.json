@@ -200,6 +200,9 @@
     "Label.ScopeSearch": "Search scopes",
     "Message.LegacyApiGroupApiKeyUnsupported": "Legacy APIs with group API keys are currently not supported.",
     "Response.LegacyScopesOnlySupportedForUserOwnedKeys": "Legacy scopes are only supported for user-owned keys.",
+    "Heading.SecurityWarning": "Important Security Warning",
+    "Message.ReviewLuauExecutionSessionScopeWarningInformation": "Your API key includes the {luauExecutionSessionReadScope} and/or {luauExecutionSessionWriteScope} scopes. Please review the following:",
+    "Description.LuauExecutionSessionWarningInformation": "{listStart}{listItemStart}The write operation enables Luau code execution in the Roblox Engine for a Place.{listItemEnd}{listItemStart}Luau code can call Engine APIs. {engineApiLinkStart}Learn more{engineApiLinkEnd}{listItemEnd}{listItemStart}Some Engine APIs provide access to cloud services, even if the corresponding Open Cloud permission scopes have not been added to this API Key.{listItemEnd}{listItemStart}Some Engine APIs are blocked ({blockedEngineApiLinkStart}list{blockedEngineApiLinkEnd}). However, newly released Engine APIs may be available in the future.{listItemEnd}{listItemStart}Keep your API key private and use it only in trusted applications.{listItemEnd}{listEnd}",
     "Button.Cancel": "Cancel",
     "Message.UnderstandSecurityWarning": "I understand the security risks"
 }
