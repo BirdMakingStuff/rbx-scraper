@@ -7301,6 +7301,7 @@
     "FFlagEnablePreferredTextSizeStyleFixesAddFriends": "True",
     "FFlagEnablePreferredTextSizeStyleFixesInAppShell3": "False",
     "AllowVideoPreRoll": "True",
+    "FFlagAXIXPUtilsExposureChange2_Rollout": "True;60;2024-09-17T16:34:25",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -8131,6 +8132,8 @@
     "FFlagSearchTopResultsTab_3": "True",
     "FFlagTPoseBlockyDetectionOnlyCheckYAxisLowerArm": "True",
     "FFlagCheckOrientationOnAllAttachments2": "True",
+    "DFIntMultiPartUploadMaxChunkSizeByte_Rollout": "10485756;60;2024-09-17T16:07:58",
+    "FFlagAXFixNilItemDataCatalogContextFrame_Rollout": "True;60;2024-09-17T16:34:46",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -8225,6 +8228,7 @@
     "FFlagAXCarouselTileFooter": "True",
     "FFlagDoNotReadExtentsFromKdTree": "True",
     "FFlagDoNotUseExplicitConvexHull": "True",
+    "FFlagDebugLocalRccServerConnection_PlaceFilter": "True;5157946270",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -8245,8 +8249,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "f1116fe8b2477a1ce81e2332106550e74f5764f9",
-    "DFStringFlagRepoGitHashDynamicString": "f1116fe8b2477a1ce81e2332106550e74f5764f9",
-    "FStringFlipTimeStampFastString": "2024-09-17T01:22:16.416Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-17T01:22:16.416Z"
+    "FStringFlagRepoGitHashFastString": "02686522536b632b124e380049c7eb05f511174b",
+    "DFStringFlagRepoGitHashDynamicString": "02686522536b632b124e380049c7eb05f511174b",
+    "FStringFlipTimeStampFastString": "2024-09-17T16:37:34.835Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-17T16:37:34.835Z"
 }

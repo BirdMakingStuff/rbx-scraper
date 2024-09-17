@@ -7300,6 +7300,8 @@
     "FFlagRemoveDuplicateThrottlingFilterTextBWStats": "True",
     "FFlagEnablePreferredTextSizeStyleFixesAddFriends": "True",
     "FFlagEnablePreferredTextSizeStyleFixesInAppShell3": "False",
+    "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
+    "FFlagAXIXPUtilsExposureChange2_Rollout": "True;60;2024-09-17T16:34:25",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7781,7 +7783,6 @@
     "AccessCookiesWithUrlAndroidEnabled": "True",
     "FFlagDoNotReadExtentsFromKdTree": "True",
     "FFlagDoNotUseExplicitConvexHull": "True",
-    "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagLuaAppSocialFeaturePill": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
@@ -7908,8 +7909,10 @@
     "FFlagLuaAppGamesSearchRewrite": "True",
     "FFlagSearchTopResultsTab_3": "True",
     "DisableSendrSilentPushNotificationDisplay": "True",
-    "FStringFlagRepoGitHashFastString": "f1116fe8b2477a1ce81e2332106550e74f5764f9",
-    "DFStringFlagRepoGitHashDynamicString": "f1116fe8b2477a1ce81e2332106550e74f5764f9",
-    "FStringFlipTimeStampFastString": "2024-09-17T01:22:16.416Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-17T01:22:16.416Z"
+    "FFlagAXFixNilItemDataCatalogContextFrame_Rollout": "True;60;2024-09-17T16:34:46",
+    "FFlagAXDynamicHeadClassicFaceSwappingIXPEnabledWIP4_Rollout": "True;60;2024-09-17T16:36:43",
+    "FStringFlagRepoGitHashFastString": "02686522536b632b124e380049c7eb05f511174b",
+    "DFStringFlagRepoGitHashDynamicString": "02686522536b632b124e380049c7eb05f511174b",
+    "FStringFlipTimeStampFastString": "2024-09-17T16:37:34.835Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-17T16:37:34.835Z"
 }
