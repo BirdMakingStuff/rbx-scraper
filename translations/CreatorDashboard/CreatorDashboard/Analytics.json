@@ -814,7 +814,7 @@
     "Description.Table.ReplaceThumbnail": "Replace thumbnail",
     "Description.Table.DeleteThumbnail": "Delete thumbnail",
     "Description.Table.SetDefaultThumbnail": "Set as default thumbnail",
-    "Title.Table.ThumbnailsPersonalization": "Thumbnail Performance for {dateRange}",
+    "Title.Table.ThumbnailsPersonalization": "Thumbnail Performance ({dateRange})",
     "Label.CurrentSeriesComparison": "{series} (current)",
     "Label.Action.ViewChart": "View Chart",
     "Title.PerformanceServerCpuTime": "Server CPU Time",

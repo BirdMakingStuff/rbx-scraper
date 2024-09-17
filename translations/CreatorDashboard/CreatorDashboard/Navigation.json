@@ -208,5 +208,7 @@
     "Heading.CreateRule": "Create Rule",
     "Heading.CreateProduct": "Create Products",
     "Heading.CreateAttribute": "Create Attribute",
-    "Heading.DynamicPriceCheck": "Dynamic Price Check"
+    "Heading.DynamicPriceCheck": "Dynamic Price Check",
+    "Heading.EditAttribute": "Edit Attribute",
+    "Heading.EditRule": "Edit Rule"
 }
