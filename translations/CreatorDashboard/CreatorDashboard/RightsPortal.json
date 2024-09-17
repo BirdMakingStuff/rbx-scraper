@@ -257,5 +257,14 @@
     "Heading.DuplicateCreation": "Duplicate Creation",
     "Action.Save": "Save",
     "Error.MaximumFilesTooltip": "Maximum files were uploaded. Delete one or more file(s) to upload another one.",
-    "Heading.Claims": "Claims"
+    "Heading.Claims": "Claims",
+    "Description.ResponseDueBy": "Response due by",
+    "Description.RejectedByRoblox": "Rejected by Roblox",
+    "Description.ApprovedByRoblox": "Approved by Roblox",
+    "Description.Accepted": "Accepted",
+    "Description.Disputed": "Disputed",
+    "Description.Released": "Released",
+    "Description.EscalatedToRoblox": "Escalated to Roblox",
+    "Description.DisputedResponseDueBy": "Disputed. Response due by",
+    "Description.Pending": "Pending"
 }

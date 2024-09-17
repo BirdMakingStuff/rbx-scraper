@@ -21,11 +21,14 @@
     "Label.Dimension.PurchaseStatus.Refund": "Refund",
     "Label.Dimension.PurchaseStatus.Success": "Success",
     "Label.Dimension.StoreItemType.Plugin": "Plugin",
+    "Label.Dimension.StoreItemType.Model": "Model",
     "Label.Dimension.PurchaseStatus": "Status",
-    "Label.Dimension.StoreItemId": "Asset Id",
+    "Label.Dimension.StoreItemId": "Store Item",
     "Label.Dimension.StoreItemType": "Category",
     "Label.TopSellingItem": "Top Selling Item",
     "Label.TopGrossingItem": "Top Grossing Item",
     "Heading.CreatorStoreItems": "Creator Store Items",
-    "Heading.RevenueAndSales": "Revenue and Sales"
+    "Heading.RevenueAndSales": "Revenue and Sales",
+    "Label.Metric.StoreTransactions": "Sales",
+    "Label.Metric.StoreRevenue": "Revenue"
 }

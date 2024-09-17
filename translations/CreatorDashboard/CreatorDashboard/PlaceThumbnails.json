@@ -94,5 +94,8 @@
     "Description.ConfirmTestNewThumbnailsTips": "1. Wait for qualified PTR per thumbnail to stabilize before changes.",
     "Description.ConfirmTestNewThumbnailsTips2": "2. Avoid updating your thumbnails more than 1-2x a week.",
     "Description.ConfirmTestNewThumbnailsTips3": "3. Personalization may not yield meaningful results if <1000 DAU.",
-    "Action.ConfirmTest": "Yes, test"
+    "Action.ConfirmTest": "Yes, test",
+    "Description.ThumbnailPersonalizationOff": "Personalization is off. Set two or more thumbnails to active to turn it on.",
+    "Description.ThumbnailPersonalizationOnWaitingForData": "Personalization is on. Data will appear in a few hours.",
+    "Description.ThumbnailPersonalizationOn": "Personalization is active. Data last updated on {time}."
 }

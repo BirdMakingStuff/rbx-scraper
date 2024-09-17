@@ -248,5 +248,6 @@
     "Description.IncludeInTest": "Include in test",
     "Heading.DeselectProduct": "Price test reminder",
     "Message.DeselectProduct": "We understand that you may not want to test some of your products, but for best results, we recommend to include all products in the price test.",
-    "Label.NumSelected": "{numSelected} of {numTotal} selected"
+    "Label.NumSelected": "{numSelected} of {numTotal} selected",
+    "Action.ReturnPriceOptimization": "Return to Price Optimization"
 }
