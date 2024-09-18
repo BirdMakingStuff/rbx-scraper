@@ -266,5 +266,15 @@
     "Description.Released": "Released",
     "Description.EscalatedToRoblox": "Escalated to Roblox",
     "Description.DisputedResponseDueBy": "Disputed. Response due by",
-    "Description.Pending": "Pending"
+    "Description.Pending": "Pending",
+    "Heading.SupportingDetails": "Supporting details",
+    "Label.MyClaims": "My Claims",
+    "Label.ReleaseClaim": "Release Claim",
+    "Heading.CreationComparison": "Creation comparison",
+    "Heading.Dates": "Dates",
+    "Heading.LastUpdatedDate": "Last updated date",
+    "Heading.CreatedDate": "Created date",
+    "Description.NameOfParentClaim": "Name of parent claim",
+    "Heading.ClaimItem": "Claim Item",
+    "Label.EscalateClaim": "Escalate Claim"
 }
