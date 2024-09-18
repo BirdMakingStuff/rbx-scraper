@@ -5905,7 +5905,7 @@
     "DFFlagSimSolverOptimizeLargeIslandCountBatching2": "True",
     "FFlagAXNewColorPickerPalette": "True",
     "FFlagSimSolverConsolidatePerfTelemetrySendLogic": "True",
-    "DFIntWindowsMinimumClientVersion": "630",
+    "DFIntWindowsMinimumClientVersion": "638",
     "FIntMaterialPickerBetaFeatureRolloutPercent": "100",
     "FFlagLoadQEntityIconFromCurrentDataModel": "True",
     "FFlagDevFrameworkMaterialActionAsTool": "True",
@@ -7372,6 +7372,8 @@
     "FFlagGImageLoadRGBTexturesAsRGBA": "True",
     "FFlagLuaAppEnableOpenTypeSupport2": "True",
     "FFlagFFlagLuaAppLogMorePageLayerExposure": "True",
+    "FFlagLCCheckCageDimNonSkinned_Rollout": "True;60;2024-09-18T16:03:44",
+    "FFlagUserSearchMoveHydration_Rollout": "True;30;2024-09-18T16:19:42",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7850,9 +7852,10 @@
     "FFlagEngineVoiceCullingExperiment": "True",
     "FIntStaticFlagsVersionCounter": "1",
     "FFlagValidateMachineUseApi": "True",
+    "FFlagWinBackgroundDownloadUpdates2_Rollout": "True;60;2024-09-18T16:08:40",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "a018782a2e03b833c086df9fd47c3a90f5c44834",
-    "DFStringFlagRepoGitHashDynamicString": "a018782a2e03b833c086df9fd47c3a90f5c44834",
-    "FStringFlipTimeStampFastString": "2024-09-18T01:32:07.083Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-18T01:32:07.083Z"
+    "FStringFlagRepoGitHashFastString": "d6b6114931ee171a6d825f956ecc4c73379ef5b0",
+    "DFStringFlagRepoGitHashDynamicString": "d6b6114931ee171a6d825f956ecc4c73379ef5b0",
+    "FStringFlipTimeStampFastString": "2024-09-18T16:34:34.545Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-18T16:34:34.545Z"
 }
