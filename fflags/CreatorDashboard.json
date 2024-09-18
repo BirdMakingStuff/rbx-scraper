@@ -26,5 +26,6 @@
     "enableMeshTextureApisToggle": "false",
     "enableShareLinkPromo": "true",
     "enableShareLinkManagment": "true",
-    "isOldAutomaticTextCaptureDisabled": "false"
+    "isOldAutomaticTextCaptureDisabled": "false",
+    "personalizationBannerIdsGated": "CA-NewExperienceAnalyticsOverview-Sept"
 }
