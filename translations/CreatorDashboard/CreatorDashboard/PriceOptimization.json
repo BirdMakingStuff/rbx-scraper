@@ -104,9 +104,9 @@
     "Heading.ActivatePriceReview": "Activate price review period?",
     "Message.ActivatePriceReview": "We’ll run a 4-week test to ensure optimized prices perform as expected. If they don’t, we’ll restore your original prices and notify you via email. {linkStart}Learn more{linkEnd}.",
     "Message.PriceReviewDisclaimer": "By proceeding with the price review period, you authorize Roblox to stop the test and restore the original prices on your behalf if the optimized prices under perform.",
-    "Action.NoThanks": "No thanks",
+    "Action.NoThanks": "Proceed without price review",
     "Heading.Introduction.About": "About Price Optimization",
-    "Description.Introduction.Summary": "Price Optimization determines the best price points for your products, so you can get the most revenue from every Robux purchase.",
+    "Description.Introduction.Summary": "Price optimization determines the best price points for your products, so you can get the most revenue from every Robux purchase.",
     "Heading.Introduction.WhyUse": "Why optimize?",
     "Description.Introduction.WhyUse": "Optimizing ensures your prices are competitive in the Robux virtual economy and adapt to the changing needs and behaviors of Roblox users.",
     "Heading.Introduction.HowDoesItWork": "How does it work?",
@@ -220,7 +220,7 @@
     "Description.HoldoutScorecardSummary": "The price review period was run for 4 weeks. {testPopulationPercent} of users were shown the original prices for the tested products, while the rest were shown optimized prices.",
     "Description.ActiveTest": "Products are involved in an optimized pricing test. Prices may vary for users during this time. {linkStart}Learn more{linkEnd}.",
     "Message.ActivatePriceReviewWithDisclaimer": "We’ll run a 4-week test where 98% of users will see optimized prices and 2% will see the original price. This will help ensure optimized prices perform as expected. If optimized prices don't perform as expected, we’ll restore your original prices and notify you via email. {linkStart}Learn more{linkEnd}.\n\nBy proceeding with the price review period, you authorize Roblox to stop the test and restore the original prices on your behalf if the optimized prices under perform.",
-    "Action.ConfirmActivatePriceReview": "Yes, activate price review",
+    "Action.ConfirmActivatePriceReview": "Start price review",
     "Label.LastOptimized": "Last Optimized: {dateStart}{dateEnd}",
     "Description.Timeline.StartDate": "{date} [today]",
     "Label.Timeline.StartPriceTest": "Start price test",
@@ -249,5 +249,6 @@
     "Heading.DeselectProduct": "Price test reminder",
     "Message.DeselectProduct": "We understand that you may not want to test some of your products, but for best results, we recommend to include all products in the price test.",
     "Label.NumSelected": "{numSelected} of {numTotal} selected",
-    "Action.ReturnPriceOptimization": "Return to Price Optimization"
+    "Action.ReturnPriceOptimization": "Return to Price Optimization",
+    "Action.ReadDocumentation": "Read documentation"
 }

@@ -287,5 +287,9 @@
     "Description.UsabilityWearable": "Can still be worn by players who already have this item",
     "Label.ClaimantsCreation": "Claimant's Creation",
     "Label.DisputeClaim": "Dispute Claim",
-    "Label.AcceptClaim": "Accept Claim"
+    "Label.AcceptClaim": "Accept Claim",
+    "Heading.DisputeDetails": "Dispute Details",
+    "Label.Reason": "Reason",
+    "Label.Rationale": "Rationale",
+    "Label.ClaimsAgainstMe": "Claims against me"
 }
