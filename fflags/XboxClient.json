@@ -7122,7 +7122,6 @@
     "DFFlagCLI117170": "True",
     "FFlagSoundClampTimePositionToPlaybackRegion2": "True",
     "FFlagAXLookDetailsTryOnSelectableFix": "True",
-    "FFlagAddExploreOmniItems": "True",
     "FIntUGCValidateAccessoryMaxCageOrigin": "1000",
     "FIntUGCValidateBodyPartMaxCageOrigin": "1000",
     "FFlagVersionedFlagsFirst": "True",
@@ -7431,6 +7430,11 @@
     "FFlagShowIllegalContentReportingUI": "True",
     "FFlagUseConvexDecompToIterateVerts": "True",
     "FFlagFixSpreadAngleMath": "True",
+    "FFlagEnableReportAdDropdown5_Rollout": "True;60;2024-09-19T16:02:22",
+    "FFlagVideoCMCDTruncateUserAgent_Rollout": "True;30;2024-09-19T16:12:35",
+    "DFFlagTrackerPerfTelemetryIncludePerfData_Rollout": "True;60;2024-09-19T16:15:12",
+    "DFFlagVideoCatchGetCacheDirectoryException_Rollout": "True;30;2024-09-19T16:20:31",
+    "FFlagNavigationNewHeuristicAlgorithm2_PlaceFilter": "True;74760576826809",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7726,8 +7730,8 @@
     "FIntXboxPrefetchAuthRetries": "1",
     "FIntStaticFlagsVersionCounter": "1",
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": "True",
-    "FStringFlagRepoGitHashFastString": "ec878933ce2860f6bb13f91471a4a59e44fa048e",
-    "DFStringFlagRepoGitHashDynamicString": "ec878933ce2860f6bb13f91471a4a59e44fa048e",
-    "FStringFlipTimeStampFastString": "2024-09-19T01:27:03.422Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-19T01:27:03.422Z"
+    "FStringFlagRepoGitHashFastString": "2d66f673b98f7f24eb46a6465d24668cb8a27e47",
+    "DFStringFlagRepoGitHashDynamicString": "2d66f673b98f7f24eb46a6465d24668cb8a27e47",
+    "FStringFlipTimeStampFastString": "2024-09-19T16:39:17.394Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-19T16:39:17.394Z"
 }
