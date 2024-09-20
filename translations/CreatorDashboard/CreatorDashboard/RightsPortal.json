@@ -291,5 +291,7 @@
     "Heading.DisputeDetails": "Dispute Details",
     "Label.Reason": "Reason",
     "Label.Rationale": "Rationale",
-    "Label.ClaimsAgainstMe": "Claims against me"
+    "Label.ClaimsAgainstMe": "Claims against me",
+    "Heading.EscalationDetails": "Escalation details",
+    "Description.AutomaticallyEscalated": "Automatically escalated to Roblox"
 }
