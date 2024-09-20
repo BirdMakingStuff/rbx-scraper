@@ -99,6 +99,5 @@
     "Description.ThumbnailPersonalizationOnWaitingForData": "Personalization is on. Data will appear in a few hours.",
     "Description.ThumbnailPersonalizationOn": "Personalization is active. Data last updated on {time}.",
     "Title.ConfirmTestNewThumbnailsTips": "Pro Tips:",
-    "Action.DownloadData": "Download data",
-    "Description.Table.MinActiveThumbnails": "You must have one active thumbnail"
+    "Action.DownloadData": "Download data"
 }
