@@ -7439,7 +7439,7 @@
     "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": "16",
     "DFFlagDualWriteHttpDownloadBandwidthParquetPoint": "True",
     "FFlagReworkCallStateSynchronization": "True",
-    "FFlagVideoFrameYuvGPU7": "True",
+    "FFlagVideoFrameYuvGPU7": "False",
     "DFFlagRecategorizeVulkanDeviceLostCrashes": "True",
     "DFFlagVoiceChatCullingEnableTransportSends": "True",
     "FFlagBootcampCLI118528": "True",
@@ -7643,9 +7643,8 @@
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": "True",
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": "True",
     "FFlagSimLazyIslandUpdateAndRepack": "True",
-    "FFlagVideoFrameYuvGPU7_Rollout": "False;60;2024-09-20T19:46:25",
-    "FStringFlagRepoGitHashFastString": "82ded29fae9629589037521826a3a5614f53dc26",
-    "DFStringFlagRepoGitHashDynamicString": "82ded29fae9629589037521826a3a5614f53dc26",
-    "FStringFlipTimeStampFastString": "2024-09-20T20:07:10.425Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-20T20:07:10.425Z"
+    "FStringFlagRepoGitHashFastString": "5efe7d2494b4571eaf6c5986c965f70092df664f",
+    "DFStringFlagRepoGitHashDynamicString": "5efe7d2494b4571eaf6c5986c965f70092df664f",
+    "FStringFlipTimeStampFastString": "2024-09-20T21:23:39.136Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-20T21:23:39.136Z"
 }
