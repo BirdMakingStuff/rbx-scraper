@@ -7372,7 +7372,7 @@
     "DFFlagRobloxTelemetryFixPlaceIdAttachment": "True",
     "DFFlagVoiceChatDisconnectSoundJobStepDuringLeave": "True",
     "FFlagAppChatRefactorUpdateConversationReducer": "True",
-    "FFlagEnableMoreUniversalABTest2": "True",
+    "FFlagEnableMoreUniversalABTest2": "False",
     "FFlagGetCaptureUploadDataApiEnabled": "True",
     "FFlagPostShareToastLinkEnabled": "True",
     "FFlagLoadColorOnlyOpt2": "True",
@@ -8376,8 +8376,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": "1000",
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
-    "FStringFlagRepoGitHashFastString": "5efe7d2494b4571eaf6c5986c965f70092df664f",
-    "DFStringFlagRepoGitHashDynamicString": "5efe7d2494b4571eaf6c5986c965f70092df664f",
-    "FStringFlipTimeStampFastString": "2024-09-20T21:23:39.136Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-20T21:23:39.136Z"
+    "FStringFlagRepoGitHashFastString": "ac250f45c0dfb990427f1eb3a524dcb98f6adfb9",
+    "DFStringFlagRepoGitHashDynamicString": "ac250f45c0dfb990427f1eb3a524dcb98f6adfb9",
+    "FStringFlipTimeStampFastString": "2024-09-20T22:33:40.841Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-20T22:33:40.841Z"
 }
