@@ -277,6 +277,7 @@
     "Description.NameOfParentClaim": "Name of parent claim",
     "Heading.ClaimItem": "Claim Item",
     "Label.EscalateClaim": "Escalate Claim",
+    "Label.AccountID": "Account ID",
     "Heading.Impact": "Impact",
     "Description.Monetization": "Monetization",
     "Description.Offsale": "Offsale",
@@ -286,5 +287,17 @@
     "Description.UsabilityWearable": "Can still be worn by players who already have this item",
     "Label.ClaimantsCreation": "Claimant's Creation",
     "Label.DisputeClaim": "Dispute Claim",
-    "Label.AcceptClaim": "Accept Claim"
+    "Label.AcceptClaim": "Accept Claim",
+    "Heading.DisputeDetails": "Dispute Details",
+    "Label.Reason": "Reason",
+    "Label.Rationale": "Rationale",
+    "Label.ClaimsAgainstMe": "Claims against me",
+    "Heading.EscalationDetails": "Escalation details",
+    "Description.AutomaticallyEscalated": "Automatically escalated to Roblox",
+    "Description.OnSale": "On sale",
+    "Description.Discoverable": "Discoverable during search",
+    "Description.Visible": "Still visible and can be used in experience",
+    "Label.OffPlatformCreation": "Off-platform creation",
+    "Description.TemporarilyOffsale": "Temporarily offsale",
+    "Description.NotDiscoverable": "No longer discoverable during search"
 }
