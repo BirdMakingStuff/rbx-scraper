@@ -7486,7 +7486,6 @@
     "FFlagCaptureGalleryFixHeaderBarLayout": "True",
     "DFLogSoundTrace": "4",
     "DFFlagMicroprofilerDiff": "True",
-    "FFlagInferredCrashUpdateUserId_Rollout": "True;30;2024-09-23T19:36:35",
     "FFlagCLI118216": "True",
     "FFlagStudioDeviceEmulatorPS5Emulation_Rollout": "True;60;2024-09-23T19:46:04",
     "FFlagAppChatSearchBoxRowInExperience2": "True",
@@ -7501,6 +7500,8 @@
     "FFlagDevVoiceChatHandleSubscriptionFeedStartedEvent": "True",
     "FFlagUnifySessionTrackingReporting2": "True",
     "FFlagStudioRunIncrementalPatchBuildPrePlaySolo_Rollout": "True;60;2024-09-23T20:17:07",
+    "FFlagInferredCrashUpdateUserId": "True",
+    "FIntInGameRobuxUpsellEventThrottleHundredthsPercent_Rollout": "10000;60;2024-09-23T21:29:22",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7953,8 +7954,8 @@
     "FFlagReduceGuiStateGfxGuiInvalidation": "True",
     "FFlagReportUITimePercentage": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "96c8487f6f08917015f46feddfa9d1f2f42aa45e",
-    "DFStringFlagRepoGitHashDynamicString": "96c8487f6f08917015f46feddfa9d1f2f42aa45e",
-    "FStringFlipTimeStampFastString": "2024-09-23T20:28:40.074Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-23T20:28:40.074Z"
+    "FStringFlagRepoGitHashFastString": "6f08f7e4eda635a5d77cb7e53db812a7447fb961",
+    "DFStringFlagRepoGitHashDynamicString": "6f08f7e4eda635a5d77cb7e53db812a7447fb961",
+    "FStringFlipTimeStampFastString": "2024-09-23T21:35:23.222Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-23T21:35:23.222Z"
 }
