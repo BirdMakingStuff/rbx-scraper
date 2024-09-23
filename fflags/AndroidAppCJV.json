@@ -7476,6 +7476,12 @@
     "FFlagStudioOnlyNeedAssetFolderWatcherForOriginalDM": "True",
     "FFlagAXAvatarTileFooterRefactor": "True",
     "FFlagAXCarouselTileFooter": "True",
+    "FFlagSTUDIOPLAT_36164_Rollout": "True;30;2024-09-23T16:02:49",
+    "DFFlagDualWriteRakNetBandwidthParquetPoint_Rollout": "True;60;2024-09-23T16:06:16",
+    "FFlagCheckFor0UserIdOnContactImporter": "True",
+    "FFlagLuaConstraintToolBetaFeature_Rollout": "True;60;2024-09-23T16:14:28",
+    "FIntClientLaunchTimeoutMillisec_Rollout": "20000;60;2024-09-23T16:17:10",
+    "FFlagAgreementItemsOrderFixEnabled_Rollout": "True;60;2024-09-23T16:35:38",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7961,6 +7967,7 @@
     "FStringGraphicsVulkanBlacklistVendorIDs": "5045",
     "FFlagGraphicsVulkanBlacklistIDs": "True",
     "FFlagEngineVoiceCullingExperiment": "True",
+    "FFlagCLI116909Android_Rollout": "True;60;2024-09-23T16:30:19",
     "FFlagEnableMaterialGenerator": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -7990,8 +7997,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "ac250f45c0dfb990427f1eb3a524dcb98f6adfb9",
-    "DFStringFlagRepoGitHashDynamicString": "ac250f45c0dfb990427f1eb3a524dcb98f6adfb9",
-    "FStringFlipTimeStampFastString": "2024-09-20T22:33:40.841Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-20T22:33:40.841Z"
+    "FStringFlagRepoGitHashFastString": "801858b47d759da4cc9cc708c3ba436eb1e64ee0",
+    "DFStringFlagRepoGitHashDynamicString": "801858b47d759da4cc9cc708c3ba436eb1e64ee0",
+    "FStringFlipTimeStampFastString": "2024-09-23T16:36:25.808Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-23T16:36:25.808Z"
 }
