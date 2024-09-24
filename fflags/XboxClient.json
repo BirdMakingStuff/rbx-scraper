@@ -7514,6 +7514,10 @@
     "FFlagLuauFixCyclicTablesBlowingStack": "True",
     "DFIntRobloxTelemetryPointV2ProdTrafficPercent_Rollout": "5;60;2024-09-24T16:18:38",
     "FFlagEnableReportAdDropdown5_Rollout": "False;60;2024-09-24T16:19:19",
+    "FFlagInsertServiceDisableGetCollectionsBackend_Rollout": "True;60;2024-09-24T16:44:39",
+    "FFlagInsertServiceDisableGetBaseSetsBackend_Rollout": "True;60;2024-09-24T16:45:32",
+    "DFFlagPerformanceControlCheckForThrottleBeforeUpdatingTelemetry_Rollout": "True;60;2024-09-24T17:11:12",
+    "FFlagFixSearchLandingPageGameImpressionsInterface_Rollout": "True;60;2024-09-24T17:22:48",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7807,8 +7811,8 @@
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": "True",
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": "True",
     "FFlagSimLazyIslandUpdateAndRepack": "True",
-    "FStringFlagRepoGitHashFastString": "e00772dba5324de35c19902e3badbf0211a3f62f",
-    "DFStringFlagRepoGitHashDynamicString": "e00772dba5324de35c19902e3badbf0211a3f62f",
-    "FStringFlipTimeStampFastString": "2024-09-24T16:21:06.081Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-24T16:21:06.081Z"
+    "FStringFlagRepoGitHashFastString": "3158bbaebf42cdc7d8d52a082b84235364e64339",
+    "DFStringFlagRepoGitHashDynamicString": "3158bbaebf42cdc7d8d52a082b84235364e64339",
+    "FStringFlipTimeStampFastString": "2024-09-24T17:31:49.444Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-24T17:31:49.444Z"
 }
