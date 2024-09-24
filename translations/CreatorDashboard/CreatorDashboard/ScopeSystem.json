@@ -118,5 +118,7 @@
     "OperationDescription.LegacyLocalizationTableAPIManage": "Grants access to read and write your localization tables",
     "OperationDescription.LegacyDeveloperProductAPIManage": "Grants access to manage your developer products.",
     "OperationDescription.LegacyGamePassAPIManage": "Grants access to manage your passes.",
-    "OperationDescription.LegacyBadgeAPIManage": "Grants access to manage your badges."
+    "OperationDescription.LegacyBadgeAPIManage": "Grants access to manage your badges.",
+    "OperationDescription.CommerceItemAPIRead": "This allows viewing information about your commerce items.",
+    "OperationDescription.CommerceMerchantConnectionAPIWrite": "This allows editing of your commerce merchant connections."
 }

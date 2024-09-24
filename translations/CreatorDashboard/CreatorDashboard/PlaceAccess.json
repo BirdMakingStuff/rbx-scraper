@@ -32,5 +32,6 @@
     "Description.ClearJoinRestrictionsOverrideDialog": "Your overall setting for Direct Access to Places will apply instead",
     "Action.ConfirmReset": "Reset",
     "Action.Cancel": "Cancel",
-    "Action.Reset": "Reset"
+    "Action.Reset": "Reset",
+    "Label.ViewAndRespond": "View & Respond"
 }

@@ -299,5 +299,9 @@
     "Description.Visible": "Still visible and can be used in experience",
     "Label.OffPlatformCreation": "Off-platform creation",
     "Description.TemporarilyOffsale": "Temporarily offsale",
-    "Description.NotDiscoverable": "No longer discoverable during search"
+    "Description.NotDiscoverable": "No longer discoverable during search",
+    "Description.Visibility": "Visibility",
+    "Description.Wearable": "Can still be worn by players",
+    "Label.Claimant": "Claimant",
+    "Label.DueDate": "Due Date"
 }
