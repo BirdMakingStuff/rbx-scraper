@@ -474,5 +474,6 @@
     "Action.EESaveEvent": "Save Event",
     "Label.CannotBeSold": "Cannot Be Sold",
     "Label.AvatarCreationsCreatorName": "By {linkStart} {creatorName} {linkEnd}",
-    "Action.Analytics": "Analytics"
+    "Action.Analytics": "Analytics",
+    "Label.EEPlaceId": "Start Place"
 }

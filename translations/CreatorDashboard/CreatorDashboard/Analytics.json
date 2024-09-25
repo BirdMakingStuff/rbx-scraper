@@ -881,5 +881,6 @@
     "Heading.ThumbnailPersonalization": "Thumbnail Personalization",
     "Label.Metric.ThumbnailImpressions": "Impressions",
     "Label.Metric.ThumbnailQualifiedPTR": "Qualified Play Through Rate",
-    "Label.Dimension.ThumbnailAsset": "Thumbnail"
+    "Label.Dimension.ThumbnailAsset": "Thumbnail",
+    "Label.FilterOptionPublishExperience": "Publish Experience"
 }
