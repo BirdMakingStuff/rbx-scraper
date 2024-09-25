@@ -7543,9 +7543,11 @@
     "FFlagStudioFixPluginLoadingTests_Rollout": "True;60;2024-09-25T16:08:23",
     "DFFlagTrackerPerfTelemetryIncludePerfData_Rollout": "True;60;2024-09-25T16:14:21",
     "FFlagStudioFixPluginFilePathUtils_Rollout": "True;60;2024-09-25T16:26:43",
-    "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
+    "DFStringDualWritePointToV2WhiteList_Rollout": "ImmersiveAdRender;30;2024-09-25T17:01:26",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagStudioFixDescriptorAccess_Rollout": "True;60;2024-09-25T17:15:51",
+    "FFlagGpuGeometryManager10": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
     "FFlagGpuGeometryManager13": "True",
@@ -7996,8 +7998,8 @@
     "FFlagReduceGuiStateGfxGuiInvalidation": "True",
     "FFlagReportUITimePercentage": "True",
     "FFlagSceneHashMaps3": "True",
-    "FStringFlagRepoGitHashFastString": "738afda350684d071db6cff3ee570a5c36f787b8",
-    "DFStringFlagRepoGitHashDynamicString": "738afda350684d071db6cff3ee570a5c36f787b8",
-    "FStringFlipTimeStampFastString": "2024-09-25T16:44:07.800Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-25T16:44:07.800Z"
+    "FStringFlagRepoGitHashFastString": "441d77533387b6e9d7db57c5e956a887dfb1de9c",
+    "DFStringFlagRepoGitHashDynamicString": "441d77533387b6e9d7db57c5e956a887dfb1de9c",
+    "FStringFlipTimeStampFastString": "2024-09-25T17:37:03.447Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-25T17:37:03.447Z"
 }
