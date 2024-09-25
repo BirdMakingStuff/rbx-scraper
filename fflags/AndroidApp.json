@@ -7540,6 +7540,10 @@
     "FFlagTrackLanguageServiceDestructorTime": "True",
     "FFlagPerformanceTelemetryPerTokenConfiguration": "True",
     "FIntPathfindingPartPositionExceedTileCapacityThrottleHundrethsPercentPoints": "10",
+    "FFlagStudioFixPluginLoadingTests_Rollout": "True;60;2024-09-25T16:08:23",
+    "DFFlagTrackerPerfTelemetryIncludePerfData_Rollout": "True;60;2024-09-25T16:14:21",
+    "FFlagStudioFixPluginFilePathUtils_Rollout": "True;60;2024-09-25T16:26:43",
+    "FFlagAXFixShopAndExperiencesById_Rollout": "True;60;2024-09-25T16:32:34",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8026,8 +8030,9 @@
     "FFlagEngineVoiceCullingExperiment": "True",
     "FFlagCLI116909Android": "True",
     "FFlagUseClosestPointOnTriMesh": "True",
-    "FStringFlagRepoGitHashFastString": "093a9b75a18c42d6d619208bc4afd2facb870b42",
-    "DFStringFlagRepoGitHashDynamicString": "093a9b75a18c42d6d619208bc4afd2facb870b42",
-    "FStringFlipTimeStampFastString": "2024-09-25T01:32:32.575Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-25T01:32:32.575Z"
+    "EnableZstdClientSettingsSharedCompressionDictionary2": "true",
+    "FStringFlagRepoGitHashFastString": "738afda350684d071db6cff3ee570a5c36f787b8",
+    "DFStringFlagRepoGitHashDynamicString": "738afda350684d071db6cff3ee570a5c36f787b8",
+    "FStringFlipTimeStampFastString": "2024-09-25T16:44:07.800Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-25T16:44:07.800Z"
 }
