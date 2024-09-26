@@ -7502,7 +7502,6 @@
     "FFlagStudioDataModelProxyWithSubmitTask2": "True",
     "FFlagImprovePreviewMessage": "True",
     "FFlagMultifetchUseProcessConversations": "True",
-    "DFIntOperationStatusPollingForTeamCreatePlaceMaxRetry": "30",
     "FFlagStudioHideWithDataModelContextImpl": "True",
     "FFlagGuiServiceTrackLayoutTimeForPerfTests": "True",
     "FFlagXboxDoNotDestroySurfaceViewOnRestartLuaApp": "True",
@@ -7572,7 +7571,11 @@
     "FFlagAddPresenceIndicatorToUserSearch": "True",
     "FFlagAudioPlayerReplicateAsset": "True",
     "DFFlagHugeExtentsUtilityFunction": "True",
-    "FFlagStudioCrash2345_Rollout": "True;30;2024-09-26T16:12:57",
+    "DFIntTeamCreatePlaceUploadRetryCount_Rollout": "0;30;2024-09-26T16:58:21",
+    "FFlagRegisterActiveSessionMetatype_Rollout": "True;30;2024-09-26T17:03:05",
+    "DFIntOperationStatusPollingForTeamCreatePlaceMaxRetry_Rollout": "45;30;2024-09-26T17:07:07",
+    "FFlagStudioCrash2345": "True",
+    "DFFlagSimCSGCdecPerfTelemetry_Rollout": "True;60;2024-09-26T17:35:57",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8089,8 +8092,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "4807fe9205beacf4814f034b22289d97c2524c46",
-    "DFStringFlagRepoGitHashDynamicString": "4807fe9205beacf4814f034b22289d97c2524c46",
-    "FStringFlipTimeStampFastString": "2024-09-26T16:27:28.756Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-26T16:27:28.756Z"
+    "FStringFlagRepoGitHashFastString": "a89f456047f4dcc37262383e4797e695e34f22be",
+    "DFStringFlagRepoGitHashDynamicString": "a89f456047f4dcc37262383e4797e695e34f22be",
+    "FStringFlipTimeStampFastString": "2024-09-26T17:39:40.882Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-26T17:39:40.882Z"
 }
