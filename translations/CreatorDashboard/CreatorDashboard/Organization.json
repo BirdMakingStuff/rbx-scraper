@@ -230,7 +230,7 @@
     "Message.MemberPermissionGrantSection": "{lineBreak}You are {strongStart}granting{strongEnd} the following permissions to the role ‘Member’:",
     "Message.MemberPermissionRevokeSection": "{lineBreak}You are {strongStart}revoking{strongEnd} the following permissions to the role ‘Member’:",
     "Message.MemberRoleInfo": "All group members are in the Member role. Membership and settings for the Member role are not configurable, and permissions granted to this role will be granted to all group members.",
-    "Description.ExperienceCreateLinkAndEvent": "Create and configure tracking links and experience events",
+    "Description.ExperienceCreateLinkAndEvent": "Create and configure tracking links",
     "Description.OrganizationView": "View group",
     "Heading.GroupActivityHistory": "Group Activity History",
     "Label.ActivityHistory": "Activity History",
