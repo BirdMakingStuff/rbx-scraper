@@ -96,7 +96,7 @@
     "Description.Benchmarking": "Updated quarterly, benchmarks allow you to compare your game’s performance to others with similar rankings so you can set reasonable goals to get to the next tier.",
     "Label.Total": "Total",
     "Label.Country": "Country (top 5)",
-    "Label.Locale": "Language (top 5)",
+    "Label.Locale": "Top Languages",
     "Label.AgeGroup": "Age Group",
     "Label.DeviceType": "Platform",
     "Label.OperatingSystem": "OS",
@@ -882,5 +882,7 @@
     "Label.Metric.ThumbnailImpressions": "Impressions",
     "Label.Metric.ThumbnailQualifiedPTR": "Qualified Play Through Rate",
     "Label.Dimension.ThumbnailAsset": "Thumbnail",
-    "Label.FilterOptionPublishExperience": "Publish Experience"
+    "Label.FilterOptionPublishExperience": "Publish Experience",
+    "Label.FilterOptionTransferOwnership": "Ownership Transfer",
+    "Label.FilterOptionConfigureRecurringPayouts": "Configure Recurring Payouts"
 }
