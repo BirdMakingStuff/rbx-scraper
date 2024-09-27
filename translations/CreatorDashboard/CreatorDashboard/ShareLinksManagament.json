@@ -31,5 +31,6 @@
     "Label.FilterError": "Contains inappropriate language.",
     "Lable.CampaignNameRequired": "Campaign name is required",
     "Label.ShareLink": "Share Link",
-    "Label.CampaignNameRequired": "Campaign name is required"
+    "Label.CampaignNameRequired": "Campaign name is required",
+    "Label.CampaignNameLooksGood": "Campaign name looks good"
 }

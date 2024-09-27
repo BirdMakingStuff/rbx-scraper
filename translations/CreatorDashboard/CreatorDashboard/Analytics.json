@@ -884,5 +884,15 @@
     "Label.Dimension.ThumbnailAsset": "Thumbnail",
     "Label.FilterOptionPublishExperience": "Publish Experience",
     "Label.FilterOptionTransferOwnership": "Ownership Transfer",
-    "Label.FilterOptionConfigureRecurringPayouts": "Configure Recurring Payouts"
+    "Label.FilterOptionConfigureRecurringPayouts": "Configure Recurring Payouts",
+    "Label.FilterOptionConfigureRolesPermissions": "Configure Permissions",
+    "Label.FilterOptionConfigureRolesSettings": "Configure Settings",
+    "Label.FilterOptionContent": "Content",
+    "Label.FilterOptionCreateOrDeleteRoles": "Create or Delete Roles",
+    "Label.FilterOptionGroupInformationUpdate": "Group Information Update",
+    "Label.FilterOptionInvitation": "Invitation",
+    "Label.FilterOptionSendOneTimePayout": "Send One-Time Payout",
+    "Label.FilterOptionUploadAsset": "Upload Asset",
+    "Label.FilterOptionManageMembers": "Membership Changes",
+    "Label.FilterOptionRoleAssignment": "Role Assignment"
 }
