@@ -7598,8 +7598,10 @@
     "FFlagAuthRefactorConsoleDisclaimerText": "False",
     "FFlagSessionGetSessionID": "True",
     "DFFlagSolverStateReplicatedOnly2": "True",
-    "DFFlagSolverStateReplicatedOnly2_PlaceFilter": "False;6604198805",
+    "DFFlagSolverStateReplicatedOnly2_PlaceFilter": "False;6604198805;11814147110",
     "FFlagPromisifyVoiceRequests": "True",
+    "FFlagSTUDIO_CRASH_17823_Rollout": "True;30;2024-09-27T16:06:13",
+    "FFlagUseCachedAudibilityMeasurements_Rollout": "False;30;2024-09-27T16:09:19",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -7745,6 +7747,7 @@
     "FFlagSearchOmniAutocompletePageIXP5": "True",
     "DFIntTeamCreateSaveCompressionFailureTelemetryThrottleHundredthsPercent": "10000",
     "FFlagAXHeadRefinementVisualFixes": "True",
+    "FFlagAXToggleContinuousLoad1_Rollout": "True;60;2024-09-27T16:31:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8061,8 +8064,8 @@
     "FFlagReportUITimePercentage": "True",
     "FFlagEngineVoiceCullingExperiment2": "True",
     "FFlagVoiceChatIXPToolRegisterExposureSeparately": "True",
-    "FStringFlagRepoGitHashFastString": "25db75b98c4fec1cede98d4d183e65bd52ff4b5a",
-    "DFStringFlagRepoGitHashDynamicString": "25db75b98c4fec1cede98d4d183e65bd52ff4b5a",
-    "FStringFlipTimeStampFastString": "2024-09-27T00:57:33.121Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-27T00:57:33.121Z"
+    "FStringFlagRepoGitHashFastString": "ccd264e0d775656e6ec046b3f805930b6a7db20b",
+    "DFStringFlagRepoGitHashDynamicString": "ccd264e0d775656e6ec046b3f805930b6a7db20b",
+    "FStringFlipTimeStampFastString": "2024-09-27T16:31:52.131Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-27T16:31:52.131Z"
 }
