@@ -6688,7 +6688,6 @@
     "FFlagMultiStyleLink": "True",
     "FFlagExplorerFixRename": "True",
     "FFlagGrassLengthHarmony2": "True",
-    "DFFlagPauseSurfaceControllerBeforeSwappingDataModel": "True",
     "FFlagUseSizeInClipRect": "True",
     "FFlagLuaAppRefactorExperienceInfoTable3": "True",
     "FFlagReferredByPlayerId": "True",
@@ -7601,6 +7600,12 @@
     "DFFlagSolverStateReplicatedOnly2_PlaceFilter": "False;6604198805;11814147110",
     "FFlagPromisifyVoiceRequests": "True",
     "FFlagSTUDIO_CRASH_17823": "True",
+    "FFlagSetEngineContextScopeInDataModelJob_Rollout": "True;30;2024-09-27T17:46:22",
+    "FFlagRemoveRobuxBalanceFromLandingPage_Rollout": "True;60;2024-09-27T17:46:59",
+    "DFFlagOpenCloudUrlPathStringInFlag_Rollout": "True;60;2024-09-27T17:48:03",
+    "DFFlagSolverStateReplicatedOnly2_Rollout": "False;60;2024-09-27T17:55:17",
+    "DFStringOpenCloudSupportedMethodNamesCsv_Rollout": "userNotification,ListInventoryItems,GetUniverse,GetPlace,GetGroup,ListGroupMemberships,GetOperation,GenerateUserThumbnail;60;2024-09-27T17:56:23",
+    "FFlagDeeplinkTelemetryCounters": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -7766,8 +7771,8 @@
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": "True",
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": "True",
     "FFlagSimLazyIslandUpdateAndRepack": "True",
-    "FStringFlagRepoGitHashFastString": "6cb5d35ea4ae8f88faa4592f23e10e2686649f42",
-    "DFStringFlagRepoGitHashDynamicString": "6cb5d35ea4ae8f88faa4592f23e10e2686649f42",
-    "FStringFlipTimeStampFastString": "2024-09-27T17:32:24.092Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-27T17:32:24.092Z"
+    "FStringFlagRepoGitHashFastString": "e045701ff669a388bce4b0e4e4bc6e4f31548264",
+    "DFStringFlagRepoGitHashDynamicString": "e045701ff669a388bce4b0e4e4bc6e4f31548264",
+    "FStringFlipTimeStampFastString": "2024-09-27T18:41:17.369Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-27T18:41:17.369Z"
 }
