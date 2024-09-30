@@ -894,5 +894,8 @@
     "Label.FilterOptionSendOneTimePayout": "Send One-Time Payout",
     "Label.FilterOptionUploadAsset": "Upload Asset",
     "Label.FilterOptionManageMembers": "Membership Changes",
-    "Label.FilterOptionRoleAssignment": "Role Assignment"
+    "Label.FilterOptionRoleAssignment": "Role Assignment",
+    "Label.Status.Active": "Active",
+    "Label.Status.Inactive": "Inactive",
+    "Title.Table.Status": "Status"
 }

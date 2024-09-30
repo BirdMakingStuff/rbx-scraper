@@ -74,5 +74,6 @@
     "Label.TodayAt": "Today at {time}",
     "Label.YesterdayAt": "Yesterday at {time}",
     "Label.DateAtTime": "{date} at {time}",
-    "Description.EarnedFundsAsterisk": "* Earned funds can take up to 72 hours to appear in estimated balance eligible for DevEx."
+    "Description.EarnedFundsAsterisk": "* Earned funds can take up to 72 hours to appear in estimated balance eligible for DevEx.",
+    "Message.DevexMaintenance": "We are aware of some probable issues with your estimated earned Robux balance. Thank you for your patience whilst we address this."
 }

@@ -100,5 +100,8 @@
     "Description.ThumbnailPersonalizationOn": "Personalization is active. Data last updated on {time}.",
     "Title.ConfirmTestNewThumbnailsTips": "Pro Tips:",
     "Action.DownloadData": "Download data",
-    "Description.Table.MinActiveThumbnails": "You must have one active thumbnail"
+    "Description.Table.MinActiveThumbnails": "You must have one active thumbnail",
+    "Description.ConfirmDeactiveThumbnails": "Traffic will shift to your remaining active thumbnails. Your active thumbnail data will not reset.",
+    "Title.ConfirmDeactiveThumbnails": "Set thumbnail(s) to inactive?",
+    "Action.ContinueTest": "Continue"
 }
