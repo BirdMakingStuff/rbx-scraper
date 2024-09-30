@@ -2768,7 +2768,7 @@
     "DFIntLongAvatarAssetTelemetryThrottleHundredthsPercent": "100",
     "DFIntLongAvatarAssetTelemetryMinimumMilliseconds": "50",
     "FFlagLuaAppEnableGameGridTable2": "True",
-    "DFIntWiringApiReportingHundredthsPercent": "10000",
+    "DFIntWiringApiReportingHundredthsPercent": "1000",
     "FFlagDescendantsAreRecursivelyInteractable2": "True",
     "FFlagIrisGyroEnabled": "True",
     "FFlagFixKeyboardOffsetInExperience": "True",
@@ -7618,8 +7618,6 @@
     "FFlagAddChannelInfoToMainWindowTitle": "True",
     "FFlagLocServiceEnableTextScraperInStudioOnly": "True",
     "FFlagLocalizationToolsUpdateTextScraperUI": "True",
-    "FFlagVoiceChatRedefineVEFSubscriptionCompletedMilestone": "True",
-    "DFIntWiringApiReportingHundredthsPercent_Rollout": "1000;60;2024-09-30T20:59:13",
     "FFlagVideoMemoryMetricsAddFieldBeforeSend_Rollout": "True;60;2024-09-30T21:22:30",
     "FFlagAssetImportStartSessionAsync_Rollout": "True;60;2024-09-30T21:27:03",
     "AllowVideoPreRoll": "True",
@@ -8109,10 +8107,10 @@
     "FFlagCLI116909Android": "True",
     "EnableZstdClientSettingsSharedCompressionDictionary2": "true",
     "FStringEngineVoiceCullingLayer": "Engine.MobileVoiceCullingExposure",
-    "FFlagSimSolverFinalPhaseDecreasePartMinimumDensity_Rollout": "True;60;2024-09-30T20:26:47",
     "FFlagReduceGuiStateGfxGuiInvalidation_Rollout": "True;60;2024-09-30T21:13:26",
-    "FStringFlagRepoGitHashFastString": "de8a3abe942892ff9ea42f3fd9b24fb75fc588b6",
-    "DFStringFlagRepoGitHashDynamicString": "de8a3abe942892ff9ea42f3fd9b24fb75fc588b6",
-    "FStringFlipTimeStampFastString": "2024-09-30T21:28:04.442Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-30T21:28:04.442Z"
+    "FFlagSimSolverFinalPhaseDecreasePartMinimumDensity": "True",
+    "FStringFlagRepoGitHashFastString": "6bbe50fc095e1d3ab0844caf912183ef584d41b1",
+    "DFStringFlagRepoGitHashDynamicString": "6bbe50fc095e1d3ab0844caf912183ef584d41b1",
+    "FStringFlipTimeStampFastString": "2024-09-30T22:34:07.961Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-30T22:34:07.961Z"
 }

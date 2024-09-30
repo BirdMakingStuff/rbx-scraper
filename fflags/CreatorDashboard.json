@@ -27,5 +27,6 @@
     "enableShareLinkPromo": "true",
     "enableShareLinkManagment": "true",
     "isOldAutomaticTextCaptureDisabled": "true",
-    "personalizationBannerIdsGated": ""
+    "personalizationBannerIdsGated": "",
+    "enableDevexMaintenanceBanner": "true"
 }
