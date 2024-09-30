@@ -7607,6 +7607,15 @@
     "FFlagEnableRealtimeProtocolForAllV601": "True",
     "FFlagUGCValidationFullBodyDownloadFailureInfo": "True",
     "FFlagUGCValidationRemoveRotationCheck": "True",
+    "DFFlagSimFindNearbyPartsEarlyOut_Rollout": "True;60;2024-09-30T17:50:07",
+    "FFlagStudioUseLocalizedReflectionMetadata2_Rollout": "True;60;2024-09-30T18:04:06",
+    "FFlagStudioShowNoninsertableClassesInObjectBrowser_Rollout": "True;60;2024-09-30T18:04:30",
+    "FFlagStudioNullCheckQWidgetRelayOnShowEvent_Rollout": "True;60;2024-09-30T18:04:55",
+    "FFlagStudioSetQActionMenuRole_Rollout": "True;60;2024-09-30T18:05:02",
+    "FFlagAddDownloadAsCopyToSystemMenu_Rollout": "True;60;2024-09-30T18:05:08",
+    "FFlagCreatePluginUriForLegacyCreatePlugin_Rollout": "True;60;2024-09-30T18:05:45",
+    "FFlagAddChannelInfoToMainWindowTitle_Rollout": "True;60;2024-09-30T18:06:41",
+    "FFlagVideoDetailedMemoryMetrics_Rollout": "True;60;2024-09-30T18:09:24",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -7772,8 +7781,8 @@
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": "True",
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": "True",
     "FFlagSimLazyIslandUpdateAndRepack": "True",
-    "FStringFlagRepoGitHashFastString": "274503a3f6c1f18c5f698bf12426c3c05d5908ca",
-    "DFStringFlagRepoGitHashDynamicString": "274503a3f6c1f18c5f698bf12426c3c05d5908ca",
-    "FStringFlipTimeStampFastString": "2024-09-30T17:37:15.498Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-30T17:37:15.498Z"
+    "FStringFlagRepoGitHashFastString": "a03fc30c364250c20a71199100e9478e19945eff",
+    "DFStringFlagRepoGitHashDynamicString": "a03fc30c364250c20a71199100e9478e19945eff",
+    "FStringFlipTimeStampFastString": "2024-09-30T18:29:23.705Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-30T18:29:23.705Z"
 }
