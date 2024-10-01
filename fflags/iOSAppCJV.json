@@ -7621,6 +7621,12 @@
     "DFIntCoreScriptTelemetryDownSamplingThousandthsPercent": "5",
     "FFlagRespectFlagsWhenBinding": "True",
     "FFlagStudioSettingsManagerExtensibility3": "True",
+    "DFFlagSimCSGAPIUseClosedVoxel3_Rollout": "True;60;2024-10-01T16:38:45",
+    "DFFlagSimCloseVoxelFixDecompose_Rollout": "True;60;2024-10-01T16:38:45",
+    "DFFlagSimClosedVoxelFix2_Rollout": "True;60;2024-10-01T16:38:45",
+    "DFFlagSimDCDEnableWithoutRollout_Rollout": "True;60;2024-10-01T16:38:45",
+    "DFFlagSimDcdRecompUseClosedVoxel3_Rollout": "True;60;2024-10-01T16:38:45",
+    "DFIntSimCSGClosedVoxelMaxCount_Rollout": "128;60;2024-10-01T16:38:45",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8225,8 +8231,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "d860d79460b35732298160045f8ded5af23dfc79",
-    "DFStringFlagRepoGitHashDynamicString": "d860d79460b35732298160045f8ded5af23dfc79",
-    "FStringFlipTimeStampFastString": "2024-10-01T00:32:09.430Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-01T00:32:09.430Z"
+    "FStringFlagRepoGitHashFastString": "32977345567182ff401ae15ee10d95db8e6dad92",
+    "DFStringFlagRepoGitHashDynamicString": "32977345567182ff401ae15ee10d95db8e6dad92",
+    "FStringFlipTimeStampFastString": "2024-10-01T16:39:21.398Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-01T16:39:21.398Z"
 }
