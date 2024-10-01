@@ -81,8 +81,8 @@
     "Description.ThumbnailPersonalizationFromOverview": "We're auto-targeting the best thumbnail to each user on Home to boost your qualified play-through rate. Update your thumbnails now to improve results.",
     "Label.GoToThumbnails": "Go to Thumbnails",
     "Description.UpdateActiveHomepageThumbnails": "Updating the list of active thumbnails will reset your thumbnail data below.",
-    "Label.ConfirmDeleteHomepageThumbnail": "Are you sure you want to delete this thumbnail? This will change the thumbnails enabled for personalization and the data will be reset.",
-    "Label.YesDelete": "Yes, delete",
+    "Label.ConfirmDeleteHomepageThumbnail": "Are you sure you want to delete this inactive thumbnail? This action cannot be undone.",
+    "Label.YesDelete": "Delete",
     "Title.UploadImageFailed": "Upload image failed",
     "Description.UploadImageFailed": "Thumbnails should be the following formats: {formats} and not exceed 3MB in size.",
     "Title.ThumbnailPersonalizationFromOverviewOff": "Use automatic thumbnail targeting to grow faster",
@@ -91,7 +91,7 @@
     "Description.ThumbnailPersonalizationNUXBannerOff": "Upload multiple thumbnails to Home now and we'll auto-target the best one to each user to boost your qualified play-through rate.",
     "Title.ConfirmTestNewThumbnails": "Test new thumbnails?",
     "Description.ConfirmTestNewThumbnails": "Your data will reset, so download it now. New data will appear in a few hours. Traffic will be evenly split across active thumbnails at first, then more traffic will be sent to the best performing thumbnails every hour.",
-    "Description.ConfirmTestNewThumbnailsTips": "1. Wait for qualified PTR per thumbnail to stabilize before changes.",
+    "Description.ConfirmTestNewThumbnailsTips": "1. Wait for clear trends in impressions per thumbnail before changes.",
     "Description.ConfirmTestNewThumbnailsTips2": "2. Avoid updating your thumbnails more than 1-2x a week.",
     "Description.ConfirmTestNewThumbnailsTips3": "3. Personalization may not yield meaningful results if <1000 DAU.",
     "Action.ConfirmTest": "Yes, test",
@@ -103,5 +103,6 @@
     "Description.Table.MinActiveThumbnails": "You must have one active thumbnail",
     "Description.ConfirmDeactiveThumbnails": "Traffic will shift to your remaining active thumbnails. Your active thumbnail data will not reset.",
     "Title.ConfirmDeactiveThumbnails": "Set thumbnail(s) to inactive?",
-    "Action.ContinueTest": "Continue"
+    "Action.ContinueTest": "Continue",
+    "Title.DeleteInactiveThumbnail": "Delete inactive thumbnail?"
 }

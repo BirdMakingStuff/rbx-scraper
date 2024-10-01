@@ -35,5 +35,12 @@
     "Label.CampaignNameLooksGood": "Campaign name looks good",
     "Label.CampaignNameGood": "Campaign name looks good",
     "Label.LinkPreviewTooltip": "This is how your link will look when shared on social platforms",
-    "Heading.ShareYourLinkV2": "Share your link 🎉"
+    "Heading.ShareYourLinkV2": "Share your link 🎉",
+    "Label.ExperienceUrlOptional": "Experience URL (optional)",
+    "Label.SaveChanges": "Save changes",
+    "Label.EditLink": "Edit link",
+    "Label.EditVanityLink": "Edit vanity link",
+    "Label.CampaignNameNotChangeable": "Campaign name can't be changed.",
+    "Label.SelectVanityLinkExperience": "Select an experience to redirect users to when they visit {joinLinkStart}{joinLink}{joinLinkEnd}",
+    "Label.VanityLinkTooltip": "Vanity links are owned by a notable brand, person, or entity."
 }

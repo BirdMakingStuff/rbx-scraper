@@ -897,5 +897,9 @@
     "Label.FilterOptionRoleAssignment": "Role Assignment",
     "Label.Status.Active": "Active",
     "Label.Status.Inactive": "Inactive",
-    "Title.Table.Status": "Status"
+    "Title.Table.Status": "Status",
+    "Label.Status.Rejected": "Rejected",
+    "Label.Status.InReview": "In review",
+    "Description.Table.RejectedThumbnail": "Rejected due to moderation",
+    "Description.Table.ReviewingThumbnail": "In review"
 }
