@@ -7627,6 +7627,8 @@
     "DFFlagSimDCDEnableWithoutRollout_Rollout": "True;60;2024-10-01T16:38:45",
     "DFFlagSimDcdRecompUseClosedVoxel3_Rollout": "True;60;2024-10-01T16:38:45",
     "DFIntSimCSGClosedVoxelMaxCount_Rollout": "128;60;2024-10-01T16:38:45",
+    "FFlagSurfaceGuiRender3dAdornOpt_Rollout": "True;60;2024-10-01T17:10:55",
+    "FFlagPortGCSChallengeResponseFilteringToHttp_Rollout": "True;30;2024-10-01T17:12:50",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8199,6 +8201,9 @@
     "FFlagRenamePaymentsToSpendingTab": "True",
     "FFlagReduceGuiStateGfxGuiInvalidation": "True",
     "DFFlagCoreScriptTelemetry2": "True",
+    "FFlagSongbirdIXPVariants3_Rollout": "True;60;2024-10-01T16:49:59",
+    "FFlagFCFlagsThreadSafe7_Rollout": "True;60;2024-10-01T17:15:38",
+    "FFlagChromePeekArchitecture2": "False",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -8231,8 +8236,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "32977345567182ff401ae15ee10d95db8e6dad92",
-    "DFStringFlagRepoGitHashDynamicString": "32977345567182ff401ae15ee10d95db8e6dad92",
-    "FStringFlipTimeStampFastString": "2024-10-01T16:39:21.398Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-01T16:39:21.398Z"
+    "FStringFlagRepoGitHashFastString": "c1eb29a55f0a74035d830fd60a49db35f22dd9fd",
+    "DFStringFlagRepoGitHashDynamicString": "c1eb29a55f0a74035d830fd60a49db35f22dd9fd",
+    "FStringFlipTimeStampFastString": "2024-10-01T17:23:23.694Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-01T17:23:23.694Z"
 }
