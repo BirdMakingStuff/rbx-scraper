@@ -303,5 +303,18 @@
     "Description.Visibility": "Visibility",
     "Description.Wearable": "Can still be worn by players",
     "Label.Claimant": "Claimant",
-    "Label.DueDate": "Due Date"
+    "Label.DueDate": "Due Date",
+    "Label.NewClaim": "New Claim",
+    "Label.ReasonForDispute": "Reason for dispute",
+    "Label.SupportingInformation": "Supporting Information",
+    "Label.Agreements": "Agreements",
+    "Description.DisputeReasonOriginal": "My creation does not use the rights holder’s intellectual property",
+    "Description.DisputeReasonOriginalSub": "Select this option if you believe that the claim was made by mistake.",
+    "Description.DisputeReasonLicensed": "I have a license to use the rights holder's intellectual property",
+    "Description.DisputeReasonLicensedSub": "Include supporting documentation for your license in next step.",
+    "Description.DisputeReasonFair": "My use of the rightholder’s content is \"fair\" or otherwise legally allowed",
+    "Description.DisputeReasonFairSub": "Learn more about {linkStart}fair use here{linkEnd}.",
+    "Description.DisputeReasonRemoved": "I modified my creation to remove the infringing content",
+    "Description.DisputeReasonRemovedSub": "Select this option if you have modified your creation to remove infringing content and updated it to a new version.",
+    "Description.DisputeReasonSent": "Reason for dispute will be sent to {boldStart} {boldEnd} for review."
 }

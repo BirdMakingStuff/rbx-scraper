@@ -30,5 +30,12 @@
     "Heading.CreatorStoreItems": "Creator Store Items",
     "Heading.RevenueAndSales": "Revenue and Sales",
     "Label.Metric.StoreTransactions": "Sales",
-    "Label.Metric.StoreRevenue": "Revenue"
+    "Label.Metric.StoreRevenue": "Revenue",
+    "Label.Dimension.StoreItemType.Audio": "Audio",
+    "Label.Dimension.StoreItemType.Decal": "Decal",
+    "Label.Dimension.StoreItemType.FontFamily": "FontFamily",
+    "Label.Dimension.StoreItemType.MeshPart": "MeshPart",
+    "Label.Dimension.StoreItemType.Video": "Video",
+    "Label.Dimension.IsFree.Free": "Free",
+    "Label.Dimension.IsFree.Paid": "Paid"
 }

@@ -104,5 +104,8 @@
     "Description.ConfirmDeactiveThumbnails": "Traffic will shift to your remaining active thumbnails. Your active thumbnail data will not reset.",
     "Title.ConfirmDeactiveThumbnails": "Set thumbnail(s) to inactive?",
     "Action.ContinueTest": "Continue",
-    "Title.DeleteInactiveThumbnail": "Delete inactive thumbnail?"
+    "Title.DeleteInactiveThumbnail": "Delete inactive thumbnail?",
+    "Description.ThumbnailPersonalizationWithSpammyThumbnail": "One or more of your thumbnails has low qualified PTR to PTR ratio and has been removed from personalization.",
+    "Description.ThumbnailPersonalizationOffSubtitle": "Use personalization to automatically show the most relevant thumbnail to each user.",
+    "Description.ThumbnailPersonalizationOnSubtitle": "For best results, wait for your qualified play through rate by thumbnail chart to stabilize before making updates."
 }
