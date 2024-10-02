@@ -7655,8 +7655,9 @@
     "FFlagPeekShowsOnSongChange_Rollout": "True;60;2024-10-02T16:15:51",
     "FFlagGpuGeometryManager10": "True",
     "FFlagAXAdjustAccessoryViewEarlyOut2_Rollout": "True;60;2024-10-02T16:37:45",
-    "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagTranslatorUseInAbuseMethods_Rollout": "True;60;2024-10-02T16:55:03",
+    "FFlagGpuGeometryManager11": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
     "FFlagGpuGeometryManager13": "True",
@@ -8134,8 +8135,8 @@
     "FFlagReportShadingDistanceTelemetry": "True",
     "FFlagCLI102270": "True",
     "FFlagEnableVisBugChecks27": "True",
-    "FStringFlagRepoGitHashFastString": "abdebf5f4581d500119ce800712dd7e6ad8feab4",
-    "DFStringFlagRepoGitHashDynamicString": "abdebf5f4581d500119ce800712dd7e6ad8feab4",
-    "FStringFlipTimeStampFastString": "2024-10-02T16:39:33.658Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-02T16:39:33.658Z"
+    "FStringFlagRepoGitHashFastString": "4de38b3e3bd8233dcacd2a949e7ce2e9892b58ce",
+    "DFStringFlagRepoGitHashDynamicString": "4de38b3e3bd8233dcacd2a949e7ce2e9892b58ce",
+    "FStringFlipTimeStampFastString": "2024-10-02T17:36:15.826Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-02T17:36:15.826Z"
 }
