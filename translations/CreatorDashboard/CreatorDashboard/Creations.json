@@ -475,5 +475,10 @@
     "Label.CannotBeSold": "Cannot Be Sold",
     "Label.AvatarCreationsCreatorName": "By {linkStart} {creatorName} {linkEnd}",
     "Action.Analytics": "Analytics",
-    "Label.EEPlaceId": "Start Place"
+    "Label.EEPlaceId": "Start Place",
+    "Action.ArchiveInMarketplace": "Archive in Marketplace",
+    "Label.ConfirmArchive": "Confirm Archive",
+    "Description.MarketplaceArchive": "Once you archive an item, you cannot restore it. Your item will no longer be available on the Marketplace.",
+    "Message.ItemArchived": "Item archived in Marketplace",
+    "Label.Archived": "Archived"
 }

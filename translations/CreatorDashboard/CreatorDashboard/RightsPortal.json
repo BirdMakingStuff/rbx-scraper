@@ -316,5 +316,13 @@
     "Description.DisputeReasonFairSub": "Learn more about {linkStart}fair use here{linkEnd}.",
     "Description.DisputeReasonRemoved": "I modified my creation to remove the infringing content",
     "Description.DisputeReasonRemovedSub": "Select this option if you have modified your creation to remove infringing content and updated it to a new version.",
-    "Description.DisputeReasonSent": "Reason for dispute will be sent to {boldStart} {boldEnd} for review."
+    "Description.DisputeReasonSent": "Reason for dispute will be sent to {boldStart} {boldEnd} for review.",
+    "Description.SupportingInformationReview": "Add supporting information like license agreements, screenshots demonstrating creative process, etc. Supporting information will only be sent to Roblox for review if this claim is escalated by the rights holder. {linkStart}Learn more{linkEnd}",
+    "Description.DisputeDescribe": "Describe why you are disputing this claim",
+    "Description.DisputeStatement1": "I understand that rights holder will be able to review my dispute including my “username” or “group name” and “Reason for dispute”. Filing a dispute may result in the rights holder taking legal action against me.",
+    "Description.DisputeStatement2": "I understand that submitting fraudulent disputes may result in the termination of my Roblox account.",
+    "Message.DisputeSubmitted": "Your dispute was successfully submitted.",
+    "Description.DisputeTooltip": "Dispute this claim if you believe that you are the rightful owner, have the rights to use this creation or have removed the copied infringing content. {redStart}This action cannot be undone.{redEnd}",
+    "Message.DisputeFailed": "Dispute failed to submit.",
+    "Heading.Profile": "Profile"
 }

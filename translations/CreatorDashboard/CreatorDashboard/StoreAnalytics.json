@@ -37,5 +37,7 @@
     "Label.Dimension.StoreItemType.MeshPart": "MeshPart",
     "Label.Dimension.StoreItemType.Video": "Video",
     "Label.Dimension.IsFree.Free": "Free",
-    "Label.Dimension.IsFree.Paid": "Paid"
+    "Label.Dimension.IsFree.Paid": "Paid",
+    "Heading.StoreZeroState": "No store item sales during this period",
+    "Action.StoreZeroState": "View Store Items"
 }

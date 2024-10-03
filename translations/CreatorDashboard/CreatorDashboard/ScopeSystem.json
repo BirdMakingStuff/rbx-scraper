@@ -120,5 +120,8 @@
     "OperationDescription.LegacyGamePassAPIManage": "Grants access to manage your passes.",
     "OperationDescription.LegacyBadgeAPIManage": "Grants access to manage your badges.",
     "OperationDescription.CommerceItemAPIRead": "This allows viewing information about your commerce items.",
-    "OperationDescription.CommerceMerchantConnectionAPIWrite": "This allows editing of your commerce merchant connections."
+    "OperationDescription.CommerceMerchantConnectionAPIWrite": "This allows editing of your commerce merchant connections.",
+    "Label.TeamCollaboration": "Team Collaboration",
+    "Label.TeamCollaborations": "Team Collaborations",
+    "OperationDescription.LegacyTeamCollaborationAPIManage": "Grant access for managing team collaborations"
 }

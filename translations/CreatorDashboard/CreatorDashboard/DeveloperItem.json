@@ -112,5 +112,7 @@
     "Label.RobloxSocialLinkHelperText": "Roblox Experience or Group",
     "Label.GuildedSocialLinkHelperText": "Guilded Server or Channel",
     "Label.InvalidFormTooltipMessage": "All errors must be fixed before saving",
-    "Label.DevForumSocialLinkHelperText": "DevForum Topic"
+    "Label.DevForumSocialLinkHelperText": "DevForum Topic",
+    "Description.Permissions": "Configure who has permission to access your asset",
+    "Label.Collaborators": "Collaborators"
 }

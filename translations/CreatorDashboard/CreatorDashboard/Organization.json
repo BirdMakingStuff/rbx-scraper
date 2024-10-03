@@ -257,5 +257,7 @@
     "Label.FilterOptionSendOneTimePayout": "Send One-Time Payout",
     "Label.FilterOptionConfigureRecurringPayouts": "Configure Recurring Payouts",
     "Label.FilterOptionGroupInformationUpdate": "Group Information Update",
-    "Label.FilterOptionTransferOwnership": "Ownership Transfer"
+    "Label.FilterOptionTransferOwnership": "Ownership Transfer",
+    "Label.DateCustom": "Custom",
+    "Label.SearchCreator": "Search Creator"
 }

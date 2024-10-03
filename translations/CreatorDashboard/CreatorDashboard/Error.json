@@ -57,5 +57,7 @@
     "Label.CreatorStore": "Creator Store",
     "Label.AccessDenied": "Contact the owner to grant you access or switch accounts",
     "Response.ArchivingPreventedForWearableAsset": "Assets that are dependencies of wearable avatar items cannot be archived.",
-    "Label.Learn": "Learn"
+    "Label.Learn": "Learn",
+    "Label.AccessDeniedAgeOrRegion": "Due to your age and/or region, you can’t access this content",
+    "Description.AccessDeniedAgeOrRegion": "You can't access this content"
 }
