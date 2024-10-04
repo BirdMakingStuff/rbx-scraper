@@ -7737,6 +7737,10 @@
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "30000",
     "DFFlagZeroOutMouseDeltaOnTouchEnd": "True",
     "DFFlagImFedUp_Rollout": "True;60;2024-10-04T17:08:19",
+    "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "False;60;2024-10-04T18:02:36",
+    "FFlagUpdateLocalPlayerUsageBlockingUtility_Rollout": "True;30;2024-10-04T18:06:10",
+    "FFlagCapsStudioPropWidget_Rollout": "True;60;2024-10-04T18:21:48",
+    "DFFlagWebRTCHackDcstpSocketToCloseOnErrorEnabled": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8298,8 +8302,8 @@
     "FFlagLuaAppPlayButtonLoadingPrimary2": "True",
     "FFlagLuaAppPlayButtonUpdatesIxp3": "True",
     "FFlagLuaAppPlayButtonUpdatesIxpExposeConditionally2": "True",
-    "FStringFlagRepoGitHashFastString": "3fc68b9a5624e6a8369ce501903efe0ef0a3e6c2",
-    "DFStringFlagRepoGitHashDynamicString": "3fc68b9a5624e6a8369ce501903efe0ef0a3e6c2",
-    "FStringFlipTimeStampFastString": "2024-10-04T17:21:47.739Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T17:21:47.739Z"
+    "FStringFlagRepoGitHashFastString": "32a466f293b2ca9dd22edcfdeec9c12a1edd0fce",
+    "DFStringFlagRepoGitHashDynamicString": "32a466f293b2ca9dd22edcfdeec9c12a1edd0fce",
+    "FStringFlipTimeStampFastString": "2024-10-04T18:37:11.486Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T18:37:11.486Z"
 }

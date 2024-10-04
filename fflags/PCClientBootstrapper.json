@@ -136,6 +136,7 @@
     "FFlagAXHeadRefinementVisualFixes": "True",
     "FFlagWinInstallerUseHashAsKeyForPackages": "True",
     "DFFlagSimpleJSONDeprecateStringDefaultHandler": "True",
+    "FFlagAXFixLayeredClothingDeepLink_Rollout": "True;60;2024-10-04T18:16:21",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
@@ -149,8 +150,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
-    "DFStringFlagRepoGitHashDynamicString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
-    "FStringFlipTimeStampFastString": "2024-10-04T17:36:47.998Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T17:36:47.998Z"
+    "FStringFlagRepoGitHashFastString": "32a466f293b2ca9dd22edcfdeec9c12a1edd0fce",
+    "DFStringFlagRepoGitHashDynamicString": "32a466f293b2ca9dd22edcfdeec9c12a1edd0fce",
+    "FStringFlipTimeStampFastString": "2024-10-04T18:37:11.486Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T18:37:11.486Z"
 }

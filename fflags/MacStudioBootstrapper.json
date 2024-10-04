@@ -136,13 +136,14 @@
     "FFlagAXHeadRefinementVisualFixes": "True",
     "FFlagWinInstallerUseHashAsKeyForPackages": "True",
     "DFFlagSimpleJSONDeprecateStringDefaultHandler": "True",
+    "FFlagAXFixLayeredClothingDeepLink_Rollout": "True;60;2024-10-04T18:16:21",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FStringFlagRepoGitHashFastString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
-    "DFStringFlagRepoGitHashDynamicString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
-    "FStringFlipTimeStampFastString": "2024-10-04T17:36:47.998Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T17:36:47.998Z"
+    "FStringFlagRepoGitHashFastString": "0b7541e60b22c3db3e9296ebecc3fc342403248f",
+    "DFStringFlagRepoGitHashDynamicString": "0b7541e60b22c3db3e9296ebecc3fc342403248f",
+    "FStringFlipTimeStampFastString": "2024-10-04T18:42:19.276Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T18:42:19.276Z"
 }
