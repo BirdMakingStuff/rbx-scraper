@@ -313,6 +313,7 @@
     "Description.DisputeReasonLicensed": "I have a license to use the rights holder's intellectual property",
     "Description.DisputeReasonLicensedSub": "Include supporting documentation for your license in next step.",
     "Description.DisputeReasonFair": "My use of the rightholder’s content is \"fair\" or otherwise legally allowed",
+    "Action.ReviewClaims": "Review Claims",
     "Description.DisputeReasonFairSub": "Learn more about {linkStart}fair use here{linkEnd}.",
     "Description.DisputeReasonRemoved": "I modified my creation to remove the infringing content",
     "Description.DisputeReasonRemovedSub": "Select this option if you have modified your creation to remove infringing content and updated it to a new version.",
@@ -324,5 +325,12 @@
     "Message.DisputeSubmitted": "Your dispute was successfully submitted.",
     "Description.DisputeTooltip": "Dispute this claim if you believe that you are the rightful owner, have the rights to use this creation or have removed the copied infringing content. {redStart}This action cannot be undone.{redEnd}",
     "Message.DisputeFailed": "Dispute failed to submit.",
-    "Heading.Profile": "Profile"
+    "Heading.Profile": "Profile",
+    "Description.AcceptTooltip": "If you accept a claim, your creation remains off-sale. You won't make money from it, a and users cannot find it in search. Users that already have the creation in their inventory can continue to use it. {redStart}This action can’t be undone.{redEnd}",
+    "Heading.AcceptThisClaim": "Accept this claim",
+    "Description.AcceptClaimSub": "Accepting this claim will impact your creation in the following ways",
+    "Description.AcceptConsequence1": "The creation will remain or go {boldStart}offsale{boldEnd}",
+    "Description.AcceptConsequence2": "Your creation {boldStart}won’t be visible{boldEnd} during search",
+    "Description.AcceptConsequence3": "Players {boldStart}will still be able to wear{boldEnd} this creation",
+    "Description.AcceptConsequence4": "You {boldStart}cannot undo{boldEnd} this action afterwards."
 }
