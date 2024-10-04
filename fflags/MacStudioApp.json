@@ -7736,6 +7736,7 @@
     "FFlagEnableJoinVoiceOnUnibar": "True",
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "30000",
     "DFFlagZeroOutMouseDeltaOnTouchEnd": "True",
+    "DFFlagImFedUp_Rollout": "True;60;2024-10-04T17:08:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8606,6 +8607,8 @@
     "FFlagDebugShowLuaStartPage": "True",
     "FFlagUpdateThumbnailAssetDataLoaderRetryLogic": "True",
     "FIntThumbnailAssetDataLoaderMaxRetries": "10",
+    "FFlagFixDebugRibbon_Rollout": "True;60;2024-10-04T17:20:52",
+    "FFlagDeprecateExtentsArray2_Rollout": "True;60;2024-10-04T17:35:48",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -8699,8 +8702,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
     "FFlagAudioEqualizerEditorSanitizeMidRange": "True",
-    "FStringFlagRepoGitHashFastString": "744a3a5a69688a2e912e08003748f2d6905c14c9",
-    "DFStringFlagRepoGitHashDynamicString": "744a3a5a69688a2e912e08003748f2d6905c14c9",
-    "FStringFlipTimeStampFastString": "2024-10-04T16:33:08.056Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T16:33:08.056Z"
+    "FStringFlagRepoGitHashFastString": "6ed4dc65122c9c29ddacd463b5d4b19f8d21dbda",
+    "DFStringFlagRepoGitHashDynamicString": "6ed4dc65122c9c29ddacd463b5d4b19f8d21dbda",
+    "FStringFlipTimeStampFastString": "2024-10-04T17:37:03.635Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T17:37:03.635Z"
 }

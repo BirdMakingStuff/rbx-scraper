@@ -7736,6 +7736,7 @@
     "FFlagEnableJoinVoiceOnUnibar": "True",
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "30000",
     "DFFlagZeroOutMouseDeltaOnTouchEnd": "True",
+    "DFFlagImFedUp_Rollout": "True;60;2024-10-04T17:08:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8606,6 +8607,8 @@
     "FFlagDebugShowLuaStartPage": "True",
     "FFlagUpdateThumbnailAssetDataLoaderRetryLogic": "True",
     "FIntThumbnailAssetDataLoaderMaxRetries": "10",
+    "FFlagFixDebugRibbon_Rollout": "True;60;2024-10-04T17:20:52",
+    "FFlagDeprecateExtentsArray2_Rollout": "True;60;2024-10-04T17:35:48",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -8681,6 +8684,7 @@
     "DFFlagVideoAddSessionTrackingFeatureField": "True",
     "FFlagImageReuseMip0FromGImage": "True",
     "FFlagProfilePlatformEnableQuickLinks": "True",
+    "FFlagEnableZstdForClientSettings_Rollout": "True;60;2024-10-04T17:00:57",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -8696,8 +8700,8 @@
     "FFlagAudioEqualizerEditorSanitizeMidRange": "True",
     "FFlagGuiLayerCollectorGetsPositionForGamepadInputs": "True",
     "FFlagSelectionModeKeyboardReturnShouldSinkEvent": "True",
-    "FStringFlagRepoGitHashFastString": "744a3a5a69688a2e912e08003748f2d6905c14c9",
-    "DFStringFlagRepoGitHashDynamicString": "744a3a5a69688a2e912e08003748f2d6905c14c9",
-    "FStringFlipTimeStampFastString": "2024-10-04T16:33:08.056Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T16:33:08.056Z"
+    "FStringFlagRepoGitHashFastString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
+    "DFStringFlagRepoGitHashDynamicString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
+    "FStringFlipTimeStampFastString": "2024-10-04T17:36:47.998Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T17:36:47.998Z"
 }

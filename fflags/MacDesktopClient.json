@@ -7736,6 +7736,7 @@
     "FFlagEnableJoinVoiceOnUnibar": "True",
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "30000",
     "DFFlagZeroOutMouseDeltaOnTouchEnd": "True",
+    "DFFlagImFedUp_Rollout": "True;60;2024-10-04T17:08:19",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -8208,8 +8209,8 @@
     "DFFlagCoreScriptTelemetry2": "True",
     "DFIntUITimeOnGameLoaded_ReportHundredthsPercent": "50",
     "FFlagDeprecateExtentsArray2": "True",
-    "FStringFlagRepoGitHashFastString": "744a3a5a69688a2e912e08003748f2d6905c14c9",
-    "DFStringFlagRepoGitHashDynamicString": "744a3a5a69688a2e912e08003748f2d6905c14c9",
-    "FStringFlipTimeStampFastString": "2024-10-04T16:33:08.056Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T16:33:08.056Z"
+    "FStringFlagRepoGitHashFastString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
+    "DFStringFlagRepoGitHashDynamicString": "2422bd741a537c6e1ffbc5f1754910e776cefe80",
+    "FStringFlipTimeStampFastString": "2024-10-04T17:36:47.998Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T17:36:47.998Z"
 }
