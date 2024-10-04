@@ -7737,10 +7737,10 @@
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "30000",
     "DFFlagZeroOutMouseDeltaOnTouchEnd": "True",
     "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "False;60;2024-10-04T18:02:36",
-    "FFlagUpdateLocalPlayerUsageBlockingUtility_Rollout": "True;30;2024-10-04T18:06:10",
     "FFlagCapsStudioPropWidget_Rollout": "True;60;2024-10-04T18:21:48",
     "DFFlagWebRTCHackDcstpSocketToCloseOnErrorEnabled": "True",
     "DFFlagImFedUp": "True",
+    "FFlagUpdateLocalPlayerUsageBlockingUtility": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8046,8 +8046,8 @@
     "DFFlagCoreScriptTelemetry2": "True",
     "FFlagEnableXboxUpdateAdapter": "True",
     "FFlagAXFixLayeredClothingDeepLink_Rollout": "True;60;2024-10-04T18:16:21",
-    "FStringFlagRepoGitHashFastString": "0b7541e60b22c3db3e9296ebecc3fc342403248f",
-    "DFStringFlagRepoGitHashDynamicString": "0b7541e60b22c3db3e9296ebecc3fc342403248f",
-    "FStringFlipTimeStampFastString": "2024-10-04T18:42:19.276Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T18:42:19.276Z"
+    "FStringFlagRepoGitHashFastString": "ea8f0abbde733d2421a533503257dec65c20e3ff",
+    "DFStringFlagRepoGitHashDynamicString": "ea8f0abbde733d2421a533503257dec65c20e3ff",
+    "FStringFlipTimeStampFastString": "2024-10-04T19:13:03.872Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T19:13:03.872Z"
 }

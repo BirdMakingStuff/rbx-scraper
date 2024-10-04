@@ -7736,11 +7736,11 @@
     "FFlagEnableJoinVoiceOnUnibar": "True",
     "DFIntWaitLiveScriptingRemoteEventPeriodMs": "30000",
     "DFFlagZeroOutMouseDeltaOnTouchEnd": "True",
-    "DFFlagImFedUp_Rollout": "True;60;2024-10-04T17:08:19",
     "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "False;60;2024-10-04T18:02:36",
-    "FFlagUpdateLocalPlayerUsageBlockingUtility_Rollout": "True;30;2024-10-04T18:06:10",
     "FFlagCapsStudioPropWidget_Rollout": "True;60;2024-10-04T18:21:48",
     "DFFlagWebRTCHackDcstpSocketToCloseOnErrorEnabled": "True",
+    "DFFlagImFedUp": "True",
+    "FFlagUpdateLocalPlayerUsageBlockingUtility": "True",
     "FFlagGpuGeometryManager10": "True",
     "FFlagGpuGeometryManager11": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -8209,8 +8209,8 @@
     "DFIntUITimeOnGameLoaded_ReportHundredthsPercent": "50",
     "FFlagOneLineTextShouldntTruncateByHeight": "True",
     "FFlagLuaAppTopChartsFiltersEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "32a466f293b2ca9dd22edcfdeec9c12a1edd0fce",
-    "DFStringFlagRepoGitHashDynamicString": "32a466f293b2ca9dd22edcfdeec9c12a1edd0fce",
-    "FStringFlipTimeStampFastString": "2024-10-04T18:37:11.486Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-04T18:37:11.486Z"
+    "FStringFlagRepoGitHashFastString": "ea8f0abbde733d2421a533503257dec65c20e3ff",
+    "DFStringFlagRepoGitHashDynamicString": "ea8f0abbde733d2421a533503257dec65c20e3ff",
+    "FStringFlipTimeStampFastString": "2024-10-04T19:13:03.872Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-04T19:13:03.872Z"
 }
