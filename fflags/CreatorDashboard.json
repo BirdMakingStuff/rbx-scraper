@@ -22,12 +22,12 @@
     "enableLimitedPriceFloor": "true",
     "useNewActivityFeedEndpoint": "true",
     "enableEventsUnderExperiences": "true",
-    "enablePriceOptimizationBanner": "false",
     "enableMeshTextureApisToggle": "false",
     "enableShareLinkPromo": "true",
     "enableShareLinkManagment": "true",
     "isOldAutomaticTextCaptureDisabled": "true",
     "personalizationBannerIdsGated": "",
     "enableDevexMaintenanceBanner": "true",
-    "fiatPaidAccessWhitelist": "6206004188"
+    "fiatPaidAccessWhitelist": "6206004188",
+    "enablePriceOptimizationBanner": "true"
 }
