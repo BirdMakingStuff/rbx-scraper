@@ -107,5 +107,6 @@
     "Title.DeleteInactiveThumbnail": "Delete inactive thumbnail?",
     "Description.ThumbnailPersonalizationWithSpammyThumbnail": "One or more of your thumbnails has low qualified PTR to PTR ratio and has been removed from personalization.",
     "Description.ThumbnailPersonalizationOffSubtitle": "Use personalization to automatically show the most relevant thumbnail to each user.",
-    "Description.ThumbnailPersonalizationOnSubtitle": "For best results, wait for your qualified play through rate by thumbnail chart to stabilize before making updates."
+    "Description.ThumbnailPersonalizationOnSubtitle": "For best results, wait for your qualified play through rate by thumbnail chart to stabilize before making updates.",
+    "Description.ThumbnailPersonalizationOffBelowDAUSubtitle": "Consider growing your experience to {threshold} DAU before using thumbnail personalization"
 }
