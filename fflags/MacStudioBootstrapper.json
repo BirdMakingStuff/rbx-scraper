@@ -142,9 +142,9 @@
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
-    "FFlagNotificationPersonAddIcons_Staged": "True;SteadyState;5;30;Rollout;50;30;Promote;2024-10-08T18:50:46",
-    "FStringFlagRepoGitHashFastString": "c442c904aaab3e3ef435983a0345518889f888e1",
-    "DFStringFlagRepoGitHashDynamicString": "c442c904aaab3e3ef435983a0345518889f888e1",
-    "FStringFlipTimeStampFastString": "2024-10-08T19:23:31.075Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-08T19:23:31.075Z"
+    "FFlagNotificationPersonAddIcons": "True",
+    "FStringFlagRepoGitHashFastString": "02c9923e4d93f115a5dd79ff977deff40d340ba0",
+    "DFStringFlagRepoGitHashDynamicString": "02c9923e4d93f115a5dd79ff977deff40d340ba0",
+    "FStringFlipTimeStampFastString": "2024-10-08T20:28:15.066Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-08T20:28:15.066Z"
 }
