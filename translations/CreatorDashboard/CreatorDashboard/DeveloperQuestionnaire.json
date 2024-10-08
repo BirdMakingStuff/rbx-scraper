@@ -155,6 +155,7 @@
     "Questionnaire.Gambling": "Gambling",
     "Questionnaire.CrudeHumor": "Crude Humor",
     "Questionnaire.StrongLanguage": "Strong Language",
+    "Questionnaire.Fear": "Fear",
     "Title.GuidelinesAgeRestriction": "Age Restriction",
     "Tooltip.AgeRestrictionHeader": "Age restrictions specify which ages this policy applies to."
 }

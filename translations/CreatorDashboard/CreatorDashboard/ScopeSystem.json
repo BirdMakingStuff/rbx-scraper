@@ -123,5 +123,6 @@
     "OperationDescription.CommerceMerchantConnectionAPIWrite": "This allows editing of your commerce merchant connections.",
     "Label.TeamCollaboration": "Team Collaboration",
     "Label.TeamCollaborations": "Team Collaborations",
-    "OperationDescription.LegacyTeamCollaborationAPIManage": "Grant access for managing team collaborations"
+    "OperationDescription.LegacyTeamCollaborationAPIManage": "Grant access for managing team collaborations",
+    "OperationDescription.LegacyUniverseAPIManage": "Grants access to manage your experiences and certain information associated with your experiences (e.g. localization information)."
 }

@@ -42,5 +42,6 @@
     "Label.EditVanityLink": "Edit vanity link",
     "Label.CampaignNameNotChangeable": "Campaign name can't be changed.",
     "Label.SelectVanityLinkExperience": "Select an experience to redirect users to when they visit {joinLinkStart}{joinLink}{joinLinkEnd}",
-    "Label.VanityLinkTooltip": "Vanity links are owned by a notable brand, person, or entity."
+    "Label.VanityLinkTooltip": "Vanity links are owned by a notable brand, person, or entity.",
+    "Label.EmptyExperienceLink": "--"
 }

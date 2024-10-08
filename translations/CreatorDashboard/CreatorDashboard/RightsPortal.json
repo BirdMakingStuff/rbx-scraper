@@ -342,5 +342,9 @@
     "Label.AcceptAllClaims": "Accept All Claims",
     "Description.AcceptAllConsequence": "Automatically {boldStart}accepts{boldEnd} all claims against Purple Dino",
     "Message.ClaimAcceptAll": "Claims successfully accepted",
-    "Message.ClaimAcceptAllFailed": "Claims were not able to be accepted"
+    "Message.ClaimAcceptAllFailed": "Claims were not able to be accepted",
+    "Heading.CreateNewClaim": "Create a new claim",
+    "Label.FileAClaim": "If you believe someone has improperly copied your original creations, you can file a claim. Experiences, limiteds and bundles will be escalated to Roblox for review.",
+    "Heading.Escalated": "Escalated",
+    "Heading.All": "All"
 }

@@ -22,5 +22,9 @@
     "Header.Title": "Advanced",
     "Header.PasswordVerificationTitle": "Verify your password",
     "Description.PasswordVerification": "Confirm your password to proceed with this action:",
-    "Label.VerifyPasswordButton": "Verify & Opt-out"
+    "Label.VerifyPasswordButton": "Verify & Opt-out",
+    "Description.DisableConfirmationV3": "We highly discourage turning off Account Session Protection because it makes your account more vulnerable to cyberattacks. You’ll need to log in again on all other devices.",
+    "Description.NoProtectionWarningV2": "{BoldStart}Warning: You are turning off this security protection at your own risk. If your account is compromised as a result of turning off Account Session Protection, Roblox won’t be able to assist you.{BoldEnd}",
+    "Message.ProtectionOn": "Successfully turned on the protection.",
+    "Message.ProtectionOff": "Successfully turned off the protection."
 }
