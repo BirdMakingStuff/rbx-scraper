@@ -75,7 +75,7 @@
     "FFlagAXEnableSearchTelemetry": "True",
     "FFlagAXFixSearchResultsBarSpacing1": "True",
     "FFlagAXSearchRefactorForAnalytics": "True",
-    "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "True",
+    "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "False",
     "FFlagWinInstallerReportStatusFileTelemetry": "True",
     "DFFlagRandomNewSeedLimitReport": "True",
     "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
@@ -153,8 +153,8 @@
     "DeprecatedOSXMajorVersion": "10",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "8173b3dc1328744c7f0783adab7027e0caffe42c",
-    "DFStringFlagRepoGitHashDynamicString": "8173b3dc1328744c7f0783adab7027e0caffe42c",
-    "FStringFlipTimeStampFastString": "2024-10-08T20:36:39.672Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-08T20:36:39.672Z"
+    "FStringFlagRepoGitHashFastString": "f3dfde222e9850ac4aff16ee0199d97bd244b649",
+    "DFStringFlagRepoGitHashDynamicString": "f3dfde222e9850ac4aff16ee0199d97bd244b649",
+    "FStringFlipTimeStampFastString": "2024-10-08T21:34:19.196Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-08T21:34:19.196Z"
 }
