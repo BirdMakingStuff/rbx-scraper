@@ -259,5 +259,6 @@
     "Label.FilterOptionGroupInformationUpdate": "Group Information Update",
     "Label.FilterOptionTransferOwnership": "Ownership Transfer",
     "Label.DateCustom": "Custom",
-    "Label.SearchCreator": "Search Creator"
+    "Label.SearchCreator": "Search Creator",
+    "Description.OrganizationManageRolesWithRoleName": "Add or remove {roleName} role members"
 }

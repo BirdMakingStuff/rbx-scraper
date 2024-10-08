@@ -73,8 +73,8 @@
     "Description.UploadHomepageThumbnail": "Format: {formats}\nSize: less than 3MB\n Recommended ratio: 4:3",
     "Title.StartPersonalizeThumbnails": "Personalize your thumbnails",
     "Description.StartPersonalizeThumbnails": "Upload multiple thumbnails and we’ll show the most relevant thumbnail to each user. Thumbnails will be visible after moderation. {linkStart}Learn More{linkEnd}",
-    "Title.ThumbnailPersonalizationNUXBanner": "Automatic thumbnail targeting is now active",
-    "Description.ThumbnailPersonalizationNUXBanner": "We're auto-targeting the best thumbnail to each user on Home to boost your qualified play-through rate. Update your thumbnails now to improve results.",
+    "Title.ThumbnailPersonalizationNUXBanner": "Thumbnail personalization is active",
+    "Description.ThumbnailPersonalizationNUXBanner": "We're showing the most relevant thumbnail to each user on Home to boost your qualified play through rate.",
     "Label.ThumbnailPersonalizationNUXBanner": "Learn more",
     "Label.NoPermissionToUpload": "You do not have permission to upload",
     "Title.ThumbnailPersonalizationFromOverview": "Automatic thumbnail targeting is now active",
@@ -87,8 +87,8 @@
     "Description.UploadImageFailed": "Thumbnails should be the following formats: {formats} and not exceed 3MB in size.",
     "Title.ThumbnailPersonalizationFromOverviewOff": "Use automatic thumbnail targeting to grow faster",
     "Description.ThumbnailPersonalizationFromOverviewOff": "Upload multiple thumbnails to Home now and we'll auto-target the best one to each user to boost your qualified play-through rate.",
-    "Title.ThumbnailPersonalizationNUXBannerOff": "Use automatic thumbnail targeting to grow faster",
-    "Description.ThumbnailPersonalizationNUXBannerOff": "Upload multiple thumbnails to Home now and we'll auto-target the best one to each user to boost your qualified play-through rate.",
+    "Title.ThumbnailPersonalizationNUXBannerOff": "Test multiple thumbnails to grow your qualified play through rate",
+    "Description.ThumbnailPersonalizationNUXBannerOff": "Use personalization to show the most relevant thumbnail to each user.",
     "Title.ConfirmTestNewThumbnails": "Test new thumbnails?",
     "Description.ConfirmTestNewThumbnails": "Your data will reset, so download it now. New data will appear in a few hours. Traffic will be evenly split across active thumbnails at first, then more traffic will be sent to the best performing thumbnails every hour.",
     "Description.ConfirmTestNewThumbnailsTips": "1. Wait for clear trends in impressions per thumbnail before changes.",
@@ -106,7 +106,8 @@
     "Action.ContinueTest": "Continue",
     "Title.DeleteInactiveThumbnail": "Delete inactive thumbnail?",
     "Description.ThumbnailPersonalizationWithSpammyThumbnail": "One or more of your thumbnails has low qualified PTR to PTR ratio and has been removed from personalization.",
-    "Description.ThumbnailPersonalizationOffSubtitle": "Use personalization to automatically show the most relevant thumbnail to each user.",
-    "Description.ThumbnailPersonalizationOnSubtitle": "For best results, wait for your qualified play through rate by thumbnail chart to stabilize before making updates.",
-    "Description.ThumbnailPersonalizationOffBelowDAUSubtitle": "Consider growing your experience to {threshold} DAU before using thumbnail personalization"
+    "Description.ThumbnailPersonalizationOffSubtitle": "Use personalization to show the most relevant thumbnail to each user.",
+    "Description.ThumbnailPersonalizationOnSubtitle": "For best results, wait for clear trends in your impressions by thumbnail chart before making changes.",
+    "Description.ThumbnailPersonalizationOffBelowDAUSubtitle": "For best results, reach {threshold}+ daily users consistently before testing multiple thumbnails.",
+    "Description.ThumbnailPersonalizationOffBelowDAU": "Personalization is off"
 }

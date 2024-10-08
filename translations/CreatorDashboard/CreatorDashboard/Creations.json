@@ -480,5 +480,6 @@
     "Label.ConfirmArchive": "Confirm Archive",
     "Description.MarketplaceArchive": "Once you archive an item, you cannot restore it. Your item will no longer be available on the Marketplace.",
     "Message.ItemArchived": "Item archived in Marketplace",
-    "Label.Archived": "Archived"
+    "Label.Archived": "Archived",
+    "Action.EECreateEvent": "Create Event"
 }

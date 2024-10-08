@@ -339,5 +339,8 @@
     "Message.ClaimAcceptFailed": "Claim was not able to be accepted",
     "Label.ViewAndRespond": "View & Respond",
     "Label.PendingResponse": "Pending Response",
-    "Label.AcceptAllClaims": "Accept All Claims"
+    "Label.AcceptAllClaims": "Accept All Claims",
+    "Description.AcceptAllConsequence": "Automatically {boldStart}accepts{boldEnd} all claims against Purple Dino",
+    "Message.ClaimAcceptAll": "Claims successfully accepted",
+    "Message.ClaimAcceptAllFailed": "Claims were not able to be accepted"
 }
