@@ -27,7 +27,7 @@
     "enableShareLinkManagment": "true",
     "isOldAutomaticTextCaptureDisabled": "true",
     "personalizationBannerIdsGated": "",
-    "enableDevexMaintenanceBanner": "true",
+    "enableDevexMaintenanceBanner": "false",
     "fiatPaidAccessWhitelist": "6206004188",
     "enablePriceOptimizationBanner": "true"
 }
