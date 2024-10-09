@@ -260,5 +260,6 @@
     "Label.FilterOptionTransferOwnership": "Ownership Transfer",
     "Label.DateCustom": "Custom",
     "Label.SearchCreator": "Search Creator",
-    "Description.OrganizationManageRolesWithRoleName": "Add or remove {roleName} role members"
+    "Description.OrganizationManageRolesWithRoleName": "Add or remove {roleName} role members",
+    "Caption.OrganizationManageRoles": "Members in this role can configure this role's members. {strongStart}This includes the ability to grant this role's access to any members in the group.{strongEnd}"
 }

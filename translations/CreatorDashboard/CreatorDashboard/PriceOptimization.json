@@ -250,5 +250,13 @@
     "Message.DeselectProduct": "We understand that you may not want to test some of your products, but for best results, we recommend to include all products in the price test.",
     "Label.NumSelected": "{numSelected} of {numTotal} selected",
     "Action.ReturnPriceOptimization": "Return to Price Optimization",
-    "Action.ReadDocumentation": "Read documentation"
+    "Action.ReadDocumentation": "Read documentation",
+    "Label.SelectProductType": "Select Product Type",
+    "Label.ShowAllProductTypes": "Show all product types",
+    "Label.Passes": "Passes",
+    "Label.DeveloperProducts": "Developer Products",
+    "Label.SortByProductName": "Toggle Product Name sort order",
+    "Label.SortByProductType": "Toggle Product Type sort order",
+    "Label.SortByOriginalPrice": "Toggle Original Price sort order",
+    "Label.SortByOptimizedPrice": "Toggle Optimized Price sort order"
 }
