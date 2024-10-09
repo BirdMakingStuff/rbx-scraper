@@ -8228,6 +8228,7 @@
     "FFlagEnableZstdForClientSettings": "True",
     "DFLogJoinDataRxStats": "10",
     "DFFlagSystemUtilAndroidReturnCorrect64BitCPU_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-09T18:35:37",
+    "FFlagPerformanceControlNewEffectModelIXP3_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-09T18:52:09",
     "FFlagEnableMaterialGenerator": "False",
     "FFlagShouldMuteUnlocalizedError": "True",
     "FStringDeathTypeValue": "Ragdoll",
@@ -8257,8 +8258,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
     "FFlagUnifySessionTrackingReporting2_Rollout": "True;60;2024-10-09T18:18:31",
-    "FStringFlagRepoGitHashFastString": "c26c4ae415b184b8fa3e327785a5dc542a696507",
-    "DFStringFlagRepoGitHashDynamicString": "c26c4ae415b184b8fa3e327785a5dc542a696507",
-    "FStringFlipTimeStampFastString": "2024-10-09T18:41:33.462Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-09T18:41:33.462Z"
+    "FStringFlagRepoGitHashFastString": "826f3bf811027db99a5fedd0ec61adc2682e83aa",
+    "DFStringFlagRepoGitHashDynamicString": "826f3bf811027db99a5fedd0ec61adc2682e83aa",
+    "FStringFlipTimeStampFastString": "2024-10-09T19:03:33.200Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-09T19:03:33.200Z"
 }
