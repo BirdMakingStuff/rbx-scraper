@@ -7737,6 +7737,11 @@
     "FFlagAddFocusNavigationSession": "True",
     "FFlagLuaAppRefactorLogoTray": "True",
     "FFlagFixCentralOverlayFocusEvents": "True",
+    "FFlagFixCullRadiusFlicker2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:06:57",
+    "FFlagAttenuationCurveEditorFixes_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:16:29",
+    "AllowVideoPreRoll": "True",
+    "DFFlagChatServiceCheckThirdPartyTextChatRestrictionStatus_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:18:50",
+    "FFlagLuaAppOptimizeSearchPage_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:25:47",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagBuildInitialCacheFix": "True",
@@ -7878,7 +7883,7 @@
     "FFlagAXFixOutfitLoadingAfterPurchase": "True",
     "FFlagAXFixHeadRefinementCounterName": "True",
     "FFlagAXHeadRefinementPaddingFixes": "True",
-    "AllowVideoPreRoll": "True",
+    "DFFlagMicroProfilerFlamegraphs_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-10T16:18:38",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -8206,8 +8211,8 @@
     "FFlagPerformanceControlNewEffectModelIXP3": "True",
     "DFFlagUpdateDebugUserIdWebLaunch": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "576f96b9ba182029072082b5ad8ed2ab672f6bc9",
-    "DFStringFlagRepoGitHashDynamicString": "576f96b9ba182029072082b5ad8ed2ab672f6bc9",
-    "FStringFlipTimeStampFastString": "2024-10-10T01:26:18.028Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-10T01:26:18.028Z"
+    "FStringFlagRepoGitHashFastString": "909fd45769c8eb68edecfa99f6b5e1dc06ad444b",
+    "DFStringFlagRepoGitHashDynamicString": "909fd45769c8eb68edecfa99f6b5e1dc06ad444b",
+    "FStringFlipTimeStampFastString": "2024-10-10T16:37:27.787Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-10T16:37:27.787Z"
 }
