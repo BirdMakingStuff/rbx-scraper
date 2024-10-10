@@ -908,5 +908,7 @@
     "Description.Table.ThumbnailImpressions": "Impressions from Home recommendations.",
     "Description.Table.ThumbnailQualifiedPlays": "Qualified plays from Home recommendations.",
     "Description.Table.ThumbnailQualifiedPTR": "Qualified plays divided by impressions for Home recommendations.",
-    "Description.Table.ThumbnailAVGPlayTime": "Average playtime per qualified play."
+    "Description.Table.ThumbnailAVGPlayTime": "Average playtime per qualified play.",
+    "Label.Dimension.AcquisitionSource.ContinueToPlay": "Continue To Play",
+    "Label.Dimension.AcquisitionSource.Curation": "Curation"
 }

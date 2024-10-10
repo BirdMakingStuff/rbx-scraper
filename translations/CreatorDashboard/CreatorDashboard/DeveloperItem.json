@@ -131,5 +131,6 @@
     "Label.CollaboratorTypeGroup": "Group",
     "Heading.AddCollaborators": "Add Collaborators",
     "Description.AddCollaborators": "Give access permission to your friends and groups",
-    "Label.SearchFriendsAndGroups": "Search for a friend or group"
+    "Label.SearchFriendsAndGroups": "Search for a friend or group",
+    "Message.Edit": "Edit"
 }

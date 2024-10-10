@@ -340,7 +340,7 @@
     "Label.ViewAndRespond": "View & Respond",
     "Label.PendingResponse": "Pending Response",
     "Label.AcceptAllClaims": "Accept All Claims",
-    "Description.AcceptAllConsequence": "Automatically {boldStart}accepts{boldEnd} all claims against Purple Dino",
+    "Description.AcceptAllConsequence": "Automatically {boldStart}accepts{boldEnd} all selected claims against {contentNameStart}{contentNameEnd}",
     "Message.ClaimAcceptAll": "Claims successfully accepted",
     "Message.ClaimAcceptAllFailed": "Claims were not able to be accepted",
     "Heading.CreateNewClaim": "Create a new claim",
@@ -380,5 +380,10 @@
     "Description.IntroducingClaimsAgainstYou": "When a rights holder believes you are copying their intellectual property, they can file a claim against you. This means :",
     "Label.RespondClaims": "Respond to Claims",
     "Label.ViewClaims": "View Claims",
-    "Label.AllResponded": "All responded"
+    "Label.AllResponded": "All responded",
+    "Heading.RegisterRightsHolder": "Register as a rights holder",
+    "Description.RegisterRightsHolder": "If you believe someone is copying your work, register as a rights holder to file claims.",
+    "Label.StartRegistrationCaps": "START REGISTRATION",
+    "Label.View": "View",
+    "Label.AcceptClaims": "Accept Claims"
 }
