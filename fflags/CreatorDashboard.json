@@ -29,5 +29,6 @@
     "personalizationBannerIdsGated": "",
     "enableDevexMaintenanceBanner": "false",
     "fiatPaidAccessWhitelist": "6206004188",
-    "enablePriceOptimizationBanner": "true"
+    "enablePriceOptimizationBanner": "true",
+    "isRestrictedManageRolesEnabled": "true"
 }
