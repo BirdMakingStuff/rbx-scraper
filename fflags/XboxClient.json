@@ -7091,7 +7091,6 @@
     "FFlagLuauAcceptIndexingTableUnionsIntersections": "True",
     "FFlagSTUDIOPLAT35908_RDP": "True",
     "FFlagLazyLoadAppRoutesExperiment": "True",
-    "FFlagVideoWebmUseBipBuffer2": "True",
     "FFlagAXAccessoryAdjustment": "True",
     "FFlagCallLifecycleManagerPSNative": "True",
     "FFlagEnableLifecycleManagerWindowsNative": "True",
@@ -8063,10 +8062,10 @@
     "DFFlagPerformanceControlPlannerExploreOnlyWithinTunableRange": "True",
     "FFlagEnableMoveAdornUpdate": "True",
     "FFlagEnableExperienceCoordinator5": "True",
-    "FFlagAccessoryAdjustmentFixRotation_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T17:08:06",
     "FFlagAXAvatarEditorBundleGearFix": "True",
-    "FStringFlagRepoGitHashFastString": "116a65748a8084f9a1d47b60b2b443ea2939917f",
-    "DFStringFlagRepoGitHashDynamicString": "116a65748a8084f9a1d47b60b2b443ea2939917f",
-    "FStringFlipTimeStampFastString": "2024-10-11T18:32:09.681Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-11T18:32:09.681Z"
+    "FFlagAccessoryAdjustmentFixRotation": "True",
+    "FStringFlagRepoGitHashFastString": "0267a20196bd90b4fedb751f9dfc55cb7607ade2",
+    "DFStringFlagRepoGitHashDynamicString": "0267a20196bd90b4fedb751f9dfc55cb7607ade2",
+    "FStringFlipTimeStampFastString": "2024-10-11T19:32:47.814Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-11T19:32:47.814Z"
 }
