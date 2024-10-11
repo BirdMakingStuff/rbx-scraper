@@ -132,5 +132,9 @@
     "Heading.AddCollaborators": "Add Collaborators",
     "Description.AddCollaborators": "Give access permission to your friends and groups",
     "Label.SearchFriendsAndGroups": "Search for a friend or group",
-    "Message.Edit": "Edit"
+    "Message.Edit": "Edit",
+    "Action.Cancel": "Cancel",
+    "Heading.RemoveCollaborator": "Remove Collaborator?",
+    "Description.RemoveCollaborator": "This collaborator will no longer be able to access this asset",
+    "Action.SaveChanges": "Save Changes"
 }

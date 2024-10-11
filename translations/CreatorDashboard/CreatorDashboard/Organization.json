@@ -261,5 +261,13 @@
     "Label.DateCustom": "Custom",
     "Label.SearchCreator": "Search Creator",
     "Description.OrganizationManageRolesWithRoleName": "Add or remove {roleName} role members",
-    "Caption.OrganizationManageRoles": "Members in this role can configure this role's members. {strongStart}This includes the ability to grant this role's access to any members in the group.{strongEnd}"
+    "Caption.OrganizationManageRoles": "Members in this role can configure this role's members. {strongStart}This includes the ability to grant this role's access to any members in the group.{strongEnd}",
+    "Title.AvatarItemPermissions": "Avatar Item Permissions",
+    "Description.AvatarItemCreate": "Create classic avatar items",
+    "Description.AvatarItemConfigure": "Configure classic avatar items",
+    "Description.AssetView": "View development items",
+    "Description.AssetEdit": "Create and configure development items",
+    "Description.AssetManage": "Manage development item permissions",
+    "Description.AssetMonetize": "Monetize development items",
+    "Description.RevenueAdvertise": "Advertise group"
 }
