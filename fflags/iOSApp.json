@@ -1,5 +1,5 @@
 ﻿{
-    "AndroidEnableBinaryChannels": "True",
+    "AndroidEnableBinaryChannels": "false",
     "DFFlagConsumePlatformNameOverAlternateName": "False",
     "DFFlagDebugEnableRemoteProfiling2": "True",
     "DFFlagDebugGAReportThrottledSessions": "True",
@@ -8328,8 +8328,8 @@
     "FFlagEnableMoveAdornUpdate": "True",
     "FFlagEnableExperienceCoordinator5": "True",
     "FFlagTopSearchReportRowOnPage": "False",
-    "FStringFlagRepoGitHashFastString": "29c07ffd752740acd42db16cd27ecda80fd9cf65",
-    "DFStringFlagRepoGitHashDynamicString": "29c07ffd752740acd42db16cd27ecda80fd9cf65",
-    "FStringFlipTimeStampFastString": "2024-10-11T01:31:52.146Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-11T01:31:52.146Z"
+    "FStringFlagRepoGitHashFastString": "64adef1e6c9b050548f0e7574d0f94df279def14",
+    "DFStringFlagRepoGitHashDynamicString": "64adef1e6c9b050548f0e7574d0f94df279def14",
+    "FStringFlipTimeStampFastString": "2024-10-11T16:07:23.993Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-11T16:07:23.993Z"
 }
