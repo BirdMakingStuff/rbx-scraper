@@ -392,5 +392,12 @@
     "Description.EscalationDescribe": "Describe why you believe you are the rightful owner of the creation in this claim",
     "Description.SupportingInformation": "Add supporting information like license agreements, screenshots demonstrating creative process, etc. {linkStart}Learn more{linkEnd}",
     "Message.EscalationFailed": "Escalation failed to submit",
-    "Message.EscalationSubmitted": "Your escalation was successfully submitted"
+    "Message.EscalationSubmitted": "Your escalation was successfully submitted",
+    "Description.ReleaseTooltip": "Release your claim if you no longer wish to restrict the monetization and discoverability of this creation. {redStart}This action can’t be undone{redEnd}.",
+    "Heading.ReleaseClaim": "Release claim",
+    "Description.ReleaseConsequence1": "The claimed creation will {boldStart}go back on sale{boldEnd}.",
+    "Description.ReleaseConsequence2": "The claimed creation {boldStart}will be discoverable during search{boldEnd}",
+    "Description.ReleaseConsequence3": "Players {boldStart}will still be able to wear{boldEnd} this creation",
+    "Message.ClaimDropFailed": "Claim was not able to be released",
+    "Description.ReleaseClaimSub": "Release your claim if you no  longer wish to restrict the monetization and discoverability of this creation."
 }

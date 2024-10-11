@@ -125,5 +125,6 @@
     "Label.TeamCollaborations": "Team Collaborations",
     "OperationDescription.LegacyTeamCollaborationAPIManage": "Grants access to manage team collaboration for all experiences you own.",
     "OperationDescription.LegacyUniverseAPIManage": "Grants access to manage your experiences and certain information associated with your experiences (e.g. localization information).",
-    "OperationDescription.LegacyGroupAPIManage": "Grants access to manage your groups."
+    "OperationDescription.LegacyGroupAPIManage": "Grants access to manage your groups.",
+    "OperationDescription.LegacyUserAPIManage": "Grants access to manage your user account."
 }

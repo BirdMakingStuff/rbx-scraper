@@ -903,7 +903,7 @@
     "Description.Table.RejectedThumbnail": "Rejected due to moderation",
     "Description.Table.ReviewingThumbnail": "In review",
     "Label.SearchCreator": "Search Creator",
-    "Description.Table.ThumbnailPersonalizationStatus": "Indicates if thumbnail is active for personalization.",
+    "Description.Table.ThumbnailPersonalizationStatus": "Indicates if thumbnail is active on Home.",
     "Description.Table.ThumbnailWinningSegments": "This thumbnail has the highest qualified PTR for this segment.",
     "Description.Table.ThumbnailImpressions": "Impressions from Home recommendations.",
     "Description.Table.ThumbnailQualifiedPlays": "Qualified plays from Home recommendations.",

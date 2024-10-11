@@ -21,5 +21,6 @@
     "Description.EstimatedAffiliatePayout": "Estimate of lifetime earnings before adjustments",
     "Label.NoData": "N/A",
     "Label.Total": "Total",
-    "Label.CampaignNameRequired": "Campaign name is required"
+    "Label.CampaignNameRequired": "Campaign name is required",
+    "Description.VanityLink": "Vanity links are owned by a notable brand, person, or entity."
 }
