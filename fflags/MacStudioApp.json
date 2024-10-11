@@ -8742,9 +8742,9 @@
     "DFFlagAssetRequestFixExpiredMetrics": "True",
     "DFFlagIsFriendsWithUsesAreFriendsEndpoint": "True",
     "DFIntWebParserMaxStackDepth": "400",
-    "DFFlagWebParserCheckStackDepthThrow_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T18:16:25",
     "DFIntJsonParserMaxDepth": "1024",
     "DFFlagCLI1171702": "True",
+    "DFFlagWebParserCheckStackDepthThrow": "True",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -8756,8 +8756,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
     "FFlagAudioEqualizerEditorSanitizeMidRange": "True",
-    "FStringFlagRepoGitHashFastString": "0267a20196bd90b4fedb751f9dfc55cb7607ade2",
-    "DFStringFlagRepoGitHashDynamicString": "0267a20196bd90b4fedb751f9dfc55cb7607ade2",
-    "FStringFlipTimeStampFastString": "2024-10-11T19:32:47.814Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-11T19:32:47.814Z"
+    "FStringFlagRepoGitHashFastString": "65eab9785cf103d0d0fc6127986957498ec4e765",
+    "DFStringFlagRepoGitHashDynamicString": "65eab9785cf103d0d0fc6127986957498ec4e765",
+    "FStringFlipTimeStampFastString": "2024-10-11T19:53:03.361Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-11T19:53:03.361Z"
 }
