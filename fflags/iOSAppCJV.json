@@ -7764,7 +7764,7 @@
     "FFlagVideoReleaseSchedulerOnDisconnect2": "True",
     "FFlagUGCValidateCoverViewportFrames": "True",
     "FFlagAttenuationCurveEditorImproveScrolling": "True",
-    "FFlagChromeSurveySupport2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T16:59:25",
+    "FFlagChromeSurveySupport2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8310,7 +8310,6 @@
     "FFlagSubmenuV4Layout2": "True",
     "FFlagEnableInGameMenuChromeABTest4": "True",
     "FFlagEngineVoiceCullingExperiment2": "True",
-    "FFlagVoiceChatCullingEnabled10": "True",
     "FFlagVoiceChatIXPToolRegisterExposureSeparately": "True",
     "FFlagContentFeedImageLoadLogging": "True",
     "FFlagAXHeadCategoryCombineEnabled3": "True",
@@ -8329,7 +8328,7 @@
     "FFlagEnableMoveAdornUpdate": "True",
     "FFlagEnableExperienceCoordinator5": "True",
     "FFlagTopSearchReportRowOnPage": "False",
-    "FFlagAXAvatarEditorBundleGearFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T16:58:22",
+    "FFlagAXAvatarEditorBundleGearFix": "True",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
@@ -8362,8 +8361,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "dd2c5876a86cdd4665903bf607d671b21f5b0121",
-    "DFStringFlagRepoGitHashDynamicString": "dd2c5876a86cdd4665903bf607d671b21f5b0121",
-    "FStringFlipTimeStampFastString": "2024-10-11T17:08:40.515Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-11T17:08:40.515Z"
+    "FStringFlagRepoGitHashFastString": "116a65748a8084f9a1d47b60b2b443ea2939917f",
+    "DFStringFlagRepoGitHashDynamicString": "116a65748a8084f9a1d47b60b2b443ea2939917f",
+    "FStringFlipTimeStampFastString": "2024-10-11T18:32:09.681Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-11T18:32:09.681Z"
 }
