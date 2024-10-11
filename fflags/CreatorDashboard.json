@@ -31,5 +31,6 @@
     "fiatPaidAccessWhitelist": "6206004188",
     "enablePriceOptimizationBanner": "true",
     "isRestrictedManageRolesEnabled": "true",
-    "enablePlaceIconAssetsUploadApi": "false"
+    "enablePlaceIconAssetsUploadApi": "false",
+    "enableBoundAuthTokenValidationOptIn": "true"
 }

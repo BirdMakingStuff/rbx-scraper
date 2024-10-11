@@ -7764,6 +7764,7 @@
     "FFlagVideoReleaseSchedulerOnDisconnect2": "True",
     "FFlagUGCValidateCoverViewportFrames": "True",
     "FFlagAttenuationCurveEditorImproveScrolling": "True",
+    "FFlagChromeSurveySupport2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T16:59:25",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagBuildInitialCacheFix": "True",
@@ -7918,6 +7919,8 @@
     "FFlagEnableExperienceCoordinator5": "True",
     "DFFlagAssetRequestFixExpiredMetrics": "True",
     "DFFlagIsFriendsWithUsesAreFriendsEndpoint": "False",
+    "FFlagAXAvatarEditorBundleGearFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T16:58:22",
+    "FFlagAccessoryAdjustmentFixRotation_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T17:08:06",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8240,8 +8243,9 @@
     "DFFlagPerformanceControlPlannerExploreOnlyWithinTunableRange": "True",
     "FFlagEnableMoveAdornUpdate": "True",
     "FFlagMacFixWebViewMinimizing": "True",
-    "FStringFlagRepoGitHashFastString": "64adef1e6c9b050548f0e7574d0f94df279def14",
-    "DFStringFlagRepoGitHashDynamicString": "64adef1e6c9b050548f0e7574d0f94df279def14",
-    "FStringFlipTimeStampFastString": "2024-10-11T16:07:23.993Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-11T16:07:23.993Z"
+    "FFlagRefactorTeleportServiceGlobalFields3_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T16:52:47",
+    "FStringFlagRepoGitHashFastString": "dd2c5876a86cdd4665903bf607d671b21f5b0121",
+    "DFStringFlagRepoGitHashDynamicString": "dd2c5876a86cdd4665903bf607d671b21f5b0121",
+    "FStringFlipTimeStampFastString": "2024-10-11T17:08:40.515Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-11T17:08:40.515Z"
 }

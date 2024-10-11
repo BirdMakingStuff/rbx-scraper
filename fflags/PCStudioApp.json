@@ -7764,6 +7764,7 @@
     "FFlagVideoReleaseSchedulerOnDisconnect2": "True",
     "FFlagUGCValidateCoverViewportFrames": "True",
     "FFlagAttenuationCurveEditorImproveScrolling": "True",
+    "FFlagChromeSurveySupport2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T16:59:25",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8651,6 +8652,8 @@
     "FFlagSoundServiceDefaultListenerLocation2": "True",
     "FFlagSoundServiceDefaultListenerLocationProperty2": "True",
     "FFlagFixPluginApiHostStartDrag": "True",
+    "FFlagAXAvatarEditorBundleGearFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T16:58:22",
+    "FFlagAccessoryAdjustmentFixRotation_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T17:08:06",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagShorelinesRemoveDialog": "True",
@@ -8748,8 +8751,8 @@
     "FFlagAudioEqualizerEditorSanitizeMidRange": "True",
     "FFlagGuiLayerCollectorGetsPositionForGamepadInputs": "True",
     "FFlagSelectionModeKeyboardReturnShouldSinkEvent": "True",
-    "FStringFlagRepoGitHashFastString": "64adef1e6c9b050548f0e7574d0f94df279def14",
-    "DFStringFlagRepoGitHashDynamicString": "64adef1e6c9b050548f0e7574d0f94df279def14",
-    "FStringFlipTimeStampFastString": "2024-10-11T16:07:23.993Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-11T16:07:23.993Z"
+    "FStringFlagRepoGitHashFastString": "dd2c5876a86cdd4665903bf607d671b21f5b0121",
+    "DFStringFlagRepoGitHashDynamicString": "dd2c5876a86cdd4665903bf607d671b21f5b0121",
+    "FStringFlipTimeStampFastString": "2024-10-11T17:08:40.515Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-11T17:08:40.515Z"
 }
