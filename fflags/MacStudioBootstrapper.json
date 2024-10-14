@@ -141,15 +141,15 @@
     "FFlagAXHeadCategoryCombineEnabled3": "True",
     "FFlagMicroProfileGroupOverflowFix": "True",
     "FFlagAXAvatarEditorBundleGearFix": "True",
-    "FFlagForgotPasswordConsoleVR_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-14T17:58:52",
+    "FFlagForgotPasswordConsoleVR": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "80b44110088ee730fa30dbfb166b3a82d317a179",
-    "DFStringFlagRepoGitHashDynamicString": "80b44110088ee730fa30dbfb166b3a82d317a179",
-    "FStringFlipTimeStampFastString": "2024-10-14T18:41:54.808Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-14T18:41:54.808Z"
+    "FStringFlagRepoGitHashFastString": "2e2b786ffcdcec5a4c2ad7b1ac8f8e7b65d57677",
+    "DFStringFlagRepoGitHashDynamicString": "2e2b786ffcdcec5a4c2ad7b1ac8f8e7b65d57677",
+    "FStringFlipTimeStampFastString": "2024-10-14T19:33:47.208Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-14T19:33:47.208Z"
 }
