@@ -7803,7 +7803,6 @@
     "FFlagSearchTopResultsTab_3": "True",
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": "True",
     "FFlagUserSearchGameJoinCta_v2": "True",
-    "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8361,6 +8360,7 @@
     "FFlagForgotPasswordConsoleVR": "True",
     "FFlagDisableMessageBusUnSubscribeError": "True",
     "FFlagEnableMaterialGenerator": "False",
+    "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFIntDefaultTimeoutTimeMs": "20000",
     "DFLogClientRecvFromRaknet": "10",
     "DFLogJoinDataRxStats": "10",
@@ -8391,8 +8391,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "9c1b8bf26e7459ce6dd513de205006ccf1c84ffe",
-    "DFStringFlagRepoGitHashDynamicString": "9c1b8bf26e7459ce6dd513de205006ccf1c84ffe",
-    "FStringFlipTimeStampFastString": "2024-10-15T02:01:55.860Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T02:01:55.860Z"
+    "FStringFlagRepoGitHashFastString": "28460ccb278cad0fce4fe70db26568350e476465",
+    "DFStringFlagRepoGitHashDynamicString": "28460ccb278cad0fce4fe70db26568350e476465",
+    "FStringFlipTimeStampFastString": "2024-10-15T02:17:42.262Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T02:17:42.262Z"
 }
