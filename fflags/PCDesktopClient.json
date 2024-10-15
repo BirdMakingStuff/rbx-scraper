@@ -7803,6 +7803,8 @@
     "FFlagSearchTopResultsTab_3": "True",
     "FFlagSocialExperienceJoinCustomAnalyticsArgs": "True",
     "FFlagUserSearchGameJoinCta_v2": "True",
+    "FFlagEmitterSharedNewEnabledVar2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T16:10:50",
+    "FFlagHttpClientFunctionalityForGcs2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T16:33:59",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagBuildInitialCacheFix": "True",
@@ -8287,8 +8289,8 @@
     "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429",
     "FFlagVoxelGridNew5_PlaceFilter": "True;14238596528;6153766069;14363263080;2414851778;14363264964;8284266336;314442505;6125809531;9346060856;15775630130;15272004567;13157638696;9233343468;12828227139;10529772199;12815054798;11838346571;7456800858;5626342417;5899156129;9501318975;4872321990;2693023319;8908228901;13950108612;14702923685;11879754496;11729688377;13694297022",
     "DFFlagVisBugFixUnloadReadyMesh": "True",
-    "FStringFlagRepoGitHashFastString": "28460ccb278cad0fce4fe70db26568350e476465",
-    "DFStringFlagRepoGitHashDynamicString": "28460ccb278cad0fce4fe70db26568350e476465",
-    "FStringFlipTimeStampFastString": "2024-10-15T02:17:42.262Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T02:17:42.262Z"
+    "FStringFlagRepoGitHashFastString": "bc9c82ab9ad314509892a80931ccfd3f58563192",
+    "DFStringFlagRepoGitHashDynamicString": "bc9c82ab9ad314509892a80931ccfd3f58563192",
+    "FStringFlipTimeStampFastString": "2024-10-15T16:34:32.792Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-15T16:34:32.792Z"
 }
