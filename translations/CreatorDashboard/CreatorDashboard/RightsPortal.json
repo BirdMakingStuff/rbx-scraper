@@ -329,12 +329,12 @@
     "Message.DisputeFailed": "Dispute failed to submit",
     "Heading.Profile": "Profile",
     "Description.AcceptTooltip": "If you accept a claim, your creation remains off-sale. You won't make money from it, and users cannot find it in search. Users that already have the creation in their inventory can continue to use it. {redStart}This action can’t be undone.{redEnd}",
-    "Heading.AcceptThisClaim": "Accept this claim",
-    "Description.AcceptClaimSub": "Accepting this claim will impact your creation in the following ways",
+    "Heading.AcceptThisClaim": "Accept claim (s)",
+    "Description.AcceptClaimSub": "Accepting claim(s) will impact your creation in the following ways",
     "Description.AcceptConsequence1": "The creation will remain {boldStart}offsale{boldEnd}",
     "Description.AcceptConsequence2": "Your creation {boldStart}won’t be visible{boldEnd} during search",
     "Description.AcceptConsequence3": "Players {boldStart}will still be able to wear{boldEnd} this creation",
-    "Description.AcceptConsequence4": "You {boldStart}cannot undo{boldEnd} this action afterwards.",
+    "Description.AcceptConsequence4": "Developer items {boldStart}will still be visible{boldEnd} and can be used in experience",
     "Message.ClaimAccept": "Claim successfully accepted",
     "Message.ClaimAcceptFailed": "Claim was not able to be accepted",
     "Label.ViewAndRespond": "View & Respond",
@@ -399,5 +399,8 @@
     "Description.ReleaseConsequence2": "The claimed creation {boldStart}will be discoverable during search{boldEnd}",
     "Description.ReleaseConsequence3": "Players {boldStart}will still be able to wear{boldEnd} this creation",
     "Message.ClaimDropFailed": "Claim was not able to be released",
-    "Description.ReleaseClaimSub": "Release your claim if you no  longer wish to restrict the monetization and discoverability of this creation."
+    "Description.ReleaseClaimSub": "Release your claim if you no  longer wish to restrict the monetization and discoverability of this creation.",
+    "Description.NewClaim": "Creators who receive new claims will have 7 days to accept or dispute them. Experiences, limiteds and bundles will be escalated to Roblox for review.",
+    "Heading.NoClaimsAgainstYou": "No claims against you",
+    "Description.NoClaimsAgainstYou": "When you have a claim against you, it will appear here. You have 7 days, from the time you receive the claim, to either accept a claim or dispute a claim. {linkStart}Learn more{linkEnd}"
 }
