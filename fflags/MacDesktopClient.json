@@ -7833,6 +7833,8 @@
     "FFlagDragDetectorEquipToolWhileDragging": "True",
     "FFlagUseWeakThreadRefsWhenSchedulingParallelExecution_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:12:28",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
+    "DFFlagDataStoreEmitEventOnSuccess_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T17:03:07",
+    "DFFlagDeprecateTestServiceThrottle_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T17:33:04",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -7996,6 +7998,8 @@
     "FFlagPeekHoverStateFix": "True",
     "FFlagPeekSurfacesSongsWhenUserIsStationary": "True",
     "FFlagUseAssetRequest3": "True",
+    "DFFlagSimpleJSONDeprecateStringDefaultHandler_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:43:42",
+    "FFlagEnableChatLineReporting2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T17:01:14",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8319,8 +8323,8 @@
     "FFlagVoiceChatCullingEnabled10": "True",
     "FFlagSkipStepLayoutDisabledGLC": "True",
     "FFlagControlSimulationViaDataModelFeatures2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:14:24",
-    "FStringFlagRepoGitHashFastString": "45d1b38d2bc09b1f5ed3ede174dffcf020823f10",
-    "DFStringFlagRepoGitHashDynamicString": "45d1b38d2bc09b1f5ed3ede174dffcf020823f10",
-    "FStringFlipTimeStampFastString": "2024-10-16T16:41:10.572Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-16T16:41:10.572Z"
+    "FStringFlagRepoGitHashFastString": "5a40f4b543b8e593364eb54d9d71033373602602",
+    "DFStringFlagRepoGitHashDynamicString": "5a40f4b543b8e593364eb54d9d71033373602602",
+    "FStringFlipTimeStampFastString": "2024-10-16T17:38:00.323Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-16T17:38:00.323Z"
 }
