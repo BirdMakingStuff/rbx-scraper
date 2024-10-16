@@ -30,6 +30,6 @@
     "enableDevexMaintenanceBanner": "false",
     "fiatPaidAccessWhitelist": "6206004188",
     "enablePriceOptimizationBanner": "true",
-    "enablePlaceIconAssetsUploadApi": "false",
+    "enablePlaceIconAssetsUploadApi": "true",
     "enableBoundAuthTokenValidationOptIn": "true"
 }
