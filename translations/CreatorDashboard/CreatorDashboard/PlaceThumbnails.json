@@ -114,5 +114,10 @@
     "Description.UploadHomepageThumbnail.Size": "Size: less than 3MB",
     "Description.UploadHomepageThumbnail.Ratio": "Recommended ratio: 4:3",
     "Label.EditActiveThumbnails": "Edit active thumbnails",
-    "Label.NoPermissionToEdit": "You do not have permission to edit"
+    "Label.NoPermissionToEdit": "You do not have permission to edit",
+    "Title.PromptToActivateThumbnails": "Want to use your new thumbnails?",
+    "Description.PromptToActivateThumbnails": "You uploaded new thumbnails, but they won’t be shown to users until you check the \"Active\" box next to each thumbnail.",
+    "Action.PromptToActivateThumbnails": "Select new thumbnails",
+    "Action.CancelPromptToActivateThumbnails": "Keep current thumbnails",
+    "Description.CheckMoreThumbnail": "You must check at least one thumbnail"
 }

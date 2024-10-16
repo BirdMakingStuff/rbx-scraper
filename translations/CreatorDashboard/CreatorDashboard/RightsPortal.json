@@ -402,5 +402,6 @@
     "Description.ReleaseClaimSub": "Release your claim if you no  longer wish to restrict the monetization and discoverability of this creation.",
     "Description.NewClaim": "Creators who receive new claims will have 7 days to accept or dispute them. Experiences, limiteds and bundles will be escalated to Roblox for review.",
     "Heading.NoClaimsAgainstYou": "No claims against you",
-    "Description.NoClaimsAgainstYou": "When you have a claim against you, it will appear here. You have 7 days, from the time you receive the claim, to either accept a claim or dispute a claim. {linkStart}Learn more{linkEnd}"
+    "Description.NoClaimsAgainstYou": "When you have a claim against you, it will appear here. You have 7 days, from the time you receive the claim, to either accept a claim or dispute a claim. {linkStart}Learn more{linkEnd}",
+    "Heading.MyRemovalRequests": "My removal requests"
 }

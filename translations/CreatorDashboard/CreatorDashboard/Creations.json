@@ -483,5 +483,8 @@
     "Label.Archived": "Archived",
     "Action.EECreateEvent": "Create Event",
     "Message.UnableToArchiveLimitedItem": "Unable to archive limited item",
-    "Message.ArchiveFailed": "Failed to archive item"
+    "Message.ArchiveFailed": "Failed to archive item",
+    "Label.EENewContent": "New content",
+    "Label.EEItemDrop": "Item drop",
+    "Label.EENewSeason": "New season"
 }
