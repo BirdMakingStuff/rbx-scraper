@@ -7829,9 +7829,8 @@
     "FFlagEnableMoreUniversalABTest3": "True",
     "FFlagEnableUnibarFtuxTooltips": "True",
     "FFlagUserReenableLegacyChatForConsole": "False",
-    "FFlagDragDetectorEquipToolWhileDragging_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T22:18:30",
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
-    "FFlagUseWeakThreadRefsWhenSchedulingParallelExecution_Staged": "True;SteadyState;10;30;Revert;2024-10-15T23:23:17",
+    "FFlagDragDetectorEquipToolWhileDragging": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagBuildInitialCacheFix": "True",
@@ -8029,7 +8028,7 @@
     "DFIntReportReplicatorStatsToInfluxHundredthsPercent": "100",
     "DFIntS2PhysicsSenderRate": "15",
     "DFIntSendJoinTimeDeltasToDiag_HundredthsPercentage": "100",
-    "DFIntSendRakNetStatsThrottle": "1",
+    "DFIntSendRakNetStatsThrottle": "2",
     "DFIntStreamJobMaxBufferHealthThresholdHundredths": "75",
     "DFIntStreamJobMaxBufferHealthThresholdHundredths_PlaceFilter": "50;1526666203",
     "DFIntStreamJobMinBufferHealthThresholdHundredths": "40",
@@ -8318,8 +8317,8 @@
     "DFFlagVisBugFixUnloadReadyMesh": "True",
     "FFlagVoiceChatCullingEnabled10": "True",
     "FFlagSkipStepLayoutDisabledGLC": "True",
-    "FStringFlagRepoGitHashFastString": "af31296c939ec538046539d660b5418ba245e6fe",
-    "DFStringFlagRepoGitHashDynamicString": "af31296c939ec538046539d660b5418ba245e6fe",
-    "FStringFlipTimeStampFastString": "2024-10-15T23:33:01.920Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T23:33:01.920Z"
+    "FStringFlagRepoGitHashFastString": "b89021863b3d38d8e5e19df2c75aafc459e35952",
+    "DFStringFlagRepoGitHashDynamicString": "b89021863b3d38d8e5e19df2c75aafc459e35952",
+    "FStringFlipTimeStampFastString": "2024-10-16T00:47:27.801Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-16T00:47:27.801Z"
 }

@@ -7829,9 +7829,8 @@
     "FFlagEnableMoreUniversalABTest3": "True",
     "FFlagEnableUnibarFtuxTooltips": "True",
     "FFlagUserReenableLegacyChatForConsole": "False",
-    "FFlagDragDetectorEquipToolWhileDragging_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T22:18:30",
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
-    "FFlagUseWeakThreadRefsWhenSchedulingParallelExecution_Staged": "True;SteadyState;10;30;Revert;2024-10-15T23:23:17",
+    "FFlagDragDetectorEquipToolWhileDragging": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -7841,7 +7840,7 @@
     "DFIntHttpCacheCleanMaxFilesToKeep": "2000",
     "DFIntHttpCacheRetryCount": "2000",
     "DFFlagRakNetDetectNetUnreachable": "True",
-    "DFIntSendRakNetStatsThrottle": "1",
+    "DFIntSendRakNetStatsThrottle": "2",
     "DFStringOverrideSendRakNetStatsThrottleCountries": "CN,10,JP,4,NO,4,FI,4,SE,4,NZ,4",
     "FFlagNativePurchaseWithLocalPlayer": "True",
     "FFlagDisablePrefetchProtocol": "False",
@@ -7990,8 +7989,8 @@
     "FFlagDeprecateExtentsArray2": "True",
     "FFlagEnableMoveAdornUpdate": "True",
     "FFlagEnableExperienceCoordinator5": "True",
-    "FStringFlagRepoGitHashFastString": "af31296c939ec538046539d660b5418ba245e6fe",
-    "DFStringFlagRepoGitHashDynamicString": "af31296c939ec538046539d660b5418ba245e6fe",
-    "FStringFlipTimeStampFastString": "2024-10-15T23:33:01.920Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T23:33:01.920Z"
+    "FStringFlagRepoGitHashFastString": "0578995c7e3bd18ca77490a129683204630513c1",
+    "DFStringFlagRepoGitHashDynamicString": "0578995c7e3bd18ca77490a129683204630513c1",
+    "FStringFlipTimeStampFastString": "2024-10-16T01:51:11.587Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-16T01:51:11.587Z"
 }

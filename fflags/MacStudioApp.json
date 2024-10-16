@@ -7829,9 +7829,8 @@
     "FFlagEnableMoreUniversalABTest3": "True",
     "FFlagEnableUnibarFtuxTooltips": "True",
     "FFlagUserReenableLegacyChatForConsole": "False",
-    "FFlagDragDetectorEquipToolWhileDragging_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-15T22:18:30",
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
-    "FFlagUseWeakThreadRefsWhenSchedulingParallelExecution_Staged": "True;SteadyState;10;30;Revert;2024-10-15T23:23:17",
+    "FFlagDragDetectorEquipToolWhileDragging": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -7870,7 +7869,7 @@
     "DFIntReportReplicatorStatsToInfluxHundredthsPercent": "100",
     "DFIntS2PhysicsSenderRate": "15",
     "DFIntSendJoinTimeDeltasToDiag_HundredthsPercentage": "100",
-    "DFIntSendRakNetStatsThrottle": "1",
+    "DFIntSendRakNetStatsThrottle": "2",
     "DFIntStreamJobMaxBufferHealthThresholdHundredths": "75",
     "DFIntStreamJobMaxBufferHealthThresholdHundredths_PlaceFilter": "50;1526666203",
     "DFIntStreamJobMinBufferHealthThresholdHundredths": "40",
@@ -8833,8 +8832,8 @@
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": "False",
     "FFlagAudioEqualizerEditorSanitizeMidRange": "True",
-    "FStringFlagRepoGitHashFastString": "af31296c939ec538046539d660b5418ba245e6fe",
-    "DFStringFlagRepoGitHashDynamicString": "af31296c939ec538046539d660b5418ba245e6fe",
-    "FStringFlipTimeStampFastString": "2024-10-15T23:33:01.920Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-15T23:33:01.920Z"
+    "FStringFlagRepoGitHashFastString": "0578995c7e3bd18ca77490a129683204630513c1",
+    "DFStringFlagRepoGitHashDynamicString": "0578995c7e3bd18ca77490a129683204630513c1",
+    "FStringFlipTimeStampFastString": "2024-10-16T01:51:11.587Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-16T01:51:11.587Z"
 }
