@@ -7831,6 +7831,7 @@
     "FFlagUserReenableLegacyChatForConsole": "False",
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
     "FFlagDragDetectorEquipToolWhileDragging": "True",
+    "FFlagUseWeakThreadRefsWhenSchedulingParallelExecution_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:12:28",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8358,6 +8359,8 @@
     "FFlagPeekSurfacesSongsWhenUserIsStationary": "True",
     "FFlagAXFixOutfitLoadingAfterPurchase": "True",
     "FFlagSkipStepLayoutDisabledGLC": "True",
+    "FFlagSceneHashMaps4_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:03:52",
+    "FFlagControlSimulationViaDataModelFeatures2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:14:24",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagLuaAppSocialFeaturePill": "True",
@@ -8474,8 +8477,8 @@
     "FFlagLuaAppSupportOtaPackagePatching2": "True",
     "FFlagTopSearchReportRowOnPage": "False",
     "FFlagAXAvatarEditorBundleGearFix": "True",
-    "FStringFlagRepoGitHashFastString": "0578995c7e3bd18ca77490a129683204630513c1",
-    "DFStringFlagRepoGitHashDynamicString": "0578995c7e3bd18ca77490a129683204630513c1",
-    "FStringFlipTimeStampFastString": "2024-10-16T01:51:11.587Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-16T01:51:11.587Z"
+    "FStringFlagRepoGitHashFastString": "45d1b38d2bc09b1f5ed3ede174dffcf020823f10",
+    "DFStringFlagRepoGitHashDynamicString": "45d1b38d2bc09b1f5ed3ede174dffcf020823f10",
+    "FStringFlipTimeStampFastString": "2024-10-16T16:41:10.572Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-16T16:41:10.572Z"
 }

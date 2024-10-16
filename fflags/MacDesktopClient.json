@@ -7831,6 +7831,7 @@
     "FFlagUserReenableLegacyChatForConsole": "False",
     "DFFlagEnableAdsApiClientV2Endpoint2": "True",
     "FFlagDragDetectorEquipToolWhileDragging": "True",
+    "FFlagUseWeakThreadRefsWhenSchedulingParallelExecution_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:12:28",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
     "FFlagBuildInitialCacheFix": "True",
@@ -8317,8 +8318,9 @@
     "DFFlagVisBugFixUnloadReadyMesh": "True",
     "FFlagVoiceChatCullingEnabled10": "True",
     "FFlagSkipStepLayoutDisabledGLC": "True",
-    "FStringFlagRepoGitHashFastString": "b89021863b3d38d8e5e19df2c75aafc459e35952",
-    "DFStringFlagRepoGitHashDynamicString": "b89021863b3d38d8e5e19df2c75aafc459e35952",
-    "FStringFlipTimeStampFastString": "2024-10-16T00:47:27.801Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-16T00:47:27.801Z"
+    "FFlagControlSimulationViaDataModelFeatures2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T16:14:24",
+    "FStringFlagRepoGitHashFastString": "45d1b38d2bc09b1f5ed3ede174dffcf020823f10",
+    "DFStringFlagRepoGitHashDynamicString": "45d1b38d2bc09b1f5ed3ede174dffcf020823f10",
+    "FStringFlipTimeStampFastString": "2024-10-16T16:41:10.572Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-16T16:41:10.572Z"
 }
