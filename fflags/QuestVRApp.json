@@ -7865,11 +7865,10 @@
     "FFlagEnableExperienceMenuSessionTracking": "True",
     "FIntFriendsCarouselInitialFetchSize": "20",
     "FFlagMigrateAppBridgeFunctions": "True",
-    "FFlagAppChatUniversalAppToastsEnabled2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T22:58:18",
-    "FFlagRobloxScriptSecurityCanCallEditableImageAPIs_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T22:58:42",
-    "DFFlagUsingPaginatedFriendsV2_Staged": "True;SteadyState;10;30;Revert;2024-10-16T23:13:45",
     "DFFlagTagAnalyticsPointsWithIxpIds": "True",
-    "FFlagMigrateCompatibilityPhaseTwo2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-16T23:26:36",
+    "FFlagRobloxScriptSecurityCanCallEditableImageAPIs": "True",
+    "FFlagAppChatUniversalAppToastsEnabled2": "True",
+    "FFlagMigrateCompatibilityPhaseTwo2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8446,8 +8445,8 @@
     "FFlagAXFixLayeredClothingDeepLink": "True",
     "FFlagAXAvatarEditorBundleGearFix": "True",
     "FFlagRemoveConnectionUtilFromVrCommon": "True",
-    "FStringFlagRepoGitHashFastString": "a70bb889407790c28330948169be59ac956114d1",
-    "DFStringFlagRepoGitHashDynamicString": "a70bb889407790c28330948169be59ac956114d1",
-    "FStringFlipTimeStampFastString": "2024-10-16T23:31:26.412Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-16T23:31:26.412Z"
+    "FStringFlagRepoGitHashFastString": "108bc7f5ecdcf12131b45e7101ba775a6691b380",
+    "DFStringFlagRepoGitHashDynamicString": "108bc7f5ecdcf12131b45e7101ba775a6691b380",
+    "FStringFlipTimeStampFastString": "2024-10-17T00:59:25.938Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-17T00:59:25.938Z"
 }
