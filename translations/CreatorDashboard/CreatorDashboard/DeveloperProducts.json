@@ -35,5 +35,6 @@
     "Error.DeveloperProductCreatedImageUploadFailedWithReason": "Developer Product created, but image upload failed with reason: {reason}. Please retry on the Configure page.",
     "Error.ImageUploadFailedOtherFieldsSucceeded": "Image upload failed, but the other fields were updated successfully.",
     "ErrorImageUpload.InternalAssetUploadFailed": "Failed to create Image asset. Please try again later.",
-    "ErrorImageUpload.InternalAssetUploadTookTooLong": "Image asset took too long to create. Please try again later."
+    "ErrorImageUpload.InternalAssetUploadTookTooLong": "Image asset took too long to create. Please try again later.",
+    "Error.UnsupportedDeveloperProductUpdate": "Updates for this developer product are not supported."
 }
