@@ -486,5 +486,13 @@
     "Message.ArchiveFailed": "Failed to archive item",
     "Label.EENewContent": "New content",
     "Label.EEItemDrop": "Item drop",
-    "Label.EENewSeason": "New season"
+    "Label.EENewSeason": "New season",
+    "Label.EEEarlyAccess": "Early access",
+    "Label.EEExpansion": "Expansion",
+    "Label.EENewLocation": "New location",
+    "Label.EENewMap": "New Map",
+    "Label.EEMoreLevels": "More Levels",
+    "Label.EEChallenge": "Challenge",
+    "Label.EEQuest": "Quest",
+    "Label.EEFestival": "Festival"
 }

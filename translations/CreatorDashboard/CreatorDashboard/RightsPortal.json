@@ -358,7 +358,7 @@
     "Description.ClaimSubpoint3": "If you can't find a solution, you still have the option of escalating your claim to a legal request that Roblox will review.",
     "Description.ClaimLearnMore": "Learn more about intellectual property by going through our {linkStart}guidelines and FAQs{linkEnd}.",
     "Label.IUnderstand": "I Understand",
-    "Description.ClaimFlavor": "You have 7 days, from the time you receive the claim, to either accept a claim or dispute a claim. Your creations will go back on sale if they are all disputed by you or released by the creator claiming them.",
+    "Description.ClaimFlavor": "You have 7 days, from the time you receive the claim, to either accept a claim or dispute a claim. Your creations will go back on sale if they are all disputed by you or released by the creator claiming them. {linkStart}Learn more{linkEnd}",
     "Label.Action": "Action",
     "Heading.IntroducingClaimsAgainstYou": "What is a claim against you?",
     "Heading.IntroducingActions": "What actions can you take?",
@@ -403,5 +403,6 @@
     "Description.NewClaim": "Creators who receive new claims will have 7 days to accept or dispute them. Experiences, limiteds and bundles will be escalated to Roblox for review.",
     "Heading.NoClaimsAgainstYou": "No claims against you",
     "Description.NoClaimsAgainstYou": "When you have a claim against you, it will appear here. You have 7 days, from the time you receive the claim, to either accept a claim or dispute a claim. {linkStart}Learn more{linkEnd}",
-    "Heading.MyRemovalRequests": "My removal requests"
+    "Heading.MyRemovalRequests": "My removal requests",
+    "Description.RegisterRightsHolderRR": "If you believe someone is copying your work, register as a rights holder to file removal requests."
 }
