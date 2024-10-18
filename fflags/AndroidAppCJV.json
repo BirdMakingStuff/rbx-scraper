@@ -7940,7 +7940,6 @@
     "FFlagAppChatPCMFixBlocking": "True",
     "FFlagAppChatTiltMenuConnectIcon": "True",
     "FFlagAppChatUseNewSelectChatMembers2": "True",
-    "FFlagSettingsHubIndependentBackgroundVisibility": "True",
     "DFFlagSimSolverCleanupAeroMemScopes2": "True",
     "DFStringDynamicRCCMemoryLimitsCustomPoliciesJson": "{{\"type\": \"MinLimitAtCapacity\", \"playerCapacity\": 200, \"valueMB\": 13000}}",
     "FFlagAXLookViewportUseFallbackEmote": "True",
@@ -8506,8 +8505,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "c2d8b7b1654961952cb6d6b9a80c5b00b4379bec",
-    "DFStringFlagRepoGitHashDynamicString": "c2d8b7b1654961952cb6d6b9a80c5b00b4379bec",
-    "FStringFlipTimeStampFastString": "2024-10-18T19:47:39.339Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-18T19:47:39.339Z"
+    "FStringFlagRepoGitHashFastString": "f8e897e5b04d91208cca7095f8ef88b8d49d5375",
+    "DFStringFlagRepoGitHashDynamicString": "f8e897e5b04d91208cca7095f8ef88b8d49d5375",
+    "FStringFlipTimeStampFastString": "2024-10-18T21:07:53.242Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-18T21:07:53.242Z"
 }
