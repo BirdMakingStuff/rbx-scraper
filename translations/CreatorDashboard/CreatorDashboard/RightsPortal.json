@@ -406,5 +406,7 @@
     "Heading.MyRemovalRequests": "My removal requests",
     "Description.RegisterRightsHolderRR": "If you believe someone is copying your work, register as a rights holder to file removal requests.",
     "Heading.EscalationTitle": "Additional Details for Roblox Review",
-    "Description.EscalateDetails": "The following experiences, game passes, dev products or limiteds will be escalated to Roblox for review. Add additional details to support your claim against them."
+    "Description.EscalateDetails": "The following experiences, game passes, dev products or limiteds will be escalated to Roblox for review. Add additional details to support your claim against them.",
+    "Label.EditForm": "EDIT FORM",
+    "Label.EditCaps": "EDIT"
 }
