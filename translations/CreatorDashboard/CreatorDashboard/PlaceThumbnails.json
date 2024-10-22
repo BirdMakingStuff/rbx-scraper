@@ -112,12 +112,13 @@
     "Description.ThumbnailPersonalizationOffBelowDAU": "Personalization is off",
     "Description.UploadHomepageThumbnail.Format": "Format: {formats}",
     "Description.UploadHomepageThumbnail.Size": "Size: less than 3MB",
-    "Description.UploadHomepageThumbnail.Ratio": "Recommended ratio: 4:3",
+    "Description.UploadHomepageThumbnail.Ratio": "Recommended ratio: 16:9",
     "Label.EditActiveThumbnails": "Edit active thumbnails",
     "Label.NoPermissionToEdit": "You do not have permission to edit",
     "Title.PromptToActivateThumbnails": "Want to use your new thumbnails?",
     "Description.PromptToActivateThumbnails": "You uploaded new thumbnails, but they won’t be shown to users until you check the \"Active\" box after they’re approved by moderation.",
     "Action.PromptToActivateThumbnails": "Select new thumbnails",
     "Action.CancelPromptToActivateThumbnails": "Keep current thumbnails",
-    "Description.CheckMoreThumbnail": "You must check at least one thumbnail"
+    "Description.CheckMoreThumbnail": "You must check at least one thumbnail",
+    "Description.UploadHomepageThumbnail.MaxPerUpload": "Max (limit) thumbnails per upload"
 }

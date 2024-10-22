@@ -41,7 +41,7 @@
     "Label.From": "From",
     "Label.To": "To",
     "Label.Total": "Total",
-    "Message.PaymentSent": "Members will receive payment within 72 hours.",
+    "Message.PaymentSent": "The payout has been sent",
     "Title.PaymentSent": "Payout Sent",
     "Error.PayoutSumExceedsFunds": "Total payout value exceeds group funds",
     "Message.ChangeSaved": "Change Saved",
