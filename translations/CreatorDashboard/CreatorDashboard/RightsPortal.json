@@ -408,5 +408,8 @@
     "Heading.EscalationTitle": "Additional Details for Roblox Review",
     "Description.EscalateDetails": "The following experiences, game passes, dev products or limiteds will be escalated to Roblox for review. Add additional details to support your claim against them.",
     "Label.EditForm": "EDIT FORM",
-    "Label.EditCaps": "EDIT"
+    "Label.EditCaps": "EDIT",
+    "Description.Claims": "A claim is an action that restricts the visibility and monetization of creations that you believe are copying your intellectual property. Learn more about intellectual property by going through our {guidelinesStart}guidelines{guidelinesEnd} and {faqStart}FAQs{faqEnd}. You can view your {linkStart}registration details here{linkEnd}.",
+    "Label.CreatedDate": "Created Date",
+    "Label.UpdatedDate": "Updated Date"
 }
