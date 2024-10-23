@@ -168,7 +168,7 @@
     "Description.OrganizationConfigure": "Configure group profile",
     "Description.OrganizationAudit": "Audit Group",
     "Description.OrganizationManageMembers": "Add or remove group members",
-    "Description.OrganizationManageRoles": "Administrate all group roles",
+    "Description.OrganizationManageRoles": "Create and configure limited roles",
     "Description.ExperiencePlay": "Play all group experiences",
     "Description.ExperienceEdit": "Edit all group experiences",
     "Description.ExperienceViewAnalytics": "View all analytics for group experiences",
@@ -269,5 +269,9 @@
     "Description.AssetEdit": "Create and configure development items",
     "Description.AssetManage": "Manage development item permissions",
     "Description.AssetMonetize": "Monetize development items",
-    "Description.RevenueAdvertise": "Advertise group"
+    "Description.RevenueAdvertise": "Advertise group",
+    "Description.OrganizationAssignSameRoleWithRoleName": "Add or remove {roleName} role members",
+    "Description.OrganizationAssignSameRole": "Add or remove role members",
+    "Description.OrganizationCreateAndConfigureRolesLimited": "Create and configure limited roles",
+    "Caption.OrganizationCreateAndConfigureRolesLimited": "Members in this role will be able to create, destroy, and configure roles that have permissions they themselves also have."
 }
