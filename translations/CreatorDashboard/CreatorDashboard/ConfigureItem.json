@@ -375,5 +375,8 @@
     "Label.CreationFeeDescription": "Non-refundable fee to create {item}",
     "Label.AvatarCreationToken": "Avatar Creation Token",
     "Label.CreationAdvance": "Creation Advance",
-    "Label.CreationFee": "Creation Fee"
+    "Label.CreationFee": "Creation Fee",
+    "Message.NameModerated": "the content's name was moderated.",
+    "Message.DescriptionModerated": "the content's description was moderated.",
+    "Message.NameAndDescriptionModerated": "the content's name and description were moderated."
 }

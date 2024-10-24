@@ -69,7 +69,7 @@
     "Description.VideoUploadModeration": "Videos will not be displayed on the Experience page until they have been reviewed by moderation.",
     "Description.BuyThumbnailInfoAlert": "Are you sure you want to buy this thumbnail for",
     "Description.ReorderThumbnailsAlert": "Changes to the thumbnails order will be reflected on the {linkStart}Experience Detail Page{linkEnd}",
-    "Description.MaxThumbnailsReached": "You’ve hit the maximum {limit} thumbnail limit.",
+    "Description.MaxThumbnailsReached": "You’ve hit the maximum {limit} thumbnails limit.",
     "Description.UploadHomepageThumbnail": "Format: {formats}\nSize: less than 3MB\n Recommended ratio: 4:3",
     "Title.StartPersonalizeThumbnails": "Personalize your thumbnails",
     "Description.StartPersonalizeThumbnails": "Upload multiple thumbnails and we’ll show the most relevant thumbnail to each user. Thumbnails will be visible after moderation. {linkStart}Learn More{linkEnd}",
@@ -120,5 +120,6 @@
     "Action.PromptToActivateThumbnails": "Select new thumbnails",
     "Action.CancelPromptToActivateThumbnails": "Keep current thumbnails",
     "Description.CheckMoreThumbnail": "You must check at least one thumbnail",
-    "Description.UploadHomepageThumbnail.MaxPerUpload": "Max (limit) thumbnails per upload"
+    "Description.UploadHomepageThumbnail.MaxPerUpload": "Max {limit} thumbnails per upload",
+    "Tooltip.MaxThumbnailsReached": "You’ve hit the maximum {limit} thumbnails limit."
 }
