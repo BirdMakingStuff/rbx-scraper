@@ -376,6 +376,10 @@
     "Label.AvatarCreationToken": "Avatar Creation Token",
     "Label.CreationAdvance": "Creation Advance",
     "Label.CreationFee": "Creation Fee",
+    "Label.Genre": "Genre",
+    "Message.GenreLockDuration": "You can only change genres once every 3 months.",
+    "Message.ChangesRestricted": "Changes restricted until {date}.",
+    "Label.Subgenre": "Subgenre",
     "Message.NameModerated": "the content's name was moderated.",
     "Message.DescriptionModerated": "the content's description was moderated.",
     "Message.NameAndDescriptionModerated": "the content's name and description were moderated."

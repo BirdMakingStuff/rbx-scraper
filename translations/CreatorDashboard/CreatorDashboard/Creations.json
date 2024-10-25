@@ -495,5 +495,7 @@
     "Label.EEChallenge": "Challenge",
     "Label.EEQuest": "Quest",
     "Label.EEFestival": "Festival",
-    "Label.BundleID": "Bundle ID"
+    "Label.BundleID": "Bundle ID",
+    "Heading.ExperienceGenreChanged": "Experience Genre Changed",
+    "Label.ExperienceGenreTransition": "Roblox has changed the genre from {prevGenre} to {newGenre}"
 }
