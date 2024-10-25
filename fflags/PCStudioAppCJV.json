@@ -8117,7 +8117,7 @@
     "FFlagMoveUGCValidationFromAssetService2": "True",
     "FFlagMoveUGCValidationFunctionFeature": "True",
     "FFlagUGCValidationCallbackResultStrings": "True",
-    "FFlagAXShowRefinementButtonAvatarWidget3": "True",
+    "FFlagAXShowRefinementButtonAvatarWidget3": "False",
     "FStringSuppressMutedErrorKeys": "AdjustAccessoryView",
     "FStringAvatarDeepLinkPattern": "roblox.*://navigation/avatar.*",
     "FFlagUpdateComposerScreenInsets": "True",
@@ -9194,7 +9194,7 @@
     "FFlagSceneHashMaps4": "True",
     "FFlagSimpleTimerUseRuntimeSyncPrims": "True",
     "FFlagEnableVisBugChecks27": "True",
-    "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045;82695214392018;92359758414863",
+    "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045",
     "DFIntReportInfluxFastLogHighPriorityHundredthsPercentage": "10000",
     "DFIntReportInfluxFastLogSendHundredthsPercentage": "10000",
     "DFLogHttpTrace": "0",
@@ -9203,8 +9203,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "ef2fedf7d0d3d9f46041e1d11f4f5c2335de1790",
-    "DFStringFlagRepoGitHashDynamicString": "ef2fedf7d0d3d9f46041e1d11f4f5c2335de1790",
-    "FStringFlipTimeStampFastString": "2024-10-25T21:13:59.528Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-25T21:13:59.528Z"
+    "FStringFlagRepoGitHashFastString": "6fed0be36bf66bde21dbb9305a19f032c05167f7",
+    "DFStringFlagRepoGitHashDynamicString": "6fed0be36bf66bde21dbb9305a19f032c05167f7",
+    "FStringFlipTimeStampFastString": "2024-10-25T22:28:29.697Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-25T22:28:29.697Z"
 }
