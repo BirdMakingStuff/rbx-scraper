@@ -274,5 +274,6 @@
     "Description.OrganizationAssignSameRoleWithRoleName": "Add or remove {roleName} role members",
     "Description.OrganizationAssignSameRole": "Add or remove this role's members",
     "Description.OrganizationCreateAndConfigureRolesLimited": "Create and configure limited roles",
-    "Caption.OrganizationCreateAndConfigureRolesLimited": "Members in this role will be able to create, destroy, and configure roles that have permissions they themselves also have."
+    "Caption.OrganizationCreateAndConfigureRolesLimited": "Members in this role will be able to create, destroy, and configure roles that have permissions they themselves also have.",
+    "Caption.OrganizationAssignSameRole": "Members in this role can configure this role's members. {strongStart}This includes the ability to grant this role's access to any members in the group.{strongEnd}"
 }
