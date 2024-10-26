@@ -7367,7 +7367,6 @@
     "FFlagStudioHideWithDataModelContextImpl": "True",
     "FFlagGuiServiceTrackLayoutTimeForPerfTests": "True",
     "FFlagXboxDoNotDestroySurfaceViewOnRestartLuaApp": "True",
-    "DFIntRobloxTelemetryPointV2ProdTrafficPercent": "1",
     "FFlagConvertAccessoryCopyHandleMaterial": "True",
     "FFlagAXRemoveVerticalDrawerPadding": "True",
     "FFlagRecordStartRaceFix2": "True",
@@ -9195,8 +9194,8 @@
     "FFlagSimpleTimerUseRuntimeSyncPrims": "True",
     "FFlagEnableVisBugChecks27": "True",
     "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045",
-    "FStringFlagRepoGitHashFastString": "6fed0be36bf66bde21dbb9305a19f032c05167f7",
-    "DFStringFlagRepoGitHashDynamicString": "6fed0be36bf66bde21dbb9305a19f032c05167f7",
-    "FStringFlipTimeStampFastString": "2024-10-25T22:28:29.697Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-25T22:28:29.697Z"
+    "FStringFlagRepoGitHashFastString": "4f6fe77fe33e9f90c29ed17f950a4e56a3985c2c",
+    "DFStringFlagRepoGitHashDynamicString": "4f6fe77fe33e9f90c29ed17f950a4e56a3985c2c",
+    "FStringFlipTimeStampFastString": "2024-10-26T02:10:13.924Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-26T02:10:13.924Z"
 }
