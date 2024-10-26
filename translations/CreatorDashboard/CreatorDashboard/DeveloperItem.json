@@ -137,5 +137,18 @@
     "Heading.RemoveCollaborator": "Remove Collaborator?",
     "Description.RemoveCollaborator": "This collaborator will no longer be able to access this asset",
     "Action.SaveChanges": "Save Changes",
-    "Label.ExperienceIdSearchLabel": "Enter experience IDs"
+    "Label.ExperienceIdSearchLabel": "Enter experience IDs",
+    "Message.OpenUsePricedRestriction": "Open-use assets cannot be priced",
+    "Message.OpenUseRestrictedRestriction": "Open-use assets cannot be made restricted",
+    "Description.AssetAccess": "Asset access is in beta. Default settings are applicable to all newly uploaded assets.",
+    "Heading.AssetAccess": "Asset Access",
+    "Description.AssetAccessRestricted": "Only you and those with permission can use this asset",
+    "Message.PricedOpenUseRestriction": "Priced assets cannot be set to open-use",
+    "Description.AssetAccessOpenUse": "Anyone on Roblox can use this asset",
+    "Heading.AssetAccessChangeConfirmation": "Are you sure you want to permanently change access to this asset?",
+    "Description.AssetAccessChangeConfirmation": "You cannot undo this action",
+    "Action.MakeOpenUse": "Make Open Use",
+    "Description.AssetAccessRestrictedChildrenError": "This asset cannot be made open use as it contains restricted children.",
+    "Label.OpenUse": "Open Use",
+    "Label.Restricted": "Restricted"
 }

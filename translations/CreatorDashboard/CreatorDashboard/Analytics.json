@@ -780,7 +780,7 @@
     "Label.Metric.MonthlyActiveUsers": "Monthly Active Users",
     "Label.Metric.Visits": "Sessions",
     "Label.Metric.AveragePlayMinutes": "Average Session Time",
-    "Title.QualifiedPlayThroughRate": "Qualified Play Through Rate per User (Recommendations)",
+    "Title.QualifiedPlayThroughRate": "Unique User Qualified Play Through Rate (Recommendations)",
     "Description.QualifiedPlayThroughRate": "Percent of new and returning users who engaged with your experience after viewing it in home recommendations",
     "Title.Table.QualifiedUsersWithPlays": "Users With Qualified Plays",
     "Description.Table.QualifiedUsersWithPlays": "Unique new users who engaged with your experience",
@@ -911,5 +911,7 @@
     "Description.Table.ThumbnailAVGPlayTime": "Average playtime per qualified play.",
     "Label.Dimension.AcquisitionSource.ContinueToPlay": "Continue To Play",
     "Label.Dimension.AcquisitionSource.Curation": "Curation",
-    "Label.Metric.TotalSessionsEndedInBucket": "New User First Session Retention"
+    "Label.Metric.TotalSessionsEndedInBucket": "New User First Session Retention",
+    "Label.WinningSegment.Below18": "<18",
+    "Label.WinningSegment.AboveOrEqual18": "18+"
 }
