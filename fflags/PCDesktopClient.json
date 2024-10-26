@@ -8130,6 +8130,7 @@
     "FFlagEnableTopBarIconButtonBackgroundProps": "True",
     "FFlagEnableCrossDMEventSequencing": "True",
     "FFlagJoinCrossExpVoiceWithPartyId": "True",
+    "DFIntBatchPostLimit": "20",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -8646,8 +8647,8 @@
     "FFlagScreenshotsIsActive_v1": "True",
     "FFlagEnableCommerceWebviewDomaAsTitleOnDesktop2": "True",
     "FFlagDataModelPatcherForceLocal": "True",
-    "FStringFlagRepoGitHashFastString": "4f6fe77fe33e9f90c29ed17f950a4e56a3985c2c",
-    "DFStringFlagRepoGitHashDynamicString": "4f6fe77fe33e9f90c29ed17f950a4e56a3985c2c",
-    "FStringFlipTimeStampFastString": "2024-10-26T02:10:13.924Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-26T02:10:13.924Z"
+    "FStringFlagRepoGitHashFastString": "8de25dc752f6ba72a70a6ad9421e70a2f599794a",
+    "DFStringFlagRepoGitHashDynamicString": "8de25dc752f6ba72a70a6ad9421e70a2f599794a",
+    "FStringFlipTimeStampFastString": "2024-10-26T20:58:19.723Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-26T20:58:19.723Z"
 }
