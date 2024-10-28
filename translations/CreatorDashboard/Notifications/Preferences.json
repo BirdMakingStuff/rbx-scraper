@@ -159,5 +159,10 @@
     "Label.CategoryCreatorMonetizationTools": "Monetization Tools",
     "Description.CategoryCreatorMonetizationTools": "Notifications about pricing tools and features",
     "Label.NotificationTypeSubscriptionResubscribed": "Subscription Resubscribed",
-    "Description.NotificationTypeSubscriptionResubscribed": "User has resubscribed their subscription"
+    "Description.NotificationTypeSubscriptionResubscribed": "User has resubscribed their subscription",
+    "Label.CategoryExperienceManagement": "Experience Management",
+    "Description.CategoryExperienceManagement": "Notifications about your experience, such as genre changes or new compliancy requirements",
+    "Label.NotificationTypeExperienceGenre": "Experience Genre",
+    "Description.NotificationTypeExperienceGenre": "Experience genre updates by Roblox and appeal decisions",
+    "Description.UnsubscribeFromExperienceGenre": "Stop notifying me about experience genre updates by Roblox and appeal decisions"
 }

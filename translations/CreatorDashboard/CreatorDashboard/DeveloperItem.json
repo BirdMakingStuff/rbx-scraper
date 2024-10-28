@@ -150,5 +150,6 @@
     "Action.MakeOpenUse": "Make Open Use",
     "Description.AssetAccessRestrictedChildrenError": "This asset cannot be made open use as it contains restricted children.",
     "Label.OpenUse": "Open Use",
-    "Label.Restricted": "Restricted"
+    "Label.Restricted": "Restricted",
+    "Label.Beta": "Beta"
 }

@@ -912,6 +912,13 @@
     "Label.Dimension.AcquisitionSource.ContinueToPlay": "Continue To Play",
     "Label.Dimension.AcquisitionSource.Curation": "Curation",
     "Label.Metric.TotalSessionsEndedInBucket": "New User First Session Retention",
+    "Heading.Assistant": "Assistant",
+    "Label.Assistant.MonthlyReport": "Your monthly report",
+    "Label.Assistant.Feedback": "Was this helpful?",
+    "Action.ViewReport": "View Report",
+    "Heading.Assistant.BannerTitle": "Your monthly LLM report is here",
+    "Description.Assistant.BannerDescription": "Get a full readout of your monthly analytics",
+    "Description.CloseAssistantButton": "Close Assistant Mode",
     "Label.WinningSegment.Below18": "<18",
     "Label.WinningSegment.AboveOrEqual18": "18+"
 }

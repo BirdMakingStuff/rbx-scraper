@@ -263,6 +263,6 @@
     "Message.ConfirmPriceCheck": "Before optimizing prices, verify that your prices aren't hard-coded by using the Dynamic Price Check tool. It only takes a few minutes and is required for price optimization to work effectively.\n\nEnsure your prices are dynamic and ready for optimization.",
     "Action.CheckPrices": "Check Prices",
     "Heading.PriceOptimizationFreezeTitle": "Price Optimization Holiday Shutdown",
-    "Description.PriceOptimizationFreezeBlockedDates": "Price optimization tests will be unavailable between the dates {pauseDate}",
+    "Description.PriceOptimizationFreezeBlockedDates": "Price optimization tests will be unavailable between the dates {startDate} - {endDate}",
     "Description.LearnMore": "Learn More"
 }
