@@ -151,6 +151,7 @@
     "FFlagEnableRigRetargeterCaching": "True",
     "FFlagUserFixOrbitalCam": "True",
     "FFlagEnableAnimatorAnalyticsForRetargeting": "True",
+    "FFlagValidateMachineUseApi_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-28T17:30:30",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
@@ -165,9 +166,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FFlagEnableAnimatorAnalyticsForRetargeting_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-28T16:28:29",
-    "FStringFlagRepoGitHashFastString": "ae9dec8ae0ab8894a731175767cbaa1100a05d24",
-    "DFStringFlagRepoGitHashDynamicString": "ae9dec8ae0ab8894a731175767cbaa1100a05d24",
-    "FStringFlipTimeStampFastString": "2024-10-28T16:44:31.687Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-28T16:44:31.687Z"
+    "FStringFlagRepoGitHashFastString": "2899d711d5861d9008e53ab3a55704e0c0612177",
+    "DFStringFlagRepoGitHashDynamicString": "2899d711d5861d9008e53ab3a55704e0c0612177",
+    "FStringFlipTimeStampFastString": "2024-10-28T17:36:00.728Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-28T17:36:00.728Z"
 }
