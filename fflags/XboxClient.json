@@ -8458,7 +8458,7 @@
     "FFlagNewCallbackForBoundChannel": "True",
     "FFlagReportStaticFlagsVersionCounter": "True",
     "FIntXboxPrefetchAuthRetries": "1",
-    "FIntStaticFlagsVersionCounter": "1",
+    "FIntStaticFlagsVersionCounter": "2",
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": "True",
     "FFlagEnableCatalogTileLoadingLatencyV2": "False",
     "DFFlagTeamCreatePlaceUploadSendCompressedRollout2": "True",
@@ -8495,8 +8495,8 @@
     "FFlagAXEnableCommunityAvatarsEntryPoint2": "True",
     "FFlagAXFixLookComposerExitPrompt": "True",
     "FFlagAXLookComposerStepsRefactor": "True",
-    "FStringFlagRepoGitHashFastString": "8e4b95b81cd6cd490c02a681d1d910521d0e32b8",
-    "DFStringFlagRepoGitHashDynamicString": "8e4b95b81cd6cd490c02a681d1d910521d0e32b8",
-    "FStringFlipTimeStampFastString": "2024-10-29T01:53:32.731Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-29T01:53:32.731Z"
+    "FStringFlagRepoGitHashFastString": "a351ca3cee8adf4801b0f72f0290c2ad1548e2f7",
+    "DFStringFlagRepoGitHashDynamicString": "a351ca3cee8adf4801b0f72f0290c2ad1548e2f7",
+    "FStringFlipTimeStampFastString": "2024-10-29T02:26:34.931Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-29T02:26:34.931Z"
 }
