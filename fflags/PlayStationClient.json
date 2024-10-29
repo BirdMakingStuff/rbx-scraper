@@ -8207,6 +8207,13 @@
     "FFlagSaveClientSettingsCachePerfTelemetry": "True",
     "DFFlagSimSolverFixSphereAndCylinderExtent": "True",
     "FFlagGetFriendCountFromNetwork": "True",
+    "DFFlagSwapLocationOfRCCOOMCrashForMemoryMonitor_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-29T19:38:27",
+    "FFlagInferredCrashUpdateUserId_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-29T19:44:29",
+    "FFlagUserSearchUpdateFriendshipReducer_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-29T20:18:38",
+    "FFlagStudioManageCollabFixClearDoubleClick_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-29T20:22:28",
+    "FFlagEnableNonUAPAccessoryAdjustment": "True",
+    "FFlagPerformanceControlFixSegmentBefore_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-29T20:29:25",
+    "DFFlagPerformanceControlRefactorSubmitTunable_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-29T20:30:27",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -8381,8 +8388,9 @@
     "FFlagAXEnableCommunityAvatarsEntryPoint2": "True",
     "FFlagAXFixLookComposerExitPrompt": "True",
     "FFlagAXLookComposerStepsRefactor": "True",
-    "FStringFlagRepoGitHashFastString": "610b96cf23e9d17db98e3c73e32f6bb275f6171f",
-    "DFStringFlagRepoGitHashDynamicString": "610b96cf23e9d17db98e3c73e32f6bb275f6171f",
-    "FStringFlipTimeStampFastString": "2024-10-29T19:22:48.260Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-29T19:22:48.260Z"
+    "DFFlagCLI122685_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-29T19:58:03",
+    "FStringFlagRepoGitHashFastString": "d6f2a3483ea606e43cc00ddf6d374827d10a56ef",
+    "DFStringFlagRepoGitHashDynamicString": "d6f2a3483ea606e43cc00ddf6d374827d10a56ef",
+    "FStringFlipTimeStampFastString": "2024-10-29T20:33:41.066Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-29T20:33:41.066Z"
 }
