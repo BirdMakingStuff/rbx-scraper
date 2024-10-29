@@ -652,7 +652,7 @@
     "Description.Table.NewUsersFunnel": "Cumulative over selected period (all metrics shown are new unique users).",
     "Description.Dimension.AcquisitionSource.SponsoredAds": "Includes Roblox sponsored experiences.",
     "Description.Dimension.AcquisitionSource.CrossGame": "Includes all teleports that are not portal ads.",
-    "Description.Dimension.AcquisitionSource.Search": "Includes Search, Discover page, and Recommended Experiences on the game details page.",
+    "Description.Dimension.AcquisitionSource.Search": "Includes Search, and Recommended Experiences on the game details page.",
     "Description.Dimension.AcquisitionSource.HomeRecommendation": "Includes all Roblox homepage recommendations (does not include Continue, Favorites, or sponsored experiences).",
     "Description.Dimension.AcquisitionSource.Friends": "Includes friends carousel on the Roblox Homepage.",
     "Description.Dimension.AcquisitionSource.Others": "Includes all other sources of acquisition.",
@@ -678,7 +678,7 @@
     "Description.TopSourcesBy30DRevenuePerUser": "Excludes new users that haven't reached 30 days yet.",
     "Warning.SubscriptionEngagementPayoutsPortalAdsRevenueExcluded": "*Excludes revenue from subscriptions, engagement payouts, and portal ads.",
     "Label.AverageNetFlowOverSelectedPeriod": "Average net flow over selected period",
-    "Description.Dimension.AcquisitionSource.HomeNonRecommendation": "Includes curated sorts and Favorites.",
+    "Description.Dimension.AcquisitionSource.HomeNonRecommendation": "Includes Favorites and all other sorts on Home.",
     "Description.AcquisitionPlaysPerSource": "Unique users who played from each source.",
     "Label.Dimension.PayerStatus": "Payer vs Non-Payer",
     "Label.Dimension.Locale": "Language",
@@ -920,5 +920,12 @@
     "Description.Assistant.BannerDescription": "Get a full readout of your monthly analytics",
     "Description.CloseAssistantButton": "Close Assistant Mode",
     "Label.WinningSegment.Below18": "<18",
-    "Label.WinningSegment.AboveOrEqual18": "18+"
+    "Label.WinningSegment.AboveOrEqual18": "18+",
+    "Label.Charts": "Charts",
+    "Label.Dimension.AcquisitionSource.Charts": "Charts",
+    "Label.Dimension.AcquisitionSource.SearchAds": "Search Ads",
+    "Description.Dimension.AcquisitionSource.Curation": "Includes Today’s picks and Roblox Event sorts.",
+    "Description.Dimension.AcquisitionSource.ContinueToPlay": "Includes continue sort on Home",
+    "Description.Dimension.AcquisitionSource.Charts": "Includes all sorts on Charts page",
+    "Description.Dimension.AcquisitionSource.SearchAds": "Includes sponsored search experiences"
 }

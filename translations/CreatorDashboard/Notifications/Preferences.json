@@ -164,5 +164,8 @@
     "Description.CategoryExperienceManagement": "Notifications about your experience, such as genre changes or new compliancy requirements",
     "Label.NotificationTypeExperienceGenre": "Experience Genre",
     "Description.NotificationTypeExperienceGenre": "Experience genre updates by Roblox and appeal decisions",
-    "Description.UnsubscribeFromExperienceGenre": "Stop notifying me about experience genre updates by Roblox and appeal decisions"
+    "Description.UnsubscribeFromExperienceGenre": "Stop notifying me about experience genre updates by Roblox and appeal decisions",
+    "Label.NotificationTypeOwnershipTransferStatusUpdate": "Ownership Transfer Status Update",
+    "Description.NotificationTypeOwnershipTransferStatusUpdate": "You have an update about ownership transfer status",
+    "Description.UnsubscribeFromOwnershipTransferStatusUpdate": "Unsubscribe from Ownership Transfer Status Updates"
 }

@@ -419,5 +419,6 @@
     "Description.OneOrMoreLinksClaims": "Enter one or more links to claim. Every link must be in a new line. Up to {count} links.",
     "Error.InfringingLinksRequiredClaims": "Enter one or more links to claim. Every link must be in a new line. Up to {limit} links.",
     "Description.EnterOneOrMoreLinksClaims": "Enter one or more links to claim. Every link must be in a new line. Up to {count} links.",
-    "Label.ClaimedCreation": "Claimed Creation"
+    "Label.ClaimedCreation": "Claimed Creation",
+    "Label.FileClaim": "File claims"
 }

@@ -260,8 +260,8 @@
     "Label.FilterOptionTransferOwnership": "Ownership Transfer",
     "Label.DateCustom": "Custom",
     "Label.SearchCreator": "Search Creator",
-    "Description.OrganizationManageRolesWithRoleName": "Add or remove {roleName} role members",
-    "Caption.OrganizationManageRoles": "Members in this role can configure this role's members. {strongStart}This includes the ability to grant this role's access to any members in the group.{strongEnd}",
+    "Description.OrganizationManageRolesWithRoleName": "String is not in use.",
+    "Caption.OrganizationManageRoles": "String is not in use.",
     "Title.AvatarItemPermissions": "Avatar Item Permissions",
     "Description.AvatarItemCreate": "Create classic avatar items",
     "Description.AvatarItemConfigure": "Configure classic avatar items",
@@ -271,9 +271,11 @@
     "Description.AssetMonetize": "Monetize development items",
     "Description.RevenueAdvertise": "Advertise group",
     "Description.ExperiencePublish": "Edit & publish all group owned experiences",
-    "Description.OrganizationAssignSameRoleWithRoleName": "Add or remove {roleName} role members",
+    "Description.OrganizationAssignSameRoleWithRoleName": "Add or remove \"{roleName}\" role members",
     "Description.OrganizationAssignSameRole": "Add or remove this role's members",
     "Description.OrganizationCreateAndConfigureRolesLimited": "Create and configure limited roles",
-    "Caption.OrganizationCreateAndConfigureRolesLimited": "Members in this role will be able to create, destroy, and configure roles that have permissions they themselves also have.",
-    "Caption.OrganizationAssignSameRole": "Members in this role can configure this role's members. {strongStart}This includes the ability to grant this role's access to any members in the group.{strongEnd}"
+    "Caption.OrganizationCreateAndConfigureRolesLimited": "Members in this role will be able to create, delete, and configure roles that have permissions the member also has.",
+    "Caption.OrganizationAssignSameRole": "Members in this role can assign this role to anyone in the group.",
+    "Description.OrganizationAdministrateAllRoles": "Administrate all roles",
+    "Caption.OrganizationAdministrateAllRoles": "Members with this role can create, delete, and configure any role in the group. This is a super-admin permission, as it provides nearly full access."
 }
