@@ -152,9 +152,10 @@
     "FFlagUserFixOrbitalCam": "True",
     "FFlagEnableAnimatorAnalyticsForRetargeting": "True",
     "FFlagValidateMachineUseApi": "True",
-    "FStringDefaultModeratedAvatarBodyImageAssetId": "\"89053445842149\"",
-    "FStringDefaultModeratedAvatarHeadImageAssetId": "\"140234539950892\"",
-    "FFlagUseNewImageOnModeratedThumbnails_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:05:45",
+    "FStringDefaultModeratedAvatarBodyImageAssetId": "89053445842149",
+    "FStringDefaultModeratedAvatarHeadImageAssetId": "140234539950892",
+    "FFlagMicroProfileCounterOverflowFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:55:40",
+    "FFlagUseNewImageOnModeratedThumbnails": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "DFIntCrashUploadToBacktracePercentage": "10",
@@ -171,8 +172,8 @@
     "DeprecatedOSXMajorVersion": "10",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "0a2cdd6bf91d472aa83c2456e68638ce272342d3",
-    "DFStringFlagRepoGitHashDynamicString": "0a2cdd6bf91d472aa83c2456e68638ce272342d3",
-    "FStringFlipTimeStampFastString": "2024-10-30T22:35:04.141Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T22:35:04.141Z"
+    "FStringFlagRepoGitHashFastString": "b7a9a842bef0d7a2c8d95040fa6c5cf6c08b8359",
+    "DFStringFlagRepoGitHashDynamicString": "b7a9a842bef0d7a2c8d95040fa6c5cf6c08b8359",
+    "FStringFlipTimeStampFastString": "2024-10-30T23:34:14.797Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:34:14.797Z"
 }
