@@ -45,7 +45,9 @@
     "Label.VanityLinkTooltip": "Vanity links are owned by a notable brand, person, or entity.",
     "Label.EmptyExperienceLink": "--",
     "IncludeLaunchData": "Include LaunchData",
-    "Label.ConfigureLaunchData": "Configure join behavior when a user clicks this link. {linkStart}Learn More{linkEnd}",
-    "Label.LaunchData": "Include LaunchData",
-    "Label.LaunchDataParameter": "LaunchData Parameter"
+    "Label.ConfigureLaunchData": "If no custom parameter is provided, the link code is passed to the experience.  {linkStart}Learn More{linkEnd}",
+    "Label.LaunchData": "LaunchData",
+    "Label.LaunchDataParameter": "LaunchData Parameter",
+    "Label.CustomLaunchData": "Use custom LaunchData",
+    "Label.None": "None"
 }

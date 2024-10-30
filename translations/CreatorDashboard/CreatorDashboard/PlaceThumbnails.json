@@ -91,8 +91,8 @@
     "Description.ThumbnailPersonalizationNUXBannerOff": "Experiences saw an average +8.5% lift in qualified play through rate with personalization.",
     "Title.ConfirmTestNewThumbnails": "Start new thumbnail personalization?",
     "Description.ConfirmTestNewThumbnails": "Your thumbnail data will reset so download it now. Traffic will be evenly split across your active thumbnails at first, with more traffic sent to your top performers every hour.",
-    "Description.ConfirmTestNewThumbnailsTips": "1. Avoid updating your thumbnails within 24 hours after starting test.",
-    "Description.ConfirmTestNewThumbnailsTips2": "2. Wait for clear trends in impressions per thumbnail before changes.",
+    "Description.ConfirmTestNewThumbnailsTips": "1. Keep multiple thumbnails active. Your top-performing thumbnail may change over time.",
+    "Description.ConfirmTestNewThumbnailsTips2": "2. Personalization may not show meaningful results if <1000 DAU.",
     "Description.ConfirmTestNewThumbnailsTips3": "3. Personalization may not show meaningful results if <1000 DAU.",
     "Action.ConfirmTest": "Start",
     "Description.ThumbnailPersonalizationOff": "Personalization is off. Activate two or more thumbnails to turn it on.",
@@ -121,5 +121,6 @@
     "Action.CancelPromptToActivateThumbnails": "Keep current thumbnails",
     "Description.CheckMoreThumbnail": "You must check at least one thumbnail",
     "Description.UploadHomepageThumbnail.MaxPerUpload": "Max {limit} thumbnails per upload",
-    "Tooltip.MaxThumbnailsReached": "You’ve hit the maximum {limit} thumbnails limit."
+    "Tooltip.MaxThumbnailsReached": "You’ve hit the maximum {limit} thumbnails limit.",
+    "Label.Action.UploadImages": "Upload thumbnails"
 }

@@ -262,7 +262,10 @@
     "Heading.ConfirmPriceCheck": "Confirm your prices are dynamic",
     "Message.ConfirmPriceCheck": "Before optimizing prices, verify that your prices aren't hard-coded by using the Dynamic Price Check tool. It only takes a few minutes and is required for price optimization to work effectively.\n\nEnsure your prices are dynamic and ready for optimization.",
     "Action.CheckPrices": "Check Prices",
-    "Heading.PriceOptimizationFreezeTitle": "Price Optimization Holiday Shutdown",
-    "Description.PriceOptimizationFreezeBlockedDates": "Price optimization tests will be unavailable between the dates {startDate} - {endDate}",
-    "Description.LearnMore": "Learn More"
+    "Heading.PriceOptimizationFreezeTitle": "Price Optimization is not available",
+    "Description.PriceOptimizationFreezeBlockedDates": "Due to holiday seasonality, pricing tests will not be available from {startDate} - {endDate}",
+    "Description.LearnMore": "Learn More",
+    "Heading.PriceOptimizationFreezeTitleBeforeBlockedAndRanPO": "Run the next pricing test before {startDate}",
+    "Heading.PriceOptimizationFreezeTitleBeforeBlockedAndNoPO": "Optimize your prices before the holidays",
+    "Label.PriceOptimizationStartTestButtonDisabledTooltip": "Price tests are in a blackout period"
 }
