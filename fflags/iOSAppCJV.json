@@ -8120,7 +8120,7 @@
     "FFlagFixCapturesExperiencesOverride": "True",
     "FFlagEnableSplitButtonWithoutActionDropdown": "True",
     "FFlagHideCoreGui": "True",
-    "DFIntPacketMissingFrameWindowReportIntervalSec": "300000",
+    "DFIntPacketMissingFrameWindowReportIntervalSec": "300",
     "FFlagAllowSoundServiceIgnoreGameSettings": "True",
     "FFlagEnableCoreVoiceManagerEmitOnReportJoinFailed": "True",
     "FFlagEnableTopBarIconButtonBackgroundProps": "True",
@@ -8225,6 +8225,10 @@
     "FFlagEnablePreferredTextSizeStyleFixesInAvatarExp": "True",
     "FFlagUseCoreStudioSettings2": "True",
     "FFlagFriendsRoduxFollowingStatusReducer": "True",
+    "DFFlagMeasureMissedProcessPackets2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T16:06:58",
+    "FFlagAinSettingsHandleAnchored_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T16:10:39",
+    "DFFlagSimOptimizeSetSize_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T16:32:49",
+    "DFFlagUsingPaginatedFriendsV2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T16:35:17",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8846,8 +8850,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "cefca3a0a7ac5b93d7aa790596f74eb36214976f",
-    "DFStringFlagRepoGitHashDynamicString": "cefca3a0a7ac5b93d7aa790596f74eb36214976f",
-    "FStringFlipTimeStampFastString": "2024-10-30T01:37:58.641Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T01:37:58.641Z"
+    "FStringFlagRepoGitHashFastString": "4e91e6b07dac2a8521cb5559a9afe4bcc3e7d4c2",
+    "DFStringFlagRepoGitHashDynamicString": "4e91e6b07dac2a8521cb5559a9afe4bcc3e7d4c2",
+    "FStringFlipTimeStampFastString": "2024-10-30T16:35:50.871Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T16:35:50.871Z"
 }
