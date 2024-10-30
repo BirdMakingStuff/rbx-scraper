@@ -154,14 +154,15 @@
     "FFlagValidateMachineUseApi": "True",
     "FStringDefaultModeratedAvatarBodyImageAssetId": "\"89053445842149\"",
     "FStringDefaultModeratedAvatarHeadImageAssetId": "\"140234539950892\"",
+    "FFlagUseNewImageOnModeratedThumbnails_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:05:45",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "e94d27e83836e66ce06a2217ab008e5d81fabe95",
-    "DFStringFlagRepoGitHashDynamicString": "e94d27e83836e66ce06a2217ab008e5d81fabe95",
-    "FStringFlipTimeStampFastString": "2024-10-30T21:29:22.276Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T21:29:22.276Z"
+    "FStringFlagRepoGitHashFastString": "0a2cdd6bf91d472aa83c2456e68638ce272342d3",
+    "DFStringFlagRepoGitHashDynamicString": "0a2cdd6bf91d472aa83c2456e68638ce272342d3",
+    "FStringFlipTimeStampFastString": "2024-10-30T22:35:04.141Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T22:35:04.141Z"
 }
