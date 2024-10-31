@@ -49,5 +49,6 @@
     "Label.LaunchData": "LaunchData",
     "Label.LaunchDataParameter": "LaunchData Parameter",
     "Label.CustomLaunchData": "Use custom LaunchData",
-    "Label.None": "None"
+    "Label.None": "None",
+    "Label.LaunchDataToLong": "Length must be 200 bytes or less when URL encoded"
 }
