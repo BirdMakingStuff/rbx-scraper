@@ -39,5 +39,5 @@
     "enableSafetyControls": "true",
     "enableDisplayModerationPlaceNameError": "true",
     "enablePlaceSelectForEvent": "false",
-    "enableItemDelisting": "false"
+    "enableItemDelisting": "true"
 }
