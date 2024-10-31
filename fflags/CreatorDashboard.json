@@ -38,5 +38,6 @@
     "isContentMaturityRenameEnabled": "false",
     "enableSafetyControls": "true",
     "enableDisplayModerationPlaceNameError": "true",
-    "enablePlaceSelectForEvent": "false"
+    "enablePlaceSelectForEvent": "false",
+    "enableItemDelisting": "false"
 }
