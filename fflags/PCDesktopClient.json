@@ -8345,10 +8345,6 @@
     "FFlagStoringCsmTimestamp": "True",
     "FFlagLuaAppTextFooterLegacyTile": "True",
     "FFlagProfilePlatformEnableQuickLinks": "True",
-    "FFlagEnableParentalControlsScreentimeEnforcement": "True",
-    "FFlagEnableParentalControlsScreentimeEnforcement2": "True",
-    "FFlagEnableUserAccessServiceIntegration": "True",
-    "FFlagEnableUserAccessServiceIntegration2": "True",
     "FFlagGameDetailsSeparateChatFeatureRows": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
@@ -8908,8 +8904,8 @@
     "FFlagFixCapturesAvailability": "True",
     "FFlagLuaAppParentUpsellPolicy": "True",
     "FFlagLuaAppVpcUpsell3": "True",
-    "FStringFlagRepoGitHashFastString": "88a91a7ca590fe98ca910c14721db38ca5902a8b",
-    "DFStringFlagRepoGitHashDynamicString": "88a91a7ca590fe98ca910c14721db38ca5902a8b",
-    "FStringFlipTimeStampFastString": "2024-11-01T19:36:14.730Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T19:36:14.730Z"
+    "FStringFlagRepoGitHashFastString": "a3efd51b414817e3de7264b72916ab08638db9de",
+    "DFStringFlagRepoGitHashDynamicString": "a3efd51b414817e3de7264b72916ab08638db9de",
+    "FStringFlipTimeStampFastString": "2024-11-01T21:51:56.987Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T21:51:56.987Z"
 }
