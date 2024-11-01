@@ -8344,6 +8344,8 @@
     "FFlagUIDragDetectorEnableUseWithMorePlugins": "True",
     "FFlagUIDragDetectorImproveFindUIDragDetector": "True",
     "FFlagStoringCsmTimestamp": "True",
+    "DFIntRobloxTelemetryPointV2ProdTrafficPercent_Staged": "30;SteadyState;10;30;Rollout;100;30;Promote;2024-11-01T16:15:31",
+    "DFIntGameServerInitializationSuccessHundredths_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-11-01T16:15:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9450,6 +9452,8 @@
     "DFIntRakNetMissingPingLogFrequencyMs": "20000",
     "FFlagRemoveHardCodedFriendLimitPrompt": "True",
     "DFIntRakNetMissingPingPongReportThrottleHundredthsPercent": "10",
+    "FFlagEnableZstdForClientSettings_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-01T16:01:56",
+    "DFFlagIsFriendsWithUsesAreFriendsEndpointV2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-01T16:32:48",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -9468,8 +9472,8 @@
     "FFlagEnableVisBugChecks27": "True",
     "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045",
     "FFlagCSGPublishBugFix": "True",
-    "FStringFlagRepoGitHashFastString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
-    "DFStringFlagRepoGitHashDynamicString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
-    "FStringFlipTimeStampFastString": "2024-11-01T00:45:04.446Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T00:45:04.446Z"
+    "FStringFlagRepoGitHashFastString": "799f915e4401ad040b7d69f1a8208326ff08bfe5",
+    "DFStringFlagRepoGitHashDynamicString": "799f915e4401ad040b7d69f1a8208326ff08bfe5",
+    "FStringFlipTimeStampFastString": "2024-11-01T16:22:18.309Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T16:22:18.309Z"
 }

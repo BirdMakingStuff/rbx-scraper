@@ -8344,6 +8344,8 @@
     "FFlagUIDragDetectorEnableUseWithMorePlugins": "True",
     "FFlagUIDragDetectorImproveFindUIDragDetector": "True",
     "FFlagStoringCsmTimestamp": "True",
+    "DFIntRobloxTelemetryPointV2ProdTrafficPercent_Staged": "30;SteadyState;10;30;Rollout;100;30;Promote;2024-11-01T16:15:31",
+    "DFIntGameServerInitializationSuccessHundredths_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-11-01T16:15:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -8552,8 +8554,8 @@
     "FStringDefaultModeratedAvatarHeadImageAssetId": "140234539950892",
     "FFlagRefactorTeleportServiceGlobalFields4": "True",
     "FFlagUseNewImageOnModeratedThumbnails": "True",
-    "FStringFlagRepoGitHashFastString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
-    "DFStringFlagRepoGitHashDynamicString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
-    "FStringFlipTimeStampFastString": "2024-11-01T00:45:04.446Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T00:45:04.446Z"
+    "FStringFlagRepoGitHashFastString": "f1af9ba5fb978642c38ed1b60be39c00d27fad75",
+    "DFStringFlagRepoGitHashDynamicString": "f1af9ba5fb978642c38ed1b60be39c00d27fad75",
+    "FStringFlipTimeStampFastString": "2024-11-01T16:33:28.267Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T16:33:28.267Z"
 }
