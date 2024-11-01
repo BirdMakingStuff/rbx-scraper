@@ -161,14 +161,13 @@
     "FFlagEnableLauncherGuard": "False",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
-    "FFlagMacInstallerMoveExistingAppBeforeDelete": "True",
     "FFlagMacInstallerUseEventIngest": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "e937ef8c6431a3c136c048b697ede2e54098876f",
-    "DFStringFlagRepoGitHashDynamicString": "e937ef8c6431a3c136c048b697ede2e54098876f",
-    "FStringFlipTimeStampFastString": "2024-11-01T18:42:38.355Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T18:42:38.355Z"
+    "FStringFlagRepoGitHashFastString": "b4341ffcaf11d174994598ae0223be15519d70a6",
+    "DFStringFlagRepoGitHashDynamicString": "b4341ffcaf11d174994598ae0223be15519d70a6",
+    "FStringFlipTimeStampFastString": "2024-11-01T19:32:49.443Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T19:32:49.443Z"
 }
