@@ -8505,7 +8505,7 @@
     "FFlagUserFixOrbitalCam": "True",
     "FFlagLuaAppDeprecateGamesApiCalls": "False",
     "FFlagAXFilterValuesLogging": "True",
-    "DFFlagIsFriendsWithUsesAreFriendsEndpointV2": "True",
+    "DFFlagIsFriendsWithUsesAreFriendsEndpointV2": "False",
     "FFlagAXLogFiltersForOrganicClick3": "True",
     "FFlagDragDetectorCounterEnabled": "True",
     "FFlagScreenshotsAddCustomToastDuration": "True",
@@ -8896,8 +8896,8 @@
     "FFlagFixCapturesAvailability": "True",
     "FFlagLuaAppParentUpsellPolicy": "True",
     "FFlagLuaAppVpcUpsell3": "True",
-    "FStringFlagRepoGitHashFastString": "a3efd51b414817e3de7264b72916ab08638db9de",
-    "DFStringFlagRepoGitHashDynamicString": "a3efd51b414817e3de7264b72916ab08638db9de",
-    "FStringFlipTimeStampFastString": "2024-11-01T21:51:56.987Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T21:51:56.987Z"
+    "FStringFlagRepoGitHashFastString": "24336b6d2693dc7fc83225fc35e086a94806ad28",
+    "DFStringFlagRepoGitHashDynamicString": "24336b6d2693dc7fc83225fc35e086a94806ad28",
+    "FStringFlipTimeStampFastString": "2024-11-01T22:50:33.407Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T22:50:33.407Z"
 }
