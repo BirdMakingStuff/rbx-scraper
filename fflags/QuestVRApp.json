@@ -8920,7 +8920,6 @@
     "FFlagUseNewImageOnModeratedThumbnails": "True",
     "EnableAndroidBinaryChannelsLogging": "true",
     "AndroidBinaryChannelsLoggingThrottlingHundredthPercentage": "10000",
-    "DFFlagIsFriendsWithUsesAreFriendsEndpointV2": "True",
     "FFlagUIDragDetector2": "True",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
@@ -8966,8 +8965,8 @@
     "FFlagEnableLaserPointerDisableMethodV2": "True",
     "FFlagUIDragDetectorSupportSelectionModeDragging3": "True",
     "FFlagCleanUpAXAlternativeLandingPageIXP": "True",
-    "FStringFlagRepoGitHashFastString": "24336b6d2693dc7fc83225fc35e086a94806ad28",
-    "DFStringFlagRepoGitHashDynamicString": "24336b6d2693dc7fc83225fc35e086a94806ad28",
-    "FStringFlipTimeStampFastString": "2024-11-01T22:50:33.407Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T22:50:33.407Z"
+    "FStringFlagRepoGitHashFastString": "878b1e500b990eb7211bb426e4e692a852e13a39",
+    "DFStringFlagRepoGitHashDynamicString": "878b1e500b990eb7211bb426e4e692a852e13a39",
+    "FStringFlipTimeStampFastString": "2024-11-01T23:37:47.453Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T23:37:47.453Z"
 }
