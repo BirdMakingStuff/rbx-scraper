@@ -909,7 +909,7 @@
     "Description.Table.ThumbnailQualifiedPlays": "Qualified plays from Home recommendations.",
     "Description.Table.ThumbnailQualifiedPTR": "Qualified plays divided by impressions for Home recommendations.",
     "Description.Table.ThumbnailAVGPlayTime": "Average playtime per qualified play.",
-    "Label.Dimension.AcquisitionSource.ContinueToPlay": "Continue To Play",
+    "Label.Dimension.AcquisitionSource.ContinueToPlay": "Continue Play",
     "Label.Dimension.AcquisitionSource.Curation": "Curation",
     "Label.Metric.TotalSessionsEndedInBucket": "New User First Session Retention",
     "Heading.Assistant": "Assistant",
