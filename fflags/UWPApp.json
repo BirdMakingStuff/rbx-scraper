@@ -8215,7 +8215,7 @@
     "FFlagAvatarPreviewerForceValidationDialogModal": "True",
     "FFlagAvatarPreviewerTabBarTopLine": "True",
     "FFlagSimSolverDenseInvertTinyLDLComponents5": "True",
-    "FFlagScreenshotsSaveToDeviceToast_v2": "False",
+    "FFlagScreenshotsSaveToDeviceToast_v2": "True",
     "DFFlagFixReportDropPktStats": "True",
     "FStringNewUserExperimentLayer": "Creator.Assistant.CreatorId",
     "FStringReturningUserExperimentLayer": "Creator.Assistant.CreatorId",
@@ -8554,8 +8554,8 @@
     "FStringDefaultModeratedAvatarHeadImageAssetId": "140234539950892",
     "FFlagRefactorTeleportServiceGlobalFields4": "True",
     "FFlagUseNewImageOnModeratedThumbnails": "True",
-    "FStringFlagRepoGitHashFastString": "878b1e500b990eb7211bb426e4e692a852e13a39",
-    "DFStringFlagRepoGitHashDynamicString": "878b1e500b990eb7211bb426e4e692a852e13a39",
-    "FStringFlipTimeStampFastString": "2024-11-01T23:37:47.453Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T23:37:47.453Z"
+    "FStringFlagRepoGitHashFastString": "de5aca99b9cbc603a44dfddb8e2af2dc2bbce64f",
+    "DFStringFlagRepoGitHashDynamicString": "de5aca99b9cbc603a44dfddb8e2af2dc2bbce64f",
+    "FStringFlipTimeStampFastString": "2024-11-03T18:35:28.321Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-03T18:35:28.321Z"
 }
