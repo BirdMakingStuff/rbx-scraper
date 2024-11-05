@@ -8663,8 +8663,8 @@
     "FFlagLuaAppParentUpsellPolicy": "True",
     "FFlagLuaAppVpcUpsell3": "True",
     "FIntUnknownUpsellErrorEventHundredthsPercent": "10000",
-    "FStringFlagRepoGitHashFastString": "92cf8cd67ad9c9490958fe81f56c9f158f823d91",
-    "DFStringFlagRepoGitHashDynamicString": "92cf8cd67ad9c9490958fe81f56c9f158f823d91",
-    "FStringFlipTimeStampFastString": "2024-11-05T01:42:44.123Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-05T01:42:44.123Z"
+    "FStringFlagRepoGitHashFastString": "cf3fab84e6bf8729ec45845f2a72ef5370610094",
+    "DFStringFlagRepoGitHashDynamicString": "cf3fab84e6bf8729ec45845f2a72ef5370610094",
+    "FStringFlipTimeStampFastString": "2024-11-05T01:59:03.595Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-05T01:59:03.595Z"
 }

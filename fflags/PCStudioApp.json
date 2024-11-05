@@ -9399,7 +9399,7 @@
     "FFlagScriptEditorDocumentationOnHover5": "True",
     "FFlagUserDefinedFunctionDocumentation": "True",
     "FFlagStudioErrorReporterFixNameFiltering": "True",
-    "DFIntAutocompletePerformanceTelemetryThrottlePercent": "10000",
+    "DFIntAutocompletePerformanceTelemetryThrottlePercent": "2000",
     "FFlagStudioSplitPluginsThatNeedUser3": "True",
     "FFlagActionUrisExplorerNeeds2": "True",
     "FFlagComponentizeInsertObjectTheWindowItself2": "True",
@@ -9426,7 +9426,6 @@
     "FFlagConvAIUpdateSavePlaceTelemetry": "True",
     "FFlagTelemetryTypecheckClear": "True",
     "DFFlagNewCreateMeshPartBeta": "True",
-    "DFIntAutocompletePerformanceTelemetryThrottlePercent_Rollout": "2000;60;2024-11-05T00:51:44",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -9570,8 +9569,8 @@
     "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045;292439477;17017769292",
     "FFlagCSGPublishBugFix": "True",
     "FFlagMigratePublishingNewEndpoint": "True",
-    "FStringFlagRepoGitHashFastString": "92cf8cd67ad9c9490958fe81f56c9f158f823d91",
-    "DFStringFlagRepoGitHashDynamicString": "92cf8cd67ad9c9490958fe81f56c9f158f823d91",
-    "FStringFlipTimeStampFastString": "2024-11-05T01:42:44.123Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-05T01:42:44.123Z"
+    "FStringFlagRepoGitHashFastString": "cf3fab84e6bf8729ec45845f2a72ef5370610094",
+    "DFStringFlagRepoGitHashDynamicString": "cf3fab84e6bf8729ec45845f2a72ef5370610094",
+    "FStringFlipTimeStampFastString": "2024-11-05T01:59:03.595Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-05T01:59:03.595Z"
 }
