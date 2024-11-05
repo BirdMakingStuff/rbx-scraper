@@ -168,5 +168,9 @@
     "Label.NotificationTypeOwnershipTransferStatusUpdate": "Ownership Transfer Status Update",
     "Description.NotificationTypeOwnershipTransferStatusUpdate": "You have an update about ownership transfer status",
     "Description.UnsubscribeFromOwnershipTransferStatusUpdate": "Unsubscribe from Ownership Transfer Status Updates",
-    "Label.CategoryCommerce": "Commerce"
+    "Label.CategoryCommerce": "Commerce",
+    "Label.NotificationTypeCommerceProductOrderPaid": "Commerce Product Order Paid",
+    "Label.NotificationTypeCommerceProductOrderRefunded": "Commerce Product Order Refunded",
+    "Description.NotificationTypeCommerceProductOrderPaid": "The user has paid for their commerce product order.",
+    "Description.NotificationTypeCommerceProductOrderRefunded": "The user has received a refund for their commerce product order."
 }

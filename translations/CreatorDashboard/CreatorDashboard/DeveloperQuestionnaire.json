@@ -177,5 +177,6 @@
     "Message.ConfirmRestrictedLabel": "I Understand",
     "Message.RestrictedLabelWarning": "Once you add this content maturity label, it cannot be removed. Only age-verified 17+ users will be able to access your experience.",
     "Title.ConfirmRestrictedLabel": "Restricted labels are permanent",
-    "Message.ImpactOfContentMaturity": "Content maturity labels appear on the experience detail page and are used to inform search and discovery. Experiences without a content maturity label will show a blank label and won’t be recommended or playable to users under nine years old by default. Please generate a content maturity label for your experience as soon as it is eligible."
+    "Message.ImpactOfContentMaturity": "Content maturity labels appear on the experience detail page and are used to inform search and discovery. Experiences without a content maturity label will show a blank label and won’t be recommended or playable to users under nine years old by default. Please generate a content maturity label for your experience as soon as it is eligible.",
+    "Title.IncreaseMaturity": "Increase maturity"
 }
