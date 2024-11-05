@@ -420,5 +420,8 @@
     "Error.InfringingLinksRequiredClaims": "Enter one or more links to claim. Every link must be in a new line. Up to {limit} links.",
     "Description.EnterOneOrMoreLinksClaims": "Enter one or more links to claim. Every link must be in a new line. Up to {count} links.",
     "Label.ClaimedCreation": "Claimed Creation",
-    "Label.FileClaim": "File claims"
+    "Label.FileClaim": "File claims",
+    "Label.NotApplicable": "Not applicable",
+    "Description.AcceptedInfo": "This claim was automatically accepted as it went past its due date.",
+    "Description.EscalatedInfo": "Some claims, including experiences, limiteds, group owned creations, Under 13 creations, and game passes, are automatically escalated to Roblox for review."
 }

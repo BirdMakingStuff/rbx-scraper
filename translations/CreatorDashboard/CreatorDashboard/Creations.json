@@ -505,5 +505,6 @@
     "Label.BundleID": "Bundle ID",
     "Heading.ExperienceGenreChanged": "Experience Genre Changed",
     "Label.ExperienceGenreTransition": "Roblox has changed the genre from {oldGenre} to {newGenre}",
-    "Message.ItemTooNew": "Item is too new to archive"
+    "Message.ItemTooNew": "Item is too new to archive",
+    "Message.UserMissingGroupPermissions": "User is missing group permissions"
 }

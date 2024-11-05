@@ -810,7 +810,7 @@
     "Title.Table.Impressions": "Impressions",
     "Title.Table.QPlays": "Qualified Plays",
     "Title.Table.QPTR": "Qualified Play Through Rate",
-    "Title.Table.AVGPlayTime": "Average Playtime",
+    "Title.Table.AVGPlayTime": "Average Session Time",
     "Description.Table.ReplaceThumbnail": "Replace thumbnail",
     "Description.Table.DeleteThumbnail": "Delete thumbnail",
     "Description.Table.SetDefaultThumbnail": "Set as default thumbnail",
@@ -908,7 +908,7 @@
     "Description.Table.ThumbnailImpressions": "Impressions from Home recommendations.",
     "Description.Table.ThumbnailQualifiedPlays": "Qualified plays from Home recommendations.",
     "Description.Table.ThumbnailQualifiedPTR": "Qualified plays divided by impressions for Home recommendations.",
-    "Description.Table.ThumbnailAVGPlayTime": "Average playtime per qualified play.",
+    "Description.Table.ThumbnailAVGPlayTime": "Average session time per qualified play.",
     "Label.Dimension.AcquisitionSource.ContinueToPlay": "Continue Play",
     "Label.Dimension.AcquisitionSource.Curation": "Curation",
     "Label.Metric.TotalSessionsEndedInBucket": "New User First Session Retention",
@@ -916,7 +916,7 @@
     "Label.Assistant.MonthlyReport": "Your monthly report",
     "Label.Assistant.Feedback": "Was this helpful?",
     "Action.ViewReport": "View Report",
-    "Heading.Assistant.BannerTitle": "Your monthly LLM report is here",
+    "Heading.Assistant.BannerTitle": "Your monthly analytics report is ready ({dateRange})",
     "Description.Assistant.BannerDescription": "Get your AI-powered report on major metric changes, key drivers and outliers.",
     "Description.CloseAssistantButton": "Close Assistant Mode",
     "Label.WinningSegment.Below18": "<18",
@@ -927,5 +927,6 @@
     "Description.Dimension.AcquisitionSource.Curation": "Includes Today’s picks and Roblox Event sorts.",
     "Description.Dimension.AcquisitionSource.ContinueToPlay": "Includes continue sort on Home",
     "Description.Dimension.AcquisitionSource.Charts": "Includes all sorts on Charts page",
-    "Description.Dimension.AcquisitionSource.SearchAds": "Includes sponsored search experiences"
+    "Description.Dimension.AcquisitionSource.SearchAds": "Includes sponsored search experiences",
+    "Label.Metric.ThumbnailL7QualifiedPTR": "7D Qualified Play Through Rate by Thumbnail (Cumulative)"
 }
