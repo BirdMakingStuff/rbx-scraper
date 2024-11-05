@@ -8367,7 +8367,6 @@
     "FFlagFixCapturesAvailability": "True",
     "FFlagAddSystemProtocolBatteryLevel2": "True",
     "FFlagLCCheckCageDimNonSkinned2": "True",
-    "DFFlagLogRakNetStoppedProduction": "True",
     "FFlagRefactorTeleportServiceGlobalFields4": "True",
     "FFlagAppChatEnableGroupSetting": "True",
     "FFlagCLI_122163": "True",
@@ -8999,11 +8998,10 @@
     "FFlagLuaAppVpcUpsell3": "True",
     "FIntUnknownUpsellErrorEventHundredthsPercent": "10000",
     "FFlagEnablePauseLuaAppOnBackground": "True",
-    "FFlagEarlyDataModelInit6": "True",
     "FFlagEnableUniversalFocusNavigation2": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "cf3fab84e6bf8729ec45845f2a72ef5370610094",
-    "DFStringFlagRepoGitHashDynamicString": "cf3fab84e6bf8729ec45845f2a72ef5370610094",
-    "FStringFlipTimeStampFastString": "2024-11-05T01:59:03.595Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-05T01:59:03.595Z"
+    "FStringFlagRepoGitHashFastString": "13e80b2befe469469618c702ac0a059451df984e",
+    "DFStringFlagRepoGitHashDynamicString": "13e80b2befe469469618c702ac0a059451df984e",
+    "FStringFlipTimeStampFastString": "2024-11-05T06:22:42.463Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-05T06:22:42.463Z"
 }
