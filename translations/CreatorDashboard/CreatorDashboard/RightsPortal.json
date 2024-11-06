@@ -320,7 +320,7 @@
     "Description.DisputeReasonRemoved": "I modified my creation to remove the infringing content",
     "Description.DisputeReasonRemovedSub": "Select this option if you have modified your creation to remove infringing content and updated it to a new version.",
     "Description.DisputeReasonSent": "Reason for dispute will be sent to {boldStart} {boldEnd} for review.",
-    "Description.SupportingInformationReview": "Add supporting information like license agreements, screenshots demonstrating creative process, etc. Supporting information will only be sent to Roblox for review if this claim is escalated by the rights holder. {linkStart}Learn more{linkEnd}",
+    "Description.SupportingInformationReview": "Add supporting information like license agreements, screenshots demonstrating creative process, etc. Supporting information will only be sent to Roblox for review if a claim is escalated by the rights holder. {linkStart}Learn more{linkEnd}",
     "Description.DisputeDescribe": "Describe why you are disputing this claim",
     "Description.DisputeStatement1": "I understand that rights holder will be able to review my dispute including my “username” or “group name” and “Reason for dispute”. Filing a dispute may result in the rights holder taking legal action against me.",
     "Description.DisputeStatement2": "I understand that submitting fraudulent disputes may result in the termination of my Roblox account.",
@@ -423,5 +423,7 @@
     "Label.FileClaim": "File claims",
     "Label.NotApplicable": "Not applicable",
     "Description.AcceptedInfo": "This claim was automatically accepted as it went past its due date.",
-    "Description.EscalatedInfo": "Some claims, including experiences, limiteds, group owned creations, Under 13 creations, and game passes, are automatically escalated to Roblox for review."
+    "Description.EscalatedInfo": "Some claims, including experiences, limiteds, group owned creations, Under 13 creations, and game passes, are automatically escalated to Roblox for review.",
+    "Description.DescriptionPlaceholder": "Add a description to help us understand your claim against an experience, bundle or limited",
+    "Description.SupportingInformationCreate": "Add supporting information like license agreements, screenshots demonstrating creative process etc. Supporting information will only be sent to Roblox if a claim is escalated. Experiences, limiteds and bundles are automatically escalated to Roblox for review."
 }
