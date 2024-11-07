@@ -9659,7 +9659,7 @@
     "DFFlagIsFriendsWithUsesAreFriendsEndpointV2": "False",
     "DFIntServiceInstanceCountsEventThrottleHundredthsPercentage": "1000",
     "FFlagEnableUnexpectedServiceInstanceCountsTelem": "True",
-    "FFlagMoveVisBugChecksLifetime": "True",
+    "FFlagMoveVisBugChecksLifetime": "False",
     "FFlagEnableWriteRequestingThreadHistory": "True",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
@@ -9678,8 +9678,8 @@
     "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045;292439477;17017769292",
     "FFlagCSGPublishBugFix": "True",
     "FFlagMigratePublishingNewEndpoint": "True",
-    "FStringFlagRepoGitHashFastString": "ba9fa0f610f298850b42f468ee595795ecba0d94",
-    "DFStringFlagRepoGitHashDynamicString": "ba9fa0f610f298850b42f468ee595795ecba0d94",
-    "FStringFlipTimeStampFastString": "2024-11-07T02:39:05.520Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-07T02:39:05.520Z"
+    "FStringFlagRepoGitHashFastString": "d8699564c53e698d191fd7dd0289a7f0f8223dd2",
+    "DFStringFlagRepoGitHashDynamicString": "d8699564c53e698d191fd7dd0289a7f0f8223dd2",
+    "FStringFlipTimeStampFastString": "2024-11-07T09:03:54.905Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-07T09:03:54.905Z"
 }
