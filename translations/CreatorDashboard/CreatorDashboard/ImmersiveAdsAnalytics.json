@@ -123,5 +123,6 @@
     "Description.VerifyOwnerTwoStep": "Ask group owner to enable 2 Step Verification",
     "Description.VerifyOwnerTwoStepDetails": "Group owner must enable 2-Step Verification for group-owned experiences to serve immersive ads.  Copy the 2-Step verification link and share with the group owner to complete.",
     "Description.AccountUnder18": "Your account shows you are under 18 years old",
-    "Description.AccountUnder18Details": "Experience owner or group owner must be at least 18 years old and ID verified for group-owned experiences to serve immersive ads."
+    "Description.AccountUnder18Details": "Experience owner or group owner must be at least 18 years old and ID verified for group-owned experiences to serve immersive ads.",
+    "Description.VerifyContentMaturityQuestionnaire": "Complete the Maturity & Compliance Questionnaire"
 }

@@ -928,5 +928,14 @@
     "Description.Dimension.AcquisitionSource.ContinueToPlay": "Includes continue sort on Home",
     "Description.Dimension.AcquisitionSource.Charts": "Includes all sorts on Charts page",
     "Description.Dimension.AcquisitionSource.SearchAds": "Includes sponsored search experiences",
-    "Label.Metric.ThumbnailL7QualifiedPTR": "7D Qualified Play Through Rate by Thumbnail (Cumulative)"
+    "Label.Metric.ThumbnailL7QualifiedPTR": "7D Qualified Play Through Rate by Thumbnail (Cumulative)",
+    "Label.AssistantChartControl": "Select a chart",
+    "Heading.ItemAnalytics": "Analytics",
+    "Title.PerformanceServerMemoryUsageByAge": "Server Memory by Age",
+    "Description.PurchaserDemographicByCountry": "Percent of purchasers by country",
+    "Description.PurchaserDemographics": "Percent of purchasers by country",
+    "Description.ItemPurchaserAge": "Percent of purchasers by age group",
+    "Description.ItemPurchaserGender": "Percent of purchasers by gender",
+    "Title.Platform": "Platform",
+    "Description.ItemPurchasePlatform": "Percent of purchasers by platform"
 }

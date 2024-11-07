@@ -12,5 +12,7 @@
     "Label.StrongLanguageToggleHintDisabled": "Turning on this setting will allow some profanity in text chat. ",
     "Toggle.AllowStrongLanguage": "Allow Strong Language",
     "Label.LearnMore": "Learn more",
-    "Label.Under17GameNotAllowedToEnableStrongLanguage": "This setting is only available for 17+ experiences."
+    "Label.Under17GameNotAllowedToEnableStrongLanguage": "This setting is only available for 17+ experiences.",
+    "Label.StrongLanguageDescriptionContentMaturity": "Choose whether to allow strong language between users in text chat. This setting is only available for experiences with Restricted content maturity labels.",
+    "Label.NonRestrictedGameNotAllowedToEnableStrongLanguage": "This setting is only available for experiences with Restricted content maturity labels."
 }

@@ -270,7 +270,7 @@
     "Description.AssetManage": "Manage development item permissions",
     "Description.AssetMonetize": "Monetize development items",
     "Description.RevenueAdvertise": "Advertise group",
-    "Description.ExperiencePublish": "Edit & publish all group owned experiences",
+    "Description.ExperiencePublish": "Edit & publish all group experiences",
     "Description.OrganizationAssignSameRoleWithRoleName": "Add or remove \"{roleName}\" role members",
     "Description.OrganizationAssignSameRole": "Add or remove this role's members",
     "Description.OrganizationCreateAndConfigureRolesLimited": "Configure limited roles",

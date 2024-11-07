@@ -113,5 +113,6 @@
     "Description.PermissionNotAllowedEdit": "Only experience or group owners can edit Payment section for Local Currency Paid Access",
     "Label.PolicyReviewRejected": "Experience did not pass policy review for Paid Access in local currency",
     "Description.PolicyReviewRejected": "Your experience was not approved for fiat currency Paid Access. Review the Roblox policy guidelines and try again.",
-    "Label.ReviewPolicy": "Review policy"
+    "Label.ReviewPolicy": "Review policy",
+    "Action.LearnMoreLinkText": "Learn more"
 }
