@@ -8561,8 +8561,11 @@
     "FFlagDraggerExternalHover2": "True",
     "DFStringRobloxTelemetryReliabilityCountAllowList": "perfdata",
     "FFlagFriendsLandingPaginatedFriends_v4": "True",
-    "FFlagGraphicsVulkanSwapchainCount_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T17:01:59",
-    "FFlagRemoveKDTree2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T17:32:31",
+    "FFlagGraphicsVulkanSwapchainCount": "True",
+    "FFlagMeshLoDSendTimeToServeMesh_Rollout": "False;60;2024-11-07T18:15:53",
+    "DFIntMRDTablePerfImprovReportIntervalMSec_Rollout": "60000;60;2024-11-07T18:29:47",
+    "FFlagStudioDockingDisableLayoutTelem_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T18:36:29",
+    "FFlagRemoveKDTree2": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -8742,8 +8745,8 @@
     "FFlagAXEnableSearchCounters": "True",
     "FFlagAXSearchRefactorForAnalytics": "True",
     "FIntReactPerfTrackerKibana": "2",
-    "FStringFlagRepoGitHashFastString": "37a447593ae873336d7b621609718bbd218af6a2",
-    "DFStringFlagRepoGitHashDynamicString": "37a447593ae873336d7b621609718bbd218af6a2",
-    "FStringFlipTimeStampFastString": "2024-11-07T17:33:11.201Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-07T17:33:11.201Z"
+    "FStringFlagRepoGitHashFastString": "918a46489035542f130bc0aef2780b29530bc3c4",
+    "DFStringFlagRepoGitHashDynamicString": "918a46489035542f130bc0aef2780b29530bc3c4",
+    "FStringFlipTimeStampFastString": "2024-11-07T18:40:08.486Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-07T18:40:08.486Z"
 }
