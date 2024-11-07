@@ -8561,6 +8561,8 @@
     "FFlagDraggerExternalHover2": "True",
     "DFStringRobloxTelemetryReliabilityCountAllowList": "perfdata",
     "FFlagFriendsLandingPaginatedFriends_v4": "True",
+    "FFlagGraphicsVulkanSwapchainCount_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T17:01:59",
+    "FFlagRemoveKDTree2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T17:32:31",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -9100,9 +9102,11 @@
     "FFlagRuntimeEnabled8": "True",
     "FIntReactMicroprofilerLevel": "1",
     "FIntReactPerfTrackerKibana": "2",
+    "FFlagEnableZstdDictionaryForClientSettings_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T17:06:21",
+    "FFlagEnableVisBugChecks28_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T17:18:27",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "d8699564c53e698d191fd7dd0289a7f0f8223dd2",
-    "DFStringFlagRepoGitHashDynamicString": "d8699564c53e698d191fd7dd0289a7f0f8223dd2",
-    "FStringFlipTimeStampFastString": "2024-11-07T09:03:54.905Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-07T09:03:54.905Z"
+    "FStringFlagRepoGitHashFastString": "37a447593ae873336d7b621609718bbd218af6a2",
+    "DFStringFlagRepoGitHashDynamicString": "37a447593ae873336d7b621609718bbd218af6a2",
+    "FStringFlipTimeStampFastString": "2024-11-07T17:33:11.201Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-07T17:33:11.201Z"
 }
