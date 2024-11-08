@@ -6888,7 +6888,7 @@
     "FFlagInsertServiceDisableGetUserSetsBackend": "True",
     "FFlagUwpHttpAgentUseEngineHttp": "True",
     "FFlagEnableCapturesInChrome": "True",
-    "FFlagEnableChromeDefaultOpen": "False",
+    "FFlagEnableChromeDefaultOpen": "True",
     "FFlagEnableHamburgerIcon": "True",
     "FFlagValidateMachineUseApi": "True",
     "FFlagUpdateHealthBar": "True",
@@ -8600,7 +8600,6 @@
     "FFlagStudioActionsBridgeExtraLogging": "True",
     "FFlagAESEnableAvatarThumbnailRefresh": "True",
     "DFFlagAnalyticsServiceRelaxedPlayerCheckEnabled": "True",
-    "FFlagEnableChromeDefaultOpen_Rollout": "True;60;2024-11-08T19:39:53",
     "DFFlagRemovePerfTimer": "True",
     "FFlagContactInvitesInProfilePlatformV2": "True",
     "AllowVideoPreRoll": "True",
@@ -9745,8 +9744,8 @@
     "FFlagMigratePublishingNewEndpoint": "True",
     "FFlagEnableVisBugChecks28": "True",
     "FFlagOcclusionCullingBetaFeature": "True",
-    "FStringFlagRepoGitHashFastString": "1a95eaf91daf2cfa40c2661b661bef8a81a4a654",
-    "DFStringFlagRepoGitHashDynamicString": "1a95eaf91daf2cfa40c2661b661bef8a81a4a654",
-    "FStringFlipTimeStampFastString": "2024-11-08T20:28:11.965Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-08T20:28:11.965Z"
+    "FStringFlagRepoGitHashFastString": "63d9fab04d2d9adeb562d1a05246e6621e5b7fb4",
+    "DFStringFlagRepoGitHashDynamicString": "63d9fab04d2d9adeb562d1a05246e6621e5b7fb4",
+    "FStringFlipTimeStampFastString": "2024-11-08T20:47:03.267Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-08T20:47:03.267Z"
 }
