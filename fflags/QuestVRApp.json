@@ -8593,6 +8593,9 @@
     "FFlagFixScriptDiffRibbon": "True",
     "FFlagVideoPlayerDrivesVideoCodecTasks2": "True",
     "FFlagFixAudioLimiterBeingSilent": "True",
+    "DFFlagSimTelemetrizeFluidForcesEnabledSimulatedPrimitiveCount2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-08T17:24:52",
+    "FFlagInExperienceNameQueryEnabled_Rollout": "False;60;2024-11-08T17:26:29",
+    "FStringLuaUniversalMorePageLayer_Staged": "UniversalApp.MoreLayout.Exposure;SteadyState;10;30;Rollout;100;30;Promote;2024-11-08T17:35:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9208,8 +9211,8 @@
     "ForceShowKeyboardLoggingThrottlingHundredthPercentage": "10000",
     "EnableForceShowKeyboardLogging": "True",
     "FFlagEnableLaserPointerDisableMethodV2": "True",
-    "FStringFlagRepoGitHashFastString": "6d1a0441a7a23cbea570b1a7832f7b6bcc9eb3e6",
-    "DFStringFlagRepoGitHashDynamicString": "6d1a0441a7a23cbea570b1a7832f7b6bcc9eb3e6",
-    "FStringFlipTimeStampFastString": "2024-11-08T04:43:33.875Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-08T04:43:33.875Z"
+    "FStringFlagRepoGitHashFastString": "94fbe110704b7a5d5e062f6c00621ae093b0d6c7",
+    "DFStringFlagRepoGitHashDynamicString": "94fbe110704b7a5d5e062f6c00621ae093b0d6c7",
+    "FStringFlipTimeStampFastString": "2024-11-08T17:36:00.799Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-08T17:36:00.799Z"
 }
