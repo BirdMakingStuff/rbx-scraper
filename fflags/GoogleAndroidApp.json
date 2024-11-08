@@ -6737,7 +6737,7 @@
     "DFFlagEnablePreciseCullRadius": "True",
     "FFlagAXSaveAvatarOnClose": "True",
     "FFlagVoiceChatCullingEnableMutedSubsTelemetry": "True",
-    "FFlagFixKeyDownWithNoIMEMac": "False",
+    "FFlagFixKeyDownWithNoIMEMac": "True",
     "FFlagExperienceDetailsPagePlayButtonTextAndDisableFixEnabled": "True",
     "FFlagShareLinkAddReferredByPlayerIdLaunchParam": "True",
     "FFlagUseAutomaticSizeInStatGroup": "True",
@@ -9284,8 +9284,8 @@
     "FFlagLuaAppAddGridEntryDataPos": "True",
     "FFlagEnableRobloxCommerceLuaSignals": "True",
     "FFlagLuaAppSupportGameGridTableRows2": "True",
-    "FStringFlagRepoGitHashFastString": "9ff0cef856f8b947ae2d779e4ba32ebc10d8166c",
-    "DFStringFlagRepoGitHashDynamicString": "9ff0cef856f8b947ae2d779e4ba32ebc10d8166c",
-    "FStringFlipTimeStampFastString": "2024-11-08T01:51:38.702Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-08T01:51:38.702Z"
+    "FStringFlagRepoGitHashFastString": "6d1a0441a7a23cbea570b1a7832f7b6bcc9eb3e6",
+    "DFStringFlagRepoGitHashDynamicString": "6d1a0441a7a23cbea570b1a7832f7b6bcc9eb3e6",
+    "FStringFlipTimeStampFastString": "2024-11-08T04:43:33.875Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-08T04:43:33.875Z"
 }
