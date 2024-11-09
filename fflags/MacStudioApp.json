@@ -8017,7 +8017,6 @@
     "FFlagEnableReceiptFetching": "True",
     "FFlagEnableRobloxCommerce2": "True",
     "FFlagFriendsCarouselTextWidthFix": "True",
-    "FFlagUGCValidateCoplanarTriTestAccessory": "True",
     "FFlagImproveTelemetryProfiling": "True",
     "FFlagStudioGameStateContexts": "True",
     "FFlagStudioPlayTestContext": "True",
@@ -9748,8 +9747,8 @@
     "FFlagMigratePublishingNewEndpoint": "True",
     "FFlagEnableVisBugChecks28": "True",
     "FFlagOcclusionCullingBetaFeature": "True",
-    "FStringFlagRepoGitHashFastString": "f77ef03b3702f03521841b8b73b0fca29967059e",
-    "DFStringFlagRepoGitHashDynamicString": "f77ef03b3702f03521841b8b73b0fca29967059e",
-    "FStringFlipTimeStampFastString": "2024-11-08T23:39:23.479Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-08T23:39:23.479Z"
+    "FStringFlagRepoGitHashFastString": "7ad76d1484da2609c014005e0ad8b8e28e2aae6f",
+    "DFStringFlagRepoGitHashDynamicString": "7ad76d1484da2609c014005e0ad8b8e28e2aae6f",
+    "FStringFlipTimeStampFastString": "2024-11-09T03:59:53.190Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-09T03:59:53.190Z"
 }
