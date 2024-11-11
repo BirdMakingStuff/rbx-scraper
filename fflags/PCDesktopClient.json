@@ -8603,6 +8603,7 @@
     "FFlagContactInvitesInProfilePlatformV2": "True",
     "DFFlagSimOptimizeGeometryChangedAssemblies2_PlaceFilter": "True;15384815512",
     "DFFlagSimOptimizeSetSize_PlaceFilter": "True;15384815512",
+    "FFlagPluginCalloutBindToCloseCrash4_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-11T17:31:39",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -9152,8 +9153,8 @@
     "FFlagEnableVisBugChecks28": "True",
     "FFlagPerformanceControlNewEffectModel4": "True",
     "FFlagLuaAppContentMaturityFromEgs2": "True",
-    "FStringFlagRepoGitHashFastString": "7ad76d1484da2609c014005e0ad8b8e28e2aae6f",
-    "DFStringFlagRepoGitHashDynamicString": "7ad76d1484da2609c014005e0ad8b8e28e2aae6f",
-    "FStringFlipTimeStampFastString": "2024-11-09T03:59:53.190Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-09T03:59:53.190Z"
+    "FStringFlagRepoGitHashFastString": "1e26a19a1c96181048b35c3ec7713d0ae8c4390d",
+    "DFStringFlagRepoGitHashDynamicString": "1e26a19a1c96181048b35c3ec7713d0ae8c4390d",
+    "FStringFlipTimeStampFastString": "2024-11-11T17:32:31.589Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-11T17:32:31.589Z"
 }

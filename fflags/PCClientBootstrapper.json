@@ -161,6 +161,7 @@
     "FFlagHttpPostSyncUseNativeRetry": "True",
     "FFlagColorPickerSliderOptimization2": "True",
     "FFlagMacInstallerUseEventIngest": "True",
+    "FFlagWinInstallerUseBITS2": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -175,8 +176,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "7ad76d1484da2609c014005e0ad8b8e28e2aae6f",
-    "DFStringFlagRepoGitHashDynamicString": "7ad76d1484da2609c014005e0ad8b8e28e2aae6f",
-    "FStringFlipTimeStampFastString": "2024-11-09T03:59:53.190Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-09T03:59:53.190Z"
+    "FStringFlagRepoGitHashFastString": "1e26a19a1c96181048b35c3ec7713d0ae8c4390d",
+    "DFStringFlagRepoGitHashDynamicString": "1e26a19a1c96181048b35c3ec7713d0ae8c4390d",
+    "FStringFlipTimeStampFastString": "2024-11-11T17:32:31.589Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-11T17:32:31.589Z"
 }
