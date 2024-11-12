@@ -304,7 +304,7 @@
     "Description.Wearable": "Can still be worn by players",
     "Label.Claimant": "Claimant",
     "Label.DueDate": "Due Date",
-    "Label.NewClaim": "New Claim",
+    "Label.NewClaim": "New Claims",
     "Label.ReasonForDispute": "Reason for dispute",
     "Label.SupportingInformation": "Supporting Information",
     "Label.Agreements": "Agreements",
@@ -344,7 +344,7 @@
     "Message.ClaimAcceptAll": "Claims successfully accepted",
     "Message.ClaimAcceptAllFailed": "Claims were not able to be accepted",
     "Heading.CreateNewClaim": "Create a new claim",
-    "Label.FileAClaim": "If you believe someone has improperly copied your original creations, you can file a claim. Experiences, limiteds and bundles will be escalated to Roblox for review.",
+    "Label.FileAClaim": "If you believe someone has improperly copied your original creations, you can file claims. Experiences, limiteds and bundles will be escalated to Roblox for review.",
     "Heading.Escalated": "Escalated",
     "Heading.All": "All",
     "Label.FilterBy": "Filter By",
@@ -426,5 +426,8 @@
     "Description.EscalatedInfo": "Some claims, including experiences, limiteds, group owned creations, Under 13 creations, and game passes, are automatically escalated to Roblox for review.",
     "Description.DescriptionPlaceholder": "Add a description to help us understand your claim against an experience, bundle or limited",
     "Description.SupportingInformationCreate": "Add supporting information like license agreements, screenshots demonstrating creative process etc. Supporting information will only be sent to Roblox if a claim is escalated. Experiences, limiteds and bundles are automatically escalated to Roblox for review.",
-    "Description.EligibilituyVerificationRequirementClaims": "Before you can submit claims, Roblox must verify your identity through a government issued ID and email."
+    "Description.EligibilituyVerificationRequirementClaims": "Before you can submit claims, Roblox must verify your identity through a government issued ID and email.",
+    "Message.ClaimantYou": "Claimant (You)",
+    "Message.ClaimantGroup": "Claimant (Group)",
+    "Message.ClaimantCreator": "Claimant (Creator)"
 }

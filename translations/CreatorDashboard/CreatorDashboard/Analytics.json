@@ -937,5 +937,6 @@
     "Description.ItemPurchaserAge": "Percent of purchasers by age group",
     "Description.ItemPurchaserGender": "Percent of purchasers by gender",
     "Title.Platform": "Platform",
-    "Description.ItemPurchasePlatform": "Percent of purchasers by platform"
+    "Description.ItemPurchasePlatform": "Percent of purchasers by platform",
+    "Heading.SalesByExperience": "Sales by Experience"
 }
