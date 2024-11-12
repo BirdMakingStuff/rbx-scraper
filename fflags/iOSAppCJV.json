@@ -8646,9 +8646,9 @@
     "FFlagAXCommunityLooksReporting": "True",
     "DFFlagEnablePartnerBillingPremium": "True",
     "DFStringEnabledPartnerBillingPremiumProductIds": "com.roblox.robloxmobile.RobloxPremium1000",
-    "FFlagLuauNormalizationTracksCyclicPairsThroughInhabitance_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T00:50:59",
-    "FFlagLuauIntersectNormalsNeedsToTrackResourceLimits_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T00:51:04",
     "FFlagLuaAppUseUIBloxColorPalettes1": "False",
+    "FFlagLuauIntersectNormalsNeedsToTrackResourceLimits": "True",
+    "FFlagLuauNormalizationTracksCyclicPairsThroughInhabitance": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9291,8 +9291,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "e6c834b9cb6ea7ba18d751b5680ff136311ad06b",
-    "DFStringFlagRepoGitHashDynamicString": "e6c834b9cb6ea7ba18d751b5680ff136311ad06b",
-    "FStringFlipTimeStampFastString": "2024-11-12T01:27:38.376Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-12T01:27:38.376Z"
+    "FStringFlagRepoGitHashFastString": "045c1e782a7ba8b03677cac03bef4723131f3c6f",
+    "DFStringFlagRepoGitHashDynamicString": "045c1e782a7ba8b03677cac03bef4723131f3c6f",
+    "FStringFlipTimeStampFastString": "2024-11-12T01:58:26.068Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-12T01:58:26.068Z"
 }
