@@ -8656,6 +8656,14 @@
     "DFFlagStartWritingContentProps": "True",
     "FFlagEnableConsolidateCancelAccountSettingsUpsell": "True",
     "FFlagEnableCrossExpVoiceGameJoinEvents_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T20:35:47",
+    "FFlagAXToggleAggregateLikesFavoritesCount_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T20:49:23",
+    "FFlagLuaAppDisableScrollButtonOutline_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T20:59:32",
+    "DFFlagSkipMemoryReportingIfNoEditable_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T21:11:00",
+    "DFIntEditableMemoryTelemetryHundredthsPercentage_Staged": "10000;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T21:11:00",
+    "FFlagSimEnableEditableAnalytics_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T21:11:00",
+    "FFlagLuaAppFixUnifiedSearchTile_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T21:11:08",
+    "FFlagContentFeedAddFeedRefNullCheck_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T21:16:19",
+    "FFlagEnableExperienceServiceCrossExtensions_Staged": "True;SteadyState;10;30;Revert;2024-11-12T21:34:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9811,8 +9819,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "70bd79a7157f5ed3edf992a2ae563791f53fbdd5",
-    "DFStringFlagRepoGitHashDynamicString": "70bd79a7157f5ed3edf992a2ae563791f53fbdd5",
-    "FStringFlipTimeStampFastString": "2024-11-12T20:36:21.727Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-12T20:36:21.727Z"
+    "FStringFlagRepoGitHashFastString": "c55357b568c940d8aa29db8ba38c691b6547b3b4",
+    "DFStringFlagRepoGitHashDynamicString": "c55357b568c940d8aa29db8ba38c691b6547b3b4",
+    "FStringFlipTimeStampFastString": "2024-11-12T21:35:25.903Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-12T21:35:25.903Z"
 }
