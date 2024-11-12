@@ -168,14 +168,13 @@
     "FFlagAXHeadCategoryCombineEnabled4": "True",
     "FFlagBehaviorCollectionControlEnabled": "True",
     "FFlagAppChatBehaviorCollectionEnabledMaster": "True",
-    "FIntAppChatBehaviorCollectionEnabledPercentage": "5",
+    "FIntAppChatBehaviorCollectionEnabledPercentage": "100",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FIntAppChatBehaviorCollectionEnabledPercentage_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-11-12T19:02:34",
-    "FStringFlagRepoGitHashFastString": "9ad05e51c56b026136495509c5d58900ddbbb5ce",
-    "DFStringFlagRepoGitHashDynamicString": "9ad05e51c56b026136495509c5d58900ddbbb5ce",
-    "FStringFlipTimeStampFastString": "2024-11-12T19:33:48.505Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-12T19:33:48.505Z"
+    "FStringFlagRepoGitHashFastString": "70bd79a7157f5ed3edf992a2ae563791f53fbdd5",
+    "DFStringFlagRepoGitHashDynamicString": "70bd79a7157f5ed3edf992a2ae563791f53fbdd5",
+    "FStringFlipTimeStampFastString": "2024-11-12T20:36:21.727Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-12T20:36:21.727Z"
 }
