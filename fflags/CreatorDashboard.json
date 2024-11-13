@@ -45,5 +45,5 @@
     "useNewShutdownAllInstancesEndpoint": "true",
     "enableSubsiteAffiliateJoinLinks": "true",
     "enableLaunchDataAffiliateLinks": "true",
-    "enableShowOnlyPublishedPlaceVersions": "false"
+    "enableShowOnlyPublishedPlaceVersions": "true"
 }
