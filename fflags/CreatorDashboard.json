@@ -36,6 +36,7 @@
     "enableOptionalAffiliateExperience": "true",
     "enableEditAffiliateLinks": "true",
     "isContentMaturityRenameEnabled": "false",
+    "isIncreaseMaturityEnabled": "true",
     "enableSafetyControls": "true",
     "enableDisplayModerationPlaceNameError": "true",
     "enablePlaceSelectForEvent": "false",
