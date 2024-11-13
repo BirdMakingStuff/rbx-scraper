@@ -132,7 +132,7 @@
     "Message.ReviewStatus": "Once the review process is complete, you can check the status of your submission on the Edit page in approximately 5 business days.",
     "Label.SubmitForReview": "Submit For Review",
     "Heading.AppUnpublished": "Your app is unpublished",
-    "Message.AppUnpublished": "Your app is currently unpublished and only up to 100 users are able to authorize the app. Submit your app for review and publish to make it available to users.",
+    "Message.AppUnpublished": "Your app is currently unpublished and only up to 10 users are able to authorize the app. Submit your app for review and publish to make it available to users.",
     "Heading.AppInReview": "Your app is in review",
     "Message.AppInReview": "Edits are temporarily disabled until the review process is completed. On average, the review process takes approximately 5 days.",
     "Heading.AppApproved": "Your app is approved",

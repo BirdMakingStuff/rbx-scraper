@@ -383,5 +383,8 @@
     "Message.NameModerated": "the content's name was moderated.",
     "Message.DescriptionModerated": "the content's description was moderated.",
     "Message.NameAndDescriptionModerated": "the content's name and description were moderated.",
-    "Label.None": "None"
+    "Label.None": "None",
+    "Message.GenreDefinitionsHelper": "See genre and subgenre definitions {linkStart}here{linkEnd}.",
+    "Message.GenreDefinitions": "Learn more about {linkStart}genre and subgenre definitions{linkEnd}.",
+    "Action.BackToEditing": "Back to editing"
 }

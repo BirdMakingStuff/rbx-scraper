@@ -508,6 +508,8 @@
     "Label.ExperienceGenreTransition": "Roblox has changed the genre from {oldGenre} to {newGenre}",
     "Message.ItemTooNew": "Item is too new to archive",
     "Message.UserMissingGroupPermissions": "You do not have sufficient group permissions to view this page.",
+    "Title.ChangeGenre": "Change genre?",
+    "Description.ChangeGenre": "Are you sure you want to update your experience’s genre? You can only change genres once every 3 months.",
     "Label.EECategory": "Category",
     "Label.EESubtitle": "Subtitle",
     "Label.EEExperiencePreview": "Experience Preview",
@@ -515,5 +517,7 @@
     "Label.EENotificationPreview": "Notification Preview",
     "Label.EETitle": "Title",
     "Tooltip.EventSubtitleTooLong": "Event subtitle is too long",
-    "Tooltip.EEInvalidSubtitle": "Invalid subtitle"
+    "Tooltip.EEInvalidSubtitle": "Invalid subtitle",
+    "Action.EEChange": "Change",
+    "Action.EEUploadImage": "Upload Image"
 }
