@@ -8668,6 +8668,7 @@
     "DFFlagBaseWrapVerticesModifiedArgument": "True",
     "FFlagStudioUpdateMousePositionDuringDrag": "True",
     "FFlagCLI_106169_DeprecateClientHangMonitor2": "True",
+    "FFlagEnableCrossExperienceExecution2_Staged": "True;SteadyState;10;30;Revert;2024-11-13T17:16:37",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -9218,8 +9219,8 @@
     "FFlagShowDevicePermissionsModal3": "True",
     "FLogSound": "6",
     "FFlagCollectMoreLogsFromCoreAudio": "True",
-    "FStringFlagRepoGitHashFastString": "0d235c7c2c9b34b46d12df4a5233096ddb4aefac",
-    "DFStringFlagRepoGitHashDynamicString": "0d235c7c2c9b34b46d12df4a5233096ddb4aefac",
-    "FStringFlipTimeStampFastString": "2024-11-13T01:52:56.502Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-13T01:52:56.502Z"
+    "FStringFlagRepoGitHashFastString": "83d391a46b6fc58b88a196af8b9799affd2a57f4",
+    "DFStringFlagRepoGitHashDynamicString": "83d391a46b6fc58b88a196af8b9799affd2a57f4",
+    "FStringFlipTimeStampFastString": "2024-11-13T17:17:35.464Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-13T17:17:35.464Z"
 }
