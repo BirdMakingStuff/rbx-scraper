@@ -188,5 +188,11 @@
     "Label.GroupForumsCommentReplyCreated": "Group Forum Replies",
     "Description.GroupForumsCommentReplyCreated": "A forum comment I made has a new reply",
     "Label.GroupForumsSubscriberNotification": "Group Forum Post Subscriptions",
-    "Description.GroupForumsSubscriberNotification": "A forum post I subscribe to has new content"
+    "Description.GroupForumsSubscriberNotification": "A forum post I subscribe to has new content",
+    "Label.NotificationTypeGroupForumsCommentCreated": "Group Forum Comments",
+    "Label.NotificationTypeGroupForumsCommentReplyCreated": "Group Forum Replies",
+    "Label.NotificationTypeGroupForumsSubscriberNotification": "Group Forum Post Subscriptions",
+    "Description.NotificationTypeGroupForumsCommentCreated": "A forum post I created has a new comment",
+    "Description.NotificationTypeGroupForumsCommentReplyCreated": "A forum comment I made has a new reply",
+    "Description.NotificationTypeGroupForumsSubscriberNotification": "A forum post I subscribe to has new content"
 }

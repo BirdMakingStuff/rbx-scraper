@@ -429,5 +429,6 @@
     "Description.EligibilituyVerificationRequirementClaims": "Before you can submit claims, Roblox must verify your identity through a government issued ID and email.",
     "Message.ClaimantYou": "Claimant (You)",
     "Message.ClaimantGroup": "Claimant (Group)",
-    "Message.ClaimantCreator": "Claimant (Creator)"
+    "Message.ClaimantCreator": "Claimant (Creator)",
+    "Heading.RejectionDetails": "Rejection details"
 }

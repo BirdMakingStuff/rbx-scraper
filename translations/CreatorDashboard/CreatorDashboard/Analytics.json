@@ -936,9 +936,11 @@
     "Description.PurchaserDemographics": "Percent of purchasers by country",
     "Description.ItemPurchaserAge": "Percent of purchasers by age group",
     "Description.ItemPurchaserGender": "Percent of purchasers by gender",
-    "Title.Platform": "Platform",
+    "Title.Platform": "Purchase Platforms",
     "Description.ItemPurchasePlatform": "Percent of purchasers by platform",
     "Heading.SalesByExperience": "Sales by Experience",
     "Label.Metric.ServerMemoryByAge": "Server Memory Usage by Age",
-    "Description.PublishingAdvance": "Publishing Advance"
+    "Description.PublishingAdvance": "Publishing Advance",
+    "Title.Table.ItemTotalTransactionCount": "Sales",
+    "Description.Table.Sales": "Understand where users are buying"
 }

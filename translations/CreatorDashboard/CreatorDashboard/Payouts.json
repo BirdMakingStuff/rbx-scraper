@@ -51,5 +51,6 @@
     "Message.RecurringPayoutRestriction": "{groupName} is restricted from using recurring payments. This may be due to insufficient funds, the age of the group, or something else. Please check back later.",
     "Message.AllPayoutRestrictions": "{groupName} is currently restricted from using one-time and recurring payments. This may be due to insufficient funds, the age of the group, or something else. Please check back later.",
     "Label.TheGroup": "The Group",
-    "Label.Member": "Member"
+    "Label.Member": "Member",
+    "Label.MaxCreators": "Max 20 creators"
 }

@@ -19,5 +19,6 @@
     "Label.Current": "Current",
     "Heading.LastUpdated": "Last Updated",
     "Description.RestoredVersionNumber": "Restored (V{versionNumber})",
-    "Description.RestoredFromVersion": "Restored from version {versionNumber}"
+    "Description.RestoredFromVersion": "Restored from version {versionNumber}",
+    "Action.ShowPublished": "Show published only"
 }
