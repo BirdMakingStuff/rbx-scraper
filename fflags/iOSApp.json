@@ -8681,7 +8681,10 @@
     "FFlagEnableRobuxPageUseStyleMetadata_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T20:25:32",
     "FFlagStudioContextTimingLogs": "True",
     "FFlagUIBloxEnableUseStyleMetadata_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T20:34:39",
+    "FFlagUIBloxEnableExpandableTextAreaGradientFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T20:36:56",
+    "FStringLuaAppFoundationColorsABTest_LayerName_Staged": "\"Universality.AppNav.2\";SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T20:41:02",
     "AllowVideoPreRoll": "True",
+    "DFFlagSimAeroStateMachineSingleThreadSupport_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T21:30:04",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -9298,10 +9301,12 @@
     "FFlagLuaAppUpdateMinimumAgePriority": "True",
     "FFlagLuaAppAddMissingUpsellDep": "True",
     "FFlagLuaAppVpcAddMissingDeps": "True",
-    "FFlagUseMediaPickerProtocol_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T19:40:20",
     "FFlagSimEditableMemoryDestructorLockFix": "True",
-    "FStringFlagRepoGitHashFastString": "2c755c6ead8cea923671bcad0e4a48f5b545dc55",
-    "DFStringFlagRepoGitHashDynamicString": "2c755c6ead8cea923671bcad0e4a48f5b545dc55",
-    "FStringFlipTimeStampFastString": "2024-11-13T20:36:03.850Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-13T20:36:03.850Z"
+    "FFlagUseMediaPickerProtocol": "True",
+    "FFlagEnablePreSignedVngShopRedirectUrl_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T20:59:41",
+    "DFIntMinRbxcdnAuthTokenLifeSec_DataCenterFilter": "1208700;387",
+    "FStringFlagRepoGitHashFastString": "af9e7d2a5069dff6aba4901cc2e96a630239f95a",
+    "DFStringFlagRepoGitHashDynamicString": "af9e7d2a5069dff6aba4901cc2e96a630239f95a",
+    "FStringFlipTimeStampFastString": "2024-11-13T21:31:56.274Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-13T21:31:56.274Z"
 }
