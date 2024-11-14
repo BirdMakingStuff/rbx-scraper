@@ -8641,7 +8641,7 @@
     "FFlagEnableCredentialsProtocolLoggingFix": "True",
     "FFlagAXCommunityLooksReporting": "True",
     "DFFlagEnablePartnerBillingPremium": "True",
-    "DFStringEnabledPartnerBillingPremiumProductIds": "",
+    "DFStringEnabledPartnerBillingPremiumProductIds": "com.roblox.robloxmobile.RobloxPremium1000",
     "FFlagLuaAppUseUIBloxColorPalettes1": "False",
     "FFlagLuauIntersectNormalsNeedsToTrackResourceLimits": "True",
     "FFlagLuauNormalizationTracksCyclicPairsThroughInhabitance": "True",
@@ -8874,8 +8874,8 @@
     "DFFlagTrackDPJProgress": "True",
     "FIntAppChatBehaviorCollectionEnabledPercentage": "100",
     "FFlagEnablePreSignedVngShopRedirectUrl": "True",
-    "FStringFlagRepoGitHashFastString": "99744bb61b8f9e49470f22434cb310570a70c151",
-    "DFStringFlagRepoGitHashDynamicString": "99744bb61b8f9e49470f22434cb310570a70c151",
-    "FStringFlipTimeStampFastString": "2024-11-14T03:00:03.079Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-14T03:00:03.079Z"
+    "FStringFlagRepoGitHashFastString": "948085c1bc34c003143133af570e1f8138ac954e",
+    "DFStringFlagRepoGitHashDynamicString": "948085c1bc34c003143133af570e1f8138ac954e",
+    "FStringFlipTimeStampFastString": "2024-11-14T03:06:21.958Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-14T03:06:21.958Z"
 }
