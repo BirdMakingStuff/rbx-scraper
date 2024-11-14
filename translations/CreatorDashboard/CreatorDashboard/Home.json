@@ -307,5 +307,7 @@
     "Heading.HalloweenGameJam": "Halloween Game Jam",
     "Description.HalloweenGameJam": "Join our incredible cast of creators for a Halloween game jam",
     "Heading.PolarCubStore": "PolarCub's UGC Homestore",
-    "Description.PolarCubStore": "Let's tour PolarCub's UGC Homestore! Also, Temprist shows up."
+    "Description.PolarCubStore": "Let's tour PolarCub's UGC Homestore! Also, Temprist shows up.",
+    "Heading.FriendInvite": "Referral Systems",
+    "Description.FriendInvite": "Learn how to implement a friend invite reward system"
 }

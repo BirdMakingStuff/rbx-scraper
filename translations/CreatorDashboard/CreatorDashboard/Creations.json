@@ -519,5 +519,15 @@
     "Tooltip.EventSubtitleTooLong": "Event subtitle is too long",
     "Tooltip.EEInvalidSubtitle": "Invalid subtitle",
     "Action.EEChange": "Change",
-    "Action.EEUploadImage": "Upload Image"
+    "Action.EEUploadImage": "Upload Image",
+    "Heading.EECreateEventOrUpdaye": "Create Event or Update",
+    "Label.EEEventsAndUpdates": "Events and Updates",
+    "Message.OldUpdatesPageBanner": "Are you looking for the old Updates page?",
+    "Message.AccessOldUpdatesPage": "You can still access the old Updates page {updatesLinkStart}here{updatesLinkEnd} until we finish pulling the feature into Events and Updates.",
+    "Message.EEUpdatesWillMove": "Updates access will soon move to the Events and Updates page",
+    "Message.EEUpdatesMergeBanner": "To make it easier to manage your events and updates in one place, we will soon merge both features in the new {eventsLinkStart}Events and Updates page{eventsLinkEnd}.",
+    "Heading.EEEventsAndUpdates": "Events and Updates",
+    "Message.EEEventsAndUpdatesLearnMore": "Engage your audience with events and updates that showcase your latest content releases. {docsLinkStart}Learn More{docsLinkEnd}",
+    "Heading.EEEditEventOrUpdate": "Edit Event or Update",
+    "Heading.EECreateEventOrUpdate": "Create Event or Update"
 }
