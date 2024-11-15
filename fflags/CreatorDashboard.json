@@ -45,5 +45,6 @@
     "useNewShutdownAllInstancesEndpoint": "true",
     "enableSubsiteAffiliateJoinLinks": "true",
     "enableLaunchDataAffiliateLinks": "true",
-    "enableShowOnlyPublishedPlaceVersions": "true"
+    "enableShowOnlyPublishedPlaceVersions": "true",
+    "isFiatPaidAccessEnabled": "false"
 }
