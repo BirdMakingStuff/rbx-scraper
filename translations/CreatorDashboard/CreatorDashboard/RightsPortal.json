@@ -430,5 +430,6 @@
     "Message.ClaimantYou": "Claimant (You)",
     "Message.ClaimantGroup": "Claimant (Group)",
     "Message.ClaimantCreator": "Claimant (Creator)",
-    "Heading.RejectionDetails": "Rejection details"
+    "Heading.RejectionDetails": "Rejection details",
+    "Description.Creating": "Creating"
 }

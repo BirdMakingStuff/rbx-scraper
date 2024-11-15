@@ -309,5 +309,7 @@
     "Heading.PolarCubStore": "PolarCub's UGC Homestore",
     "Description.PolarCubStore": "Let's tour PolarCub's UGC Homestore! Also, Temprist shows up.",
     "Heading.FriendInvite": "Referral Systems",
-    "Description.FriendInvite": "Learn how to implement a friend invite reward system"
+    "Description.FriendInvite": "Learn how to implement a friend invite reward system",
+    "Heading.MicroprofilerAdvanced": "Advanced MicroProfiler Usage",
+    "Description.MicroprofilerAdvanced": "Dive deep into frame colors, flame graphs, and more"
 }

@@ -942,5 +942,7 @@
     "Label.Metric.ServerMemoryByAge": "Server Memory Usage by Age",
     "Description.PublishingAdvance": "The creator will pay the publishing advance upfront at the time of publishing an item. After an item is published, Roblox will not take the 30% commission until the publishing advance is fully recovered by the creator.",
     "Title.Table.ItemTotalTransactionCount": "Sales",
-    "Description.Table.Sales": "Understand where users are buying"
+    "Description.Table.Sales": "Understand where users are buying",
+    "Title.PublishingAdvance": "Publishing Advance",
+    "Label.PublishingAdvanceRecovered": "Recovered"
 }

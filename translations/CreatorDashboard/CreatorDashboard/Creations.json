@@ -528,6 +528,7 @@
     "Message.EEUpdatesMergeBanner": "To make it easier to manage your events and updates in one place, we will soon merge both features in the new {eventsLinkStart}Events and Updates page{eventsLinkEnd}.",
     "Heading.EEEventsAndUpdates": "Events and Updates",
     "Message.EEEventsAndUpdatesLearnMore": "Engage your audience with events and updates that showcase your latest content releases. {docsLinkStart}Learn More{docsLinkEnd}",
+    "Action.EECreateEventOrUpdate": "Create Event or Update",
     "Heading.EEEditEventOrUpdate": "Edit Event or Update",
     "Heading.EECreateEventOrUpdate": "Create Event or Update"
 }
