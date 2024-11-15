@@ -8756,7 +8756,7 @@
     "FFlagEnableVisBugChecks28": "True",
     "FFlagFixAmbientViewportFrame": "True",
     "FFlagBottomColorShiftDefaultUsage": "True",
-    "DFIntReportHapticServiceUsageHundredths": "10000",
+    "DFIntReportHapticServiceUsageHundredths": "10",
     "FFlagAppChatAddParticipantErrorToast": "True",
     "FFlagUGCValidateFixAttachmentErrorMessage": "True",
     "FFlagAssetImportErrorMessageDialog": "True",
@@ -8776,7 +8776,6 @@
     "DFFlagEnablePerfStatsAPI": "True",
     "FFlagEnableProfilePlatformChallengeInterceptor": "True",
     "FIntAppChatBehaviorCollectionEnabledPercentage": "100",
-    "DFIntReportHapticServiceUsageHundredths_Staged": "10;SteadyState;10;30;Rollout;100;30;Promote;2024-11-15T01:31:40",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9962,8 +9961,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase651": "True",
     "FFlagLayoutNodeGetSharedInstanceB": "True",
-    "FStringFlagRepoGitHashFastString": "70212117d357648e49dab7ba117d6ac611f8668b",
-    "DFStringFlagRepoGitHashDynamicString": "70212117d357648e49dab7ba117d6ac611f8668b",
-    "FStringFlipTimeStampFastString": "2024-11-15T01:32:36.163Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-15T01:32:36.163Z"
+    "FStringFlagRepoGitHashFastString": "ed3cf16bf1f99bb64bb0b0c4f344e14c7344b4ab",
+    "DFStringFlagRepoGitHashDynamicString": "ed3cf16bf1f99bb64bb0b0c4f344e14c7344b4ab",
+    "FStringFlipTimeStampFastString": "2024-11-15T06:26:02.165Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-15T06:26:02.165Z"
 }
