@@ -46,5 +46,7 @@
     "enableSubsiteAffiliateJoinLinks": "true",
     "enableLaunchDataAffiliateLinks": "true",
     "enableShowOnlyPublishedPlaceVersions": "true",
-    "isFiatPaidAccessEnabled": "false"
+    "isFiatPaidAccessEnabled": "false",
+    "enableContentMaturityStringChanges": "true",
+    "enableRemoveAgeRecommendationBadge": "true"
 }
