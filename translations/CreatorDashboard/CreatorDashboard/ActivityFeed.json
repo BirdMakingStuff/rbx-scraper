@@ -203,5 +203,6 @@
     "Description.OneTimePayoutSent": "{userName} sent a one-time payment",
     "Description.RecurringPayoutsConfigured": "{groupName}'s recurring payouts was updated",
     "Description.ExperiencePublished": "{experienceName} was published",
-    "Description.AssetUploaded": "{assetName} was uploaded"
+    "Description.AssetUploaded": "{assetName} was uploaded",
+    "Description.CompletedQuestionnaireMaturity": "Maturity & Compliance Questionnaire was updated"
 }

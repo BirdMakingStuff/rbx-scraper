@@ -125,5 +125,7 @@
     "Label.Action.UploadImages": "Upload thumbnails",
     "Title.DeleteActiveThumbnail": "Delete active thumbnail?",
     "Label.ConfirmDeleteActiveHomepageThumbnail": "Are you sure you want to delete this active thumbnail? This action cannot be undone.\nTraffic will shift to your remaining active thumbnails. Your active thumbnail data will not reset.",
-    "Label.WaitTilUploadFinishes": "Wait until upload finishes"
+    "Label.WaitTilUploadFinishes": "Wait until upload finishes",
+    "Action.EditAltText": "Edit alt text",
+    "Description.NoAltTextAllowed": "The AltText for an image thumbnail can only be modified in the start place."
 }

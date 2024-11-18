@@ -31,7 +31,7 @@
     "Label.Split": "Split",
     "Title.SendToCreators": "Send to Creators",
     "Label.Search": "Search",
-    "Label.EnterSearch": "Search usernames to select group members as one-time payment recipients.",
+    "Label.EnterSearch": "Search usernames or user ids to select group members as one-time payment recipients.",
     "Label.NoResults": "No results found.",
     "Title.ConfirmPayment": "Confirm Payout",
     "Action.Back": "Back",

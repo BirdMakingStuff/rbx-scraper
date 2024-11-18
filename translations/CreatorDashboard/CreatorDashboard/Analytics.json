@@ -944,5 +944,6 @@
     "Title.Table.ItemTotalTransactionCount": "Sales",
     "Description.Table.Sales": "Understand where users are buying",
     "Title.PublishingAdvance": "Publishing Advance",
-    "Label.PublishingAdvanceRecovered": "Recovered"
+    "Label.PublishingAdvanceRecovered": "Recovered",
+    "Title.MarketplacevsInExperienceSales": "Marketplace vs In-experience Sales"
 }

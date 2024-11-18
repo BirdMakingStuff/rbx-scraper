@@ -523,7 +523,7 @@
     "Heading.EECreateEventOrUpdaye": "Create Event or Update",
     "Label.EEEventsAndUpdates": "Events & Updates",
     "Message.OldUpdatesPageBanner": "Are you looking for the old Updates page?",
-    "Message.AccessOldUpdatesPage": "You can still access the old Updates page {updatesLinkStart}here{updatesLinkEnd} until we finish pulling the feature into Events & Updates.",
+    "Message.AccessOldUpdatesPage": "You can still access the old {updatesLinkStart}Updates page{updatesLinkEnd} until we finish pulling the feature into Events & Updates.",
     "Message.EEUpdatesWillMove": "Updates access will soon move to the Events & Updates page",
     "Message.EEUpdatesMergeBanner": "To make it easier to manage your events and updates in one place, we will soon merge both features in the new {eventsLinkStart}Events & Updates page{eventsLinkEnd}.",
     "Heading.EEEventsAndUpdates": "Events & Updates",
@@ -532,5 +532,6 @@
     "Heading.EEEditEventOrUpdate": "Edit Event or Update",
     "Heading.EECreateEventOrUpdate": "Create Event or Update",
     "Action.Update": "Update",
-    "Action.Create": "Create"
+    "Action.Create": "Create",
+    "Label.EEThumbnailAltText": "Preview of uploaded thumbnail"
 }
