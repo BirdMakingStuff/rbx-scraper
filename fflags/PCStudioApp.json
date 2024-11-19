@@ -8867,6 +8867,7 @@
     "FFlagEnableEventIdentifier": "True",
     "DFFlagInternalExportFixCSGAndSpecialTextureCrashes": "True",
     "DFFlagInternalExportUseVisualSize": "True",
+    "FFlagHarfBuzzAllocOrCrash_Staged": "True;SteadyState;10;30;Revert;2024-11-19T17:24:28",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9886,6 +9887,7 @@
     "FFlagLuaStartPageRemoveAgeRecBadge": "True",
     "FFlagSimConstraintToolRuntimeUndoFix": "True",
     "FIntWatcherComparerPeriod": "1998",
+    "DFFlagSimEditableMeshFixVertexNormalConversion_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-19T17:12:03",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -10036,6 +10038,8 @@
     "FFlagLuaAppShouldTrackTopActions": "True",
     "FFlagEnablePymkCarouselChallengeInterceptor": "True",
     "FFlagEnableFriendsLandingChallengeInterceptor": "True",
+    "DFFlagEnableSessionEventsForEditableImage_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-19T17:16:18",
+    "DFIntEditableImageInitLoggingHundredthsPercentage_Staged": "10000;SteadyState;10;30;Rollout;100;30;Promote;2024-11-19T17:16:18",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -10061,8 +10065,8 @@
     "FFlagLayoutNodeGetSharedInstanceB": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagLayoutNodeGetSharedInstanceC": "True",
-    "FStringFlagRepoGitHashFastString": "78b228c85f13999a8257d24a43171f3318c490c8",
-    "DFStringFlagRepoGitHashDynamicString": "78b228c85f13999a8257d24a43171f3318c490c8",
-    "FStringFlipTimeStampFastString": "2024-11-19T01:36:01.502Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-19T01:36:01.502Z"
+    "FStringFlagRepoGitHashFastString": "0e59a54d8e2c620f8c4533f9b3101e38c232748b",
+    "DFStringFlagRepoGitHashDynamicString": "0e59a54d8e2c620f8c4533f9b3101e38c232748b",
+    "FStringFlipTimeStampFastString": "2024-11-19T17:26:10.313Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-19T17:26:10.313Z"
 }
