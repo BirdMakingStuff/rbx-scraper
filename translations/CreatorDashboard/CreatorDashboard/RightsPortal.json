@@ -24,7 +24,7 @@
     "Label.LearnMore": "Learn more",
     "Label.StartRegistration": "Start Registration",
     "Label.U13HaveYourParentsReachOut": "Have Your Parent Reach Out",
-    "Description.RightsManagerTool": "This tool gives creators and organizations control over their intellectual property on Roblox. If you believe someone has improperly copied your original creations, you can file a removal request.",
+    "Description.RightsManagerTool": "This tool gives creators and organizations control over their intellectual property on Roblox. If you believe someone has improperly copied your original creations, you can report it for review.",
     "Description.RegisterAsOwner": "First, register as the owner or authorized representative of your creations.",
     "Description.U13AboutRightsManager": "This tool gives creators and organizations control over their intellectual property on Roblox and is available only to 13+ creators.",
     "Description.U13InvoleYourParent": "If you believe someone has improperly copied your original creations, {linkStart}read our guidelines{linkEnd} and file a removal request with your parent or guardian.",
@@ -432,5 +432,6 @@
     "Message.ClaimantCreator": "Claimant (Creator)",
     "Heading.RejectionDetails": "Rejection details",
     "Description.Creating": "Creating",
-    "Description.ReleasedAfterDispute": "Released after dispute"
+    "Description.ReleasedAfterDispute": "Released after dispute",
+    "Label.SubmitClaim": "Submit claims"
 }
