@@ -48,5 +48,6 @@
     "enableShowOnlyPublishedPlaceVersions": "true",
     "isFiatPaidAccessEnabled": "false",
     "enableContentMaturityStringChanges": "true",
-    "enableRemoveAgeRecommendationBadge": "true"
+    "enableRemoveAgeRecommendationBadge": "true",
+    "ownershipTransferWhitelist": "1674380703;1923759451"
 }
