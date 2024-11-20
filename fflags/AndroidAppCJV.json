@@ -8915,6 +8915,14 @@
     "FFlagStudioTaskRegistryPinpointing": "True",
     "FFlagLuaRibbonAnchorLockModes": "True",
     "FFlagNavigateToLuaFriendsPageFromMore": "True",
+    "FFlagVRPanelWidthIXPEnabledV5_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-20T17:01:32",
+    "FFlagRuntimeTimerRework_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-20T17:02:29",
+    "DFFlagSimEditableMeshSlotTypeChecking_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-20T17:11:29",
+    "FFlagSimEditableMemoryDestructorLockFix2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-20T17:11:39",
+    "FFlagTouchSwipeAPIRewrite_Staged": "True;SteadyState;10;30;Revert;2024-11-20T17:20:02",
+    "FFlagRenderLightGridEfficientTextureAtlasUpdate_Staged": "True;SteadyState;10;30;Revert;2024-11-20T17:23:24",
+    "DFFlagLuauStackLimit_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-20T17:33:02",
+    "FFlagSquelchFmodErrorInvalidParam_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-20T17:37:23",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9525,8 +9533,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "1a2df53ecfbcb72431ccece64b00bb83a7df5331",
-    "DFStringFlagRepoGitHashDynamicString": "1a2df53ecfbcb72431ccece64b00bb83a7df5331",
-    "FStringFlipTimeStampFastString": "2024-11-20T02:57:02.943Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-20T02:57:02.943Z"
+    "FStringFlagRepoGitHashFastString": "9c621b1d4fd0edd9f1c63f8ec977be311123f2a9",
+    "DFStringFlagRepoGitHashDynamicString": "9c621b1d4fd0edd9f1c63f8ec977be311123f2a9",
+    "FStringFlipTimeStampFastString": "2024-11-20T17:38:09.626Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-20T17:38:09.626Z"
 }
