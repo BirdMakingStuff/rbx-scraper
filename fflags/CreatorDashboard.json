@@ -22,7 +22,7 @@
     "enableLimitedPriceFloor": "true",
     "useNewActivityFeedEndpoint": "true",
     "enableEventsUnderExperiences": "true",
-    "enableMeshTextureApisToggle": "false",
+    "enableMeshTextureApisToggle": "true",
     "enableShareLinkPromo": "true",
     "enableShareLinkManagment": "true",
     "isOldAutomaticTextCaptureDisabled": "true",
