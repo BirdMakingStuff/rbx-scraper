@@ -945,5 +945,7 @@
     "Description.Table.Sales": "Understand where users are buying",
     "Title.PublishingAdvance": "Publishing Advance",
     "Label.PublishingAdvanceRecovered": "Recovered",
-    "Title.MarketplacevsInExperienceSales": "Marketplace vs In-experience Sales"
+    "Title.MarketplacevsInExperienceSales": "Marketplace vs In-experience Sales",
+    "Heading.NoRecommendation.BannerTitle": "Align your experience with our quality standards to improve its discoverability",
+    "Description.NoRecommendation.BannerDescription": "Currently not discoverable and can only be accessed via direct links"
 }

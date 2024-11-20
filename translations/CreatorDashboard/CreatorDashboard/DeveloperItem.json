@@ -154,5 +154,6 @@
     "Label.Beta": "Beta",
     "Title.AssetPrivacyBeta": "Asset Privacy Beta",
     "Description.AssetPrivacyBeta": "You are eligible to enroll for asset permissions beta",
-    "Action.Enroll": "Enroll"
+    "Action.Enroll": "Enroll",
+    "Label.NoOptions": "No options"
 }
