@@ -57,7 +57,7 @@
     "Error.PartialError": "{fieldNameList} could not be saved. Please try again.",
     "Message.ChangeSaved": "Change Saved",
     "Label.GooglePlus": "Google Plus",
-    "Label.RobloxGroup": "Roblox Group",
+    "Label.RobloxGroup": "Roblox Community",
     "Message.OwnershipTransfer": "Changing owners is a permanent that will result in the loss of all your group ownership privileges.",
     "Message.ConfirmTransfer": "Transfer group ownership to {username}? This action cannot be undone.",
     "Title.ConfirmTransfer": "Confirm Ownership Transfer",

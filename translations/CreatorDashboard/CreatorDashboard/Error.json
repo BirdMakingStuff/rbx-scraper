@@ -37,7 +37,7 @@
     "Error.ItemConfiguration.AssetIsFree": "Asset is free.",
     "Error.ItemConfiguration.AssetPendingValidation": "Cannot release asset that is pending validation.",
     "Error.ItemConfiguration.AssetContainsInvalidContent": "Cannot release asset that contains invalid content.",
-    "Error.ItemConfiguration.InvalidGroupPermission": "User does not have permission for the group owned asset.",
+    "Error.ItemConfiguration.InvalidGroupPermission": "User does not have permission for the community owned asset.",
     "Label.CreatorHub": "Home",
     "Label.CreatorMarketplace": "Creator Marketplace",
     "Label.Documentation": "Documentation",

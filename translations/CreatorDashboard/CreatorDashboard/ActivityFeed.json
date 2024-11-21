@@ -199,7 +199,7 @@
     "Description.RoleUnassigned": "{userName} was unassigned the role: {roleName}",
     "Label.FilterOptionMembership": "Membership",
     "Description.GroupSettingsUpdate": "{groupSettings} was updated",
-    "Description.GroupOwnerUpdated": "Group ownership was transferred to {userName}",
+    "Description.GroupOwnerUpdated": "Community ownership was transferred to {userName}",
     "Description.OneTimePayoutSent": "{userName} sent a one-time payment",
     "Description.RecurringPayoutsConfigured": "{groupName}'s recurring payouts was updated",
     "Description.ExperiencePublished": "{experienceName} was published",
