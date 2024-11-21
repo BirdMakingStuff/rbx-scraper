@@ -28,7 +28,7 @@
     "isOldAutomaticTextCaptureDisabled": "true",
     "personalizationBannerIdsGated": "",
     "enableDevexMaintenanceBanner": "false",
-    "fiatPaidAccessWhitelist": "6173877859;7606246097;6206004188",
+    "fiatPaidAccessWhitelist": "6173877859;7606246097;6206004188;7418055784",
     "enablePriceOptimizationBanner": "true",
     "enablePlaceIconAssetsUploadApi": "false",
     "enableBoundAuthTokenValidationOptIn": "true",
@@ -49,5 +49,5 @@
     "isFiatPaidAccessEnabled": "false",
     "enableContentMaturityStringChanges": "true",
     "enableRemoveAgeRecommendationBadge": "true",
-    "ownershipTransferWhitelist": "1674380703;1923759451;772442;1078841;1701728254;7174205022"
+    "ownershipTransferWhitelist": "1674380703;1923759451;1633194050;772442;1078841;559363765;1701728254;1056931160;7174205022"
 }
