@@ -166,6 +166,8 @@
     "FFlagMacInstallerReportUserID": "True",
     "FFlagTypesetterAllocOrCrash": "True",
     "FFlagMacInstallerImproveUnzip": "True",
+    "FFlagMacPersonalizedInstallerEnabled2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T17:18:26",
+    "FFlagWinPersonalizedInstallerEnabled2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T17:19:31",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -178,8 +180,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "d36e07042c56e31dc76eabf51363cdfda91019af",
-    "DFStringFlagRepoGitHashDynamicString": "d36e07042c56e31dc76eabf51363cdfda91019af",
-    "FStringFlipTimeStampFastString": "2024-11-21T02:02:01.913Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-21T02:02:01.913Z"
+    "FStringFlagRepoGitHashFastString": "c18272b07209ff17e963185ff427b9a904ebd92f",
+    "DFStringFlagRepoGitHashDynamicString": "c18272b07209ff17e963185ff427b9a904ebd92f",
+    "FStringFlipTimeStampFastString": "2024-11-21T17:37:42.192Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-21T17:37:42.192Z"
 }
