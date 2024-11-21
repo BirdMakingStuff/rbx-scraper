@@ -114,5 +114,6 @@
     "Label.PolicyReviewRejected": "Experience did not pass policy review for Paid Access in local currency",
     "Description.PolicyReviewRejected": "Your experience was not approved for fiat currency Paid Access. Review the Roblox policy guidelines and try again.",
     "Label.ReviewPolicy": "Review policy",
-    "Action.LearnMoreLinkText": "Learn more"
+    "Action.LearnMoreLinkText": "Learn more",
+    "Message.AccessTypeInfoWithFiat": "Must be set to 'Public' to require Robux payments, local currency payments, or allow private servers."
 }

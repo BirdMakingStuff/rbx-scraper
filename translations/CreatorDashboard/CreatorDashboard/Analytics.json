@@ -946,6 +946,7 @@
     "Title.PublishingAdvance": "Publishing Advance",
     "Label.PublishingAdvanceRecovered": "Recovered",
     "Title.MarketplacevsInExperienceSales": "Marketplace vs In-experience Sales",
-    "Heading.NoRecommendation.BannerTitle": "Align your experience with our quality standards to improve its discoverability",
-    "Description.NoRecommendation.BannerDescription": "Currently not discoverable and can only be accessed via direct links"
+    "Heading.NoRecommendation.BannerTitle": "Your experience has reduced exposure across Home and Search",
+    "Description.NoRecommendation.BannerDescription": "Follow our best practices to improve your exposure",
+    "Description.MarketplacevsInExperienceSales": "Percentage of total sales that originated from either the Marketplace or In-Experience."
 }

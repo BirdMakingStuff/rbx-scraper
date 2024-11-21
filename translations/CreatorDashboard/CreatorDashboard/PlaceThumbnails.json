@@ -111,7 +111,7 @@
     "Description.ThumbnailPersonalizationOffBelowDAUSubtitle": "For best results, reach {threshold}+ daily users consistently before testing multiple thumbnails.",
     "Description.ThumbnailPersonalizationOffBelowDAU": "Personalization is off",
     "Description.UploadHomepageThumbnail.Format": "Format: {formats}",
-    "Description.UploadHomepageThumbnail.Size": "Size: less than 3MB",
+    "Description.UploadHomepageThumbnail.Size": "Size: less than 10MB",
     "Description.UploadHomepageThumbnail.Ratio": "Recommended ratio: 16:9",
     "Label.EditActiveThumbnails": "Edit active thumbnails",
     "Label.NoPermissionToEdit": "You do not have permission to edit",
