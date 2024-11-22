@@ -83,7 +83,7 @@
     "Label.Universes.WriteOperation": "Universe Write",
     "Label.Places.ReadOperation": "Read Places",
     "Label.Places.WriteOperation": "Place Write",
-    "OperationDescription.GroupsAPIWrite": "This allows you to manage community join requests for your account.",
+    "OperationDescription.GroupsAPIWrite": "This allows you to manage community join requests and role updates for your account.",
     "OperationDescription.UniversePlacesAPIRead": "Grants the ability to read place information.",
     "OperationDescription.UniversePlacesAPIWrite": "Grants the ability to edit place information.",
     "OperationDescription.UniversesAPIRead": "Grants the ability to read experience information.",
