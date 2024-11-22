@@ -9075,6 +9075,7 @@
     "FFlagFixUserInfoSelection": "True",
     "FFlagCollectionServiceFixNameOverlap2": "True",
     "FFlagStopSendingHumanoidDescriptionInstancesCapability": "True",
+    "FFlagLocalizationUseNewAtcEndpoint_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-22T17:18:12",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9693,8 +9694,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "0bf4f9e63299f68bea986ace8acfab4296238879",
-    "DFStringFlagRepoGitHashDynamicString": "0bf4f9e63299f68bea986ace8acfab4296238879",
-    "FStringFlipTimeStampFastString": "2024-11-22T16:41:29.765Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-22T16:41:29.765Z"
+    "FStringFlagRepoGitHashFastString": "0e254a52ed01b711bf27b095209b874252eecb51",
+    "DFStringFlagRepoGitHashDynamicString": "0e254a52ed01b711bf27b095209b874252eecb51",
+    "FStringFlipTimeStampFastString": "2024-11-22T17:32:54.945Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-22T17:32:54.945Z"
 }
