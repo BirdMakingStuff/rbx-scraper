@@ -9802,8 +9802,8 @@
     "FFlagUseCommunitiesTranslation": "True",
     "FFlagLuaAppDeferInteractive_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T20:51:04",
     "FFlagAppChatClosedEvent": "True",
-    "FStringFlagRepoGitHashFastString": "99b99b89c912ee21605838c4126d42402aee467d",
-    "DFStringFlagRepoGitHashDynamicString": "99b99b89c912ee21605838c4126d42402aee467d",
-    "FStringFlipTimeStampFastString": "2024-11-22T03:07:02.412Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-22T03:07:02.412Z"
+    "FStringFlagRepoGitHashFastString": "0bf4f9e63299f68bea986ace8acfab4296238879",
+    "DFStringFlagRepoGitHashDynamicString": "0bf4f9e63299f68bea986ace8acfab4296238879",
+    "FStringFlipTimeStampFastString": "2024-11-22T16:41:29.765Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-22T16:41:29.765Z"
 }

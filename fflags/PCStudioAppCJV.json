@@ -10097,7 +10097,6 @@
     "FFlagValidateUGCBodyAPIEnabled3_PlaceFilter": "True;124012682058672",
     "FFlagWrapDeformerClearAltMeshContent": "False",
     "FFlagWrapDeformerClearAltMeshContent_PlaceFilter": "True;124012682058672",
-    "FFlagGuiStatePressedToHoverOnRelease": "True",
     "FFlagLuauUserDefinedTypeFunParseExport": "True",
     "FFlagIxpFastFlagIntegrationApplyInitialIxpValues": "True",
     "FFlagIxpFastFlagIntegrationApplyIxpValue": "True",
@@ -10319,8 +10318,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "99b99b89c912ee21605838c4126d42402aee467d",
-    "DFStringFlagRepoGitHashDynamicString": "99b99b89c912ee21605838c4126d42402aee467d",
-    "FStringFlipTimeStampFastString": "2024-11-22T03:07:02.412Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-22T03:07:02.412Z"
+    "FStringFlagRepoGitHashFastString": "0bf4f9e63299f68bea986ace8acfab4296238879",
+    "DFStringFlagRepoGitHashDynamicString": "0bf4f9e63299f68bea986ace8acfab4296238879",
+    "FStringFlipTimeStampFastString": "2024-11-22T16:41:29.765Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-22T16:41:29.765Z"
 }
