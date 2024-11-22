@@ -8906,7 +8906,7 @@
     "FFlagWrapDeformerTargetModifier6": "False",
     "FFlagWrapDeformerTargetModifier6_PlaceFilter": "True;124012682058672",
     "FFlagRuntimeTimerRework": "True",
-    "FFlagVRPanelWidthIXPEnabledV5": "True",
+    "FFlagVRPanelWidthIXPEnabledV5": "False",
     "DFFlagSimEditableMeshSlotTypeChecking": "True",
     "FFlagSimEditableMemoryDestructorLockFix2": "True",
     "DFFlagLuauStackLimit": "True",
@@ -9082,7 +9082,6 @@
     "FFlagAddPluginRunContextSupport": "True",
     "FFlagWrapDeformerUpdateAttachments3_PlaceFilter": "True;124012682058672",
     "FFlagAvatarPublishPromptUpdateAttachments_PlaceFilter": "True;124012682058672",
-    "FFlagVRPanelWidthIXPEnabledV5_Staged": "False;SteadyState;10;30;Rollout;100;30;Promote;2024-11-22T21:14:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9713,8 +9712,8 @@
     "FFlagReactInlineMergeLanes": "True",
     "FFlagLuaAppDeferInteractive": "True",
     "FFlagAXHighResolutionTallTilesEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "1742216ca5752d1a84d9ca9ffe5e8e289534c368",
-    "DFStringFlagRepoGitHashDynamicString": "1742216ca5752d1a84d9ca9ffe5e8e289534c368",
-    "FStringFlipTimeStampFastString": "2024-11-22T21:29:25.445Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-22T21:29:25.445Z"
+    "FStringFlagRepoGitHashFastString": "7d24621a90869bd445a33dd511a87f86fba0ab29",
+    "DFStringFlagRepoGitHashDynamicString": "7d24621a90869bd445a33dd511a87f86fba0ab29",
+    "FStringFlipTimeStampFastString": "2024-11-22T22:37:55.145Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-22T22:37:55.145Z"
 }
