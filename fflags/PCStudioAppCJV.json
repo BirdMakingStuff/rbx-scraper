@@ -7456,7 +7456,7 @@
     "FFlagEnableDynamicLivePreviewWatermark": "True",
     "FFlagAppChatCorescriptsToastsEnabled2": "True",
     "FFlagDisableToastBorder": "True",
-    "FFlagEnableChatNewMessage_dev": "True",
+    "FFlagEnableChatNewMessage_dev": "False",
     "FFlagEnableImagePileBorderThickness": "True",
     "FFlagEnableToastMetaAction": "True",
     "FFlagEnableToastStyleUpdates": "True",
@@ -10335,8 +10335,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
-    "FStringFlagRepoGitHashFastString": "7d24621a90869bd445a33dd511a87f86fba0ab29",
-    "DFStringFlagRepoGitHashDynamicString": "7d24621a90869bd445a33dd511a87f86fba0ab29",
-    "FStringFlipTimeStampFastString": "2024-11-22T22:37:55.145Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-22T22:37:55.145Z"
+    "FStringFlagRepoGitHashFastString": "f6e3543040f0454059d7c3c5f3d61b4cdb54f978",
+    "DFStringFlagRepoGitHashDynamicString": "f6e3543040f0454059d7c3c5f3d61b4cdb54f978",
+    "FStringFlipTimeStampFastString": "2024-11-22T23:37:27.532Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-22T23:37:27.532Z"
 }
