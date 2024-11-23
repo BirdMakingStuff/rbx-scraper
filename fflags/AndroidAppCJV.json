@@ -9081,6 +9081,7 @@
     "FFlagAddPluginRunContextSupport": "True",
     "FFlagWrapDeformerUpdateAttachments3_PlaceFilter": "True;124012682058672",
     "FFlagAvatarPublishPromptUpdateAttachments_PlaceFilter": "True;124012682058672",
+    "DFStringInExperienceRealWorldCommerceUrlAllowlist_Staged": "www.amazon.com,na.account.amazon.com,shop.app,shop.pixel-bitstudio.com,store.quataun.com,store.catalogavatarcreator.com,shop.overtime.tv,merch.twinatlas.com;SteadyState;10;30;Rollout;100;30;Promote;2024-11-23T21:12:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9699,8 +9700,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "d9fed0077a78b12452e29d3d01c1294913cbb4b7",
-    "DFStringFlagRepoGitHashDynamicString": "d9fed0077a78b12452e29d3d01c1294913cbb4b7",
-    "FStringFlipTimeStampFastString": "2024-11-23T20:03:10.633Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-23T20:03:10.633Z"
+    "FStringFlagRepoGitHashFastString": "e0dba750290db98e58bbcf76eb6a309536c8f2af",
+    "DFStringFlagRepoGitHashDynamicString": "e0dba750290db98e58bbcf76eb6a309536c8f2af",
+    "FStringFlipTimeStampFastString": "2024-11-23T21:13:39.711Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-23T21:13:39.711Z"
 }
