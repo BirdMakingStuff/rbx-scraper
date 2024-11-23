@@ -4162,7 +4162,7 @@
     "DFFlagEnableInExperienceRealWorldCommerce_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630;15254715712;18494253016;14265145574;12931369823;17811071580;18973713348",
     "DFFlagEnableRealWorldCommercePOC": "False",
     "DFFlagEnableRealWorldCommercePOC_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630;15254715712;14265145574;12931369823;17811071580;18973713348",
-    "DFStringInExperienceRealWorldCommerceUrlAllowlist": "www.amazon.com,na.account.amazon.com,shop.app,shop.pixel-bitstudio.com,store.quataun.com,store.catalogavatarcreator.com,shop.overtime.tv",
+    "DFStringInExperienceRealWorldCommerceUrlAllowlist": "www.amazon.com,na.account.amazon.com,shop.app,shop.pixel-bitstudio.com,store.quataun.com,store.catalogavatarcreator.com,shop.overtime.tv,merch.twinatlas.com",
     "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,thingmade.com,www.store.thingmade.com,elfcosmetics.com,development.elfcosmetics.com,www.elfcosmetics.com,walmartdiscoveredshops.com,https://walmartdiscoveredshops.com/campaign/d717wmdc,www.fandango.com,ticket.fandango.com,tickets.fandango.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630;15254715712;18494253016;14265145574;12931369823;17811071580;18973713348",
     "FFlagUseLargerCDLCodeFontForVRV2": "True",
     "FFlagErrorPromptResizesHeight": "True",
@@ -9081,7 +9081,6 @@
     "FFlagAddPluginRunContextSupport": "True",
     "FFlagWrapDeformerUpdateAttachments3_PlaceFilter": "True;124012682058672",
     "FFlagAvatarPublishPromptUpdateAttachments_PlaceFilter": "True;124012682058672",
-    "DFStringInExperienceRealWorldCommerceUrlAllowlist_Staged": "www.amazon.com,na.account.amazon.com,shop.app,shop.pixel-bitstudio.com,store.quataun.com,store.catalogavatarcreator.com,shop.overtime.tv,merch.twinatlas.com;SteadyState;10;30;Rollout;100;30;Promote;2024-11-23T21:12:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9410,8 +9409,8 @@
     "FFlagReactInstanceMapDisableErrorChecking": "True",
     "FFlagReactInlineMergeLanes": "True",
     "FFlagAXHighResolutionTallTilesEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "e0dba750290db98e58bbcf76eb6a309536c8f2af",
-    "DFStringFlagRepoGitHashDynamicString": "e0dba750290db98e58bbcf76eb6a309536c8f2af",
-    "FStringFlipTimeStampFastString": "2024-11-23T21:13:39.711Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-23T21:13:39.711Z"
+    "FStringFlagRepoGitHashFastString": "6480b7e2f47f5c0364edbb1503c86a3d1102429d",
+    "DFStringFlagRepoGitHashDynamicString": "6480b7e2f47f5c0364edbb1503c86a3d1102429d",
+    "FStringFlipTimeStampFastString": "2024-11-23T22:12:44.815Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-23T22:12:44.815Z"
 }
