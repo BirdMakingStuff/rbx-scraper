@@ -155,5 +155,7 @@
     "Title.AssetPrivacyBeta": "Asset Privacy Beta",
     "Description.AssetPrivacyBeta": "You are eligible to enroll for asset permissions beta",
     "Action.Enroll": "Enroll",
-    "Label.NoOptions": "No options"
+    "Label.NoOptions": "No options",
+    "Label.SharingDisabledAlertTitle": "You cannot share dependent assets to collaborators",
+    "Label.SharingDisabledAlertSubtitle": "This asset can only be used for your personal use."
 }

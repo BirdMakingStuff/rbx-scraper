@@ -10,7 +10,7 @@
     "Label.OrganizationName": "Group Name",
     "Label.Owner": "Owner",
     "Title.OwnershipTransfer": "Ownership transfer",
-    "Description.OwnershipTransfer": "Changing owners is a permanent that will result in the loss of all your group ownership privileges.",
+    "Description.OwnershipTransfer": "Changing owners is a permanent change that will result in the loss of all your group ownership privileges. This includes the ability to keep group items on sale if the new owner does not have Roblox Premium.",
     "Label.Emblem": "Emblem",
     "Label.SocialLinks": "Social Links",
     "Title.ConfirmOwnershipTransfer": "Confirm Ownership Transfer",

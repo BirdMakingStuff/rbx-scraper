@@ -109,7 +109,7 @@
     "Description.PolicyReview": "Your experience will undergo a policy moderation review. Once approved you will be notified via email and your experience will go live.",
     "Action.GotIt": "Got it",
     "Label.UnderPolicyReview": "Experience is under policy review for Paid Access in local currency",
-    "Description.UnderPolicyReview": "Your experience is under review. You will receive a notification when approved.",
+    "Description.UnderPolicyReview": "Your experience will remain as {paymentType}. You will receive a notification when approved.",
     "Description.PermissionNotAllowedEdit": "Only experience or community owners can edit Payment section for Local Currency Paid Access",
     "Label.PolicyReviewRejected": "Experience did not pass policy review for Paid Access in local currency",
     "Description.PolicyReviewRejected": "Your experience was not approved for fiat currency Paid Access. Review the Roblox policy guidelines and try again.",
