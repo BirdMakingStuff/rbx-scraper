@@ -167,9 +167,10 @@
     "FFlagTypesetterAllocOrCrash": "True",
     "FFlagMacPersonalizedInstallerEnabled2": "True",
     "FFlagWinPersonalizedInstallerEnabled2": "True",
-    "FIntWin78ClientDeprecationLevel_Staged": "2;SteadyState;10;30;Rollout;100;30;Promote;2024-11-25T17:24:46",
-    "FIntWin78ClientDeprecationMessageFrequencySeconds_Staged": "79200;SteadyState;10;30;Rollout;100;30;Promote;2024-11-25T17:24:46",
-    "FIntWin78DeprecationEpochTimestamp_Staged": "1736964000;SteadyState;10;30;Rollout;100;30;Promote;2024-11-25T17:24:46",
+    "FIntWin78ClientDeprecationLevel": "2",
+    "FIntWin78ClientDeprecationMessageFrequencySeconds": "79200",
+    "FIntWin78DeprecationEpochTimestamp": "1736964000",
+    "FFlagDeprecateWin78_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-25T18:38:18",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -184,8 +185,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "14b16666738cf8271abe5a1344017bfd0f305ef4",
-    "DFStringFlagRepoGitHashDynamicString": "14b16666738cf8271abe5a1344017bfd0f305ef4",
-    "FStringFlipTimeStampFastString": "2024-11-25T17:37:26.481Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-25T17:37:26.481Z"
+    "FStringFlagRepoGitHashFastString": "934476b698170357f67a6015bf8f70d0fd0f1e71",
+    "DFStringFlagRepoGitHashDynamicString": "934476b698170357f67a6015bf8f70d0fd0f1e71",
+    "FStringFlipTimeStampFastString": "2024-11-25T18:44:22.921Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-25T18:44:22.921Z"
 }
