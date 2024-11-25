@@ -170,12 +170,12 @@
     "FIntWin78ClientDeprecationLevel": "2",
     "FIntWin78ClientDeprecationMessageFrequencySeconds": "79200",
     "FIntWin78DeprecationEpochTimestamp": "1736964000",
-    "FFlagDeprecateWin78_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-25T18:38:18",
+    "FFlagDeprecateWin78": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
-    "FFlagEnableSocialCards2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-25T18:59:59",
+    "FFlagEnableSocialCards2": "True",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -186,8 +186,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "cbeadaa426532a947a7e511b887db6b3932e5129",
-    "DFStringFlagRepoGitHashDynamicString": "cbeadaa426532a947a7e511b887db6b3932e5129",
-    "FStringFlipTimeStampFastString": "2024-11-25T19:32:44.790Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-25T19:32:44.790Z"
+    "FStringFlagRepoGitHashFastString": "adca90fb4af8aaf35bf0e94f4a4f4fe16deed5d2",
+    "DFStringFlagRepoGitHashDynamicString": "adca90fb4af8aaf35bf0e94f4a4f4fe16deed5d2",
+    "FStringFlipTimeStampFastString": "2024-11-25T20:38:59.974Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-25T20:38:59.974Z"
 }
