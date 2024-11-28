@@ -10380,8 +10380,8 @@
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
     "FFlagEditableImageTelemetryUpdates": "True",
-    "FStringFlagRepoGitHashFastString": "b8d5677aa9c391921da2b08aa68c406f37cabf2a",
-    "DFStringFlagRepoGitHashDynamicString": "b8d5677aa9c391921da2b08aa68c406f37cabf2a",
-    "FStringFlipTimeStampFastString": "2024-11-28T16:41:54.584Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-28T16:41:54.584Z"
+    "FStringFlagRepoGitHashFastString": "8790a77a49c5aacaf1d07bdb47c166042ef85734",
+    "DFStringFlagRepoGitHashDynamicString": "8790a77a49c5aacaf1d07bdb47c166042ef85734",
+    "FStringFlipTimeStampFastString": "2024-11-28T17:36:36.338Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-28T17:36:36.338Z"
 }
