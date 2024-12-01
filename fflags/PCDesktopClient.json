@@ -9039,7 +9039,6 @@
     "EnableIrisUpdatedCallingNotificationCompat2": "true",
     "FFlagALT2_STUDIOPLAT_35983_LockDownBacktraceAttributes": "True",
     "FFlagALT_STUDIOPLAT_35983_LockDownBacktraceAttributes": "True",
-    "DFFlagFlagRolloutTestDynamicBool11_Staged": "True;SteadyState;10;30;Revert;2024-11-21T21:25:15",
     "DFFlagFlagRolloutTestDynamicBool11_IXP": "1;Portal.DFFlagFlagRolloutTestDynamicBool11;DFFlagFlagRolloutTestDynamicBool11;423748181;flagbank",
     "FFlagPerformanceControlNewEffectModel4": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -9368,7 +9367,6 @@
     "DFFlagVisBugFixTrusses": "True",
     "FFlagVoiceChatCullingDoNotClearSsrcHistory": "True",
     "FFlagUseCommunitiesTranslation": "True",
-    "FFlagLuaAppDeferInteractive_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T20:51:04",
     "FFlagAppChatClosedEvent": "True",
     "FFlagReactInstanceMapDisableErrorChecking": "True",
     "FFlagReactInlineMergeLanes": "True",
@@ -9741,8 +9739,8 @@
     "FFlagRobuxIconColorHotfix": "True",
     "FFlagEditableImageTelemetryUpdates": "True",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
-    "FStringFlagRepoGitHashFastString": "5befd51fde4f23df9b21cfa9872eafc1223b5714",
-    "DFStringFlagRepoGitHashDynamicString": "5befd51fde4f23df9b21cfa9872eafc1223b5714",
-    "FStringFlipTimeStampFastString": "2024-11-30T07:56:54.112Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-30T07:56:54.112Z"
+    "FStringFlagRepoGitHashFastString": "269a60f4fec2c91ea556249e19acf6fdbf4fcc81",
+    "DFStringFlagRepoGitHashDynamicString": "269a60f4fec2c91ea556249e19acf6fdbf4fcc81",
+    "FStringFlipTimeStampFastString": "2024-12-01T18:29:51.352Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-01T18:29:51.352Z"
 }
