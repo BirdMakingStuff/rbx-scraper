@@ -916,7 +916,7 @@
     "Label.Assistant.MonthlyReport": "Your monthly report",
     "Label.Assistant.Feedback": "Was this helpful?",
     "Action.ViewReport": "View Report",
-    "Heading.Assistant.BannerTitle": "Your monthly analytics report is ready ({dateRange})",
+    "Heading.Assistant.BannerTitle": "Your analytics report is ready ({dateRange})",
     "Description.Assistant.BannerDescription": "Get your AI-powered report on major metric changes, key drivers and outliers.",
     "Description.CloseAssistantButton": "Close Assistant Mode",
     "Label.WinningSegment.Below18": "<18",
@@ -948,5 +948,7 @@
     "Title.MarketplacevsInExperienceSales": "Marketplace vs In-experience Sales",
     "Heading.NoRecommendation.BannerTitle": "Your experience has reduced exposure across Home and Search",
     "Description.NoRecommendation.BannerDescription": "Follow our best practices to improve your exposure",
-    "Description.MarketplacevsInExperienceSales": "Percentage of total sales that originated from either the Marketplace or In-Experience."
+    "Description.MarketplacevsInExperienceSales": "Percentage of total sales that originated from either the Marketplace or In-Experience.",
+    "Label.PercentageGrowthOverServerLifecycle": "Percentage growth over server lifecycle",
+    "Description.PerformanceServerMemoryUsageByAge": "The lifecycle of server memory is tracked for up to 24 hours.  If your memory consumption is increasing significantly over the lifecycle of a server, you may have a memory leak."
 }
