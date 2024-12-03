@@ -267,5 +267,7 @@
     "Description.LearnMore": "Learn More",
     "Heading.PriceOptimizationFreezeTitleBeforeBlockedAndRanPO": "Run the next pricing test before {startDate}",
     "Heading.PriceOptimizationFreezeTitleBeforeBlockedAndNoPO": "Optimize your prices before the holidays",
-    "Label.PriceOptimizationStartTestButtonDisabledTooltip": "Price tests are in a blackout period"
+    "Label.PriceOptimizationStartTestButtonDisabledTooltip": "Price tests are in a blackout period",
+    "Heading.DynamicEligibilityMoreProductsRequired": "More products required for price test",
+    "Description.DynamicEligibilityMoreProductsRequired": "The products selected cannot return accurate results for price optimization. Include more products in the price test and try again."
 }
