@@ -311,5 +311,7 @@
     "Heading.FriendInvite": "Referral Systems",
     "Description.FriendInvite": "Learn how to implement a friend invite reward system",
     "Heading.MicroprofilerAdvanced": "Advanced MicroProfiler Usage",
-    "Description.MicroprofilerAdvanced": "Dive deep into frame colors, flame graphs, and more"
+    "Description.MicroprofilerAdvanced": "Dive deep into frame colors, flame graphs, and more",
+    "Description.BlenderStream": "Learn basic modeling techniques in blender",
+    "Heading.BlenderStream": "Intro to Modeling in Blender"
 }

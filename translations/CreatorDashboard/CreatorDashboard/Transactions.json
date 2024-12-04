@@ -42,7 +42,7 @@
     "Label.StartDate": "Start Date",
     "Label.EndDate": "End Date",
     "Message.PayoutsFrozen": "Your payouts are currently frozen. Please review your {reqLinkStart}seller account status{reqLinkEnd}.",
-    "Label.PaidAccess": "Paid Access in local currency",
+    "Label.PaidAccess": "Paid Access in Local Currency",
     "Action.ShowRefunds": "Show refunds",
     "Label.Experience": "Experience"
 }
