@@ -9282,7 +9282,10 @@
     "FFlagFixSettingshubImportOrder": "True",
     "FFlagMoreActionUrisExplorerNeeds": "True",
     "DFFlagPerformanceControlAllowDeviceSpecificThrottles": "True",
+    "DFFlagSurfaceAppearanceTintingBakeLODColor_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-04T21:55:10",
+    "FFlagSTUDIOPLAT37609_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-04T22:11:10",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+    "FIntCreationStorageChangesSerializationEnrolledHundredthsPercent_Rollout": "10;60;2024-12-04T22:35:46",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -9469,8 +9472,8 @@
     "FFlagReportFFAutomationFlags": "True",
     "DFIntPathfindingSlowRasterizeTileReportRatePerRequest": "10",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
-    "FStringFlagRepoGitHashFastString": "38b44409177465849668f2a9c98e5694c2a4b2c0",
-    "DFStringFlagRepoGitHashDynamicString": "38b44409177465849668f2a9c98e5694c2a4b2c0",
-    "FStringFlipTimeStampFastString": "2024-12-04T21:34:50.727Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-04T21:34:50.727Z"
+    "FStringFlagRepoGitHashFastString": "8bbd814d885a7c380bafb88ba6819d9b4fff30c7",
+    "DFStringFlagRepoGitHashDynamicString": "8bbd814d885a7c380bafb88ba6819d9b4fff30c7",
+    "FStringFlipTimeStampFastString": "2024-12-04T22:36:20.671Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-04T22:36:20.671Z"
 }
