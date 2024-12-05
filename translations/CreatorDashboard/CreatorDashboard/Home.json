@@ -313,5 +313,8 @@
     "Heading.MicroprofilerAdvanced": "Advanced MicroProfiler Usage",
     "Description.MicroprofilerAdvanced": "Dive deep into frame colors, flame graphs, and more",
     "Description.BlenderStream": "Learn basic modeling techniques in blender",
-    "Heading.BlenderStream": "Intro to Modeling in Blender"
+    "Heading.BlenderStream": "Intro to Modeling in Blender",
+    "Heading.MicroprofilerMemoryProfiling": "MicroProfiler memory profiling, flame graphs, diffs, and much more",
+    "Heading.RealWorldOptimization": "Real world building and scripting optimization for Roblox",
+    "Heading.CreateLayeredClothing": "Create Layered Clothing"
 }
