@@ -172,7 +172,8 @@
     "FIntWin78DeprecationEpochTimestamp": "1736964000",
     "FFlagDeprecateWin78": "True",
     "FFlagAbuseReportMenuConsoleSupportRefactor": "True",
-    "FFlagMacInstallerAddStudioArguments_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-04T22:10:40",
+    "FFlagMacInstallerAddStudioArguments": "True",
+    "FFlagWinAccessFilenameForToken": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -187,8 +188,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "8b6bb92d979bf156ef2828d487fd608f5c9316e3",
-    "DFStringFlagRepoGitHashDynamicString": "8b6bb92d979bf156ef2828d487fd608f5c9316e3",
-    "FStringFlipTimeStampFastString": "2024-12-04T23:33:20.438Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-04T23:33:20.438Z"
+    "FStringFlagRepoGitHashFastString": "bd7c3b6180847d3be72ff64b89694343b7bec99a",
+    "DFStringFlagRepoGitHashDynamicString": "bd7c3b6180847d3be72ff64b89694343b7bec99a",
+    "FStringFlipTimeStampFastString": "2024-12-05T02:07:44.916Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-05T02:07:44.916Z"
 }
