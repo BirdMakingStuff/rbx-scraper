@@ -950,5 +950,7 @@
     "Description.NoRecommendation.BannerDescription": "Follow our best practices to improve your exposure",
     "Description.MarketplacevsInExperienceSales": "Percentage of total sales that originated from either the Marketplace or In-Experience.",
     "Label.PercentageGrowthOverServerLifecycle": "Percentage growth over server lifecycle",
-    "Description.PerformanceServerMemoryUsageByAge": "The lifecycle of server memory is tracked for up to 24 hours.  If your memory consumption is increasing significantly over the lifecycle of a server, you may have a memory leak."
+    "Description.PerformanceServerMemoryUsageByAge": "The lifecycle of server memory is tracked for up to 24 hours.  If your memory consumption is increasing significantly over the lifecycle of a server, you may have a memory leak.",
+    "Label.Dimension.SaleLocation.Game": "Game",
+    "Label.Dimension.SaleLocation.Website": "Website"
 }
