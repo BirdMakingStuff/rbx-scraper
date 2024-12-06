@@ -175,7 +175,6 @@
     "FFlagMacInstallerAddStudioArguments": "True",
     "FFlagWinAccessFilenameForToken": "True",
     "FFlagChatLineAbandonedReportAnalyticsFix": "True",
-    "FFlagDisableAnimatorRetargetingForOldUGC": "True",
     "FFlagAXAccessoryAdjustmentFtuxFlush": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
@@ -191,8 +190,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "600cb8bdadb453f63704b958c25f5f330c8ffcc8",
-    "DFStringFlagRepoGitHashDynamicString": "600cb8bdadb453f63704b958c25f5f330c8ffcc8",
-    "FStringFlipTimeStampFastString": "2024-12-05T23:31:46.098Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-05T23:31:46.098Z"
+    "FStringFlagRepoGitHashFastString": "4d3433a4fb9cea5e6a4deea490562052cd84b332",
+    "DFStringFlagRepoGitHashDynamicString": "4d3433a4fb9cea5e6a4deea490562052cd84b332",
+    "FStringFlipTimeStampFastString": "2024-12-06T02:11:08.973Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-06T02:11:08.973Z"
 }
