@@ -9323,10 +9323,10 @@
     "FIntUGCValidateTriangleLimitTorso": "1925",
     "FFlagRefactorValidateAssetTransparency3": "True",
     "DFFlagAvoidCopyingMmappedAudioFiles": "True",
-    "DFIntPerformanceControlSessionTrackingUpdatePeriodMs_Staged": "1000;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T17:31:20",
     "DFLogRupp_DataCenterFilter": "Verbose,10;410",
-    "DFFlagRealTimeSessionTrackingReporting_Staged": "True;SteadyState;10;30;Revert;2024-12-06T18:26:09",
+    "DFFlagRealTimeSessionTrackingReporting_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T19:06:15",
     "DFStringRobloxTelemetryReliabilityCountAllowList_Staged": "perfdata,PerformanceControl;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T18:32:59",
+    "DFIntPerformanceControlSessionTrackingUpdatePeriodMs": "1000",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -9513,8 +9513,9 @@
     "DFIntPathfindingSlowRasterizeTileReportRatePerRequest": "10",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
     "FLogPlayStationAgeRestrictionManager": "Info",
-    "FStringFlagRepoGitHashFastString": "73f1d315244fdb61ba5b3ac3be93568dd26b8fc6",
-    "DFStringFlagRepoGitHashDynamicString": "73f1d315244fdb61ba5b3ac3be93568dd26b8fc6",
-    "FStringFlipTimeStampFastString": "2024-12-06T18:44:32.122Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-06T18:44:32.122Z"
+    "FFlagAXShareAvatarPromptEasyDismiss_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T19:27:00",
+    "FStringFlagRepoGitHashFastString": "ec623ce6276815c3de3ac6957087419483426ebe",
+    "DFStringFlagRepoGitHashDynamicString": "ec623ce6276815c3de3ac6957087419483426ebe",
+    "FStringFlipTimeStampFastString": "2024-12-06T19:32:51.666Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-06T19:32:51.666Z"
 }
