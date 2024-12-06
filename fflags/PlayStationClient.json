@@ -9313,7 +9313,6 @@
     "FFlagLuaAppGameTileMaturity": "True",
     "FFlagSocialAnalyticsTelemetryModule": "True",
     "FFlagLuaAppUpdatedChartsSubtitleLink": "True",
-    "DFFlagAvoidCopyingMmappedAudioFiles_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T00:43:53",
     "FFlagThrottlingHelperCustomTimeLimitEnabled": "True",
     "FFlagDevFrameworkDropdownFromSide": "True",
     "FIntUGCValidateTriangleLimitDynamicHead": "4400",
@@ -9323,6 +9322,7 @@
     "FIntUGCValidateTriangleLimitRightLeg": "1373",
     "FIntUGCValidateTriangleLimitTorso": "1925",
     "FFlagRefactorValidateAssetTransparency3": "True",
+    "DFFlagAvoidCopyingMmappedAudioFiles": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -9508,9 +9508,8 @@
     "FFlagReportFFAutomationFlags": "True",
     "DFIntPathfindingSlowRasterizeTileReportRatePerRequest": "10",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
-    "FFlagUITextureRendererUpdateRefWhenRequested": "False",
-    "FStringFlagRepoGitHashFastString": "5cbe8cc90f66b4f845704ae6ee120e71b3143777",
-    "DFStringFlagRepoGitHashDynamicString": "5cbe8cc90f66b4f845704ae6ee120e71b3143777",
-    "FStringFlipTimeStampFastString": "2024-12-06T01:47:35.463Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-06T01:47:35.463Z"
+    "FStringFlagRepoGitHashFastString": "583a99d3ded71f5eceb12dd7d1b87266007e4f63",
+    "DFStringFlagRepoGitHashDynamicString": "583a99d3ded71f5eceb12dd7d1b87266007e4f63",
+    "FStringFlipTimeStampFastString": "2024-12-06T02:16:34.733Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-06T02:16:34.733Z"
 }

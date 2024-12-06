@@ -9313,7 +9313,6 @@
     "FFlagLuaAppGameTileMaturity": "True",
     "FFlagSocialAnalyticsTelemetryModule": "True",
     "FFlagLuaAppUpdatedChartsSubtitleLink": "True",
-    "DFFlagAvoidCopyingMmappedAudioFiles_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T00:43:53",
     "FFlagThrottlingHelperCustomTimeLimitEnabled": "True",
     "FFlagDevFrameworkDropdownFromSide": "True",
     "FIntUGCValidateTriangleLimitDynamicHead": "4400",
@@ -9323,6 +9322,7 @@
     "FIntUGCValidateTriangleLimitRightLeg": "1373",
     "FIntUGCValidateTriangleLimitTorso": "1925",
     "FFlagRefactorValidateAssetTransparency3": "True",
+    "DFFlagAvoidCopyingMmappedAudioFiles": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10582,8 +10582,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "4d3433a4fb9cea5e6a4deea490562052cd84b332",
-    "DFStringFlagRepoGitHashDynamicString": "4d3433a4fb9cea5e6a4deea490562052cd84b332",
-    "FStringFlipTimeStampFastString": "2024-12-06T02:11:08.973Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-06T02:11:08.973Z"
+    "FStringFlagRepoGitHashFastString": "583a99d3ded71f5eceb12dd7d1b87266007e4f63",
+    "DFStringFlagRepoGitHashDynamicString": "583a99d3ded71f5eceb12dd7d1b87266007e4f63",
+    "FStringFlipTimeStampFastString": "2024-12-06T02:16:34.733Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-06T02:16:34.733Z"
 }
