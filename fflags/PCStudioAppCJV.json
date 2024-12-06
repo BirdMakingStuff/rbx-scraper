@@ -9324,6 +9324,9 @@
     "FFlagRefactorValidateAssetTransparency3": "True",
     "DFFlagAvoidCopyingMmappedAudioFiles": "True",
     "DFIntPerformanceControlSessionTrackingUpdatePeriodMs_Staged": "1000;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T17:31:20",
+    "DFLogRupp_DataCenterFilter": "Verbose,10;410",
+    "DFFlagRealTimeSessionTrackingReporting_Staged": "True;SteadyState;10;30;Revert;2024-12-06T18:26:09",
+    "DFStringRobloxTelemetryReliabilityCountAllowList_Staged": "perfdata,PerformanceControl;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T18:32:59",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10400,8 +10403,9 @@
     "FFlagStudioContextExpressionTypes3": "True",
     "FFlagAllowTemporaryIdEditDMOnly": "True",
     "FFlagCOLLAB6176PlaceAnnotationsStudio2": "True",
-    "FFlagCapturesAddLegacyVideoRecordingLogging_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T17:06:34",
     "FFlagAddAnalyticsForImprovedSearchStatsPerRequest_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T17:32:39",
+    "FFlagCapturesAddLegacyVideoRecordingLogging": "True",
+    "DFFlagSimRemoveRecursionsForDeepTrees_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-06T18:43:52",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -10585,8 +10589,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "33d144bd3bd2c5658331df6105661e7ec4aefe36",
-    "DFStringFlagRepoGitHashDynamicString": "33d144bd3bd2c5658331df6105661e7ec4aefe36",
-    "FStringFlipTimeStampFastString": "2024-12-06T17:33:34.281Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-06T17:33:34.281Z"
+    "FStringFlagRepoGitHashFastString": "73f1d315244fdb61ba5b3ac3be93568dd26b8fc6",
+    "DFStringFlagRepoGitHashDynamicString": "73f1d315244fdb61ba5b3ac3be93568dd26b8fc6",
+    "FStringFlipTimeStampFastString": "2024-12-06T18:44:32.122Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-06T18:44:32.122Z"
 }
