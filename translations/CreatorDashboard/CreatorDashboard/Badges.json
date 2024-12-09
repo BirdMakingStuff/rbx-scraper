@@ -40,5 +40,13 @@
     "Message.CreateBadgeLimitWarningV3": "Note: the first five badge creations per experience in a 24-hour period (GMT) are free. You can pay {price} Robux for each additional badge in that period.",
     "Label.BadgeImage": "Badge Image",
     "Label.BadgeIsEnabled": "Badge is Enabled",
-    "Message.BadgeEnabledDescription": "Your Badge can be earned by players and is shown on your Experience Details Page"
+    "Message.BadgeEnabledDescription": "Your Badge can be earned by players and is shown on your Experience Details Page",
+    "Error.FailedReorder": "Failed to reorder badges.",
+    "Error.CommitBeforeLoad": "Attempted to commit changes before the page had loaded.",
+    "Heading.Reorder": "Reorder",
+    "Message.ReorderBadgesAlert": "Changes to the badges order will be reflected on the {LinkStart}Experience Detail Page{LinkEnd}",
+    "Error.FailedParse": "Failed to parse element to reorder.",
+    "Error.TooManyBadgesToReorder": "Please commit your changes before attempting to reorder more badges.",
+    "Error.FailedUpdateOnDrop": "Failed to track an update to the order on drop.",
+    "Error.FailedReorderTryAgain": "Some of your changes may have failed to save. Please try again later."
 }

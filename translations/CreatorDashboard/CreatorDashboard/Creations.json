@@ -465,7 +465,7 @@
     "Label.Scheduled": "Scheduled",
     "Label.Finished": "Finished",
     "Action.GoToMeshParts": "Go to MeshParts",
-    "Message.AvatarCreationTokensEmptyMessagesWithLink": "Create tokens to allow your players to purchase creations inside your experience. {LinkStart}Learn more{LinkEnd}",
+    "Message.AvatarCreationTokensEmptyMessagesWithLink": "Create tokens to allow your players to purchase creations inside your experience.",
     "Message.AvatarCreationTokensEmptyMessage": "No tokens",
     "Action.CopyTokenID": "Copy Token ID",
     "Label.TokenID": "Token ID",
@@ -533,5 +533,6 @@
     "Heading.EECreateEventOrUpdate": "Create Event or Update",
     "Action.Update": "Update",
     "Action.Create": "Create",
-    "Label.EEThumbnailAltText": "Preview of uploaded thumbnail"
+    "Label.EEThumbnailAltText": "Preview of uploaded thumbnail",
+    "Button.Reorder": "Reorder"
 }

@@ -88,5 +88,7 @@
     "Message.ConfigurePlaceInfoNoGenre": "Provide a name and description for your place. There may be multiple places in one experience so it's important to help your users differentiate them.",
     "Description.Icon": "Upload an icon to your experience to increase player engagement.",
     "Error.ModerationErrorUpdatingUniverseNameAndDescription": "New universe name or description has been rejected due to moderation.",
-    "Message.CopyLockWarning": "Enabling this option grants any user of Roblox to download, use, and publish a copy of all content within this Place."
+    "Message.CopyLockWarning": "Enabling this option grants any user of Roblox to download, use, and publish a copy of all content within this Place",
+    "Title.CopyLockChange": "Allow users to download a copy of your Place?",
+    "Description.CopyLockChange": "Any user of Roblox will be able view, use, and publish a copy of all content within this Place."
 }
