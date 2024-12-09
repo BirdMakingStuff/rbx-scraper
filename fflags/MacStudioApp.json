@@ -9326,6 +9326,9 @@
     "DFLogRupp_DataCenterFilter": "Verbose,10;410",
     "DFIntPerformanceControlSessionTrackingUpdatePeriodMs": "1000",
     "DFFlagRealTimeSessionTrackingReporting": "True",
+    "FFlagRenderEnableGlobalInstancingMetal": "True",
+    "FFlagSongbirdUpdateMusicLoadingState_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-09T17:25:28",
+    "FFlagSongbirdFixCollapsibleTitleSizeWarnings_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-09T17:28:53",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10404,7 +10407,8 @@
     "FFlagCOLLAB6176PlaceAnnotationsStudio2": "True",
     "FFlagAddAnalyticsForImprovedSearchStatsPerRequest": "True",
     "DFFlagSimRemoveRecursionsForDeepTrees": "True",
-    "FFlagRenderEnableGlobalInstancingMetal": "True",
+    "DFFlagSkipInaccessiblePropDesc_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-09T17:13:03",
+    "FFlagEnableAudioPrefixForAliasOnly_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-09T17:19:20",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -10575,8 +10579,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "cd6f88825afbd34b640524e693a68e501e72b18f",
-    "DFStringFlagRepoGitHashDynamicString": "cd6f88825afbd34b640524e693a68e501e72b18f",
-    "FStringFlipTimeStampFastString": "2024-12-06T21:26:33.529Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-06T21:26:33.529Z"
+    "FStringFlagRepoGitHashFastString": "1c9aaa8da257dcaf7242c803073a5222fa14dcfb",
+    "DFStringFlagRepoGitHashDynamicString": "1c9aaa8da257dcaf7242c803073a5222fa14dcfb",
+    "FStringFlipTimeStampFastString": "2024-12-09T17:37:20.543Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-09T17:37:20.543Z"
 }
