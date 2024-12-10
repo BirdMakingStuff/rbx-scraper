@@ -9330,8 +9330,12 @@
     "FFlagEnableAuthedUsernameCMFix": "True",
     "FFlagNewHarmonyIndexForEventBasedTelemetry": "True",
     "DFFlagDataModelPatchDerializeHandleNullPtr": "True",
-    "FFlagEditProfileUseSocialToast_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T16:56:59",
-    "FFlagEditProfileAddLoadingTracker_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T16:58:22",
+    "FFlagLayoutNodeGetSharedInstanceC_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T18:20:35",
+    "DFIntProximityPromptAnalyticsSampleRate_Staged": "1000000;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T18:21:40",
+    "FFlagEditProfileAddLoadingTracker": "True",
+    "FFlagEditProfileUseSocialToast": "True",
+    "FFlagTenFootUiSupportSortSubtitle2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T18:34:14",
+    "FIntNewBlockingUtilityRollout_v3_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T18:39:05",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9549,8 +9553,8 @@
     "DFIntReloadIxpControllerHundredthPercent": "2500",
     "DFIntPathfindingSlowRasterizeTileReportRatePerRequest": "10",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
-    "FStringFlagRepoGitHashFastString": "07c0ebc7112a4da9ae3371870bc6de82ad962c95",
-    "DFStringFlagRepoGitHashDynamicString": "07c0ebc7112a4da9ae3371870bc6de82ad962c95",
-    "FStringFlipTimeStampFastString": "2024-12-10T17:22:54.511Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-10T17:22:54.511Z"
+    "FStringFlagRepoGitHashFastString": "86d64c6afff8502b971663c16d067ffaffb644d9",
+    "DFStringFlagRepoGitHashDynamicString": "86d64c6afff8502b971663c16d067ffaffb644d9",
+    "FStringFlipTimeStampFastString": "2024-12-10T18:42:49.107Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-10T18:42:49.107Z"
 }
