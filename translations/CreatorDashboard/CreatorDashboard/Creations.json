@@ -465,7 +465,7 @@
     "Label.Scheduled": "Scheduled",
     "Label.Finished": "Finished",
     "Action.GoToMeshParts": "Go to MeshParts",
-    "Message.AvatarCreationTokensEmptyMessagesWithLink": "Create tokens to allow your players to purchase creations inside your experience.",
+    "Message.AvatarCreationTokensEmptyMessagesWithLink": "Create tokens to allow your players to purchase creations inside your experience. {LinkStart}Learn More{LinkEnd}",
     "Message.AvatarCreationTokensEmptyMessage": "No tokens",
     "Action.CopyTokenID": "Copy Token ID",
     "Label.TokenID": "Token ID",
