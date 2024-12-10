@@ -9336,6 +9336,9 @@
     "FFlagEditProfileUseSocialToast": "True",
     "FFlagTenFootUiSupportSortSubtitle2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T18:34:14",
     "FIntNewBlockingUtilityRollout_v3_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T18:39:05",
+    "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
+    "FFlagHideAggregateLikeCountsOnEdp_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T19:19:05",
+    "DFIntRobloxTelemetryThrottlingTimeToServeMeshes_Staged": "1000;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T19:19:24",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9943,7 +9946,6 @@
     "FFlagPublishAvatarPromptEnabledAllPlatforms": "True",
     "FFlagSnoozeIndefiniteEnabled": "True",
     "ObbUnzipRemoval": "True",
-    "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
     "FFlagContactImporterManagerPolicyFix_v1": "True",
@@ -10075,8 +10077,8 @@
     "FFlagEditProfileScrollable": "True",
     "FFlagAXShareAvatarPromptEasyDismiss": "True",
     "FFlagLuaAppEnableControlUnplayable": "True",
-    "FStringFlagRepoGitHashFastString": "86d64c6afff8502b971663c16d067ffaffb644d9",
-    "DFStringFlagRepoGitHashDynamicString": "86d64c6afff8502b971663c16d067ffaffb644d9",
-    "FStringFlipTimeStampFastString": "2024-12-10T18:42:49.107Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-10T18:42:49.107Z"
+    "FStringFlagRepoGitHashFastString": "15d5910281153ba72e424a1e07c9ace04669dac8",
+    "DFStringFlagRepoGitHashDynamicString": "15d5910281153ba72e424a1e07c9ace04669dac8",
+    "FStringFlipTimeStampFastString": "2024-12-10T19:31:22.677Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-10T19:31:22.677Z"
 }
