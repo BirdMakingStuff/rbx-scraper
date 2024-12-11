@@ -9357,6 +9357,8 @@
     "FFlagRemovePSMLDebuggerPlaceSessionModelListener2": "False",
     "DFIntDefaultTimeoutTimeMs": "20000",
     "FFlagRemovePSMLConversationalAIWidget2": "True",
+    "DFFlagHumanoidReplicateSimulated2TurnOffLocalState_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T17:00:47",
+    "FFlagFastClusterGuiInvalidationCounter_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T17:29:30",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9574,8 +9576,8 @@
     "DFIntReloadIxpControllerHundredthPercent": "2500",
     "DFIntPathfindingSlowRasterizeTileReportRatePerRequest": "10",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
-    "FStringFlagRepoGitHashFastString": "ae76c8b656dded7c476a1020177815ce91a98ef7",
-    "DFStringFlagRepoGitHashDynamicString": "ae76c8b656dded7c476a1020177815ce91a98ef7",
-    "FStringFlipTimeStampFastString": "2024-12-11T02:28:43.227Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-11T02:28:43.227Z"
+    "FStringFlagRepoGitHashFastString": "85fc36035648fe5d870a225439beb224642bfc9e",
+    "DFStringFlagRepoGitHashDynamicString": "85fc36035648fe5d870a225439beb224642bfc9e",
+    "FStringFlipTimeStampFastString": "2024-12-11T17:31:20.126Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-11T17:31:20.126Z"
 }
