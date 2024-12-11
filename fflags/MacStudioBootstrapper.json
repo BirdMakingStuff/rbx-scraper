@@ -181,8 +181,8 @@
     "FFlagFixPublishAvatarVRViewports": "True",
     "FFlagAXEnablePerceivedTTIV2": "True",
     "FFlagAXSendAXStat": "True",
-    "FFlagPassDownSquadExpInvGameOrigin_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T21:51:53",
-    "FFlagAddJoinAttemptId_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T21:53:51",
+    "FFlagAddJoinAttemptId": "True",
+    "FFlagPassDownSquadExpInvGameOrigin": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -195,8 +195,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "e3e0599bc3669d81a4ce8eaffa525bf267ada49f",
-    "DFStringFlagRepoGitHashDynamicString": "e3e0599bc3669d81a4ce8eaffa525bf267ada49f",
-    "FStringFlipTimeStampFastString": "2024-12-11T22:38:46.472Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-11T22:38:46.472Z"
+    "FStringFlagRepoGitHashFastString": "1421c3d8ee57c9922e66276242c9c93670775630",
+    "DFStringFlagRepoGitHashDynamicString": "1421c3d8ee57c9922e66276242c9c93670775630",
+    "FStringFlipTimeStampFastString": "2024-12-11T23:34:17.060Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-11T23:34:17.060Z"
 }
