@@ -159,5 +159,7 @@
     "Label.SharingDisabledAlertTitle": "You cannot share dependent assets to collaborators",
     "Label.SharingDisabledAlertSubtitle": "This asset can only be used for your personal use.",
     "Label.IneligibleCompositeAlertTitle": "You cannot make this asset open use or distribute dependent assets",
-    "Label.IneligibleCompositeAlertDescription": "This asset can only be used for your personal use."
+    "Label.IneligibleCompositeAlertDescription": "This asset can only be used for your personal use.",
+    "Message.OpenUseSaveSuccessful": "Successfully changed {assetName} to Open Use",
+    "Message.OpenUseSaveUnsuccessful": "Unable to change {assetName} to Open Use"
 }
