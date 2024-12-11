@@ -9357,8 +9357,8 @@
     "FFlagRemovePSMLDebuggerPlaceSessionModelListener2": "False",
     "DFIntDefaultTimeoutTimeMs": "20000",
     "FFlagRemovePSMLConversationalAIWidget2": "True",
-    "DFFlagHumanoidReplicateSimulated2TurnOffLocalState_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T17:00:47",
     "FFlagFastClusterGuiInvalidationCounter_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T17:29:30",
+    "DFFlagHumanoidReplicateSimulated2TurnOffLocalState": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9972,6 +9972,8 @@
     "DFFlagAndroidDebugHeapTelemetry": "True",
     "DFFlagAndroidOomScoreTelemetry": "True",
     "FFlagAXAccessoryAdjustmentFtuxFlush": "True",
+    "FFlagMeshLoDSendTimeToServeMesh2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T18:04:08",
+    "FFlagVideoStreamNotUseVideoService2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-11T18:40:18",
     "FFlagEnableMaterialGenerator": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -9999,8 +10001,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "85fc36035648fe5d870a225439beb224642bfc9e",
-    "DFStringFlagRepoGitHashDynamicString": "85fc36035648fe5d870a225439beb224642bfc9e",
-    "FStringFlipTimeStampFastString": "2024-12-11T17:31:20.126Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-11T17:31:20.126Z"
+    "FStringFlagRepoGitHashFastString": "99a07f74058268e3d6dcc7e5ceff2f9ef1590325",
+    "DFStringFlagRepoGitHashDynamicString": "99a07f74058268e3d6dcc7e5ceff2f9ef1590325",
+    "FStringFlipTimeStampFastString": "2024-12-11T18:41:32.464Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-11T18:41:32.464Z"
 }
