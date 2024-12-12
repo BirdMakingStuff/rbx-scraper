@@ -269,5 +269,7 @@
     "Heading.PriceOptimizationFreezeTitleBeforeBlockedAndNoPO": "Optimize your prices before the holidays",
     "Label.PriceOptimizationStartTestButtonDisabledTooltip": "Price tests are in a blackout period",
     "Heading.DynamicEligibilityMoreProductsRequired": "More products required for price test",
-    "Description.DynamicEligibilityMoreProductsRequired": "The products selected cannot return accurate results for price optimization. Include more products in the price test and try again."
+    "Description.DynamicEligibilityMoreProductsRequired": "The products selected cannot return accurate results for price optimization. Include more products in the price test and try again.",
+    "Heading.DynamicEligibilityNotEnoughUniverseTransactions": "Price optimization not available",
+    "Description.DynamicEligibilityNotEnoughUniverseTransactions": "Your experience no longer meets the transaction criteria for Price Optimization to return accurate results. For questions, refer to our {linkStart}documentation{linkEnd} or contact Roblox customer support."
 }
