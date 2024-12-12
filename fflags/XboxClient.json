@@ -9364,9 +9364,11 @@
     "DFIntRbxStorageErrorLogHundredthsPercent": "2000",
     "FFlagSongbirdUseReportAudioModal": "True",
     "FFlagAppChatRebrandIconUpdates": "True",
-    "FFlagUserAgreementsIgnorePlatformService_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T18:21:52",
-    "DFFlagEnableIrisCancelFromTeleport_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T18:23:33",
-    "FFlagExpChatGetLabelAndIconFromUtil_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T18:36:18",
+    "DFFlagEnableIrisCancelFromTeleport": "True",
+    "FFlagUserAgreementsIgnorePlatformService": "True",
+    "DFIntVoiceChatCullingTimedLatchThresholdMs_Staged": "5000;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T20:11:28",
+    "FFlagExpChatGetLabelAndIconFromUtil": "True",
+    "FFlagReplaceChromeNotificationBadge2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T20:35:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9701,8 +9703,8 @@
     "FFlagAXAnimatedLooksThumbnails": "True",
     "FFlagAXDisableWidgetHydrationCacheForLooks": "True",
     "FFlagCheckNullDataModelOnTeleport_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T19:18:57",
-    "FStringFlagRepoGitHashFastString": "129fa637c92a63e59e91d5af08243a9c2311f03d",
-    "DFStringFlagRepoGitHashDynamicString": "129fa637c92a63e59e91d5af08243a9c2311f03d",
-    "FStringFlipTimeStampFastString": "2024-12-12T19:31:58.380Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-12T19:31:58.380Z"
+    "FStringFlagRepoGitHashFastString": "513e2bf615b9553c66e56add167080dfa31db8a2",
+    "DFStringFlagRepoGitHashDynamicString": "513e2bf615b9553c66e56add167080dfa31db8a2",
+    "FStringFlipTimeStampFastString": "2024-12-12T20:36:50.338Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-12T20:36:50.338Z"
 }
