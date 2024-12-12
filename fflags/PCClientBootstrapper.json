@@ -183,6 +183,7 @@
     "FFlagAXSendAXStat": "True",
     "FFlagAddJoinAttemptId": "True",
     "FFlagPassDownSquadExpInvGameOrigin": "True",
+    "FFlagEnableLauncherGuard2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T23:03:08",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -197,8 +198,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "ac7f395c39f6013507098c2b2fe565ff0877b220",
-    "DFStringFlagRepoGitHashDynamicString": "ac7f395c39f6013507098c2b2fe565ff0877b220",
-    "FStringFlipTimeStampFastString": "2024-12-12T22:17:08.025Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-12T22:17:08.025Z"
+    "FStringFlagRepoGitHashFastString": "07ab50a03de0be28ed73c55a4305769b83f53217",
+    "DFStringFlagRepoGitHashDynamicString": "07ab50a03de0be28ed73c55a4305769b83f53217",
+    "FStringFlipTimeStampFastString": "2024-12-12T23:31:54.368Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-12T23:31:54.368Z"
 }
