@@ -9364,10 +9364,11 @@
     "FFlagFixOutputDeviceChange": "True",
     "FFlagRefactorFormatTagKey": "True",
     "FFlagRobloxTelemetryRewriteDelimitedStringContains": "True",
-    "AllowVideoPreRoll": "True",
     "FFlagAddFieldsContainerResizeFields": "True",
     "DFIntRbxStorageErrorLogHundredthsPercent": "2000",
     "FFlagSongbirdUseReportAudioModal": "True",
+    "FFlagAppChatRebrandIconUpdates": "True",
+    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -9940,7 +9941,6 @@
     "FFlagIxpFastFlagIntegrationUpdateIxpValue": "True",
     "FFlagExpChatGetLabelAndIconFromUtil": "True",
     "FFlagAppChatInExperienceEnabledV651NewIcon": "True",
-    "FFlagAppChatRebrandIconUpdates": "True",
     "FFlagIxpFastFlagIntegrationFetchOnStartup": "True",
     "DFIntReloadIxpControllerHundredthPercent": "2500",
     "FStringLuaAppSlpIxpLayer": "PlayerApp.HomePage.UX.WholePageRanking",
@@ -10001,8 +10001,8 @@
     "FFlagPassDownSquadExpInvGameOrigin": "True",
     "FFlagAXAnimatedLooksThumbnails": "True",
     "FFlagAXDisableWidgetHydrationCacheForLooks": "True",
-    "FStringFlagRepoGitHashFastString": "fb1eec9ba0e8abe8f37b00c0867bc215eb869da6",
-    "DFStringFlagRepoGitHashDynamicString": "fb1eec9ba0e8abe8f37b00c0867bc215eb869da6",
-    "FStringFlipTimeStampFastString": "2024-12-12T01:22:32.530Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-12T01:22:32.530Z"
+    "FStringFlagRepoGitHashFastString": "869d6664b021f8765d707550f76080edea2cd923",
+    "DFStringFlagRepoGitHashDynamicString": "869d6664b021f8765d707550f76080edea2cd923",
+    "FStringFlipTimeStampFastString": "2024-12-12T02:31:44.393Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-12T02:31:44.393Z"
 }

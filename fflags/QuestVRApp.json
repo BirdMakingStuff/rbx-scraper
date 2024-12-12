@@ -9364,10 +9364,10 @@
     "FFlagFixOutputDeviceChange": "True",
     "FFlagRefactorFormatTagKey": "True",
     "FFlagRobloxTelemetryRewriteDelimitedStringContains": "True",
-    "FFlagAppChatRebrandIconUpdates_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T00:56:50",
     "FFlagAddFieldsContainerResizeFields": "True",
     "DFIntRbxStorageErrorLogHundredthsPercent": "100",
     "FFlagSongbirdUseReportAudioModal": "True",
+    "FFlagAppChatRebrandIconUpdates": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10045,8 +10045,8 @@
     "FFlagAddJoinAttemptId": "True",
     "FFlagPassDownSquadExpInvGameOrigin": "True",
     "FFlagRoduxPerfTrackerFixStopTracking": "True",
-    "FStringFlagRepoGitHashFastString": "fb1eec9ba0e8abe8f37b00c0867bc215eb869da6",
-    "DFStringFlagRepoGitHashDynamicString": "fb1eec9ba0e8abe8f37b00c0867bc215eb869da6",
-    "FStringFlipTimeStampFastString": "2024-12-12T01:22:32.530Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-12T01:22:32.530Z"
+    "FStringFlagRepoGitHashFastString": "869d6664b021f8765d707550f76080edea2cd923",
+    "DFStringFlagRepoGitHashDynamicString": "869d6664b021f8765d707550f76080edea2cd923",
+    "FStringFlipTimeStampFastString": "2024-12-12T02:31:44.393Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-12T02:31:44.393Z"
 }
