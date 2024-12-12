@@ -9369,6 +9369,7 @@
     "DFIntVoiceChatCullingTimedLatchThresholdMs_Staged": "5000;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T20:11:28",
     "FFlagExpChatGetLabelAndIconFromUtil": "True",
     "FFlagReplaceChromeNotificationBadge2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T20:35:19",
+    "DFFlagPerformanceControlReportNormalizedTunables_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T20:45:18",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -9989,7 +9990,6 @@
     "FFlagUnibarHoldoutChatIconUseNewIconSize": "True",
     "FFlagMoveSquadTitleFetchIntoTopBanner": "True",
     "FFlagHttpRbxStorageInitOnly5": "True",
-    "FFlagFixCanGoBackForPop_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-12T19:28:53",
     "FFlagCEVFlowStart": "True",
     "FFlagCEVFlowStartPartyBegin": "True",
     "FFlagAppChatRebrandInNonChrome": "True",
@@ -9999,9 +9999,10 @@
     "FFlagUpdateSquadInDefaultAppChatContainer": "True",
     "FFlagEnablePartyIconInNonChrome5": "True",
     "FFlagForceEnableSquadAmazon": "True",
+    "FFlagFixCanGoBackForPop": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "513e2bf615b9553c66e56add167080dfa31db8a2",
-    "DFStringFlagRepoGitHashDynamicString": "513e2bf615b9553c66e56add167080dfa31db8a2",
-    "FStringFlipTimeStampFastString": "2024-12-12T20:36:50.338Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-12T20:36:50.338Z"
+    "FStringFlagRepoGitHashFastString": "c7f3208f8d3f0aafee07e7647bc63a13ed9a85a8",
+    "DFStringFlagRepoGitHashDynamicString": "c7f3208f8d3f0aafee07e7647bc63a13ed9a85a8",
+    "FStringFlipTimeStampFastString": "2024-12-12T21:02:00.859Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-12T21:02:00.859Z"
 }
