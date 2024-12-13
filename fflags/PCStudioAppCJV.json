@@ -10489,7 +10489,7 @@
     "FStringStartPageCarnivalPlaceId": "81362103443151",
     "FFlagLuauUserTypeFunThreadBuffer": "True",
     "DFFlagSimRemoveRecursionsForDeepTrees_PlaceFilter": "True;166986752",
-    "DFFlagSimAeroEnableYieldInMeshProcessing_Staged": "True;SteadyState;10;30;Revert;2024-12-13T18:41:33",
+    "DFFlagSimAeroEnableYieldInMeshProcessing_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-13T19:12:18",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -10682,8 +10682,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "6258ce323c2a1b9ab8e168364cf97e680588886f",
-    "DFStringFlagRepoGitHashDynamicString": "6258ce323c2a1b9ab8e168364cf97e680588886f",
-    "FStringFlipTimeStampFastString": "2024-12-13T18:42:17.429Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-13T18:42:17.429Z"
+    "FStringFlagRepoGitHashFastString": "9bade6e962edb9ade528b8a885ad8d55c137600c",
+    "DFStringFlagRepoGitHashDynamicString": "9bade6e962edb9ade528b8a885ad8d55c137600c",
+    "FStringFlipTimeStampFastString": "2024-12-13T19:27:51.545Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-13T19:27:51.545Z"
 }
