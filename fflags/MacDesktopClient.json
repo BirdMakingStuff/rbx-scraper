@@ -9375,8 +9375,8 @@
     "FFlagUnifyMorePageLayout": "True",
     "FFlagEnableLuaErrorV2Counter": "True",
     "FIntLuaErrorV2ThrottleHundredthPercentage": "10000",
-    "FStringLCCageQualityDocumentationLink_Staged": "https://create.roblox.com/docs/art/accessories/caging-best-practices;SteadyState;10;30;Rollout;100;30;Promote;2024-12-13T18:28:33",
     "DFFlagRccLoadSoundLengthTelemetryEnabled": "True",
+    "FStringLCCageQualityDocumentationLink": "https://create.roblox.com/docs/art/accessories/caging-best-practices",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -9621,7 +9621,7 @@
     "FFlagAXAnimatedLooksThumbnails": "True",
     "FFlagAXDisableWidgetHydrationCacheForLooks": "True",
     "FFlagFasterLayoutProcessingWhenNoPerfMetrics": "True",
-    "FFlagVideoReportMaxActiveVideoFrames_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-13T18:34:15",
+    "FFlagVideoReportMaxActiveVideoFrames": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9993,8 +9993,8 @@
     "FFlagFixCanGoBackForPop": "True",
     "FFlagEnablePeekViewFocusNav_PlaceFilter": "False;15308759682",
     "DFFlagSimAeroEnableYieldInMeshProcessing_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-13T19:12:18",
-    "FStringFlagRepoGitHashFastString": "9bade6e962edb9ade528b8a885ad8d55c137600c",
-    "DFStringFlagRepoGitHashDynamicString": "9bade6e962edb9ade528b8a885ad8d55c137600c",
-    "FStringFlipTimeStampFastString": "2024-12-13T19:27:51.545Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-13T19:27:51.545Z"
+    "FStringFlagRepoGitHashFastString": "bbaff60a365505865d55c3ec6f4a0a54a2ddc1a7",
+    "DFStringFlagRepoGitHashDynamicString": "bbaff60a365505865d55c3ec6f4a0a54a2ddc1a7",
+    "FStringFlipTimeStampFastString": "2024-12-13T20:16:52.450Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-13T20:16:52.450Z"
 }
