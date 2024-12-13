@@ -88,8 +88,14 @@ translations = {
         "DataCollectionTerms",
         "Secrets",
         "DeveloperLanding",
+        "OwnershipTransfer",
+        "FiatPaidAccess",
+        "AssetPrivacy"
     ],
     "Notifications": ["Preferences"],
+    "Feature": ["QNAB"],
+    "Experience": ["Genre"],
+
 }
 
 folderLocation = "/home/runner/work/rbx-scraper/rbx-scraper/translations"
