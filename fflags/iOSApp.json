@@ -10021,11 +10021,11 @@
     "DFIntTextChatTelemetrySendAsyncFailureThrottlePermyriad": "7500",
     "FFlagRemoveiOSCamera": "True",
     "DFFlagSimRemoveRecursionsForDeepTrees_PlaceFilter": "True;166986752",
-    "DFFlagSimAeroEnableYieldInMeshProcessing_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-13T19:12:18",
     "DFFlagEXPCHAT1499Telemetry": "True",
     "FFlagVideoReportMaxActiveVideoFrames": "True",
-    "FStringFlagRepoGitHashFastString": "bbaff60a365505865d55c3ec6f4a0a54a2ddc1a7",
-    "DFStringFlagRepoGitHashDynamicString": "bbaff60a365505865d55c3ec6f4a0a54a2ddc1a7",
-    "FStringFlipTimeStampFastString": "2024-12-13T20:16:52.450Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-13T20:16:52.450Z"
+    "DFFlagSimAeroEnableYieldInMeshProcessing": "True",
+    "FStringFlagRepoGitHashFastString": "faa0b7cfe03abebf9ffcb4574702d151492f2a44",
+    "DFStringFlagRepoGitHashDynamicString": "faa0b7cfe03abebf9ffcb4574702d151492f2a44",
+    "FStringFlipTimeStampFastString": "2024-12-13T21:12:14.894Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-13T21:12:14.894Z"
 }

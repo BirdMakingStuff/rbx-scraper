@@ -10071,8 +10071,8 @@
     "FFlagAddJoinAttemptId": "True",
     "FFlagRoduxPerfTrackerFixStopTracking": "True",
     "FFlagEnablePartyIconInNonChrome5_Staged": "False;SteadyState;10;30;Rollout;100;30;Promote;2024-12-13T20:16:16",
-    "FStringFlagRepoGitHashFastString": "bbaff60a365505865d55c3ec6f4a0a54a2ddc1a7",
-    "DFStringFlagRepoGitHashDynamicString": "bbaff60a365505865d55c3ec6f4a0a54a2ddc1a7",
-    "FStringFlipTimeStampFastString": "2024-12-13T20:16:52.450Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-13T20:16:52.450Z"
+    "FStringFlagRepoGitHashFastString": "faa0b7cfe03abebf9ffcb4574702d151492f2a44",
+    "DFStringFlagRepoGitHashDynamicString": "faa0b7cfe03abebf9ffcb4574702d151492f2a44",
+    "FStringFlipTimeStampFastString": "2024-12-13T21:12:14.894Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-13T21:12:14.894Z"
 }
