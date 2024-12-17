@@ -57,5 +57,6 @@
     "Description.RequestedRecently": "You recently sent a request to this group that was denied or cancelled. Please try again later.",
     "Description.TargetPrivateServer": "Revenue from current Private Server subscriptions will continue to go to the previous owner after the transfer. New or renewed subscriptions will go to the new owner.",
     "Error.TwoStepVerificationFailed": "Failed 2-Step Verification. Please try again later.",
-    "Action.ViewToAccept": "View to accept"
+    "Action.ViewToAccept": "View to accept",
+    "Description.FriendsOnlyEnableTransfer": "Experience must be set to 'Public' in Access Settings to enable ownership transfer"
 }
