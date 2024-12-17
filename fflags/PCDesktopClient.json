@@ -9376,6 +9376,7 @@
     "DFFlagRccLoadSoundLengthTelemetryEnabled": "True",
     "FStringLCCageQualityDocumentationLink": "https://create.roblox.com/docs/art/accessories/caging-best-practices",
     "FFlagEditableMeshSkinMorph": "True",
+    "FFlagFlagRolloutTestStaticBool0_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-17T21:37:18",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -10008,8 +10009,8 @@
     "FFlagFixCanGoBackForPop": "True",
     "FFlagEnablePeekViewFocusNav_PlaceFilter": "False;15308759682",
     "DFFlagSimAeroEnableYieldInMeshProcessing": "True",
-    "FStringFlagRepoGitHashFastString": "872b73f67594fbe867230cbe24c5bd313390706d",
-    "DFStringFlagRepoGitHashDynamicString": "872b73f67594fbe867230cbe24c5bd313390706d",
-    "FStringFlipTimeStampFastString": "2024-12-17T21:21:56.472Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-17T21:21:56.472Z"
+    "FStringFlagRepoGitHashFastString": "b37661da23ffb4d5e92a79431c639535fce86cd7",
+    "DFStringFlagRepoGitHashDynamicString": "b37661da23ffb4d5e92a79431c639535fce86cd7",
+    "FStringFlipTimeStampFastString": "2024-12-17T21:37:58.955Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-17T21:37:58.955Z"
 }
