@@ -9375,7 +9375,7 @@
     "FIntLuaErrorV2ThrottleHundredthPercentage": "10000",
     "DFFlagRccLoadSoundLengthTelemetryEnabled": "True",
     "FStringLCCageQualityDocumentationLink": "https://create.roblox.com/docs/art/accessories/caging-best-practices",
-    "FFlagEditableMeshSkinMorph_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-17T19:50:12",
+    "FFlagEditableMeshSkinMorph": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10013,8 +10013,8 @@
     "DFIntTextChatTelemetrySendAsyncFailureThrottlePermyriad": "7500",
     "DFFlagSimRemoveRecursionsForDeepTrees_PlaceFilter": "True;166986752",
     "DFFlagEXPCHAT1499Telemetry": "True",
-    "FStringFlagRepoGitHashFastString": "2194562ba40556af8695755bdf4fa2b6e7c7ed00",
-    "DFStringFlagRepoGitHashDynamicString": "2194562ba40556af8695755bdf4fa2b6e7c7ed00",
-    "FStringFlipTimeStampFastString": "2024-12-17T19:50:52.619Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-17T19:50:52.619Z"
+    "FStringFlagRepoGitHashFastString": "872b73f67594fbe867230cbe24c5bd313390706d",
+    "DFStringFlagRepoGitHashDynamicString": "872b73f67594fbe867230cbe24c5bd313390706d",
+    "FStringFlipTimeStampFastString": "2024-12-17T21:21:56.472Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-17T21:21:56.472Z"
 }
