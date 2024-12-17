@@ -9713,8 +9713,8 @@
     "FFlagCheckNullDataModelOnTeleport": "True",
     "DFIntTextChatTelemetrySendAsyncFailureThrottlePermyriad": "7500",
     "DFFlagEXPCHAT1499Telemetry": "True",
-    "FStringFlagRepoGitHashFastString": "1469349656d8b453e615b77e79c4a9586ad8fe5f",
-    "DFStringFlagRepoGitHashDynamicString": "1469349656d8b453e615b77e79c4a9586ad8fe5f",
-    "FStringFlipTimeStampFastString": "2024-12-13T22:08:28.017Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-13T22:08:28.017Z"
+    "FStringFlagRepoGitHashFastString": "98d6cabd2d5ef3afde97ab7912472035557de278",
+    "DFStringFlagRepoGitHashDynamicString": "98d6cabd2d5ef3afde97ab7912472035557de278",
+    "FStringFlipTimeStampFastString": "2024-12-17T19:30:52.335Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-17T19:30:52.335Z"
 }
