@@ -10643,6 +10643,10 @@
     "FFlagVideoReportMaxActiveVideoFrames": "True",
     "FFlagFlagRolloutTestStaticBool13": "False",
     "DFFlagFlagRolloutTestDynamicBool0": "False",
+    "DFFlagVisBugFixMissingMesh_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-18T19:06:21",
+    "DFFlagVisBugFixCrashOnSO_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-18T19:06:41",
+    "DFFlagVisBugFixMaxRecusionCheck_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-18T19:06:46",
+    "DFFlagVisBugFixClipNear_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2024-12-18T19:06:53",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -10666,8 +10670,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "8c9bb436780c01d54f8ad8671839a65890bfc767",
-    "DFStringFlagRepoGitHashDynamicString": "8c9bb436780c01d54f8ad8671839a65890bfc767",
-    "FStringFlipTimeStampFastString": "2024-12-18T00:17:05.527Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-18T00:17:05.527Z"
+    "FStringFlagRepoGitHashFastString": "dfd857abf1c8c3dda095537fd88881ad37ce6d99",
+    "DFStringFlagRepoGitHashDynamicString": "dfd857abf1c8c3dda095537fd88881ad37ce6d99",
+    "FStringFlipTimeStampFastString": "2024-12-18T19:09:28.812Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-18T19:09:28.812Z"
 }
