@@ -10011,6 +10011,7 @@
     "DFFlagVisBugFixMaxRecusionCheck": "True",
     "DFFlagVisBugFixMissingMesh": "True",
     "DFFlagUseVisBugChecks": "True",
+    "FStringGraphicsGLSyncWorkaroundForVendorGPUDriver_Staged": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*;SteadyState;10;30;Rollout;100;30;Promote;2024-12-19T19:44:35",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -10067,8 +10068,8 @@
     "FFlagLuaAppEnableControlUnplayable": "True",
     "FFlagAddJoinAttemptId": "True",
     "FFlagRoduxPerfTrackerFixStopTracking": "True",
-    "FStringFlagRepoGitHashFastString": "ca8d26d9ad7f3bf2010275eef81fe0d525101f1b",
-    "DFStringFlagRepoGitHashDynamicString": "ca8d26d9ad7f3bf2010275eef81fe0d525101f1b",
-    "FStringFlipTimeStampFastString": "2024-12-19T01:22:07.660Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-19T01:22:07.660Z"
+    "FStringFlagRepoGitHashFastString": "2e78d1eac7c15fca8d293eb63ab38abcdfce17df",
+    "DFStringFlagRepoGitHashDynamicString": "2e78d1eac7c15fca8d293eb63ab38abcdfce17df",
+    "FStringFlipTimeStampFastString": "2024-12-19T19:45:32.451Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-19T19:45:32.451Z"
 }
