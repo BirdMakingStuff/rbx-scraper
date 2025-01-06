@@ -9367,6 +9367,8 @@
     "FFlagFlagRolloutTestStaticBool7": "False",
     "FFlagFlagRolloutTestStaticBool8": "True",
     "FFlagFlagRolloutTestStaticBool9": "False",
+    "FFlagContentFeedInspectAndBuySetupEnabled2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T17:17:47",
+    "FFlagUseSkyReadyState_Staged": "True;SteadyState;10;30;Revert;2025-01-06T17:24:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10481,6 +10483,8 @@
     "DFFlagSimRemoveRecursionsForDeepTrees_PlaceFilter": "True;166986752",
     "DFFlagSimAeroEnableYieldInMeshProcessing": "True",
     "FFlagLuaStartPageFetchUniverseDataInLua": "True",
+    "FFlagCOLLAB6176PlaceAnnotationsStudio2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T17:10:32",
+    "DFFlagSafeAssignJointWorld_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T17:28:50",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -10670,8 +10674,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "c01d60e937aba3d6cb7f38c5e04bf30008b159ca",
-    "DFStringFlagRepoGitHashDynamicString": "c01d60e937aba3d6cb7f38c5e04bf30008b159ca",
-    "FStringFlipTimeStampFastString": "2024-12-28T21:34:39.727Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-28T21:34:39.727Z"
+    "FStringFlagRepoGitHashFastString": "457460241152207873fe08b3a3d0299241e88f7f",
+    "DFStringFlagRepoGitHashDynamicString": "457460241152207873fe08b3a3d0299241e88f7f",
+    "FStringFlipTimeStampFastString": "2025-01-06T17:29:24.493Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T17:29:24.493Z"
 }

@@ -184,6 +184,7 @@
     "FFlagAddJoinAttemptId": "True",
     "FFlagPassDownSquadExpInvGameOrigin": "True",
     "FFlagEnableLauncherGuard2": "True",
+    "DFFlagSafeAssignJointWorld_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T17:28:50",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -196,8 +197,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "c01d60e937aba3d6cb7f38c5e04bf30008b159ca",
-    "DFStringFlagRepoGitHashDynamicString": "c01d60e937aba3d6cb7f38c5e04bf30008b159ca",
-    "FStringFlipTimeStampFastString": "2024-12-28T21:34:39.727Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-28T21:34:39.727Z"
+    "FStringFlagRepoGitHashFastString": "457460241152207873fe08b3a3d0299241e88f7f",
+    "DFStringFlagRepoGitHashDynamicString": "457460241152207873fe08b3a3d0299241e88f7f",
+    "FStringFlipTimeStampFastString": "2025-01-06T17:29:24.493Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T17:29:24.493Z"
 }
