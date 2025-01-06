@@ -9372,7 +9372,7 @@
     "FFlagVariantMessageContentsTableToVector": "True",
     "FFlagUseSkyReadyState": "True",
     "FFlagFixAltKeyInputUWP": "True",
-    "FFlagClientToastNotificationsEnabled2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T21:31:28",
+    "FFlagClientToastNotificationsEnabled2": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -9587,8 +9587,10 @@
     "DFFlagVisBugFixMissingMesh": "True",
     "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045;292439477;17017769292",
     "DFFlagSafeAssignJointWorld": "True",
-    "FStringFlagRepoGitHashFastString": "89500bbe745726395d0b76abcfdc739c5622522f",
-    "DFStringFlagRepoGitHashDynamicString": "89500bbe745726395d0b76abcfdc739c5622522f",
-    "FStringFlipTimeStampFastString": "2025-01-06T21:32:35.751Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-06T21:32:35.751Z"
+    "FFlagBlockingConsolePreparePaymentCheck_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T22:22:31",
+    "FFlagDragDetectorRestartAfterPermissionChangeFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T22:28:25",
+    "FStringFlagRepoGitHashFastString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
+    "DFStringFlagRepoGitHashDynamicString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
+    "FStringFlipTimeStampFastString": "2025-01-06T22:36:48.187Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T22:36:48.187Z"
 }

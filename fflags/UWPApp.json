@@ -9372,7 +9372,7 @@
     "FFlagVariantMessageContentsTableToVector": "True",
     "FFlagUseSkyReadyState": "True",
     "FFlagFixAltKeyInputUWP": "True",
-    "FFlagClientToastNotificationsEnabled2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T21:31:28",
+    "FFlagClientToastNotificationsEnabled2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9591,8 +9591,8 @@
     "DFIntPathfindingSlowRasterizeTileReportRatePerRequest": "10",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
     "DFFlagFlagRolloutTestDynamicBool3": "True",
-    "FStringFlagRepoGitHashFastString": "89500bbe745726395d0b76abcfdc739c5622522f",
-    "DFStringFlagRepoGitHashDynamicString": "89500bbe745726395d0b76abcfdc739c5622522f",
-    "FStringFlipTimeStampFastString": "2025-01-06T21:32:35.751Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-06T21:32:35.751Z"
+    "FStringFlagRepoGitHashFastString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
+    "DFStringFlagRepoGitHashDynamicString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
+    "FStringFlipTimeStampFastString": "2025-01-06T22:36:48.187Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T22:36:48.187Z"
 }
