@@ -10492,7 +10492,9 @@
     "FFlagStudioInternalWaitForLongProcessButton": "True",
     "FFlagLuaAppDisallowEmptySearch": "True",
     "FFlagLuaAppAlignGameGridTable": "True",
-    "FFlagDragDetectorRestartAfterPermissionChangeFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T22:28:25",
+    "FFlagNewOptimizeNoCollisionPrimitiveInMidphase653_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T22:46:14",
+    "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T23:01:05",
+    "FFlagDragDetectorRestartAfterPermissionChangeFix": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -10658,6 +10660,7 @@
     "DFFlagVisBugFixCrashOnSO": "True",
     "DFFlagVisBugFixMaxRecusionCheck": "True",
     "DFFlagVisBugFixMissingMesh": "True",
+    "FFlagFixShowMusicFtuxTooltipWithoutConnect_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T23:22:54",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -10681,8 +10684,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
-    "DFStringFlagRepoGitHashDynamicString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
-    "FStringFlipTimeStampFastString": "2025-01-06T22:36:48.187Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-06T22:36:48.187Z"
+    "FStringFlagRepoGitHashFastString": "e230f382c2d214a436228f71685080ef747f672b",
+    "DFStringFlagRepoGitHashDynamicString": "e230f382c2d214a436228f71685080ef747f672b",
+    "FStringFlipTimeStampFastString": "2025-01-06T23:31:34.538Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T23:31:34.538Z"
 }

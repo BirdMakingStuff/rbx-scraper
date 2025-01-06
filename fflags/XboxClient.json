@@ -9717,9 +9717,10 @@
     "DFFlagVisBugFixMissingMesh": "True",
     "DFFlagUseVisBugChecks_PlaceFilter": "True;7208091524;7902470429;10489114145;9872472334;8481844229;299659045;292439477;17017769292",
     "DFFlagSafeAssignJointWorld": "True",
-    "FFlagDragDetectorRestartAfterPermissionChangeFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T22:28:25",
-    "FStringFlagRepoGitHashFastString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
-    "DFStringFlagRepoGitHashDynamicString": "b6003a8087d3f70d50a373ca4d59bd2416066923",
-    "FStringFlipTimeStampFastString": "2025-01-06T22:36:48.187Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-06T22:36:48.187Z"
+    "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T23:01:05",
+    "FFlagDragDetectorRestartAfterPermissionChangeFix": "True",
+    "FStringFlagRepoGitHashFastString": "e230f382c2d214a436228f71685080ef747f672b",
+    "DFStringFlagRepoGitHashDynamicString": "e230f382c2d214a436228f71685080ef747f672b",
+    "FStringFlipTimeStampFastString": "2025-01-06T23:31:34.538Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T23:31:34.538Z"
 }
