@@ -9372,6 +9372,7 @@
     "FFlagVariantMessageContentsTableToVector": "True",
     "FFlagUseSkyReadyState": "True",
     "FFlagFixAltKeyInputUWP": "True",
+    "FFlagClientToastNotificationsEnabled2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T21:31:28",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -9632,6 +9633,7 @@
     "DFFlagVisBugFixMissingMesh": "True",
     "DFFlagSafeAssignJointWorld": "True",
     "FFlagLuaAppDisallowEmptySearch": "True",
+    "FFlagLuaAppAlignGameGridTable_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T21:01:24",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10011,8 +10013,12 @@
     "FFlagFixCanGoBackForPop": "True",
     "FFlagEnablePeekViewFocusNav_PlaceFilter": "False;15308759682",
     "DFFlagSimAeroEnableYieldInMeshProcessing": "True",
-    "FStringFlagRepoGitHashFastString": "b3c9a4a632fe37594b6c13f589cb3a93aae20f16",
-    "DFStringFlagRepoGitHashDynamicString": "b3c9a4a632fe37594b6c13f589cb3a93aae20f16",
-    "FStringFlipTimeStampFastString": "2025-01-06T20:31:50.198Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-06T20:31:50.198Z"
+    "FFlagCevIdleTimeoutTelemetry_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T20:39:01",
+    "DFIntCevIdleTimeoutTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T20:49:57",
+    "DFIntPCSCEVLaunchFeasibilityThrottleHundredthsPercent": "10000",
+    "FFlagPCSCEVFeasibieAnalytics_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-06T21:21:52",
+    "FStringFlagRepoGitHashFastString": "89500bbe745726395d0b76abcfdc739c5622522f",
+    "DFStringFlagRepoGitHashDynamicString": "89500bbe745726395d0b76abcfdc739c5622522f",
+    "FStringFlipTimeStampFastString": "2025-01-06T21:32:35.751Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T21:32:35.751Z"
 }
