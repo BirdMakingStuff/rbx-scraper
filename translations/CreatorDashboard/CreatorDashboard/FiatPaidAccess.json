@@ -29,5 +29,7 @@
     "Description.PaymentSetup": "To receive payments, the experience or group owner must create a Tipalti account. Instructions will be sent to the verified email of the account within 5-8 business days. Having trouble? {supportLinkStart}Contact support.{supportLinkEnd}",
     "Action.Cancel": "Cancel",
     "Error.RequestFailed": "Your request failed. Please try again later.",
-    "Error.FieldRequired": "This field is required."
+    "Error.FieldRequired": "This field is required.",
+    "Action.Close": "Close",
+    "Action.Retry": "Retry"
 }
