@@ -9372,6 +9372,8 @@
     "FFlagUseSkyReadyState": "True",
     "FFlagFixAltKeyInputUWP": "True",
     "FFlagClientToastNotificationsEnabled2": "True",
+    "FFlagCapturesHotkeyEnabledForAll_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T17:54:25",
+    "FFlagShowUpdatedScreenshotHotkey_v2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T17:56:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10040,8 +10042,9 @@
     "FFlagDragDetectorRestartAfterPermissionChangeFix": "True",
     "FFlagFixShowMusicFtuxTooltipWithoutConnect": "True",
     "FFlagAXNewItemGroupIncrementalHydration2": "True",
-    "FStringFlagRepoGitHashFastString": "d1f87c6f78c8e55fbe898a66c2023afd740e2cc4",
-    "DFStringFlagRepoGitHashDynamicString": "d1f87c6f78c8e55fbe898a66c2023afd740e2cc4",
-    "FStringFlipTimeStampFastString": "2025-01-07T17:24:03.769Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-07T17:24:03.769Z"
+    "FFlagSongbirdFixMobileReportAudioPopup_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T17:56:34",
+    "FStringFlagRepoGitHashFastString": "b4a808de2442127d9fd3945feefa2f1680af4acc",
+    "DFStringFlagRepoGitHashDynamicString": "b4a808de2442127d9fd3945feefa2f1680af4acc",
+    "FStringFlipTimeStampFastString": "2025-01-07T18:43:47.812Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-07T18:43:47.812Z"
 }
