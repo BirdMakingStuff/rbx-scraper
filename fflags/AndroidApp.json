@@ -9374,8 +9374,8 @@
     "FFlagCapturesHotkeyEnabledForAll": "True",
     "FFlagShowUpdatedScreenshotHotkey_v2": "True",
     "FIntWaitForChildOfClassTimeout": "2",
-    "DFIntTelemetryCacheSlowWriteThresholdMs_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T22:07:41",
-    "DFIntTelemetryCacheSlowReadThresholdMs_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T22:07:49",
+    "DFIntTelemetryCacheSlowReadThresholdMs": "100",
+    "DFIntTelemetryCacheSlowWriteThresholdMs": "100",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10051,8 +10051,8 @@
     "FFlagEnablePartyVoiceOnlyForEligibleUsers": "True",
     "FFlagEnablePartyVoiceOnlyForUnfilteredThreads": "True",
     "DFIntRbxStorageDBMaxCapacityMB": "1024",
-    "FStringFlagRepoGitHashFastString": "a09c885df5d1dbed5be68bcd9bf06d04307dde09",
-    "DFStringFlagRepoGitHashDynamicString": "a09c885df5d1dbed5be68bcd9bf06d04307dde09",
-    "FStringFlipTimeStampFastString": "2025-01-07T22:36:01.196Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-07T22:36:01.196Z"
+    "FStringFlagRepoGitHashFastString": "f520c5f0b7d8aa9d8832b66dc13ab9ef1dcad83a",
+    "DFStringFlagRepoGitHashDynamicString": "f520c5f0b7d8aa9d8832b66dc13ab9ef1dcad83a",
+    "FStringFlipTimeStampFastString": "2025-01-07T23:22:37.981Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-07T23:22:37.981Z"
 }
