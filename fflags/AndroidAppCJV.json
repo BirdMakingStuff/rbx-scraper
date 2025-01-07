@@ -9372,8 +9372,8 @@
     "FFlagUseSkyReadyState": "True",
     "FFlagFixAltKeyInputUWP": "True",
     "FFlagClientToastNotificationsEnabled2": "True",
-    "FFlagCapturesHotkeyEnabledForAll_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T17:54:25",
-    "FFlagShowUpdatedScreenshotHotkey_v2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T17:56:31",
+    "FFlagCapturesHotkeyEnabledForAll": "True",
+    "FFlagShowUpdatedScreenshotHotkey_v2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10037,7 +10037,8 @@
     "FFlagFixShowMusicFtuxTooltipWithoutConnect": "True",
     "FFlagVideoAndroidHardwareTurnOnModelFilter": "True",
     "FFlagAXNewItemGroupIncrementalHydration2": "True",
-    "FFlagSongbirdFixMobileReportAudioPopup_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T17:56:34",
+    "FFlagUpdateReportModalForAudio_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T18:58:17",
+    "FFlagSongbirdFixMobileReportAudioPopup": "True",
     "FFlagEnableMaterialGenerator": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -10065,8 +10066,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "b4a808de2442127d9fd3945feefa2f1680af4acc",
-    "DFStringFlagRepoGitHashDynamicString": "b4a808de2442127d9fd3945feefa2f1680af4acc",
-    "FStringFlipTimeStampFastString": "2025-01-07T18:43:47.812Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-07T18:43:47.812Z"
+    "FStringFlagRepoGitHashFastString": "c96e9ebae2b59da5783a93fbcdf8bac2ebe9c684",
+    "DFStringFlagRepoGitHashDynamicString": "c96e9ebae2b59da5783a93fbcdf8bac2ebe9c684",
+    "FStringFlipTimeStampFastString": "2025-01-07T19:17:42.509Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-07T19:17:42.509Z"
 }
