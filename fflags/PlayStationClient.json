@@ -9376,6 +9376,9 @@
     "FIntWaitForChildOfClassTimeout": "2",
     "DFIntTelemetryCacheSlowReadThresholdMs": "100",
     "DFIntTelemetryCacheSlowWriteThresholdMs": "100",
+    "FFlagStudioRenderingSettingsViewMode_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-08T17:10:40",
+    "FFlagRenderPerformanceOverlay_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-08T17:18:57",
+    "DFIntReportContextActionServiceBindEventsHundrethsPercent_Staged": "100;SteadyState;10;30;Revert;2025-01-08T17:26:44",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -9594,8 +9597,8 @@
     "FFlagDragDetectorRestartAfterPermissionChangeFix": "True",
     "FFlagUseLifecycleManagerPSPlatform": "True",
     "FFlagAXMigrateToRobloxTelemetryApi": "True",
-    "FStringFlagRepoGitHashFastString": "aeca7fa482962f70a215d032d88168311524e9ea",
-    "DFStringFlagRepoGitHashDynamicString": "aeca7fa482962f70a215d032d88168311524e9ea",
-    "FStringFlipTimeStampFastString": "2025-01-08T00:42:08.402Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-08T00:42:08.402Z"
+    "FStringFlagRepoGitHashFastString": "5f0fda375b45c2aa10e1e4401751b0948d93bf37",
+    "DFStringFlagRepoGitHashDynamicString": "5f0fda375b45c2aa10e1e4401751b0948d93bf37",
+    "FStringFlipTimeStampFastString": "2025-01-08T17:32:25.260Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-08T17:32:25.260Z"
 }

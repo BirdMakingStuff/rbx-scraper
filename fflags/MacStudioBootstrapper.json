@@ -168,7 +168,7 @@
     "FFlagMacPersonalizedInstallerEnabled2": "True",
     "FFlagWinPersonalizedInstallerEnabled2": "True",
     "FIntWin78ClientDeprecationLevel": "2",
-    "FIntWin78ClientDeprecationMessageFrequencySeconds": "79200",
+    "FIntWin78ClientDeprecationMessageFrequencySeconds": "60",
     "FIntWin78DeprecationEpochTimestamp": "1736964000",
     "FFlagDeprecateWin78": "True",
     "FFlagAbuseReportMenuConsoleSupportRefactor": "True",
@@ -200,8 +200,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "aeca7fa482962f70a215d032d88168311524e9ea",
-    "DFStringFlagRepoGitHashDynamicString": "aeca7fa482962f70a215d032d88168311524e9ea",
-    "FStringFlipTimeStampFastString": "2025-01-08T00:42:08.402Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-08T00:42:08.402Z"
+    "FStringFlagRepoGitHashFastString": "5f0fda375b45c2aa10e1e4401751b0948d93bf37",
+    "DFStringFlagRepoGitHashDynamicString": "5f0fda375b45c2aa10e1e4401751b0948d93bf37",
+    "FStringFlipTimeStampFastString": "2025-01-08T17:32:25.260Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-08T17:32:25.260Z"
 }
