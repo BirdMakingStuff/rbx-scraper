@@ -216,5 +216,8 @@
     "Heading.PaidAccess": "Paid Access",
     "Description.EligibilitySettings": "Creators who want to distribute priced assets, public audio, or paid experiences must submit eligibility forms",
     "Heading.Reorder": "Reorder",
-    "Heading.Databases": "Databases"
+    "Heading.Databases": "Databases",
+    "Label.AvatarItems": "Avatar Items",
+    "Label.DeveloperProducts": "Developer Products",
+    "Label.GamePasses": "Passes"
 }
