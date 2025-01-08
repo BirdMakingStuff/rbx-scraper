@@ -1219,7 +1219,7 @@
     "DFStringCrashUploadToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post",
     "FLogDataModelPatchConfigurer": "6",
     "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
-    "FStringIxpNewLayersForRegistration": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage.Exposure,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice",
+    "FStringIxpNewLayersForRegistration": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,AvatarMarketplace.WidgetPlatform,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage.Exposure,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features",
     "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
     "DFIntStudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2": "1000",
     "FIntStudioLexMapChangeDocAnalyticsPerKeystrokeThrottleHundredthsPercent": "100",
@@ -10078,8 +10078,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "f520c5f0b7d8aa9d8832b66dc13ab9ef1dcad83a",
-    "DFStringFlagRepoGitHashDynamicString": "f520c5f0b7d8aa9d8832b66dc13ab9ef1dcad83a",
-    "FStringFlipTimeStampFastString": "2025-01-07T23:22:37.981Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-07T23:22:37.981Z"
+    "FStringFlagRepoGitHashFastString": "aeca7fa482962f70a215d032d88168311524e9ea",
+    "DFStringFlagRepoGitHashDynamicString": "aeca7fa482962f70a215d032d88168311524e9ea",
+    "FStringFlipTimeStampFastString": "2025-01-08T00:42:08.402Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-08T00:42:08.402Z"
 }
