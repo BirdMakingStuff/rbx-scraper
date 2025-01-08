@@ -435,5 +435,7 @@
     "Description.ReleasedAfterDispute": "Released after dispute",
     "Label.SubmitClaim": "Submit claims",
     "Error.UnsupportedLinkType": "Rights Manager does not currently support claiming game passes, badges or communities. Please file a request at {copyrightEmail} instead.",
-    "Description.DisputeReasonOther": "Other"
+    "Description.DisputeReasonOther": "Other",
+    "Label.TOSUpdateAcknowledgement": "To continue using Rights Manager, please select \"I agree\" to agree to our updated terms below. If you are a minor, please show this to your parent or guardian. Please review the updated {tosLinkStart}Rights Manager Terms{tosLinkEnd}.",
+    "Label.IAgree": "I Agree"
 }
