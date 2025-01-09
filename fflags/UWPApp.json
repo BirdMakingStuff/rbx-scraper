@@ -9400,7 +9400,7 @@
     "FFlagExpChatFixDuplicateOnScreenKeyboard1": "True",
     "FFlagStudioDocumentContext": "True",
     "DFFlagMemoryTrackingSafeReset": "True",
-    "FFlagEnableWebViewProtocolV24": "True",
+    "FFlagEnableWebViewProtocolV24": "False",
     "DFFlagHttpFixOsErrno": "True",
     "FFlagStudioHelpMenuTourAction2": "True",
     "DFFlagEditableMeshRenderingFixBBox": "True",
@@ -9420,6 +9420,11 @@
     "FFlagAXEditorShowDetailsButtonVR": "True",
     "FFlagAXUpdateOutfitAssetThumbnails": "True",
     "FFlagPublishAvatarPromptEnabledAllPlatforms": "True",
+    "FFlagEnumIndexingExtra_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T17:03:38",
+    "FFlagCompactShadowChange_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T17:08:30",
+    "FFlagNavigationFixInvalidPolyRef_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T17:18:39",
+    "FFlagEnableChromeAudioFocusManagement_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T17:20:42",
+    "FFlagLuauVectorDefinitionsExtra_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T17:32:37",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -9637,8 +9642,8 @@
     "DFIntPathfindingSlowRasterizeTileReportRatePerRequest": "10",
     "FFlagTaskSchedulerRescheduleAsBackground": "True",
     "DFFlagFlagRolloutTestDynamicBool3": "True",
-    "FStringFlagRepoGitHashFastString": "e4d74dff59c34b6f10889fa65ea8a1df6168f3c0",
-    "DFStringFlagRepoGitHashDynamicString": "e4d74dff59c34b6f10889fa65ea8a1df6168f3c0",
-    "FStringFlipTimeStampFastString": "2025-01-09T01:56:57.497Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-09T01:56:57.497Z"
+    "FStringFlagRepoGitHashFastString": "a481b1c90a6c4e19d1fa2a6fb9563275dafb2747",
+    "DFStringFlagRepoGitHashDynamicString": "a481b1c90a6c4e19d1fa2a6fb9563275dafb2747",
+    "FStringFlipTimeStampFastString": "2025-01-09T17:33:15.918Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-09T17:33:15.918Z"
 }
