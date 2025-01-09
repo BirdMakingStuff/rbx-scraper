@@ -534,5 +534,8 @@
     "Action.Update": "Update",
     "Action.Create": "Create",
     "Label.EEThumbnailAltText": "Preview of uploaded thumbnail",
-    "Button.Reorder": "Reorder"
+    "Button.Reorder": "Reorder",
+    "Heading.Table.Passes": "Passes",
+    "Heading.Table.CurrentPrices": "Current Price",
+    "Heading.Table.RegionalPricing": "Regional Pricing"
 }
