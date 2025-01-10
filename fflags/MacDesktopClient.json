@@ -9484,6 +9484,9 @@
     "DFIntRbxStorageInitHundredthsPercent": "1000",
     "FFlagACEDeferClearMicrobones": "True",
     "DFFlagSafeAssignJointWorld": "True",
+    "FFlagEditableMeshRenderingOnBind_Staged": "True;SteadyState;10;30;Revert;2025-01-10T17:20:47",
+    "FFlagLuauUserTypeFunThreadBuffer_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-10T17:32:26",
+    "FFlagLuauErrorRecoveryForClassNames_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-10T17:33:29",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -10099,8 +10102,8 @@
     "FFlagEnablePeekViewFocusNav_PlaceFilter": "False;15308759682",
     "DFFlagSimAeroEnableYieldInMeshProcessing": "True",
     "DFFlagLogMissingDataPing1": "True",
-    "FStringFlagRepoGitHashFastString": "0b6eeea164fff622c6e39b9c757c921c3048dc99",
-    "DFStringFlagRepoGitHashDynamicString": "0b6eeea164fff622c6e39b9c757c921c3048dc99",
-    "FStringFlipTimeStampFastString": "2025-01-10T01:57:13.789Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-10T01:57:13.789Z"
+    "FStringFlagRepoGitHashFastString": "74b6bea685b3366c2db69e0e4e95d9735e8333da",
+    "DFStringFlagRepoGitHashDynamicString": "74b6bea685b3366c2db69e0e4e95d9735e8333da",
+    "FStringFlipTimeStampFastString": "2025-01-10T17:34:02.852Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-10T17:34:02.852Z"
 }
