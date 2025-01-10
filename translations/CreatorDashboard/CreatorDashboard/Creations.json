@@ -537,5 +537,8 @@
     "Button.Reorder": "Reorder",
     "Heading.Table.Passes": "Passes",
     "Heading.Table.CurrentPrices": "Current Price",
-    "Heading.Table.RegionalPricing": "Regional Pricing"
+    "Heading.Table.RegionalPricing": "Regional Pricing",
+    "Button.Enable": "Enable",
+    "Button.BulkEnable": "Bulk Enable",
+    "Message.Copied": "Copied!"
 }
