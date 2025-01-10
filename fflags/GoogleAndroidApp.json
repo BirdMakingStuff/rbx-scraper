@@ -9483,12 +9483,12 @@
     "DFIntRbxStorageInitHundredthsPercent": "500",
     "FFlagACEDeferClearMicrobones": "True",
     "DFFlagSafeAssignJointWorld": "True",
-    "FFlagVideoWebmUseBipBuffer6_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-10T18:07:41",
-    "FFlagEditableMeshRenderingOnBind_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-10T18:12:00",
     "FFlagLuauErrorRecoveryForClassNames": "True",
     "FFlagLuauUserTypeFunThreadBuffer": "True",
-    "FFlagLuaAppPlayButtonUpdates2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-10T18:39:42",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
+    "FFlagVideoWebmUseBipBuffer6": "True",
+    "FFlagEditableMeshRenderingOnBind": "True",
+    "FFlagPutPluginActorVmCountBehindStudioDef_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-10T19:29:54",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10264,8 +10264,8 @@
     "FFlagAXAnimatedLooksThumbnails": "True",
     "FFlagAXDisableWidgetHydrationCacheForLooks": "True",
     "FFlagReshufflePartyIconsInUnibar": "True",
-    "FStringFlagRepoGitHashFastString": "73717fd01e6045fba0548e5af8ff67bc0dd38c76",
-    "DFStringFlagRepoGitHashDynamicString": "73717fd01e6045fba0548e5af8ff67bc0dd38c76",
-    "FStringFlipTimeStampFastString": "2025-01-10T18:40:53.314Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-10T18:40:53.314Z"
+    "FStringFlagRepoGitHashFastString": "e1b2c0c8af78ccafba58fadebe057c2b5209effc",
+    "DFStringFlagRepoGitHashDynamicString": "e1b2c0c8af78ccafba58fadebe057c2b5209effc",
+    "FStringFlipTimeStampFastString": "2025-01-10T19:30:46.647Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-10T19:30:46.647Z"
 }
