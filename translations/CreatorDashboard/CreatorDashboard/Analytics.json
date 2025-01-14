@@ -970,5 +970,6 @@
     "Label.Metric.ShareLinkQualifiedUniqueUsersWithPlaySessions": "Unique Users With Qualified Plays",
     "Label.Metric.ShareLinkUniqueUsersWithClicks": "Users with Detail Page Visits",
     "Label.Metric.ShareLinkUniqueUsersWithPlaySessions": "Unique Users with Plays",
-    "Label.Dimension.CampaignName": "Campaign Name"
+    "Label.Dimension.CampaignName": "Campaign Name",
+    "Action.Arize": "Find in Arize"
 }

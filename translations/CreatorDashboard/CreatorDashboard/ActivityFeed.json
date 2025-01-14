@@ -204,5 +204,6 @@
     "Description.RecurringPayoutsConfigured": "{groupName}'s recurring payouts was updated",
     "Description.ExperiencePublished": "{experienceName} was published",
     "Description.AssetUploaded": "{assetName} was uploaded",
-    "Description.CompletedQuestionnaireMaturity": "Maturity & Compliance Questionnaire was updated"
+    "Description.CompletedQuestionnaireMaturity": "Maturity & Compliance Questionnaire was updated",
+    "Label.FilterOptionOrganization": "Organization"
 }
