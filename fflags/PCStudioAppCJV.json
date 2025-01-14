@@ -10670,7 +10670,7 @@
     "FFlagStudioMoveDisableUserPluginCliArg": "True",
     "FFlagAXMigrateToRobloxTelemetryApi": "True",
     "DFIntPropertyUsageEventThrottleHundredthsPercent": "500",
-    "FFlagStudioReworkPluginUnloading": "True",
+    "FFlagStudioReworkPluginUnloading": "False",
     "FFlagMaterialPickerRenameGrabsMouseProp": "True",
     "FFlagDevFrameworkMaterialPickerRenameGrabsMouseProp": "True",
     "FFlagLuaStartPageFixTutorialPopupBackground": "True",
@@ -10687,7 +10687,6 @@
     "FFlagFixCancellableDialogResizing": "True",
     "FFlagAvatarPreviewerSendTelemetryCounter": "True",
     "FFlagStudioSendVisualizationModeCounter": "True",
-    "FFlagStudioReworkPluginUnloading_Staged": "False;SteadyState;10;30;Rollout;100;30;Promote;2025-01-14T00:52:52",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -10884,8 +10883,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "4701042abc888029dafda6ff920f692f55609db1",
-    "DFStringFlagRepoGitHashDynamicString": "4701042abc888029dafda6ff920f692f55609db1",
-    "FStringFlipTimeStampFastString": "2025-01-14T01:40:38.973Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-14T01:40:38.973Z"
+    "FStringFlagRepoGitHashFastString": "5ff476c91d4d72a0c6b0f9b541eb14924790bfd8",
+    "DFStringFlagRepoGitHashDynamicString": "5ff476c91d4d72a0c6b0f9b541eb14924790bfd8",
+    "FStringFlipTimeStampFastString": "2025-01-14T02:41:56.014Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-14T02:41:56.014Z"
 }
