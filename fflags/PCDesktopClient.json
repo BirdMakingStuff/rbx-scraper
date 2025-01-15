@@ -9634,7 +9634,10 @@
     "DFFlagAndroidMajorFaultsRateTelemetry": "True",
     "DFIntLightgridAsyncChunkContextCount": "8",
     "FFlagSkipInvalidDescriptor": "True",
+    "AllowVideoPreRoll": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FIntReactMicroprofilerLevel2_Staged": "1;SteadyState;10;30;Rollout;100;30;Promote;2025-01-15T17:26:54",
+    "FFlagRefactorChromeAssert_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-15T17:29:17",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
@@ -9884,7 +9887,6 @@
     "FFlagAXFixSocialItemDeepLinkToEditor": "True",
     "FFlagAXCarouselCanvasWidthFix": "True",
     "FFlagAXUseNewItemGroupWidgetComponent2": "True",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -10249,8 +10251,8 @@
     "FFlagCapturesAddLegacyVideoRecordingLogging_v2": "True",
     "FFlagPoseDataToSkeleton": "True",
     "FFlagEnableDMNotificationMonitor": "True",
-    "FStringFlagRepoGitHashFastString": "8f68a14c4dcdcb0e92172471885af73a9aeea9c9",
-    "DFStringFlagRepoGitHashDynamicString": "8f68a14c4dcdcb0e92172471885af73a9aeea9c9",
-    "FStringFlipTimeStampFastString": "2025-01-15T01:51:44.799Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-15T01:51:44.799Z"
+    "FStringFlagRepoGitHashFastString": "6c5ba6678bde0e94b57e228fa1a858875f04d1a8",
+    "DFStringFlagRepoGitHashDynamicString": "6c5ba6678bde0e94b57e228fa1a858875f04d1a8",
+    "FStringFlipTimeStampFastString": "2025-01-15T17:30:26.107Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-15T17:30:26.107Z"
 }
