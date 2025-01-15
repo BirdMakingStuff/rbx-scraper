@@ -212,8 +212,8 @@
     "DeprecatedOSXMajorVersion": "10",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "ee5380dbacc04096aedc8f48de7c2d44bad2d692",
-    "DFStringFlagRepoGitHashDynamicString": "ee5380dbacc04096aedc8f48de7c2d44bad2d692",
-    "FStringFlipTimeStampFastString": "2025-01-15T22:35:56.019Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-15T22:35:56.019Z"
+    "FStringFlagRepoGitHashFastString": "29687e956b4d4072b25905b8ff3595b43b60613f",
+    "DFStringFlagRepoGitHashDynamicString": "29687e956b4d4072b25905b8ff3595b43b60613f",
+    "FStringFlipTimeStampFastString": "2025-01-15T23:35:14.832Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-15T23:35:14.832Z"
 }
