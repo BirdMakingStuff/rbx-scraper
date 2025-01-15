@@ -7,7 +7,7 @@
     "Label.ProductPreference": "Make sharing data the default when publishing paid Creator Store Items (excluding plugins)",
     "Description.Experiences": "Our goal is to make Roblox the best place for creating engaging experiences with the help of AI. Contribute your experience (Rbxl file) with us to help us build and improve our AI-based tools such as Assistant and Code Assist.",
     "Description.Bundles": "Our goal is to provide amazing AI-powered tools to help accelerate avatar and NPC creation. Contribute your Avatars to help us build and improve AI tools that can aid your creation process.",
-    "Description.Products": "Your free model, mesh, and image data available publicly on the Creator Store are used to power Roblox's development of creation tools that accelerate development for our community. Contribute your paid model data to AI training to help create even more powerful systems to help you in your workstreams.",
+    "Description.Products": "Your free Model, MeshPart, and Decal data available publicly on the Creator Store are used to power Roblox's development of creation tools that accelerate development for our community. Contribute your paid model data to AI training to help create even more powerful systems to help you in your workstreams.",
     "Description.PublicLuau": "Our goal is to make Luau a first-class programming language and ensure that existing and future AI tools understand Luau. Only a fraction of your contributed code (<30%), will be compiled and aggregated into an open source-available data set for training of AI models.",
     "Tab.Experiences": "Experiences",
     "Tab.Bundles": "Avatar Items",
@@ -49,5 +49,5 @@
     "Column.Status": "Shared status",
     "Message.SharedStatus": "Shared",
     "Message.UnsharedStatus": "Unshared",
-    "Description.Products2": "Your free model, mesh, and image data available publicly on the Creator Store are used to power Roblox's development of creation tools that accelerate development for our community. Contribute your paid model data ({linkStart}coming soon{linkEnd}) to AI training to help create even more powerful systems to help you in your workstreams."
+    "Description.Products2": "Your free Model, MeshPart, and Decal data available publicly on the Creator Store are used to power Roblox's development of creation tools that accelerate development for our community. Contribute your paid model data ({linkStart}coming soon{linkEnd}) to AI training to help create even more powerful systems to help you in your workstreams."
 }

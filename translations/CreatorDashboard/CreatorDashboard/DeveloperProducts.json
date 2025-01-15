@@ -38,5 +38,8 @@
     "ErrorImageUpload.InternalAssetUploadTookTooLong": "Image asset took too long to create. Please try again later.",
     "Error.UnsupportedDeveloperProductUpdate": "Updates for this developer product are not supported.",
     "Error.ThumbnailRequiredForDetailsPage": "An image thumbnail is required when selling a product on the Experience Details Store. Add an image to save changes.",
+    "Heading.FeatureActivation": "Feature Activation",
+    "Label.EnableTestMode": "Enable Test Mode",
+    "Label.DisableTestMode": "Disable Test Mode",
     "Label.Continue": "Continue"
 }
