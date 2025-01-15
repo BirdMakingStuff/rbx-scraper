@@ -190,6 +190,7 @@
     "FFlagAXMigrateToRobloxTelemetryApi": "True",
     "FFlagWinInstallerCheckCRCBeforeUnzip": "True",
     "FFlagAXFixSocialItemDeepLinkToEditor": "True",
+    "FIntWin78ClientDeprecationLevel_Staged": "3;SteadyState;10;30;Rollout;100;30;Promote;2025-01-15T18:25:37",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -202,8 +203,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "6c5ba6678bde0e94b57e228fa1a858875f04d1a8",
-    "DFStringFlagRepoGitHashDynamicString": "6c5ba6678bde0e94b57e228fa1a858875f04d1a8",
-    "FStringFlipTimeStampFastString": "2025-01-15T17:30:26.107Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-15T17:30:26.107Z"
+    "FStringFlagRepoGitHashFastString": "5c863fdb724f3db6d035f03cc3c7b46057f18e83",
+    "DFStringFlagRepoGitHashDynamicString": "5c863fdb724f3db6d035f03cc3c7b46057f18e83",
+    "FStringFlipTimeStampFastString": "2025-01-15T18:36:11.211Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-15T18:36:11.211Z"
 }
