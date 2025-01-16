@@ -971,5 +971,9 @@
     "Label.Metric.ShareLinkUniqueUsersWithClicks": "Users with Detail Page Visits",
     "Label.Metric.ShareLinkUniqueUsersWithPlaySessions": "Unique Users with Plays",
     "Label.Dimension.CampaignName": "Campaign Name",
-    "Action.Arize": "Find in Arize"
+    "Action.Arize": "Find in Arize",
+    "Label.ViewByChannels": "Channels",
+    "Label.ViewBy": "View by",
+    "Label.ViewByExternalLinks": "External Links",
+    "Warning.ShareLinkCampaignExcluded": "*Excludes new users that haven’t reached a sufficient number of days for metric"
 }
