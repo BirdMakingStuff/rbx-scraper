@@ -9692,6 +9692,9 @@
     "FFlagAXAbuseReportCategoryStringFix": "True",
     "FFlagEnableContentUrlForAssetDependencies": "True",
     "FFlagEnableDrawProjectionImage3": "True",
+    "FFlagPluginManagementFixBlankPage_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T18:02:59",
+    "FFlagStudioCalloutName_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T18:03:02",
+    "DFFlagAvatarClothingAndDecalTelemetry2_Staged": "True;SteadyState;10;30;Revert;2025-01-16T18:26:04",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -9939,6 +9942,7 @@
     "DFFlagRakNetMissingPing2": "True",
     "FFlagAXCarouselCanvasWidthFix": "True",
     "FFlagAXUseNewItemGroupWidgetComponent2": "True",
+    "FFlagLuaAppFixOmniFeedRefreshEffect_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T17:36:47",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10302,8 +10306,8 @@
     "DFFlagSimAeroEnableYieldInMeshProcessing": "True",
     "DFFlagLogMissingDataPing1": "True",
     "FFlagCapturesAddLegacyVideoRecordingLogging_v2": "True",
-    "FStringFlagRepoGitHashFastString": "95648cd0ac483371a5e0d2199146aa1310e7d554",
-    "DFStringFlagRepoGitHashDynamicString": "95648cd0ac483371a5e0d2199146aa1310e7d554",
-    "FStringFlipTimeStampFastString": "2025-01-16T01:57:03.711Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-16T01:57:03.711Z"
+    "FStringFlagRepoGitHashFastString": "555c94da2234f2190569b6348f62ac7873d1f4ed",
+    "DFStringFlagRepoGitHashDynamicString": "555c94da2234f2190569b6348f62ac7873d1f4ed",
+    "FStringFlipTimeStampFastString": "2025-01-16T18:28:35.476Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-16T18:28:35.476Z"
 }
