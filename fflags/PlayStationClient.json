@@ -9720,9 +9720,9 @@
     "FFlagReportFFAutomationFlagsIOS": "True",
     "FFlagVideoCaptureServiceWinFixMetricsCrash": "True",
     "PassThroughTrimMemoryLevel": "true",
-    "FFlagAnimationTrackPlayProcessessLoopedAndPriority2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-17T19:47:59",
-    "FFlagHighlightingEffectManagerPerf_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-17T19:54:09",
     "FFlagRequiredScriptsCodeAssist": "True",
+    "FFlagAnimationTrackPlayProcessessLoopedAndPriority2": "True",
+    "FFlagHighlightingEffectManagerPerf": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -9927,8 +9927,8 @@
     "FFlagAXMigrateToRobloxTelemetryApi": "True",
     "DFFlagUseVisBugChecks": "True",
     "DFIntRbxStorageDBMaxCapacityMB": "900",
-    "FStringFlagRepoGitHashFastString": "df8164dc00fffa1f3fdad6a4e86b43203a85bd5a",
-    "DFStringFlagRepoGitHashDynamicString": "df8164dc00fffa1f3fdad6a4e86b43203a85bd5a",
-    "FStringFlipTimeStampFastString": "2025-01-17T20:29:00.093Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-17T20:29:00.093Z"
+    "FStringFlagRepoGitHashFastString": "10603b7ed412f3e79e63d5266ff5acb98a4a8284",
+    "DFStringFlagRepoGitHashDynamicString": "10603b7ed412f3e79e63d5266ff5acb98a4a8284",
+    "FStringFlipTimeStampFastString": "2025-01-17T20:57:21.662Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-17T20:57:21.662Z"
 }
