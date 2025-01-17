@@ -971,7 +971,7 @@
     "Label.Metric.ShareLinkUniqueUsersWithClicks": "Users with Detail Page Visits",
     "Label.Metric.ShareLinkUniqueUsersWithPlaySessions": "Unique Users with Plays",
     "Label.Dimension.CampaignName": "Campaign Name",
-    "Action.Arize": "Find in Arize",
+    "Action.Arize": "Debug Report",
     "Label.ViewByChannels": "Channels",
     "Label.ViewBy": "View by",
     "Label.ViewByExternalLinks": "External Links",

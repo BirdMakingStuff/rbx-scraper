@@ -437,5 +437,9 @@
     "Error.UnsupportedLinkType": "Rights Manager does not currently support claiming game passes, badges or communities. Please file a request at {copyrightEmail} instead.",
     "Description.DisputeReasonOther": "Other",
     "Label.TOSUpdateAcknowledgement": "To continue using Rights Manager, please select \"I agree\" to agree to our updated terms below. If you are a minor, please show this to your parent or guardian. Please review the updated {tosLinkStart}Rights Manager Terms{tosLinkEnd}.",
-    "Label.IAgree": "I Agree"
+    "Label.IAgree": "I Agree",
+    "Description.CharacterCount": "{count}/{max} characters",
+    "Error.TooManyCharacters": "Exceed maximum character count of {max}.",
+    "Heading.AccountDisabled": "Access to Rights Manager has been suspended",
+    "Description.AccountDisabled": "Your access has been suspended due to a violation of our policies and {tosLinkStart}Terms of Use{tosLinkEnd}. Roblox respects the intellectual property rights of others and asks that creators do the same by ensuring that they have permission from the owner for any copyrighted or trademarked content."
 }
