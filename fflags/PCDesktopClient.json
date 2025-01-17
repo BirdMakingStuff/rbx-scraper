@@ -2734,7 +2734,6 @@
     "FIntMmapForMemProfStorageThrottle": "10000",
     "FFlagStudioOnboardingTutorialEligibility": "True",
     "FFlagDragDetectorIsEnabledForPlayerChecksIsEnabled": "True",
-    "FFlagStudioDoNotBakeDraftsIntoServerRbxl": "True",
     "FFlagSimCSG3TelemetryConstraints": "True",
     "FFlagSessionRemoveJYFSessionsOnGameLeave": "True",
     "FFlagLuaAppHomeJoinYourFriendsSession": "True",
@@ -9721,9 +9720,9 @@
     "FFlagReportFFAutomationFlagsIOS": "True",
     "FFlagVideoCaptureServiceWinFixMetricsCrash": "True",
     "PassThroughTrimMemoryLevel": "true",
-    "FFlagAvatarMemoryTracking2": "True",
-    "FFlagRequiredScriptsCodeAssist_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-17T19:23:01",
-    "FFlagHighlightingEffectManagerPerf_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-17T19:30:57",
+    "FFlagAnimationTrackPlayProcessessLoopedAndPriority2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-17T19:47:59",
+    "FFlagHighlightingEffectManagerPerf_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-17T19:54:09",
+    "FFlagRequiredScriptsCodeAssist": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -10333,8 +10332,8 @@
     "DFFlagSimAeroEnableYieldInMeshProcessing": "True",
     "DFFlagLogMissingDataPing1": "True",
     "FFlagCapturesAddLegacyVideoRecordingLogging_v2": "True",
-    "FStringFlagRepoGitHashFastString": "17e6f1efcdee07fc2fcff91af6550271cb34ae73",
-    "DFStringFlagRepoGitHashDynamicString": "17e6f1efcdee07fc2fcff91af6550271cb34ae73",
-    "FStringFlipTimeStampFastString": "2025-01-17T19:33:10.129Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-17T19:33:10.129Z"
+    "FStringFlagRepoGitHashFastString": "df8164dc00fffa1f3fdad6a4e86b43203a85bd5a",
+    "DFStringFlagRepoGitHashDynamicString": "df8164dc00fffa1f3fdad6a4e86b43203a85bd5a",
+    "FStringFlipTimeStampFastString": "2025-01-17T20:29:00.093Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-17T20:29:00.093Z"
 }
