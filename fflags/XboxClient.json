@@ -9790,10 +9790,12 @@
     "FFlagStudio3dViewFocusOnCreateConstraint2": "True",
     "FFlagRobloxTelemetryUseEventIngestBatchEvent22": "True",
     "FFlagImproveRequireParameterType": "True",
-    "FFlagCIAmpUpsellEnabledForAll_v1_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-22T20:56:06",
     "FFlagAutocompleteRequirePathSuggestions2": "True",
     "FFlagRequireByStringAutocompleteEnabled2": "True",
     "FFlagVideoFixIsPreparedRace": "True",
+    "FFlagUpdateEdpSocialMediaIcon_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-22T21:49:09",
+    "FFlagCIAmpUpsellEnabledForAll_v1": "True",
+    "FFlagVideoVisibilityConsidersFrameSize2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-22T22:24:40",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10129,8 +10131,8 @@
     "DFFlagVisBugFixBlockTelemetry": "True",
     "DFFlagVisBugFixCylinderSpecialMeshScale": "True",
     "DFFlagVisBugFixVR": "True",
-    "FStringFlagRepoGitHashFastString": "1e3c1124d7e0783e47efc28e450db3dca496d115",
-    "DFStringFlagRepoGitHashDynamicString": "1e3c1124d7e0783e47efc28e450db3dca496d115",
-    "FStringFlipTimeStampFastString": "2025-01-22T21:32:45.868Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-22T21:32:45.868Z"
+    "FStringFlagRepoGitHashFastString": "7b95902d7962c6ce2346ff00a86fdad0d1fcdce0",
+    "DFStringFlagRepoGitHashDynamicString": "7b95902d7962c6ce2346ff00a86fdad0d1fcdce0",
+    "FStringFlipTimeStampFastString": "2025-01-22T22:32:05.740Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-22T22:32:05.740Z"
 }
