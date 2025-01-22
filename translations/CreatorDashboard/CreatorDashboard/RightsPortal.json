@@ -441,5 +441,5 @@
     "Description.CharacterCount": "{count}/{max} characters",
     "Error.TooManyCharacters": "Exceed maximum character count of {max}.",
     "Heading.AccountDisabled": "Access to Rights Manager has been suspended",
-    "Description.AccountDisabled": "Your access to Rights Manager has been suspended due to a misuse of Roblox systems which is a violation of our {CSLinkStart}Community Standards{CSLinkEnd} and the {TOSLinkStart}Rights Manager Terms of Use{TOSLinkEnd}. If you find content that you believe infringes on your intellectual property rights you may still report it to us using the instructions contained in the {RobloxTOSLinkStart}Roblox Terms of Use{RobloxTOSLinkEnd}."
+    "Description.AccountDisabled": "Your access to Rights Manager has been suspended due to a misuse of Roblox systems which is a violation of our {CSLinkStart}Community Standards{CSLinkEnd} and the {TOSLinkStart}Rights Manager Terms of Use{TOSLinkEnd}.  If you find content that you believe infringes on your intellectual property rights you may still report it to us using the instructions contained in the {RobloxTOSLinkStart}Roblox Terms of Use{RobloxTOSLinkEnd}. To appeal this decision, email copyright_agent@roblox.com with the subject line \"Rights Manager Access.\""
 }
