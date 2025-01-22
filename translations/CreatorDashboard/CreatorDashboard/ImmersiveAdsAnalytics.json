@@ -124,5 +124,9 @@
     "Description.VerifyOwnerTwoStepDetails": "Community owner must enable 2-Step Verification for community-owned experiences to serve immersive ads.  Copy the 2-Step verification link and share with the community owner to complete.",
     "Description.AccountUnder18": "Your account shows you are under 18 years old",
     "Description.AccountUnder18Details": "Experience owner or community owner must be at least 18 years old and ID verified for community-owned experiences to serve immersive ads.",
-    "Description.VerifyContentMaturityQuestionnaire": "Complete the Maturity & Compliance Questionnaire"
+    "Description.VerifyContentMaturityQuestionnaire": "Complete the Maturity & Compliance Questionnaire",
+    "Heading.ImmersivePortal": "Immersive Portal",
+    "Heading.ImmersiveImage": "Immersive Image",
+    "Heading.ImmersiveVideo": "Immersive Video",
+    "Title.TotalImmersiveVideoViews": "Total Immersive Video Views"
 }

@@ -281,7 +281,7 @@
     "Description.Metrics.ShortTermRevenueV2": "Revenue earned on products during the test period.",
     "Description.Metrics.TotalPlaytimeV2": "Total time spent in this experience by users during the test period.",
     "Description.PriceReviewSummary.ActiveV2": "Optimized prices for tested products are under review for {numWeeks} weeks",
-    "Description.PriceReviewSummary.CompletedV2": "Optimized prices performed better than the original prices during the {numWeeks}-week price period, confirming our price recommendation. Optimized prices have been applied to all users.",
+    "Description.PriceReviewSummary.CompletedV2": "Optimized prices performed better than the original prices during the {numWeeks}-week price review period, confirming our price recommendation. Optimized prices have been applied to all users.",
     "Description.RecommendLowerPriceV2": "We recommend lowering your prices by {priceStart}{priceEnd} to see a {revenueStart}{revenueEnd} increase in revenue over the next {numWeeks} weeks. Apply the price changes today (with an optional price review period) or you can decline the results and start again.",
     "Description.RecommendRaisePriceV2": "We recommend raising your prices by {priceStart}{priceEnd} to see a {revenueStart}{revenueEnd} increase in revenue over the next {numWeeks} weeks. Apply the price changes today (with an optional price review period) or you can decline the results and start again.",
     "Description.Timeline.BeginHoldoutV2": "The optional, ~{numWeeks} week price review period checks if the new prices perform as expected. {linkStart}Learn more{linkEnd}",

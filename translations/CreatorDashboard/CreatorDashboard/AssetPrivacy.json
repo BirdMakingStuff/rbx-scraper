@@ -22,8 +22,8 @@
     "Description.WhenOptedIn": "When opted in, all assets are restricted on creation. You will have the ability to change privacy for most assets.",
     "Label.OptedIn": "Opted in",
     "Label.OptedOut": "Opted out",
-    "List.OnlyRestrictedAssetTypes": "Audio, Video, Model, Package, Animation",
-    "List.FlexibleAssetTypes": "Image, Decal, Mesh, MeshPart",
+    "List.OnlyRestrictedAssetTypes": "Audio, Video, Model, Package, MeshPart, Animation",
+    "List.FlexibleAssetTypes": "Image, Decal, Mesh",
     "Label.AvatarItem": "Avatar Item",
     "Action.GotIt": "Got it"
 }
