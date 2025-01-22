@@ -9745,7 +9745,6 @@
     "FFlagAXDisableBundleTrade": "True",
     "FFlagAXEnableCollectiblePurchaseInfoParamRefactor": "True",
     "FFlagFCUpdateNormalsOnlyForLCs": "True",
-    "FFlagEnablePlatformSocialGraphSync1": "True",
     "FFlagInExperienceMenuCanvasGroupsInvisible": "True",
     "FFlagAXEnableItemOwnershipPageResellableFix": "True",
     "FFlagAXEnableSelectItemPromptRefactor": "True",
@@ -11082,8 +11081,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "676079014350ac4a70b90897c1e61fc0b8437ae6",
-    "DFStringFlagRepoGitHashDynamicString": "676079014350ac4a70b90897c1e61fc0b8437ae6",
-    "FStringFlipTimeStampFastString": "2025-01-22T01:17:29.423Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-22T01:17:29.423Z"
+    "FStringFlagRepoGitHashFastString": "4e957fbaeba12e0929ed09cbcf6825deeb820dee",
+    "DFStringFlagRepoGitHashDynamicString": "4e957fbaeba12e0929ed09cbcf6825deeb820dee",
+    "FStringFlipTimeStampFastString": "2025-01-22T02:10:40.594Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-22T02:10:40.594Z"
 }
