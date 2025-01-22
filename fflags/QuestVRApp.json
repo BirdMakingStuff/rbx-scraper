@@ -9634,7 +9634,6 @@
     "FIntReactMicroprofilerLevel2": "1",
     "FFlagRemoveSubMenuTopBarConstants": "True",
     "FFlagLCCheckCageDimNonSkinnedNonUniform": "True",
-    "FFlagRemoveKDTree2_IXP": "1;Portal.FFlagRemoveKDTree2;FFlagRemoveKDTree2;719251750;flagbank",
     "FFlagLegacyAccessoryCheckCategory": "True",
     "FFlagLuauVectorFolding": "True",
     "DFFlagMicroprofilerThreadSearch": "True",
@@ -9773,6 +9772,10 @@
     "FFlagNoHashingScalingValues": "True",
     "FFlagFixGameTileViewActivatedCallback": "True",
     "FStringRewardedVideoAdsUniverseIdAllowlist": "1202096104,184199275,2549475383,4908792642,5422546686",
+    "FFlagNavigationUseBuildImprovedRegions4_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-22T17:09:00",
+    "FFlagPathfindingUseImprovedSearch4_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-22T17:09:00",
+    "FFlagEnableHideSystemCardLocalUserAvatar_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-22T17:24:12",
+    "FFlagRenderChatConversationOnlyWhenVisible_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-22T17:25:03",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10471,8 +10474,8 @@
     "FFlagRoduxPerfTrackerFixStopTracking": "True",
     "FFlagEnableConsolePreparePaymentCheck": "True",
     "FFlagAXFixMySharedAvatarMutedError": "True",
-    "FStringFlagRepoGitHashFastString": "4e957fbaeba12e0929ed09cbcf6825deeb820dee",
-    "DFStringFlagRepoGitHashDynamicString": "4e957fbaeba12e0929ed09cbcf6825deeb820dee",
-    "FStringFlipTimeStampFastString": "2025-01-22T02:10:40.594Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-22T02:10:40.594Z"
+    "FStringFlagRepoGitHashFastString": "27ca2dc9ab97686d09d97777d960e887022cf93c",
+    "DFStringFlagRepoGitHashDynamicString": "27ca2dc9ab97686d09d97777d960e887022cf93c",
+    "FStringFlipTimeStampFastString": "2025-01-22T17:25:52.971Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-22T17:25:52.971Z"
 }
