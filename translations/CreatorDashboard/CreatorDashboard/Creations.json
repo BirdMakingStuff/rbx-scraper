@@ -553,5 +553,11 @@
     "Label.Enabled": "Enabled",
     "Label.Disabled": "Disabled",
     "Label.PriceOptimization": "Price Optimization",
-    "Heading.PriceOptimization": "Price Optimization"
+    "Heading.PriceOptimization": "Price Optimization",
+    "Label.DynamicPriceCheck": "Dynamic Price Check",
+    "Label.EEStartTime": "Start Time",
+    "Label.EEEndTime": "End Time",
+    "Label.EEEnded": "Ended",
+    "Action.CopyEventID": "Copy Event ID",
+    "Tooltip.EECopyEventID": "Use the event ID in Studio to specify unique join behaviors"
 }
