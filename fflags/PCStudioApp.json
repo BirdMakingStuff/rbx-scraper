@@ -9801,7 +9801,7 @@
     "DFStringRobloxTelemetryReliabilityCountAllowList": "perfdata,PerformanceControl",
     "FFlagAXBuyButtonRefactor3": "True",
     "FFlagRobloxTelemetryEnableHttpSignals": "True",
-    "FIntStaticFlagsVersionCounter_Staged": "5;SteadyState;10;30;Rollout;100;30;SteadyState;100;30;Promote;2025-01-23T01:13:41",
+    "FIntStaticFlagsVersionCounter": "5",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10930,6 +10930,11 @@
     "FFlagEnableRewardedVideoInAdService15": "True",
     "DFFlagNavigationAnalyticsAddPlaceId": "True",
     "FFlagLuauIncrementalAutocompleteCommentDetection": "True",
+    "DFFlagEnableLuaAdPlayer_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+    "DFFlagEnableStudioTestRewardedAds_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+    "DFFlagVideoFrameSupportAdsVideo_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+    "FStringEnableStudioTestingRewardedVideoAdsPlayerAllowList_Staged": "1202096104,184199275,2549475383,4908792642,5422546686;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+    "FStringStudioTestRewardedVideoAdAssetUrl_Staged": "rbxassetid://77013990375904;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -11116,8 +11121,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "3562dcf9eb9ce58175333990b5ce47fd2e7102ca",
-    "DFStringFlagRepoGitHashDynamicString": "3562dcf9eb9ce58175333990b5ce47fd2e7102ca",
-    "FStringFlipTimeStampFastString": "2025-01-23T01:51:43.937Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-23T01:51:43.937Z"
+    "FStringFlagRepoGitHashFastString": "c414efbdac1ddd63ca94488c8c19a5c1f43b174d",
+    "DFStringFlagRepoGitHashDynamicString": "c414efbdac1ddd63ca94488c8c19a5c1f43b174d",
+    "FStringFlipTimeStampFastString": "2025-01-23T02:55:55.591Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-23T02:55:55.591Z"
 }
