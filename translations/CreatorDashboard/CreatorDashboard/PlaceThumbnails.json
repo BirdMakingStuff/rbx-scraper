@@ -127,5 +127,7 @@
     "Label.ConfirmDeleteActiveHomepageThumbnail": "Are you sure you want to delete this active thumbnail? This action cannot be undone.\nTraffic will shift to your remaining active thumbnails. Your active thumbnail data will not reset.",
     "Label.WaitTilUploadFinishes": "Wait until upload finishes",
     "Action.EditAltText": "Edit alt text",
-    "Description.NoAltTextAllowed": "The AltText for an image thumbnail can only be modified in the start place."
+    "Description.NoAltTextAllowed": "The AltText for an image thumbnail can only be modified in the start place.",
+    "Title.ConfirmTestNewThumbnailsWithinAWeek": "Are you sure you want to start a new test?",
+    "Description.ConfirmTestNewThumbnailsWithinAWeek": "We recommend waiting at least 7 days between tests as your best thumbnail can change over time with user preferences."
 }
