@@ -10468,9 +10468,10 @@
     "FFlagAXFixWearAfterTryOnOwnedBundles": "True",
     "FFlagReportMeshesUploadTelemetry": "True",
     "FIntMobileAdvertisingIdCacheDurationInSeconds": "86400",
-    "FFlagSendMobileAdvertisingIdEnabledAndroid_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-24T17:43:51",
-    "FStringFlagRepoGitHashFastString": "2e7d0bdf7edf8caad3b7633cc77bfde4cebba40e",
-    "DFStringFlagRepoGitHashDynamicString": "2e7d0bdf7edf8caad3b7633cc77bfde4cebba40e",
-    "FStringFlipTimeStampFastString": "2025-01-24T18:27:14.640Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-24T18:27:14.640Z"
+    "FFlagSendMobileAdvertisingIdEnabledAndroid": "True",
+    "FFlagSendMobileAdvertisingIdEnabled_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-24T18:46:28",
+    "FStringFlagRepoGitHashFastString": "ccab86ea827f4f575eb86de205cfa80208c8e295",
+    "DFStringFlagRepoGitHashDynamicString": "ccab86ea827f4f575eb86de205cfa80208c8e295",
+    "FStringFlipTimeStampFastString": "2025-01-24T19:23:50.577Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-24T19:23:50.577Z"
 }

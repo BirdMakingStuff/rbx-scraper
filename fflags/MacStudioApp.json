@@ -10965,10 +10965,11 @@
     "FIntStudioStartPageBridgeTaskTimeout": "6000",
     "FFlagExplorerIncrementNamesNoSpace": "True",
     "FFlagStudioConfigureStartPageBridgeTaskTimeout": "True",
-    "DFFlagSkipInaccessiblePropDesc2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-24T17:49:22",
-    "DFFlagSkipCapabilityBasedPropDesc_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-24T17:50:18",
     "DFIntRewardedVideoAvailabilityErrorEventThrottleHundrethsPercent": "10000",
     "FFlagShowChatButtonWhenChatForceOpened": "True",
+    "FFlagLuaStartPageTeamCreateStatus_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-24T18:48:53",
+    "DFFlagSkipCapabilityBasedPropDesc": "True",
+    "DFFlagSkipInaccessiblePropDesc2": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagShorelinesRemoveDialog": "True",
@@ -11157,8 +11158,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "2e7d0bdf7edf8caad3b7633cc77bfde4cebba40e",
-    "DFStringFlagRepoGitHashDynamicString": "2e7d0bdf7edf8caad3b7633cc77bfde4cebba40e",
-    "FStringFlipTimeStampFastString": "2025-01-24T18:27:14.640Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-24T18:27:14.640Z"
+    "FStringFlagRepoGitHashFastString": "ccab86ea827f4f575eb86de205cfa80208c8e295",
+    "DFStringFlagRepoGitHashDynamicString": "ccab86ea827f4f575eb86de205cfa80208c8e295",
+    "FStringFlipTimeStampFastString": "2025-01-24T19:23:50.577Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-24T19:23:50.577Z"
 }
