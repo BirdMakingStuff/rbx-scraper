@@ -9780,7 +9780,6 @@
     "FFlagRequireByStringErrorImprovements": "True",
     "FFlagUseBubbleChatBillboardV4": "True",
     "FFlagStudio3dViewFocusOnCreateConstraint2": "True",
-    "FFlagRobloxTelemetryUseEventIngestBatchEvent22": "True",
     "FFlagImproveRequireParameterType": "True",
     "FFlagAutocompleteRequirePathSuggestions2": "True",
     "FFlagRequireByStringAutocompleteEnabled2": "True",
@@ -11133,7 +11132,7 @@
     "DFFlagRenderMeshBulkUploadEnable": "True",
     "FFlagCheckShouldShowJoinVoiceInEvent": "True",
     "FFlagReportMeshesUploadTelemetry": "True",
-    "FFlagLuaAppFixSponsoredGridTile_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-24T19:51:46",
+    "FFlagLuaAppFixSponsoredGridTile": "True",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": "True",
@@ -11166,8 +11165,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "26a927bcf781af75728bc2bae476a6000d991ff5",
-    "DFStringFlagRepoGitHashDynamicString": "26a927bcf781af75728bc2bae476a6000d991ff5",
-    "FStringFlipTimeStampFastString": "2025-01-24T20:26:55.566Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-24T20:26:55.566Z"
+    "FStringFlagRepoGitHashFastString": "a8bda96c1d5717751873bce2786308cfe8cc4789",
+    "DFStringFlagRepoGitHashDynamicString": "a8bda96c1d5717751873bce2786308cfe8cc4789",
+    "FStringFlipTimeStampFastString": "2025-01-24T21:28:29.011Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-24T21:28:29.011Z"
 }
