@@ -11134,10 +11134,9 @@
     "FFlagEnableOtpEmailLoginRelease1": "True",
     "DFFlagRenderMeshBulkUploadEnable": "True",
     "FFlagCheckShouldShowJoinVoiceInEvent": "True",
-    "FFlagAXFixWearAfterTryOnOwnedBundles": "True",
+    "FFlagAXFixWearAfterTryOnOwnedBundles": "False",
     "FFlagReportMeshesUploadTelemetry": "True",
     "FFlagLuaAppFixSponsoredGridTile": "True",
-    "FFlagAXFixWearAfterTryOnOwnedBundles_Rollout": "False;60;2025-01-24T22:54:53",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -11158,8 +11157,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "9dd67187802a37ef1dff6c0361fdefe19eab2338",
-    "DFStringFlagRepoGitHashDynamicString": "9dd67187802a37ef1dff6c0361fdefe19eab2338",
-    "FStringFlipTimeStampFastString": "2025-01-24T22:55:26.413Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-24T22:55:26.413Z"
+    "FStringFlagRepoGitHashFastString": "9d597f793e47767a56897b50d2a06665eed31478",
+    "DFStringFlagRepoGitHashDynamicString": "9d597f793e47767a56897b50d2a06665eed31478",
+    "FStringFlipTimeStampFastString": "2025-01-24T23:57:18.968Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-24T23:57:18.968Z"
 }
