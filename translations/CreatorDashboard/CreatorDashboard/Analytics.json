@@ -975,5 +975,7 @@
     "Label.ViewByChannels": "Channels",
     "Label.ViewBy": "View by",
     "Label.ViewByExternalLinks": "External Links",
-    "Warning.ShareLinkCampaignExcluded": "*Excludes new users that haven’t reached a sufficient number of days for metric"
+    "Warning.ShareLinkCampaignExcluded": "*Excludes new users that haven’t reached a sufficient number of days for metric",
+    "Title.Table.ThumbnailAssetId": "Thumbnail asset id",
+    "Description.Table.ThumbnailAssetId": "Thumbnail asset id column, only visible for internal roles"
 }

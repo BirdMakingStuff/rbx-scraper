@@ -560,5 +560,8 @@
     "Label.EEEnded": "Ended",
     "Action.CopyEventID": "Copy Event ID",
     "Tooltip.EECopyEventID": "Use the event ID in Studio to specify unique join behaviors",
-    "Tooltip.More": "More"
+    "Tooltip.More": "More",
+    "Action.EEChangeToPrivate": "Change to private",
+    "Action.EEChangeToPublic": "Change to public",
+    "Action.Edit": "Edit"
 }

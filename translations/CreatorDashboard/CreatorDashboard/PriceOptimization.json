@@ -97,7 +97,7 @@
     "Heading.TestState.HoldoutActive": "Price review period is active until {endDate}",
     "Message.TestState.HoldoutActive": "Your tested products are currently in a 4 week Price Review period.",
     "Heading.TestState.HoldoutComplete": "Price review period ended on {endDate}",
-    "Message.TestState.HoldoutComplete": "Price updates will be applied to your products on the scheduled date.",
+    "Message.TestState.HoldoutComplete": "Optimized prices have been applied to your products for all users.",
     "Action.ValidatePrices": "Validate prices",
     "Message.TestError": "Please start the test again. If the problem continues, please contact {linkStart}support{linkEnd}.",
     "Action.ApplyPrices": "Review & Apply prices",
