@@ -9816,6 +9816,9 @@
     "FFlagFixTextureSwapping": "True",
     "DFFlagInternalExportAllowCSGDecomp2": "True",
     "FFlagSongbirdFixReportModalShownBehavior": "True",
+    "DFIntPartyVoiceLaunchFlowTelemetryThrottle_Staged": "10000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T17:43:36",
+    "FFlagPartyVoiceSidFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T17:47:59",
+    "FFlagPartyVoiceIdleDontReconnect": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -10075,6 +10078,7 @@
     "FFlagReportMeshesUploadTelemetry": "True",
     "FFlagShowChatButtonWhenChatForceOpened": "True",
     "FFlagLuaAppFixSponsoredGridTile": "True",
+    "FFlagUIDragDetectorFixFrameDestroyCrashOnDragEnd_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T18:25:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10441,8 +10445,8 @@
     "DFFlagArrayTyping": "True",
     "FFlagAXFixWearAfterTryOnOwnedBundles": "False",
     "FFlagSurfaceControllerUseDMLock": "True",
-    "FStringFlagRepoGitHashFastString": "b4d336dbf329fccae5a5f227d82744a6b604608d",
-    "DFStringFlagRepoGitHashDynamicString": "b4d336dbf329fccae5a5f227d82744a6b604608d",
-    "FStringFlipTimeStampFastString": "2025-01-27T17:33:07.890Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-27T17:33:07.890Z"
+    "FStringFlagRepoGitHashFastString": "f236ec04e93c924e3742594610ae345416afa50a",
+    "DFStringFlagRepoGitHashDynamicString": "f236ec04e93c924e3742594610ae345416afa50a",
+    "FStringFlipTimeStampFastString": "2025-01-27T18:42:09.562Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-27T18:42:09.562Z"
 }

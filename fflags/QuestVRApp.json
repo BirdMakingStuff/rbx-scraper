@@ -9816,6 +9816,9 @@
     "FFlagFixTextureSwapping": "True",
     "DFFlagInternalExportAllowCSGDecomp2": "True",
     "FFlagSongbirdFixReportModalShownBehavior": "True",
+    "DFIntPartyVoiceLaunchFlowTelemetryThrottle_Staged": "10000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T17:43:36",
+    "FFlagPartyVoiceSidFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T17:47:59",
+    "FFlagPartyVoiceIdleDontReconnect": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10525,8 +10528,9 @@
     "FFlagAXFixMySharedAvatarMutedError": "True",
     "FFlagAddDuaFriendCarouselImpressions": "True",
     "FFlagLuaAppFixSponsoredGridTile": "True",
-    "FStringFlagRepoGitHashFastString": "b4d336dbf329fccae5a5f227d82744a6b604608d",
-    "DFStringFlagRepoGitHashDynamicString": "b4d336dbf329fccae5a5f227d82744a6b604608d",
-    "FStringFlipTimeStampFastString": "2025-01-27T17:33:07.890Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-27T17:33:07.890Z"
+    "FFlagSquadToastNotificationsEnabledAmazon_Staged": "False;SteadyState;10;30;Revert;2025-01-27T18:40:59",
+    "FStringFlagRepoGitHashFastString": "f236ec04e93c924e3742594610ae345416afa50a",
+    "DFStringFlagRepoGitHashDynamicString": "f236ec04e93c924e3742594610ae345416afa50a",
+    "FStringFlipTimeStampFastString": "2025-01-27T18:42:09.562Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-27T18:42:09.562Z"
 }

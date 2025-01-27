@@ -9816,6 +9816,9 @@
     "FFlagFixTextureSwapping": "True",
     "DFFlagInternalExportAllowCSGDecomp2": "True",
     "FFlagSongbirdFixReportModalShownBehavior": "True",
+    "FFlagPartyVoiceIdleDontReconnect_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T17:38:28",
+    "DFIntPartyVoiceLaunchFlowTelemetryThrottle_Staged": "10000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T17:43:36",
+    "FFlagPartyVoiceSidFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T17:47:59",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -10071,6 +10074,7 @@
     "FFlagReportMeshesUploadTelemetry": "True",
     "FFlagShowChatButtonWhenChatForceOpened": "True",
     "FFlagLuaAppFixSponsoredGridTile": "True",
+    "FFlagUIDragDetectorFixFrameDestroyCrashOnDragEnd_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T18:25:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10428,8 +10432,8 @@
     "FFlagPhysicalPropertiesRBXArrayToStdArray": "True",
     "FFlagAddDuaFriendCarouselImpressions": "True",
     "FFlagLuaAppRemoveEventsSessionFromEdp": "True",
-    "FStringFlagRepoGitHashFastString": "b4d336dbf329fccae5a5f227d82744a6b604608d",
-    "DFStringFlagRepoGitHashDynamicString": "b4d336dbf329fccae5a5f227d82744a6b604608d",
-    "FStringFlipTimeStampFastString": "2025-01-27T17:33:07.890Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-27T17:33:07.890Z"
+    "FStringFlagRepoGitHashFastString": "f0ec01703f706f634d7d1e3ac71fd2f09a1dd99e",
+    "DFStringFlagRepoGitHashDynamicString": "f0ec01703f706f634d7d1e3ac71fd2f09a1dd99e",
+    "FStringFlipTimeStampFastString": "2025-01-27T18:41:53.975Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-27T18:41:53.975Z"
 }
