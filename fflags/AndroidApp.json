@@ -9829,8 +9829,9 @@
     "DFFlagSTFSMUpdateAppVersion": "True",
     "FFlagVideoCapturesMetadataLoadingFix": "True",
     "FFlagGuiObjectIsOverUseRect2D2": "True",
-    "FFlagSimCSG3PreserveAttachmentsNoConstraints2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-28T18:04:00",
     "FFlagImproveChangeHistoryAttachPerf": "True",
+    "FFlagSimCSG3PreserveAttachmentsNoConstraints2": "True",
+    "FFlagAXDisableAlwaysRenderedScreensIXP2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-28T19:15:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10482,8 +10483,10 @@
     "FIntMobileAdvertisingIdCacheDurationInSeconds": "86400",
     "FFlagSendMobileAdvertisingIdEnabledAndroid": "True",
     "FFlagSendMobileAdvertisingIdEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "070194e215e672e169622b0f941680b7ba501809",
-    "DFStringFlagRepoGitHashDynamicString": "070194e215e672e169622b0f941680b7ba501809",
-    "FStringFlipTimeStampFastString": "2025-01-28T18:22:01.251Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-28T18:22:01.251Z"
+    "EnableGMASDKFeatureDeliveryAndroid3": "true",
+    "EnableNativeAdsProtocolAndroid3": "true",
+    "FStringFlagRepoGitHashFastString": "366d2201eb3b093abedf6290ae24eef1fb02c380",
+    "DFStringFlagRepoGitHashDynamicString": "366d2201eb3b093abedf6290ae24eef1fb02c380",
+    "FStringFlipTimeStampFastString": "2025-01-28T19:15:59.487Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-28T19:15:59.487Z"
 }
