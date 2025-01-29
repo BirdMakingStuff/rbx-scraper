@@ -135,5 +135,6 @@
     "Heading.Ads": "Ads",
     "Title.ImmersiveVideoViews": "Immersive Video Views",
     "Title.ImmersiveImageImpressions": "Immersive Image Impressions",
-    "Description.OverviewImpressionsSummary": "Total number of impressions generated from video, image and portal ad units in this experience. Impressions from portal ads do not contribute to earnings."
+    "Description.OverviewImpressionsSummary": "Total number of impressions generated from video, image and portal ad units in this experience. Impressions from portal ads do not contribute to earnings.",
+    "Description.ImagePortalRewardedImpressionsSummary": "Total number of impressions generated from rewarded video ads, immersive image ads and immersive portal ads in this experience over the specified time period (this excludes any impressions generated from immersive video ads)."
 }
