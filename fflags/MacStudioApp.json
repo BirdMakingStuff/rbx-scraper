@@ -9597,7 +9597,7 @@
     "FFlagFixUnibarResizing": "True",
     "FFlagAppNavSimplification": "True",
     "FFlagStyleRulePriorityOrderRefactor": "False",
-    "FFlagProfilePlatformFixFriendsAttribution": "True",
+    "FFlagProfilePlatformFixFriendsAttribution": "False",
     "FFlagAXShowRefinementButtonAvatarWidget4": "True",
     "FFlagProfileQRCodePageScrollable": "True",
     "FFlagSmoothClusterTaskPauseFix": "True",
@@ -11149,7 +11149,6 @@
     "FIntSQLiteCacheSizePages": "4096",
     "DFFlagRakNetMissingPing2": "True",
     "FFlagAXCarouselCanvasWidthFix": "True",
-    "FFlagAXUseNewItemGroupWidgetComponent2": "True",
     "FFlagInExperienceInterventionTimeoutConfig": "True",
     "DFFlagOptimizePropertyGetSet": "True",
     "FFlagCapturesOpenInVideos": "True",
@@ -11189,8 +11188,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "539b27ad5485d242fc3602b38aca4d2e701777ba",
-    "DFStringFlagRepoGitHashDynamicString": "539b27ad5485d242fc3602b38aca4d2e701777ba",
-    "FStringFlipTimeStampFastString": "2025-01-28T23:31:01.990Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-28T23:31:01.990Z"
+    "FStringFlagRepoGitHashFastString": "4c4e2ebf11fde217d4e5a0b51a75f8c6f20b43b0",
+    "DFStringFlagRepoGitHashDynamicString": "4c4e2ebf11fde217d4e5a0b51a75f8c6f20b43b0",
+    "FStringFlipTimeStampFastString": "2025-01-29T01:23:19.656Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-29T01:23:19.656Z"
 }
