@@ -895,7 +895,7 @@
     "DFFlagEnablePointsPlaceVersionNumber2": "True",
     "DFIntCollectNumOfPrimitivesRate": "1",
     "DFIntPerformanceMeasurementEventMismatchesThrottleHundredthsPercent": "10",
-    "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent": "10",
+    "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent": "5",
     "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent_PlaceFilter": "10000;7731036362",
     "DFIntLocalizationTableAnalyticsSenderClientToServerSampleRateHundrethsPercent": "7500",
     "DFIntLocalizationTableAnalyticsSenderClientToServerSampleRateHundrethsPercent_PlaceFilter": "10000;7731036362",
@@ -9842,7 +9842,6 @@
     "FFlagSongbirdUseFullWidthScroller": "True",
     "FFlagSongbirdUseSmallWidthMusicIcon2": "True",
     "FFlagSongbirdWrapLongAlertStrings": "True",
-    "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent_Rollout": "5;60;2025-01-29T20:13:23",
     "FFlagEnableNewAddFriendsTileExperiment": "True",
     "FStringNewAddFriendsTileIXPLayer": "Social.Friends",
     "AllowVideoPreRoll": "True",
@@ -10500,6 +10499,7 @@
     "GmaAdUnitStringAndroid": "/1015347/houseadtest_jan16",
     "FFlagTextChatServiceUseNewRemoteEvent_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T20:33:37",
     "DFFlagTextChatEscapePostFilterClient_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T20:33:37",
+    "FFlagDeveloperToastNotificationsEnabled2_PlaceFilter": "True;1202096104;184199275;2549475383;4908792642;5422546686;5854268910;5365602722;4092381073;994732206;2486209385;2549456912",
     "FFlagEnableMaterialGenerator": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -10527,8 +10527,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "ae9d4c0c1c2072f96758b83e74d10b77ae4bb032",
-    "DFStringFlagRepoGitHashDynamicString": "ae9d4c0c1c2072f96758b83e74d10b77ae4bb032",
-    "FStringFlipTimeStampFastString": "2025-01-29T20:34:22.319Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-29T20:34:22.319Z"
+    "FStringFlagRepoGitHashFastString": "fef165676884709bbce0b35e7be85427fe4ad09c",
+    "DFStringFlagRepoGitHashDynamicString": "fef165676884709bbce0b35e7be85427fe4ad09c",
+    "FStringFlipTimeStampFastString": "2025-01-29T21:30:59.342Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-29T21:30:59.342Z"
 }
