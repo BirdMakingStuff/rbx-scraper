@@ -9875,6 +9875,9 @@
     "FFlagExplorerEmitTextBoxUpAndDown": "True",
     "DFFlagSimSolverAlwaysCollectNumericalExplosions": "True",
     "AllowVideoPreRoll": "True",
+    "DFFlagAnimationRigUseRigAttachmentTransforms_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-30T17:13:23",
+    "DFFlagAnimationRigComputeOnlyBoundJoints_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-30T17:14:01",
+    "FFlagRemoveLightingCompatibilityCode_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-30T17:17:06",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -11038,6 +11041,7 @@
     "FFlagAXFixItemViewportErrors": "True",
     "DFFlagFixSmallShapeGjk": "True",
     "FIntRequiredScriptsCodeAssistTokens": "500",
+    "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;SteadyState;10;30;Rollout;100;30;Promote;2025-01-30T16:59:42",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -11228,8 +11232,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "d513d28b186a8f80ac20cb4f250ab39bde371bff",
-    "DFStringFlagRepoGitHashDynamicString": "d513d28b186a8f80ac20cb4f250ab39bde371bff",
-    "FStringFlipTimeStampFastString": "2025-01-30T01:58:33.450Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-30T01:58:33.450Z"
+    "FStringFlagRepoGitHashFastString": "1a1cb917991b2ee22a30314295e1e1bd3c25bb95",
+    "DFStringFlagRepoGitHashDynamicString": "1a1cb917991b2ee22a30314295e1e1bd3c25bb95",
+    "FStringFlipTimeStampFastString": "2025-01-30T17:17:35.397Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-30T17:17:35.397Z"
 }
