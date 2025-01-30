@@ -386,5 +386,10 @@
     "Label.None": "None",
     "Message.GenreDefinitionsHelper": "See genre and subgenre definitions {linkStart}here{linkEnd}.",
     "Message.GenreDefinitions": "Learn more about {linkStart}genre and subgenre definitions{linkEnd}.",
-    "Action.BackToEditing": "Back to editing"
+    "Action.BackToEditing": "Back to editing",
+    "Action.SetDate": "Set Date",
+    "Label.ScheduleSale": "Schedule Sale",
+    "Message.ScheduleSaleDialogInfo": "Schedule when items go on and off sale up to 30 days ahead.",
+    "Label.SaleStart": "Sale Start",
+    "Label.SaleEnd": "Sale End (Optional)"
 }
