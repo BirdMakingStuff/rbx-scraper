@@ -10263,8 +10263,8 @@
     "FFlagLuaAppFixSponsoredGridTile": "True",
     "FFlagEnableExpJoinMicPermAnalytics": "True",
     "FFlagConsoleInExperienceChatExperimentEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "d430ae8f4cdf1e123049ea68430306c1c92a787f",
-    "DFStringFlagRepoGitHashDynamicString": "d430ae8f4cdf1e123049ea68430306c1c92a787f",
-    "FStringFlipTimeStampFastString": "2025-01-31T21:35:20.890Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-31T21:35:20.890Z"
+    "FStringFlagRepoGitHashFastString": "5c1d607699fb48caccf59344491bf73011e2106e",
+    "DFStringFlagRepoGitHashDynamicString": "5c1d607699fb48caccf59344491bf73011e2106e",
+    "FStringFlipTimeStampFastString": "2025-01-31T23:18:27.385Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-31T23:18:27.385Z"
 }
