@@ -51,6 +51,6 @@
     "enableCollaborationAudit": "true",
     "enableOwnershipTransfer": "true",
     "migrateAssetPermissionsParams": "true",
-    "affiliateProgramAllowlist": "559363765;950205438;3447602475;1674380703;2852767412;1502150976;3572480231;1633194050;7311141169",
+    "affiliateProgramAllowlist": "559363765;950205438;3447602475;1674380703;2852767412;1502150976;3572480231;1633194050;7311141169;4060711616",
     "affiliateProgramTermsKey": "Message.CreatorAffiliateProgramAgreementV1Part1;Message.CreatorAffiliateProgramAgreementV1Part2;Message.CreatorAffiliateProgramAgreementV1Part3"
 }
