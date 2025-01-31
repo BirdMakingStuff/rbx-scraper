@@ -391,5 +391,6 @@
     "Label.ScheduleSale": "Schedule Sale",
     "Message.ScheduleSaleDialogInfo": "Schedule when items go on and off sale up to 30 days ahead.",
     "Label.SaleStart": "Sale Start",
-    "Label.SaleEnd": "Sale End (Optional)"
+    "Label.SaleEnd": "Sale End (Optional)",
+    "Label.ScheduledSale": "Scheduled Sale"
 }
