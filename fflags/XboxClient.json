@@ -9925,6 +9925,10 @@
     "DFFlagSimWakePartsOnCollisionGroupSetCollidable": "True",
     "FFlagAliasSanityCheckTrimmedStringLength": "True",
     "FFlagChatLineReportUpdateCategoryEnum_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T18:36:41",
+    "FFlagExplorerFixSelectOnInsertionSettingDefault_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:03:38",
+    "DFFlagAvatarMemoryTrackingBugFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:04:18",
+    "FFlagSimMeshLoDTranscoderE2ETest_Staged": "False;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:04:26",
+    "FFlagEnableSquadUserCardHoverFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:22:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10259,8 +10263,8 @@
     "FFlagLuaAppFixSponsoredGridTile": "True",
     "FFlagEnableExpJoinMicPermAnalytics": "True",
     "FFlagConsoleInExperienceChatExperimentEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "8772bfe622fce5e763fb6adeb790731ebe3b4002",
-    "DFStringFlagRepoGitHashDynamicString": "8772bfe622fce5e763fb6adeb790731ebe3b4002",
-    "FStringFlipTimeStampFastString": "2025-01-31T18:37:54.134Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-31T18:37:54.134Z"
+    "FStringFlagRepoGitHashFastString": "8c7fe8fa8b48a2dd761677378351111929ae3d20",
+    "DFStringFlagRepoGitHashDynamicString": "8c7fe8fa8b48a2dd761677378351111929ae3d20",
+    "FStringFlipTimeStampFastString": "2025-01-31T19:32:36.569Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-31T19:32:36.569Z"
 }

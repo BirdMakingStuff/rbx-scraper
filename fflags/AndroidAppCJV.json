@@ -9925,6 +9925,10 @@
     "DFFlagSimWakePartsOnCollisionGroupSetCollidable": "True",
     "FFlagAliasSanityCheckTrimmedStringLength": "True",
     "FFlagChatLineReportUpdateCategoryEnum_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T18:36:41",
+    "FFlagExplorerFixSelectOnInsertionSettingDefault_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:03:38",
+    "DFFlagAvatarMemoryTrackingBugFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:04:18",
+    "FFlagSimMeshLoDTranscoderE2ETest_Staged": "False;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:04:26",
+    "FFlagEnableSquadUserCardHoverFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T19:22:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10606,8 +10610,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "8dd9a716b8b782e6452c1a45d9efd24fa1ce7581",
-    "DFStringFlagRepoGitHashDynamicString": "8dd9a716b8b782e6452c1a45d9efd24fa1ce7581",
-    "FStringFlipTimeStampFastString": "2025-01-31T18:40:58.704Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-31T18:40:58.704Z"
+    "FStringFlagRepoGitHashFastString": "8c7fe8fa8b48a2dd761677378351111929ae3d20",
+    "DFStringFlagRepoGitHashDynamicString": "8c7fe8fa8b48a2dd761677378351111929ae3d20",
+    "FStringFlipTimeStampFastString": "2025-01-31T19:32:36.569Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-31T19:32:36.569Z"
 }
