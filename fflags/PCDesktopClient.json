@@ -9924,6 +9924,7 @@
     "DFFlagFixSmallShapeGjk": "True",
     "FFlagShowChatButtonWhenChatForceOpened": "True",
     "DFFlagSimWakePartsOnCollisionGroupSetCollidable": "True",
+    "FFlagAliasSanityCheckTrimmedStringLength_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T17:22:29",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -10167,7 +10168,6 @@
     "FFlagImproveMicroprofilerReadability": "True",
     "DFFlagOptimizePropertyGetSet": "True",
     "FFlagEnableOtpEmailLoginRelease1": "True",
-    "FFlagAliasSanityCheckTrimmedStringLength": "True",
     "DFFlagRenderMeshBulkUploadEnable": "True",
     "FFlagReportMeshesUploadTelemetry": "True",
     "FFlagLuaAppFixSponsoredGridTile": "True",
@@ -10556,8 +10556,8 @@
     "DFFlagArrayTyping": "True",
     "FFlagAXFixWearAfterTryOnOwnedBundles": "False",
     "FFlagEarlyDataModelInit6": "True",
-    "FStringFlagRepoGitHashFastString": "46acec6e8572b421e01a532757f5649288955222",
-    "DFStringFlagRepoGitHashDynamicString": "46acec6e8572b421e01a532757f5649288955222",
-    "FStringFlipTimeStampFastString": "2025-01-31T05:19:57.651Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-31T05:19:57.651Z"
+    "FStringFlagRepoGitHashFastString": "285992f4d015e9394ef5fadab663517baee72463",
+    "DFStringFlagRepoGitHashDynamicString": "285992f4d015e9394ef5fadab663517baee72463",
+    "FStringFlipTimeStampFastString": "2025-01-31T17:26:17.309Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-31T17:26:17.309Z"
 }

@@ -9924,6 +9924,7 @@
     "DFFlagFixSmallShapeGjk": "True",
     "FFlagShowChatButtonWhenChatForceOpened": "True",
     "DFFlagSimWakePartsOnCollisionGroupSetCollidable": "True",
+    "FFlagAliasSanityCheckTrimmedStringLength_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-01-31T17:22:29",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11039,7 +11040,6 @@
     "FFlagUGCValidatePreciseAttachmentErrorMessage": "True",
     "FFlagUGCValidatePreciseVectorPrint": "True",
     "FStringEnableStudioTestingRewardedVideoAdsPlayerAllowList": "1202096104,184199275,2549475383,4908792642,5422546686,5854268910,5365602722,4092381073,994732206,2486209385,2549456912",
-    "FFlagAliasSanityCheckTrimmedStringLength": "True",
     "DFFlagEnableLuaAdPlayer": "True",
     "DFFlagEnableStudioTestRewardedAds": "True",
     "DFFlagVideoFrameSupportAdsVideo": "True",
@@ -11287,8 +11287,8 @@
     "FFlagScriptSyncM2_5BetaFeature": "True",
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": "True",
     "FFlagCacheReadParsePolicy": "True",
-    "FStringFlagRepoGitHashFastString": "46acec6e8572b421e01a532757f5649288955222",
-    "DFStringFlagRepoGitHashDynamicString": "46acec6e8572b421e01a532757f5649288955222",
-    "FStringFlipTimeStampFastString": "2025-01-31T05:19:57.651Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-31T05:19:57.651Z"
+    "FStringFlagRepoGitHashFastString": "285992f4d015e9394ef5fadab663517baee72463",
+    "DFStringFlagRepoGitHashDynamicString": "285992f4d015e9394ef5fadab663517baee72463",
+    "FStringFlipTimeStampFastString": "2025-01-31T17:26:17.309Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-31T17:26:17.309Z"
 }
