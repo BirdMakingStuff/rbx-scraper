@@ -193,7 +193,6 @@
     "FFlagProfilePlatformFixFriendsAttribution": "False",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
     "FFlagFixNavigationToCreatorProfileWebviewFromProfile": "True",
-    "FFlagMacInstallerMoveExistingAppBeforeDelete": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -206,8 +205,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "52852dfb50dbae85958de7ea5518e61384db1ff1",
-    "DFStringFlagRepoGitHashDynamicString": "52852dfb50dbae85958de7ea5518e61384db1ff1",
-    "FStringFlipTimeStampFastString": "2025-02-03T22:35:58.437Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-03T22:35:58.437Z"
+    "FStringFlagRepoGitHashFastString": "d9217f2cfde3145fda1eaee8a194ad860d8b74bd",
+    "DFStringFlagRepoGitHashDynamicString": "d9217f2cfde3145fda1eaee8a194ad860d8b74bd",
+    "FStringFlipTimeStampFastString": "2025-02-03T23:32:13.757Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-03T23:32:13.757Z"
 }
