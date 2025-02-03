@@ -50,5 +50,9 @@
     "Label.LaunchDataParameter": "LaunchData Parameter",
     "Label.CustomLaunchData": "Use custom LaunchData",
     "Label.None": "None",
-    "Label.LaunchDataToLong": "Length must be 200 bytes or less when URL encoded"
+    "Label.LaunchDataToLong": "Length must be 200 bytes or less when URL encoded",
+    "Label.ExperienceOptional": "Experience (optional)",
+    "Label.NoExperiencesFound": "No experiences found",
+    "Error.SearchingExperiences": "An error occurred while searching for creators.",
+    "Label.SelectExperience": "Select experience"
 }

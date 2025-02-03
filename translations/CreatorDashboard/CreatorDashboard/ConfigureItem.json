@@ -391,6 +391,16 @@
     "Label.ScheduleSale": "Schedule Sale",
     "Message.ScheduleSaleDialogInfo": "Schedule when items go on and off sale up to 30 days ahead.",
     "Label.SaleStart": "Sale Start",
-    "Label.SaleEnd": "Sale End (Optional)",
-    "Label.ScheduledSale": "Scheduled Sale"
+    "Label.SaleEnd": "Sale End",
+    "Label.ScheduledSale": "Scheduled Sale",
+    "Label.ScheduledPublish": "Scheduled Publish",
+    "Message.ScheduledStartDate": "Starts {date}",
+    "Message.ScheduledEndDate": "Ends {date}",
+    "Label.SaleEndOptional": "Sale End (Optional)",
+    "Label.SaleStartAlreadyOnSale": "Sale Start (Already On Sale)",
+    "Label.CancelScheduledSale": "Cancel Scheduled Sale",
+    "Label.ConfirmCancelScheduledSale": "Confirm Cancel Scheduled Sale",
+    "Message.CancelScheduledSaleDialogInfo": "Reschedule anytime after you cancel.",
+    "Action.CancelSale": "Cancel Sale",
+    "Action.GoBack": "Go Back"
 }

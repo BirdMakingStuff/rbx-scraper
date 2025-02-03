@@ -563,5 +563,6 @@
     "Tooltip.More": "More",
     "Action.EEChangeToPrivate": "Change to private",
     "Action.EEChangeToPublic": "Change to public",
-    "Action.Edit": "Edit"
+    "Action.Edit": "Edit",
+    "Label.ScheduledSale": "Scheduled Sale"
 }
