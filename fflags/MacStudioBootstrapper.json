@@ -201,12 +201,13 @@
     "FFlagAppChatBehaviorCollectionEnabledMaster": "True",
     "FIntAppChatBehaviorCollectionEnabledPercentage": "100",
     "FStringMacProgressiveDownloadExperimentBucketSettings": "v3-10-1",
+    "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "d9217f2cfde3145fda1eaee8a194ad860d8b74bd",
-    "DFStringFlagRepoGitHashDynamicString": "d9217f2cfde3145fda1eaee8a194ad860d8b74bd",
-    "FStringFlipTimeStampFastString": "2025-02-03T23:32:13.757Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-03T23:32:13.757Z"
+    "FStringFlagRepoGitHashFastString": "ea0e3f6d4f497bd77b63fe7504868cc198000bfa",
+    "DFStringFlagRepoGitHashDynamicString": "ea0e3f6d4f497bd77b63fe7504868cc198000bfa",
+    "FStringFlipTimeStampFastString": "2025-02-04T01:32:42.175Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-04T01:32:42.175Z"
 }
