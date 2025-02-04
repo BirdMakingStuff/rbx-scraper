@@ -9981,7 +9981,6 @@
     "FFlagLuaAppInteractiveSignalEnabled": "True",
     "FFlagTriggerLuaAppInteractiveFromLua": "True",
     "FFlagAssetReaderAdvancedLogic": "True",
-    "FFlagLuaExplorerFileSync": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -10611,8 +10610,8 @@
     "FFlagEarlyDataModelInit6": "True",
     "FFlagEnableReactPerfSummaryEvents": "True",
     "FFlagGlobalSettingsEngineModule": "True",
-    "FStringFlagRepoGitHashFastString": "ea0e3f6d4f497bd77b63fe7504868cc198000bfa",
-    "DFStringFlagRepoGitHashDynamicString": "ea0e3f6d4f497bd77b63fe7504868cc198000bfa",
-    "FStringFlipTimeStampFastString": "2025-02-04T01:32:42.175Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-04T01:32:42.175Z"
+    "FStringFlagRepoGitHashFastString": "5bed61ce2fdf05ee11a3cab977d86a874f230950",
+    "DFStringFlagRepoGitHashDynamicString": "5bed61ce2fdf05ee11a3cab977d86a874f230950",
+    "FStringFlipTimeStampFastString": "2025-02-04T01:59:50.370Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-04T01:59:50.370Z"
 }
