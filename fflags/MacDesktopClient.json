@@ -10009,6 +10009,7 @@
     "DFFlagRakNetMissingPing2": "True",
     "DFLogRakNetMissingPingPong": "Verbose,6",
     "FFlagDeprecateGetPlaceSettingsUrl": "True",
+    "DFFlagEnableAdGuiIsValidUpdate_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-05T17:18:24",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -10623,8 +10624,8 @@
     "DFFlagEnableGameJoinRetryMinimumWaitTime_PlaceFilter": "True;96104676030215",
     "FFlagEnableReactPerfSummaryEvents": "True",
     "FFlagGlobalSettingsEngineModule": "True",
-    "FStringFlagRepoGitHashFastString": "7e01cf0e142c051a324b6f51812f04d2185b0c64",
-    "DFStringFlagRepoGitHashDynamicString": "7e01cf0e142c051a324b6f51812f04d2185b0c64",
-    "FStringFlipTimeStampFastString": "2025-02-05T01:38:08.095Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-05T01:38:08.095Z"
+    "FStringFlagRepoGitHashFastString": "eb64e573bfa2460ce36d8ca04f35a42ec8f512c1",
+    "DFStringFlagRepoGitHashDynamicString": "eb64e573bfa2460ce36d8ca04f35a42ec8f512c1",
+    "FStringFlipTimeStampFastString": "2025-02-05T17:19:01.908Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-05T17:19:01.908Z"
 }
