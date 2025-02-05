@@ -182,5 +182,7 @@
     "Message.IncreaseMaturityDialog": "The content maturity label displayed for your experience will always be the higher label between the questionnaire result and the content maturity label selected here.",
     "Title.IncreaseMaturityDialog": "Please indicate your preferred Content Maturity",
     "Tooltip.CannotIncreaseMaturity": "Your experience’s maturity level cannot be increased further",
-    "Tooltip.RetakeQuestionnaireToIncreaseMaturity": "Please submit your answers again before increasing the maturity level"
+    "Tooltip.RetakeQuestionnaireToIncreaseMaturity": "Please submit your answers again before increasing the maturity level",
+    "Questionnaire.SocialHangout": "Social Hangout",
+    "Questionnaire.FreeFormUserCreation": "Free-form User Creation"
 }

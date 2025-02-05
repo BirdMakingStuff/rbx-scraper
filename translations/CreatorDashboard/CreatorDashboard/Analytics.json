@@ -978,5 +978,21 @@
     "Warning.ShareLinkCampaignExcluded": "*Excludes new users that haven’t reached a sufficient number of days for metric",
     "Title.Table.ThumbnailAssetId": "Thumbnail asset id",
     "Description.Table.ThumbnailAssetId": "Thumbnail asset id column, only visible for internal roles",
-    "Label.Metric.PlayerFeedbackVotesCount": "Player Feedback Votes Count"
+    "Label.Metric.PlayerFeedbackVotesCount": "Player Feedback Votes Count",
+    "Label.Overall": "Overall",
+    "Label.HomeRecommendations": "Home Recommendations",
+    "Title.YourSimilarExperiences": "Your Similar Experiences",
+    "Label.Metric.RFYL7PlayDays": "7D Play days",
+    "Description.RFYL7PlayDays": "The number of unique days individual users engage with your experience over seven days.",
+    "Label.Metric.RFYL7PlayTime": "7D Playtime",
+    "Description.RFYL7PlayTime": "The average amount of time individual users spend in your experience over seven days.",
+    "Label.Metric.RFYL7RobuxSpent": "7D Robux spent",
+    "Description.RFYL7RobuxSpent": "The average total amount of Robux spent in your experience over seven days by individual players.",
+    "Label.Metric.RFYL7RobuxSpentDays": "7D Spend days",
+    "Description.RFYL7RobuxSpentDays": "The number of unique days individual users spend Robux in your experience over seven days.",
+    "Label.Metric.RFYQualifiedPTR": "Qualified play through rate",
+    "Description.RFYQualifiedPTR": "Percentage of new and returning users who engaged with your experience after viewing it in recommendations",
+    "Label.Metric.HomeRecommendationImpressions": "Home recommendation impressions",
+    "Title.HomeRecommendationSignals": "Home recommendation signals",
+    "Label.Metric.HomeRecommendationPlays": "Home recommendation plays"
 }
