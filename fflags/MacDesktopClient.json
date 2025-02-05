@@ -10009,7 +10009,10 @@
     "DFFlagRakNetMissingPing2": "True",
     "DFLogRakNetMissingPingPong": "Verbose,6",
     "FFlagDeprecateGetPlaceSettingsUrl": "True",
-    "DFFlagEnableAdGuiIsValidUpdate_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-05T17:18:24",
+    "FFlagIxpRolloutPriorityFix_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-05T18:17:07",
+    "DFFlagOptimizeRayCasts_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-05T18:17:56",
+    "DFFlagEnableAdGuiIsValidUpdate": "True",
+    "FFlagFoundationBadgeSimplifySizing_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-05T18:24:57",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -10267,6 +10270,8 @@
     "FFlagAccessoryAdjustmentFixApplyRelativeScale": "True",
     "FFlagProfilePlatformEnableFavoriteExperiences_V3": "True",
     "FFlagDoNotShowPlaceOpenFailureMessageAfterFirstTimeOnReconnect2": "True",
+    "FFlagFoundationDisableBadgeTruncation_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-05T18:24:57",
+    "FFlagFoundationFixSupportImageBinding_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-05T18:24:57",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10624,8 +10629,8 @@
     "DFFlagEnableGameJoinRetryMinimumWaitTime_PlaceFilter": "True;96104676030215",
     "FFlagEnableReactPerfSummaryEvents": "True",
     "FFlagGlobalSettingsEngineModule": "True",
-    "FStringFlagRepoGitHashFastString": "eb64e573bfa2460ce36d8ca04f35a42ec8f512c1",
-    "DFStringFlagRepoGitHashDynamicString": "eb64e573bfa2460ce36d8ca04f35a42ec8f512c1",
-    "FStringFlipTimeStampFastString": "2025-02-05T17:19:01.908Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-05T17:19:01.908Z"
+    "FStringFlagRepoGitHashFastString": "53974af74268c07b2d1dde7fab634103c94579c7",
+    "DFStringFlagRepoGitHashDynamicString": "53974af74268c07b2d1dde7fab634103c94579c7",
+    "FStringFlipTimeStampFastString": "2025-02-05T18:40:39.463Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-05T18:40:39.463Z"
 }
