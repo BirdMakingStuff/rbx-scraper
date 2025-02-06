@@ -10029,6 +10029,8 @@
     "FFlagPlayerListFixBackgroundFlicker": "True",
     "FFlagSkipProcessGestureWithoutConnections": "True",
     "FFlagGuiObjectFixAncestorGLCIsScreenGuiCheck": "True",
+    "DFFlagSessionTaskSeparateIdentity_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-06T20:37:27",
+    "FIntAXCarouselMaxItems_Staged": "200;SteadyState;10;30;Rollout;100;30;Promote;2025-02-06T20:37:53",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10700,6 +10702,8 @@
     "FFlagSongbirdContentFitAndFinish": "True",
     "FFlagSongbirdSupportReportingUnverifiedAudio": "True",
     "DFFlagEnableGameJoinRetryMinimumWaitTime": "True",
+    "FFlagSongbirdUpdateSubmenuPositionBehavior_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-06T20:41:35",
+    "FFlagSongbirdWindowAnalyticsUseNonpii_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-06T20:43:19",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -10730,8 +10734,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "85caf57dcdaabb8c7960d8f800bd88826ab2834b",
-    "DFStringFlagRepoGitHashDynamicString": "85caf57dcdaabb8c7960d8f800bd88826ab2834b",
-    "FStringFlipTimeStampFastString": "2025-02-06T20:28:28.971Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-06T20:28:28.971Z"
+    "FStringFlagRepoGitHashFastString": "40778788763e51bc40b24e211552859ad7f63218",
+    "DFStringFlagRepoGitHashDynamicString": "40778788763e51bc40b24e211552859ad7f63218",
+    "FStringFlipTimeStampFastString": "2025-02-06T21:11:00.228Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-06T21:11:00.228Z"
 }
