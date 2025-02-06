@@ -402,5 +402,6 @@
     "Label.ConfirmCancelScheduledSale": "Confirm Cancel Scheduled Sale",
     "Message.CancelScheduledSaleDialogInfo": "Reschedule anytime after you cancel.",
     "Action.CancelSale": "Cancel Sale",
-    "Action.GoBack": "Go Back"
+    "Action.GoBack": "Go Back",
+    "Message.InvalidSaleStatus": "the scheduled sale status was invalid."
 }
