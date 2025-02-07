@@ -159,7 +159,6 @@
     "FFlagHttpPostSyncUseNativeRetry": "True",
     "FFlagColorPickerSliderOptimization2": "True",
     "FFlagMacInstallerUseEventIngest": "True",
-    "FFlagWinInstallerUseBITS2": "True",
     "FFlagRefactorCanUserChat": "True",
     "FFlagWindowsInstallerTelemetryImprovements": "True",
     "FFlagMacInstallerReportUserID": "True",
@@ -217,8 +216,8 @@
     "DeprecatedOSXMajorVersion": "10",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "b853ad438ba80fd83aec68d877a91f991d34bbe5",
-    "DFStringFlagRepoGitHashDynamicString": "b853ad438ba80fd83aec68d877a91f991d34bbe5",
-    "FStringFlipTimeStampFastString": "2025-02-07T01:30:17.026Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-07T01:30:17.026Z"
+    "FStringFlagRepoGitHashFastString": "9585e4d21fe9e4cf9287f138b363904f63f4034f",
+    "DFStringFlagRepoGitHashDynamicString": "9585e4d21fe9e4cf9287f138b363904f63f4034f",
+    "FStringFlipTimeStampFastString": "2025-02-07T17:34:35.423Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-07T17:34:35.423Z"
 }

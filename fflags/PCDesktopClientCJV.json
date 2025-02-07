@@ -9753,7 +9753,7 @@
     "FFlagAvatarPreviewerCheckFaceItems": "True",
     "FFlagNoHashingScalingValues": "True",
     "FFlagFixGameTileViewActivatedCallback": "True",
-    "FStringRewardedVideoAdsUniverseIdAllowlist": "1202096104,184199275,2549475383,4908792642,5422546686,5854268910,5365602722,4092381073,994732206,2486209385,2549456912",
+    "FStringRewardedVideoAdsUniverseIdAllowlist": "1202096104,184199275,2549475383,4908792642,5422546686,5854268910,5365602722,4092381073,994732206,2486209385,2549456912,7061132628",
     "FFlagEnableHideSystemCardLocalUserAvatar": "True",
     "DFFlagEnableRccOomDMDump": "True",
     "DFFlagUseMemoryProfiler2": "True",
@@ -10034,6 +10034,11 @@
     "FFlagUserSearchTileActivatedWebviewCheck": "True",
     "DFFlagCLI138766A": "True",
     "FFlagLuaAppEnableFoundationColors7": "True",
+    "FFlagLuauCodeGenLerp_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-07T17:08:58",
+    "FFlagLuauCodeGenLimitLiveSlotReuse_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-07T17:27:45",
+    "FFlagLuauCompileMathLerp_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-07T17:30:04",
+    "FFlagLuauMathLerp_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-07T17:32:00",
+    "FFlagAppChatNetworkingMigrateToTelemetry_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-07T17:33:27",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -10674,8 +10679,8 @@
     "FFlagEnableReactPerfSummaryEvents": "True",
     "FFlagGlobalSettingsEngineModule": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "b853ad438ba80fd83aec68d877a91f991d34bbe5",
-    "DFStringFlagRepoGitHashDynamicString": "b853ad438ba80fd83aec68d877a91f991d34bbe5",
-    "FStringFlipTimeStampFastString": "2025-02-07T01:30:17.026Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-07T01:30:17.026Z"
+    "FStringFlagRepoGitHashFastString": "9585e4d21fe9e4cf9287f138b363904f63f4034f",
+    "DFStringFlagRepoGitHashDynamicString": "9585e4d21fe9e4cf9287f138b363904f63f4034f",
+    "FStringFlipTimeStampFastString": "2025-02-07T17:34:35.423Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-07T17:34:35.423Z"
 }
