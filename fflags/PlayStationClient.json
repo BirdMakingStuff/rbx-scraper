@@ -10051,9 +10051,10 @@
     "FFlagLexerResumesFromPosition2": "True",
     "FFlagLuauIncrementalAutocompleteCommentDetection": "True",
     "FFlagLuaAppGameDetailsMediaGallerySize": "True",
+    "FFlagEnableShowVoiceUIV6": "True",
+    "FFlagUserSearchTileActivatedWebviewCheck": "True",
+    "DFIntEstimatedGmaSafeVideoMemoryMB": "150",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
-    "FFlagUserSearchTileActivatedWebviewCheck_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-07T19:38:06",
-    "DFIntEstimatedGmaSafeVideoMemoryMB_Staged": "150;SteadyState;10;30;Rollout;100;30;Promote;2025-02-07T19:53:39",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -10205,7 +10206,6 @@
     "FFlagEnableExperienceCoordinator6": "True",
     "FFlagEnableConsolePreparePaymentCheck": "True",
     "FFlagEnableAnimatorAnalyticsForRetargeting": "True",
-    "FFlagEnableShowVoiceUIV6": "True",
     "FFlagAXFixLookComposerExitPrompt": "True",
     "FFlagAXLookComposerStepsRefactor": "True",
     "FFlagHttpAssetCacheInitOnly6": "True",
@@ -10256,8 +10256,8 @@
     "FFlagConsoleInExperienceChatExperimentEnabled": "True",
     "FFlagEnableAsyncInput": "True",
     "FFlagGlobalSettingsEngineModule": "True",
-    "FStringFlagRepoGitHashFastString": "968b2ff7cd37747b37c9154411d99dd8557b9e8e",
-    "DFStringFlagRepoGitHashDynamicString": "968b2ff7cd37747b37c9154411d99dd8557b9e8e",
-    "FStringFlipTimeStampFastString": "2025-02-07T20:27:01.667Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-07T20:27:01.667Z"
+    "FStringFlagRepoGitHashFastString": "d90fb9ed49c6d0f2114e2f22c12c2993e77269fd",
+    "DFStringFlagRepoGitHashDynamicString": "d90fb9ed49c6d0f2114e2f22c12c2993e77269fd",
+    "FStringFlipTimeStampFastString": "2025-02-07T21:12:31.769Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-07T21:12:31.769Z"
 }
