@@ -54,5 +54,6 @@
     "Label.ExperienceOptional": "Experience (optional)",
     "Label.NoExperiencesFound": "No experiences found",
     "Error.SearchingExperiences": "An error occurred while searching for creators.",
-    "Label.SelectExperience": "Select experience"
+    "Label.SelectExperience": "Select experience",
+    "Label.InvalidUniverseAccess": "Unauthorized to access universe"
 }
