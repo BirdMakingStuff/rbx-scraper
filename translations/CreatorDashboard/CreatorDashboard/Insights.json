@@ -258,5 +258,12 @@
     "Chart.Label.LowEndAndroid": "<2GB Android",
     "Description.QualitySignalTips": "Tips to Attract More Users",
     "Title.QualitySignalInsights": "Insights",
-    "Description.Recommendation.EnableStreaming": "Enable {linkStart0}streaming{linkEnd0} to reduce crash rates"
+    "Description.Recommendation.EnableStreaming": "Enable {linkStart0}streaming{linkEnd0} to reduce crash rates",
+    "Title.AssistantOverview": "Assistant overview",
+    "Label.DAU": "DAU",
+    "Label.Revenue": "Revenue",
+    "Header.SummaryReport": "Significant DAU or revenue change",
+    "Action.ViewReport": "See deep dive report",
+    "Caption.SummaryReport": "Your {dateRange} deep dive",
+    "Header.MonthlyChange": "Monthly Change"
 }

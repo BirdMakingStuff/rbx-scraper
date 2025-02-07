@@ -546,7 +546,7 @@
     "Message.RegionalPricingDisclaimer": "By proceeding to use regional pricing, you agree to give Roblox control of regional prices for enabled products. You understand that prices may change in the future and Roblox will communicate any upcoming changes.",
     "Action.Apply": "Apply",
     "Heading.ApplyRegionalPricing": "Apply Regional Pricing",
-    "Message.ApplyRegionalPricing": "Regional pricing allows you to set different prices per country for each of your passes. You can view the different country/region prices on the passes’ settings page.\nWould you like to enable regional pricing for {x} of {total} passes?",
+    "Message.ApplyRegionalPricing": "Regional pricing allows our systems to adjust prices per country for your passes. You can view regional prices on the passes’ settings page.\n\nWould you like to enable regional pricing for {x} of {total} passes?",
     "Label.DisableRegionalPricing": "Disable Regional Pricing",
     "Action.DisableRegionalPricing": "Disable Regional Pricing",
     "Action.EnableRegionalPricing": "Enable Regional Pricing",
@@ -564,5 +564,10 @@
     "Action.EEChangeToPrivate": "Change to private",
     "Action.EEChangeToPublic": "Change to public",
     "Action.Edit": "Edit",
-    "Label.ScheduledSale": "Scheduled Sale"
+    "Label.ScheduledSale": "Scheduled Sale",
+    "Label.NumSelected": "{numSelected} of {numTotal} selected",
+    "Heading.Passes": "Passes",
+    "Heading.CurrentPrices": "Current Price",
+    "Heading.RegionalPricing": "Regional Pricing",
+    "Tooltip.RegionalPricing": "Roblox will convert the default price for the country or region that your users are located."
 }
