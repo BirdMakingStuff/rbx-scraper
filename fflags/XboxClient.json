@@ -10054,6 +10054,11 @@
     "FFlagEnableShowVoiceUIV6": "True",
     "FFlagUserSearchTileActivatedWebviewCheck": "True",
     "DFIntEstimatedGmaSafeVideoMemoryMB": "150",
+    "DFIntLuauDeferredEventQueueSizeStatsSendCooldownSec_Staged": "6000;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:13:31",
+    "DFFlagAvoidSharedPtrConversions_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:14:37",
+    "FFlagUGCValidateFixDeprecatedTransparency_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:19:51",
+    "FFlagUGCValidatePreciseAttachmentErrorMessage_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:22:18",
+    "FFlagUGCValidatePreciseVectorPrint_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:24:01",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10394,8 +10399,8 @@
     "DFFlagPreciseCFrameReplication": "True",
     "DFFlagEnableGameJoinRetryMinimumWaitTime": "True",
     "FFlagEnableSquadCoplayAnalytic": "True",
-    "FStringFlagRepoGitHashFastString": "d90fb9ed49c6d0f2114e2f22c12c2993e77269fd",
-    "DFStringFlagRepoGitHashDynamicString": "d90fb9ed49c6d0f2114e2f22c12c2993e77269fd",
-    "FStringFlipTimeStampFastString": "2025-02-07T21:12:31.769Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-07T21:12:31.769Z"
+    "FStringFlagRepoGitHashFastString": "dcba0b71ef4ffd15801680c6e50905980e67b83e",
+    "DFStringFlagRepoGitHashDynamicString": "dcba0b71ef4ffd15801680c6e50905980e67b83e",
+    "FStringFlipTimeStampFastString": "2025-02-10T17:25:52.780Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-10T17:25:52.780Z"
 }
