@@ -10058,6 +10058,12 @@
     "FFlagUGCValidateFixDeprecatedTransparency": "True",
     "FFlagUGCValidatePreciseAttachmentErrorMessage": "True",
     "FFlagUGCValidatePreciseVectorPrint": "True",
+    "DFFlagSimRemoveUnusedSolverParameters_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T18:41:15",
+    "DFFlagReportCorrectDisconnectCodeOnConnectionFailed_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T18:49:55",
+    "FFlagMarkTagSupport2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T18:57:57",
+    "DFFlagFixTelemetryForPacketMissLongTerm_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T19:12:25",
+    "FFlagEnablePlatformSocialGraphSync2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T19:13:04",
+    "FFlagVisBugMeshLock": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10260,9 +10266,9 @@
     "FFlagConsoleInExperienceChatExperimentEnabled": "True",
     "FFlagEnableAsyncInput": "True",
     "FFlagGlobalSettingsEngineModule": "True",
-    "FFlagFixInExperienceNilPlatformNames_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T18:25:00",
-    "FStringFlagRepoGitHashFastString": "2866e751c72b62f0f3cad39d810b95d5fcf42062",
-    "DFStringFlagRepoGitHashDynamicString": "2866e751c72b62f0f3cad39d810b95d5fcf42062",
-    "FStringFlipTimeStampFastString": "2025-02-10T18:38:42.772Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-10T18:38:42.772Z"
+    "FFlagFixInExperienceNilPlatformNames": "True",
+    "FStringFlagRepoGitHashFastString": "2a7c20285042c0b978aa87730edf4e98c66fff3f",
+    "DFStringFlagRepoGitHashDynamicString": "2a7c20285042c0b978aa87730edf4e98c66fff3f",
+    "FStringFlipTimeStampFastString": "2025-02-10T19:31:56.039Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-10T19:31:56.039Z"
 }
