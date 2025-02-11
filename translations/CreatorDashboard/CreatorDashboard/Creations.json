@@ -569,5 +569,8 @@
     "Heading.Passes": "Passes",
     "Heading.CurrentPrices": "Current Price",
     "Heading.RegionalPricing": "Regional Pricing",
-    "Tooltip.RegionalPricing": "Roblox will convert the default price for the country or region that your users are located."
+    "Tooltip.RegionalPricing": "Roblox will convert the default price for the country or region that your users are located.",
+    "Label.Shoes": "Shoes",
+    "Heading.EECompare": "Compare",
+    "Heading.EEHistory": "History"
 }

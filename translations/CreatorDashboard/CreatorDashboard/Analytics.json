@@ -75,7 +75,7 @@
     "Label.AverageArpu": "Average ARPU",
     "Message.RequestFailure": "Request failed",
     "Description.UTCTimeZone": "***Note that all data points are updated at 08:00:00.000Z in UTC. This means that if you are in a time zone west of UTC, such as Pacific Time, there can be perceived delays for when data is updated for the next day. Likewise, if you are based in a time zone east of UTC, it may appear that data is being updated at an earlier time. This is because the date filter at the top adjusts to your local time zone but the data points shown below are all in UTC.",
-    "Label.PlayersSuffix": "players",
+    "Label.PlayersSuffix": "users",
     "Label.HoursSuffix": "hours",
     "Label.SessionsSuffix": "sessions",
     "Description.Visits": "Total play sessions, including multiple sessions by the same user.",
@@ -996,5 +996,8 @@
     "Title.HomeRecommendationSignals": "Home recommendation signals",
     "Label.Metric.HomeRecommendationPlays": "Users with home recommendation plays",
     "Description.YourSimilarExperiences": "Users who play your experience also play these experiences often",
-    "Label.DaysSuffix": "days"
+    "Label.DaysSuffix": "days",
+    "Description.HomeRecommendationImpressions": "Unique users who viewed your game from home recommendations.",
+    "Description.HomeRecommendationPlays": "Unique users who played from home recommendations.",
+    "Description.HomeRecommendationSignals": "High-value signals used in Recommended For You algorithm."
 }
