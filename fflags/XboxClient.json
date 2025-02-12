@@ -10102,6 +10102,7 @@
     "FFlagContentFeedPreventSwipingOnZooming": "True",
     "FFlagUwpNoLongerUnloadWebViews": "True",
     "FFlagIxpFastFlagIntegrationUpdateIxpValue": "True",
+    "FFlagIxpFastFlagIntegrationCheckVariableExposure_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-12T17:21:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10392,7 +10393,6 @@
     "DFIntPPJProgressHaltReportThrottleHP": "100",
     "FFlagTaskSchedulerUseRuntimeSyncPrims": "True",
     "FFlagIxpFastFlagIntegrationApplyInitialIxpValues": "True",
-    "FFlagIxpFastFlagIntegrationCheckVariableExposure": "True",
     "FFlagIxpFastFlagIntegrationDynamicUpdate": "True",
     "FFlagIxpFastFlagIntegrationRegisterOnStartup": "True",
     "FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache": "True",
@@ -10443,8 +10443,8 @@
     "FFlagAXActionButtonAccountForMissingItemData": "True",
     "FFlagFixFileMeshDataMemoryLeak": "True",
     "FFlagDevEnableAppNavIXP": "True",
-    "FStringFlagRepoGitHashFastString": "687d75a51cd294282c1cec55549a56db6875fddd",
-    "DFStringFlagRepoGitHashDynamicString": "687d75a51cd294282c1cec55549a56db6875fddd",
-    "FStringFlipTimeStampFastString": "2025-02-12T01:25:43.032Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-12T01:25:43.032Z"
+    "FStringFlagRepoGitHashFastString": "ff1232e17e65d6033712177319ea4cfc2583ad52",
+    "DFStringFlagRepoGitHashDynamicString": "ff1232e17e65d6033712177319ea4cfc2583ad52",
+    "FStringFlipTimeStampFastString": "2025-02-12T17:31:05.302Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-12T17:31:05.302Z"
 }
