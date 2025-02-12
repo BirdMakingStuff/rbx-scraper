@@ -365,7 +365,7 @@
     "Message.PublishingAdvanceDisclaimer": "Your quantity/price is set in a way where you will not receive your full publishing advance back. Please read {publishingAdvanceLinkStart}documentation{publishingAdvanceLinkEnd} for more information.",
     "Message.IneligiblePackageDistributor": "User is not authorized to distribute packages. For planned package distribution updates, see the {reqLinkStart}Creator Roadmap{reqLinkEnd}.",
     "Description.IconAndThumbnail": "Icon and thumbnail are inherited from start place",
-    "Message.ExposeToExternalSales": "Opt in to sell this product outside of the experience",
+    "Message.ExposeToExternalSales": "Allow external purchases",
     "Heading.BasicInfo": "Basic Info",
     "Heading.YourCost": "Your Cost",
     "Label.PublishAdvanceInfoShort": "Roblox will not take commission until the publishing advance is fully recouped.",
