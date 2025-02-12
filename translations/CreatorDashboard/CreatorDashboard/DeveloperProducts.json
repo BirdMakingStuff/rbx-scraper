@@ -41,5 +41,6 @@
     "Heading.FeatureActivation": "Feature Activation",
     "Label.EnableTestMode": "Enable Test Mode",
     "Label.DisableTestMode": "Disable Test Mode",
+    "Label.ShowTestModeSettings": "Show Test Mode settings",
     "Label.Continue": "Continue"
 }

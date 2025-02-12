@@ -29,5 +29,8 @@
     "Heading.SalesLimitReached": "On-sale limit reached",
     "Description.SalesLimitReached": "Only {number} passes can be sold for an experience at one time. Please remove some passes from sale and try again.",
     "Action.CancelSale": "Not now",
-    "Action.ManagePasses": "Manage passes"
+    "Action.ManagePasses": "Manage passes",
+    "Label.EnableRegionalPricing": "Enable regional pricing",
+    "Tooltip.EnableRegionalPricing": "Roblox will convert the default price for the country or region where your users are located.",
+    "Description.RequiresDynamicPrices": "Requires dynamic prices. Check with {linkStart}Dynamic Price Check{linkEnd}"
 }
