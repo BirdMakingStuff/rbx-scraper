@@ -572,5 +572,8 @@
     "Tooltip.RegionalPricing": "Roblox will convert the default price for the country or region that your users are located.",
     "Label.Shoes": "Shoes",
     "Heading.EECompare": "Compare",
-    "Heading.EEHistory": "History"
+    "Heading.EEHistory": "History",
+    "Label.EERsvps": "RSVPs",
+    "Label.EEDates": "Dates",
+    "Label.EEJoinsFromNotifications": "Joins from Notifications"
 }
