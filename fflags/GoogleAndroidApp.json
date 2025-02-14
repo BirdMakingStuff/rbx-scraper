@@ -10153,7 +10153,7 @@
     "FFlagUseRelativeToRootCFrameForAccessories": "True",
     "FIntSQLiteBusyTimeoutMs": "2000",
     "FFlagIxpFastFlagIntegrationRegisterOnStartup": "True",
-    "FFlagLuaAppPreventLoadNextRefresh_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T17:22:17",
+    "FFlagLuaAppPreventLoadNextRefresh": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10831,7 +10831,6 @@
     "DFFlagResetAdInEnableGmaVideoAdsMemoryCheck": "True",
     "FFlagAXActionButtonAccountForMissingItemData": "True",
     "FFlagFixFileMeshDataMemoryLeak": "True",
-    "FFlagPropValueVecToSmallVec": "True",
     "EnableRobuxPurchaseServerAckWithObfuscatedProfileId": "false",
     "DFFlagReportMissedSchemaPropVecSize": "True",
     "FFlagPerformanceControlTunablePlanningDataV2": "True",
@@ -10985,8 +10984,8 @@
     "FFlagLuaAppFixEmptySearchGameGrid": "True",
     "FFlagAXEnableRecentlyViewedSearchItemsErrorLogging": "True",
     "FFlagProfilePlatformFavoritesEnableProfilePlatformClickAnalytics": "True",
-    "FStringFlagRepoGitHashFastString": "14075969348a805100680c62fa432bb8a27e8b85",
-    "DFStringFlagRepoGitHashDynamicString": "14075969348a805100680c62fa432bb8a27e8b85",
-    "FStringFlipTimeStampFastString": "2025-02-14T17:32:26.458Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-14T17:32:26.458Z"
+    "FStringFlagRepoGitHashFastString": "29f7e2b5608fdea1e23013e0438915d1fdd9799d",
+    "DFStringFlagRepoGitHashDynamicString": "29f7e2b5608fdea1e23013e0438915d1fdd9799d",
+    "FStringFlipTimeStampFastString": "2025-02-14T18:42:13.973Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-14T18:42:13.973Z"
 }
