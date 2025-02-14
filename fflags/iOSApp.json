@@ -5295,7 +5295,7 @@
     "FFlagAimNoMorePackageBump": "True",
     "DFFlagUseFixedMemoryStatsOrbis2": "True",
     "FFlagRenderTestDontClearNullTest": "True",
-    "FFlagClientFRMManualToAutoExperimentCheck2": "True",
+    "FFlagClientFRMManualToAutoExperimentCheck2": "False",
     "DFFlagPath2DAnalytics_ProfilerScope": "True",
     "FFlagStudioFixCaptureScreenshotApi": "True",
     "DFFlagTerrainVoxelChannelsLS": "True",
@@ -10154,8 +10154,7 @@
     "FIntSQLiteBusyTimeoutMs": "2000",
     "FFlagIxpFastFlagIntegrationRegisterOnStartup": "True",
     "FFlagLuaAppPreventLoadNextRefresh": "True",
-    "FFlagSkinTransferDontInvalidateAlternativeIdForBodyParts_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T18:49:35",
-    "FFlagClientFRMManualToAutoExperimentCheck2_Staged": "False;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T18:55:28",
+    "FFlagSkinTransferDontInvalidateAlternativeIdForBodyParts": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10848,8 +10847,9 @@
     "FFlagAXRecentlyViewedSearchItemsEnabled3": "True",
     "FFlagAXEnableRecentlyViewedSearchItemsErrorLogging": "True",
     "FFlagProfilePlatformFavoritesEnableProfilePlatformClickAnalytics": "True",
-    "FStringFlagRepoGitHashFastString": "c834cd71fa26623c92dbb238745fbbe45ba56598",
-    "DFStringFlagRepoGitHashDynamicString": "c834cd71fa26623c92dbb238745fbbe45ba56598",
-    "FStringFlipTimeStampFastString": "2025-02-14T19:28:47.653Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-14T19:28:47.653Z"
+    "FFlagEnableSquadCoplayDependencyArray_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T19:55:56",
+    "FStringFlagRepoGitHashFastString": "4f6c21936561a0c45e1320349f9059b08fbd08fb",
+    "DFStringFlagRepoGitHashDynamicString": "4f6c21936561a0c45e1320349f9059b08fbd08fb",
+    "FStringFlipTimeStampFastString": "2025-02-14T20:21:45.202Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-14T20:21:45.202Z"
 }
