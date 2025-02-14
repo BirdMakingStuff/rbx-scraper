@@ -575,5 +575,6 @@
     "Heading.EEHistory": "History",
     "Label.EERsvps": "RSVPs",
     "Label.EEDates": "Dates",
-    "Label.EEJoinsFromNotifications": "Joins from Notifications"
+    "Label.EEJoinsFromNotifications": "Joins from Notifications",
+    "Label.ScheduledOffSale": "Scheduled Off Sale"
 }

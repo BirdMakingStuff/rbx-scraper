@@ -405,6 +405,6 @@
     "Action.GoBack": "Go Back",
     "Message.InvalidSaleStatus": "the scheduled sale status was invalid.",
     "Message.AlreadyOnSale": "Deselect the on sale toggle to schedule start date",
-    "Message.PublishImmediately": "Will be off sale on publish until start date",
-    "Message.MustSaveScheduledSale": "Must save changes to schedule sale!"
+    "Message.PublishImmediately": "This is when your item will on sale in the Marketplace.",
+    "Message.MustSaveScheduledSale": "Save changes to schedule the sale"
 }
