@@ -10137,7 +10137,7 @@
     "FFlagAppNavUseIsInFullScreen": "True",
     "FFlagIxpFastFlagIntegrationFetchOnStartup": "True",
     "DFFlagRakNetMissingPingUpgrade": "True",
-    "FFlagEnableInGameMenuSongbirdABTest": "True",
+    "FFlagEnableInGameMenuSongbirdABTest": "False",
     "DFIntRakNetMissingPingPongReportThrottleHundredthsPercent": "100",
     "FFlagEnableStudioTestingRewardedVideoAdsPlayer": "True",
     "FFlagAppNavRemoveFullscreenToastPolicy": "True",
@@ -10153,6 +10153,7 @@
     "FFlagUseRelativeToRootCFrameForAccessories": "True",
     "FIntSQLiteBusyTimeoutMs": "2000",
     "FFlagIxpFastFlagIntegrationRegisterOnStartup": "True",
+    "FFlagLuaAppPreventLoadNextRefresh_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T17:22:17",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10354,8 +10355,8 @@
     "FFlagGlobalSettingsEngineModule": "True",
     "FFlagFixInExperienceNilPlatformNames": "True",
     "FFlagDevEnableAppNavIXP": "True",
-    "FStringFlagRepoGitHashFastString": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
-    "DFStringFlagRepoGitHashDynamicString": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
-    "FStringFlipTimeStampFastString": "2025-02-14T01:18:46.005Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-14T01:18:46.005Z"
+    "FStringFlagRepoGitHashFastString": "14075969348a805100680c62fa432bb8a27e8b85",
+    "DFStringFlagRepoGitHashDynamicString": "14075969348a805100680c62fa432bb8a27e8b85",
+    "FStringFlipTimeStampFastString": "2025-02-14T17:32:26.458Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-14T17:32:26.458Z"
 }
