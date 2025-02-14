@@ -10450,8 +10450,8 @@
     "FStringProfileRepositionExperimentLayer": "Social.ProfilePeekView",
     "FFlagUseRefactoredAdPlayer": "True",
     "FFlagEnableProfileRepositionExperiment": "True",
-    "FFlagEnableSquadCoplayDependencyArray_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T19:55:56",
-    "DFFlagRevampCoexperienceTelemetryTable_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T19:56:46",
+    "DFFlagRevampCoexperienceTelemetryTable": "True",
+    "FFlagEnableSquadCoplayDependencyArray": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10816,8 +10816,8 @@
     "FFlagEnableTimeToSelectOffsetStat": "True",
     "FFlagEnableTimeToSelectStat": "True",
     "FIntReactMicroprofilerLevel3": "1",
-    "FStringFlagRepoGitHashFastString": "4f6c21936561a0c45e1320349f9059b08fbd08fb",
-    "DFStringFlagRepoGitHashDynamicString": "4f6c21936561a0c45e1320349f9059b08fbd08fb",
-    "FStringFlipTimeStampFastString": "2025-02-14T20:21:45.202Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-14T20:21:45.202Z"
+    "FStringFlagRepoGitHashFastString": "794d925b78f7e3d920bdef813fd15d786d2daf17",
+    "DFStringFlagRepoGitHashDynamicString": "794d925b78f7e3d920bdef813fd15d786d2daf17",
+    "FStringFlipTimeStampFastString": "2025-02-14T21:02:08.317Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-14T21:02:08.317Z"
 }
