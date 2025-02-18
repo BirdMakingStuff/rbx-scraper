@@ -10155,6 +10155,13 @@
     "FFlagIxpFastFlagIntegrationRegisterOnStartup": "True",
     "FFlagLuaAppPreventLoadNextRefresh": "True",
     "FFlagSkinTransferDontInvalidateAlternativeIdForBodyParts": "True",
+    "FFlagFFlagDisablePVForCIEnabledForAll_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:06:00",
+    "DFIntStudioVideoImportSupportedMaxDurationSeconds_Rollout": "61;60;2025-02-18T17:18:33",
+    "FFlagRemoveIDebuggerCloneTracker_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:32:44",
+    "DFFlagTaskDelayAndWaitNanInfErrorMsg_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:33:46",
+    "FFlagSaveAsLocalPluginAlwaysRbxm_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:34:09",
+    "FFlagFixPluginRunContextRunning2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:34:23",
+    "DFFlagDeferredEventsMaximumQueueSizeTelemetry_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:34:26",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -10359,8 +10366,10 @@
     "FIntReactMicroprofilerLevel3": "1",
     "DFFlagRevampCoexperienceTelemetryTable": "True",
     "FFlagEnableSquadCoplayDependencyArray": "True",
-    "FStringFlagRepoGitHashFastString": "794d925b78f7e3d920bdef813fd15d786d2daf17",
-    "DFStringFlagRepoGitHashDynamicString": "794d925b78f7e3d920bdef813fd15d786d2daf17",
-    "FStringFlipTimeStampFastString": "2025-02-14T21:02:08.317Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-14T21:02:08.317Z"
+    "FFlagEnableLuaCoreScriptsErrorV2Counter_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:07:44",
+    "FIntLuaCoreScriptsErrorV2ThrottleHundredthPercentage_Staged": "10000;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:28:08",
+    "FStringFlagRepoGitHashFastString": "a7ede69226157c8d2ca70147df8fae2f70e4b231",
+    "DFStringFlagRepoGitHashDynamicString": "a7ede69226157c8d2ca70147df8fae2f70e4b231",
+    "FStringFlipTimeStampFastString": "2025-02-18T17:36:13.929Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-18T17:36:13.929Z"
 }
