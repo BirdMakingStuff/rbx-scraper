@@ -265,5 +265,8 @@
     "Header.SummaryReport": "Significant DAU or revenue change",
     "Action.ViewReport": "See deep dive report",
     "Caption.SummaryReport": "Your {dateRange} deep dive",
-    "Header.MonthlyChange": "Monthly Change"
+    "Header.MonthlyChange": "Monthly Change",
+    "Description.Recommendation.viewAcquisitionAndInvestigateRFYSignal": "View {linkStart0}acquisition{linkEnd0} sources and investigate movements in {linkStart1}recommendations signals{linkEnd1}",
+    "Description.Recommendation.LookForRFYMetricDrop": "Look for key metric drops in {linkStart0}recommendation signals{linkEnd0}",
+    "Description.Recommendation.lookForMetricRFYGain": "Look for key metric gains in Benchmarks and {linkStart0}recommendation signals{linkEnd0} to find potential drivers"
 }

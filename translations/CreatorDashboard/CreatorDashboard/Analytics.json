@@ -938,7 +938,7 @@
     "Description.ItemPurchaserGender": "Percentage of monthly active users by gender",
     "Title.Platform": "Purchase Platforms",
     "Description.ItemPurchasePlatform": "This chart shows the percentage of sales made on each platform",
-    "Heading.SalesByExperience": "Sales by Experience",
+    "Heading.SalesByExperience": "Sales by Location",
     "Label.Metric.ServerMemoryByAge": "Server Memory Usage by Age",
     "Description.PublishingAdvance": "The creator will pay the publishing advance upfront at the time of publishing an item. After an item is published, Roblox will not take the 30% commission until the publishing advance is fully recovered by the creator.",
     "Title.Table.ItemTotalTransactionCount": "Sales",
@@ -974,7 +974,7 @@
     "Action.Arize": "Debug Report",
     "Label.ViewByChannels": "Channels",
     "Label.ViewBy": "View by",
-    "Label.ViewByExternalLinks": "External Links",
+    "Label.ViewByExternalLinks": "Share Links",
     "Warning.ShareLinkCampaignExcluded": "*Excludes new users that haven’t reached a sufficient number of days for metric",
     "Title.Table.ThumbnailAssetId": "Thumbnail asset id",
     "Description.Table.ThumbnailAssetId": "Thumbnail asset id column, only visible for internal roles",
@@ -999,5 +999,6 @@
     "Label.DaysSuffix": "days",
     "Description.HomeRecommendationImpressions": "Unique users who viewed your game from home recommendations.",
     "Description.HomeRecommendationPlays": "Unique users who played from home recommendations.",
-    "Description.HomeRecommendationSignals": "High-value signals used in Recommended For You algorithm. All 7 day metrics are averages per user who joined via home recommendations."
+    "Description.HomeRecommendationSignals": "High-value signals used in Recommended For You algorithm. All 7 day metrics are averages per user who joined via home recommendations.",
+    "Warning.ShareLinkCampaignQualifiedPlay": "*Only links with more than 5 new users with qualified plays are shown"
 }
