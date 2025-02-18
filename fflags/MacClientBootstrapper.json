@@ -202,8 +202,8 @@
     "DFFlagRevampCoexperienceTelemetryTable": "True",
     "FFlagEnableSquadCoplayDependencyArray": "True",
     "FFlagDataModelPatcherRecordCachedUserId": "True",
-    "FFlagEnableClientRbxmBundleSplitExperiment3_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T21:05:37",
-    "FFlagSetManagerSmallRefactor_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T21:12:50",
+    "FFlagEnableClientRbxmBundleSplitExperiment3": "True",
+    "FFlagSetManagerSmallRefactor": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -227,8 +227,8 @@
     "DeprecatedOSXMajorVersion": "10",
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
-    "FStringFlagRepoGitHashFastString": "81ea315dc7ee628134acaa2bbdc3a5fbb890cdda",
-    "DFStringFlagRepoGitHashDynamicString": "81ea315dc7ee628134acaa2bbdc3a5fbb890cdda",
-    "FStringFlipTimeStampFastString": "2025-02-18T21:32:06.014Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-18T21:32:06.014Z"
+    "FStringFlagRepoGitHashFastString": "c74c5265963115f4e8d44bf8db2fe683b2575fde",
+    "DFStringFlagRepoGitHashDynamicString": "c74c5265963115f4e8d44bf8db2fe683b2575fde",
+    "FStringFlipTimeStampFastString": "2025-02-18T22:37:32.030Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-18T22:37:32.030Z"
 }
