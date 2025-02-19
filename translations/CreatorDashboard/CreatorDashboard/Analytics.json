@@ -913,7 +913,7 @@
     "Label.Dimension.AcquisitionSource.Curation": "Curation",
     "Label.Metric.TotalSessionsEndedInBucket": "New User First Session Retention",
     "Heading.Assistant": "Assistant",
-    "Label.Assistant.MonthlyReport": "Your monthly report",
+    "Label.Assistant.MonthlyReport": "Your AI report",
     "Label.Assistant.Feedback": "Was this helpful?",
     "Action.ViewReport": "View Report",
     "Heading.Assistant.BannerTitle": "Your analytics report is ready ({dateRange})",
