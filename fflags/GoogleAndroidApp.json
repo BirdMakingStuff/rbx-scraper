@@ -10221,6 +10221,8 @@
     "FFlagEnableExplanationTextChatLineReport": "True",
     "FFlagAXRefactorControlPanel3": "True",
     "FIntRuntimeMaxNumOfThreads": "3000",
+    "FFlagInExperienceMenuCanvasGroupsInvisible2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T17:03:27",
+    "FStringIxpNewLayersForRegistration_Rollout": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage.Exposure,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features,ProfileQRCodeScannerLayer,AvatarExperience.UA.SearchView,Social.ViewFriendSortInGameFriends;60;2025-02-20T17:03:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10923,6 +10925,9 @@
     "FFlagACSRemoveProxyWrap": "True",
     "FFlagVideoStreamAdaptiveBitrate3": "True",
     "FFlagInputEventsRace": "True",
+    "DFFlagAndroidReportPeakRSS_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T17:00:59",
+    "DFIntRenderFixedTargetResolutionMargin2_Staged": "4;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T17:06:01",
+    "FFlagAndroidTrimMemoryCounters_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T17:11:14",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
@@ -11065,8 +11070,8 @@
     "FFlagProfilePlatformBluePrimaryCTAIXPSetupEnabled": "True",
     "FFlagProfilePlatformEnableSupportForMultiProfileTypes_v4": "True",
     "FFlagExpChatUseVerticalScrollBarInset": "True",
-    "FStringFlagRepoGitHashFastString": "0307d07577a6fbce0db792754eb18b8649da16b2",
-    "DFStringFlagRepoGitHashDynamicString": "0307d07577a6fbce0db792754eb18b8649da16b2",
-    "FStringFlipTimeStampFastString": "2025-02-20T01:06:32.483Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-20T01:06:32.483Z"
+    "FStringFlagRepoGitHashFastString": "f451006e912471809361316a8582326f1ee9f86a",
+    "DFStringFlagRepoGitHashDynamicString": "f451006e912471809361316a8582326f1ee9f86a",
+    "FStringFlipTimeStampFastString": "2025-02-20T17:12:05.159Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-20T17:12:05.159Z"
 }

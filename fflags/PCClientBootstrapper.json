@@ -205,6 +205,9 @@
     "FFlagEnableClientRbxmBundleSplitExperiment3": "True",
     "FFlagSetManagerSmallRefactor": "True",
     "DFFlagBroadphaseSupportMidphaseOpt": "True",
+    "FFlagProfilePlatformEnableSupportForMultiProfileTypes_v4_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T17:04:05",
+    "FFlagProfilePlatformBluePrimaryCTAIXPSetupEnabled_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T17:06:39",
+    "FFlagProfilePlatformBluePrimaryCTAIXPEnabled_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T17:07:06",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -222,8 +225,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "0307d07577a6fbce0db792754eb18b8649da16b2",
-    "DFStringFlagRepoGitHashDynamicString": "0307d07577a6fbce0db792754eb18b8649da16b2",
-    "FStringFlipTimeStampFastString": "2025-02-20T01:06:32.483Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-20T01:06:32.483Z"
+    "FStringFlagRepoGitHashFastString": "f451006e912471809361316a8582326f1ee9f86a",
+    "DFStringFlagRepoGitHashDynamicString": "f451006e912471809361316a8582326f1ee9f86a",
+    "FStringFlipTimeStampFastString": "2025-02-20T17:12:05.159Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-20T17:12:05.159Z"
 }
