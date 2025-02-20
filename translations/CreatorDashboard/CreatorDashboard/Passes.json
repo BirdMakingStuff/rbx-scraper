@@ -32,5 +32,7 @@
     "Action.ManagePasses": "Manage passes",
     "Label.EnableRegionalPricing": "Enable regional pricing",
     "Tooltip.EnableRegionalPricing": "Roblox will convert the default price for the country or region where your users are located.",
-    "Description.RequiresDynamicPrices": "Requires dynamic prices. Check with {linkStart}Dynamic Price Check{linkEnd}"
+    "Description.RequiresDynamicPrices": "Requires dynamic prices. Check with {linkStart}Dynamic Price Check{linkEnd}",
+    "Heading.Price": "Price",
+    "Label.DefaultPrice": "Default Price"
 }
