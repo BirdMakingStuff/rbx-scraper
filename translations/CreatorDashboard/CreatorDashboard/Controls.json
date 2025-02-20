@@ -16,5 +16,6 @@
     "Action.Apply": "Apply",
     "Label.BackToOverview": "Back to Overview",
     "Action.AddVideo": "Add Video ({priceStart}price{priceEnd})",
-    "Action.UploadImage": "Upload image"
+    "Action.UploadImage": "Upload image",
+    "Action.More": "More"
 }

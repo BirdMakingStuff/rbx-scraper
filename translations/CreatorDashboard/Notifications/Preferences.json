@@ -194,5 +194,8 @@
     "Label.NotificationTypeGroupForumsSubscriberNotification": "Community Forum Post Subscriptions",
     "Description.NotificationTypeGroupForumsCommentCreated": "A forum post I created has a new comment",
     "Description.NotificationTypeGroupForumsCommentReplyCreated": "A forum comment I made has a new reply",
-    "Description.NotificationTypeGroupForumsSubscriberNotification": "A forum post I subscribe to has new content"
+    "Description.NotificationTypeGroupForumsSubscriberNotification": "A forum post I subscribe to has new content",
+    "Label.NotificationTypePlaceCommentTag": "Place Comment Tag",
+    "Description.NotificationTypePlaceCommentTag": "I have been tagged in a comment",
+    "Description.UnsubscribeFromPlaceCommentTag": "Stop notifying me about comments in my Places in Studio"
 }
