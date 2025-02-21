@@ -10224,11 +10224,8 @@
     "DFFlagInstanceRetrieveSync": "True",
     "DFFlagCheckSignalBeforeConnect": "True",
     "FFlagScriptDocumentMultiTextEdit2": "True",
-    "DFFlagTextChatEscapePostFilterClient2": "True",
-    "DFFlagTextChatEscapePostFilterRCC": "True",
     "FFlagUIOcclusionMetricsDontComputeMetricsIfThrottled": "True",
     "FFlagFFlagFixToastNotificationRightPosition": "True",
-    "DFFlagTextChatServiceHandleNewLines": "True",
     "FFlagGlobalSettingsEngineModule": "True",
     "FFlagAddFriendsTelemetryEvents": "True",
     "FFlagFixPackageModificationDialogWithGetLatest": "True",
@@ -10457,8 +10454,8 @@
     "DFFlagAddMoreInfoToReentrancyErrors": "True",
     "FFlagHeapProfilerSearch": "True",
     "FFlagInputEventsRace": "True",
-    "FStringFlagRepoGitHashFastString": "129f9f9693c4b50c8f6483ea7c209726d0db6012",
-    "DFStringFlagRepoGitHashDynamicString": "129f9f9693c4b50c8f6483ea7c209726d0db6012",
-    "FStringFlipTimeStampFastString": "2025-02-21T01:03:33.872Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-21T01:03:33.872Z"
+    "FStringFlagRepoGitHashFastString": "9a47184aa6d51e78461341a299ead40fe784fdb4",
+    "DFStringFlagRepoGitHashDynamicString": "9a47184aa6d51e78461341a299ead40fe784fdb4",
+    "FStringFlipTimeStampFastString": "2025-02-21T02:19:55.756Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-21T02:19:55.756Z"
 }
