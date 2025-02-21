@@ -43,7 +43,7 @@
     "Heading.ValidateInTestMode": "Validate in Test Mode",
     "Description.ValidateInTestModeAlertText": "Before you can activate the feature, you must first validate that it works in Test Mode. {lineBreak}See {linkStart}Developer Products{linkEnd} for more information.",
     "Heading.TestMode": "Test Mode",
-    "Description.TestModeSubtitle": "Before enabling external purchases, make sure you have the proper implementation of the {linkStart}ProcessReciept API{linkEnd} in your experience.",
+    "Description.TestModeSubtitle": "Before enabling external purchases, make sure you have the proper implementation of the {linkStart}ProcessReceipt API{linkEnd} in your experience.",
     "Heading.TestModeInstructions": "Test Mode Instructions",
     "Heading.TestModeInstruction1": "Turn on Test Mode and enable developer product(s) for testing",
     "Message.TestModeInstruction1": "Turn on Test Mode by clicking {boldStart}Enable Test Mode{boldEnd} below. Go to the settings page of the developer product you want to test and select {boldStart}Allow External Purchases{boldEnd}.",

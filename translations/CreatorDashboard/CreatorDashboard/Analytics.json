@@ -1002,5 +1002,6 @@
     "Description.HomeRecommendationSignals": "High-value signals used in Recommended For You algorithm. All 7 day metrics are averages per user who joined via home recommendations.",
     "Warning.ShareLinkCampaignQualifiedPlay": "*Only links with more than 5 new users with qualified plays are shown",
     "Label.Dimension.UniverseName": "Universe Name",
-    "Description.Table.ShareLinkNewUsersFunnel": "Cumulative downstream metrics for new unique users acquired through different channels and share links over the selected period"
+    "Description.Table.ShareLinkNewUsersFunnel": "Cumulative downstream metrics for new unique users acquired through different channels and share links over the selected period",
+    "Label.Dimension.AvatarItemId": "Avatar Item Id"
 }
