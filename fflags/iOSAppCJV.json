@@ -10888,7 +10888,7 @@
     "FFlagEnableAffiliateLinksAuthenticatedVisitTracking": "True",
     "FFlagFoundationAddWidthToToast": "True",
     "FFlagRemoveDeprecatedNotification": "True",
-    "FStringGameInviteBannerEnabledGameIds2": "6173080615,1831550657,1235188606,3876150506,2380077519,2992873140,4858475432,6749060816",
+    "FStringGameInviteBannerEnabledGameIds2": "6173080615,2380077519,2992873140,4858475432,6749060816",
     "FIntReactMicroprofilerLevel3": "1",
     "FFlagAXFixWearAfterTryOnOwnedBundles2": "True",
     "FFlagAXFixLooksTileAnalytics": "True",
@@ -10983,8 +10983,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "de30dd02006b8839890738361165fb0ab3f0e765",
-    "DFStringFlagRepoGitHashDynamicString": "de30dd02006b8839890738361165fb0ab3f0e765",
-    "FStringFlipTimeStampFastString": "2025-02-21T22:37:58.488Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-21T22:37:58.488Z"
+    "FStringFlagRepoGitHashFastString": "f8472e1ee2aade3dbc5ca590706946f920058b91",
+    "DFStringFlagRepoGitHashDynamicString": "f8472e1ee2aade3dbc5ca590706946f920058b91",
+    "FStringFlipTimeStampFastString": "2025-02-22T01:17:19.540Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-22T01:17:19.540Z"
 }
