@@ -10237,6 +10237,8 @@
     "FFlagStudioNativeMenu": "True",
     "FFlagRuntimeEnabled8": "True",
     "FFlagInExperienceInterventionTimeoutConfig": "True",
+    "FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T17:09:45",
+    "FFlagIxpFastFlagIntegrationApplyInitialIxpValues_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T17:10:34",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10947,8 +10949,11 @@
     "DFFlagSendModerationExternalCreativeUrl": "True",
     "FFlagExperienceInviteShareLinksOpensEDP": "True",
     "FFlagPartyVoiceMuteOthers": "True",
-    "FStringFlagRepoGitHashFastString": "1d98b16c1cffbb02123adf88696c5a5f3b2f0985",
-    "DFStringFlagRepoGitHashDynamicString": "1d98b16c1cffbb02123adf88696c5a5f3b2f0985",
-    "FStringFlipTimeStampFastString": "2025-02-22T18:07:58.240Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-22T18:07:58.240Z"
+    "FFlagCLI142291_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T17:11:16",
+    "FFlagSimSolverRefactorLDLTaskManagement_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T17:14:15",
+    "FFlagLuaAppMoveOmniFeedPropsKey_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T17:29:07",
+    "FStringFlagRepoGitHashFastString": "5e3d7c2dcf182c82cce3d3690ec63390f6bf3a3f",
+    "DFStringFlagRepoGitHashDynamicString": "5e3d7c2dcf182c82cce3d3690ec63390f6bf3a3f",
+    "FStringFlipTimeStampFastString": "2025-02-24T17:36:14.151Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-24T17:36:14.151Z"
 }
