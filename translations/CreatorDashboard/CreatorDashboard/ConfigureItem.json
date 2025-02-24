@@ -406,5 +406,6 @@
     "Message.InvalidSaleStatus": "the scheduled sale status was invalid.",
     "Message.AlreadyOnSale": "Deselect the on sale toggle to schedule start date",
     "Message.PublishImmediately": "This is when your item will be on sale.",
-    "Message.MustSaveScheduledSale": "Save changes to schedule the sale"
+    "Message.MustSaveScheduledSale": "Save changes to schedule the sale",
+    "Message.ExternalPurchaseInfo": "Your product will be available for purchase outside the experience but not in other experiences."
 }
