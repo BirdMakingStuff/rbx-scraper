@@ -11022,7 +11022,7 @@
     "FFlagAXRemoveAwaitUsageInThunks": "True",
     "FFlagNotificationsUsePolicyForEDP": "True",
     "FFlagProfilePlatformFixFriendsAttribution_v1": "True",
-    "FFlagLuaAppRewriteOmniFeedStartRows2_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-26T17:39:43",
+    "FFlagLuaAppRewriteOmniFeedStartRows2": "True",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -11053,8 +11053,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "e367e7b885328a316c8f3eb5d1dd7ecf1c9353ed",
-    "DFStringFlagRepoGitHashDynamicString": "e367e7b885328a316c8f3eb5d1dd7ecf1c9353ed",
-    "FStringFlipTimeStampFastString": "2025-02-26T18:33:41.816Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-26T18:33:41.816Z"
+    "FStringFlagRepoGitHashFastString": "dd0d5d7f2401b0d815c41398698dc8dc4a7714c3",
+    "DFStringFlagRepoGitHashDynamicString": "dd0d5d7f2401b0d815c41398698dc8dc4a7714c3",
+    "FStringFlipTimeStampFastString": "2025-02-26T18:44:13.010Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-26T18:44:13.010Z"
 }
