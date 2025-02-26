@@ -10305,7 +10305,6 @@
     "FFlagOpenTelemetryRemoveExtraFields": "True",
     "DFFlagRobloxTelemetryMakeStringFromListFix": "True",
     "DFFlagScriptProfilerForInternalUsers": "True",
-    "FFlagOpenTelemetryExtraAttributes_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-26T00:52:32",
     "FFlagFoundationButtonSubEmphasisInverseStateLayer": "True",
     "FFlagOpenTelemetryExtraAttributes": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -11001,8 +11000,8 @@
     "DFFlagRakNetMissingPingReport": "True",
     "DFFlagConvexDecompCompressionAnalytics660": "True",
     "DFIntConvexDecompCompressionZstd": "22",
-    "FStringFlagRepoGitHashFastString": "d189e69d1a5c2590757360b014c81e10f3b348d0",
-    "DFStringFlagRepoGitHashDynamicString": "d189e69d1a5c2590757360b014c81e10f3b348d0",
-    "FStringFlipTimeStampFastString": "2025-02-26T01:53:56.784Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-26T01:53:56.784Z"
+    "FStringFlagRepoGitHashFastString": "0c67fefca05f2ce3a8c88ee9a553cc66261405b8",
+    "DFStringFlagRepoGitHashDynamicString": "0c67fefca05f2ce3a8c88ee9a553cc66261405b8",
+    "FStringFlipTimeStampFastString": "2025-02-26T02:20:45.924Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-26T02:20:45.924Z"
 }
