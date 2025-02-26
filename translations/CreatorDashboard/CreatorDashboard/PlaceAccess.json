@@ -24,7 +24,7 @@
     "Error.SocialSlotAllowedRange": "Value should be between 1 and {value}.",
     "Label.JoinSettings": "Direct Access to Places",
     "Message.HasPlaceOverrideInfo": "You’ve made an exception for this place.",
-    "Message.NonrootPlaceToggleInfo": "When this setting is on, people can jump straight to this place when they enter your experience instead of the start place.",
+    "Message.NonrootPlaceToggleInfo": "Allows users to skip the start place and join this place directly through matchmaking, teleports, server lists, or following friends. This setting is overridden if this place is designated as the landing spot for an event.",
     "Label.AllowDirectJoins": "Allow direct access to this place",
     "Message.ClearJoinRestrictionsOverrideSuccess": "Reset successful",
     "Message.ClearJoinRestrictionsOverrideError": "Something went wrong. Try again.",

@@ -266,7 +266,9 @@
     "Action.ViewReport": "See top drivers",
     "Caption.SummaryReport": "Your {dateRange} report",
     "Header.MonthlyChange": "Monthly change",
-    "Description.Recommendation.viewAcquisitionAndInvestigateRFYSignal": "View {linkStart0}acquisition{linkEnd0} sources and investigate movements in {linkStart1}recommendations signals{linkEnd1}",
-    "Description.Recommendation.LookForRFYMetricDrop": "Look for key metric drops in {linkStart0}recommendation signals{linkEnd0}",
-    "Description.Recommendation.lookForMetricRFYGain": "Look for key metric gains in Benchmarks and {linkStart0}recommendation signals{linkEnd0} to find potential drivers"
+    "Description.Recommendation.viewAcquisitionAndInvestigateRFYSignal": "View {linkStart0}recommendation signals{linkEnd0} and {linkStart1}learn how{linkEnd1} discovery works",
+    "Description.Recommendation.LookForRFYMetricDrop": "Look for key metric drops in Benchmarks and {linkStart0}recommendation signals{linkEnd0}",
+    "Description.Recommendation.lookForMetricRFYGain": "Look for key metric gains in Benchmarks and {linkStart0}recommendation signals{linkEnd0} to find potential drivers",
+    "Description.Recommendation.CheckRecentThumbnailUpdates": "Check recent updates to your homepage {linkStart0}thumbnails{linkEnd0}",
+    "Description.Recommendation.RecommendationDropLeadQPTRDrop": "A large spike in {linkStart0}recommendation traffic{linkEnd0} can lead to short-term drops in qualified play through rate and retention"
 }
