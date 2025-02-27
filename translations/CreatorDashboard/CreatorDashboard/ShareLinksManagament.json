@@ -56,5 +56,7 @@
     "Error.SearchingExperiences": "An error occurred while searching for creators.",
     "Label.SelectExperience": "Select experience",
     "Label.InvalidUniverseAccess": "Unauthorized to access universe",
-    "Label.ViewAcquisition": "View acquisition"
+    "Label.ViewAcquisition": "View acquisition",
+    "Label.Experience": "Experience",
+    "Label.ExperienceRequired": "Experience name is required"
 }
