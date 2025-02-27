@@ -10306,9 +10306,11 @@
     "DFFlagScriptProfilerForInternalUsers": "True",
     "FFlagFoundationButtonSubEmphasisInverseStateLayer": "True",
     "FFlagEnableAudioDuckingAroundRewardedVideoAds4": "True",
-    "FFlagQRCodeScannerDeeplinkExperiment_v3_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-26T22:59:53",
-    "DFFlagHttpBroaderErrorReporting_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-26T23:31:45",
-    "DFFlagCCSD9185_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-26T23:32:04",
+    "FFlagQRCodeScannerDeeplinkExperiment_v3": "True",
+    "DFFlagCCSD9185": "True",
+    "DFFlagHttpBroaderErrorReporting": "True",
+    "DFFlagSurfaceControllerLogSeverity": "True",
+    "DFFlagSimSolverDeDupeForceVisLogic": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10530,8 +10532,8 @@
     "FFlagAXActionButtonAccountForMissingItemData": "True",
     "FFlagUwpRevertDirExe": "True",
     "FFlagInternalExportHandleNoHeadBoneInFacs": "True",
-    "FStringFlagRepoGitHashFastString": "2946adc2ddb343263f75f69e119e26f58b9bc5c7",
-    "DFStringFlagRepoGitHashDynamicString": "2946adc2ddb343263f75f69e119e26f58b9bc5c7",
-    "FStringFlipTimeStampFastString": "2025-02-26T23:33:14.616Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-26T23:33:14.616Z"
+    "FStringFlagRepoGitHashFastString": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+    "DFStringFlagRepoGitHashDynamicString": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+    "FStringFlipTimeStampFastString": "2025-02-27T00:57:12.864Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-27T00:57:12.864Z"
 }
