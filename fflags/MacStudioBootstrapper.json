@@ -215,6 +215,7 @@
     "FFlagAXCatalogPerfReduxReductionIXP": "True",
     "FFlagAXCombineGetOutfitDispatchesIXP1": "False",
     "FFlagNotificationsUsePolicyForEDP": "True",
+    "FFlagMoveAdditionalCiUpsellGatingToGuac_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-27T20:59:42",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -228,8 +229,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "0ffef9b9abd8abdb3602e8b934621d6c027afea1",
-    "DFStringFlagRepoGitHashDynamicString": "0ffef9b9abd8abdb3602e8b934621d6c027afea1",
-    "FStringFlipTimeStampFastString": "2025-02-27T20:29:20.386Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-27T20:29:20.386Z"
+    "FStringFlagRepoGitHashFastString": "79ffed500a2306420987f7838477d347a3b77ae1",
+    "DFStringFlagRepoGitHashDynamicString": "79ffed500a2306420987f7838477d347a3b77ae1",
+    "FStringFlipTimeStampFastString": "2025-02-27T21:33:22.970Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-27T21:33:22.970Z"
 }
