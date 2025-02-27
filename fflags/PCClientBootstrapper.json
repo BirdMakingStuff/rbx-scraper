@@ -222,8 +222,6 @@
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "DFFlagDeviceErrorConstructionFix": "True",
     "FFlagWinInstallerUseBITS2": "True",
-    "FFlagProfilePlatformBluePrimaryCTAIXPEnabled_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-27T21:43:16",
-    "FFlagProfilePlatformBluePrimaryCTAIXPSetupEnabled_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-27T21:43:31",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -236,8 +234,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "a8be38e3e427015038a865348e7de3f55b02f8d6",
-    "DFStringFlagRepoGitHashDynamicString": "a8be38e3e427015038a865348e7de3f55b02f8d6",
-    "FStringFlipTimeStampFastString": "2025-02-27T22:38:57.938Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-27T22:38:57.938Z"
+    "FStringFlagRepoGitHashFastString": "f8df39e77f76da9a5d205bd98cdc2c0731f16f93",
+    "DFStringFlagRepoGitHashDynamicString": "f8df39e77f76da9a5d205bd98cdc2c0731f16f93",
+    "FStringFlipTimeStampFastString": "2025-02-27T23:35:12.835Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-27T23:35:12.835Z"
 }
