@@ -10311,6 +10311,7 @@
     "DFFlagHttpBroaderErrorReporting": "True",
     "DFFlagSurfaceControllerLogSeverity": "True",
     "DFFlagSimSolverDeDupeForceVisLogic": "True",
+    "FFlagPathfindingRaycastLoopCap_Staged": "True;SteadyState;10;30;Rollout;100;30;Promote;2025-02-27T17:33:12",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11183,8 +11184,8 @@
     "FFlagAXRemoveAwaitUsageInThunks": "True",
     "FFlagLuaAppRewriteOmniFeedStartRows2": "True",
     "FFlagLuaAppOmniFeedImpsDelay2": "True",
-    "FStringFlagRepoGitHashFastString": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
-    "DFStringFlagRepoGitHashDynamicString": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
-    "FStringFlipTimeStampFastString": "2025-02-27T00:57:12.864Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-27T00:57:12.864Z"
+    "FStringFlagRepoGitHashFastString": "f93448764e60a90101a75d8f8402736255fb956a",
+    "DFStringFlagRepoGitHashDynamicString": "f93448764e60a90101a75d8f8402736255fb956a",
+    "FStringFlipTimeStampFastString": "2025-02-27T17:34:22.683Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-27T17:34:22.683Z"
 }
