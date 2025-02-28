@@ -10345,6 +10345,7 @@
     "FFlagFlagRolloutTestStaticBool15": "True",
     "DFIntCLI52614Max": "120",
     "FFlagNewCheckAllForAnimation": "True",
+    "FFlagExplorerInsertObjectPosition": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11465,7 +11466,6 @@
     "FFlagImportQueueDesignFixes": "True",
     "DFFlagPreciseCFrameReplication": "True",
     "FFlagValidateTextChannelParent": "True",
-    "FFlagExplorerInsertObjectPosition": "True",
     "FFlagConvAIGetFreeModelsFallback": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagAccessoryAdjustmentFixApplyRelativeScale": "True",
@@ -11855,8 +11855,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "61031adf8b6ef8115abc0744c6ad80e0a6b45a74",
-    "DFStringFlagRepoGitHashDynamicString": "61031adf8b6ef8115abc0744c6ad80e0a6b45a74",
-    "FStringFlipTimeStampFastString": "2025-02-28T17:09:07.043Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-28T17:09:07.043Z"
+    "FStringFlagRepoGitHashFastString": "842f7cac4a07d14f2f5b992605e0bf6c75570c1b",
+    "DFStringFlagRepoGitHashDynamicString": "842f7cac4a07d14f2f5b992605e0bf6c75570c1b",
+    "FStringFlipTimeStampFastString": "2025-02-28T18:14:55.125Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-28T18:14:55.125Z"
 }
