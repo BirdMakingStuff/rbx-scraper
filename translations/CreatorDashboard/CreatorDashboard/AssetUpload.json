@@ -59,5 +59,6 @@
     "Message.FileCorrupted": "The file is corrupted.",
     "Label.CreateAsset": "Upload Asset",
     "Message.IdVerification": "Asset creation failed. Uploader is not ID verified.",
-    "Label.Pending": "Pending..."
+    "Label.Pending": "Pending...",
+    "Label.UseAssetManagerInStudio": "Use the {aStart}Asset Manager in Roblox Studio{aEnd} to upload files up to {byteLimit}."
 }
