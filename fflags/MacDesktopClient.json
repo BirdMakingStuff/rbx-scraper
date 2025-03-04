@@ -10234,7 +10234,6 @@
     "FFlagInExperienceInterventionTimeoutConfig": "True",
     "FFlagIxpFastFlagIntegrationApplyInitialIxpValues": "True",
     "FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2": "True",
-    "FFlagRemoveKDTree2_IXP": "1;Portal.FFlagRemoveKDTree2-002;FFlagRemoveKDTree2-002;719251750;flagbank",
     "DFFlagSQLiteCacheEvictBatchEnabled": "True",
     "DFFlagSimWarnUnassembledParts2": "True",
     "DFFlagCCSD9183": "True",
@@ -11075,8 +11074,8 @@
     "FFlagPerformanceControlPredictiveAPITelemetry": "True",
     "DFIntRobloxTelemetryLogDirSizeEventThrottleHundredthsPercent": "10000",
     "FFlagHttpUseRbxStorage10": "True",
-    "FStringFlagRepoGitHashFastString": "4ae2181d107274512a6f5d60b8d49e08a211891f",
-    "DFStringFlagRepoGitHashDynamicString": "4ae2181d107274512a6f5d60b8d49e08a211891f",
-    "FStringFlipTimeStampFastString": "2025-03-04T02:04:28.203Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-04T02:04:28.203Z"
+    "FStringFlagRepoGitHashFastString": "4eb65070a334a90650c3146f46128f18c17ec9e9",
+    "DFStringFlagRepoGitHashDynamicString": "4eb65070a334a90650c3146f46128f18c17ec9e9",
+    "FStringFlipTimeStampFastString": "2025-03-04T17:20:49.042Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-04T17:20:49.042Z"
 }
