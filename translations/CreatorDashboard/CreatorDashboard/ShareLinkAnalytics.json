@@ -13,7 +13,7 @@
     "Heading.ErrorState": "Request failed",
     "Label.TryAgain": "Try again",
     "Label.QualifiedSpenders": "Qualified Spender",
-    "Description.LifetimeLinkMetrics": "Lifetime performance for each affiliate link campaign",
+    "Description.LifetimeLinkMetrics": "Lifetime performance for each share link campaign",
     "Description.LinkVisits": "Clicks on your links",
     "Description.QualifiedSignups": "New Roblox accounts created from your links excluding alts and bots",
     "Description.QualifiedSpenders": "Qualified signups that purchased Robux",
@@ -23,5 +23,6 @@
     "Label.Total": "Total",
     "Label.CampaignNameRequired": "Campaign name is required",
     "Description.VanityLink": "Vanity links are owned by a notable brand, person, or entity.",
-    "Label.ViewShareLinksV2": "Manage links"
+    "Label.ViewShareLinksV2": "Manage links",
+    "Description.ShareLinksAffiliates": "Lifetime link metrics since 9/30/2024"
 }

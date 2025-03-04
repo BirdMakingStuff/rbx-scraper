@@ -136,5 +136,13 @@
     "Title.ImmersiveVideoViews": "Immersive Video Views",
     "Title.ImmersiveImageImpressions": "Immersive Image Impressions",
     "Description.OverviewImpressionsSummary": "Total number of impressions generated from video, image and portal ad units in this experience. Impressions from portal ads do not contribute to earnings.",
-    "Description.ImagePortalRewardedImpressionsSummary": "Total number of impressions generated from rewarded video ads, immersive image ads and immersive portal ads in this experience over the specified time period (this excludes any impressions generated from immersive video ads)."
+    "Description.ImagePortalRewardedImpressionsSummary": "Total number of impressions generated from rewarded video ads, immersive image ads and immersive portal ads in this experience over the specified time period (this excludes any impressions generated from immersive video ads).",
+    "Title.DailyUniqueViewers": "DUV (Daily Unique Viewers)",
+    "Description.DailyUniqueViewers": "The number of unique users who viewed one or more ads in your experience in a day. View is defined by impression.",
+    "Title.AverageEarningPerDailyUniqueViewer": "AEPDUV (Average Earning Per Daily Unique Viewer)",
+    "Description.AverageEarningPerDailyUniqueViewer": "Earnings generated per daily unique viewer.",
+    "Title.DUVDAURatio": "DUV/DAU",
+    "Description.DUVDAURatio": "Daily Unique viewer / Daily Active Users",
+    "Title.RequestedFilledImpressionReward": "Requested/Filled/Impression/Reward at Experience level",
+    "Description.RequestedFilledImpressionReward": "Requests: Number of ad requested. \nFilled: Number of ads developers received in their experience. \nImpression: Number of impressions from the rewarded video ads in this experience. \nReward: Number of rewards granted."
 }
