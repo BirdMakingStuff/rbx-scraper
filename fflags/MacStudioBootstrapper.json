@@ -214,6 +214,8 @@
     "FFlagNotificationsUsePolicyForEDP": "True",
     "FFlagMoveAdditionalCiUpsellGatingToGuac": "True",
     "FFlagProfilePlatformAddPresenceAnalytics": "True",
+    "DFFlagReportReplicatorStatsToTelemetryV2_Staged": "True;SteadyState;10;30;Revert;2025-03-04T21:02:03",
+    "DFFlagConsistentRakNetPing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-04T21:24:01",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -227,8 +229,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "874dcfbea72e36973ea051900f502e65de5f91e3",
-    "DFStringFlagRepoGitHashDynamicString": "874dcfbea72e36973ea051900f502e65de5f91e3",
-    "FStringFlipTimeStampFastString": "2025-03-04T20:36:48.553Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-04T20:36:48.553Z"
+    "FStringFlagRepoGitHashFastString": "7ad2ec2083000eb1edacc407eac0d647ab5754cb",
+    "DFStringFlagRepoGitHashDynamicString": "7ad2ec2083000eb1edacc407eac0d647ab5754cb",
+    "FStringFlipTimeStampFastString": "2025-03-04T21:27:42.413Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-04T21:27:42.413Z"
 }
