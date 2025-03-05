@@ -16,5 +16,5 @@ Web translations used to be scraped by an older version of rbxscraper using the 
 
 ## Requirements
 - Python 3.12
-    - requests 2.31.0
+    - requests 2.32.2
     - BeautifulSoup 4.12.3
