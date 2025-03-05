@@ -202,7 +202,6 @@
     "DFFlagRevampCoexperienceTelemetryTable": "True",
     "FFlagEnableSquadCoplayDependencyArray": "True",
     "FFlagDataModelPatcherRecordCachedUserId": "True",
-    "FFlagEnableClientRbxmBundleSplitExperiment3": "False",
     "FFlagSetManagerSmallRefactor": "True",
     "DFFlagBroadphaseSupportMidphaseOpt": "True",
     "DFFlagManualJointSupport2": "True",
@@ -230,8 +229,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "f7349ba7395b9cdf8dbf69fe5aaa0bd93abec4c9",
-    "DFStringFlagRepoGitHashDynamicString": "f7349ba7395b9cdf8dbf69fe5aaa0bd93abec4c9",
-    "FStringFlipTimeStampFastString": "2025-03-05T17:17:30.388Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-05T17:17:30.388Z"
+    "FStringFlagRepoGitHashFastString": "70b05e53ab243a7a2c2306438c43762b8da10fbe",
+    "DFStringFlagRepoGitHashDynamicString": "70b05e53ab243a7a2c2306438c43762b8da10fbe",
+    "FStringFlipTimeStampFastString": "2025-03-05T18:43:20.528Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-05T18:43:20.528Z"
 }
