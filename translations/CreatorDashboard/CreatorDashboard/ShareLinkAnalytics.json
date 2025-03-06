@@ -24,5 +24,14 @@
     "Label.CampaignNameRequired": "Campaign name is required",
     "Description.VanityLink": "Vanity links are owned by a notable brand, person, or entity.",
     "Label.ViewShareLinksV2": "Manage links",
-    "Description.ShareLinksAffiliates": "Lifetime link metrics since 9/30/2024"
+    "Description.ShareLinksAffiliates": "Lifetime link metrics since 9/30/2024",
+    "Label.QualifiedSignupSpenders": "Qualified Signup Spenders",
+    "Label.QualifiedReactivations": "Qualified Reactivations",
+    "Label.QualifiedReactivationSpenders": "Qualified Reactivation Spenders",
+    "Label.BookingsPerSignupSpender": "Avg Spend Per Signup Spender",
+    "Label.BookingsPerReactivationSpender": "Avg Spend Per Reactivation Spender",
+    "Description.QualifiedReactivations": "Reactivated Roblox accounts created from your links excluding alts and bots",
+    "Description.QualifiedReactivationSpenders": "Qualified reactivations that purchased Robux",
+    "Description.BookingsPerSignupSpender": "Average Robux purchased per qualified signup spender",
+    "Description.BookingsPerReactivationSpender": "Average Robux purchased per qualified reactivation spender"
 }

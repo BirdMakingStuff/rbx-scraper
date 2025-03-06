@@ -145,5 +145,9 @@
     "Description.DUVDAURatio": "Daily Unique viewer / Daily Active Users",
     "Title.RequestedFilledImpressionReward": "Requested/Filled/Impression/Reward at Experience level",
     "Description.RequestedFilledImpressionReward": "Requests: Number of ad requested. \nFilled: Number of ads developers received in their experience. \nImpression: Number of impressions from the rewarded video ads in this experience. \nReward: Number of rewards granted.",
-    "Title.MonetizationFunnelAtExperienceLevel": "Monetization Funnel at Experience level"
+    "Title.MonetizationFunnelAtExperienceLevel": "Monetization Funnel at Experience level",
+    "Label.Requested": "Requested",
+    "Label.Filled": "Filled",
+    "Label.Rewarded": "Rewarded",
+    "Label.Impression": "Impression"
 }

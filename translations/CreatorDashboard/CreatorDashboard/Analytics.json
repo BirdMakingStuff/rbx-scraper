@@ -1004,5 +1004,8 @@
     "Label.Dimension.UniverseName": "Universe Name",
     "Description.Table.ShareLinkNewUsersFunnel": "Cumulative downstream metrics for new unique users acquired through different channels and share links over the selected period",
     "Label.Dimension.AvatarItemId": "Avatar Item Id",
-    "Label.Dimension.Universe.Website": "Website"
+    "Label.Dimension.Universe.Website": "Website",
+    "Action.Back": "Back",
+    "Action.Next": "Next",
+    "Action.Done": "Done"
 }
