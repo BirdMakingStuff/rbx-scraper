@@ -216,6 +216,7 @@
     "FFlagWindowsInstallerIgnoreBootstrapperVersion2": "True",
     "FFlagFriendsCarouselRemoveJoinGameCardIXPEnabled": "True",
     "FFlagFriendsCarouselRemoveJoinGameCardIXPSetupEnabled_v2": "True",
+    "FFlagAXCombineGetOutfitDispatchesIXP2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-06T23:30:59",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -240,8 +241,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "43899bf91ae89d1ac4ab2940c1517a476dc1c7e4",
-    "DFStringFlagRepoGitHashDynamicString": "43899bf91ae89d1ac4ab2940c1517a476dc1c7e4",
-    "FStringFlipTimeStampFastString": "2025-03-06T22:35:07.894Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-06T22:35:07.894Z"
+    "FStringFlagRepoGitHashFastString": "fb76b74d5d901a22d0e04567f6d5e4cc881fa95c",
+    "DFStringFlagRepoGitHashDynamicString": "fb76b74d5d901a22d0e04567f6d5e4cc881fa95c",
+    "FStringFlipTimeStampFastString": "2025-03-06T23:34:43.385Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-06T23:34:43.385Z"
 }
