@@ -161,5 +161,7 @@
     "Label.IneligibleCompositeAlertTitle": "You cannot make this asset open use or distribute dependent assets",
     "Label.IneligibleCompositeAlertDescription": "This asset can only be used for your personal use.",
     "Message.OpenUseSaveSuccessful": "Successfully changed {assetName} to Open Use",
-    "Message.OpenUseSaveUnsuccessful": "Unable to change {assetName} to Open Use"
+    "Message.OpenUseSaveUnsuccessful": "Unable to change {assetName} to Open Use",
+    "Label.UseSubtitle": "Can use in experiences",
+    "Label.EditSubtitle": "Can edit metadata"
 }
