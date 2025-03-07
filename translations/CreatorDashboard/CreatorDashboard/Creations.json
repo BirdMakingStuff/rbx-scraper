@@ -545,7 +545,7 @@
     "Heading.RegionalPricingDisclaimer": "Disclaimer",
     "Message.RegionalPricingDisclaimer": "By proceeding to use regional pricing, you agree to give Roblox control of regional prices for enabled products. You understand that prices may change in the future and Roblox will communicate any upcoming changes.",
     "Action.Apply": "Apply",
-    "Heading.ApplyRegionalPricing": "Apply Regional Pricing",
+    "Heading.ApplyRegionalPricing": "Enable Regional Pricing",
     "Message.ApplyRegionalPricing": "Regional pricing allows our systems to adjust prices per country for your passes. You can view regional prices on the passes’ settings page.\n\nWould you like to enable regional pricing for {x} of {total} passes?",
     "Label.DisableRegionalPricing": "Disable Regional Pricing",
     "Action.DisableRegionalPricing": "Disable Regional Pricing",
