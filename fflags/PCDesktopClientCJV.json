@@ -10766,7 +10766,6 @@
     "DFFlagRenderRecordLongestShaderTime": "True",
     "FFlagCrashReportDX11WindowsHResult": "True",
     "FFlagSessionTrackingReportDX11HResult": "True",
-    "FFlagRenderDynamicResolutionScale12": "True",
     "FFlagAXEnableRecentlyViewedSearchItemsErrorLogging": "True",
     "FFlagProfilePlatformFavoritesEnableProfilePlatformClickAnalytics": "True",
     "FFlagAXFixLooksTileAnalytics": "True",
@@ -11205,8 +11204,8 @@
     "FFlagWheelEventUsageTelemetry": "True",
     "FFlagWin32ScrollTelemetry": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "27cc6383379cf8202aec1c13df2fa6d227f8b32b",
-    "DFStringFlagRepoGitHashDynamicString": "27cc6383379cf8202aec1c13df2fa6d227f8b32b",
-    "FStringFlipTimeStampFastString": "2025-03-07T21:17:01.395Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-07T21:17:01.395Z"
+    "FStringFlagRepoGitHashFastString": "7477f14fbdf96e9777ab924a08387c113129dc64",
+    "DFStringFlagRepoGitHashDynamicString": "7477f14fbdf96e9777ab924a08387c113129dc64",
+    "FStringFlipTimeStampFastString": "2025-03-07T22:13:27.069Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-07T22:13:27.069Z"
 }
