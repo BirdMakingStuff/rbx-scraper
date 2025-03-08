@@ -933,9 +933,9 @@
     "Heading.ItemAnalytics": "Analytics",
     "Title.PerformanceServerMemoryUsageByAge": "Server memory by age",
     "Description.PurchaserDemographicByCountry": "Percentage of monthly active users by country",
-    "Description.PurchaserDemographics": "Percent of purchasers by country",
-    "Description.ItemPurchaserAge": "Percentage of monthly active users by age group",
-    "Description.ItemPurchaserGender": "Percentage of monthly active users by gender",
+    "Description.PurchaserDemographics": "Purchase distribution by country",
+    "Description.ItemPurchaserAge": "Purchase distribution by age group",
+    "Description.ItemPurchaserGender": "Purchase distribution by gender",
     "Title.Platform": "Purchase Platforms",
     "Description.ItemPurchasePlatform": "This chart shows the percentage of sales made on each platform",
     "Heading.SalesByExperience": "Sales by Location",
@@ -1025,5 +1025,6 @@
     "Label.SurvivalGenreBenchmark": "Survival genre benchmark",
     "Label.ShoppingGenreBenchmark": "Shopping genre benchmark",
     "Label.SocialGenreBenchmark": "Social genre benchmark",
-    "Label.UtilityAndOtherGenreBenchmark": "Utility & Other genre benchmark"
+    "Label.UtilityAndOtherGenreBenchmark": "Utility & Other genre benchmark",
+    "Description.TakeActionCommerceEligibility": "To sell your off-Roblox products on your experience, complete and meet the checklist requirements below, and then you're ready to go!"
 }
