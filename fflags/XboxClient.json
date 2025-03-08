@@ -10525,6 +10525,7 @@
     "DFStringInternalTestGroupIds": "8626839",
     "FStringUnfilteredThreadsLearnMoreUrl": "https://help.roblox.com/hc/articles/32461054421012",
     "FFlagRobloxTelemetryCacheOSCalls": "True",
+    "FFlagProfilePlatformEnableStore_V2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-08T15:30:44",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -10874,8 +10875,8 @@
     "FFlagSduiUnifiedLoggingComponentType": "True",
     "FFlagAXCombineGetOutfitDispatchesIXP2": "True",
     "DFFlagHttpThrottlingDisableXCoverage": "True",
-    "FStringFlagRepoGitHashFastString": "76704aae80974beffd4e7f809482e274b79e060c",
-    "DFStringFlagRepoGitHashDynamicString": "76704aae80974beffd4e7f809482e274b79e060c",
-    "FStringFlipTimeStampFastString": "2025-03-08T00:37:30.099Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-08T00:37:30.099Z"
+    "FStringFlagRepoGitHashFastString": "39fcc12d26f3aa2743ceb44d7a438aaff0e85ad0",
+    "DFStringFlagRepoGitHashDynamicString": "39fcc12d26f3aa2743ceb44d7a438aaff0e85ad0",
+    "FStringFlipTimeStampFastString": "2025-03-08T15:31:43.260Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-08T15:31:43.260Z"
 }
