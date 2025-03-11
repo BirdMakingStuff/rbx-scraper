@@ -212,8 +212,6 @@
     "FFlagMoveAdditionalCiUpsellGatingToGuac": "True",
     "DFFlagConsistentRakNetPing": "True",
     "FFlagWindowsInstallerIgnoreBootstrapperVersion2": "True",
-    "FFlagFriendsCarouselRemoveJoinGameCardIXPEnabled": "True",
-    "FFlagFriendsCarouselRemoveJoinGameCardIXPSetupEnabled_v2": "True",
     "FFlagAXCombineGetOutfitDispatchesIXP2": "False",
     "DFFlagHttpThrottlingDisableXCoverage": "True",
     "FFlagRenderDynamicResolutionScale12": "True",
@@ -232,8 +230,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "363488be60ea8fd3e1ff895dad0cb237b8fc12f8",
-    "DFStringFlagRepoGitHashDynamicString": "363488be60ea8fd3e1ff895dad0cb237b8fc12f8",
-    "FStringFlipTimeStampFastString": "2025-03-11T21:33:03.420Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-11T21:33:03.420Z"
+    "FStringFlagRepoGitHashFastString": "99197206e3553310c3b72226e2bb10f582d24725",
+    "DFStringFlagRepoGitHashDynamicString": "99197206e3553310c3b72226e2bb10f582d24725",
+    "FStringFlipTimeStampFastString": "2025-03-11T22:37:34.416Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-11T22:37:34.416Z"
 }
