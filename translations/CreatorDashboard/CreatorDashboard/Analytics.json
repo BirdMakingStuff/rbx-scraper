@@ -980,7 +980,7 @@
     "Description.Table.ThumbnailAssetId": "Thumbnail asset id column, only visible for internal roles",
     "Label.Metric.PlayerFeedbackVotesCount": "Player Feedback Votes Count",
     "Label.Overall": "Overall",
-    "Label.HomeRecommendations": "Home Recommendations",
+    "Label.HomeRecommendations": "Home recommendations",
     "Title.YourSimilarExperiences": "Similar experiences in your benchmark",
     "Label.Metric.RFYL7PlayDays": "7 day play days per user",
     "Description.RFYL7PlayDays": "The number of unique days individual users engage with your experience over seven days.",
@@ -1031,5 +1031,7 @@
     "Description.OnboardingTips.HomeRecommendationImpressions": "Impressions typically change a few days after a change in the signals below. Look at the charts to identify major signal movements that may have led to impression shifts. {linkStart}Learn more{linkEnd}",
     "Description.OnboardingTips.HomeRecommendationSignals": "Signals may temporarily dip after an increase in impressions. This is normal when reaching a broader audience. {linkStart}Learn more{linkEnd}",
     "Title.OnboardingTips.SimilarExperienceBenchmark": "Similar experience benchmarks",
-    "Description.OnboardingTips.SimilarExperienceBenchmark": "Users who play your experience also play these often. Benchmarks give you goals to work towards but don’t directly affect your recommendations.  {linkStart}Learn more{linkEnd}"
+    "Description.OnboardingTips.SimilarExperienceBenchmark": "Users who play your experience also play these often. Benchmarks give you goals to work towards but don’t directly affect your recommendations.  {linkStart}Learn more{linkEnd}",
+    "Label.Dimension.SaleLocation.InExperience": "In-experience",
+    "Label.Dimension.SaleLocation.Marketplace": "Marketplace"
 }
