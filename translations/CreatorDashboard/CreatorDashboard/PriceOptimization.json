@@ -290,5 +290,13 @@
     "Description.Timeline.TestDurationV2": "~{date} [~{numWeeks} weeks]",
     "Message.ActivatePriceReviewV2": "A price review test will monitor the impact of optimized prices on your revenue. If your test group starts to outperform your control group during a price review test, the price review test will be canceled and all of your users will be reverted to the original prices.\n\nThis price review test will last for approximately {numWeeks} weeks.",
     "Message.TestState.HoldoutActiveV2": "Your tested products are currently in a {numWeeks} week Price Review period.",
-    "Description.Metrics.OverallRevenueV2": "Combined revenue of tested products within the price review period. Includes both users who saw the optimized price and users who saw the original price."
+    "Description.Metrics.OverallRevenueV2": "Combined revenue of tested products within the price review period. Includes both users who saw the optimized price and users who saw the original price.",
+    "Heading.RegionalPricing": "Regional pricing",
+    "Message.RegionalPricing": "Regional pricing sets different prices per region/country.",
+    "Heading.CurrentPrice": "Current Price",
+    "Label.Enabled": "Enabled",
+    "Label.SortByRegionalPricing": "Toggle regional pricing sort order",
+    "Label.Disabled": "Disabled",
+    "Label.ViewPrices": "View prices",
+    "Heading.OptimizedPrice": "Optimized Price"
 }
