@@ -217,10 +217,10 @@
     "FFlagRenderDynamicResolutionScale12": "True",
     "FStringWindowsInstallerAsLauncherExperimentBucketSettings": "v4-30-49",
     "FFlagEnableInstallerAsProtocolHandler2": "True",
-    "FFlagSignalSlotsHolderIterator_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T20:02:40",
-    "FFlagRaknetAllocOrCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T20:02:44",
-    "FFlagFreeTypeAllocOrCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T20:03:06",
-    "FFlagSimSkeletonNestedAttachments_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T20:24:31",
+    "FFlagFreeTypeAllocOrCrash": "True",
+    "FFlagSignalSlotsHolderIterator": "True",
+    "FFlagRaknetAllocOrCrash": "True",
+    "FFlagSimSkeletonNestedAttachments_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T21:21:12",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -245,8 +245,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "f3c3d6229854b6e47bc631754bc0e1d33de7ccc6",
-    "DFStringFlagRepoGitHashDynamicString": "f3c3d6229854b6e47bc631754bc0e1d33de7ccc6",
-    "FStringFlipTimeStampFastString": "2025-03-12T20:36:22.612Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-12T20:36:22.612Z"
+    "FStringFlagRepoGitHashFastString": "80bb695c588d8e70dead5960eba719d00a395ee6",
+    "DFStringFlagRepoGitHashDynamicString": "80bb695c588d8e70dead5960eba719d00a395ee6",
+    "FStringFlipTimeStampFastString": "2025-03-12T21:28:45.717Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-12T21:28:45.717Z"
 }
