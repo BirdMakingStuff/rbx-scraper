@@ -10349,7 +10349,6 @@
     "FFlagUseTextureCopyForLightGrid": "True",
     "FFlagAvatarAutosetupCancel": "True",
     "FFlagAXHeadRefinementEnablePortraitNavBar": "True",
-    "FFlagAddCursorProviderToPurchasePromptAppV2": "True",
     "DFFlagAssembleInSensors": "True",
     "FStringItemDetailsHttpPattern": "/catalog/(%d+)/?.*",
     "FFlagTextureManagerRemoveAddExternalRef5": "False",
@@ -10651,7 +10650,6 @@
     "FFlagMoveAdditionalCiUpsellGatingToGuac": "True",
     "FFlagGroupConcurrentGetAdAvailabilityCalls": "True",
     "FLogAdService": "6",
-    "FFlagAddFriendsPageFunctionalMigration": "True",
     "FFlagRemoveLightingCompatibilityCode2": "True",
     "DFFlagDropUnconnectedUREs": "True",
     "FFlagUGCValidateImportOrigin2": "True",
@@ -10893,8 +10891,8 @@
     "DFFlagTelemetryRemoveHardcodedV2URL": "True",
     "FFlagFireSignalForLegacyWindow": "True",
     "FFlagSimSkeletonNestedAttachments": "True",
-    "FStringFlagRepoGitHashFastString": "46bafabdbf8ba7d96e4c5fa1cb4d0d4fa6aee346",
-    "DFStringFlagRepoGitHashDynamicString": "46bafabdbf8ba7d96e4c5fa1cb4d0d4fa6aee346",
-    "FStringFlipTimeStampFastString": "2025-03-13T20:23:58.442Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-13T20:23:58.442Z"
+    "FStringFlagRepoGitHashFastString": "f7b67011531764fe4d3f3baac074ef3a831dde02",
+    "DFStringFlagRepoGitHashDynamicString": "f7b67011531764fe4d3f3baac074ef3a831dde02",
+    "FStringFlipTimeStampFastString": "2025-03-13T21:26:26.760Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-13T21:26:26.760Z"
 }
