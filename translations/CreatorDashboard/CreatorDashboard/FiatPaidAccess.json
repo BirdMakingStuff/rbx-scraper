@@ -31,5 +31,6 @@
     "Error.RequestFailed": "Your request failed. Please try again later.",
     "Error.FieldRequired": "This field is required.",
     "Action.Close": "Close",
-    "Action.Retry": "Retry"
+    "Action.Retry": "Retry",
+    "Label.NamePrompt": "Please enter your first name and last name in English"
 }

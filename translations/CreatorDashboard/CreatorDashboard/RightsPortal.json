@@ -446,5 +446,6 @@
     "Error.ContentMustBeValid": "Content ID {id} must be valid Roblox content ID.",
     "Error.ContentsMustBeValid": "Content IDs {allButLastIds} and {lastId} must be valid Roblox content IDs.",
     "Label.LinkToYourRobloxCreation": "Link to your Roblox creation*",
-    "Label.LinkToYourNonRobloxCreation": "Link to your creation (optional)"
+    "Label.LinkToYourNonRobloxCreation": "Link to your creation (optional)",
+    "Error.LinksOnLinesMustBeUnique": "Links on lines {linesStr} and {lastLine} must be unique Roblox URLs"
 }
