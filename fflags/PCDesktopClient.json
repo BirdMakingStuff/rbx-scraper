@@ -10684,13 +10684,13 @@
     "FFlagStudioInternalOnlyBetaFeatures": "True",
     "FFlagSystemMenuBetterErrorInformation": "True",
     "FFlagUnMinimizeOnAnySystemMenuActionActivated2": "True",
-    "FFlagProfilePlatformEnableInventory_V2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-14T18:45:51",
-    "FStringClientToastNotificationsRedirectLayerName_Staged": "Notifications.Delivery;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-14T18:48:16",
     "FFlagExplorerFilteringNoCap": "True",
     "FFlagExplorerFilteringQuoteTags": "True",
     "FFlagInsertObjectMoveIntoScreen": "True",
     "FFlagCaptureManagerDesktopParityEnabled": "True",
     "DFFlagReportDeadKickCodeUsageDetailed": "True",
+    "FStringClientToastNotificationsRedirectLayerName": "Notifications.Delivery",
+    "FFlagProfilePlatformEnableInventory_V2": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagBuildInitialCacheFix": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -11369,8 +11369,8 @@
     "FFlagVideoWinHwEncoderCapability": "True",
     "DFIntPerformanceControlEventBasedTelemetryEffectPredictionEventRatePoints": "100",
     "FFlagPerformanceControlPreviewRace": "False",
-    "FStringFlagRepoGitHashFastString": "419f3a577b2e5e0579ea40df25b1c66e79f3fdb5",
-    "DFStringFlagRepoGitHashDynamicString": "419f3a577b2e5e0579ea40df25b1c66e79f3fdb5",
-    "FStringFlipTimeStampFastString": "2025-03-14T19:12:22.769Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-14T19:12:22.769Z"
+    "FStringFlagRepoGitHashFastString": "a4c3b8b4741d55b87e2735a20d9ef5245e0b34c4",
+    "DFStringFlagRepoGitHashDynamicString": "a4c3b8b4741d55b87e2735a20d9ef5245e0b34c4",
+    "FStringFlipTimeStampFastString": "2025-03-14T20:33:34.670Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-14T20:33:34.670Z"
 }
