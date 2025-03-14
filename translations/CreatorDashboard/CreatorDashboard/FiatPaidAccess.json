@@ -32,5 +32,6 @@
     "Error.FieldRequired": "This field is required.",
     "Action.Close": "Close",
     "Action.Retry": "Retry",
-    "Label.NamePrompt": "Please enter your first name and last name in English"
+    "Label.NamePrompt": "Please enter your first name and last name in English",
+    "Label.MaximumNameLimit": "Maximum {limit} characters allowed"
 }
