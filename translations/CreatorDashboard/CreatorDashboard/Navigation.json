@@ -216,6 +216,7 @@
     "Heading.PaidAccess": "Paid Access",
     "Description.EligibilitySettings": "Creators who want to distribute priced assets, public audio, or paid experiences must submit eligibility forms",
     "Heading.Reorder": "Reorder",
+    "Heading.Services": "Services",
     "Heading.Databases": "Databases",
     "Label.AvatarItems": "Avatar Items",
     "Label.DeveloperProducts": "Developer Products",
@@ -224,5 +225,17 @@
     "Heading.AffiliateProgram": "Affiliate Program",
     "Heading.IP": "Intellectual Property",
     "Label.FeedItems": "feed items",
-    "Heading.Licenses": "Licenses"
+    "Heading.Licenses": "Licenses",
+    "Heading.ConfigsHistory": "History",
+    "Heading.General": "General",
+    "Heading.Build": "Build",
+    "Heading.Translations": "Translations",
+    "Heading.Engage": "Engage",
+    "Heading.EventsUpdates": "Events & Updates",
+    "Heading.GuildedCommunity": "Guilded Community",
+    "Heading.Infrastructure": "Infrastructure",
+    "Heading.ErrorReports": "Error Reports",
+    "Heading.Dashboards": "Dashboards",
+    "Heading.Demographics": "Demographics",
+    "Heading.Custom": "Custom"
 }
