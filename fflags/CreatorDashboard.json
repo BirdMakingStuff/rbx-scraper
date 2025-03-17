@@ -55,5 +55,6 @@
     "affiliateProgramRequirementsAllowlist": "559363765;3447602475",
     "enableUserBanPermissions": "true",
     "enableUseStudioEditPlaceLauncherWithPrelaunch": "true",
-    "affiliateLinkGADataAllowlist": "1674380703;3447602475;4060711616"
+    "affiliateLinkGADataAllowlist": "1674380703;3447602475;4060711616",
+    "allowUpdatingBundleName": "false"
 }
