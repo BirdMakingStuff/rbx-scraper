@@ -581,5 +581,7 @@
     "Label.OffSaleOn": "Off sale on",
     "Tab.Collaborators": "Collaborators",
     "Tab.Assets": "Assets",
-    "Title.Permissions": "Permissions"
+    "Title.Permissions": "Permissions",
+    "Heading.PassID": "Pass ID",
+    "Action.CopyPassID": "Copy Pass ID"
 }

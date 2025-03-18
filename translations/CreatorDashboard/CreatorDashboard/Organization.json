@@ -276,6 +276,7 @@
     "Description.OrganizationCreateAndConfigureRolesLimited": "Configure limited roles",
     "Caption.OrganizationCreateAndConfigureRolesLimited": "Members with this role can configure the roles they are assigned and assign permissions to those roles that they themselves have.",
     "Caption.OrganizationAssignSameRole": "Members in this role can assign this role to anyone in the group.",
+    "Description.ExperienceViewDataStores": "View Data Stores Manager",
     "Description.OrganizationAdministrateAllRoles": "Administrate all roles",
     "Caption.OrganizationAdministrateAllRoles": "Members with this role can create, delete, and configure any role in the group. This is a super-admin permission, as it provides nearly full access.",
     "Description.NoActivityFound": "No activity found",
