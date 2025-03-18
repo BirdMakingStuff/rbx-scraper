@@ -237,5 +237,7 @@
     "Heading.ErrorReports": "Error Reports",
     "Heading.Dashboards": "Dashboards",
     "Heading.Demographics": "Demographics",
-    "Heading.Custom": "Custom"
+    "Heading.Custom": "Custom",
+    "Heading.Assets": "Assets",
+    "Heading.EventTracking": "Event Tracking"
 }
