@@ -183,5 +183,14 @@
     "Label.DependenciesTableColumnAssetId": "Asset ID",
     "Label.DependenciesTableColumnType": "Type",
     "Label.DependenciesTableColumnCreator": "Creator",
-    "Label.DependenciesTableColumnAssetPrivacyLevel": "Asset Privacy Level"
+    "Label.DependenciesTableColumnAssetPrivacyLevel": "Asset Privacy Level",
+    "Label.Animation": "Animation",
+    "Label.Audio": "Audio",
+    "Label.Decal": "Decal",
+    "Label.Image": "Image",
+    "Label.Video": "Video",
+    "Label.Mesh": "Mesh",
+    "Label.MeshPart": "MeshPart",
+    "Label.Model": "Model",
+    "Label.Plugin": "Plugin"
 }
