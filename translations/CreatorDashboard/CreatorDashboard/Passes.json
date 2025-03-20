@@ -34,5 +34,6 @@
     "Tooltip.EnableRegionalPricing": "Roblox will convert the default price for the country or region where your users are located.",
     "Description.RequiresDynamicPrices": "Requires dynamic prices. Check with {linkStart}Dynamic Price Check{linkEnd}",
     "Heading.Price": "Price",
-    "Label.DefaultPrice": "Default Price"
+    "Label.DefaultPrice": "Default Price",
+    "Tooltip.EnableRegionalPricingDetailed": "Roblox will automatically adjust prices based on the user's country or region, ensuring they never exceed your default price or go below 30% of it."
 }

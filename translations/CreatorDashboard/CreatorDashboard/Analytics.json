@@ -1034,5 +1034,7 @@
     "Description.OnboardingTips.SimilarExperienceBenchmark": "Users who play your experience also play these often. Benchmarks give you goals to work towards but don’t directly affect your recommendations.  {linkStart}Learn more{linkEnd}",
     "Label.Dimension.SaleLocation.InExperience": "In-experience",
     "Label.Dimension.SaleLocation.Marketplace": "Marketplace",
-    "Label.Granularity.Weekly": "Weeks"
+    "Label.Granularity.Weekly": "Weeks",
+    "Label.Metric.RFYL7IntentionalCoplayDays": "7 day intentional co-play days per user",
+    "Description.RFYL7IntentionalCoplayDays": "Frequency of users intentionally playing with friends over the last 7 days (through join, invite, or private server)."
 }

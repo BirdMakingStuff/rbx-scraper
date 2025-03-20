@@ -583,5 +583,7 @@
     "Tab.Assets": "Assets",
     "Title.Permissions": "Permissions",
     "Heading.PassID": "Pass ID",
-    "Action.CopyPassID": "Copy Pass ID"
+    "Action.CopyPassID": "Copy Pass ID",
+    "Message.EnableAllPassesForRegionalPricing": "Regional pricing adjusts the prices of your passes based on the region each user is in, making it easier for users around the world to participate in your experience's economy.\n\nWould you like to enable regional pricing for all eligible passes?",
+    "Action.ConfirmEnable": "Yes, enable"
 }
