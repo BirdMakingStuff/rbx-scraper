@@ -10936,6 +10936,7 @@
     "DFFlagGamepadCursorUsesRawPosition2": "True",
     "FFlagEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpEnabled2": "True",
     "FStringEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpLayer": "\"Engine.Voice.Exposure.1\"",
+    "FStringGameLaunchLinkURL_Staged": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://(?:experiences/start\\?)?))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:launchtime=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+)|(?:reservedServerAccessCode=(?:\\w|\\-)+)|(?:launchData=(?:.+))|(?:referredByPlayerId=\\d+)|(?:joinAttemptId=(?:[0-9a-fA-F]{8}-([0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12})+)|(?:joinAttemptOrigin=(?:\\w|\\-)+)|(?:eventId=(?:\\d+))|(?:callId=(?:[0-9a-fA-F]{8}-([0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12})+)|(?:gaasKey=(?:\\w|_)+))&?)+)/?;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-21T21:56:17",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11278,8 +11279,8 @@
     "DFFlagEnableMeshPreloading2": "True",
     "FFlagReportEnrollmentStateChanges": "True",
     "FFlagCollectionGridFixUseEffect": "True",
-    "FStringFlagRepoGitHashFastString": "894490cd34f673bc47cab2c2a46eee7601a7f0fd",
-    "DFStringFlagRepoGitHashDynamicString": "894490cd34f673bc47cab2c2a46eee7601a7f0fd",
-    "FStringFlipTimeStampFastString": "2025-03-21T21:32:15.761Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-21T21:32:15.761Z"
+    "FStringFlagRepoGitHashFastString": "3417914db9d5c64096441fc764007922a9853321",
+    "DFStringFlagRepoGitHashDynamicString": "3417914db9d5c64096441fc764007922a9853321",
+    "FStringFlipTimeStampFastString": "2025-03-21T21:58:24.930Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-21T21:58:24.930Z"
 }
