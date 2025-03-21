@@ -200,5 +200,6 @@
     "Heading.AvatarGenerations": "Avatar Generations",
     "Description.AvatarGenerationsObservability": "Avatar generations placeholder",
     "Label.AvatarGenerationsModelGenerations": "Model Generations",
-    "Label.AvatarGenerationsPreviewGenerations": "Preview Generations"
+    "Label.AvatarGenerationsPreviewGenerations": "Preview Generations",
+    "Label.Dimension.DatastoreType.Option": "{datastoreType}"
 }
