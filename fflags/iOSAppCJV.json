@@ -10134,7 +10134,6 @@
     "FFlagLanguageFeaturesTelemetry": "True",
     "FFlagConsolidateBubbleChat5": "True",
     "FFlagAICOChatBotFindVariationFix": "True",
-    "FFlagScaleRequireTelemetry": "True",
     "FFlagLuaAppFixSponsoredGridTile": "True",
     "DFLogRuppTokenLog_PlaceFilter": "Verbose,6;5157946270",
     "DFFlagFixHandlePlayButtonClickedCrash": "True",
@@ -10936,7 +10935,6 @@
     "DFFlagGamepadCursorUsesRawPosition2": "True",
     "FFlagEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpEnabled2": "True",
     "FStringEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpLayer": "\"Engine.Voice.Exposure.1\"",
-    "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11644,6 +11642,7 @@
     "FFlagCollectionGridFixUseEffect": "True",
     "FFlagUseCanvasMaxSizeForNonGuiObjectToo2": "True",
     "FFlagEnableMaterialGenerator": "False",
+    "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
     "DFLogJoinDataRxStats": "10",
     "DFLogNetworkSocketSendError": "10",
@@ -11672,8 +11671,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "3417914db9d5c64096441fc764007922a9853321",
-    "DFStringFlagRepoGitHashDynamicString": "3417914db9d5c64096441fc764007922a9853321",
-    "FStringFlipTimeStampFastString": "2025-03-21T21:58:24.930Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-21T21:58:24.930Z"
+    "FStringFlagRepoGitHashFastString": "7ae9b4a4751c1a0a47e08d5eabefaa3fceb05d85",
+    "DFStringFlagRepoGitHashDynamicString": "7ae9b4a4751c1a0a47e08d5eabefaa3fceb05d85",
+    "FStringFlipTimeStampFastString": "2025-03-21T23:04:46.698Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-21T23:04:46.698Z"
 }
