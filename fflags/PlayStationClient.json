@@ -10935,6 +10935,9 @@
     "DFFlagGamepadCursorUsesRawPosition2": "True",
     "FFlagEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpEnabled2": "True",
     "FStringEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpLayer": "\"Engine.Voice.Exposure.1\"",
+    "DFFlagRakNetMissingPingUpgradeTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-24T16:18:07",
+    "FFlagNavigationRemoveEphemeralAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-24T16:30:55",
+    "DFFlagWaitForSeatWeld_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-24T16:39:45",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11153,8 +11156,8 @@
     "FFlagFireSignalForLegacyWindow_PlaceFilter": "True;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972",
     "DFFlagEnableMeshPreloading2": "True",
     "FFlagMovePrerenderV2": "True",
-    "FStringFlagRepoGitHashFastString": "825a349f72b38eb8ce1743ccd2f3135b4428ca49",
-    "DFStringFlagRepoGitHashDynamicString": "825a349f72b38eb8ce1743ccd2f3135b4428ca49",
-    "FStringFlipTimeStampFastString": "2025-03-22T06:52:35.998Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-22T06:52:35.998Z"
+    "FStringFlagRepoGitHashFastString": "1aed7eff6d96a85ca7ec29b2d45ecbf8b9ddecbf",
+    "DFStringFlagRepoGitHashDynamicString": "1aed7eff6d96a85ca7ec29b2d45ecbf8b9ddecbf",
+    "FStringFlipTimeStampFastString": "2025-03-24T16:40:24.751Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-24T16:40:24.751Z"
 }

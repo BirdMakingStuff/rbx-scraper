@@ -10935,6 +10935,9 @@
     "DFFlagGamepadCursorUsesRawPosition2": "True",
     "FFlagEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpEnabled2": "True",
     "FStringEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpLayer": "\"Engine.Voice.Exposure.1\"",
+    "DFFlagRakNetMissingPingUpgradeTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-24T16:18:07",
+    "FFlagNavigationRemoveEphemeralAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-24T16:30:55",
+    "DFFlagWaitForSeatWeld_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-24T16:39:45",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11644,8 +11647,9 @@
     "FFlagGuiStatePressedToHoverOnRelease": "True",
     "FIntOpenTelemetrySampleRateHundredthPercent_IXP": "1;Portal.FIntOpenTelemetrySampleRateHundredthPercent;FIntOpenTelemetrySampleRateHundredthPercent;360880100;flagbank",
     "FIntmi_option_purge_delay": "0",
-    "FStringFlagRepoGitHashFastString": "825a349f72b38eb8ce1743ccd2f3135b4428ca49",
-    "DFStringFlagRepoGitHashDynamicString": "825a349f72b38eb8ce1743ccd2f3135b4428ca49",
-    "FStringFlipTimeStampFastString": "2025-03-22T06:52:35.998Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-22T06:52:35.998Z"
+    "DFFlagPerformanceControlTrackFreeOsMemLowWatermark_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-24T16:18:45",
+    "FStringFlagRepoGitHashFastString": "1aed7eff6d96a85ca7ec29b2d45ecbf8b9ddecbf",
+    "DFStringFlagRepoGitHashDynamicString": "1aed7eff6d96a85ca7ec29b2d45ecbf8b9ddecbf",
+    "FStringFlipTimeStampFastString": "2025-03-24T16:40:24.751Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-24T16:40:24.751Z"
 }
