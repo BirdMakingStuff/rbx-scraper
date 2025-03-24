@@ -222,7 +222,7 @@
     "Message.MemberPermission": "Permissions granted to ‘Member’ will grant access to everyone in this group.",
     "Action.Confirm": "Confirm",
     "Title.RevenuePermissions": "Group Revenue",
-    "Description.RevenueConfigure": "Configure group revenue",
+    "Description.RevenueConfigure": "Configure and spend group revenue",
     "Description.RevenueView": "View group revenue",
     "Description.RevenueAdvertiseGroup": "Advertise group",
     "Heading.ConfirmMemberPermissions": "Confirm new ‘Member’ permissions",

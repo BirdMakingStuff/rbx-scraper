@@ -205,5 +205,13 @@
     "Description.ExperiencePublished": "{experienceName} was published",
     "Description.AssetUploaded": "{assetName} was uploaded",
     "Description.CompletedQuestionnaireMaturity": "Maturity & Compliance Questionnaire was updated",
-    "Label.FilterOptionOrganization": "Organization"
+    "Label.FilterOptionOrganization": "Organization",
+    "Description.ExperiencePermissionsUpdated": "Permissions were updated for {roleName}. They can now {permissions}.",
+    "Description.ExperiencePermissionsRevoked": "All permissions were revoked for {roleName}.",
+    "Description.RoleExperiencePermissionsUpdated": "Permissions were updated for {roleName} ({groupName}) on {universeName}. They can now {permissions}.",
+    "Description.RoleExperiencePermissionsRevoked": "All permissions were revoked for {roleName} ({groupName}) on {universeName}.",
+    "Permission.Universe.GranularPlayer": "Play",
+    "Permission.Universe.GranularEditor": "Edit",
+    "Permission.Universe.GranularPublisher": "Publish",
+    "Permission.Universe.AnalyticsViewer": "View Analytics"
 }
