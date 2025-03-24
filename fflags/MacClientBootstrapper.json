@@ -212,7 +212,6 @@
     "DFFlagConsistentRakNetPing": "True",
     "FFlagWindowsInstallerIgnoreBootstrapperVersion2": "True",
     "FFlagAXCombineGetOutfitDispatchesIXP2": "False",
-    "DFFlagHttpThrottlingDisableXCoverage": "True",
     "FFlagRenderDynamicResolutionScale12": "True",
     "FStringWindowsInstallerAsLauncherExperimentBucketSettings": "v4-30-49",
     "FFlagEnableInstallerAsProtocolHandler2": "True",
@@ -248,8 +247,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "2406cfb9b8b3aa316139d8a7ed8cadff54f4000f",
-    "DFStringFlagRepoGitHashDynamicString": "2406cfb9b8b3aa316139d8a7ed8cadff54f4000f",
-    "FStringFlipTimeStampFastString": "2025-03-24T19:34:45.924Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-24T19:34:45.924Z"
+    "FStringFlagRepoGitHashFastString": "3c425765af431ea8c0c30e2a521fd20d7e3dd25a",
+    "DFStringFlagRepoGitHashDynamicString": "3c425765af431ea8c0c30e2a521fd20d7e3dd25a",
+    "FStringFlipTimeStampFastString": "2025-03-24T20:37:45.436Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-24T20:37:45.436Z"
 }
