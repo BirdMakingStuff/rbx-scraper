@@ -192,5 +192,6 @@
     "Label.Mesh": "Mesh",
     "Label.MeshPart": "MeshPart",
     "Label.Model": "Model",
-    "Label.Plugin": "Plugin"
+    "Label.Plugin": "Plugin",
+    "Heading.Distribution": "Distribution"
 }
