@@ -409,5 +409,6 @@
     "Message.MustSaveScheduledSale": "Save changes to schedule the sale",
     "Message.ExternalPurchaseInfo": "Your product will be available for purchase outside the experience but not in other experiences.",
     "Message.ScheduledSaleChanged": "Save changes to schedule the sale",
-    "Message.ScheduledSaleCanceled": "Save changes to cancel the scheduled sale"
+    "Message.ScheduledSaleCanceled": "Save changes to cancel the scheduled sale",
+    "Label.BodySuitParentheses": "{itemType} (Body Suit)"
 }
