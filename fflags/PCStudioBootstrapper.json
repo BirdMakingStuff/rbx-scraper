@@ -226,6 +226,7 @@
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-50-55",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "DFFlagDeviceErrorConstructionFix": "True",
+    "FFlagWinInstallerUseBITS2": "True",
     "FFlagWindowsBootstrapperReportPerCdnDownloadSpeeds": "True",
     "FIntBootstrapper64BitStudioPercentage": "100",
     "InfluxInstallHundredthsPercentage": "1",
@@ -235,8 +236,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "090d5ef19880fa5e358fa0dec63ee1485f7aa8ec",
-    "DFStringFlagRepoGitHashDynamicString": "090d5ef19880fa5e358fa0dec63ee1485f7aa8ec",
-    "FStringFlipTimeStampFastString": "2025-03-26T21:11:28.703Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-26T21:11:28.703Z"
+    "FStringFlagRepoGitHashFastString": "0546e5b4ba45229ed10b03924d0c951729c6cc83",
+    "DFStringFlagRepoGitHashDynamicString": "0546e5b4ba45229ed10b03924d0c951729c6cc83",
+    "FStringFlipTimeStampFastString": "2025-03-26T22:38:00.401Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-26T22:38:00.401Z"
 }
