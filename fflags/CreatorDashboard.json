@@ -56,5 +56,5 @@
     "enableUserBanPermissions": "true",
     "enableUseStudioEditPlaceLauncherWithPrelaunch": "true",
     "affiliateLinkGADataAllowlist": "1674380703;3447602475;4060711616",
-    "allowUpdatingBundleName": "false"
+    "allowUpdatingBundleName": "true"
 }
