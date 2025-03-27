@@ -552,7 +552,7 @@
     "Action.EnableRegionalPricing": "Enable Regional Pricing",
     "Label.Enabled": "Enabled",
     "Label.Disabled": "Disabled",
-    "Label.PriceOptimization": "Price Optimization",
+    "Label.PriceOptimization": "Price optimization determines the best price points for your products",
     "Heading.PriceOptimization": "Price Optimization",
     "Label.DynamicPriceCheck": "Dynamic Price Check",
     "Label.EEStartTime": "Start Time",
