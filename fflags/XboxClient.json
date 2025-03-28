@@ -11121,10 +11121,10 @@
     "FFlagScrollingFrameSmoothProperty": "True",
     "FFlagLoadedMessageCountOnRender": "True",
     "FFlagUGCValidateModifiedAreaUsePadding": "True",
-    "FFlagHarmonyCallbackTunableValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-28T18:16:16",
-    "FFlagEnableExternalContentSharingProtocolSetClipboardTextDesktop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-28T18:17:59",
-    "FFlagProfilePlatformFavoritesNavigateToWeb_V2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-28T18:19:26",
     "FFlagGenerationServiceUseText2MeshInsteadOfAvatarGeneration2": "True",
+    "FFlagEnableExternalContentSharingProtocolSetClipboardTextDesktop": "True",
+    "FFlagProfilePlatformFavoritesNavigateToWeb_V2": "True",
+    "FFlagHarmonyCallbackTunableValue": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11463,8 +11463,8 @@
     "FFlagReportEnrollmentStateChanges": "True",
     "FFlagMicroProfilerUsageTelemetry": "True",
     "FFlagFCEnableSkinningExtraction_IXP": "1;Portal.FFlagFCEnableSkinningExtraction-002;FFlagFCEnableSkinningExtraction-002;216070849;flagbank",
-    "FStringFlagRepoGitHashFastString": "6fa9bb87b33ac8b6d68587178ecc900d07899ab2",
-    "DFStringFlagRepoGitHashDynamicString": "6fa9bb87b33ac8b6d68587178ecc900d07899ab2",
-    "FStringFlipTimeStampFastString": "2025-03-28T18:28:41.127Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-28T18:28:41.127Z"
+    "FStringFlagRepoGitHashFastString": "b51b3c75e0b12b3ace2e21d072dce5ebc9e03ad9",
+    "DFStringFlagRepoGitHashDynamicString": "b51b3c75e0b12b3ace2e21d072dce5ebc9e03ad9",
+    "FStringFlipTimeStampFastString": "2025-03-28T19:22:53.740Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-28T19:22:53.740Z"
 }
