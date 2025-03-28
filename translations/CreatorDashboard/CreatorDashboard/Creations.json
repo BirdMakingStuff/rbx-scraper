@@ -552,7 +552,7 @@
     "Action.EnableRegionalPricing": "Enable Regional Pricing",
     "Label.Enabled": "Enabled",
     "Label.Disabled": "Disabled",
-    "Label.PriceOptimization": "Price optimization determines the best price points for your products",
+    "Label.PriceOptimization": "Price Optimization runs tests to find the optimal prices for your virtual items. When in an active price test they cannot be edited.",
     "Heading.PriceOptimization": "Price Optimization",
     "Label.DynamicPriceCheck": "Dynamic Price Check",
     "Label.EEStartTime": "Start Time",
@@ -597,5 +597,6 @@
     "Message.EnableMultipleEligiblePassesForRegionalPricing": "Would you like to enable regional pricing for {number} eligible passes?",
     "Heading.DisableRegionalPricing": "Disable Regional Pricing",
     "Message.DisableRegionalPricing": "Are you sure you want to disable Regional Pricing?",
-    "Action.ConfirmDisable": "Yes, disable"
+    "Action.ConfirmDisable": "Yes, disable",
+    "Label.Unavailable": "Unavailable"
 }
