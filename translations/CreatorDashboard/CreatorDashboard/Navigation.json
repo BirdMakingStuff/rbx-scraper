@@ -223,6 +223,7 @@
     "Label.GamePasses": "Passes",
     "Heading.ExternalPurchaseSettings": "External Purchase Settings",
     "Heading.AffiliateProgram": "Affiliate Program",
+    "Heading.Feedback": "Feedback",
     "Heading.IP": "Intellectual Property",
     "Label.FeedItems": "feed items",
     "Heading.Licenses": "Licenses",
@@ -243,5 +244,7 @@
     "Heading.EventTracking": "Event Tracking",
     "Heading.Indirect": "Indirect",
     "Heading.Avatar": "Avatar",
-    "Heading.InExperience": "In-experience"
+    "Heading.InExperience": "In-experience",
+    "Heading.ReferralRewards": "Referral Rewards",
+    "Label.ReferralRewards": "Referral Rewards"
 }

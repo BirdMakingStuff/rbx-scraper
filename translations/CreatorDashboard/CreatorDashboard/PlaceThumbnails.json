@@ -129,5 +129,9 @@
     "Action.EditAltText": "Edit alt text",
     "Description.NoAltTextAllowed": "The AltText for an image thumbnail can only be modified in the start place.",
     "Title.ConfirmTestNewThumbnailsWithinAWeek": "Are you sure you want to start a new test?",
-    "Description.ConfirmTestNewThumbnailsWithinAWeek": "We recommend waiting at least 7 days between tests as your best thumbnail can change over time with user preferences."
+    "Description.ConfirmTestNewThumbnailsWithinAWeek": "We recommend waiting at least 7 days between tests as your best thumbnail can change over time with user preferences.",
+    "Description.ConfirmTestNewThumbnailsDynamicPrior": "Include your winning thumbnail to give it priority traffic. New thumbnails start with less traffic but gain more if they perform well",
+    "Description.ConfirmTestNewThumbnailsTipsDynamicPrior": "{listItemStart}Include the current winning thumbnail to give it priority traffic.{listItemEnd}{listItemStart}Keep multiple thumbnails active to let personalization adapt.{listItemEnd}{listItemStart}Personalization may not show meaningful results if <1000 DAU.{listItemEnd}",
+    "Description.ConfirmTestNewThumbnailsTipsDynamicPrior2": "Keep multiple thumbnails active to let personalization adapt.",
+    "Description.ConfirmTestNewThumbnailsTipsDynamicPrior3": "Personalization may not show meaningful results if <1000 DAU."
 }
