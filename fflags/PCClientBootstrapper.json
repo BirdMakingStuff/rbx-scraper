@@ -175,8 +175,6 @@
     "FFlagChatLineAbandonedReportAnalyticsFix": "True",
     "FFlagAXAccessoryAdjustmentFtuxFlush": "True",
     "FFlagPublishAvatarPromptEnabled5": "True",
-    "FFlagAppendBodyPartToTitle": "True",
-    "FFlagFixPublishAvatarVRViewports": "True",
     "FFlagAXEnablePerceivedTTIV2": "True",
     "FFlagAXSendAXStat": "True",
     "FFlagAddJoinAttemptId": "True",
@@ -239,8 +237,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "7df8d1e233bf8a13ed1e20415050bbaa3b11132e",
-    "DFStringFlagRepoGitHashDynamicString": "7df8d1e233bf8a13ed1e20415050bbaa3b11132e",
-    "FStringFlipTimeStampFastString": "2025-03-31T23:23:09.229Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-31T23:23:09.229Z"
+    "FStringFlagRepoGitHashFastString": "1c2602e14269e4ee2d62227c2cc080d1e1d5b42e",
+    "DFStringFlagRepoGitHashDynamicString": "1c2602e14269e4ee2d62227c2cc080d1e1d5b42e",
+    "FStringFlipTimeStampFastString": "2025-04-01T00:26:09.544Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-01T00:26:09.544Z"
 }
