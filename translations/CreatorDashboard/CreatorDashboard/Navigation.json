@@ -246,5 +246,8 @@
     "Heading.Avatar": "Avatar",
     "Heading.InExperience": "In-experience",
     "Heading.ReferralRewards": "Referral Rewards",
-    "Label.ReferralRewards": "Referral Rewards"
+    "Label.ReferralRewards": "Referral Rewards",
+    "Heading.Translate": "Translate",
+    "Heading.Integrations": "Integrations",
+    "Heading.APISettings": "API Settings"
 }
