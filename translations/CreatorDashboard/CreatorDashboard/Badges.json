@@ -48,5 +48,5 @@
     "Error.FailedParse": "Failed to parse element to reorder.",
     "Error.TooManyBadgesToReorder": "Please commit your changes before attempting to reorder more badges.",
     "Error.FailedUpdateOnDrop": "Failed to track an update to the order on drop.",
-    "Error.FailedReorderTryAgain": "Some of your changes may have failed to save. Please try again later."
+    "Error.FailedReorderTryAgain": "Some of your changes may have failed to save. Please try again."
 }

@@ -1048,5 +1048,6 @@
     "Label.Metric.AveragePlayMinutesPerDAU": "Avg Playtime",
     "Heading.Matchmaking": "Matchmaking",
     "Label.Dimension.MatchmakingCategoricalCustomSignal": "Signal Name",
-    "Label.Dimension.MatchmakingNumericCustomSignal": "Signal Name"
+    "Label.Dimension.MatchmakingNumericCustomSignal": "Signal Name",
+    "Label.Granularity.Monthly": "Months"
 }
