@@ -9797,7 +9797,7 @@
     "DFFlagAssetRequestRestoreCdnHeaders": "True",
     "DFFlagEnableGmaRewardedAdsEndpoint": "True",
     "DFFlagEnableNativeAdsProtocolTelemetry": "True",
-    "FFlagEnableRewardedVideoInAdService15": "False",
+    "FFlagEnableRewardedVideoInAdService15": "True",
     "FFlagHideUsernameAutofillSignupExperiment": "True",
     "FFlagAlwaysSaveCredentialsAfter2Sv": "True",
     "DFFlagEnableGmaVideoAdsMemoryCheck": "True",
@@ -11195,8 +11195,8 @@
     "DFFlagFixRSTelemetryV2FieldNames": "True",
     "FFlagAvatarPreviewerPaddingFix": "True",
     "DFFlagMigrateSimpleDeprecatedSetUI2": "True",
-    "DFFlagProcess2DPipelineUseRuntimeThreading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T23:29:03",
     "FFlagVoiceChatSkipClientTurnAuthV2_PlaceFilter": "True;18206581791",
+    "DFFlagProcess2DPipelineUseRuntimeThreading": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11419,8 +11419,8 @@
     "FFlagAXEnableRecolorableBodiesDuringTryOn": "True",
     "FFlagFriendsCarouselRemoveRemount": "False",
     "FFlagProfilePlatformSocialCountsRespectBackendEnabledStatus_v2": "True",
-    "FStringFlagRepoGitHashFastString": "54926222faf396856edd6bc4dea457fb5a84705d",
-    "DFStringFlagRepoGitHashDynamicString": "54926222faf396856edd6bc4dea457fb5a84705d",
-    "FStringFlipTimeStampFastString": "2025-04-01T23:35:24.507Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-01T23:35:24.507Z"
+    "FStringFlagRepoGitHashFastString": "a2ab11178bb7c570958e0cb2a72f8e577022f1de",
+    "DFStringFlagRepoGitHashDynamicString": "a2ab11178bb7c570958e0cb2a72f8e577022f1de",
+    "FStringFlipTimeStampFastString": "2025-04-02T01:48:56.398Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-02T01:48:56.398Z"
 }
