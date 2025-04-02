@@ -172,13 +172,13 @@
     "Heading.DependenciesAlertTitleDistributionAndSharing": "Includes unsupported Restricted assets",
     "Heading.DependenciesAlertTitleMakingDecalOpenUse": "Image is not set to Open Use",
     "Heading.DependenciesAlertTitleSellingPaidModel": "Dependencies will be available for anyone to use",
-    "Description.DependenciesAlertSubtitleDistribution": "This is for personal use only. You cannot distribute composites that contain Restricted audio or video, or a Restricted asset created by someone else.",
+    "Description.DependenciesAlertSubtitleDistribution": "This is for personal use only. You cannot distribute composites that contain Restricted Audio or Video, or a Restricted asset created by someone else.",
     "Description.DependenciesAlertSubtitleSharing": "This is for personal use only. You cannot share composites that contain a Restricted asset created by someone else.",
     "Description.DependenciesAlertSubtitleMakingDecalOpenUse": "You cannot make this Decal Open Use if the dependent Image is set to Restricted.",
-    "Description.DependenciesAlertSubtitleSellingPaidModel": "We strongly recommend only selling newly-uploaded models with Restricted dependencies after opting in to the Asset Privacy Beta.",
+    "Description.DependenciesAlertSubtitleSellingPaidModel": "We strongly recommend only selling newly-uploaded Models with Restricted Image and Mesh dependencies after opting in to the Asset Privacy Beta.",
     "Label.RestrictedAssets": "Restricted assets",
     "Description.DependenciesDescriptionDistributionAndSharing": "The following are assets created by other creators",
-    "Description.DependenciesDescriptionSellingPaidModel": "This model depends on assets which are set as Open Use. After opting in to the Asset Privacy Beta, re-upload the following assets, which will set them to Restricted, and make a new model in order to fully control access.",
+    "Description.DependenciesDescriptionSellingPaidModel": "This model depends on Images or Meshes which are set as Open Use. After opting in to the Asset Privacy Beta, re-upload the following assets, which will set them to Restricted, and make a new Model in order to fully control access.",
     "Label.DependenciesTableColumnAsset": "Asset",
     "Label.DependenciesTableColumnAssetId": "Asset ID",
     "Label.DependenciesTableColumnType": "Type",
@@ -195,5 +195,5 @@
     "Label.Plugin": "Plugin",
     "Heading.Distribution": "Distribution",
     "Description.DependenciesDescriptionSharing": "The following are assets created by someone else.",
-    "Description.DependenciesDescriptionDistribution": "The following are Restricted audio or video, or Restricted assets created by someone else."
+    "Description.DependenciesDescriptionDistribution": "The following are Restricted Audio or Video, or Restricted assets created by someone else."
 }
