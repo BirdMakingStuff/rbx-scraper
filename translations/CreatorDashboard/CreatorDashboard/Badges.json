@@ -48,5 +48,10 @@
     "Error.FailedParse": "Failed to parse element to reorder.",
     "Error.TooManyBadgesToReorder": "Please commit your changes before attempting to reorder more badges.",
     "Error.FailedUpdateOnDrop": "Failed to track an update to the order on drop.",
-    "Error.FailedReorderTryAgain": "Some of your changes may have failed to save. Please try again."
+    "Error.FailedReorderTryAgain": "Some of your changes may have failed to save. Please try again.",
+    "Error.RankUpdateConflict": "A conflicting operation was in progress. Please try again.",
+    "Error.InvalidOrderingBin": "A bin provided for reordering is invalid.",
+    "Error.InvalidUniverseForBadgesReordering": "This universe is not allowed to reorder badges.",
+    "Error.OperationUnavailable": "The operation is currently unavailable.",
+    "Error.IconFileMissing": "The icon file is not present."
 }

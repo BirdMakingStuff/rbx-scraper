@@ -1045,7 +1045,7 @@
     "Description.RFYL7IntentionalCoplayDays": "Frequency of users intentionally playing with friends over the last 7 days (through join, invite, or private server).",
     "Title.AveragePlayTimePerDAU": "Average playtime",
     "Description.AveragePlayTimePerDAU": "Average daily playtime per user",
-    "Label.Metric.AveragePlayMinutesPerDAU": "Avg Playtime",
+    "Label.Metric.AveragePlayMinutesPerDAU": "Average playtime",
     "Heading.Matchmaking": "Matchmaking",
     "Label.Dimension.MatchmakingCategoricalCustomSignal": "Signal Name",
     "Label.Dimension.MatchmakingNumericCustomSignal": "Signal Name",
