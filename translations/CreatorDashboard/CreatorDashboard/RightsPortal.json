@@ -448,5 +448,9 @@
     "Label.LinkToYourRobloxCreation": "Link to your Roblox creation*",
     "Label.LinkToYourNonRobloxCreation": "Link to your creation (optional)",
     "Error.LinksOnLinesMustBeUnique": "Links on lines {linesStr} and {lastLine} must be unique Roblox URLs",
-    "Error.SubmitThrottledMessage": "Request couldn't be submitted"
+    "Error.SubmitThrottledMessage": "Request couldn't be submitted",
+    "Error.ConflictClaimSubmitted": "Claim Submitted Successfully",
+    "Error.ConflictClaimSubmittedDialog": "Some items in your claim have been submitted multiple times before and were removed from your claim.",
+    "Error.ConflictClaimFailed": "Submission Failed",
+    "Error.ConflictClaimFailedDialog": "All items in this claim have been submitted before. Please edit and add new items."
 }
