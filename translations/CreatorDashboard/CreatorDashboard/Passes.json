@@ -16,7 +16,7 @@
     "Label.ItemForSale": "Item for Sale",
     "Label.PriceInRobux": "Price in Robux",
     "Label.CreatorEarnings": "Creator earnings {percent}",
-    "Error.PassConfigureGeneralError": "Pass update failed. Please inspect the logs or network tab or post on the DevForum is this problem persists.",
+    "Error.PassConfigureGeneralError": "Pass update failed. Please inspect the logs or network tab or post on the DevForum if this problem persists.",
     "Message.PassConfigureSuccess": "Pass updated successfully",
     "InputError.PriceTooLow": "Price must be at least 1",
     "Message.CreatePassInfoWithIcon": "Passes let you create special items that can only be bought once per player using Robux ({robuxIcon}).",

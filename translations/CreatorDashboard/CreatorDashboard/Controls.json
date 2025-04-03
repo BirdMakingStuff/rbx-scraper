@@ -17,5 +17,8 @@
     "Label.BackToOverview": "Back to Overview",
     "Action.AddVideo": "Add Video ({priceStart}price{priceEnd})",
     "Action.UploadImage": "Upload image",
-    "Action.More": "More"
+    "Action.More": "More",
+    "Label.Priority": "Priority",
+    "Label.RecentlyUsed": "Recently used",
+    "Label.DateCreated": "Date created"
 }
