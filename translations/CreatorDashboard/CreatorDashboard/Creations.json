@@ -598,5 +598,7 @@
     "Heading.DisableRegionalPricing": "Disable Regional Pricing",
     "Message.DisableRegionalPricing": "Are you sure you want to disable Regional Pricing?",
     "Action.ConfirmDisable": "Yes, disable",
-    "Label.Unavailable": "Unavailable"
+    "Label.Unavailable": "Unavailable",
+    "Action.CopyThumbnailID": "Copy Thumbnail ID",
+    "Label.ThumbnailID": "Thumbnail ID"
 }
