@@ -57,5 +57,6 @@
     "affiliateLinkGADataAllowlist": "559363765;1674380703;3447602475;4060711616;4215004983;5277540719;3501321855;4782571473",
     "allowUpdatingBundleName": "true",
     "enablePlayerFeedback": "true",
-    "enableBodySuitPriceFloorChangedBanner": "true"
+    "enableBodySuitPriceFloorChangedBanner": "true",
+    "enableCustomMatchmakingUI": "true"
 }
