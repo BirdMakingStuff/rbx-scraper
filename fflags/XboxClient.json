@@ -11303,8 +11303,9 @@
     "FFlagFixCustomTextBoxHotkey": "True",
     "FFlagEnableResponsiveContainerRef10ft": "True",
     "DFIntRbxStorageRollingStatsHundredthsPercent": "100",
-    "FFlagRibbonConfigSave3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-04T17:23:32",
-    "FFlagGetWidgetLuau_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-04T17:24:46",
+    "FIntVkErrorEventsThrottleHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-04T17:45:53",
+    "FFlagGetWidgetLuau": "True",
+    "FFlagRibbonConfigSave3": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11641,9 +11642,9 @@
     "FFlagFriendsCarouselRemoveRemount": "False",
     "FFlagHttpRbxStorageInitOnly5": "True",
     "FFlagSplitSquadJoinOriginSources": "True",
-    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-04T17:00:32",
-    "FStringFlagRepoGitHashFastString": "955e9a73112e5eab8594eb89aa4687557fb2b04c",
-    "DFStringFlagRepoGitHashDynamicString": "955e9a73112e5eab8594eb89aa4687557fb2b04c",
-    "FStringFlipTimeStampFastString": "2025-04-04T17:25:44.668Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-04T17:25:44.668Z"
+    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4": "True",
+    "FStringFlagRepoGitHashFastString": "dd9b9de3d5c830bc3df462e4814e41d72b26d877",
+    "DFStringFlagRepoGitHashDynamicString": "dd9b9de3d5c830bc3df462e4814e41d72b26d877",
+    "FStringFlipTimeStampFastString": "2025-04-04T18:44:21.101Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-04T18:44:21.101Z"
 }
