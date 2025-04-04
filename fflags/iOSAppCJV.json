@@ -11990,6 +11990,7 @@
     "FFlagRefactorCINavigation": "True",
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4": "True",
     "FFlagEnableMaterialGenerator": "False",
+    "FFlagSupportHeadlessDeviceVulkan": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
     "DFLogJoinDataRxStats": "10",
@@ -12019,8 +12020,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "2e18dd79ec88b5b4a289034ac068cfc05447d83b",
-    "DFStringFlagRepoGitHashDynamicString": "2e18dd79ec88b5b4a289034ac068cfc05447d83b",
-    "FStringFlipTimeStampFastString": "2025-04-04T00:32:35.917Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-04T00:32:35.917Z"
+    "FStringFlagRepoGitHashFastString": "dc46ef691ca8bee84a6969051fbf9ad9c2bf4df7",
+    "DFStringFlagRepoGitHashDynamicString": "dc46ef691ca8bee84a6969051fbf9ad9c2bf4df7",
+    "FStringFlipTimeStampFastString": "2025-04-04T16:33:59.238Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-04T16:33:59.238Z"
 }
