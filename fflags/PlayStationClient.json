@@ -11019,7 +11019,6 @@
     "DFFlagDelayRewardedAdsInitialization": "True",
     "DFIntDelayRewardedAdsInSeconds": "10",
     "FFlagRevertDPJBehaviour": "True",
-    "DFFlagHumanoidEquipServer": "True",
     "FFlagReflectionMetadataFasterLookup": "True",
     "FFlagStudioPluginGuiInputEvents": "True",
     "DFFlagFlagRolloutTestDynamicBool15": "True",
@@ -11522,8 +11521,8 @@
     "FFlagRuntimeStmExpEnabled5": "True",
     "FFlagFriendsCarouselRemoveRemount": "False",
     "FFlagHttpRbxStorageInitOnly5": "True",
-    "FStringFlagRepoGitHashFastString": "8e27882ed8e19b4f8640f48c0d7621b58a7732b9",
-    "DFStringFlagRepoGitHashDynamicString": "8e27882ed8e19b4f8640f48c0d7621b58a7732b9",
-    "FStringFlipTimeStampFastString": "2025-04-04T19:59:01.254Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-04T19:59:01.254Z"
+    "FStringFlagRepoGitHashFastString": "0344e830373804ef34494393ccee5925b80a404b",
+    "DFStringFlagRepoGitHashDynamicString": "0344e830373804ef34494393ccee5925b80a404b",
+    "FStringFlipTimeStampFastString": "2025-04-05T19:14:13.246Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-05T19:14:13.246Z"
 }
