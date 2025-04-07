@@ -995,7 +995,7 @@
     "Description.RFYL7RobuxSpent": "The average total amount of Robux spent in your experience over seven days by individual players.",
     "Label.Metric.RFYL7RobuxSpentDays": "7 day spend days per user",
     "Description.RFYL7RobuxSpentDays": "The number of unique days individual users spend Robux in your experience over seven days.",
-    "Label.Metric.RFYQualifiedPTR": "Qualified play through rate",
+    "Label.Metric.RFYQualifiedPTR": "Qualified play through rate (recommendations)",
     "Description.RFYQualifiedPTR": "Qualified plays divided by impressions for Home recommendations.",
     "Label.Metric.HomeRecommendationImpressions": "Users with home recommendation impressions",
     "Title.HomeRecommendationSignals": "Home recommendation signals",
@@ -1049,5 +1049,6 @@
     "Heading.Matchmaking": "Matchmaking",
     "Label.Dimension.MatchmakingCategoricalCustomSignal": "Signal Name",
     "Label.Dimension.MatchmakingNumericCustomSignal": "Signal Name",
-    "Label.Granularity.Monthly": "Months"
+    "Label.Granularity.Monthly": "Months",
+    "Label.Annotation.CustomMatchmaking": "CustomMatchmaking"
 }

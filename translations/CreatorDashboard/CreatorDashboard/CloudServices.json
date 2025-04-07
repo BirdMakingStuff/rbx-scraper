@@ -201,5 +201,16 @@
     "Description.AvatarGenerationsObservability": "Avatar generations placeholder",
     "Label.AvatarGenerationsModelGenerations": "Model Generations",
     "Label.AvatarGenerationsPreviewGenerations": "Preview Generations",
-    "Label.Dimension.DatastoreType.Option": "{datastoreType}"
+    "Label.Quota": "Quota",
+    "Label.ShowRequestTypeBreakdowns": "Show Request Type Breakdowns",
+    "Description.EnforcedQuotaComingSoon": "Charts below display different request types usage measured against their respective quotas to be enforced in 2026.",
+    "Label.Dimension.DatastoreType.Option": "{datastoreType}",
+    "Description.RemoveRequestsQuota": "View the remove request type usage against future quota and breakdown by remove APIs.",
+    "Description.ListRequestsQuota": "View the list request type usage against future quota and breakdown by list APIs.",
+    "Description.WriteRequestsQuota": "View the write request type usage against future quota and breakdown by write APIs.",
+    "Description.ReadRequestsQuota": "View the read request type usage against future quota and breakdown by read APIs.",
+    "Title.RemoveRequestsQuota": "Remove Request Type Quota Usage",
+    "Title.ListRequestsQuota": "List Request Type Quota Usage",
+    "Title.WriteRequestsQuota": "Write Request Type Quota Usage",
+    "Title.ReadRequestsQuota": "Read Request Type Quota Usage"
 }

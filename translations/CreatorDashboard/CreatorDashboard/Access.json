@@ -115,5 +115,8 @@
     "Description.PolicyReviewRejected": "Your experience was not approved for fiat currency Paid Access. Review the Roblox policy guidelines and try again.",
     "Label.ReviewPolicy": "Review policy",
     "Action.LearnMoreLinkText": "Learn more",
-    "Message.AccessTypeInfoWithFiat": "Must be set to 'Public' to require Robux payments, local currency payments, or allow private servers."
+    "Message.AccessTypeInfoWithFiat": "Must be set to 'Public' to require Robux payments, local currency payments, or allow private servers.",
+    "Heading.Join": "Join",
+    "Heading.View": "View",
+    "Heading.DeviceType": "Device type"
 }
