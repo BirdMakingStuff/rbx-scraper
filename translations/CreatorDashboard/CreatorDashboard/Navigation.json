@@ -251,5 +251,6 @@
     "Heading.Integrations": "Integrations",
     "Heading.APISettings": "API Settings",
     "Heading.MatureLanguage": "Mature Language",
-    "Label.You": "You"
+    "Label.You": "You",
+    "Heading.Configs": "Remote configs"
 }

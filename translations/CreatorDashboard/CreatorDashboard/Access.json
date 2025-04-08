@@ -120,5 +120,6 @@
     "Heading.View": "View",
     "Heading.DeviceType": "Device type",
     "Description.DeviceType": "Specify which devices can access your experience.",
-    "Heading.AdditionalSettings": "Additional settings"
+    "Heading.AdditionalSettings": "Additional settings",
+    "Description.View": "Allow others to view and discover your experience. Making an experience private will shut down any running instance."
 }
