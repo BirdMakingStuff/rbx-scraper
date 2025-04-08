@@ -118,5 +118,7 @@
     "Message.AccessTypeInfoWithFiat": "Must be set to 'Public' to require Robux payments, local currency payments, or allow private servers.",
     "Heading.Join": "Join",
     "Heading.View": "View",
-    "Heading.DeviceType": "Device type"
+    "Heading.DeviceType": "Device type",
+    "Description.DeviceType": "Specify which devices can access your experience.",
+    "Heading.AdditionalSettings": "Additional settings"
 }
