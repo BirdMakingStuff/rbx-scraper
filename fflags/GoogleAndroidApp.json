@@ -11334,10 +11334,10 @@
     "FFlagSimTouchEventCallCollisionStateChanged": "True",
     "FFlagUpdateOpenUrlToLatest": "True",
     "FFlagLuauCompilerAlignmentFixEx": "True",
-    "DFFlagSanityNullCheckInNativeAdsProtocol_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T22:48:37",
-    "FFlagEnableMp4RecorderForAllWindows_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T23:06:10",
-    "FFlagEnableUpdatedLocalizationTableLoading2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T23:11:23",
     "DFFlagPerformanceControlFixExponentialCurveHang": "True",
+    "DFFlagSanityNullCheckInNativeAdsProtocol": "True",
+    "FFlagEnableMp4RecorderForAllWindows": "True",
+    "FFlagEnableUpdatedLocalizationTableLoading2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12186,8 +12186,8 @@
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4": "True",
     "FFlagLuaAppHeroUnitImageOffset": "True",
     "FFlagLuaAppEnableRelativeGuiHomeWithIxp2": "True",
-    "FStringFlagRepoGitHashFastString": "0e03de1fe6c1c28edb53e981cced1f2e1b00305f",
-    "DFStringFlagRepoGitHashDynamicString": "0e03de1fe6c1c28edb53e981cced1f2e1b00305f",
-    "FStringFlipTimeStampFastString": "2025-04-07T23:23:32.651Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T23:23:32.651Z"
+    "FStringFlagRepoGitHashFastString": "707e8b3b1a2a1ea3bf878e5e36f9c4569ff15811",
+    "DFStringFlagRepoGitHashDynamicString": "707e8b3b1a2a1ea3bf878e5e36f9c4569ff15811",
+    "FStringFlipTimeStampFastString": "2025-04-08T00:19:47.130Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T00:19:47.130Z"
 }
