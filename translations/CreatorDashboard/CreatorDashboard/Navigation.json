@@ -253,5 +253,9 @@
     "Heading.APISettings": "API Settings",
     "Heading.MatureLanguage": "Mature Language",
     "Label.You": "You",
-    "Heading.Configs": "Remote configs"
+    "Heading.Configs": "Configs",
+    "Heading.GenerativeAI": "Generative AI",
+    "Heading.LogicGameplay": "Logic & Gameplay",
+    "Heading.AvatarGenerations": "Avatar Generations",
+    "Label.Workspaces": "Workspaces"
 }
