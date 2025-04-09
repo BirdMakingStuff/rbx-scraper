@@ -271,5 +271,6 @@
     "Description.Recommendation.lookForMetricRFYGain": "Look for key metric gains in Benchmarks and {linkStart0}recommendation signals{linkEnd0} to find potential drivers",
     "Description.Recommendation.CheckRecentThumbnailUpdates": "Check recent updates to your homepage {linkStart0}thumbnails{linkEnd0}",
     "Description.Recommendation.RecommendationDropLeadQPTRDrop": "A large spike in {linkStart0}recommendation traffic{linkEnd0} can lead to short-term drops in qualified play through rate and retention",
-    "Action.ExploreRFYSignals": "Explore home recommendation signals"
+    "Action.ExploreRFYSignals": "Explore home recommendation signals",
+    "Description.Recommendation.LearnImproveAvgPlayTime": "{linkStart0}Learn how{linkEnd0} to improve average playtime"
 }

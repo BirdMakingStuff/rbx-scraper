@@ -1050,5 +1050,6 @@
     "Label.Dimension.MatchmakingCategoricalCustomSignal": "Signal Name",
     "Label.Dimension.MatchmakingNumericCustomSignal": "Signal Name",
     "Label.Granularity.Monthly": "Months",
-    "Label.Annotation.CustomMatchmaking": "CustomMatchmaking"
+    "Label.Annotation.CustomMatchmaking": "CustomMatchmaking",
+    "Disclaimer.HomeRecommendationSignals": "Each signal is based on users who joined from Recommended for You. {linkStart}Learn more{linkEnd}"
 }
