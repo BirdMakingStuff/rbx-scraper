@@ -58,5 +58,6 @@
     "allowUpdatingBundleName": "true",
     "enablePlayerFeedback": "true",
     "enableBodySuitPriceFloorChangedBanner": "true",
-    "enableCustomMatchmakingUI": "true"
+    "enableCustomMatchmakingUI": "true",
+    "bodySuitAnnouncementDevForumUrl": "https://devforum.roblox.com/t/bodysuits-now-have-a-price-floor/3600444"
 }
