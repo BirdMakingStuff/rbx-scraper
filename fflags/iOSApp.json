@@ -11411,9 +11411,9 @@
     "FFlagSplitSquadJoinOriginSources": "True",
     "FFlagDisableCameraOnCoreGuiDisabled": "True",
     "FFlagNameCapturesReactRoot": "True",
-    "FFlagRibbonTabOverflowMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:59:14",
     "DFFlagRepDelayClear": "True",
     "FFlagWrapDeformerUseServiceProviderFind": "True",
+    "FFlagRibbonTabOverflowMenu": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12105,8 +12105,8 @@
     "FFlagAXFixShoesInPurchasedCharacters": "True",
     "FFlagAXSupportShoesInItemViewport": "True",
     "FFlagAXFixFlickerOnColorAdjustmentPageEntry": "True",
-    "FStringFlagRepoGitHashFastString": "268cf83f1580ec21d8548ab1f563e3e87d60ec4a",
-    "DFStringFlagRepoGitHashDynamicString": "268cf83f1580ec21d8548ab1f563e3e87d60ec4a",
-    "FStringFlipTimeStampFastString": "2025-04-11T19:34:55.199Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T19:34:55.199Z"
+    "FStringFlagRepoGitHashFastString": "190f6432b621721d6359ca9734c84672dc1656fe",
+    "DFStringFlagRepoGitHashDynamicString": "190f6432b621721d6359ca9734c84672dc1656fe",
+    "FStringFlipTimeStampFastString": "2025-04-11T20:37:19.125Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T20:37:19.125Z"
 }
