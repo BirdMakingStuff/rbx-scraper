@@ -257,5 +257,6 @@
     "Heading.GenerativeAI": "Generative AI",
     "Heading.LogicGameplay": "Logic & Gameplay",
     "Heading.AvatarGenerations": "Avatar Generations",
-    "Label.Workspaces": "Workspaces"
+    "Label.Workspaces": "Workspaces",
+    "Heading.CreationTokens": "Creation Tokens"
 }

@@ -604,5 +604,6 @@
     "Heading.ExperienceDetails": "Experience Details",
     "Error.StartTimeInPast": "Start time cannot be in the past",
     "Tooltip.RegionalPricingForPasses": "Passes with Regional Pricing enabled will have different prices per country or region.",
-    "Tooltip.PriceOptimizationForPasses": "Price Optimization runs tests to find the optimal prices for your virtual items. Passes in an active price test cannot be edited."
+    "Tooltip.PriceOptimizationForPasses": "Price Optimization runs tests to find the optimal prices for your virtual items. Passes in an active price test cannot be edited.",
+    "Action.EditDetails": "Edit details"
 }
