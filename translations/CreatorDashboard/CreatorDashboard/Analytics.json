@@ -1051,5 +1051,11 @@
     "Label.Dimension.MatchmakingNumericCustomSignal": "Signal Name",
     "Label.Granularity.Monthly": "Months",
     "Label.Annotation.CustomMatchmaking": "CustomMatchmaking",
-    "Disclaimer.HomeRecommendationSignals": "Each signal is based on users who joined from Recommended for You. {linkStart}Learn more{linkEnd}"
+    "Disclaimer.HomeRecommendationSignals": "Each signal is based on users who joined from Recommended for You. {linkStart}Learn more{linkEnd}",
+    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus": "Player Attributes Loading Status",
+    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.DefaultFromAbsent": "Use Default (Absent Data)",
+    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.DefaultFromError": "Use Default (Error)",
+    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.DefaultFromExceedLimit": "Use Default (Exceed Limit)",
+    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.DefaultFromInvalid": "Use Default (Invalid Data)",
+    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.FromDataStores": "From DataStores"
 }
