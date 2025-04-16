@@ -11487,6 +11487,11 @@
     "FFlagRegisterQRCodeKeyInEngine_v2": "True",
     "DFFlagRvMp4FormatCheckFileByteStream": "True",
     "FFlagContactImporterFlowIXPEnabled_v5": "True",
+    "DFIntReloadIxpControllerHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-16T16:15:28",
+    "FFlagChromeCentralizedConfiguration4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-16T16:19:30",
+    "FFlagFoundationButtonEnableLoadingState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-16T16:30:53",
+    "FFlagFoundationEnableNewButtonSizes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-16T16:32:20",
+    "FFlagLuaAppLaunchSduiTracker_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-16T16:34:22",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12204,8 +12209,8 @@
     "DFFlagRobloxTelemetryReliabilityCounterRefactor2": "True",
     "AndroidCollectThermalThrottling": "true",
     "FFlagMovePrerenderV2": "True",
-    "FStringFlagRepoGitHashFastString": "27a6e36f2982efd9372435760000e417a2ae508a",
-    "DFStringFlagRepoGitHashDynamicString": "27a6e36f2982efd9372435760000e417a2ae508a",
-    "FStringFlipTimeStampFastString": "2025-04-16T00:47:35.534Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-16T00:47:35.534Z"
+    "FStringFlagRepoGitHashFastString": "537823f6a195c26ecd84f0c848dbe6ab75d98a62",
+    "DFStringFlagRepoGitHashDynamicString": "537823f6a195c26ecd84f0c848dbe6ab75d98a62",
+    "FStringFlipTimeStampFastString": "2025-04-16T16:42:56.628Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-16T16:42:56.628Z"
 }
