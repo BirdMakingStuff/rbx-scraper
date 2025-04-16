@@ -172,7 +172,7 @@
     "Heading.DependenciesAlertTitleDistributionAndSharing": "Includes unsupported Restricted assets",
     "Heading.DependenciesAlertTitleMakingDecalOpenUse": "Image is not set to Open Use",
     "Heading.DependenciesAlertTitleSellingPaidModel": "Dependencies will be available for anyone to use",
-    "Description.DependenciesAlertSubtitleDistribution": "This is for personal use only. You cannot distribute composites that contain Restricted Audio or Video, or a Restricted asset created by someone else.",
+    "Description.DependenciesAlertSubtitleDistribution": "This is for personal use only. You cannot distribute composites containing Restricted audio/video unless you created and distributed them, or Restricted assets made by others.",
     "Description.DependenciesAlertSubtitleSharing": "This is for personal use only. You cannot share composites that contain a Restricted asset created by someone else.",
     "Description.DependenciesAlertSubtitleMakingDecalOpenUse": "You cannot make this Decal Open Use if the dependent Image is set to Restricted.",
     "Description.DependenciesAlertSubtitleSellingPaidModel": "We strongly recommend only selling newly-uploaded Models with Restricted Image and Mesh dependencies after opting in to the Asset Privacy Beta.",

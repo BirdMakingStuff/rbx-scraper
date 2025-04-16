@@ -58,5 +58,7 @@
     "Label.InvalidUniverseAccess": "Unauthorized to access universe",
     "Label.ViewAcquisition": "View acquisition",
     "Label.Experience": "Experience",
-    "Label.ExperienceRequired": "Experience name is required"
+    "Label.ExperienceRequired": "Experience name is required",
+    "Label.FallbackToHome": "Redirect to Roblox homepage instead",
+    "Description.FallbackToHome": "If no experience is provided, users will be redirected to your {linkStart}Profile Page{linkEnd}."
 }
