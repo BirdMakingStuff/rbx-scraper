@@ -11517,6 +11517,8 @@
     "DFFlagInExpAvatarCreationDisableEphemeralCounters2": "True",
     "FFlagGeometryBuffersTelemetry": "False",
     "AllowVideoPreRoll": "True",
+    "DFFlagTaskLibReportNonSuspended_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T16:01:36",
+    "DFFlagPlayerReflectThirdPartyTextChatRestrictionStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T16:25:38",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12231,7 +12233,6 @@
     "DFFlagRobloxTelemetryReliabilityCounterRefactor2": "True",
     "AndroidCollectThermalThrottling": "true",
     "FFlagMovePrerenderV2": "True",
-    "FFlagInExperienceLocaleHeaderEnabled_IXP": "1;AvatarMarketplace.InExperience;FFlagInExperienceLocaleHeaderEnabled;1885385504;flagbank",
     "FStringGraphicsDisableCloudsForVendorGPUDriver": "PowerVR Rouge GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -12397,8 +12398,8 @@
     "FFlagLuaAppSignUpColorExperiment2": "True",
     "FFlagPartyVoiceControlsAnalytics": "True",
     "FFlagAXColorAdjustmentButtonShouldAccountForTryOns": "True",
-    "FStringFlagRepoGitHashFastString": "39465acdb5f26c87de18b43a500cadd26e206e8c",
-    "DFStringFlagRepoGitHashDynamicString": "39465acdb5f26c87de18b43a500cadd26e206e8c",
-    "FStringFlipTimeStampFastString": "2025-04-17T00:58:53.875Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T00:58:53.875Z"
+    "FStringFlagRepoGitHashFastString": "28c06cf6c2b6008f9aad7c0133f2169cc5e32de7",
+    "DFStringFlagRepoGitHashDynamicString": "28c06cf6c2b6008f9aad7c0133f2169cc5e32de7",
+    "FStringFlipTimeStampFastString": "2025-04-17T16:38:06.206Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T16:38:06.206Z"
 }
