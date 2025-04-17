@@ -12228,11 +12228,13 @@
     "FFlagSaveFirstCrashReasonAndMessage": "True",
     "FFlagDebugDisableCodegen": "True",
     "DFFlagExtractMoreExceptionInformation": "True",
-    "DFFlagFixUserTurnAuthJoinedVoiceRace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T21:51:31",
     "DFFlagIsFriendsWithUseFriendStatusCacheBeforeApi": "True",
     "FFlagAddFriendsRemoveShowMoreWrapperDependency": "True",
-    "FStringFlagRepoGitHashFastString": "257202fc848dfdcbfd91c8c7e0db86a49b46d592",
-    "DFStringFlagRepoGitHashDynamicString": "257202fc848dfdcbfd91c8c7e0db86a49b46d592",
-    "FStringFlipTimeStampFastString": "2025-04-17T22:36:18.496Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T22:36:18.496Z"
+    "DFFlagFixUserTurnAuthJoinedVoiceRace": "True",
+    "FFlagAXNewItemGroupIncrementalHydration3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T23:09:26",
+    "FFlagAXFixColorAdjustmentGamepadSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T23:18:14",
+    "FStringFlagRepoGitHashFastString": "0e3da899c7c75342007a41c7ae63d454a19f1934",
+    "DFStringFlagRepoGitHashDynamicString": "0e3da899c7c75342007a41c7ae63d454a19f1934",
+    "FStringFlipTimeStampFastString": "2025-04-17T23:34:42.473Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T23:34:42.473Z"
 }
