@@ -11523,7 +11523,8 @@
     "DFFlagRakNetMissingPingUpgradeDetection": "True",
     "FFlagStudioReworkPluginUnloading4": "True",
     "DFFlagFrequencyOverflowFix": "True",
-    "DFFlagFileCacheFixRemoveAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T19:33:30",
+    "FFlagMicroprofilerPerFrameCpuSpeed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T20:10:47",
+    "DFFlagFileCacheFixRemoveAll": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12268,8 +12269,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "268dae244aa89f3ea39771e40584cab547eac7b6",
-    "DFStringFlagRepoGitHashDynamicString": "268dae244aa89f3ea39771e40584cab547eac7b6",
-    "FStringFlipTimeStampFastString": "2025-04-17T19:34:36.300Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T19:34:36.300Z"
+    "FStringFlagRepoGitHashFastString": "bf88b804b6a6aea7de52d3ffb0d47b21db2bccae",
+    "DFStringFlagRepoGitHashDynamicString": "bf88b804b6a6aea7de52d3ffb0d47b21db2bccae",
+    "FStringFlipTimeStampFastString": "2025-04-17T20:38:29.365Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T20:38:29.365Z"
 }
