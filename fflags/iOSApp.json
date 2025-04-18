@@ -9927,7 +9927,7 @@
     "FFlagCapturesOpenInVideos": "True",
     "FFlagSaveVideoCapturesToVideosFolder": "True",
     "DFFlagRakNetMissingPing2": "True",
-    "DFLogRakNetMissingPingPong": "Verbose,6",
+    "DFLogRakNetMissingPingPong": "6",
     "FFlagDeprecateGetPlaceSettingsUrl": "True",
     "DFFlagEnableAdGuiIsValidUpdate": "True",
     "FFlagIxpRolloutPriorityFix": "True",
@@ -12231,10 +12231,10 @@
     "DFFlagIsFriendsWithUseFriendStatusCacheBeforeApi": "True",
     "FFlagAddFriendsRemoveShowMoreWrapperDependency": "True",
     "DFFlagFixUserTurnAuthJoinedVoiceRace": "True",
-    "FFlagAXNewItemGroupIncrementalHydration3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T23:09:26",
-    "FFlagAXFixColorAdjustmentGamepadSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T23:18:14",
-    "FStringFlagRepoGitHashFastString": "0e3da899c7c75342007a41c7ae63d454a19f1934",
-    "DFStringFlagRepoGitHashDynamicString": "0e3da899c7c75342007a41c7ae63d454a19f1934",
-    "FStringFlipTimeStampFastString": "2025-04-17T23:34:42.473Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T23:34:42.473Z"
+    "FFlagAXNewItemGroupIncrementalHydration3": "True",
+    "FFlagAXFixColorAdjustmentGamepadSupport": "True",
+    "FStringFlagRepoGitHashFastString": "0225b644cf3d696e5f9c877f6293a97d93ad1a71",
+    "DFStringFlagRepoGitHashDynamicString": "0225b644cf3d696e5f9c877f6293a97d93ad1a71",
+    "FStringFlipTimeStampFastString": "2025-04-18T00:58:50.576Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-18T00:58:50.576Z"
 }
