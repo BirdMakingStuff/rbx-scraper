@@ -1057,5 +1057,9 @@
     "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.DefaultFromError": "Use Default (Error)",
     "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.DefaultFromExceedLimit": "Use Default (Exceed Limit)",
     "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.DefaultFromInvalid": "Use Default (Invalid Data)",
-    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.FromDataStores": "From DataStores"
+    "Label.Dimension.MatchmakingPlayerAttributesLoadingStatus.FromDataStores": "From DataStores",
+    "Title.MonetizationBreakglassBanner": "We are experiencing monetization reporting delays.",
+    "Title.GeneralBreakglassBanner": "We're experiencing analytics reporting delays.",
+    "Description.GeneralBreakglassBanner": "Thanks for your patience as we work to fix this.",
+    "Description.MonetizationBreakglassBanner": "Your actual payouts remain unaffected. Thanks for your patience as we work to fix this."
 }
