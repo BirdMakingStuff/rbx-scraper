@@ -23,7 +23,7 @@
     "Error.InvalidBadgePermissions": "You do not have permission to manage this badge.",
     "Error.InvalidUniverse": "The experience is invalid or does not exist.",
     "Error.InvalidUser": "The user account is invalid or does not exist.",
-    "Error.TooManyBadgeIds": "Too many badge Ids, please only do 50 at a time.",
+    "Error.TooManyBadgeIds": "Please reorder no more than 50 badges at a time.",
     "Error.TextModerated": "Text moderated. Please change your badge name and/or description and try again.",
     "Error.InvalidPlace": "The place is invalid or does not exist.",
     "Error.InvalidPermissionsToAwardBadge": "The place doesn't have permission to award the badge.",

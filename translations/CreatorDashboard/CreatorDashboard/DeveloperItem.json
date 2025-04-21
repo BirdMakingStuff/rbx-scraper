@@ -140,7 +140,7 @@
     "Label.ExperienceIdSearchLabel": "Enter experience IDs",
     "Message.OpenUsePricedRestriction": "Open-use assets cannot be priced",
     "Message.OpenUseRestrictedRestriction": "Open-use assets cannot be made restricted",
-    "Description.AssetAccess": "Asset access is in beta. Default settings are applicable to all newly uploaded assets.",
+    "Description.AssetAccess": "Asset access is in beta. Default settings are applicable only to newly uploaded assets.",
     "Heading.AssetAccess": "Asset Access",
     "Description.AssetAccessRestricted": "Only you and those with permission can use this asset",
     "Message.PricedOpenUseRestriction": "Priced assets cannot be set to open-use",
@@ -172,7 +172,7 @@
     "Heading.DependenciesAlertTitleDistributionAndSharing": "Includes unsupported Restricted assets",
     "Heading.DependenciesAlertTitleMakingDecalOpenUse": "Image is not set to Open Use",
     "Heading.DependenciesAlertTitleSellingPaidModel": "Dependencies will be available for anyone to use",
-    "Description.DependenciesAlertSubtitleDistribution": "This is for personal use only. You cannot distribute composites containing Restricted audio/video unless you created and distributed them, or Restricted assets made by others.",
+    "Description.DependenciesAlertSubtitleDistribution": "This is for personal use only. You cannot distribute composites containing Restricted Audio/Video unless you created and distributed them, or Restricted assets made by others.",
     "Description.DependenciesAlertSubtitleSharing": "This is for personal use only. You cannot share composites that contain a Restricted asset created by someone else.",
     "Description.DependenciesAlertSubtitleMakingDecalOpenUse": "You cannot make this Decal Open Use if the dependent Image is set to Restricted.",
     "Description.DependenciesAlertSubtitleSellingPaidModel": "We strongly recommend only selling newly-uploaded Models with Restricted Image and Mesh dependencies after opting in to the Asset Privacy Beta.",
@@ -195,5 +195,5 @@
     "Label.Plugin": "Plugin",
     "Heading.Distribution": "Distribution",
     "Description.DependenciesDescriptionSharing": "The following are assets created by someone else.",
-    "Description.DependenciesDescriptionDistribution": "The following are Restricted Audio or Video, or Restricted assets created by someone else."
+    "Description.DependenciesDescriptionDistribution": "The following are Restricted Audio/Video not created and distributed by you, or Restricted assets created by someone else."
 }
