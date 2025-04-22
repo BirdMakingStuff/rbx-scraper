@@ -1061,5 +1061,7 @@
     "Title.MonetizationBreakglassBanner": "We are experiencing monetization reporting delays.",
     "Title.GeneralBreakglassBanner": "We're experiencing analytics reporting delays.",
     "Description.GeneralBreakglassBanner": "Thanks for your patience as we work to fix this.",
-    "Description.MonetizationBreakglassBanner": "Your actual payouts remain unaffected. Thanks for your patience as we work to fix this."
+    "Description.MonetizationBreakglassBanner": "Your actual payouts remain unaffected. Thanks for your patience as we work to fix this.",
+    "Title.PerformanceSessionTime": "Session time by place",
+    "Description.PerformanceSessionTime": "Tracks active time within a specific place.  Large drops over a short period may signal performance issues"
 }
