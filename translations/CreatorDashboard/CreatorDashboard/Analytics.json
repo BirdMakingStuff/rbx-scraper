@@ -540,7 +540,7 @@
     "Action.Refresh": "Refresh",
     "Action.Close": "Close",
     "Heading.InExperienceEconomyZeroState": "Grow your in-experience economy",
-    "Description.InExperienceEconomyZeroStateOnboarding": "Add economy events to unlock this dashboard:\n{listStart}\n{listItemStart}{boldStart}Top sinks:{boldEnd} What do users spend resources (e.g., gold) on?{listItemEnd}\n{listItemStart}{boldStart}Top sources:{boldEnd} Where do users earn resources from?{listItemEnd}\n{listItemStart}{boldStart}Wallet balance:{boldEnd} How much resources are users holding?{listItemEnd}\n{listEnd}",
+    "Description.InExperienceEconomyZeroStateOnboarding": "Add economy events to unlock this dashboard:\n{listStart}\n{listItemStart}{boldStart}Top sinks:{boldEnd} What do users spend resources (e.g., gold) on?{listItemEnd}\n{listItemStart}{boldStart}Top sources:{boldEnd} Where do users earn resources from?{listItemEnd}\n{listItemStart}{boldStart}Wallet balance:{boldEnd} How many resources are users holding?{listItemEnd}\n{listEnd}",
     "Action.ReadDocumentation": "Read Documentation",
     "Title.ReturningUsers": "Returning users",
     "Description.ReturningUsers": "Number of DAUs who have played your experience before",

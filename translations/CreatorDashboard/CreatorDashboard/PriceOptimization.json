@@ -206,7 +206,7 @@
     "Label.Timeline.ViewTestResults": "View test results",
     "Label.Timeline.PriceReviewPeriod": "Price review period",
     "Heading.PriceCheckActiveWarning": "Dynamic Price Check is enabled",
-    "Description.PriceCheckActiveWarning": "Price tests cannot be run when enabled. We recommend disabling this tool before running price tests.",
+    "Description.PriceCheckActiveWarning": "Testers can now preview updated prices for pinned products. Purchases of these items are temporarily disabled for test accounts.",
     "Heading.PriceCheckEnabled": "Dynamic Price Check enabled",
     "Description.PriceCheckEnabled": "Please wait a few minutes before test prices are visible in your experience.\n\nThis tool may affect price tests while active. For best results, disable it before running price-related tests.",
     "Heading.PriceCheckDisabled": "Dynamic Price Check disabled",

@@ -212,5 +212,6 @@
     "Title.RemoveRequestsQuota": "Remove Request Type Quota Usage",
     "Title.ListRequestsQuota": "List Request Type Quota Usage",
     "Title.WriteRequestsQuota": "Write Request Type Quota Usage",
-    "Title.ReadRequestsQuota": "Read Request Type Quota Usage"
+    "Title.ReadRequestsQuota": "Read Request Type Quota Usage",
+    "Label.RequestTypeUsage": "Request Type Usage"
 }
