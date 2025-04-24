@@ -12348,6 +12348,7 @@
     "FStringGraphicsGLES3ConstantBufferSupportDenyList": "PowerVR Rogue.*:.*:.*",
     "FFlagGraphicsGLES3_2AllPowerVR3": "True",
     "FFlagGraphicsGLES3AllPowerVR3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-24T16:31:19",
+    "FFlagMovePrerenderV2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-24T17:08:31",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
@@ -12512,8 +12513,8 @@
     "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected": "True",
     "FFlagAXFixColorAdjustmentQuickButtonSize": "True",
     "GmasdkAdReportUnrequestedAd": "true",
-    "FStringFlagRepoGitHashFastString": "cb381984d7edab9ab05a7c8a3aad1cd34ebc3fd4",
-    "DFStringFlagRepoGitHashDynamicString": "cb381984d7edab9ab05a7c8a3aad1cd34ebc3fd4",
-    "FStringFlipTimeStampFastString": "2025-04-24T16:33:32.539Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-24T16:33:32.539Z"
+    "FStringFlagRepoGitHashFastString": "9d541baeb0ae18e0b2ca3fbfc71e6ca04bd9ccf0",
+    "DFStringFlagRepoGitHashDynamicString": "9d541baeb0ae18e0b2ca3fbfc71e6ca04bd9ccf0",
+    "FStringFlipTimeStampFastString": "2025-04-24T17:11:31.116Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-24T17:11:31.116Z"
 }
