@@ -946,7 +946,7 @@
     "Title.PublishingAdvance": "Publishing Advance",
     "Label.PublishingAdvanceRecovered": "Recovered",
     "Title.MarketplacevsInExperienceSales": "Marketplace vs In-experience Sales",
-    "Heading.NoRecommendation.BannerTitle": "Your experience has reduced exposure across Home and Search",
+    "Heading.NoRecommendation.BannerTitle": "Your experience has reduced exposure across Home, Search, and Charts",
     "Description.NoRecommendation.BannerDescription": "Follow our best practices to improve your exposure",
     "Description.MarketplacevsInExperienceSales": "Percentage of total sales that originated from either the Marketplace or In-Experience.",
     "Label.PercentageGrowthOverServerLifecycle": "Percentage growth over server lifecycle",
@@ -1063,5 +1063,6 @@
     "Description.GeneralBreakglassBanner": "Thanks for your patience as we work to fix this.",
     "Description.MonetizationBreakglassBanner": "Your actual payouts remain unaffected. Thanks for your patience as we work to fix this.",
     "Title.PerformanceSessionTime": "Session time by place",
-    "Description.PerformanceSessionTime": "Tracks active time within a specific place.  Large drops over a short period may signal performance issues"
+    "Description.PerformanceSessionTime": "Tracks active time within a specific place.  Large drops over a short period may signal performance issues",
+    "Description.DayNumber": "Day {number}"
 }
