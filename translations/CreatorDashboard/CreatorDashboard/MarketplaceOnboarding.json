@@ -59,5 +59,6 @@
     "Heading.SampleProduct": "Sample Product",
     "Description.SampleProduct": "This is a description for a sample product",
     "Description.SampleProductRequirements": "To sample this product, you need to fulfill certain prerequisites.",
-    "Message.AgreeToTOS": "I have read and agree to the Terms of Use"
+    "Message.AgreeToTOS": "I have read and agree to the Terms of Use",
+    "Label.SellerSince": "Seller Since"
 }
