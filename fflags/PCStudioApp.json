@@ -11725,7 +11725,6 @@
     "FFlagImportQueueReplaceWithAsync": "True",
     "FFlagLuaAppUnifiedCarouselScrollButtons": "True",
     "DFFlagAlwaysSkipDiskCache": "True",
-    "FFlagEnableCodeAssistStreaming_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T20:03:38",
     "FFlagStudioFixPluginLoadingTestFixtures2": "True",
     "AxisAdornmentGrabSize": "12",
     "DFFlagCLI147300_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T20:37:52",
@@ -11737,6 +11736,7 @@
     "FFlagSduiTemplateRegistry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T21:03:05",
     "DFFlagEphemeralFuzzyExtents": "True",
     "CaptureCountersIntervalInMinutes": "5",
+    "FFlagEnableCodeAssistStreaming": "True",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
     "DFFlagEnableRemoteProfiling": "True",
@@ -13409,8 +13409,8 @@
     "FFlagFontListFetchRetryForMoreTimes": "True",
     "FFlagStudioPreloadBuilderSans": "True",
     "FFlagWebBrowserWinFixInitScriptReload": "True",
-    "FStringFlagRepoGitHashFastString": "073ac52df9088d9b0e286a094bbfed923c12c1f1",
-    "DFStringFlagRepoGitHashDynamicString": "073ac52df9088d9b0e286a094bbfed923c12c1f1",
-    "FStringFlipTimeStampFastString": "2025-04-29T21:06:30.242Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T21:06:30.242Z"
+    "FStringFlagRepoGitHashFastString": "0b92937d6b4978c983cf81fe73b1888869ca251b",
+    "DFStringFlagRepoGitHashDynamicString": "0b92937d6b4978c983cf81fe73b1888869ca251b",
+    "FStringFlipTimeStampFastString": "2025-04-29T22:35:53.167Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T22:35:53.167Z"
 }
