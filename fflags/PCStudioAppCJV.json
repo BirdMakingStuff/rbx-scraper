@@ -13127,7 +13127,7 @@
     "FFlagFixTeamCreateManagerDisconnectClosePlaceProblem": "True",
     "FFlagAnnotationsCardDoubleClickZoom": "True",
     "FFlagCollab7855_HandleUnknownPermission2": "True",
-    "FFlagExplorerFixZoomExtentsAction": "True",
+    "FFlagExplorerFixZoomExtentsAction": "False",
     "FFlagLuauNarrowIntersectionNevers": "True",
     "FFlagFixCIPolicyInHook": "True",
     "FFlagEnableLayoutModifiers3": "True",
@@ -13138,7 +13138,6 @@
     "FFlagGrantImageAndMeshPermissions3": "True",
     "FFlagStudioImproveDMLockHangDetection": "True",
     "FFlagStudioEnableLuaHSRInAllDataModels": "True",
-    "FFlagExplorerFixZoomExtentsAction_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T01:42:11",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -13377,8 +13376,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "bdbc581539fa777d7cf9bac843bb1f71914d8b66",
-    "DFStringFlagRepoGitHashDynamicString": "bdbc581539fa777d7cf9bac843bb1f71914d8b66",
-    "FStringFlipTimeStampFastString": "2025-04-29T01:43:45.874Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T01:43:45.874Z"
+    "FStringFlagRepoGitHashFastString": "4f0eeb99f1a0b2126ddc0189da7ba889b844d1b8",
+    "DFStringFlagRepoGitHashDynamicString": "4f0eeb99f1a0b2126ddc0189da7ba889b844d1b8",
+    "FStringFlipTimeStampFastString": "2025-04-29T02:47:06.415Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T02:47:06.415Z"
 }
