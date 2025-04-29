@@ -232,6 +232,15 @@
     "FFlagFFlagEnableAdDataReferralEventIngest": "True",
     "FFlagAddErrorLogForStartNewProcess": "True",
     "FFlagWinInstallerCleanCacheBeforeInstall": "True",
+    "FFlagCheckDuplicateCagePoints_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FFlagEnableLinearCageDeformer2_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FFlagMergeBodyCageByR15Connectivity_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FFlagRigidityControl_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FFlagUseBothCagesForRBFDeformer_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FFlagWrappedGridFixCLI148409_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FFlagRbfLLT_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -256,8 +265,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "4f0eeb99f1a0b2126ddc0189da7ba889b844d1b8",
-    "DFStringFlagRepoGitHashDynamicString": "4f0eeb99f1a0b2126ddc0189da7ba889b844d1b8",
-    "FStringFlipTimeStampFastString": "2025-04-29T02:47:06.415Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T02:47:06.415Z"
+    "FStringFlagRepoGitHashFastString": "cd7db6d527ca91ca772e3d8a4bf44d8be3bfea82",
+    "DFStringFlagRepoGitHashDynamicString": "cd7db6d527ca91ca772e3d8a4bf44d8be3bfea82",
+    "FStringFlipTimeStampFastString": "2025-04-29T16:45:12.276Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:45:12.276Z"
 }

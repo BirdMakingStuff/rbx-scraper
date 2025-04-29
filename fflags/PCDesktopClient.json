@@ -11690,6 +11690,9 @@
     "FFlagAssetReaderAdvancedLogicForIOS": "True",
     "DFFlagFixShapecastPrimitiveCrash2": "True",
     "FFlagAnnotationCreationLocksCamera": "True",
+    "DFFlagSimStepPhysicsImprovedSubStepping_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:18:57",
+    "FFlagUGCValidateIndividualPartBBoxes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:24:15",
+    "FFlagLuauStatForInFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:42:50",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
@@ -12002,6 +12005,7 @@
     "FFlagWrappedGridFixCLI148409_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
+    "DFFlagShorelinesUpgradedDefaultTrue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:09:18",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12416,8 +12420,8 @@
     "FFlagStreamingSolverV2Release663": "True",
     "FFlagWHAM17072": "True",
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": "1000",
-    "FStringFlagRepoGitHashFastString": "4f0eeb99f1a0b2126ddc0189da7ba889b844d1b8",
-    "DFStringFlagRepoGitHashDynamicString": "4f0eeb99f1a0b2126ddc0189da7ba889b844d1b8",
-    "FStringFlipTimeStampFastString": "2025-04-29T02:47:06.415Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T02:47:06.415Z"
+    "FStringFlagRepoGitHashFastString": "88211940d3e1904456b0185bab776b80a27f4339",
+    "DFStringFlagRepoGitHashDynamicString": "88211940d3e1904456b0185bab776b80a27f4339",
+    "FStringFlipTimeStampFastString": "2025-04-29T16:44:42.943Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:44:42.943Z"
 }
