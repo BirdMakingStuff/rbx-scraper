@@ -241,6 +241,7 @@
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FFlagRbfLLT_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
+    "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:56:58",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -265,8 +266,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "7c9b2a0ad451453f52163dab84a7a44d7088d871",
-    "DFStringFlagRepoGitHashDynamicString": "7c9b2a0ad451453f52163dab84a7a44d7088d871",
-    "FStringFlipTimeStampFastString": "2025-04-29T17:33:02.683Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T17:33:02.683Z"
+    "FStringFlagRepoGitHashFastString": "2a8cd3d98954b2a90376185bfed7707f91073ba4",
+    "DFStringFlagRepoGitHashDynamicString": "2a8cd3d98954b2a90376185bfed7707f91073ba4",
+    "FStringFlipTimeStampFastString": "2025-04-29T18:39:05.705Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:39:05.705Z"
 }
