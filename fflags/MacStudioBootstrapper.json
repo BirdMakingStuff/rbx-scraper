@@ -241,7 +241,8 @@
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FFlagRbfLLT_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
-    "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:56:58",
+    "FFlagEnableInstallerAsProtocolHandler2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:56:25",
+    "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -255,8 +256,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "2a8cd3d98954b2a90376185bfed7707f91073ba4",
-    "DFStringFlagRepoGitHashDynamicString": "2a8cd3d98954b2a90376185bfed7707f91073ba4",
-    "FStringFlipTimeStampFastString": "2025-04-29T18:39:05.705Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:39:05.705Z"
+    "FStringFlagRepoGitHashFastString": "95b99d11bb5ba7606794881f47f02ceb311a5449",
+    "DFStringFlagRepoGitHashDynamicString": "95b99d11bb5ba7606794881f47f02ceb311a5449",
+    "FStringFlipTimeStampFastString": "2025-04-29T19:32:43.041Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:32:43.041Z"
 }
