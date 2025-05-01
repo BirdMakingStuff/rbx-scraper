@@ -11785,6 +11785,12 @@
     "FFlagLuaAppMigrateGameTileIxp3": "True",
     "FFlagAXCustomizeSessions": "True",
     "FFlagProfilePlatformFavoritesEnableProfilePlatformClickAnalytics": "True",
+    "FFlagLuaAppMigrateGameTileIxp3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T16:08:15",
+    "FFlagBootcampCLI150178_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T16:09:24",
+    "FFlagGamepadPointAndClick2_Staged": "True;SteadyState;10;30;Revert;2025-05-01T16:28:17",
+    "FFlagGamepadPointAndClick2_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;PointAndClickDefaultAutomaticExposure;2100083083;flagbank",
+    "FFlagPointAndClickCursor_Staged": "True;SteadyState;10;30;Revert;2025-05-01T16:28:17",
+    "FFlagPointAndClickCursor_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;PointAndClickDefaultAutomaticExposure;2100083083;flagbank",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13467,8 +13473,8 @@
     "FFlagStudioPreloadBuilderSans": "True",
     "FFlagWebBrowserWinFixInitScriptReload": "True",
     "FFlagManagedJointJointInstance670": "False",
-    "FStringFlagRepoGitHashFastString": "3be024ca5d4f514c9b11539198ca2e1194b83e29",
-    "DFStringFlagRepoGitHashDynamicString": "3be024ca5d4f514c9b11539198ca2e1194b83e29",
-    "FStringFlipTimeStampFastString": "2025-05-01T01:22:51.201Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T01:22:51.201Z"
+    "FStringFlagRepoGitHashFastString": "1c695b60a74228ad555b11b960ed2926fd652341",
+    "DFStringFlagRepoGitHashDynamicString": "1c695b60a74228ad555b11b960ed2926fd652341",
+    "FStringFlipTimeStampFastString": "2025-05-01T16:29:15.623Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T16:29:15.623Z"
 }
