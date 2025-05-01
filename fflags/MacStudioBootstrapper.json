@@ -245,7 +245,10 @@
     "DFFlagHttpReportResponseContentLength": "True",
     "DFFlagHttpTrackBandwidthBasedOnMsgSize": "True",
     "DFFlagConfigServiceTestingEnabled": "True",
-    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:43:30",
+    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5": "True",
+    "FIntMininumRequiredMemoryInMB_Staged": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:14:35",
+    "FFlagStudioUsePhysicallyInstalledMemoryForMinSpec_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:20:35",
+    "FFlagStudioMinSpecAdjustments_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:20:43",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": "True",
     "FFlagAXRemoveDividers": "True",
@@ -259,8 +262,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "eff77254538bcbdb252229ff9f4c09c59d6bde3f",
-    "DFStringFlagRepoGitHashDynamicString": "eff77254538bcbdb252229ff9f4c09c59d6bde3f",
-    "FStringFlipTimeStampFastString": "2025-05-01T19:34:01.491Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T19:34:01.491Z"
+    "FStringFlagRepoGitHashFastString": "3cbf2f46be77dd2f4b38f4b2d611781fe7de17d7",
+    "DFStringFlagRepoGitHashDynamicString": "3cbf2f46be77dd2f4b38f4b2d611781fe7de17d7",
+    "FStringFlipTimeStampFastString": "2025-05-01T20:38:25.449Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:38:25.449Z"
 }
