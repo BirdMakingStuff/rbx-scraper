@@ -11831,6 +11831,13 @@
     "FFlagAXFixSaveManagerOnAXExit": "True",
     "FFlagEnableGameInviteRewardsBanner3": "True",
     "FFlagEnableRewardsWebViewOverlay": "True",
+    "DFFlagSimAeroUseConstMaxSampleNum_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T16:04:05",
+    "FFlagDevFrameworkInlineLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T16:08:52",
+    "FFlagStorybookFixEmbedPackages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T16:22:56",
+    "DFFlagShorelinesUpgradedDefaultTrue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T16:23:54",
+    "FFlagChromeCentralizedShortcutConfig_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T16:40:50",
+    "FFlagConsoleSinglePressIntegrationExit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T16:42:57",
+    "DFFlagMatrixFromQuatFixDupe2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T16:42:59",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12586,8 +12593,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
-    "DFStringFlagRepoGitHashDynamicString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
-    "FStringFlipTimeStampFastString": "2025-05-02T01:07:23.991Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T01:07:23.991Z"
+    "FStringFlagRepoGitHashFastString": "e67a57264dcc2422396f0f8bc63d2a2052e400ad",
+    "DFStringFlagRepoGitHashDynamicString": "e67a57264dcc2422396f0f8bc63d2a2052e400ad",
+    "FStringFlipTimeStampFastString": "2025-05-02T16:44:37.933Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T16:44:37.933Z"
 }
