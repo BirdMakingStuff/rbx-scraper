@@ -13327,7 +13327,7 @@
     "FFlagSTM5561Enabled9": "True",
     "FFlagPlaceAnnotationsPublicRelease": "True",
     "DFFlagFixAudioCanCollideCSG": "True",
-    "FFlagRuntimeEnabled9": "True",
+    "FFlagRuntimeEnabled9": "False",
     "FFlagLuauBidirectionalInferenceElideAssert": "True",
     "FFlagLuauFormatUseLastPosition": "True",
     "FFlagLuauOptimizeFalsyAndTruthyIntersect": "True",
@@ -13344,7 +13344,6 @@
     "DFFlagStopUpdateCollisionDuringDMTearDown": "True",
     "FFlagSyncDpiAcrossDms": "True",
     "FFlagToolboxRemoveDupeCall": "True",
-    "FFlagRuntimeEnabled9_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T20:18:55",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagShorelinesRemoveDialog": "True",
     "FFlagTerrainEditorUseTerrainChannels": "True",
@@ -13586,8 +13585,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "ddb74079eb4d425a991c251fa536d1f4054332da",
-    "DFStringFlagRepoGitHashDynamicString": "ddb74079eb4d425a991c251fa536d1f4054332da",
-    "FStringFlipTimeStampFastString": "2025-05-02T20:19:48.140Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T20:19:48.140Z"
+    "FStringFlagRepoGitHashFastString": "dfe5b2c1601cd48e57554552ef1192293f07f964",
+    "DFStringFlagRepoGitHashDynamicString": "dfe5b2c1601cd48e57554552ef1192293f07f964",
+    "FStringFlipTimeStampFastString": "2025-05-02T21:23:11.346Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T21:23:11.346Z"
 }
