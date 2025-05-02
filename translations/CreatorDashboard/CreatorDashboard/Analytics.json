@@ -1064,5 +1064,7 @@
     "Description.MonetizationBreakglassBanner": "Your actual payouts remain unaffected. Thanks for your patience as we work to fix this.",
     "Title.PerformanceSessionTime": "Session time by place",
     "Description.PerformanceSessionTime": "Tracks active time within a specific place.  Large drops over a short period may signal performance issues",
-    "Description.DayNumber": "Day {number}"
+    "Description.DayNumber": "Day {number}",
+    "Label.TimePeriod": "Time Period",
+    "Heading.Compare": "Compare"
 }

@@ -21,5 +21,7 @@
     "Label.Priority": "Priority",
     "Label.RecentlyUsed": "Recently used",
     "Label.DateCreated": "Date created",
-    "Label.SortBy": "Sort By"
+    "Label.SortBy": "Sort By",
+    "Label.All": "All",
+    "Label.Search": "Search"
 }

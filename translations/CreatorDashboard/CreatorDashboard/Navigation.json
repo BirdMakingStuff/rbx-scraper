@@ -259,5 +259,14 @@
     "Heading.AvatarGenerations": "Avatar Generations",
     "Label.Workspaces": "Workspaces",
     "Heading.CreationTokens": "Creation Tokens",
-    "Heading.ConfigHistory": "History"
+    "Heading.ConfigHistory": "History",
+    "Heading.Connect": "Connect",
+    "Label.DevelopmentItems": "Development Items",
+    "Heading.CommunityEvents": "Community events",
+    "Heading.GroupPayouts": "Group payouts",
+    "Heading.Tools": "Tools",
+    "Heading.Rights": "Rights",
+    "Heading.OAuth2": "OAuth 2.0 apps",
+    "Heading.Resource": "Resource",
+    "Heading.Finance": "Finance"
 }
