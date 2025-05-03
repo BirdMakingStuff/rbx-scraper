@@ -11819,7 +11819,7 @@
     "FFlagFixCIPolicyInHook": "True",
     "FFlagSduiUpdateSponsoredTooltipAction": "True",
     "FFlagInternalExportCheckIfFacsControlsExists": "True",
-    "FIntNextGenStudioBetaFeatureRolloutPercent": "100",
+    "FIntNextGenStudioBetaFeatureRolloutPercent": "0",
     "DFFlagNetworkPingNewSentinelValue": "True",
     "DFFlagHapticRemoveSetterFlag": "True",
     "FFlagAXMigrateAllEventsToRobloxTelemetryApi": "True",
@@ -13568,8 +13568,8 @@
     "FFlagFontListFetchRetryForMoreTimes": "True",
     "FFlagStudioPreloadBuilderSans": "True",
     "FFlagManagedJointJointInstance670": "True",
-    "FStringFlagRepoGitHashFastString": "35976baa08caf83c3f5a9a448d6d8ae41641e3fd",
-    "DFStringFlagRepoGitHashDynamicString": "35976baa08caf83c3f5a9a448d6d8ae41641e3fd",
-    "FStringFlipTimeStampFastString": "2025-05-02T23:21:30.477Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T23:21:30.477Z"
+    "FStringFlagRepoGitHashFastString": "483dadf9bc6d2aa30d3544e34a65cbde771b75b5",
+    "DFStringFlagRepoGitHashDynamicString": "483dadf9bc6d2aa30d3544e34a65cbde771b75b5",
+    "FStringFlipTimeStampFastString": "2025-05-03T01:42:34.071Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-03T01:42:34.071Z"
 }
