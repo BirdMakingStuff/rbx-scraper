@@ -11751,7 +11751,7 @@
     "FFlagEnableAffiliateLinksAuthenticatedVisitTracking": "True",
     "DFFlagEditableMeshFaceDeleter": "True",
     "DFFlagNewIsRunModeDetection": "True",
-    "FFlagAHAddPackageAndScriptEvents": "True",
+    "FFlagAHAddPackageAndScriptEvents": "False",
     "DFFlagLuauStringFormatFixC": "True",
     "FFlagInitializeGDKSessionManager": "True",
     "FFlagCheckBodyForOtpErrors": "True",
@@ -12574,8 +12574,8 @@
     "FFlagPerformanceControlAveragedQuality2": "False",
     "DFFlagRakNetFixShutdownRaceCond": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "483dadf9bc6d2aa30d3544e34a65cbde771b75b5",
-    "DFStringFlagRepoGitHashDynamicString": "483dadf9bc6d2aa30d3544e34a65cbde771b75b5",
-    "FStringFlipTimeStampFastString": "2025-05-03T01:42:34.071Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-03T01:42:34.071Z"
+    "FStringFlagRepoGitHashFastString": "08a57ebd8ca9fb2002325812a66e319b1edf7340",
+    "DFStringFlagRepoGitHashDynamicString": "08a57ebd8ca9fb2002325812a66e319b1edf7340",
+    "FStringFlipTimeStampFastString": "2025-05-03T10:00:54.886Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-03T10:00:54.886Z"
 }
