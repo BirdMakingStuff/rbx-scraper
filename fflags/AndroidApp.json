@@ -11849,6 +11849,14 @@
     "FFlagUpdateRolloutTimestampInSetRolloutValue": "True",
     "FFlagPartyVoiceControlsAnalytics": "True",
     "FIntOcclusionSettingsMinGreedNumerator": "4",
+    "FFlagTrackRecentlyOpenedScripts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T16:48:42",
+    "FStringRevampedAssetManagerReleaseBetaFeatureUrl_Staged": "https://devforum.roblox.com/t/beta-revamped-asset-manager/3609301;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T16:50:23",
+    "FFlagEnableiOSWebViewProtocol2": "True",
+    "FFlagMoveCommonFuncToUtil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T17:10:58",
+    "FFlagEnableSerializationAPIS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T17:11:14",
+    "FFlagRemoveIntentionalCrashInPackageRevert_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T17:11:18",
+    "FFlagDeprecateDMSavePlaceAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T17:11:26",
+    "FFlagEnableWidgetDataProtocol_Staged": "True;SteadyState;10;30;Revert;2025-05-05T17:23:21",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12577,8 +12585,8 @@
     "DFFlagSimAdaptiveUseNewVelocityCriteria": "True",
     "FFlagRenderReleaseShaderCompilerGL": "True",
     "FFlagAvatarChatNonStaticClientFeatures": "True",
-    "FStringFlagRepoGitHashFastString": "a26cf3e64184bf3256cabf8e344269728fac0e93",
-    "DFStringFlagRepoGitHashDynamicString": "a26cf3e64184bf3256cabf8e344269728fac0e93",
-    "FStringFlipTimeStampFastString": "2025-05-05T16:43:16.216Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-05T16:43:16.216Z"
+    "FStringFlagRepoGitHashFastString": "69bb7e426a141313d27d4f1996645e61ce97745a",
+    "DFStringFlagRepoGitHashDynamicString": "69bb7e426a141313d27d4f1996645e61ce97745a",
+    "FStringFlipTimeStampFastString": "2025-05-05T17:32:39.425Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-05T17:32:39.425Z"
 }
