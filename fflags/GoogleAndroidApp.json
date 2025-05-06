@@ -11899,8 +11899,9 @@
     "FFlagEnableFixRobuxUpsellPriceCrash": "True",
     "FFlagEnablePartyQuickStartButton3": "True",
     "DFFlagSendRewardedVideoAdImpressionToVictoriaMetrics": "True",
-    "FFlagLuaAppUpdateFoundationPlayButtonForTiles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-06T21:46:42",
-    "FFlagDelayLoadAnimationWhenNecessary_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-06T22:28:55",
+    "FFlagStudioDoNotShowMoreThanOneSaveErrorDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-06T22:40:03",
+    "FFlagLuaAppUpdateFoundationPlayButtonForTiles": "True",
+    "FFlagDelayLoadAnimationWhenNecessary": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12631,6 +12632,7 @@
     "FFlagAvatarChatNonStaticClientFeatures": "True",
     "FIntPerformanceControlStaticTextureQualityBestUtility_IXP": "1;HarmonyExposure;HarmonyExposure.Android.TextureQuality.MultipleVariantsV3;866555761;flagbank",
     "FIntPerformanceControlStaticTextureQualityExponentTenThousandths_IXP": "1;HarmonyExposure;HarmonyExposure.Android.TextureQuality.MultipleVariantsV3;866555761;flagbank",
+    "DFFlagEnableExpandedAllowlistForAds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-06T23:27:53",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
@@ -12805,8 +12807,8 @@
     "FFlagAXFixSeeAllSpacing": "True",
     "FFlagAXSeeAllUsesWidgetColumns": "True",
     "FFlagEnableUpsellSuggestionsAPI": "True",
-    "FStringFlagRepoGitHashFastString": "b4e851bd49e6a4ccac2d7c619902303b75aef2f0",
-    "DFStringFlagRepoGitHashDynamicString": "b4e851bd49e6a4ccac2d7c619902303b75aef2f0",
-    "FStringFlipTimeStampFastString": "2025-05-06T22:35:53.370Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-06T22:35:53.370Z"
+    "FStringFlagRepoGitHashFastString": "107041bb27de4fa462b86e28866221dcbc57d951",
+    "DFStringFlagRepoGitHashDynamicString": "107041bb27de4fa462b86e28866221dcbc57d951",
+    "FStringFlipTimeStampFastString": "2025-05-06T23:36:57.364Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-06T23:36:57.364Z"
 }
