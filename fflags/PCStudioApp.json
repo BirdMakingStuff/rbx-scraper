@@ -13582,7 +13582,7 @@
     "FFlagQRCodeCallRefreshSessionIXP": "True",
     "FFlagTouchscreenUseTabTipKeyboardPCGDKOnly": "True",
     "FFlagProfilePlatformImproveLoadingPage": "True",
-    "FFlagTextBoxRoundUpCursorPosOnSetText": "True",
+    "FFlagTextBoxRoundUpCursorPosOnSetText": "False",
     "DFFlagFixPhantomFreeze": "True",
     "FFlagUpdateAsyncLightGrid7": "True",
     "DFFlagLuauHeapProfilerChildDepthLimitEnable": "True",
@@ -13590,9 +13590,9 @@
     "DFFlagRakNetPrioritizedReceive": "True",
     "FFlagUseFriendsListOrderedByIdPresenceImpressionEventsEnabled": "True",
     "FFlagAXCatalogItemCardSizeBackendDriven": "True",
-    "DFFlagHttpCurlPipeWaitEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T22:34:11",
-    "FFlagAXSeeAllUsesWidgetColumns_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T23:00:09",
     "FFlagAXFixSeeAllSpacing": "True",
+    "DFFlagHttpCurlPipeWaitEnabled": "True",
+    "FFlagAXSeeAllUsesWidgetColumns": "True",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13616,8 +13616,8 @@
     "FFlagFontListFetchRetryForMoreTimes": "True",
     "FFlagStudioPreloadBuilderSans": "True",
     "FFlagManagedJointJointInstance670": "False",
-    "FStringFlagRepoGitHashFastString": "99940ba23151651830781a4e3325f44c6b9ed33f",
-    "DFStringFlagRepoGitHashDynamicString": "99940ba23151651830781a4e3325f44c6b9ed33f",
-    "FStringFlipTimeStampFastString": "2025-05-05T23:34:41.572Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-05T23:34:41.572Z"
+    "FStringFlagRepoGitHashFastString": "63ef913469bac50b3d4391b696f858ab84fc37a8",
+    "DFStringFlagRepoGitHashDynamicString": "63ef913469bac50b3d4391b696f858ab84fc37a8",
+    "FStringFlipTimeStampFastString": "2025-05-06T00:42:27.686Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-06T00:42:27.686Z"
 }
