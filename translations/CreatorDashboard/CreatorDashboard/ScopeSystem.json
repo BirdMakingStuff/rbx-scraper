@@ -127,5 +127,7 @@
     "OperationDescription.LegacyUniverseAPIManage": "Grants access to manage your experiences and certain information associated with your experiences (e.g. localization information).",
     "OperationDescription.LegacyGroupAPIManage": "Grants access to manage your communities.",
     "OperationDescription.LegacyUserAPIManage": "Grants access to manage your user account.",
-    "OperationDescription.LegacyBadgeAPIManageAndSpendRobux": "Grants access to mange your badges and spend robux."
+    "OperationDescription.LegacyBadgeAPIManageAndSpendRobux": "Grants access to mange your badges and spend robux.",
+    "OperationDescription.AssetPermissionsAPIWrite": "This allows granting asset permissions to any subjects (including groups and experiences) and assets your account has access to.",
+    "Label.AssetPermissions": "Asset Permissions"
 }

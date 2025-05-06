@@ -65,5 +65,9 @@
     "Heading.TestModeIsActive": "Test Mode is active",
     "Message.TestModeIsActive": "You are now able to test purchasing developer products on the experience detail page.",
     "Label.Continue": "Continue",
-    "Description.TestModeInstructionWarning": "Items for sale in test mode cost actual Robux. We recommend testing low-cost developer products."
+    "Description.TestModeInstructionWarning": "Items for sale in test mode cost actual Robux. We recommend testing low-cost developer products.",
+    "Heading.ExternalPurchaseAwarenessBanner": "Sell developer products in more places",
+    "Description.ExternalPurchaseAwarenessBanner": "Reach more players and boost your earnings by selling developer products directly on your experience page.",
+    "Action.ExternalPurchaseAwarenessBanner.LearnMore": "Learn more",
+    "Action.ExternalPurchaseAwarenessBanner.EnableNow": "Enable now"
 }

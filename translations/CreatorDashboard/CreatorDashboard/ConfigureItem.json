@@ -411,5 +411,11 @@
     "Message.ScheduledSaleChanged": "Save changes to schedule the sale",
     "Message.ScheduledSaleCanceled": "Save changes to cancel the scheduled sale",
     "Label.BodySuitParentheses": "{itemType} (Body Suit)",
-    "Label.ShoesPriceTitle": "Shoes"
+    "Label.ShoesPriceTitle": "Shoes",
+    "Label.RegionalPricing": "Regional Pricing",
+    "Message.RegionalPricePreviewDescription": "Regional price shows adjusted price per country or region.",
+    "Label.EnableRegionalPricing": "Enable Regional Pricing",
+    "Action.ViewDetails": "View Details",
+    "Label.RegionalPricingTooltip": "Roblox will automatically adjust prices based on the user's country or region, which will never go below your minimum price.",
+    "Title.PriceCountryRegions": "Price In Countries / Regions"
 }
