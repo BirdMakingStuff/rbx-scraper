@@ -197,5 +197,10 @@
     "Description.NotificationTypeGroupForumsSubscriberNotification": "A forum post I subscribe to has new content",
     "Label.NotificationTypePlaceCommentTag": "Place Comment Tag",
     "Description.NotificationTypePlaceCommentTag": "I have been tagged in a comment",
-    "Description.UnsubscribeFromPlaceCommentTag": "Stop notifying me about comments in my Places in Studio"
+    "Description.UnsubscribeFromPlaceCommentTag": "Stop notifying me about comments in my Places in Studio",
+    "Label.NotificationTypeConnectionRequestReceived": "Connection Request Received",
+    "Description.NotificationTypeConnectionRequestReceived": "I receive a Connection request",
+    "Label.NotificationTypeConnectionRequestAccepted": "Connection Request Accepted",
+    "Description.NotificationTypeConnectionRequestAccepted": "Someone accepts my Connection request",
+    "Description.NotificationTypeExperienceInvitationFromConnection": "A Connection invites me to an experience"
 }
