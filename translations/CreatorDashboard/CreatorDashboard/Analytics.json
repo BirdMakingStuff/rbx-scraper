@@ -1069,5 +1069,7 @@
     "Heading.Compare": "Compare",
     "Description.Dimension.MemoryStoreMemoryUsageAlertSeverity.Error": "The number of memory store request failure has exceeded 20%. Please {linkStart}investigate{linkEnd}.",
     "Description.Dimension.MemoryStoreMemoryUsageAlertSeverity.Warning": "The memory size has exceeded 70% of the total quota. Please optimize to prevent request failures.",
-    "Label.QuotaLegend": "Quota"
+    "Label.QuotaLegend": "Quota",
+    "Label.LastOneYear": "Last 1 year",
+    "Label.DateRangeNumber": "Date Range {number}"
 }
