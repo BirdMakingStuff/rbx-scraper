@@ -11920,9 +11920,13 @@
     "DFFlagPostSimulationInSimJob": "True",
     "FFlagLuaConsumePlayerModerated": "True",
     "FFlagEnableRobuxPageNewSelectionCursor": "True",
-    "DFFlagVideoOutputFormatCheckOldestPacketNotNull_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:08:03",
-    "FFlagLuaAppUnifyPlayButtonTile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:08:12",
     "FFlagCageMeshUploadApiMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:30:18",
+    "FFlagLuaAppInlineRequireAppConfigurer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:55:15",
+    "FFlagDevFrameworkCreateStyleRuleAcceptNil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:57:26",
+    "DFFlagMouseGetPartOptimization2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:00:28",
+    "DFFlagVideoOutputFormatCheckOldestPacketNotNull": "True",
+    "FFlagLuaAppUnifyPlayButtonTile": "True",
+    "DFFlagVideoMp4Rotation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:14:35",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12681,8 +12685,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "IgnoreSoftwareKeyboardKeyEvents": "false",
-    "FStringFlagRepoGitHashFastString": "233b1ad431f19b2714c0b52565ccf317ca52b8ab",
-    "DFStringFlagRepoGitHashDynamicString": "233b1ad431f19b2714c0b52565ccf317ca52b8ab",
-    "FStringFlipTimeStampFastString": "2025-05-08T16:34:41.002Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T16:34:41.002Z"
+    "FStringFlagRepoGitHashFastString": "fdd4f091e27912898edbbdb2858c2529e1e7ab8e",
+    "DFStringFlagRepoGitHashDynamicString": "fdd4f091e27912898edbbdb2858c2529e1e7ab8e",
+    "FStringFlipTimeStampFastString": "2025-05-08T17:31:57.065Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:31:57.065Z"
 }
