@@ -11693,7 +11693,7 @@
     "DFFlagEnableExpandedAllowlistForAds": "True",
     "FFlagEnableEnhancedRobuxUpsellV2": "True",
     "DFStringOverrideGoogleAdUnitId_PlaceFilter": "/23289220996/0cpm_in_house_only_test;4924922222;126884695634066",
-    "DFStringOverrideGoogleAdUnitId_Staged": ";SteadyState;10;30;Revert;2025-05-09T18:30:25",
+    "DFStringOverrideGoogleAdUnitId": "",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
@@ -11867,8 +11867,8 @@
     "FFlagEnableNotificationsToastTTLFix": "True",
     "FFlagConditionalPluralizedSocialCountsText": "True",
     "FFlagAXRestoreBackButtonForTouch": "True",
-    "FStringFlagRepoGitHashFastString": "328061e18efed9c97b01494f40bb2c9a7b102118",
-    "DFStringFlagRepoGitHashDynamicString": "328061e18efed9c97b01494f40bb2c9a7b102118",
-    "FStringFlipTimeStampFastString": "2025-05-09T18:35:28.652Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-09T18:35:28.652Z"
+    "FStringFlagRepoGitHashFastString": "a29cd9c2da9273dd0bcbc885ece2960ef6b31d14",
+    "DFStringFlagRepoGitHashDynamicString": "a29cd9c2da9273dd0bcbc885ece2960ef6b31d14",
+    "FStringFlipTimeStampFastString": "2025-05-09T19:23:55.777Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-09T19:23:55.777Z"
 }

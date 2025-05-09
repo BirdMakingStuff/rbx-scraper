@@ -12628,6 +12628,7 @@
     "FFlagSQLiteCacheSizePagesLowEndEnable": "True",
     "FFlagFixRigidSubskinnedToIc3": "True",
     "FFlagConditionalPluralizedSocialCountsText": "True",
+    "DFFlagSQLiteStatementFixFinalizeBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-09T18:48:57",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -12659,8 +12660,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "328061e18efed9c97b01494f40bb2c9a7b102118",
-    "DFStringFlagRepoGitHashDynamicString": "328061e18efed9c97b01494f40bb2c9a7b102118",
-    "FStringFlipTimeStampFastString": "2025-05-09T18:35:28.652Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-09T18:35:28.652Z"
+    "FStringFlagRepoGitHashFastString": "a29cd9c2da9273dd0bcbc885ece2960ef6b31d14",
+    "DFStringFlagRepoGitHashDynamicString": "a29cd9c2da9273dd0bcbc885ece2960ef6b31d14",
+    "FStringFlipTimeStampFastString": "2025-05-09T19:23:55.777Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-09T19:23:55.777Z"
 }
