@@ -10986,6 +10986,7 @@
     "DFFlagStreamingBooleanIteration5": "True",
     "DFFlagSJBICurrentPass": "True",
     "DFFlagAvatarClothingAndDecalTelemetry3": "True",
+    "FFlagDetailedUGCValidationError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-09T18:34:33",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -11281,6 +11282,7 @@
     "FFlagEnableNotificationsToastTTLFix": "True",
     "FFlagFixRigidSubskinnedToIc3": "True",
     "FFlagConditionalPluralizedSocialCountsText": "True",
+    "FFlagBootcampCLI149340_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-09T18:18:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11671,8 +11673,8 @@
     "FFlagCLI_125587_UnifiedHangMonitor_WindowsRefactoring4": "True",
     "FFlagLuaAppMigrateGameTileIxp4": "True",
     "DFIntHangMonitorReportHangTimeoutMS": "180000",
-    "FStringFlagRepoGitHashFastString": "f0925f3d64db3efca2c5b1c9a216ed9ea766783f",
-    "DFStringFlagRepoGitHashDynamicString": "f0925f3d64db3efca2c5b1c9a216ed9ea766783f",
-    "FStringFlipTimeStampFastString": "2025-05-09T17:29:53.706Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-09T17:29:53.706Z"
+    "FStringFlagRepoGitHashFastString": "328061e18efed9c97b01494f40bb2c9a7b102118",
+    "DFStringFlagRepoGitHashDynamicString": "328061e18efed9c97b01494f40bb2c9a7b102118",
+    "FStringFlipTimeStampFastString": "2025-05-09T18:35:28.652Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-09T18:35:28.652Z"
 }
