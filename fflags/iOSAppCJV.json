@@ -10986,7 +10986,7 @@
     "DFFlagStreamingBooleanIteration5": "True",
     "DFFlagSJBICurrentPass": "True",
     "DFFlagAvatarClothingAndDecalTelemetry3": "True",
-    "FFlagDetailedUGCValidationError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-09T18:34:33",
+    "FFlagDetailedUGCValidationError": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11717,8 +11717,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "a29cd9c2da9273dd0bcbc885ece2960ef6b31d14",
-    "DFStringFlagRepoGitHashDynamicString": "a29cd9c2da9273dd0bcbc885ece2960ef6b31d14",
-    "FStringFlipTimeStampFastString": "2025-05-09T19:23:55.777Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-09T19:23:55.777Z"
+    "FStringFlagRepoGitHashFastString": "61d4775cb7f82a0ac23994d39fd618b90669e4bb",
+    "DFStringFlagRepoGitHashDynamicString": "61d4775cb7f82a0ac23994d39fd618b90669e4bb",
+    "FStringFlipTimeStampFastString": "2025-05-09T19:57:04.220Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-09T19:57:04.220Z"
 }
