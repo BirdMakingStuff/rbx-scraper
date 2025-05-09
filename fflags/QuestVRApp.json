@@ -11950,6 +11950,7 @@
     "DFFlagRenderDeviceIncludeAdapterIdInCaps": "True",
     "DFFlagStreamingBooleanIteration5": "True",
     "DFFlagSJBICurrentPass": "True",
+    "DFFlagAvatarClothingAndDecalTelemetry3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-09T16:03:02",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12737,8 +12738,8 @@
     "FFlagAXFixColorAdjustmentQuickButtonSize": "True",
     "FIntAXSearchPayloadExperimentPortraitModeMobileThreshold": "190",
     "FFlagLuaAppBootcampIntroUABOOTCAMP57": "True",
-    "FStringFlagRepoGitHashFastString": "5250d18c69ee497085857b8903b486164304e3e3",
-    "DFStringFlagRepoGitHashDynamicString": "5250d18c69ee497085857b8903b486164304e3e3",
-    "FStringFlipTimeStampFastString": "2025-05-09T01:09:19.718Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-09T01:09:19.718Z"
+    "FStringFlagRepoGitHashFastString": "0c67483eb3054e5c2edec0e4bc0f97eb800441d7",
+    "DFStringFlagRepoGitHashDynamicString": "0c67483eb3054e5c2edec0e4bc0f97eb800441d7",
+    "FStringFlipTimeStampFastString": "2025-05-09T16:03:36.904Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-09T16:03:36.904Z"
 }
