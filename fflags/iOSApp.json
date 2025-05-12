@@ -10986,6 +10986,9 @@
     "DFFlagSJBICurrentPass": "True",
     "DFFlagAvatarClothingAndDecalTelemetry3": "True",
     "FFlagDetailedUGCValidationError": "True",
+    "FFlagToolboxCreatorDropdownReset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T16:19:18",
+    "FFlagToolboxErrorMessageBoxScrollable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T16:19:22",
+    "DFFlagSimDcdRefactorSetPhysics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T16:36:10",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11686,8 +11689,10 @@
     "FFlagEarlyOutRichTextParsing": "True",
     "FFlagConditionalPluralizedSocialCountsText": "True",
     "FFlagAXRestoreBackButtonForTouch": "True",
-    "FStringFlagRepoGitHashFastString": "a1c4841183c437ec5e514d9a7ebf6791d4fc5051",
-    "DFStringFlagRepoGitHashDynamicString": "a1c4841183c437ec5e514d9a7ebf6791d4fc5051",
-    "FStringFlipTimeStampFastString": "2025-05-10T01:32:21.432Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-10T01:32:21.432Z"
+    "FFlagEnableRemoveJoinGameCardIXPOnSocialCarousel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T16:09:45",
+    "FFlagLuaAppScreenSizeSpeculativeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T16:38:54",
+    "FStringFlagRepoGitHashFastString": "68809bb118abde9c86f8fc1b08e5f6d84c8ce4db",
+    "DFStringFlagRepoGitHashDynamicString": "68809bb118abde9c86f8fc1b08e5f6d84c8ce4db",
+    "FStringFlipTimeStampFastString": "2025-05-12T16:40:04.687Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-12T16:40:04.687Z"
 }
