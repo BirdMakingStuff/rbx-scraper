@@ -10992,7 +10992,7 @@
     "DFFlagStreamJobNoItemLod3": "True",
     "DFFlagFixADS7657": "True",
     "DFFlagLayeredClothingSetupForR15Only": "True",
-    "DFFlagFixFreefall": "True",
+    "DFFlagFixFreefall": "False",
     "FFlagFileSyncLuauExtension": "True",
     "DFFlagFixADS7643": "True",
     "DFFlagInvalidNumPropertyAssignWarning": "True",
@@ -11000,9 +11000,9 @@
     "DFFlagCapsMissUnassignedTelemetry": "True",
     "DFIntCapabilityRegularUseHundredthsPercentage": "100",
     "FFlagManagedSensor3": "True",
-    "DFFlagSimDcdNewErrTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T20:04:00",
     "DFFlagSimAdaptiveRemoveStaticMaxTimestepMultiplier2": "True",
     "DFFlagRegisterEncryptedAssetPreventBadId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T20:31:35",
+    "DFFlagSimDcdNewErrTelemetry": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11242,8 +11242,8 @@
     "FFlagEnableSquadEntrypoints": "True",
     "FFlagLuaAppEnableSquadPage4": "True",
     "FFlagSquadToastNotificationsEnabled2": "True",
-    "FStringFlagRepoGitHashFastString": "b7a06a32d3334591f94ac536a10ddc40fcb38fb7",
-    "DFStringFlagRepoGitHashDynamicString": "b7a06a32d3334591f94ac536a10ddc40fcb38fb7",
-    "FStringFlipTimeStampFastString": "2025-05-12T20:37:48.403Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-12T20:37:48.403Z"
+    "FStringFlagRepoGitHashFastString": "cba922b43522ec911058c69370e463a207b4f8b1",
+    "DFStringFlagRepoGitHashDynamicString": "cba922b43522ec911058c69370e463a207b4f8b1",
+    "FStringFlipTimeStampFastString": "2025-05-12T21:28:13.664Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-12T21:28:13.664Z"
 }
