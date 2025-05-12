@@ -418,5 +418,9 @@
     "Action.ViewDetails": "View Details",
     "Label.RegionalPricingTooltip": "Roblox will automatically adjust prices based on the user's country or region, which will never go below your minimum price.",
     "Title.PriceCountryRegions": "Price In Countries / Regions",
-    "Label.ID": "ID: {id}"
+    "Label.ID": "ID: {id}",
+    "Heading.ProductDetails": "Product Details",
+    "Description.RequiresDynamicPrices": "Requires dynamic prices. Check with {linkStart}Dynamic Price Check{linkEnd}",
+    "Label.DefaultPrice": "Default Price",
+    "Tooltip.EnableRegionalPricingDetailed": "Roblox will automatically adjust prices based on the user's country or region, ensuring they never exceed your default price or go below 30% of it."
 }
