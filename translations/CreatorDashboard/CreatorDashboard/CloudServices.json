@@ -213,5 +213,9 @@
     "Title.ListRequestsQuota": "List Request Type Quota Usage",
     "Title.WriteRequestsQuota": "Write Request Type Quota Usage",
     "Title.ReadRequestsQuota": "Read Request Type Quota Usage",
-    "Label.RequestTypeUsage": "Request Type Usage"
+    "Label.RequestTypeUsage": "Request Type Usage",
+    "Title.DataStoreStorageUsageBytes": "Storage Usage Bytes",
+    "Description.DataStoreStorageUsageBytes": "Storage Usage Bytes",
+    "Title.DataStoreStorageQuotaBytes": "Storage Quota Bytes",
+    "Description.DataStoreStorageQuotaBytes": "Storage Quota Bytes"
 }

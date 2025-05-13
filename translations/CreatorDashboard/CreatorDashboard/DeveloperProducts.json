@@ -69,5 +69,11 @@
     "Heading.ExternalPurchaseAwarenessBanner": "Sell developer products in more places",
     "Description.ExternalPurchaseAwarenessBanner": "Reach more players and boost your earnings by selling developer products directly on your experience page.",
     "Action.ExternalPurchaseAwarenessBanner.LearnMore": "Learn more",
-    "Action.ExternalPurchaseAwarenessBanner.EnableNow": "Enable now"
+    "Action.ExternalPurchaseAwarenessBanner.EnableNow": "Enable now",
+    "Label.PaidRandomItem": "Paid random item",
+    "Label.CurrencyItem": "Currency item",
+    "Label.TransferableItem": "Transferable item",
+    "Tooltip.PaidRandomItem": "Paid random items, commonly known as loot boxes, are virtual items that yield randomized rewards. {linkStart}Read more{linkEnd}",
+    "Tooltip.CurrencyItem": "Marking this item as in-game currency improves item sorting and recommendations.",
+    "Tooltip.TransferableItem": "Mark this item as transferable if it can be gifted, traded, or change ownership. This helps improve our pricing algorithm."
 }
