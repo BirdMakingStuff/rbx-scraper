@@ -61,5 +61,6 @@
     "enableCustomMatchmakingUI": "true",
     "bodySuitAnnouncementDevForumUrl": "https://devforum.roblox.com/t/bodysuits-now-have-a-price-floor/3600444",
     "enableCommerceBundlingFee": "true",
-    "enableGetItemsByCreator": "true"
+    "enableGetItemsByCreator": "true",
+    "enableDeveloperProductAttributes": "false"
 }
