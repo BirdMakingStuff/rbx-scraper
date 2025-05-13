@@ -11308,8 +11308,8 @@
     "FFlagSduiConditionalProps2": "True",
     "FFlagSduiImproveImpressionTag": "True",
     "DFFlagSimAdaptiveAdjustTimestepForControllerManager": "True",
-    "FFlagCIDeeplinkExperiment_v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T22:59:21",
-    "FFlagSduiGameCarousel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-12T22:59:50",
+    "FFlagCIDeeplinkExperiment_v2": "True",
+    "FFlagSduiGameCarousel": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11702,8 +11702,8 @@
     "FFlagSeamlessVoiceV2JoinVoiceToast": "True",
     "FFlagSendUserConnectionStatus": "True",
     "FFlagShowJoinVoiceRaceConditionFix": "True",
-    "FStringFlagRepoGitHashFastString": "d05019bcb4f3d11b81427e8035a5e386088cc2d8",
-    "DFStringFlagRepoGitHashDynamicString": "d05019bcb4f3d11b81427e8035a5e386088cc2d8",
-    "FStringFlipTimeStampFastString": "2025-05-12T23:23:39.964Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-12T23:23:39.964Z"
+    "FStringFlagRepoGitHashFastString": "2e71e4fa77ee0b9572d1a6d3861126c5239e9bc7",
+    "DFStringFlagRepoGitHashDynamicString": "2e71e4fa77ee0b9572d1a6d3861126c5239e9bc7",
+    "FStringFlipTimeStampFastString": "2025-05-13T01:03:28.633Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-13T01:03:28.633Z"
 }
