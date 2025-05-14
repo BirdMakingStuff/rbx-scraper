@@ -335,5 +335,8 @@
     "Heading.RPTexturing": "Intro to texturing for UGC ft. Madison_Hatter2",
     "Heading.PerfOptimization": "Performance optimization basics",
     "Description.PerfOptimization": "Learn how to deal with the most common performance problems.",
-    "Action.LearnMore": "Learn More"
+    "Heading.AdsManagerNewReleaseBanner": "Boost retention with Ads Manager",
+    "Action.AdsManagerNewReleaseBanner": "Open Ads Manager",
+    "Action.LearnMore": "Learn More",
+    "Description.AdsManagerNewReleaseBanner": "Our new retention objective is purpose-built to improve your D1, D7, and D30 retention. Try it now!"
 }

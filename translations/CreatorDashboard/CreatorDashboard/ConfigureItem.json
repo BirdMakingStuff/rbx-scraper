@@ -422,5 +422,6 @@
     "Heading.ProductDetails": "Product Details",
     "Description.RequiresDynamicPrices": "Requires dynamic prices. Check with {linkStart}Dynamic Price Check{linkEnd}",
     "Label.DefaultPrice": "Default Price",
-    "Tooltip.EnableRegionalPricingDetailed": "Roblox will automatically adjust prices based on the user's country or region, ensuring they never exceed your default price or go below 30% of it."
+    "Tooltip.EnableRegionalPricingDetailed": "Roblox will automatically adjust prices based on the user's country or region, ensuring they never exceed your default price or go below 30% of it.",
+    "Label.RegionalPrice": "Regional Price"
 }

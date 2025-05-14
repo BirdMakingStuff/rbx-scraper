@@ -172,7 +172,7 @@
     "Heading.DependenciesAlertTitleDistributionAndSharing": "Includes unsupported Restricted assets",
     "Heading.DependenciesAlertTitleMakingDecalOpenUse": "Image is not set to Open Use",
     "Heading.DependenciesAlertTitleSellingPaidModel": "Dependencies will be available for anyone to use",
-    "Description.DependenciesAlertSubtitleDistribution": "This is for personal use only. You cannot distribute composites containing Restricted Audio/Video unless you created and distributed them, or Restricted assets made by others.",
+    "Description.DependenciesAlertSubtitleDistribution": "You cannot distribute composites containing unlisted Audio/Video you created or unlisted Restricted assets made by others.",
     "Description.DependenciesAlertSubtitleSharing": "This is for personal use only. You cannot share composites that contain a Restricted asset created by someone else.",
     "Description.DependenciesAlertSubtitleMakingDecalOpenUse": "You cannot make this Decal Open Use if the dependent Image is set to Restricted.",
     "Description.DependenciesAlertSubtitleSellingPaidModel": "We strongly recommend only selling newly-uploaded Models with Restricted Image and Mesh dependencies after opting in to the Asset Privacy Beta.",
@@ -195,5 +195,7 @@
     "Label.Plugin": "Plugin",
     "Heading.Distribution": "Distribution",
     "Description.DependenciesDescriptionSharing": "The following are assets created by someone else.",
-    "Description.DependenciesDescriptionDistribution": "The following are Restricted Audio/Video not created and distributed by you, or Restricted assets created by someone else."
+    "Description.DependenciesDescriptionDistribution": "The following are unlisted Audio/Video created by you or unlisted Restricted assets created by someone else.",
+    "Heading.DependenciesAlertTitleDistribution": "Includes unsupported assets",
+    "Label.UnsupportedAssets": "Unsupported assets"
 }

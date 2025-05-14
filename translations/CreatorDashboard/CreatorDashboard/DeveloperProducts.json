@@ -75,5 +75,7 @@
     "Label.TransferableItem": "Transferable item",
     "Tooltip.PaidRandomItem": "Paid random items, commonly known as loot boxes, are virtual items that yield randomized rewards. {linkStart}Read more{linkEnd}",
     "Tooltip.CurrencyItem": "Marking this item as in-game currency improves item sorting and recommendations.",
-    "Tooltip.TransferableItem": "Mark this item as transferable if it can be gifted, traded, or change ownership. This helps improve our pricing algorithm."
+    "Tooltip.TransferableItem": "Mark this item as transferable if it can be gifted, traded, or change ownership. This helps improve our pricing algorithm.",
+    "Heading.AdvancedSettings": "Advanced Settings",
+    "Description.AdvancedSettings": "These additional settings are required by other monetization features."
 }
