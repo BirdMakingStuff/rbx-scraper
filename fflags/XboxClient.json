@@ -11017,6 +11017,7 @@
     "FFlagPartyVisualUpdatesEnabled": "True",
     "FFlagLocServiceUseNewAutoLocSettingEndpointFix": "False",
     "AllowVideoPreRoll": "True",
+    "FFlagEnableCommerceGA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T17:31:45",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -11386,8 +11387,9 @@
     "FStringLuaAppGameTileMigrationExpLayer": "PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer",
     "FFlagLuaAppsSupportSduiSeeAll3": "True",
     "FFlagLuaAppUpdateSduiGameImpressions": "True",
-    "FStringFlagRepoGitHashFastString": "03887d65553b1966758e8cbd2ea5785810aaca56",
-    "DFStringFlagRepoGitHashDynamicString": "03887d65553b1966758e8cbd2ea5785810aaca56",
-    "FStringFlipTimeStampFastString": "2025-05-14T16:35:21.643Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-14T16:35:21.643Z"
+    "DFFlagTempPhysicsCollisionDataReceivedStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T16:51:41",
+    "FStringFlagRepoGitHashFastString": "db0454166ea0e68196195b846696968efd18efb3",
+    "DFStringFlagRepoGitHashDynamicString": "db0454166ea0e68196195b846696968efd18efb3",
+    "FStringFlipTimeStampFastString": "2025-05-14T17:33:56.157Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-14T17:33:56.157Z"
 }

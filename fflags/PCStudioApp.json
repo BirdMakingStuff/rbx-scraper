@@ -11017,6 +11017,7 @@
     "FFlagPartyVisualUpdatesEnabled": "True",
     "FFlagLocServiceUseNewAutoLocSettingEndpointFix": "False",
     "AllowVideoPreRoll": "True",
+    "FFlagEnableCommerceGA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T17:31:45",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12470,7 +12471,6 @@
     "FFlagDevFrameworkSliderFixLayoutOrder": "True",
     "FFlagADS7991EnableShowRewardedAdsToggleBackendFlag": "True",
     "FFlagAssetConfigurationFixConfigTextFieldEnterLosingFocus": "True",
-    "FFlagStudioEnableInstanceChecker_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T16:27:48",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12689,6 +12689,7 @@
     "FFlagFoundationAdjustButtonIconSizes": "True",
     "FFlagLuaAppsSupportSduiSeeAll3": "True",
     "DFFlagSimAdaptiveScaleCollisionParameters2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T16:34:31",
+    "DFFlagTempPhysicsCollisionDataReceivedStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T16:51:41",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -12710,8 +12711,8 @@
     "FFlagFontListFetchRetryForMoreTimes": "True",
     "FFlagStudioPreloadBuilderSans": "True",
     "FFlagManagedJointJointInstance670": "False",
-    "FStringFlagRepoGitHashFastString": "03887d65553b1966758e8cbd2ea5785810aaca56",
-    "DFStringFlagRepoGitHashDynamicString": "03887d65553b1966758e8cbd2ea5785810aaca56",
-    "FStringFlipTimeStampFastString": "2025-05-14T16:35:21.643Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-14T16:35:21.643Z"
+    "FStringFlagRepoGitHashFastString": "db0454166ea0e68196195b846696968efd18efb3",
+    "DFStringFlagRepoGitHashDynamicString": "db0454166ea0e68196195b846696968efd18efb3",
+    "FStringFlipTimeStampFastString": "2025-05-14T17:33:56.157Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-14T17:33:56.157Z"
 }

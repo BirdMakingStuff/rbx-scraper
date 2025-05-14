@@ -11017,6 +11017,7 @@
     "FFlagPartyVisualUpdatesEnabled": "True",
     "FFlagLocServiceUseNewAutoLocSettingEndpointFix": "False",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagEnableCommerceGA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T17:31:45",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -11334,6 +11335,7 @@
     "FFlagFoundationAdjustButtonIconSizes": "True",
     "FFlagLuaAppsSupportSduiSeeAll3": "True",
     "DFFlagSimAdaptiveScaleCollisionParameters2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T16:34:31",
+    "DFFlagTempPhysicsCollisionDataReceivedStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T16:51:41",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11760,9 +11762,10 @@
     "FFlagShowJoinVoiceRaceConditionFix": "True",
     "FFlagLuaAppUpdateSduiGameImpressions": "True",
     "FStringLuaAppGameTileMigrationExpLayer": "PlayerApp.Homepage.Serving.SDUI",
+    "DFFlagTrackFontLoadingTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T16:46:01",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "ad0d68265d89f6c7555f6a909c78b08e3e212111",
-    "DFStringFlagRepoGitHashDynamicString": "ad0d68265d89f6c7555f6a909c78b08e3e212111",
-    "FStringFlipTimeStampFastString": "2025-05-14T16:46:58.373Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-14T16:46:58.373Z"
+    "FStringFlagRepoGitHashFastString": "db0454166ea0e68196195b846696968efd18efb3",
+    "DFStringFlagRepoGitHashDynamicString": "db0454166ea0e68196195b846696968efd18efb3",
+    "FStringFlipTimeStampFastString": "2025-05-14T17:33:56.157Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-14T17:33:56.157Z"
 }
