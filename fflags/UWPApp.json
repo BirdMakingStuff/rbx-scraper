@@ -11029,6 +11029,10 @@
     "DFFlagSimEditableDirtyRectEnable2": "True",
     "FStringEngineVoiceChatClientRewriteIxpLayer": "Engine.Voice.Exposure.1",
     "FFlagUGCValidationWithContextEntrypoint3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T22:27:52",
+    "DFFlagEnableConcurrentHttpClientCacheReads_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T22:37:56",
+    "DFFlagParallelForThreadSplitSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T22:38:16",
+    "DFFlagFixSurfaceAppearanceFilterTextureId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T22:38:20",
+    "FFlagFileCachePermDirs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-14T22:50:55",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11269,8 +11273,8 @@
     "FFlagLuaAppEnableSquadPage4": "True",
     "FFlagSquadToastNotificationsEnabled2": "True",
     "FStringLuaAppGameTileMigrationExpLayer": "PlayerApp.Homepage.Serving.SDUI",
-    "FStringFlagRepoGitHashFastString": "a617a74ddeb7d140549a8f8ccb6ad5010ef0cd7c",
-    "DFStringFlagRepoGitHashDynamicString": "a617a74ddeb7d140549a8f8ccb6ad5010ef0cd7c",
-    "FStringFlipTimeStampFastString": "2025-05-14T22:31:00.075Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-14T22:31:00.075Z"
+    "FStringFlagRepoGitHashFastString": "c8e709ed2f088603559f96bcabbdf3b2394e90a9",
+    "DFStringFlagRepoGitHashDynamicString": "c8e709ed2f088603559f96bcabbdf3b2394e90a9",
+    "FStringFlipTimeStampFastString": "2025-05-14T23:19:35.428Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-14T23:19:35.428Z"
 }
