@@ -11013,9 +11013,9 @@
     "DFFlagVideoCapturesServerSideEvent": "True",
     "DFFlagFixScaledRichTextLayoutEvaluation": "True",
     "FFlagEnableLuaAuthRobloxTelemetry": "True",
-    "FFlagLocServiceUseNewAutoLocSettingEndpointFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-13T22:34:54",
     "FFlagCSGPublishBugFix": "True",
     "FFlagPartyVisualUpdatesEnabled": "True",
+    "FFlagLocServiceUseNewAutoLocSettingEndpointFix": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11769,8 +11769,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "58c94596fce37893706fdce17ca056d971ab717e",
-    "DFStringFlagRepoGitHashDynamicString": "58c94596fce37893706fdce17ca056d971ab717e",
-    "FStringFlipTimeStampFastString": "2025-05-13T23:32:20.647Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-13T23:32:20.647Z"
+    "FStringFlagRepoGitHashFastString": "77f7ef08cc06df5c05fd3ed0e671d7a8d46ee51c",
+    "DFStringFlagRepoGitHashDynamicString": "77f7ef08cc06df5c05fd3ed0e671d7a8d46ee51c",
+    "FStringFlipTimeStampFastString": "2025-05-14T02:13:48.508Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-14T02:13:48.508Z"
 }
