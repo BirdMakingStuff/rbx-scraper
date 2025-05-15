@@ -217,5 +217,7 @@
     "Title.DataStoreStorageUsageBytes": "Storage Usage Bytes",
     "Description.DataStoreStorageUsageBytes": "Storage Usage Bytes",
     "Title.DataStoreStorageQuotaBytes": "Storage Quota Bytes",
-    "Description.DataStoreStorageQuotaBytes": "Storage Quota Bytes"
+    "Description.DataStoreStorageQuotaBytes": "Storage Quota Bytes",
+    "Title.QuotaUsage": "Quota Usage",
+    "Title.Breakdown": "Breakdown"
 }
