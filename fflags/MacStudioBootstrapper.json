@@ -238,7 +238,7 @@
     "FFlagLuaAppBootcampIntroUABOOTCAMP57": "True",
     "FFlagEnableNotificationsToastTTLFix": "True",
     "FFlagAXStatEnableCustomEventStreamTable": "True",
-    "FFlagBootcampCLI151048_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T22:11:03",
+    "FFlagBootcampCLI151048": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -251,8 +251,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "8dba347e201feaa7a9319d226a1fdab95f7b7e54",
-    "DFStringFlagRepoGitHashDynamicString": "8dba347e201feaa7a9319d226a1fdab95f7b7e54",
-    "FStringFlipTimeStampFastString": "2025-05-15T22:37:02.961Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T22:37:02.961Z"
+    "FStringFlagRepoGitHashFastString": "80e47f8d670dad0b54e021d4e94730fe2148c854",
+    "DFStringFlagRepoGitHashDynamicString": "80e47f8d670dad0b54e021d4e94730fe2148c854",
+    "FStringFlipTimeStampFastString": "2025-05-15T23:33:45.422Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T23:33:45.422Z"
 }
