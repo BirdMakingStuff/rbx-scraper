@@ -11034,9 +11034,10 @@
     "FFlagFileCachePermDirs": "True",
     "FFlagMMCRemoveTMDependency": "True",
     "FFlagTMLogImageError": "True",
-    "DFIntCreateAssetAsyncStudioRateLimit_Staged": "60;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:09:23",
-    "FFlagEnableCreateAssetAsyncAnimationUpload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:15:50",
     "FFlagStudioRemoveAboutToCreateDataModelSignal": "True",
+    "FFlagFoundationFixDisablingForIconButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T19:07:49",
+    "DFIntCreateAssetAsyncStudioRateLimit": "60",
+    "FFlagEnableCreateAssetAsyncAnimationUpload": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11267,8 +11268,8 @@
     "FFlagGcInParallelWithRenderPrepare3": "False",
     "FFlagAXCatalogItemCardSizeBackendDriven": "False",
     "FStringLuaAppGameTileMigrationExpLayer": "PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer",
-    "FStringFlagRepoGitHashFastString": "3a79c4d6ea2b4f77ba56563e94503c3f27be305c",
-    "DFStringFlagRepoGitHashDynamicString": "3a79c4d6ea2b4f77ba56563e94503c3f27be305c",
-    "FStringFlipTimeStampFastString": "2025-05-15T18:46:22.880Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T18:46:22.880Z"
+    "FStringFlagRepoGitHashFastString": "644b615f2890cee807a2817ee3b2cca20c5ad4dd",
+    "DFStringFlagRepoGitHashDynamicString": "644b615f2890cee807a2817ee3b2cca20c5ad4dd",
+    "FStringFlipTimeStampFastString": "2025-05-15T19:34:24.489Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T19:34:24.489Z"
 }
