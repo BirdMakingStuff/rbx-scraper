@@ -239,6 +239,9 @@
     "FFlagEnableNotificationsToastTTLFix": "True",
     "FFlagAXStatEnableCustomEventStreamTable": "True",
     "FFlagBootcampCLI151048": "True",
+    "FFlagAXAppSystemBarEnableTelemtryForFPS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T17:48:46",
+    "FFlagAXFPSEventStreamAndCounters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T17:48:46",
+    "FFlagAXRestoreBackButtonForTouch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T18:22:10",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -253,8 +256,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "12f9d3575fbbd8d6fd6821f0031adfc2e316345d",
-    "DFStringFlagRepoGitHashDynamicString": "12f9d3575fbbd8d6fd6821f0031adfc2e316345d",
-    "FStringFlipTimeStampFastString": "2025-05-16T17:31:15.317Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-16T17:31:15.317Z"
+    "FStringFlagRepoGitHashFastString": "224c87b8f2aad25eb0d40ba86891e124de94c81f",
+    "DFStringFlagRepoGitHashDynamicString": "224c87b8f2aad25eb0d40ba86891e124de94c81f",
+    "FStringFlipTimeStampFastString": "2025-05-16T18:42:39.432Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-16T18:42:39.432Z"
 }
