@@ -155,5 +155,6 @@
     "Description.AEPDUVDisclaimer": "* AEPDUV data is updated with 1 day delay.",
     "Description.LowImpressionRateWarningMessage": "Your recent impression rate (impressions ÷ filled ads) is below 20%, which may affect your ad revenue. Increasing ad impressions can help improve this rate.",
     "Description.RobuxEarningsPerMille": "Effective Robux earnings per thousand impressions,  calculated by total earnings/the number of impressions (in thousands) within an experience.",
-    "Description.RewardedAdsSuspended": "Your experience is currently suspended from showing Rewarded Ads. If you would like to appeal this decision, please visit the {linkStart}appeals portal{linkEnd}."
+    "Description.RewardedAdsSuspended": "Your experience is currently suspended from showing Rewarded Ads. If you would like to appeal this decision, please visit the {linkStart}appeals portal{linkEnd}.",
+    "Heading.Placement": "Placement"
 }

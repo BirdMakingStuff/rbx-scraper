@@ -274,6 +274,7 @@
     "Action.ExploreRFYSignals": "Explore home recommendation signals",
     "Description.Recommendation.LearnImproveAvgPlayTime": "{linkStart0}Learn how{linkEnd0} to improve average playtime",
     "Header.SummaryReportWithDateRange": "{dateRange} AI report",
-    "Caption.SummaryReportMonthly": "Your monthly AI report is ready",
-    "Caption.SummaryReportWeekly": "Your weekly AI report is ready"
+    "Caption.SummaryReportMonthly": "Your monthly report is ready",
+    "Caption.SummaryReportWeekly": "Your weekly report is ready",
+    "Label.Beta": "Beta"
 }
