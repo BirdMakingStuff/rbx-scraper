@@ -11421,6 +11421,8 @@
     "FFlagSmoothClusterOcclusionCullingFix32Bit": "True",
     "DFFlagInitializeAssetProvider": "True",
     "FFlagBootcampCLI151048": "True",
+    "FFlagSmoothClusterOcclusionCulling2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T16:06:11",
+    "FFlagLuaAppCustomBackgroundSizeDetailsTemplate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T16:43:32",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11855,8 +11857,8 @@
     "FFlagStreamingSolverV2Release663": "True",
     "DFIntReportContextActionServiceShiftLockEventsHundrethsPercent": "100",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "41a20aac0c52d31f68a08fb11cca82bbace57eda",
-    "DFStringFlagRepoGitHashDynamicString": "41a20aac0c52d31f68a08fb11cca82bbace57eda",
-    "FStringFlipTimeStampFastString": "2025-05-16T00:42:11.199Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-16T00:42:11.199Z"
+    "FStringFlagRepoGitHashFastString": "0d60c43165ee4f33dcab5b17d7569cb1d787deaa",
+    "DFStringFlagRepoGitHashDynamicString": "0d60c43165ee4f33dcab5b17d7569cb1d787deaa",
+    "FStringFlipTimeStampFastString": "2025-05-16T16:45:07.616Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-16T16:45:07.616Z"
 }

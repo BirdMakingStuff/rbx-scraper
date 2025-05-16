@@ -11810,6 +11810,7 @@
     "FIntGamepadMenuActionThrottleHundrethsPercent": "10000",
     "FFlagMoveCiEncouragedGatingToGuac": "True",
     "FFlagPartyVoiceBypassCheck": "True",
+    "FFlagLuaAppCustomBackgroundSizeDetailsTemplate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T16:43:32",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -11841,8 +11842,8 @@
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
     "FFlagAXStatEnableCustomEventStreamTable": "True",
-    "FStringFlagRepoGitHashFastString": "41a20aac0c52d31f68a08fb11cca82bbace57eda",
-    "DFStringFlagRepoGitHashDynamicString": "41a20aac0c52d31f68a08fb11cca82bbace57eda",
-    "FStringFlipTimeStampFastString": "2025-05-16T00:42:11.199Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-16T00:42:11.199Z"
+    "FStringFlagRepoGitHashFastString": "0d60c43165ee4f33dcab5b17d7569cb1d787deaa",
+    "DFStringFlagRepoGitHashDynamicString": "0d60c43165ee4f33dcab5b17d7569cb1d787deaa",
+    "FStringFlipTimeStampFastString": "2025-05-16T16:45:07.616Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-16T16:45:07.616Z"
 }
