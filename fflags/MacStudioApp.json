@@ -12810,14 +12810,13 @@
     "FFlagCustomHeadersOnDetailsPage": "True",
     "FFlagGamepadMenuActionTelemetry": "True",
     "FIntGamepadMenuActionThrottleHundrethsPercent": "10000",
-    "FFlagMoveCiEncouragedGatingToGuac": "True",
+    "FFlagMoveCiEncouragedGatingToGuac": "False",
     "DFFlagHttpCurlDefaultAcceptEncodingEnabled": "True",
     "FFlagSmoothClusterOcclusionCullingFix32Bit": "True",
     "DFFlagInitializeAssetProvider": "True",
     "FFlagBootcampCLI151048": "True",
     "FFlagSmoothClusterOcclusionCulling2": "True",
     "FFlagLuaAppCustomBackgroundSizeDetailsTemplate": "True",
-    "FFlagMoveCiEncouragedGatingToGuac_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T18:55:50",
     "FFlagAssetFavoritingFixesForSongDetails": "True",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
@@ -12842,8 +12841,8 @@
     "FFlagStudioPreloadBuilderSans": "True",
     "FFlagManagedJointJointInstance670": "True",
     "FFlagMovePrerenderV2": "True",
-    "FStringFlagRepoGitHashFastString": "8099e89b9df35d136770269e04e020c92c35a207",
-    "DFStringFlagRepoGitHashDynamicString": "8099e89b9df35d136770269e04e020c92c35a207",
-    "FStringFlipTimeStampFastString": "2025-05-16T19:32:47.112Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-16T19:32:47.112Z"
+    "FStringFlagRepoGitHashFastString": "741b672d050aa54bfddacabe273c22daaad3334f",
+    "DFStringFlagRepoGitHashDynamicString": "741b672d050aa54bfddacabe273c22daaad3334f",
+    "FStringFlipTimeStampFastString": "2025-05-16T20:02:19.022Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-16T20:02:19.022Z"
 }
