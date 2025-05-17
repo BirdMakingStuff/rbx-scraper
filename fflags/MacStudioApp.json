@@ -12815,7 +12815,7 @@
     "FFlagSmoothClusterOcclusionCullingFix32Bit": "True",
     "DFFlagInitializeAssetProvider": "True",
     "FFlagBootcampCLI151048": "True",
-    "FFlagSmoothClusterOcclusionCulling2": "True",
+    "FFlagSmoothClusterOcclusionCulling2": "False",
     "FFlagLuaAppCustomBackgroundSizeDetailsTemplate": "True",
     "FFlagAssetFavoritingFixesForSongDetails": "True",
     "FLogSignalRNotification": "0",
@@ -12839,11 +12839,10 @@
     "DFLogRakNetConnectTrace": "10",
     "FFlagFontListFetchRetryForMoreTimes": "True",
     "FFlagStudioPreloadBuilderSans": "True",
-    "FFlagManagedJointJointInstance670": "True",
+    "FFlagManagedJointJointInstance670": "False",
     "FFlagMovePrerenderV2": "True",
-    "FFlagManagedJointJointInstance670_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-16T23:16:23",
-    "FStringFlagRepoGitHashFastString": "06cd373312c08842e2974fd796fb6f63eca82853",
-    "DFStringFlagRepoGitHashDynamicString": "06cd373312c08842e2974fd796fb6f63eca82853",
-    "FStringFlipTimeStampFastString": "2025-05-16T23:18:45.670Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-16T23:18:45.670Z"
+    "FStringFlagRepoGitHashFastString": "74cf064ec1adc54bd93558fe351bbbbcf40db7bd",
+    "DFStringFlagRepoGitHashDynamicString": "74cf064ec1adc54bd93558fe351bbbbcf40db7bd",
+    "FStringFlipTimeStampFastString": "2025-05-17T01:23:25.925Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-17T01:23:25.925Z"
 }
