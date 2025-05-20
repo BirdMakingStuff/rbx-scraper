@@ -243,10 +243,9 @@
     "FFlagAXFPSEventStreamAndCounters": "True",
     "FFlagAXRestoreBackButtonForTouch": "True",
     "FFlagTelemetryUseStandardNanAndInf": "True",
-    "FFlagEnablePartyQuickStartButton3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T22:19:03",
-    "FFlagIntroduceTopBannerPartyStates3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T22:19:47",
-    "FFlagEnablePartyQuickStartExperimentation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T22:21:03",
-    "FFlagEnablePartyCoordinationUiChanges3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T22:21:22",
+    "FFlagIntroduceTopBannerPartyStates3": "True",
+    "FFlagEnablePartyCoordinationUiChanges3": "True",
+    "FFlagEnablePartyQuickStartExperimentation2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -270,8 +269,8 @@
     "FFlagEnableDeepLinkUseExistingClient": "True",
     "FFlagEnableSingleInstanceRobloxClient": "True",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "0d0b16c22e10fcf0691aad2c96eba1c0154837a9",
-    "DFStringFlagRepoGitHashDynamicString": "0d0b16c22e10fcf0691aad2c96eba1c0154837a9",
-    "FStringFlipTimeStampFastString": "2025-05-20T22:39:26.525Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-20T22:39:26.525Z"
+    "FStringFlagRepoGitHashFastString": "10f1af84f1d71927c44eebb947645f8caa967613",
+    "DFStringFlagRepoGitHashDynamicString": "10f1af84f1d71927c44eebb947645f8caa967613",
+    "FStringFlipTimeStampFastString": "2025-05-20T23:35:39.813Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-20T23:35:39.813Z"
 }
