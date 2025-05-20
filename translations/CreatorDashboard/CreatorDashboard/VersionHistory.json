@@ -1,6 +1,4 @@
 ﻿{
-    "Description.PackageVersionHistory": "Anytime you publish a change, a new version is created. Optionally, restore previous versions.",
-    "Heading.Notes": "Notes",
     "Heading.VersionHistory": "Version History",
     "Description.VersionHistory": "Every save on your asset is saved to your version history. Use the Restore button to revert the current version to a previous version of your asset.",
     "Heading.Version": "Version",
@@ -20,5 +18,6 @@
     "Heading.LastUpdated": "Last Updated",
     "Description.RestoredVersionNumber": "Restored (V{versionNumber})",
     "Description.RestoredFromVersion": "Restored from version {versionNumber}",
-    "Action.ShowPublished": "Show published only"
+    "Description.PackageVersionHistory": "Anytime you publish a change, a new version is created. Optionally, restore previous versions.",
+    "Heading.Notes": "Notes"
 }

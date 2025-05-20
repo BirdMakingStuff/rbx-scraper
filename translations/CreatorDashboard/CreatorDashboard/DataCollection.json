@@ -1,4 +1,5 @@
 ﻿{
+    "Label.Public": "Contribute to the public Luau Dataset",
     "Heading.EmpowerCreators": "Empower Luau creation",
     "Description.EmpowerCreators": "Let's elevate Luau to a premier programming language. Contribute your scripts for AI training, enjoy enhanced Luau-focused AI tools, and control which experiences you share.",
     "Label.RobloxOnly": "Share with Roblox",
@@ -15,7 +16,7 @@
     "Description.RobloxContribution2": "{headingStart}You are in control:{headingEnd} You can opt-out anytime from your {linkStart}Account Settings{linkEnd}. No data will be used for training models until one week after you opt-in. Upon your opt-out, we will not use your data for any new training beyond 30 days. However, we reserve the right to keep the existing models trained on your data active for up to 120 days.",
     "Description.RobloxContribution3": "{headingStart}From and for the community:{headingEnd} We respect your privacy. Data is collected anonymously, and we will filter out any sensitive data, such as your API keys.",
     "Description.RobloxContribution4": "{headingStart}We respect your privacy:{headingEnd} Data is collected anonymously, and we will filter out any sensitive data, such as your API keys.",
-    "Description.RobloxContribution5": "{headingStart}Owner-governed sharing:{headingEnd}  Community-owned experiences can only be shared by owners. For experiences that have multiple owners, sharing with Roblox or the wider public is only possible if all owners opt-in.",
+    "Description.RobloxContribution5": "{headingStart}Owner-governed sharing:{headingEnd}  Group-owned experiences can only be shared by owners. For experiences that have multiple owners, sharing with Roblox or the wider public is only possible if all owners opt-in.",
     "Heading.OptInIncentive": "Can I still use Roblox AI tools if I don’t opt-in?",
     "Description.OptInIncentive": "Everyone can use our AI products like Code Assist. Those who share their data with our AI models will get access to more comprehensive and performant models that include community contributions.",
     "Heading.DataRequired": "If I opt-in to share my data, does this only include scripts? What about other types of data, like my models or images?",
@@ -37,7 +38,6 @@
     "Description.Public2": "Contribute a portion of your code from selected experiences",
     "Description.Public3": "Code will be released with the MIT license",
     "Description.Public4": "Opting out after 30 days will not remove the data as it will be already public",
-    "Label.Public": "Contribute to the public Luau Dataset",
     "Label.Disclaimer1": "By opting-in, you confirm that you agree (and, if you are under 18, your parent or legal guardian also agree) to the {linkStart}applicable contribution terms{linkEnd}.",
     "Heading.Metadata": "Luau Data Sharing",
     "Description.Metadata": "Let's empower creators with Luau like never before!"

@@ -109,12 +109,5 @@
     "Label.SweaterAccessory": "Sweater Accessory",
     "Label.ShortsAccessory": "Shorts Accessory",
     "Label.DressSkirtsAccessory": "Dress Skirts Accessory",
-    "Label.AudioPlural": "Audios",
-    "Label.MeshParts": "MeshParts",
-    "Label.MeshPart": "MeshPart",
-    "Label.AvatarCreationTokens": "Avatar Creation Tokens",
-    "Label.AvatarCreationToken": "An Avatar Creation Token",
-    "Label.Token": "Token",
-    "Label.AvatarCreations": "Avatar Creations",
-    "Label.Tokens": "Tokens"
+    "Label.AudioPlural": "Audios"
 }

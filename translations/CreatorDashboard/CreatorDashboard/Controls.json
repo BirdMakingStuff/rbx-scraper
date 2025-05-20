@@ -11,17 +11,5 @@
     "Action.Agree": "Agree",
     "Action.Disagree": "Disagree",
     "Action.Delete": "Delete",
-    "Action.Remove": "Remove",
-    "Action.Reset": "Reset",
-    "Action.Apply": "Apply",
-    "Label.BackToOverview": "Back to Overview",
-    "Action.AddVideo": "Add Video ({priceStart}price{priceEnd})",
-    "Action.UploadImage": "Upload image",
-    "Action.More": "More",
-    "Label.Priority": "Priority",
-    "Label.RecentlyUsed": "Recently used",
-    "Label.DateCreated": "Date created",
-    "Label.SortBy": "Sort By",
-    "Label.All": "All",
-    "Label.Search": "Search"
+    "Action.Remove": "Remove"
 }

@@ -14,7 +14,5 @@
     "Title.DocumentationLanguage": "Documentation Language",
     "Description.DocumentationLanguage": "Translated documentation is in beta. Some content is not localized. Content displays in English if no translations exist.",
     "Label.DocumentationLanguage": "Documentation language",
-    "Label.SyncWithRoblox": "Sync with roblox.com",
-    "Description.BetaMachineTranslationsWithoutLink": "This content is translated using AI (Beta) and may contain errors.",
-    "Description.BetaMachineTranslations": "This content is translated using AI (Beta) and may contain errors. To view this page in English, click {useEnglishLinkStart}here{useEnglishLinkEnd}."
+    "Label.SyncWithRoblox": "Sync with roblox.com"
 }

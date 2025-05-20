@@ -11,8 +11,5 @@
     "Label.PersonalInformationPolicy": "Personal Information Policy",
     "Label.RefundTerms": "Refund Terms",
     "Label.RiderTerms": "Rider Terms",
-    "Label.TermsOfService": "Terms Of Service",
-    "Label.LegalAgreements": "Legal Agreements",
-    "Description.EnterElectronicSignature": "Enter your full legal name as your electronic signature",
-    "Description.ReviewStatementsToSubmit": "Review the below statements carefully. All statements must be true to submit."
+    "Label.TermsOfService": "Terms Of Service"
 }

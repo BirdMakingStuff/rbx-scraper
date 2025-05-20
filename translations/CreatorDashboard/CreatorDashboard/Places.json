@@ -1,6 +1,6 @@
 ﻿{
     "Heading.Places": "Places",
-    "Button.AddAPlace": "Add A Place",
+    "Button.AddAPlace": "Add a place",
     "Button.AddPlace": "Add Place",
     "Heading.Place": "A PLACE",
     "Label.Place": "PLACE",
@@ -64,7 +64,7 @@
     "Label.GearGenres": "Gear Genres",
     "Label.AllowGearFromExperience": "Only allow gears from the experience's genre (e.g. Comedy Gear Only)",
     "Label.AllowAllGearGenres": "Allow all gear genres",
-    "Message.ChooseTypes": "Choose Types",
+    "Message.ChooseTypes": "choose types",
     "Label.GearTypes": "Gear Types",
     "Label.Cancel": "Cancel",
     "Label.Save": "Save Changes",
@@ -84,11 +84,5 @@
     "Description.RestartServersTopDialog": "Do you want to restart out-of-date servers for {placeName} to migrate to your latest update?",
     "Description.RestartServersBottomDialog": "Players in servers that are not running the latest published Place Version will be kicked out during the restart, which will take about 1-6 minutes.",
     "Title.RestartServers": "Restart servers for updates",
-    "Message.RestartServersSuccess": "All servers for {placeName} will be up-to-date in 1-6 minutes.",
-    "Message.ConfigurePlaceInfoNoGenre": "Provide a name and description for your place. There may be multiple places in one experience so it's important to help your users differentiate them.",
-    "Description.Icon": "Upload an icon to your experience to increase player engagement.",
-    "Error.ModerationErrorUpdatingUniverseNameAndDescription": "New universe name or description has been rejected due to moderation.",
-    "Message.CopyLockWarning": "Enabling this option grants any user of Roblox to download, use, and publish a copy of all content within this Place",
-    "Title.CopyLockChange": "Allow users to download a copy of your Place?",
-    "Description.CopyLockChange": "Any user of Roblox will be able view, use, and publish a copy of all content within this Place."
+    "Message.RestartServersSuccess": "All servers for {placeName} will be up-to-date in 1-6 minutes."
 }

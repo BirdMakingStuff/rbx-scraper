@@ -66,14 +66,5 @@
     "Label.AgreeToProvideInfoV2": "I acknowledge that I am required to provide information including but not limited to bank account details and tax documentation to a third party payment service in order to cash out.",
     "Label.AvailableRobux": "Available Robux: ",
     "Message.InvalidRobuxAmount": "Please enter a whole number",
-    "Message.CashOutBannerUpdate": "We have lowered the cash-out minimum requirement from 50,000 to 30,000 Robux.{lineBreak}{linkStart}Learn more on the DevForum.{linkEnd}",
-    "Label.RobuxEligible": "{robuxStart}{robuxEnd} eligible *",
-    "Description.EligibleRobuxDisclaimer": "Eligible Robux is a daily estimate, delayed by at least three days and subject to approval. This figure is not a guarantee.\n",
-    "Label.LastUpdated": "Last Updated: {dateTime}",
-    "Description.DevExInfoV2": "The Developer Exchange Program (also known as DevEx) allows you to earn money by creating awesome experiences on Roblox. Once you earn {minCashoutValue} Robux or more, you are eligible to convert your virtual earnings to real-world cash. Your current eligible robux estimate is based on your earnings history and previous Developer Exchange requests. This figure updates daily, but due to processing requirements, this estimate may lag by about three days and requesting this amount is not a guarantee of a completed DevEx request.{lineBreak}You may request to DevEx more than your current eligible estimate if you believe the estimate is less than your total earned Robux. DevEx participants are allowed one completed DevEx request per calendar month.",
-    "Label.TodayAt": "Today at {time}",
-    "Label.YesterdayAt": "Yesterday at {time}",
-    "Label.DateAtTime": "{date} at {time}",
-    "Description.EarnedFundsAsterisk": "* Earned funds can take up to 72 hours to appear in estimated balance eligible for DevEx.",
-    "Message.DevexMaintenance": "We are aware of some probable issues with your estimated earned Robux balance. Thank you for your patience whilst we address this."
+    "Message.CashOutBannerUpdate": "We have lowered the cash-out minimum requirement from 50,000 to 30,000 Robux.{lineBreak}{linkStart}Learn more on the DevForum.{linkEnd}"
 }

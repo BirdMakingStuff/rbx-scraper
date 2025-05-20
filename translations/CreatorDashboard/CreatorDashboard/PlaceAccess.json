@@ -21,17 +21,5 @@
     "Label.Cancel": "Cancel",
     "Label.Save": "Save Changes",
     "Error.SocialSlotAllowedError": "Allowed social slot is 1.",
-    "Error.SocialSlotAllowedRange": "Value should be between 1 and {value}.",
-    "Label.JoinSettings": "Direct Access to Places",
-    "Message.HasPlaceOverrideInfo": "You’ve made an exception for this place.",
-    "Message.NonrootPlaceToggleInfo": "Allows users to skip the start place and join this place directly through matchmaking, teleports, server lists, or following friends. This setting is overridden if this place is designated as the landing spot for an event.",
-    "Label.AllowDirectJoins": "Allow direct access to this place",
-    "Message.ClearJoinRestrictionsOverrideSuccess": "Reset successful",
-    "Message.ClearJoinRestrictionsOverrideError": "Something went wrong. Try again.",
-    "Title.ClearJoinRestrictionOverride": "Reset access",
-    "Description.ClearJoinRestrictionsOverrideDialog": "Your overall setting for Direct Access to Places will apply instead",
-    "Action.ConfirmReset": "Reset",
-    "Action.Cancel": "Cancel",
-    "Action.Reset": "Reset",
-    "Label.ViewAndRespond": "View & Respond"
+    "Error.SocialSlotAllowedRange": "Value should be between 1 and {value}."
 }

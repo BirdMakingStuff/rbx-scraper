@@ -14,7 +14,5 @@
     "Toast.ToggleSuccess": "Changes saved successfully.",
     "Toast.ButtonSuccess": "Confirmed. Please note that this process may take several minutes.",
     "Toast.GenericError": "Something went wrong!",
-    "Description.AutomaticEntriesSettings": "Allow Roblox to add strings that were previously missed and remove stale entries from your localization table on a daily basis. Entries with manually edited translations will not be impacted. This setting can only be turned on if Automatic Text Capture is enabled.",
-    "Description.TextCaptureAddition": "Capture strings from game UI while users play. It may take up to a few days for strings to be added to your localization table. To add text immediately, use the {startLink} Studio text capture tool {endLink}.",
-    "Description.TextCaptureDeletions": "Allow Roblox to remove stale entries from your localization table. Entries with manually edited translations will not be impacted."
+    "Description.AutomaticEntriesSettings": "Allow Roblox to add strings that were previously missed and remove stale entries from your localization table on a daily basis. Entries with manually edited translations will not be impacted. This setting can only be turned on if Automatic Text Capture is enabled."
 }

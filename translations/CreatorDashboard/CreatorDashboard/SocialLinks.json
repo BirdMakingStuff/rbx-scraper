@@ -28,6 +28,6 @@
     "Message.SaveLinkSuccess": "{links} link(s) successfully saved.",
     "Error.UrlWrongFormat": "The social link url was improperly formatted.",
     "Label.LinkTypeCannotBeEmpty": "The social link type cannot be empty.",
-    "Label.RobloxGroup": "Roblox Community",
-    "Error.InsufficientGroupPermission": "You must be a Community Owner to add a Roblox Community link."
+    "Label.RobloxGroup": "Roblox Group",
+    "Error.InsufficientGroupPermission": "You must be a Group Owner to add a Roblox Group link."
 }

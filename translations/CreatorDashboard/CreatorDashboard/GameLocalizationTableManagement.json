@@ -4,7 +4,7 @@
     "Description.DownloadCsv": "Review and edit in-experience strings and translation progress by downloading the cloud localization table into a CSV file.",
     "Label.DownloadCsv": "Download CSV",
     "Description.DeleteTable": "Delete all in-experience strings and translations in your cloud localization table. Note: This action is irreversible.",
-    "Label.DeleteTable": "Delete Table",
+    "Label.DeleteTable": "Delete table",
     "Description.IrreversibleAction": "Note: This action is irreversible.",
     "Description.LearnMore": " Learn more about CSV localization table management ",
     "Label.HereLink": "here",

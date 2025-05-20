@@ -16,7 +16,5 @@
     "Message.NoAssetsWithPermission": "No assets with permission found.",
     "Error.AssetDetailsFetchGeneric": "Failed to fetch details. Please try again.",
     "Heading.AssetPermissions": "Asset Permissions",
-    "Error.InvalidAssetType": "You cannot give permission to this asset type.",
-    "Error.PermissionNotNeeded": "You don't need permission for your experience to use {ids}",
-    "Error.IdLimitExceeded": "Please enter less than {limit} IDs at a time."
+    "Error.InvalidAssetType": "You cannot give permission to this asset type."
 }
