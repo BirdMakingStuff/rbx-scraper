@@ -11172,6 +11172,11 @@
     "FFlagEnablePartyQuickStartExperimentation2": "True",
     "FFlagScriptDiffDocCloseTelemetry": "True",
     "FFlagSduiGameCarousel": "True",
+    "FFlagUserPlayerConnectionMemoryLeak_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T15:58:48",
+    "DFFlagGamepadStatTimerFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T15:58:51",
+    "DFFlagEnableHapticMixerMaxNumOfEffects_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T16:28:58",
+    "DFIntHapticMixerMaxNumOfEffects_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T16:29:18",
+    "DFFlagEnableGUIStateChangeInVC_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T16:30:38",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11415,8 +11420,8 @@
     "FFlagAXFPSEventStreamAndCounters": "True",
     "DFFlagBoneInstanceApi504": "True",
     "FFlagAXRestoreBackButtonForTouch": "True",
-    "FStringFlagRepoGitHashFastString": "c5517b1d47aa3f246ddb66ec6144f3a7277295aa",
-    "DFStringFlagRepoGitHashDynamicString": "c5517b1d47aa3f246ddb66ec6144f3a7277295aa",
-    "FStringFlipTimeStampFastString": "2025-05-21T00:37:14.372Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T00:37:14.372Z"
+    "FStringFlagRepoGitHashFastString": "2d66dfcab4cd06067958d4e2dd68e79376a533c8",
+    "DFStringFlagRepoGitHashDynamicString": "2d66dfcab4cd06067958d4e2dd68e79376a533c8",
+    "FStringFlipTimeStampFastString": "2025-05-21T16:30:04.284Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T16:30:04.284Z"
 }
