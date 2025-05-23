@@ -13055,10 +13055,10 @@
     "FFlagManagedJointJointInstance670": "False",
     "FFlagMovePrerenderV2": "True",
     "FFlagBootcampCLI152170": "True",
-    "FFlagTextureUseACR4": "True",
+    "FFlagTextureUseACR4": "False",
     "FIntTextureUseACRHundredthPercent": "2000",
-    "FStringFlagRepoGitHashFastString": "c54981f146c5aabf2af300d509271fc80413e4b8",
-    "DFStringFlagRepoGitHashDynamicString": "c54981f146c5aabf2af300d509271fc80413e4b8",
-    "FStringFlipTimeStampFastString": "2025-05-22T23:29:10.495Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-22T23:29:10.495Z"
+    "FStringFlagRepoGitHashFastString": "08c1b55f8195ef9479b07995afee1917ada61cdd",
+    "DFStringFlagRepoGitHashDynamicString": "08c1b55f8195ef9479b07995afee1917ada61cdd",
+    "FStringFlipTimeStampFastString": "2025-05-23T01:17:40.206Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-23T01:17:40.206Z"
 }
