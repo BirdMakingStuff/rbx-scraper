@@ -11273,7 +11273,7 @@
     "FFlagDevFrameworkPortalDesignInPlugins": "True",
     "FFlagChatWindowMessageRemoveState_IXP": "1;ExperienceChat.Performance;FFlagChatWindowMessageRemoveState;1376708965;flagbank",
     "DFFlagFileCacheSkipFailedRenameReport": "True",
-    "DFFlagFileCacheTryCopy": "True",
+    "DFFlagFileCacheTryCopy": "False",
     "DFFlagFixRemoveAllBug": "True",
     "DFFlagSQLiteStatementFixFinalizeBug": "True",
     "DFFlagWriteOnlyBufferNoExcept": "True",
@@ -11663,9 +11663,8 @@
     "FFlagPointAndClickDefaultExperimentEnabled": "True",
     "FFlagGamepadPointAndClick4_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;Engine.Interactivity.InputAndControls.PointAndClickDSManualExposure;1875661088;dev_controlled",
     "FFlagNewHapticService16": "True",
-    "DFFlagFileCacheTryCopy_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-23T17:00:56",
-    "FStringFlagRepoGitHashFastString": "c8f3e4dc6d525627e67e1246ee6ced2c7502c8ed",
-    "DFStringFlagRepoGitHashDynamicString": "c8f3e4dc6d525627e67e1246ee6ced2c7502c8ed",
-    "FStringFlipTimeStampFastString": "2025-05-23T17:34:44.478Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-23T17:34:44.478Z"
+    "FStringFlagRepoGitHashFastString": "c12f2ac9d4420b8d9e1ee61fa80323a6842ff0de",
+    "DFStringFlagRepoGitHashDynamicString": "c12f2ac9d4420b8d9e1ee61fa80323a6842ff0de",
+    "FStringFlipTimeStampFastString": "2025-05-23T18:07:16.304Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-23T18:07:16.304Z"
 }
