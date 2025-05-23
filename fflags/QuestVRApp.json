@@ -12030,7 +12030,6 @@
     "DFFlagBoneInstanceApi504": "True",
     "AndroidCookieHandlerInitializationTiming": "True",
     "FFlagTelemetryUseStandardNanAndInf": "True",
-    "EnableRoomDB5": "true",
     "FFlagEnableHarmonyForGmaAd": "True",
     "FFlagVideoAdaptionByMemory4": "True",
     "DFFlagAssetProviderDeferRedirectCacheWrites": "True",
@@ -12103,8 +12102,8 @@
     "FFlagLuaAppBootcampIntroUABOOTCAMP57": "True",
     "FFlagAXAppSystemBarEnableTelemtryForFPS": "True",
     "FFlagAXRestoreBackButtonForTouch": "True",
-    "FStringFlagRepoGitHashFastString": "f87641b7874d3d4b17f66e84db0468d80dd5ccd6",
-    "DFStringFlagRepoGitHashDynamicString": "f87641b7874d3d4b17f66e84db0468d80dd5ccd6",
-    "FStringFlipTimeStampFastString": "2025-05-23T02:22:02.130Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-23T02:22:02.130Z"
+    "FStringFlagRepoGitHashFastString": "c8f3e4dc6d525627e67e1246ee6ced2c7502c8ed",
+    "DFStringFlagRepoGitHashDynamicString": "c8f3e4dc6d525627e67e1246ee6ced2c7502c8ed",
+    "FStringFlipTimeStampFastString": "2025-05-23T17:34:44.478Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-23T17:34:44.478Z"
 }
