@@ -246,6 +246,7 @@
     "FFlagInternalExportCheckIfFacsControlsExistsAgain": "True",
     "DFFlagAddMachineIDInstallerTelemetry": "True",
     "FFlagAXEnablePercievedTTIForAX": "True",
+    "FFlagInternalExportUseScaleWhenCalculatingJointTransforms_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T22:18:58",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -263,8 +264,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "a432e5f37c5c502d2957d1d60487f65920b3e2f0",
-    "DFStringFlagRepoGitHashDynamicString": "a432e5f37c5c502d2957d1d60487f65920b3e2f0",
-    "FStringFlipTimeStampFastString": "2025-05-28T21:37:16.512Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-28T21:37:16.512Z"
+    "FStringFlagRepoGitHashFastString": "8a779260d20e5c4cb293a9f8e60eac387782876e",
+    "DFStringFlagRepoGitHashDynamicString": "8a779260d20e5c4cb293a9f8e60eac387782876e",
+    "FStringFlipTimeStampFastString": "2025-05-28T22:40:57.869Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-28T22:40:57.869Z"
 }
