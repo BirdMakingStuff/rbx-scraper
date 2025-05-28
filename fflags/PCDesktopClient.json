@@ -11342,9 +11342,12 @@
     "DFFlagFixHttpClientAbortBgReqBug": "True",
     "FFlagStudioPreloadBuilderSans": "True",
     "DFIntContentProviderAssetLoadingDelayThrottleHundredthsPercent": "1000",
-    "FFlagRenderEnableGlobalInstancingD3D11": "True",
-    "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
+    "DFFlagWrapParentPointerWithWeakAccessOnChildChanged_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T16:13:22",
+    "FFlagAddFrameCountParams_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T16:29:34",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
+    "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
+    "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagDevFrameworkCompactTreeTable2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T16:41:34",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -12101,8 +12104,8 @@
     "DFIntWHAM1707UploadFailureTelemetryPercent": "10000",
     "DFFlagAddMachineIDInstallerTelemetry": "True",
     "DFFlagRakTracingSupport": "True",
-    "FStringFlagRepoGitHashFastString": "8312538a123ad22819d7d2ba4ec47f90bb57da80",
-    "DFStringFlagRepoGitHashDynamicString": "8312538a123ad22819d7d2ba4ec47f90bb57da80",
-    "FStringFlipTimeStampFastString": "2025-05-28T01:05:38.500Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-28T01:05:38.500Z"
+    "FStringFlagRepoGitHashFastString": "d6f2a87bb8e93866f83ac4ec7b8265e5ac86b58e",
+    "DFStringFlagRepoGitHashDynamicString": "d6f2a87bb8e93866f83ac4ec7b8265e5ac86b58e",
+    "FStringFlipTimeStampFastString": "2025-05-28T16:46:40.191Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-28T16:46:40.191Z"
 }
