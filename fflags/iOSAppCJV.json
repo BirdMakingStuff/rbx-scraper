@@ -12143,8 +12143,7 @@
     "FIntUtilityDeltaOfBestQualityVideo_PlaceFilter": "10;10449761463",
     "FFlagAXEnableInitialTopLevelPageCounter": "True",
     "DFFlagEnableGmaAppPromoAd": "True",
-    "FFlagEnableHarmonyForGmaAd": "True",
-    "FFlagEnableHarmonyForGmaAd_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-29T01:43:49",
+    "FFlagEnableHarmonyForGmaAd": "False",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -12175,8 +12174,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "aa15d5c8f21c2f151c2bdbc00dafaea2c0c0112c",
-    "DFStringFlagRepoGitHashDynamicString": "aa15d5c8f21c2f151c2bdbc00dafaea2c0c0112c",
-    "FStringFlipTimeStampFastString": "2025-05-29T02:07:03.731Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-29T02:07:03.731Z"
+    "FStringFlagRepoGitHashFastString": "cdf7638547d4ec6811da04d70a701ec1ee2581d2",
+    "DFStringFlagRepoGitHashDynamicString": "cdf7638547d4ec6811da04d70a701ec1ee2581d2",
+    "FStringFlipTimeStampFastString": "2025-05-29T02:47:10.182Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-29T02:47:10.182Z"
 }
