@@ -11476,6 +11476,8 @@
     "FFlagEnableSquadCoordinationExperienceJoinExperiment3": "True",
     "DFIntPartyAsyncThrottleCountPerMinute": "120",
     "FFlagEnableOmniSduiTreatmentTypesForPrefetchProtocolCore": "True",
+    "FFlagVMSErrorAnalysisEa_PlaceFilter": "True;1818",
+    "FFlagCrash147727Report_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T16:38:53",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
@@ -12178,7 +12180,7 @@
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": "True",
     "FFlagTextureManagerRemoveAddExternalRef6": "True",
     "FFlagMovePrerenderV2": "True",
-    "FIntCrash147727ReportPerMyriad": "10000",
+    "FIntCrash147727ReportPerMyriad": "100",
     "FFlagLogPartyVoiceReconnect": "True",
     "FFlagLuaAppSignUpColorExperiment2": "True",
     "FFlagFixIntervalStatStartSamplingThisUse": "True",
@@ -12249,8 +12251,9 @@
     "DFFlagRakNetDoBlockingIoWithTimeouts": "True",
     "FFlagHttpUseRbxStorage10": "True",
     "DFIntSQLiteThrottleErrorsHundredthsPercent": "20000",
-    "FStringFlagRepoGitHashFastString": "df3a796ac606ec8a61ce06fd121d048088ba4c03",
-    "DFStringFlagRepoGitHashDynamicString": "df3a796ac606ec8a61ce06fd121d048088ba4c03",
-    "FStringFlipTimeStampFastString": "2025-05-30T01:00:08.128Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-30T01:00:08.128Z"
+    "FFlagAXCatalogItemCardFooterBackendDriven_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T16:10:15",
+    "FStringFlagRepoGitHashFastString": "f3db2bc6a3db6d6ef6bd7e17c8b89d4b5aaef9be",
+    "DFStringFlagRepoGitHashDynamicString": "f3db2bc6a3db6d6ef6bd7e17c8b89d4b5aaef9be",
+    "FStringFlipTimeStampFastString": "2025-05-30T16:44:35.562Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-30T16:44:35.562Z"
 }
