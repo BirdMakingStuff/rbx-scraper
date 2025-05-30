@@ -11479,12 +11479,12 @@
     "FFlagVMSErrorAnalysisEa_PlaceFilter": "True;1818",
     "FFlagCrash147727Report": "True",
     "FFlagRemoveGamerCardFromSideBar": "True",
-    "FFlagRenameFriendsToConnectionsCoreUI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T18:09:16",
     "FFlagSmoothClusterOcclusionCullingFix32Bit": "True",
     "FFlagDisableLegacyVoiceDeviceSelection_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T18:40:56",
     "DFFlagEnableGetProductInfoErrorCaching": "True",
     "DFIntGamePassOwnershipCacheSeconds_Staged": "180;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T18:44:11",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
+    "FFlagRenameFriendsToConnectionsCoreUI": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
@@ -12204,8 +12204,8 @@
     "DFFlagRakNetDoBlockingIoWithTimeouts": "True",
     "FFlagAXCatalogItemCardFooterBackendDriven": "True",
     "DFFlagHttpThrottleAccurateTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T18:37:40",
-    "FStringFlagRepoGitHashFastString": "4a45e98de245185618a22ebf5cce892d8a6e8fb2",
-    "DFStringFlagRepoGitHashDynamicString": "4a45e98de245185618a22ebf5cce892d8a6e8fb2",
-    "FStringFlipTimeStampFastString": "2025-05-30T18:45:01.201Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-30T18:45:01.201Z"
+    "FStringFlagRepoGitHashFastString": "07aca368ca42daed5d293b00f38759d18982ff02",
+    "DFStringFlagRepoGitHashDynamicString": "07aca368ca42daed5d293b00f38759d18982ff02",
+    "FStringFlipTimeStampFastString": "2025-05-30T19:23:33.797Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-30T19:23:33.797Z"
 }
