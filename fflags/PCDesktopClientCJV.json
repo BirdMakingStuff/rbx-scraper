@@ -11478,7 +11478,10 @@
     "FFlagEnableOmniSduiTreatmentTypesForPrefetchProtocolCore": "True",
     "FFlagVMSErrorAnalysisEa_PlaceFilter": "True;1818",
     "FFlagCrash147727Report_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T16:38:53",
+    "FFlagRemoveGamerCardFromSideBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T16:58:03",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "DFIntGamePassOwnershipCacheSeconds_Staged": "90;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T17:22:28",
+    "DFFlagEnableGetProductInfoErrorCaching_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T17:37:54",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12251,10 +12254,10 @@
     "DFFlagRakNetDoBlockingIoWithTimeouts": "True",
     "FFlagHttpUseRbxStorage10": "True",
     "DFIntSQLiteThrottleErrorsHundredthsPercent": "20000",
-    "FFlagAXCatalogItemCardFooterBackendDriven_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T16:10:15",
+    "FFlagAXCatalogItemCardFooterBackendDriven": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "f3db2bc6a3db6d6ef6bd7e17c8b89d4b5aaef9be",
-    "DFStringFlagRepoGitHashDynamicString": "f3db2bc6a3db6d6ef6bd7e17c8b89d4b5aaef9be",
-    "FStringFlipTimeStampFastString": "2025-05-30T16:44:35.562Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-30T16:44:35.562Z"
+    "FStringFlagRepoGitHashFastString": "348039c5067f66a019f5d830aa7a4ed0c407c384",
+    "DFStringFlagRepoGitHashDynamicString": "348039c5067f66a019f5d830aa7a4ed0c407c384",
+    "FStringFlipTimeStampFastString": "2025-05-30T17:38:33.443Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-30T17:38:33.443Z"
 }
