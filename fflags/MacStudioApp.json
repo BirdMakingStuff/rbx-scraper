@@ -12988,7 +12988,7 @@
     "DFIntMLCodeCompletionRequestReporterThrottlePercent": "10000",
     "FFlagTeamCreatePlaceUploadEventRCCNew": "True",
     "FFlagPluginGuiPointerEvents": "True",
-    "FFlagStudioHideTooltipsOnBlur": "True",
+    "FFlagStudioHideTooltipsOnBlur": "False",
     "FFlagAvatarPreviewerProgressIXP": "True",
     "FFlagImportQueuePerSessionStateBugfix": "True",
     "FFlagToolboxRemoveOldWarning": "True",
@@ -13034,7 +13034,6 @@
     "FIntTextureGenerationServiceRePollDelaySeconds": "45",
     "DFIntScriptEditorLazyTelemetryReporterPeriodSec": "60",
     "FFlagInstancePickerFixBlankSpaceClick": "True",
-    "FFlagStudioHideTooltipsOnBlur_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-30T22:45:02",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -13282,8 +13281,8 @@
     "FIntTextureUseACRHundredthPercent": "2000",
     "FFlagBootcampCLI152987": "True",
     "DFLogBootcampCLI152987Log": "6",
-    "FStringFlagRepoGitHashFastString": "9bbceddefd2098383ce7d7be4f8a16cd6a867240",
-    "DFStringFlagRepoGitHashDynamicString": "9bbceddefd2098383ce7d7be4f8a16cd6a867240",
-    "FStringFlipTimeStampFastString": "2025-05-30T22:46:43.020Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-30T22:46:43.020Z"
+    "FStringFlagRepoGitHashFastString": "e82d97d17263c25e58eec6c1cb6ac14725b61ddd",
+    "DFStringFlagRepoGitHashDynamicString": "e82d97d17263c25e58eec6c1cb6ac14725b61ddd",
+    "FStringFlipTimeStampFastString": "2025-05-30T23:55:57.564Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-30T23:55:57.564Z"
 }
