@@ -12243,8 +12243,9 @@
     "DFIntHangMonitorNoCheckpoints": "2",
     "DFIntHangMonitorReportHangTimeoutMS": "10000",
     "FFlagAXCatalogItemCardFooterBackendDriven": "True",
-    "FStringFlagRepoGitHashFastString": "e82d97d17263c25e58eec6c1cb6ac14725b61ddd",
-    "DFStringFlagRepoGitHashDynamicString": "e82d97d17263c25e58eec6c1cb6ac14725b61ddd",
-    "FStringFlipTimeStampFastString": "2025-05-30T23:55:57.564Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-30T23:55:57.564Z"
+    "FFlagAXCatalogItemCardFooterBackendDriven_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-02T01:29:31",
+    "FStringFlagRepoGitHashFastString": "f3fbbf3ee1bd349b438f856aba68bb31b3af01c3",
+    "DFStringFlagRepoGitHashDynamicString": "f3fbbf3ee1bd349b438f856aba68bb31b3af01c3",
+    "FStringFlipTimeStampFastString": "2025-06-02T01:30:10.096Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-02T01:30:10.096Z"
 }
