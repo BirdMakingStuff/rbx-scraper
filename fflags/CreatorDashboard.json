@@ -64,5 +64,6 @@
     "enableGetItemsByCreator": "true",
     "enableDeveloperProductAttributes": "false",
     "enableCommerce": "true",
-    "enableAccountInformation": "true"
+    "enableAccountInformation": "true",
+    "enableCookieBanner": "true"
 }
