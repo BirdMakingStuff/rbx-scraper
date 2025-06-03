@@ -11535,9 +11535,9 @@
     "FFlagSpatialUIDisableBottomBarFading": "True",
     "DFFlagGuiLayerCollectorCombined": "True",
     "FFlagDevFrameworkParentStylesToDm": "True",
-    "FFlagAvatarAutosetupStatusNotifications2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-02T23:03:58",
     "FFlagFixGenerateStandardGUID": "True",
     "DFFlagFixTextWithCompositionCheck": "True",
+    "FFlagAvatarAutosetupStatusNotifications2": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
@@ -11867,7 +11867,7 @@
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-IOSMacAndroidWindows-May29-3;521891106;flagbank",
     "FFlagRemovePeekViewBorder": "True",
     "DFIntSQLiteThrottleErrorsHundredthsPercent": "20000",
-    "DFFlagSQLiteSkipDiskFullErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-02T23:07:41",
+    "DFFlagSQLiteSkipDiskFullErrors": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12320,8 +12320,8 @@
     "FFlagLuaAppShowNoticeOnEdp": "True",
     "FStringPointAndClickDefaultExperimentLayer": "Engine.Interactivity.InputAndControls.PointAndClick",
     "DFFlagNetTraceDataPingRep": "True",
-    "FStringFlagRepoGitHashFastString": "0c9cc0993efa3fa57f32ab3e99d5f1dc5abd54fb",
-    "DFStringFlagRepoGitHashDynamicString": "0c9cc0993efa3fa57f32ab3e99d5f1dc5abd54fb",
-    "FStringFlipTimeStampFastString": "2025-06-02T23:36:48.740Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-02T23:36:48.740Z"
+    "FStringFlagRepoGitHashFastString": "a53a480873a1cf8c9e3e872d98100febe1b7ad23",
+    "DFStringFlagRepoGitHashDynamicString": "a53a480873a1cf8c9e3e872d98100febe1b7ad23",
+    "FStringFlipTimeStampFastString": "2025-06-03T00:49:58.219Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-03T00:49:58.219Z"
 }
