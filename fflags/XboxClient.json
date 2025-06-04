@@ -11581,6 +11581,7 @@
     "FFlagCreatorStoreWVEnableABTest2": "True",
     "FFlagEditableInternalMemoryUsageSupport": "True",
     "FFlagRemoveEnrollmentMap": "True",
+    "FFlagGrantImageAndMeshPermissions5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-04T16:16:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11946,8 +11947,8 @@
     "FFlagGamepadPointAndClick4_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClick;Engine.Interactivity.InputAndControls.PointClickDS-17489735390666;404618426;dev_controlled",
     "FFlagPointAndClickCursor_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClick;Engine.Interactivity.InputAndControls.PointClickDS-17489735390666;404618426;dev_controlled",
     "FFlagUpdateAsyncLightGrid10": "True",
-    "FStringFlagRepoGitHashFastString": "2412044ac92f0c2ba94c13a3b0005e291a83745e",
-    "DFStringFlagRepoGitHashDynamicString": "2412044ac92f0c2ba94c13a3b0005e291a83745e",
-    "FStringFlipTimeStampFastString": "2025-06-04T01:18:20.557Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-04T01:18:20.557Z"
+    "FStringFlagRepoGitHashFastString": "495386372b05cd8394ca5f8a89ca56ece13ee98b",
+    "DFStringFlagRepoGitHashDynamicString": "495386372b05cd8394ca5f8a89ca56ece13ee98b",
+    "FStringFlipTimeStampFastString": "2025-06-04T16:18:13.172Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-04T16:18:13.172Z"
 }
