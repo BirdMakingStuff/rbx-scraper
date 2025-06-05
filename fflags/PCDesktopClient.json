@@ -11612,6 +11612,8 @@
     "FFlagIXPPerformanceControlLogisticOomModelProperEscape": "True",
     "FFlagTelemetryDataReArchTransmission7": "True",
     "FFlagStopModerationConnectionOnLeave": "True",
+    "DFFlagMemoryStoreSortedMapGetSizeEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T16:06:24",
+    "DFFlagMemoryStoreQueueGetSizeEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T16:06:51",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
@@ -12399,8 +12401,9 @@
     "DFFlagDataPingTrace": "True",
     "DFFlagPerformanceControlAddNormalizedQualityToST": "True",
     "FFlagIXPPerformanceControlMemoryCurveSwapDesktop": "True",
-    "FStringFlagRepoGitHashFastString": "4fb5983a4b3f934d3bb91b87431524a36b35f8b0",
-    "DFStringFlagRepoGitHashDynamicString": "4fb5983a4b3f934d3bb91b87431524a36b35f8b0",
-    "FStringFlipTimeStampFastString": "2025-06-05T01:13:16.074Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-05T01:13:16.074Z"
+    "DFFlagConvexDecompCompressionAnalytics676_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T16:40:33",
+    "FStringFlagRepoGitHashFastString": "d6f70331b706d8d3bf73c02e94a310a1d7f3b91e",
+    "DFStringFlagRepoGitHashDynamicString": "d6f70331b706d8d3bf73c02e94a310a1d7f3b91e",
+    "FStringFlipTimeStampFastString": "2025-06-05T16:41:41.484Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-05T16:41:41.484Z"
 }
