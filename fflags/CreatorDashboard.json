@@ -65,5 +65,6 @@
     "enableDeveloperProductAttributes": "false",
     "enableCommerce": "true",
     "enableAccountInformation": "true",
-    "enableCookieBanner": "true"
+    "enableCookieBanner": "true",
+    "enableScopeSelectionCategoryWarning": "true"
 }
