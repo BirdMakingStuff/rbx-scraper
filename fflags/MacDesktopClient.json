@@ -12387,7 +12387,7 @@
     "FFlagTextureUseACR4": "False",
     "FIntTextureUseACRHundredthPercent": "2000",
     "FFlagNewHapticService16": "True",
-    "DFFlagUseAssetProvider6": "True",
+    "DFFlagUseAssetProvider6": "False",
     "DFFlagReportContextActionServiceShiftLockEvents": "True",
     "DFIntAssetProviderCallbackExecutorThreadCount": "4",
     "DFFlagRakNetDoBlockingIoWithTimeouts": "True",
@@ -12412,9 +12412,8 @@
     "DFLogBootcampCLI155024Log": "6",
     "FFlagBootcampCLI155024": "True",
     "FFlagEnableAvatarGenerationCommon": "True",
-    "DFFlagUseAssetProvider6_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T02:10:32",
-    "FStringFlagRepoGitHashFastString": "1098873de7b5fd961e1dda5739775b04d997e01d",
-    "DFStringFlagRepoGitHashDynamicString": "1098873de7b5fd961e1dda5739775b04d997e01d",
-    "FStringFlipTimeStampFastString": "2025-06-06T02:11:26.337Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T02:11:26.337Z"
+    "FStringFlagRepoGitHashFastString": "cdac1be1f3f81aed621db1e9ed856f0f0e50119f",
+    "DFStringFlagRepoGitHashDynamicString": "cdac1be1f3f81aed621db1e9ed856f0f0e50119f",
+    "FStringFlipTimeStampFastString": "2025-06-06T03:17:32.011Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T03:17:32.011Z"
 }
