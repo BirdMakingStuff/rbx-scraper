@@ -13222,6 +13222,7 @@
     "DFStringGenerationServiceOptionsMapping": "{\"AdminOptions\":\"adminOptions\",\"AdminOptions.MeshInferenceServiceOverride\":\"meshInferenceServiceOverride\",\"AdminOptions.MeshModelServiceOverride\":\"meshModelServiceOverride\",\"AdminOptions.TextureInferenceServiceOverride\":\"textureInferenceServiceOverride\",\"AdminOptions.TextureModelServiceOverride\":\"textureModelServiceOverride\",\"AdminOptions.RendererInferenceServiceOverride\":\"rendererInferenceServiceOverride\",\"AdminOptions.RendererModelServiceOverride\":\"rendererModelServiceOverride\",\"AdminOptions.TemporalQueueSuffix\":\"temporalQueueSuffix\",\"TopP\":\"topP\",\"Temperature\":\"temperature\",\"Size\":\"size\"}",
     "DFFlagInsertServiceValidateInstancePermissionsEnforce": "True",
     "FFlagToolboxCreatorDropdownReset2": "True",
+    "FFlagStudioMaxInstanceCountCheckOnStartup_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T21:12:11",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13496,8 +13497,8 @@
     "FFlagMovePrerenderV2": "True",
     "FFlagTextureUseACR4": "False",
     "FIntTextureUseACRHundredthPercent": "2000",
-    "FStringFlagRepoGitHashFastString": "0591a5b6f73d5b174fdb1ce189f5074328083f16",
-    "DFStringFlagRepoGitHashDynamicString": "0591a5b6f73d5b174fdb1ce189f5074328083f16",
-    "FStringFlipTimeStampFastString": "2025-06-06T19:55:39.890Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T19:55:39.890Z"
+    "FStringFlagRepoGitHashFastString": "7851cb3287e8578659137a5debdfbd70231862f7",
+    "DFStringFlagRepoGitHashDynamicString": "7851cb3287e8578659137a5debdfbd70231862f7",
+    "FStringFlipTimeStampFastString": "2025-06-06T21:13:04.537Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T21:13:04.537Z"
 }
