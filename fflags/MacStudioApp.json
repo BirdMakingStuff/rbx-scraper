@@ -13196,7 +13196,7 @@
     "FFlagTryToKeepOldNonNullAC": "True",
     "FFlagStudioMaxInstanceCountCheckOnStartupAddDialogStretch2": "True",
     "FFlagStudioSendNotificationInFiber": "True",
-    "FFlagStudioMaxInstanceCountCheckOnStartup": "True",
+    "FFlagStudioMaxInstanceCountCheckOnStartup": "False",
     "FFlagStyleEditorUIFlexItem": "True",
     "FFlagStyleEditorUnmountedCrash": "True",
     "FFlagLuauGuardAgainstMalformedTypeAliasExpansion2": "True",
@@ -13222,7 +13222,6 @@
     "DFStringGenerationServiceOptionsMapping": "{\"AdminOptions\":\"adminOptions\",\"AdminOptions.MeshInferenceServiceOverride\":\"meshInferenceServiceOverride\",\"AdminOptions.MeshModelServiceOverride\":\"meshModelServiceOverride\",\"AdminOptions.TextureInferenceServiceOverride\":\"textureInferenceServiceOverride\",\"AdminOptions.TextureModelServiceOverride\":\"textureModelServiceOverride\",\"AdminOptions.RendererInferenceServiceOverride\":\"rendererInferenceServiceOverride\",\"AdminOptions.RendererModelServiceOverride\":\"rendererModelServiceOverride\",\"AdminOptions.TemporalQueueSuffix\":\"temporalQueueSuffix\",\"TopP\":\"topP\",\"Temperature\":\"temperature\",\"Size\":\"size\"}",
     "DFFlagInsertServiceValidateInstancePermissionsEnforce": "True",
     "FFlagToolboxCreatorDropdownReset2": "True",
-    "FFlagStudioMaxInstanceCountCheckOnStartup_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T21:12:11",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -13488,8 +13487,8 @@
     "FIntTextureUseACRHundredthPercent": "2000",
     "FFlagBootcampCLI152987": "True",
     "DFLogBootcampCLI152987Log": "6",
-    "FStringFlagRepoGitHashFastString": "7851cb3287e8578659137a5debdfbd70231862f7",
-    "DFStringFlagRepoGitHashDynamicString": "7851cb3287e8578659137a5debdfbd70231862f7",
-    "FStringFlipTimeStampFastString": "2025-06-06T21:13:04.537Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T21:13:04.537Z"
+    "FStringFlagRepoGitHashFastString": "caba10d4e45f85a7220d0fa18e2f0b14b9649da2",
+    "DFStringFlagRepoGitHashDynamicString": "caba10d4e45f85a7220d0fa18e2f0b14b9649da2",
+    "FStringFlipTimeStampFastString": "2025-06-06T22:17:24.505Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T22:17:24.505Z"
 }
