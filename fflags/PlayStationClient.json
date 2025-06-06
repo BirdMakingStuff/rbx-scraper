@@ -11631,7 +11631,7 @@
     "FFlagSBT4697": "True",
     "DFIntMFTEncoderStartTrackingEventHundredthsPercent": "1000",
     "DFIntMFTHardwareArchitectureEventHundredthsPercent": "1000",
-    "FIntVideoCaptureExposureThrottleHundrethsPercent": "1000",
+    "FIntVideoCaptureExposureThrottleHundrethsPercent": "10000",
     "FFlagFixChatInputBarPlaceholder": "True",
     "FFlagCaptureServiceContentObjectEnabled5": "True",
     "FFlagCaptureUtilitiesCaptureParamsEnabled": "True",
@@ -11664,7 +11664,6 @@
     "DFFlagFileUtilsEnableFindRodeoThumbnail": "True",
     "FFlagRenderSquadLobbyOnlyWhenVisible": "True",
     "FFlagGroupedRollouts": "True",
-    "FIntVideoCaptureExposureThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T17:56:34",
     "DFFlagFlagRolloutTestDynamicBool1": "True",
     "DFFlagFlagRolloutTestDynamicBool10": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
@@ -11911,9 +11910,9 @@
     "FFlagSessionTransitionFSMRuntimeCallOnce": "True",
     "FFlagSessionAppEventsHandlerRuntimeMutex": "True",
     "FFlagSessionManagerRuntimeMutex": "True",
-    "FFlagCacheableContentProviderUsesRuntime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T18:19:05",
-    "FStringFlagRepoGitHashFastString": "6e25163726be9777f82bdd7298aef9b949114b56",
-    "DFStringFlagRepoGitHashDynamicString": "6e25163726be9777f82bdd7298aef9b949114b56",
-    "FStringFlipTimeStampFastString": "2025-06-06T18:48:06.102Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T18:48:06.102Z"
+    "FFlagCacheableContentProviderUsesRuntime": "True",
+    "FStringFlagRepoGitHashFastString": "97247d4f2a3311ba521cf709b8969481464d69b9",
+    "DFStringFlagRepoGitHashDynamicString": "97247d4f2a3311ba521cf709b8969481464d69b9",
+    "FStringFlipTimeStampFastString": "2025-06-06T19:27:29.076Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T19:27:29.076Z"
 }
