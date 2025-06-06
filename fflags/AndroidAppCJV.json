@@ -11666,6 +11666,8 @@
     "DFFlagFileUtilsEnableFindRodeoThumbnail": "True",
     "FFlagRenderSquadLobbyOnlyWhenVisible": "True",
     "FFlagGroupedRollouts": "True",
+    "FFlagEnableFriendsMenuShareGameInviteLink2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:04:44",
+    "DFIntWindowsMinimumClientVersion2_Staged": "674;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:41:12",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12481,8 +12483,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "cdac1be1f3f81aed621db1e9ed856f0f0e50119f",
-    "DFStringFlagRepoGitHashDynamicString": "cdac1be1f3f81aed621db1e9ed856f0f0e50119f",
-    "FStringFlipTimeStampFastString": "2025-06-06T03:17:32.011Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T03:17:32.011Z"
+    "FStringFlagRepoGitHashFastString": "83db3a1531f18d837b211137b0f5c1528bab5f66",
+    "DFStringFlagRepoGitHashDynamicString": "83db3a1531f18d837b211137b0f5c1528bab5f66",
+    "FStringFlipTimeStampFastString": "2025-06-06T16:43:07.834Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T16:43:07.834Z"
 }

@@ -11666,6 +11666,8 @@
     "DFFlagFileUtilsEnableFindRodeoThumbnail": "True",
     "FFlagRenderSquadLobbyOnlyWhenVisible": "True",
     "FFlagGroupedRollouts": "True",
+    "FFlagEnableFriendsMenuShareGameInviteLink2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:04:44",
+    "DFIntWindowsMinimumClientVersion2_Staged": "674;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:41:12",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -12001,6 +12003,8 @@
     "FFlagUseMediaPlayerInCarousel_v2": "True",
     "FFlagUseRbxStorageInCapturesCommon": "True",
     "FFlagUseRbxstorageInGallery": "True",
+    "FFlagEnableVoiceChatMuteForVideoCaptures_v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:00:58",
+    "FFlagImprovedInstantiation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:41:02",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12412,8 +12416,9 @@
     "DFLogBootcampCLI155024Log": "6",
     "FFlagBootcampCLI155024": "True",
     "FFlagEnableAvatarGenerationCommon": "True",
-    "FStringFlagRepoGitHashFastString": "cdac1be1f3f81aed621db1e9ed856f0f0e50119f",
-    "DFStringFlagRepoGitHashDynamicString": "cdac1be1f3f81aed621db1e9ed856f0f0e50119f",
-    "FStringFlipTimeStampFastString": "2025-06-06T03:17:32.011Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T03:17:32.011Z"
+    "FFlagLuaAppMigrateGameTileIxp4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:27:47",
+    "FStringFlagRepoGitHashFastString": "83db3a1531f18d837b211137b0f5c1528bab5f66",
+    "DFStringFlagRepoGitHashDynamicString": "83db3a1531f18d837b211137b0f5c1528bab5f66",
+    "FStringFlipTimeStampFastString": "2025-06-06T16:43:07.834Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T16:43:07.834Z"
 }
