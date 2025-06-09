@@ -66,5 +66,6 @@
     "enableCommerce": "true",
     "enableAccountInformation": "true",
     "enableCookieBanner": "true",
-    "enableScopeSelectionCategoryWarning": "true"
+    "enableScopeSelectionCategoryWarning": "true",
+    "regionalPricingEnabledBannerDevForumUrl": "https://devforum.roblox.com/t/coming-soon-regional-pricing-for-avatar-items/3676358"
 }
