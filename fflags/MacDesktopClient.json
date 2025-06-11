@@ -11807,6 +11807,8 @@
     "FIntGamepadOpenExperienceControlsMenuThrottleHundrethsPercent": "10000",
     "FFlagAXIncreaseBodyBundleZoomToMatchLooksEnabledForAll": "True",
     "FFlagAXCloseItemDetailsWhenClickNewItem2": "True",
+    "FFlagFoundationRefactorInputs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T16:03:58",
+    "FFlagSkyboxOrientationBetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T16:14:52",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -12534,8 +12536,9 @@
     "FFlagEnableAvatarGenerationCommon": "True",
     "FFlagEnableEventDetailsNewModalImprovements": "True",
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": "True",
-    "FStringFlagRepoGitHashFastString": "abe606b38dd8349c24c1746b1c18691bac8995e5",
-    "DFStringFlagRepoGitHashDynamicString": "abe606b38dd8349c24c1746b1c18691bac8995e5",
-    "FStringFlipTimeStampFastString": "2025-06-11T03:02:28.144Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-11T03:02:28.144Z"
+    "DFFlagSimSolverImprovedPartialSleepDefaultEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T16:09:35",
+    "FStringFlagRepoGitHashFastString": "268cc55f70812de9d3f91e83997a53c2e1c16de0",
+    "DFStringFlagRepoGitHashDynamicString": "268cc55f70812de9d3f91e83997a53c2e1c16de0",
+    "FStringFlipTimeStampFastString": "2025-06-11T16:46:25.181Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-11T16:46:25.181Z"
 }
