@@ -11539,7 +11539,7 @@
     "DFFlagMemoryStoreQueueGetSizeEnabled_PlaceFilter": "True;102494139763827",
     "FFlagUseConstRefsForLogServiceStringify": "True",
     "FFlagFixReportAdPopupAdInfoType": "True",
-    "FFlagSmoothClusterOcclusionCulling2": "True",
+    "FFlagSmoothClusterOcclusionCulling2": "False",
     "DFFlagUseMeshScaleInVoxelizer2": "False",
     "FFlagWindowsInstallerForceUpdateCacert": "True",
     "DFFlagWebrtcSendPacketsOnWorkerThreadEnabled": "True",
@@ -12589,7 +12589,6 @@
     "FFlagGLES3_0EnableCBs2": "True",
     "DFFlagNoExceptCopyFile": "True",
     "FFlagFFlagEnableAdDataPlayIntentEventIngest": "True",
-    "FFlagSmoothClusterOcclusionCulling2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T01:58:27",
     "FFlagEnableMaterialGenerator": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -12616,8 +12615,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "c4174bcf63d8bb16a1b9f8c926922c1d456d16d5",
-    "DFStringFlagRepoGitHashDynamicString": "c4174bcf63d8bb16a1b9f8c926922c1d456d16d5",
-    "FStringFlipTimeStampFastString": "2025-06-11T01:59:24.447Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-11T01:59:24.447Z"
+    "FStringFlagRepoGitHashFastString": "abe606b38dd8349c24c1746b1c18691bac8995e5",
+    "DFStringFlagRepoGitHashDynamicString": "abe606b38dd8349c24c1746b1c18691bac8995e5",
+    "FStringFlipTimeStampFastString": "2025-06-11T03:02:28.144Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-11T03:02:28.144Z"
 }
