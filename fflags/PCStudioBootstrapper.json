@@ -256,9 +256,9 @@
     "DFIntRakNetSocketSendTimeoutMs": "1000",
     "FFlagWinInstallerReplaceClientStatusURL": "True",
     "FFlagUseCurrentDataModelLocales7": "True",
-    "FIntTelemetryDataReArchTransmissionRollout_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;240697246;2025-06-11T23:24:16",
-    "FFlagTelemetryDataReArchTransmission8_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;240697246;2025-06-11T23:24:16",
-    "FFlagTelemetryDataReArchTransmissionDualWrite3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;240697246;2025-06-11T23:24:16",
+    "FFlagTelemetryDataReArchTransmission8": "True",
+    "FFlagTelemetryDataReArchTransmissionDualWrite3": "False",
+    "FIntTelemetryDataReArchTransmissionRollout": "10",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -273,8 +273,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "2827f3679f427766b97712c37bf117ff47634f17",
-    "DFStringFlagRepoGitHashDynamicString": "2827f3679f427766b97712c37bf117ff47634f17",
-    "FStringFlipTimeStampFastString": "2025-06-11T23:36:21.656Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-11T23:36:21.656Z"
+    "FStringFlagRepoGitHashFastString": "4ce3f35273d4b6f6c421689ca7c4b00b6b76250a",
+    "DFStringFlagRepoGitHashDynamicString": "4ce3f35273d4b6f6c421689ca7c4b00b6b76250a",
+    "FStringFlipTimeStampFastString": "2025-06-12T01:03:49.904Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-12T01:03:49.904Z"
 }
