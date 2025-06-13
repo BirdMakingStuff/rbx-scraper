@@ -11831,7 +11831,7 @@
     "FFlagEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpOverrideEnabled": "True",
     "FFlagEngineVoiceWebrtcRobloxNeteqDynamicMemoryIxpOverrideEnabled": "True",
     "FFlagLuaAppGameInviteFocusable": "True",
-    "FIntTelemetryDataReArchTransmissionRollout": "5",
+    "FIntTelemetryDataReArchTransmissionRollout": "0",
     "FFlagLuaAppExtraCameraLogging": "True",
     "DFFlagSQLiteSkipNonErrors": "True",
     "FFlagSetFastSettingForTestingInCPP": "True",
@@ -11870,7 +11870,6 @@
     "FFlagLuaAppBootcampIntroUABOOTCAMP67": "True",
     "DFFlagProductInfoBatchingEnabled2_PlaceFilter": "True;91867617264223;126884695634066",
     "FIntAvatarPreviewerMaxSerializedModelToSendBytes": "196608",
-    "FIntTelemetryDataReArchTransmissionRollout_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-13T22:26:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12818,8 +12817,8 @@
     "FFlagAXUnifiedLoggingClicks6": "True",
     "FFlagLuaAppEdpSingleColumnAcrossPlatformsIxp": "True",
     "FFlagFriendsRenameSocgraph_5": "True",
-    "FStringFlagRepoGitHashFastString": "e8da112e45455f5032db232e6fa28e1d74bf57ae",
-    "DFStringFlagRepoGitHashDynamicString": "e8da112e45455f5032db232e6fa28e1d74bf57ae",
-    "FStringFlipTimeStampFastString": "2025-06-13T22:29:50.786Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-13T22:29:50.786Z"
+    "FStringFlagRepoGitHashFastString": "30bdb97b9654bb1abc22f2c2986225ac9395966b",
+    "DFStringFlagRepoGitHashDynamicString": "30bdb97b9654bb1abc22f2c2986225ac9395966b",
+    "FStringFlipTimeStampFastString": "2025-06-13T23:33:47.467Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-13T23:33:47.467Z"
 }
