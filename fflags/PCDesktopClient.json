@@ -11868,6 +11868,7 @@
     "FIntUniversalAppPolicyFailureTelemetryThrottleHundredthsPercent": "10000",
     "DFIntMFTHardwareVideoEncoderInitTrackingEventHundredthsPercent": "10000",
     "FFlagLuaAppBootcampIntroUABOOTCAMP67": "True",
+    "FIntAvatarPreviewerMaxSerializedModelToSendBytes_Staged": "196608;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-13T20:30:32",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagUpdateAvatarGestures_PlaceFilter": "True;16818255141",
@@ -12679,8 +12680,8 @@
     "FFlagLuaAppBootcampIntroUABOOTCAMP74": "True",
     "FFlagDisconnectError155431Diag": "True",
     "FFlagDevHardwareVideoCaptureMaster3_IXP": "1;Portal.VideoCaptureEngine.WindowsF12.V1-1749839526;VideoCaptureEngine.WindowsF12.V1;1940851409;flagbank",
-    "FStringFlagRepoGitHashFastString": "d35a10d217e27dbe98d138abfc6ce274d84b9162",
-    "DFStringFlagRepoGitHashDynamicString": "d35a10d217e27dbe98d138abfc6ce274d84b9162",
-    "FStringFlipTimeStampFastString": "2025-06-13T19:18:57.689Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-13T19:18:57.689Z"
+    "FStringFlagRepoGitHashFastString": "135f228a4f21f0371545bd7c6f2b399b02e3a4ca",
+    "DFStringFlagRepoGitHashDynamicString": "135f228a4f21f0371545bd7c6f2b399b02e3a4ca",
+    "FStringFlipTimeStampFastString": "2025-06-13T20:31:58.312Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-13T20:31:58.312Z"
 }
