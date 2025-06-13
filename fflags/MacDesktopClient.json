@@ -12213,6 +12213,7 @@
     "FFlagMakeCaptureServiceSoundServiceClient2": "True",
     "FFlagVideoCaptureTimerCreatedAfterCaptureStarted": "True",
     "FFlagVideoWinEncodeCheckEofBeforeInput": "True",
+    "FIntTelemetryDataReArchTransmissionRollout_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-13T22:26:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12616,8 +12617,8 @@
     "FFlagEnableEventDetailsNewModalImprovements": "True",
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": "True",
     "FFlagDisconnectError155431Diag": "True",
-    "FStringFlagRepoGitHashFastString": "dd4bf4034031762764cdacbbfffd4e2502753c26",
-    "DFStringFlagRepoGitHashDynamicString": "dd4bf4034031762764cdacbbfffd4e2502753c26",
-    "FStringFlipTimeStampFastString": "2025-06-13T21:33:15.184Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-13T21:33:15.184Z"
+    "FStringFlagRepoGitHashFastString": "e8da112e45455f5032db232e6fa28e1d74bf57ae",
+    "DFStringFlagRepoGitHashDynamicString": "e8da112e45455f5032db232e6fa28e1d74bf57ae",
+    "FStringFlipTimeStampFastString": "2025-06-13T22:29:50.786Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-13T22:29:50.786Z"
 }
