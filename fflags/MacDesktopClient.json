@@ -12285,6 +12285,7 @@
     "FFlagLuaAppEnableDataModelStream4": "True",
     "FFlagEnableJoinVoiceVrTelemetry": "True",
     "DFFlagCLI1532801": "True",
+    "FFlagBaseThreadPoolUseRuntime2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-17T02:55:08",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12687,8 +12688,8 @@
     "FFlagDisconnectError155431Diag": "True",
     "FFlagEnableDeviceCheckChallenge": "True",
     "FFlagRefactorPATAddDeviceCheck": "True",
-    "FStringFlagRepoGitHashFastString": "aa66399de99d6cc4c7060d7e399261d96d06bd6d",
-    "DFStringFlagRepoGitHashDynamicString": "aa66399de99d6cc4c7060d7e399261d96d06bd6d",
-    "FStringFlipTimeStampFastString": "2025-06-17T02:17:06.074Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-17T02:17:06.074Z"
+    "FStringFlagRepoGitHashFastString": "9a875325794adaaffd5aa70caa17d9d4a8b199b2",
+    "DFStringFlagRepoGitHashDynamicString": "9a875325794adaaffd5aa70caa17d9d4a8b199b2",
+    "FStringFlipTimeStampFastString": "2025-06-17T02:56:05.331Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-17T02:56:05.331Z"
 }
