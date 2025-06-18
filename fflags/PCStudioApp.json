@@ -11995,6 +11995,7 @@
     "FStringGraphicsGLES3BindBufferPaddingAllowList": ".*",
     "FFlagBootcampCLI149079": "True",
     "FFlagEnableSquadCoordinationExperienceJoinExperiment4": "True",
+    "FFlagCanReplicateSurfaceAppearanceContentPropertiesServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-18T16:08:25",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13595,6 +13596,7 @@
     "FFlagLuauSubtypingCheckFunctionGenericCounts": "True",
     "FFlagLuauUpdateGetMetatableTypeSignature": "True",
     "FFlagLuauMissingFollowInAssignIndexConstraint": "True",
+    "FFlagNewGeometryPipeline_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-18T16:25:20",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13876,8 +13878,8 @@
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": "True",
     "DFFlagEnableStudioStartupCounter": "True",
     "DFFlagEnableStudioUserActionCounter": "True",
-    "FStringFlagRepoGitHashFastString": "aaeceb42627e5e1293211989778b269229f373aa",
-    "DFStringFlagRepoGitHashDynamicString": "aaeceb42627e5e1293211989778b269229f373aa",
-    "FStringFlipTimeStampFastString": "2025-06-18T01:14:45.035Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-18T01:14:45.035Z"
+    "FStringFlagRepoGitHashFastString": "a4dff36a04ff29853c7cfd28bd731c0677f566d9",
+    "DFStringFlagRepoGitHashDynamicString": "a4dff36a04ff29853c7cfd28bd731c0677f566d9",
+    "FStringFlipTimeStampFastString": "2025-06-18T16:32:07.235Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-18T16:32:07.235Z"
 }

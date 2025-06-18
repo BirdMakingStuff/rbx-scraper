@@ -11995,6 +11995,8 @@
     "FStringGraphicsGLES3BindBufferPaddingAllowList": ".*",
     "FFlagBootcampCLI149079": "True",
     "FFlagEnableSquadCoordinationExperienceJoinExperiment4": "True",
+    "FFlagCanReplicateSurfaceAppearanceContentPropertiesServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-18T16:08:25",
+    "FFlagNewCameraControls_PanTiltFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-18T16:16:12",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12365,8 +12367,10 @@
     "FFlagFriendsRenameSocgraph_5": "False",
     "FFlagLuaAppEdpSingleColumnAcrossPlatformsIxp": "True",
     "FFlagNewUpsellModalExperimentForPlatform": "True",
-    "FStringFlagRepoGitHashFastString": "aaeceb42627e5e1293211989778b269229f373aa",
-    "DFStringFlagRepoGitHashDynamicString": "aaeceb42627e5e1293211989778b269229f373aa",
-    "FStringFlipTimeStampFastString": "2025-06-18T01:14:45.035Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-18T01:14:45.035Z"
+    "DFIntGcInParallelWithRenderPrepareEventHundredthsPercent_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-18T16:30:47",
+    "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec_Staged": "601;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-18T16:30:47",
+    "FStringFlagRepoGitHashFastString": "a4dff36a04ff29853c7cfd28bd731c0677f566d9",
+    "DFStringFlagRepoGitHashDynamicString": "a4dff36a04ff29853c7cfd28bd731c0677f566d9",
+    "FStringFlipTimeStampFastString": "2025-06-18T16:32:07.235Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-18T16:32:07.235Z"
 }
