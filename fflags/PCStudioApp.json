@@ -11920,7 +11920,7 @@
     "DFFlagAeroUseNewInterpolatorReducedMeshYield": "True",
     "FFlagAttachmentsLoosenErrors": "True",
     "FFlagAXAddTransparencyToItemCardHeader": "True",
-    "DFFlagProductInfoBatchingEnabled2": "True",
+    "DFFlagProductInfoBatchingEnabled2": "False",
     "DFFlagReportAutoSelectGuiInvoked": "False",
     "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": "False",
     "FFlagSimEditableRemoveDoubleTranscoding": "True",
@@ -13605,7 +13605,6 @@
     "FFlagLuauMissingFollowInAssignIndexConstraint": "True",
     "FFlagNewGeometryPipeline": "True",
     "FFlagStudioDebuggingActionsContextConversion3": "True",
-    "DFFlagProductInfoBatchingEnabled2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-18T22:17:45",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13887,8 +13886,8 @@
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": "True",
     "DFFlagEnableStudioStartupCounter": "True",
     "DFFlagEnableStudioUserActionCounter": "True",
-    "FStringFlagRepoGitHashFastString": "37c2fa3989fc1c14eb781cab314b8b7e97369bd7",
-    "DFStringFlagRepoGitHashDynamicString": "37c2fa3989fc1c14eb781cab314b8b7e97369bd7",
-    "FStringFlipTimeStampFastString": "2025-06-18T22:21:50.728Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-18T22:21:50.728Z"
+    "FStringFlagRepoGitHashFastString": "03b91a13467cc8ad71d086eb3104fc0922913305",
+    "DFStringFlagRepoGitHashDynamicString": "03b91a13467cc8ad71d086eb3104fc0922913305",
+    "FStringFlipTimeStampFastString": "2025-06-18T23:37:53.447Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-18T23:37:53.447Z"
 }
