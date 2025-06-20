@@ -12015,12 +12015,12 @@
     "FFlagMemoizeBubbleChatApp_IXP": "1;ExperienceChat.Performance;FFlagMemoizeBubbleChatApp;1971971952;flagbank",
     "FFlagBootcampCLI155350": "True",
     "DFFlagReportRuppDeserializationErrorsV2": "True",
-    "FFlagStudioHideTooltipsOnMouseLeave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T18:47:07",
     "FFlagAXCatalogCreatorName": "True",
     "FFlagAXFixLookPurchaseLogging": "True",
     "FFlagAXLookDetailsKeepTopBarHeight": "True",
     "FFlagAXLookDetailsPeekViewDidUpdateFix": "True",
     "FFlagFFlagAXLookDetailsChevronSpacing": "True",
+    "FFlagStudioHideTooltipsOnMouseLeave": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -12768,8 +12768,8 @@
     "FFlagFixBTIDState": "True",
     "DFFlagVideoCaptureEngineOnlyFinalizeWhenCapturing": "True",
     "FFlagAddLearnTile1": "True",
-    "FStringFlagRepoGitHashFastString": "bcb83434923caa7ad35871d2b0519b1936415afd",
-    "DFStringFlagRepoGitHashDynamicString": "bcb83434923caa7ad35871d2b0519b1936415afd",
-    "FStringFlipTimeStampFastString": "2025-06-20T19:32:34.820Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-20T19:32:34.820Z"
+    "FStringFlagRepoGitHashFastString": "2672fc74ceacad6780028c06612fac89e715c6c6",
+    "DFStringFlagRepoGitHashDynamicString": "2672fc74ceacad6780028c06612fac89e715c6c6",
+    "FStringFlipTimeStampFastString": "2025-06-20T19:53:53.101Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-20T19:53:53.101Z"
 }
