@@ -12004,6 +12004,11 @@
     "FFlagIASMouseKeycodeAnalyticsCheck": "True",
     "DFFlagConsolidateAdStatsLogging": "True",
     "FFlagUwpGracefulExit": "True",
+    "FFlagGamepadUsesClosestVisibleDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T16:18:59",
+    "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagNoLongerServeXboxGamerPic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T16:23:56",
+    "FFlagThirdPartyRegisterUseWeakPtr_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T16:30:18",
+    "MoveStoreLinksToBuildConfig": "true",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13605,7 +13610,6 @@
     "FFlagLuauMissingFollowInAssignIndexConstraint": "True",
     "FFlagNewGeometryPipeline": "True",
     "FFlagStudioDebuggingActionsContextConversion3": "True",
-    "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13895,8 +13899,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "f195d323dfaba717e98a425b4d753fcd2437ee7a",
-    "DFStringFlagRepoGitHashDynamicString": "f195d323dfaba717e98a425b4d753fcd2437ee7a",
-    "FStringFlipTimeStampFastString": "2025-06-18T23:42:35.440Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-18T23:42:35.440Z"
+    "FStringFlagRepoGitHashFastString": "2affc0e3865900137e7156d3301fd27499cbc656",
+    "DFStringFlagRepoGitHashDynamicString": "2affc0e3865900137e7156d3301fd27499cbc656",
+    "FStringFlipTimeStampFastString": "2025-06-20T16:40:46.188Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-20T16:40:46.188Z"
 }
