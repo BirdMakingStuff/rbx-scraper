@@ -12021,7 +12021,7 @@
     "FFlagFFlagAXLookDetailsChevronSpacing": "True",
     "FFlagStudioHideTooltipsOnMouseLeave": "False",
     "DFFlagStreamJobNoItemLod3_PlaceFilter": "False;17350080740",
-    "DFFlagProductInfoBatchingEnabled2_PlaceFilter": "False;109983668079237",
+    "DFFlagProductInfoBatchingEnabled2_PlaceFilter": "True;126884695634066;91867617264223",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13926,8 +13926,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "203be7a1793acae115299b19dcf06c67becaa511",
-    "DFStringFlagRepoGitHashDynamicString": "203be7a1793acae115299b19dcf06c67becaa511",
-    "FStringFlipTimeStampFastString": "2025-06-21T17:39:52.026Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-21T17:39:52.026Z"
+    "FStringFlagRepoGitHashFastString": "ca486117b8de3d71ff4a5ad4571a27cdad625ea0",
+    "DFStringFlagRepoGitHashDynamicString": "ca486117b8de3d71ff4a5ad4571a27cdad625ea0",
+    "FStringFlipTimeStampFastString": "2025-06-21T18:58:40.584Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-21T18:58:40.584Z"
 }

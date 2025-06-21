@@ -12021,7 +12021,7 @@
     "FFlagFFlagAXLookDetailsChevronSpacing": "True",
     "FFlagStudioHideTooltipsOnMouseLeave": "True",
     "DFFlagStreamJobNoItemLod3_PlaceFilter": "False;17350080740",
-    "DFFlagProductInfoBatchingEnabled2_PlaceFilter": "False;109983668079237",
+    "DFFlagProductInfoBatchingEnabled2_PlaceFilter": "True;126884695634066;91867617264223",
     "DFFlagProductInfoBatchingEnabled2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-21T17:38:59",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
@@ -12393,8 +12393,8 @@
     "FFlagFriendsRenameSocgraph_5": "False",
     "FFlagLuaAppEdpSingleColumnAcrossPlatformsIxp": "True",
     "FFlagNewUpsellModalExperimentForPlatform": "True",
-    "FStringFlagRepoGitHashFastString": "203be7a1793acae115299b19dcf06c67becaa511",
-    "DFStringFlagRepoGitHashDynamicString": "203be7a1793acae115299b19dcf06c67becaa511",
-    "FStringFlipTimeStampFastString": "2025-06-21T17:39:52.026Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-21T17:39:52.026Z"
+    "FStringFlagRepoGitHashFastString": "ca486117b8de3d71ff4a5ad4571a27cdad625ea0",
+    "DFStringFlagRepoGitHashDynamicString": "ca486117b8de3d71ff4a5ad4571a27cdad625ea0",
+    "FStringFlipTimeStampFastString": "2025-06-21T18:58:40.584Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-21T18:58:40.584Z"
 }
