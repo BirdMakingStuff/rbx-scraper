@@ -12426,7 +12426,7 @@
     "FFlagBootcampCLI157182": "True",
     "FFlagEnableCEVErrorRCCTimeoutLogs": "True",
     "FFlagReportAssetRequestType": "True",
-    "FFlagAddUILessMode": "True",
+    "FFlagAddUILessMode": "False",
     "FStringAddUILessModeIxpLayer": "Experience.Menu.UILess.Exposure",
     "FIntTopBarToggledThrottleHundredthsPercent": "10000",
     "FIntUILessTooltipDuration": "10",
@@ -12442,7 +12442,6 @@
     "FFlagAXUnifiedLoggingClicks8": "True",
     "FFlagUIBloxUseGridInfoForTile": "True",
     "DFFlagReportCharHashDescriptionLC2": "True",
-    "FFlagAddUILessMode_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T01:23:48",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12844,8 +12843,8 @@
     "FFlagAddLearnTile1": "True",
     "FFlagPartyVoiceFixCaptureVideoCheck": "True",
     "DFFlagCrash154722Diag": "True",
-    "FStringFlagRepoGitHashFastString": "3a9b4b9291132b51e3d5b8fc64e9be8e0054c4ad",
-    "DFStringFlagRepoGitHashDynamicString": "3a9b4b9291132b51e3d5b8fc64e9be8e0054c4ad",
-    "FStringFlipTimeStampFastString": "2025-06-24T01:26:31.429Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-24T01:26:31.429Z"
+    "FStringFlagRepoGitHashFastString": "e22628091ab68212449db2be0d0118b28137165a",
+    "DFStringFlagRepoGitHashDynamicString": "e22628091ab68212449db2be0d0118b28137165a",
+    "FStringFlipTimeStampFastString": "2025-06-24T02:32:29.450Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-24T02:32:29.450Z"
 }
