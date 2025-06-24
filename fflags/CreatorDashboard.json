@@ -70,5 +70,7 @@
     "regionalPricingEnabledBannerDevForumUrl": "https://devforum.roblox.com/t/coming-soon-regional-pricing-for-avatar-items/3676358",
     "enableRegionalPricingEnabledBanner": "true",
     "disableJuneNinthLaunchAnnouncementRegionalPricing": "true",
-    "enableInvalidGameId404Page": "true"
+    "enableInvalidGameId404Page": "true",
+    "enableGetItemConfigurePage": "true",
+    "enableGetAllowedAssetTypes": "true"
 }
