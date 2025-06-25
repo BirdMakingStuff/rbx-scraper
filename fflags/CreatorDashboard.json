@@ -72,5 +72,6 @@
     "disableJuneNinthLaunchAnnouncementRegionalPricing": "true",
     "enableInvalidGameId404Page": "true",
     "enableGetItemConfigurePage": "false",
-    "enableGetAllowedAssetTypes": "true"
+    "enableGetAllowedAssetTypes": "true",
+    "enableYourPlaceCreation": "true"
 }
