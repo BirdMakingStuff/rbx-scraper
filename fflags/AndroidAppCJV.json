@@ -11164,8 +11164,9 @@
     "DFIntIsrMetricsAggregateEventThrottleHP": "100",
     "DFStringAndroidDeprecationMinUpgrade": "26",
     "FFlagCapturesVideoCaptureEntrypointLogsEnabled": "True",
-    "FFlagNextGenReplicatorEnabledWrite4_PlaceFilter": "True;189707",
     "DFIntIsrMetricsAggregateEventThrottleHP_PlaceFilter": "10000;189707",
+    "DFIntCloudLocalizationTableMaxPendingCallbacks_PlaceFilter": "0;11575337706",
+    "DFFlagCloudLocalizationTableEnablePendingCallbackMax_PlaceFilter": "True;11575337706",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12031,8 +12032,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "10f4db6a0e4aa24f645b655744977d9cd2ba0461",
-    "DFStringFlagRepoGitHashDynamicString": "10f4db6a0e4aa24f645b655744977d9cd2ba0461",
-    "FStringFlipTimeStampFastString": "2025-06-27T20:03:47.085Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-27T20:03:47.085Z"
+    "FStringFlagRepoGitHashFastString": "4097c794cd8d8164e2be6b862d3a42993db45e05",
+    "DFStringFlagRepoGitHashDynamicString": "4097c794cd8d8164e2be6b862d3a42993db45e05",
+    "FStringFlipTimeStampFastString": "2025-06-27T22:42:12.723Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-27T22:42:12.723Z"
 }
