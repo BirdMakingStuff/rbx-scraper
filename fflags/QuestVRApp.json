@@ -11157,6 +11157,12 @@
     "DFFlagSimExecuteClientOnlyFallenParts": "True",
     "DFFlagCrash155229Fix": "True",
     "FFlagPerformanceControlMemInfoPread2": "True",
+    "DFFlagISRAddTimePerformanceMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-27T15:42:13",
+    "DFFlagISRForceSendGroupPerStepReplicatorCall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-27T15:42:13",
+    "DFFlagISRLimitSimulationRadiusToNOUCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-27T15:42:13",
+    "DFFlagISRReadWriteFACSCompatability_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-27T15:42:13",
+    "DFIntIsrMetricsAggregateEventThrottleHP_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-27T15:42:13",
+    "DFStringAndroidDeprecationMinUpgrade_Staged": "26;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-27T16:37:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11993,6 +11999,7 @@
     "FFlagLoadTexturesWithReadOnlySharedBuffer": "True",
     "FFlagFixDisconnectErrorCode": "True",
     "DFFlagCrash154722Diag": "True",
+    "FFlagEnableForwardGeneralExperienceLocaleValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-27T16:00:38",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -12055,8 +12062,8 @@
     "FFlagLuaAppIECVREnabled4_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.3.Flags;2086819400;flagbank",
     "FFlagSpatialUIEnableDrag_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.3.Flags;2086819400;flagbank",
     "FFlagNewUpsellModalExperimentForPlatform": "True",
-    "FStringFlagRepoGitHashFastString": "89230621bdd67716ca785309c5a30dd54b96f11c",
-    "DFStringFlagRepoGitHashDynamicString": "89230621bdd67716ca785309c5a30dd54b96f11c",
-    "FStringFlipTimeStampFastString": "2025-06-27T01:23:15.565Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-27T01:23:15.565Z"
+    "FStringFlagRepoGitHashFastString": "7f13d5e9a07a7928d41c777a8e0453f4549c3687",
+    "DFStringFlagRepoGitHashDynamicString": "7f13d5e9a07a7928d41c777a8e0453f4549c3687",
+    "FStringFlipTimeStampFastString": "2025-06-27T16:45:02.466Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-27T16:45:02.466Z"
 }
