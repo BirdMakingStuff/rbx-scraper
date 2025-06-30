@@ -11167,6 +11167,11 @@
     "DFIntIsrMetricsAggregateEventThrottleHP_PlaceFilter": "10000;189707",
     "DFIntCloudLocalizationTableMaxPendingCallbacks_PlaceFilter": "0;11575337706",
     "DFFlagCloudLocalizationTableEnablePendingCallbackMax_PlaceFilter": "True;11575337706",
+    "DFFlagLuauGcAgainstOom_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T16:24:05",
+    "DFFlagSignalArgumentSpace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T16:24:46",
+    "DFFlagEnableAdsApiClientValidateAdReward3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T16:29:32",
+    "FFlagToolboxValidSizeAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T16:31:40",
+    "FFlagFixSearchListPreferredTextSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T16:34:38",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11452,8 +11457,8 @@
     "FFlagEnableEconomicRestrictionsInExpUpsell": "True",
     "FFlagFixDisconnectErrorCode": "True",
     "DFFlagCrash154722Diag": "True",
-    "FStringFlagRepoGitHashFastString": "a0365d9b6f38a2cdc9e9832408009832adc8e8ab",
-    "DFStringFlagRepoGitHashDynamicString": "a0365d9b6f38a2cdc9e9832408009832adc8e8ab",
-    "FStringFlipTimeStampFastString": "2025-06-28T18:17:37.271Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-28T18:17:37.271Z"
+    "FStringFlagRepoGitHashFastString": "3a7af6d28101a680fc1742a3849ed1a9d3a05ad1",
+    "DFStringFlagRepoGitHashDynamicString": "3a7af6d28101a680fc1742a3849ed1a9d3a05ad1",
+    "FStringFlipTimeStampFastString": "2025-06-30T16:48:05.205Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-30T16:48:05.205Z"
 }
