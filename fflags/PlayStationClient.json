@@ -11248,7 +11248,9 @@
     "FFlagTelemetryUseStandardNanAndInf2": "True",
     "FFlagProfilePlatformRemoveTCEvent": "True",
     "FFlagTCEducation18PlusText": "True",
+    "FFlagRelocateMobileMenuButtons2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-01T16:09:33",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
+    "DFFlagReduceGmaAdReferenceCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-01T16:21:22",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
     "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
@@ -11495,8 +11497,8 @@
     "FFlagEnableEconomicRestrictionsInExpUpsell": "True",
     "FFlagChangeSocialGraphLifecycleEvent": "True",
     "DFFlagBlanketFSExceptCatch": "True",
-    "FStringFlagRepoGitHashFastString": "9eef130fa255730abdd2d93b6712e7c9ae83a3a8",
-    "DFStringFlagRepoGitHashDynamicString": "9eef130fa255730abdd2d93b6712e7c9ae83a3a8",
-    "FStringFlipTimeStampFastString": "2025-07-01T00:57:23.915Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-01T00:57:23.915Z"
+    "FStringFlagRepoGitHashFastString": "774360592d9cf481cea23b71c51a50b402c648c9",
+    "DFStringFlagRepoGitHashDynamicString": "774360592d9cf481cea23b71c51a50b402c648c9",
+    "FStringFlipTimeStampFastString": "2025-07-01T16:22:14.533Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-01T16:22:14.533Z"
 }
