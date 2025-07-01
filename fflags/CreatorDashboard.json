@@ -47,5 +47,6 @@
     "enableInvalidGameId404Page": "true",
     "enableGetItemConfigurePage": "false",
     "enableGetAllowedAssetTypes": "true",
-    "enableYourPlaceCreation": "true"
+    "enableYourPlaceCreation": "true",
+    "enableCreatorControlsAgeGate": "false"
 }
