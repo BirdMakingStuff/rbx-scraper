@@ -11561,9 +11561,9 @@
     "FFlagEnableEconomicRestrictionsInExpUpsell": "True",
     "FFlagChangeSocialGraphLifecycleEvent": "True",
     "DFFlagBlanketFSExceptCatch": "True",
-    "FFlagLocServicePerformanceAnalyticsEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-02T17:36:10",
-    "FStringFlagRepoGitHashFastString": "c0cceb6ecc721701c78798a2061d0ff15484cee0",
-    "DFStringFlagRepoGitHashDynamicString": "c0cceb6ecc721701c78798a2061d0ff15484cee0",
-    "FStringFlipTimeStampFastString": "2025-07-02T18:41:32.098Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-02T18:41:32.098Z"
+    "FFlagLocServicePerformanceAnalyticsEnabled": "True",
+    "FStringFlagRepoGitHashFastString": "add22953afa497fbc47c1121cf22050eb686e516",
+    "DFStringFlagRepoGitHashDynamicString": "add22953afa497fbc47c1121cf22050eb686e516",
+    "FStringFlipTimeStampFastString": "2025-07-02T19:06:15.084Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-02T19:06:15.084Z"
 }

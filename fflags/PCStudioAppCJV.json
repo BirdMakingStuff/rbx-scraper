@@ -13175,7 +13175,7 @@
     "FFlagAXUnifiedLoggingImpressions2": "True",
     "FFlagAXEnableAccessoryAdjustmentDuringTryOn2": "True",
     "FFlagCoalesceDebouncingReplicatorPropChange": "True",
-    "FFlagVideoCaptureUseRbxStorageAndThumbnail4": "True",
+    "FFlagVideoCaptureUseRbxStorageAndThumbnail4": "False",
     "FFlagLuaAppUnifyPlayButtonTile2": "True",
     "DFFlagEnableCppSoundTelemetry6": "True",
     "DFFlagBlanketFSExceptCatch": "True",
@@ -13183,7 +13183,6 @@
     "DFIntDataPingTraceReportThrottleSec": "60",
     "FIntFCSkeletonIgnoreUnusedPartsMode_PlaceFilter": "2;109983668079237",
     "DFIntReportCharHashDescriptionLCEventsThrottleHundrethsPercent": "100",
-    "FFlagVideoCaptureUseRbxStorageAndThumbnail4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-02T17:47:17",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13223,8 +13222,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "c0cceb6ecc721701c78798a2061d0ff15484cee0",
-    "DFStringFlagRepoGitHashDynamicString": "c0cceb6ecc721701c78798a2061d0ff15484cee0",
-    "FStringFlipTimeStampFastString": "2025-07-02T18:41:32.098Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-02T18:41:32.098Z"
+    "FStringFlagRepoGitHashFastString": "add22953afa497fbc47c1121cf22050eb686e516",
+    "DFStringFlagRepoGitHashDynamicString": "add22953afa497fbc47c1121cf22050eb686e516",
+    "FStringFlipTimeStampFastString": "2025-07-02T19:06:15.084Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-02T19:06:15.084Z"
 }
