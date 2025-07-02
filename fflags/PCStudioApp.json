@@ -11316,6 +11316,7 @@
     "DFFlagDataStoreReEntrantFix": "True",
     "FFlagLuaAppEdpMediaGallerySelectedMediaEntriesRefactor": "True",
     "FFlagEnableUpsellSuggestionsAPIV2_PlaceFilter": "True;99701605107300",
+    "FFlagEnableUpsellSuggestionsAPIV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-02T19:47:39",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13213,8 +13214,8 @@
     "FFlagWebBrowserEnableLowMemoryMode": "True",
     "FFlagToolboxValidSizeRetry2": "True",
     "FFlagTextureUseACR5": "True",
-    "FStringFlagRepoGitHashFastString": "add22953afa497fbc47c1121cf22050eb686e516",
-    "DFStringFlagRepoGitHashDynamicString": "add22953afa497fbc47c1121cf22050eb686e516",
-    "FStringFlipTimeStampFastString": "2025-07-02T19:06:15.084Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-02T19:06:15.084Z"
+    "FStringFlagRepoGitHashFastString": "efc02b9f8282ada3c30fd0d97dddd209ee9f4648",
+    "DFStringFlagRepoGitHashDynamicString": "efc02b9f8282ada3c30fd0d97dddd209ee9f4648",
+    "FStringFlipTimeStampFastString": "2025-07-02T19:49:23.287Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-02T19:49:23.287Z"
 }
