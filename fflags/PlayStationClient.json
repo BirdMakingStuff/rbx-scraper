@@ -10895,7 +10895,7 @@
     "FFlagDevFrameworkViewTypeButtonBg": "True",
     "DFFlagPlayStationAudioInputDeviceFiltering": "True",
     "FFlagEnableWideModeForCommunityProfilePage": "True",
-    "FFlagExperienceEventAPISEnabled": "True",
+    "FFlagExperienceEventAPISEnabled": "False",
     "FFlagLuaAppFixRsvpLoggingEvent": "True",
     "FFlagGraphicsGLESPersistentUboAlignedBufferPadding": "True",
     "FFlagDisableReferredByPlayerIdTelemetryInCoreScript": "True",
@@ -11563,9 +11563,8 @@
     "FFlagChangeSocialGraphLifecycleEvent": "True",
     "DFFlagBlanketFSExceptCatch": "True",
     "FFlagLocServicePerformanceAnalyticsEnabled": "True",
-    "FFlagExperienceEventAPISEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-03T20:31:11",
-    "FStringFlagRepoGitHashFastString": "7bd8f48525f569148362f299209afd13c0a6e014",
-    "DFStringFlagRepoGitHashDynamicString": "7bd8f48525f569148362f299209afd13c0a6e014",
-    "FStringFlipTimeStampFastString": "2025-07-03T20:32:14.811Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-03T20:32:14.811Z"
+    "FStringFlagRepoGitHashFastString": "377fa743a85087ae85d1cf2327cb9b3ef9dd4ff1",
+    "DFStringFlagRepoGitHashDynamicString": "377fa743a85087ae85d1cf2327cb9b3ef9dd4ff1",
+    "FStringFlipTimeStampFastString": "2025-07-03T21:37:10.070Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-03T21:37:10.070Z"
 }
