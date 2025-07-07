@@ -270,8 +270,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "0bf4a9cedca027404528000e42b3be22734847a5",
-    "DFStringFlagRepoGitHashDynamicString": "0bf4a9cedca027404528000e42b3be22734847a5",
-    "FStringFlipTimeStampFastString": "2025-07-07T18:49:28.978Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-07T18:49:28.978Z"
+    "FStringFlagRepoGitHashFastString": "fbb6983fe93e2fd60f1f0a2e0871ff9f52fcbc3c",
+    "DFStringFlagRepoGitHashDynamicString": "fbb6983fe93e2fd60f1f0a2e0871ff9f52fcbc3c",
+    "FStringFlipTimeStampFastString": "2025-07-07T19:31:36.111Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-07T19:31:36.111Z"
 }
