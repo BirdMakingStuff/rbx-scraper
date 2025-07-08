@@ -11383,6 +11383,10 @@
     "FFlagRenameFriendsToConnectionsAppChat2": "True",
     "FFlagRbxStorageNoMemoryKeyMap": "True",
     "FFlagSwitchLocalizationInPurchaseErrorPromptV2": "True",
+    "FFlagStudioTourNewExplorer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-08T16:18:02",
+    "DFFlagRakTracingSupportCommon_Staged": "True;SteadyState;10;30;Revert;2025-07-08T16:21:42",
+    "FFlagAuthAnalyticsAddFieldToAuthModalShownEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-08T16:27:09",
+    "FFlagFilterNotificationsForPCGDKEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-08T16:28:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12215,6 +12219,7 @@
     "FFlagAddL2SessionTagAssetReadLogger": "True",
     "FFlagEnableUpsellSuggestionsAnalyticsId": "True",
     "EnableRoomDB7": "True",
+    "FFlagNavigateToBlockingModal_1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-08T16:03:31",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -12277,8 +12282,8 @@
     "FFlagLuaAppIECVREnabled4_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.3.Flags;2086819400;flagbank",
     "FFlagSpatialUIEnableDrag_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.3.Flags;2086819400;flagbank",
     "FFlagNewUpsellModalExperimentForPlatform": "True",
-    "FStringFlagRepoGitHashFastString": "f93b7e8caa0567e96580c93efff8d2f05eaf2b0f",
-    "DFStringFlagRepoGitHashDynamicString": "f93b7e8caa0567e96580c93efff8d2f05eaf2b0f",
-    "FStringFlipTimeStampFastString": "2025-07-08T01:21:53.305Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-08T01:21:53.305Z"
+    "FStringFlagRepoGitHashFastString": "9a4078266788c87c01eafd1705c42bd3f7793a05",
+    "DFStringFlagRepoGitHashDynamicString": "9a4078266788c87c01eafd1705c42bd3f7793a05",
+    "FStringFlipTimeStampFastString": "2025-07-08T16:29:07.128Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-08T16:29:07.128Z"
 }
