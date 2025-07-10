@@ -11489,6 +11489,7 @@
     "FFlagGamepadAnalyticsStoreConnections": "True",
     "FFlagAsyncAssetProviderShutdown": "True",
     "FFlagFFlagAXMigrateTabBarMainNavigationToFocusNavigation": "False",
+    "FFlagUseSplitOctree4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-10T16:21:16",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12313,8 +12314,8 @@
     "FStringPerformanceControlLogisticOomModelJson": "{\\\"oomPredictionThreshold\\\":0.4594403398686916,\\\"oddsOfOomExpression\\\":\\\"-4.148502271073587 + 0.0215829485928127 * <int>MemoryStats::androidOomScore + 3.52736051625913 * <uint64_t>MemoryStats::totalFreeSwapBytes / <uint64_t>MemoryStats::totalSwapBytes + -23.161083346765377 * <uint64_t>MemoryStats::androidFreeMemoryBytes / <uint64_t>MemoryStats::totalMemoryBytes\\\",\\\"memoryBufferShiftExpression\\\":\\\"(<uint64_t>MemoryStats::androidFreeMemoryBytes / <uint64_t>MemoryStats::totalMemoryBytes - (-0.7777461827 - (-4.148502271073587 + 0.0215829485928127 * <int>MemoryStats::androidOomScore + 3.52736051625913 * <uint64_t>MemoryStats::totalFreeSwapBytes / <uint64_t>MemoryStats::totalSwapBytes)) / -23.161083346765377) * <uint64_t>MemoryStats::totalMemoryBytes\\\"}",
     "FFlagUseBlockingModal_4": "True",
     "FFlagPerformanceControlLogisticOomModelTelemetry": "True",
-    "FStringFlagRepoGitHashFastString": "cee42c49205bfc72e70e606a291b92c899afd7d7",
-    "DFStringFlagRepoGitHashDynamicString": "cee42c49205bfc72e70e606a291b92c899afd7d7",
-    "FStringFlipTimeStampFastString": "2025-07-10T03:13:06.662Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-10T03:13:06.662Z"
+    "FStringFlagRepoGitHashFastString": "e6b8902089b677e969b8c143605b5f334de2610c",
+    "DFStringFlagRepoGitHashDynamicString": "e6b8902089b677e969b8c143605b5f334de2610c",
+    "FStringFlipTimeStampFastString": "2025-07-10T16:49:50.279Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-10T16:49:50.279Z"
 }
