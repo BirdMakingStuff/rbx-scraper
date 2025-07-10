@@ -11411,7 +11411,7 @@
     "FFlagEnableEconomicRestrictionsOnBuyRobuxPage": "True",
     "DFFlagDontRenderTextStrokeThicknessZero": "True",
     "FFlagObjectExporterSupportEditableImage": "True",
-    "DFFlagWindowsCleanUpOldVersions": "True",
+    "DFFlagWindowsCleanUpOldVersions": "False",
     "FFlagEnableEconomicRestrictionsInExpUpsell": "True",
     "FFlagIEAvatarAutoSetupBetaFeature": "True",
     "FFlagCanReplicateDecalContentPropertiesServer": "True",
@@ -12313,8 +12313,8 @@
     "FStringPerformanceControlLogisticOomModelJson": "{\\\"oomPredictionThreshold\\\":0.4594403398686916,\\\"oddsOfOomExpression\\\":\\\"-4.148502271073587 + 0.0215829485928127 * <int>MemoryStats::androidOomScore + 3.52736051625913 * <uint64_t>MemoryStats::totalFreeSwapBytes / <uint64_t>MemoryStats::totalSwapBytes + -23.161083346765377 * <uint64_t>MemoryStats::androidFreeMemoryBytes / <uint64_t>MemoryStats::totalMemoryBytes\\\",\\\"memoryBufferShiftExpression\\\":\\\"(<uint64_t>MemoryStats::androidFreeMemoryBytes / <uint64_t>MemoryStats::totalMemoryBytes - (-0.7777461827 - (-4.148502271073587 + 0.0215829485928127 * <int>MemoryStats::androidOomScore + 3.52736051625913 * <uint64_t>MemoryStats::totalFreeSwapBytes / <uint64_t>MemoryStats::totalSwapBytes)) / -23.161083346765377) * <uint64_t>MemoryStats::totalMemoryBytes\\\"}",
     "FFlagUseBlockingModal_4": "True",
     "FFlagPerformanceControlLogisticOomModelTelemetry": "True",
-    "FStringFlagRepoGitHashFastString": "9e29a3c32fd0afa1d3d88a2bc77342c0a8db4ef9",
-    "DFStringFlagRepoGitHashDynamicString": "9e29a3c32fd0afa1d3d88a2bc77342c0a8db4ef9",
-    "FStringFlipTimeStampFastString": "2025-07-10T01:23:07.673Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-10T01:23:07.673Z"
+    "FStringFlagRepoGitHashFastString": "cee42c49205bfc72e70e606a291b92c899afd7d7",
+    "DFStringFlagRepoGitHashDynamicString": "cee42c49205bfc72e70e606a291b92c899afd7d7",
+    "FStringFlipTimeStampFastString": "2025-07-10T03:13:06.662Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-10T03:13:06.662Z"
 }

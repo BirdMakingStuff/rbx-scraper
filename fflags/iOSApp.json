@@ -11411,7 +11411,7 @@
     "FFlagEnableEconomicRestrictionsOnBuyRobuxPage": "True",
     "DFFlagDontRenderTextStrokeThicknessZero": "True",
     "FFlagObjectExporterSupportEditableImage": "True",
-    "DFFlagWindowsCleanUpOldVersions": "True",
+    "DFFlagWindowsCleanUpOldVersions": "False",
     "FFlagEnableEconomicRestrictionsInExpUpsell": "True",
     "FFlagIEAvatarAutoSetupBetaFeature": "True",
     "FFlagCanReplicateDecalContentPropertiesServer": "True",
@@ -12320,8 +12320,8 @@
     "FFlagFixConnectionRemovedToast": "True",
     "FFlagAccountSettingsUpsellHideTabBar": "True",
     "FFlagRSVPPromptUseConsistentBadgeComponent": "True",
-    "FStringFlagRepoGitHashFastString": "9e29a3c32fd0afa1d3d88a2bc77342c0a8db4ef9",
-    "DFStringFlagRepoGitHashDynamicString": "9e29a3c32fd0afa1d3d88a2bc77342c0a8db4ef9",
-    "FStringFlipTimeStampFastString": "2025-07-10T01:23:07.673Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-10T01:23:07.673Z"
+    "FStringFlagRepoGitHashFastString": "cee42c49205bfc72e70e606a291b92c899afd7d7",
+    "DFStringFlagRepoGitHashDynamicString": "cee42c49205bfc72e70e606a291b92c899afd7d7",
+    "FStringFlipTimeStampFastString": "2025-07-10T03:13:06.662Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-10T03:13:06.662Z"
 }
