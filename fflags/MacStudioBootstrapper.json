@@ -261,6 +261,7 @@
     "FFlagWinInstallerAcquireMoreDiskSpace": "True",
     "FFlagWinInstallerCreateCurrentDownloadLockFile": "True",
     "FFlagProvideArgsForInExperienceOverlay": "True",
+    "DFLogBootcampCLI158749Log": "Info",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -273,8 +274,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "9e4a110ce0a3a1edeaace6344fe55e1ac253befe",
-    "DFStringFlagRepoGitHashDynamicString": "9e4a110ce0a3a1edeaace6344fe55e1ac253befe",
-    "FStringFlipTimeStampFastString": "2025-07-10T23:36:54.518Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-10T23:36:54.518Z"
+    "FStringFlagRepoGitHashFastString": "3e2d5df93beba3ed76d68c9951f9c89fa6319dc1",
+    "DFStringFlagRepoGitHashDynamicString": "3e2d5df93beba3ed76d68c9951f9c89fa6319dc1",
+    "FStringFlipTimeStampFastString": "2025-07-11T00:59:12.227Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-11T00:59:12.227Z"
 }
