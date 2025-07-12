@@ -13417,7 +13417,7 @@
     "FFlagUseBlockingModal_4": "True",
     "DFFlagWrappedThreadCreate": "True",
     "FFlagTextBoxRoundUpCursorPosOnSetText3": "True",
-    "FFlagBlockLoadWhenAdIsPlaying": "True",
+    "FFlagBlockLoadWhenAdIsPlaying": "False",
     "FFlagVmDataNoTls": "True",
     "FFlagAXUnifiedLoggingClicks14": "True",
     "FFlagAXUnifiedLoggingImpressions3": "True",
@@ -13441,7 +13441,6 @@
     "FFlagAppChatFixFriendConversationNavigation": "True",
     "FFlagAppChatModalTelemetry": "True",
     "FFlagSessionManagerRuntimeMutex2": "True",
-    "FFlagBlockLoadWhenAdIsPlaying_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-11T22:58:49",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13472,8 +13471,8 @@
     "FFlagWebBrowserEnableLowMemoryMode": "True",
     "FFlagToolboxValidSizeRetry2": "True",
     "FFlagTextureUseACR5": "True",
-    "FStringFlagRepoGitHashFastString": "bb915309d482f5e1bb5406e3c496a98ccad68d83",
-    "DFStringFlagRepoGitHashDynamicString": "bb915309d482f5e1bb5406e3c496a98ccad68d83",
-    "FStringFlipTimeStampFastString": "2025-07-11T23:10:44.889Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-11T23:10:44.889Z"
+    "FStringFlagRepoGitHashFastString": "30f906eacfe29053d26ef974d77918392fb66ae3",
+    "DFStringFlagRepoGitHashDynamicString": "30f906eacfe29053d26ef974d77918392fb66ae3",
+    "FStringFlipTimeStampFastString": "2025-07-12T00:09:35.322Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-12T00:09:35.322Z"
 }
