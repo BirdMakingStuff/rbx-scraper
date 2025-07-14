@@ -48,5 +48,6 @@
     "enableGetAllowedAssetTypes": "true",
     "enableYourPlaceCreation": "true",
     "enableCreatorControlsAgeGate": "false",
-    "creatorRewardsAllowlist": "559363765;7866407564"
+    "creatorRewardsAllowlist": "559363765;7866407564",
+    "enableGroupMembersV2": "false"
 }
