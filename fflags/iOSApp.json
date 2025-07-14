@@ -11529,6 +11529,9 @@
     "DFFlagBroadphaseCrash": "True",
     "DFFlagProductInfoBatchingPreserveDuplicatesFix": "False",
     "DFFlagProductInfoBatchingPreserveDuplicatesFix_PlaceFilter": "True;96342491571673;109983668079237;128762245270197",
+    "DFFlagSimFixRunningControllerFreeFall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-14T16:05:04",
+    "FFlagTextureUseACR5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-14T16:22:32",
+    "FFlagSimCSG3NewAPIFixColorAndScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-14T16:28:32",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12372,8 +12375,8 @@
     "FFlagAppChatFixFriendConversationNavigation": "True",
     "FFlagAppChatModalTelemetry": "True",
     "FFlagLuaAppCreatorSuccessVirtualEventsLayerUseRoactExperiment2": "True",
-    "FStringFlagRepoGitHashFastString": "30f906eacfe29053d26ef974d77918392fb66ae3",
-    "DFStringFlagRepoGitHashDynamicString": "30f906eacfe29053d26ef974d77918392fb66ae3",
-    "FStringFlipTimeStampFastString": "2025-07-12T00:09:35.322Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-12T00:09:35.322Z"
+    "FStringFlagRepoGitHashFastString": "1f7484e9d82163c7feb21a1da2f6c301a3c54d94",
+    "DFStringFlagRepoGitHashDynamicString": "1f7484e9d82163c7feb21a1da2f6c301a3c54d94",
+    "FStringFlipTimeStampFastString": "2025-07-14T16:47:18.502Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-14T16:47:18.502Z"
 }
