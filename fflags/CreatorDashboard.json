@@ -47,5 +47,6 @@
     "enableGetItemConfigurePage": "false",
     "enableGetAllowedAssetTypes": "true",
     "enableYourPlaceCreation": "true",
-    "enableCreatorControlsAgeGate": "false"
+    "enableCreatorControlsAgeGate": "false",
+    "creatorRewardsAllowlist": "559363765;7866407564"
 }
