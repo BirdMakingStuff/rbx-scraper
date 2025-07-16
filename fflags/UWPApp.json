@@ -11601,8 +11601,11 @@
     "DFFlagRCCChannelAPIsEnabledByDefault": "True",
     "FStringSendTCRequestPath": "send-trusted-friend-request",
     "FFlagCapturesFoundationProviderFixEnabled": "True",
-    "AllowVideoPreRoll": "True",
+    "FFlagWindowsTTIReportShortcutLaunchDuration3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-16T15:58:25",
+    "FFlagEnableRemoveJoinGameCardIXPOnSocialCarousel_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-16T16:02:11",
+    "FIntCommunityProfileAffiliatedExperienceTelemetryThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-16T16:22:15",
     "AxisAdornmentGrabSize": "12",
+    "AllowVideoPreRoll": "True",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -11890,8 +11893,8 @@
     "FFlagPerformanceControlUsesRuntime2": "True",
     "FFlagOptimizeCFrameUpdates4": "True",
     "FFlagOptimizeCFrameUpdatesIC4": "True",
-    "FStringFlagRepoGitHashFastString": "76c312f05e916bb86684320557c5d15509f310e6",
-    "DFStringFlagRepoGitHashDynamicString": "76c312f05e916bb86684320557c5d15509f310e6",
-    "FStringFlipTimeStampFastString": "2025-07-16T03:43:10.273Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-16T03:43:10.273Z"
+    "FStringFlagRepoGitHashFastString": "1e2737a09615884ec815aa2162378249057cecf3",
+    "DFStringFlagRepoGitHashDynamicString": "1e2737a09615884ec815aa2162378249057cecf3",
+    "FStringFlipTimeStampFastString": "2025-07-16T16:49:01.780Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-16T16:49:01.780Z"
 }
