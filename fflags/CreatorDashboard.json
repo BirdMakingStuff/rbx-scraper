@@ -50,5 +50,6 @@
     "enableCreatorControlsAgeGate": "false",
     "creatorRewardsAllowlist": "559363765;7866407564;7862042331",
     "enableGroupMembersV2": "true",
-    "enableCreatorControlsGeoGate": "false"
+    "enableCreatorControlsGeoGate": "false",
+    "enableGroupInvitationsFriendTags": "false"
 }
