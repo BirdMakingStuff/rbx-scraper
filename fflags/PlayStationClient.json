@@ -11633,6 +11633,8 @@
     "FFlagIsWrapLayerEnabledRefactor_PlaceFilter": "True;189707",
     "FIntLCThicknessTolerance_PlaceFilter": "400000;189707",
     "FStringRewardedVideoAdsDocumentationUrl": "https://create.roblox.com/docs/en-us/production/promotion/rewarded-video-ads",
+    "FFlagItemSenderRefactor2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-17T19:56:03",
+    "DFFlagAsyncifyTeamCreateSaves3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-17T20:27:32",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11893,11 +11895,11 @@
     "FFlagFixConnectionRemovedToast": "True",
     "FFlagSocialBlockingModalAnalytics": "True",
     "FFlagHideProfileQrBottomBar": "True",
-    "DFIntConvexDecompCompressionTransformIdentity_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-17T18:58:59",
-    "DFFlagCDCVerifyTransformIdentity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-17T19:01:33",
     "FFlagConsoleVoiceIXPEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "a6846246a7793035e8707664b03a285cae07ac2d",
-    "DFStringFlagRepoGitHashDynamicString": "a6846246a7793035e8707664b03a285cae07ac2d",
-    "FStringFlipTimeStampFastString": "2025-07-17T19:31:37.127Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-17T19:31:37.127Z"
+    "DFIntConvexDecompCompressionTransformIdentity": "10000",
+    "DFFlagCDCVerifyTransformIdentity": "True",
+    "FStringFlagRepoGitHashFastString": "358f6a12c09959b99e78670475815bc3585ff516",
+    "DFStringFlagRepoGitHashDynamicString": "358f6a12c09959b99e78670475815bc3585ff516",
+    "FStringFlipTimeStampFastString": "2025-07-17T20:36:22.111Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-17T20:36:22.111Z"
 }
