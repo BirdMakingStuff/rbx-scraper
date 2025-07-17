@@ -11633,7 +11633,6 @@
     "FFlagIsWrapLayerEnabledRefactor_PlaceFilter": "True;189707",
     "FIntLCThicknessTolerance_PlaceFilter": "400000;189707",
     "FStringRewardedVideoAdsDocumentationUrl": "https://create.roblox.com/docs/en-us/production/promotion/rewarded-video-ads",
-    "FFlagDebugLuaAppValidateProps": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13237,6 +13236,7 @@
     "FFlagStudioUpdateNotificationsTelemetry": "True",
     "DFFlagGatherHastefulHullTelemetry": "True",
     "DFIntHastefulHullCallWrapperHundredthsPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-17T18:44:54",
+    "DFIntConvexDecompCompressionTransformIdentity_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-17T18:58:59",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13619,6 +13619,8 @@
     "DFIntGetFullNameParseDepthLimit": "1000",
     "FFlagRenderULFixTerrainHeightBlend2": "True",
     "FFlagNewFormatCollisionGeometryType": "True",
+    "DFFlagCDCVerifyTransformIdentity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-17T19:01:33",
+    "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
     "FLogCloseDataModel": "6",
@@ -13649,8 +13651,8 @@
     "FFlagWebBrowserEnablePreInitialize": "False",
     "FFlagWebBrowserPreloadSTM6221Enabled": "False",
     "FIntWebBrowserPreloadSTM6221CleanupThresoldMB": "2048",
-    "FStringFlagRepoGitHashFastString": "c72d5abd5c80587ea8a575d71b2a65fc0092d9ea",
-    "DFStringFlagRepoGitHashDynamicString": "c72d5abd5c80587ea8a575d71b2a65fc0092d9ea",
-    "FStringFlipTimeStampFastString": "2025-07-17T18:47:17.318Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-17T18:47:17.318Z"
+    "FStringFlagRepoGitHashFastString": "a6846246a7793035e8707664b03a285cae07ac2d",
+    "DFStringFlagRepoGitHashDynamicString": "a6846246a7793035e8707664b03a285cae07ac2d",
+    "FStringFlipTimeStampFastString": "2025-07-17T19:31:37.127Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-17T19:31:37.127Z"
 }
