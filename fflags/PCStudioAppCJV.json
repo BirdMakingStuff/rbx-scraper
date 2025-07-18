@@ -13075,7 +13075,7 @@
     "FFlagStudioCreateQtUIThread": "True",
     "FFlagPlaceAnnotationsIxp2": "True",
     "FFlagExplorerFilteringSortBools": "True",
-    "FFlagLuauEagerGeneralization4": "True",
+    "FFlagLuauEagerGeneralization4": "False",
     "FFlagNewCameraControls_PersistentSpeedLock": "False",
     "FFlagAmrFixScopeNotifs": "True",
     "FFlagStudioUnsetScriptChangedAfterSave": "True",
@@ -13253,7 +13253,6 @@
     "FFlagStudioAssistantExperimentationEnabled": "True",
     "FFlagStudioRemoveRestrictedGetEditDataModel2": "True",
     "FFlagStudioVisualizationModesNewCameraSpeedSlider": "True",
-    "FFlagLuauEagerGeneralization4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-18T18:32:18",
     "FFlagEnableRewardedVideoStudioTestingForIneligibleExperiences2": "True",
     "FFlagStudioAssetFolder": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -13680,8 +13679,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "528ee071c6e31cbb2f41133971e16dda103fe503",
-    "DFStringFlagRepoGitHashDynamicString": "528ee071c6e31cbb2f41133971e16dda103fe503",
-    "FStringFlipTimeStampFastString": "2025-07-18T19:25:36.822Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-18T19:25:36.822Z"
+    "FStringFlagRepoGitHashFastString": "1283ca67a443638469b0103bfd0b2cff3821779a",
+    "DFStringFlagRepoGitHashDynamicString": "1283ca67a443638469b0103bfd0b2cff3821779a",
+    "FStringFlipTimeStampFastString": "2025-07-18T19:47:26.661Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-18T19:47:26.661Z"
 }

@@ -12532,10 +12532,10 @@
     "DFFlagEnforceClothingBoundsWithCustomHeight_PlaceFilter": "True;189707",
     "FFlagLuaAppEdpMediaGalleryRedesignIxp4": "True",
     "FFlagLuaAppEdpMediaGalleryVideoPreviewIxp4": "True",
-    "FFlagSessionTransitionFSMRuntimeMutex2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-18T18:28:36",
-    "FFlagEnableNotificationImageThumbnails_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-18T18:44:08",
     "FFlagExpChatTargetTextChannelNeverNone": "True",
     "FFlagExpChatUseUpdatedChannelBarVisible": "True",
+    "FFlagSessionTransitionFSMRuntimeMutex2": "True",
+    "FFlagEnableNotificationImageThumbnails": "True",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -12565,8 +12565,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "528ee071c6e31cbb2f41133971e16dda103fe503",
-    "DFStringFlagRepoGitHashDynamicString": "528ee071c6e31cbb2f41133971e16dda103fe503",
-    "FStringFlipTimeStampFastString": "2025-07-18T19:25:36.822Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-18T19:25:36.822Z"
+    "FStringFlagRepoGitHashFastString": "1283ca67a443638469b0103bfd0b2cff3821779a",
+    "DFStringFlagRepoGitHashDynamicString": "1283ca67a443638469b0103bfd0b2cff3821779a",
+    "FStringFlipTimeStampFastString": "2025-07-18T19:47:26.661Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-18T19:47:26.661Z"
 }
