@@ -11758,6 +11758,10 @@
     "FFlagExpandAAudioSleepWorkaround": "True",
     "FStringMilkyWayStoreUserAgent": "SamsungGalaxyStore",
     "DFFlagOnDemandAdsProviderConstructAdContentLoader": "True",
+    "FFlagPreferredTextSizeReportMenuButtonTextFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:14:00",
+    "FFlagFriendsLandingTileHeightFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:25:06",
+    "FFlagPlayerGridTileHeightFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:25:22",
+    "DFFlagEnableIosRewardTimerUIExperiment2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:28:20",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13768,8 +13772,8 @@
     "FFlagWebBrowserEnablePreInitialize": "False",
     "FFlagWebBrowserPreloadSTM6221Enabled": "False",
     "FIntWebBrowserPreloadSTM6221CleanupThresoldMB": "2048",
-    "FStringFlagRepoGitHashFastString": "08166d3943caa977d76941469be1881d4a4b409a",
-    "DFStringFlagRepoGitHashDynamicString": "08166d3943caa977d76941469be1881d4a4b409a",
-    "FStringFlipTimeStampFastString": "2025-07-22T00:53:08.236Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-22T00:53:08.236Z"
+    "FStringFlagRepoGitHashFastString": "6b77093a4f82f73b5d2f1e4bd03f3a42d3d68e16",
+    "DFStringFlagRepoGitHashDynamicString": "6b77093a4f82f73b5d2f1e4bd03f3a42d3d68e16",
+    "FStringFlipTimeStampFastString": "2025-07-22T16:29:35.666Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-22T16:29:35.666Z"
 }

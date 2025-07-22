@@ -11758,6 +11758,10 @@
     "FFlagExpandAAudioSleepWorkaround": "True",
     "FStringMilkyWayStoreUserAgent": "SamsungGalaxyStore",
     "DFFlagOnDemandAdsProviderConstructAdContentLoader": "True",
+    "FFlagPreferredTextSizeReportMenuButtonTextFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:14:00",
+    "FFlagFriendsLandingTileHeightFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:25:06",
+    "FFlagPlayerGridTileHeightFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:25:22",
+    "DFFlagEnableIosRewardTimerUIExperiment2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:28:20",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12628,8 +12632,9 @@
     "FFlagSwapAppGameTileAndSduiGameTileInRFY": "True",
     "FFlagVideoUseBaseSourceFunctions2": "True",
     "FFlagVideoCaptureStopOnAppHide": "True",
-    "FStringFlagRepoGitHashFastString": "08166d3943caa977d76941469be1881d4a4b409a",
-    "DFStringFlagRepoGitHashDynamicString": "08166d3943caa977d76941469be1881d4a4b409a",
-    "FStringFlipTimeStampFastString": "2025-07-22T00:53:08.236Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-22T00:53:08.236Z"
+    "FFlagLuaAppSduiDeprecateFeedItemKey_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T16:16:24",
+    "FStringFlagRepoGitHashFastString": "485bfe10eb537e59fc8ca2a56286f2cb2c81e141",
+    "DFStringFlagRepoGitHashDynamicString": "485bfe10eb537e59fc8ca2a56286f2cb2c81e141",
+    "FStringFlipTimeStampFastString": "2025-07-22T16:27:21.229Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-22T16:27:21.229Z"
 }
