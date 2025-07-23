@@ -44,7 +44,7 @@
     "enableRegionalPricingEnabledBanner": "true",
     "disableJuneNinthLaunchAnnouncementRegionalPricing": "true",
     "enableInvalidGameId404Page": "true",
-    "enableGetItemConfigurePage": "false",
+    "enableGetItemConfigurePage": "true",
     "enableGetAllowedAssetTypes": "true",
     "enableYourPlaceCreation": "true",
     "enableCreatorControlsAgeGate": "false",
