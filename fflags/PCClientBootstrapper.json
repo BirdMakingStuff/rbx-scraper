@@ -90,7 +90,6 @@
     "FFlagAXEnableOrganicContentTemplates2": "True",
     "FFlagAgreementItemsOrderFixEnabled": "True",
     "FFlagAXFixNilItemDataCatalogContextFrame": "True",
-    "FFlagAXDynamicHeadClassicFaceSwappingIXPEnabledWIP4": "True",
     "FFlagEnableCatalogTileLoadingLatencyV2": "True",
     "DFFlagTeamCreatePlaceUploadSendCompressedRollout2": "True",
     "DFIntTeamCreatePlaceUploadSendCompressedRollout2HundredthPercent": "10000",
@@ -271,6 +270,9 @@
     "FFlagDisablePartyVoiceEligibilityBanner": "True",
     "DFIntConvexDecompCompressionTransformIdentity": "10000",
     "DFFlagCDCVerifyTransformIdentity": "True",
+    "FFlagTelemetryDataReArchTransmission8_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-24T20:05:25",
+    "FFlagMacInstallerDeleteNetworkCacheOnDiskSpaceError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-24T20:10:42",
+    "FFlagLogCrossExperienceEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-24T20:14:39",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -288,8 +290,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "4ef77f1bc067224bbbd6215e94bd4069bd09d2c2",
-    "DFStringFlagRepoGitHashDynamicString": "4ef77f1bc067224bbbd6215e94bd4069bd09d2c2",
-    "FStringFlipTimeStampFastString": "2025-07-24T19:38:07.897Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-24T19:38:07.897Z"
+    "FStringFlagRepoGitHashFastString": "31e89df0fec55af484c0fd2dccca403b49a70457",
+    "DFStringFlagRepoGitHashDynamicString": "31e89df0fec55af484c0fd2dccca403b49a70457",
+    "FStringFlipTimeStampFastString": "2025-07-24T20:42:25.036Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-24T20:42:25.036Z"
 }
