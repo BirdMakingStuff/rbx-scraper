@@ -224,7 +224,7 @@
     "FFlagUseCurrentDataModelLocales7": "False",
     "FFlagTelemetryDataReArchTransmission8": "False",
     "FFlagTelemetryDataReArchTransmissionDualWrite3": "False",
-    "FIntTelemetryDataReArchTransmissionRollout": "10",
+    "FIntTelemetryDataReArchTransmissionRollout": "25",
     "FFlagDisableReferredByPlayerIdTelemetryInCoreScript": "True",
     "FFlagWinInstallerUseClientForPDEnrollment": "True",
     "FFlagHandleVoiceBehaviorOnNetworkDisconnection": "True",
@@ -254,10 +254,8 @@
     "FFlagDisablePartyVoiceEligibilityBanner": "True",
     "DFIntConvexDecompCompressionTransformIdentity": "10000",
     "DFFlagCDCVerifyTransformIdentity": "True",
-    "FIntTelemetryDataReArchTransmissionRollout_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-24T21:10:43",
-    "FFlagMacInstallerDeleteNetworkCacheOnDiskSpaceError": "True",
+    "FFlagMacInstallerDeleteNetworkCacheOnDiskSpaceError": "False",
     "FFlagLogCrossExperienceEvents": "True",
-    "FFlagMacInstallerDeleteNetworkCacheOnDiskSpaceError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-24T21:33:30",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -275,8 +273,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "56332fc097182a611423c31fd141c81d768b00aa",
-    "DFStringFlagRepoGitHashDynamicString": "56332fc097182a611423c31fd141c81d768b00aa",
-    "FStringFlipTimeStampFastString": "2025-07-24T21:35:02.576Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-24T21:35:02.576Z"
+    "FStringFlagRepoGitHashFastString": "9f7ee9c79af97ed2907f16b58236c6e690503c21",
+    "DFStringFlagRepoGitHashDynamicString": "9f7ee9c79af97ed2907f16b58236c6e690503c21",
+    "FStringFlipTimeStampFastString": "2025-07-24T22:42:41.141Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-24T22:42:41.141Z"
 }
