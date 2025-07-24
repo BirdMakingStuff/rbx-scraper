@@ -52,5 +52,6 @@
     "enableGroupMembersV2": "true",
     "enableCreatorControlsGeoGate": "false",
     "enableGroupInvitationsFriendTags": "false",
-    "enableGroupInvitationsTelemetry": "true"
+    "enableGroupInvitationsTelemetry": "true",
+    "enableCreatorRewards": "true"
 }
