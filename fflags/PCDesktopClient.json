@@ -11313,6 +11313,8 @@
     "FFlagEnableAbuseReportRevampProfileAndGroup": "True",
     "DFFlagVideoMacCheckEncodeSuccess": "True",
     "UseEdgeToEdgeInCallActivity": "true",
+    "FFlagBugReporterProtocolImplV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-25T15:57:24",
+    "FFlagEnableAbuseReportRevampFeedback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-25T16:07:15",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12226,8 +12228,8 @@
     "FFlagGamepadPointAndClick4": "True",
     "DFIntRestrictedReadStatsHundredthsPercent": "100",
     "DFFlagCLI157375": "True",
-    "FStringFlagRepoGitHashFastString": "8255252547d68906f452fffcf3bf45a568a9a2f9",
-    "DFStringFlagRepoGitHashDynamicString": "8255252547d68906f452fffcf3bf45a568a9a2f9",
-    "FStringFlipTimeStampFastString": "2025-07-25T01:56:48.585Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-25T01:56:48.585Z"
+    "FStringFlagRepoGitHashFastString": "bdb99315765052d0ee33c2424b302442ec14fb0f",
+    "DFStringFlagRepoGitHashDynamicString": "bdb99315765052d0ee33c2424b302442ec14fb0f",
+    "FStringFlipTimeStampFastString": "2025-07-25T16:46:49.113Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-25T16:46:49.113Z"
 }
