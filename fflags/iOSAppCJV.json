@@ -11313,8 +11313,10 @@
     "FFlagEnableAbuseReportRevampProfileAndGroup": "True",
     "DFFlagVideoMacCheckEncodeSuccess": "True",
     "UseEdgeToEdgeInCallActivity": "true",
-    "FFlagBugReporterProtocolImplV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-25T15:57:24",
-    "FFlagEnableAbuseReportRevampFeedback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-25T16:07:15",
+    "FFlagBugReporterProtocolImplV2": "True",
+    "FFlagEnableAbuseReportRevampExperience_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-25T17:01:48",
+    "FFlagEnableAbuseReportRevampFeedback": "True",
+    "FFlagCheckAvatarAssetPrivacy1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-25T17:30:35",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12204,8 +12206,8 @@
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
     "FFlagAXFixOvercountingTopLevelCounters": "True",
-    "FStringFlagRepoGitHashFastString": "bdb99315765052d0ee33c2424b302442ec14fb0f",
-    "DFStringFlagRepoGitHashDynamicString": "bdb99315765052d0ee33c2424b302442ec14fb0f",
-    "FStringFlipTimeStampFastString": "2025-07-25T16:46:49.113Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-25T16:46:49.113Z"
+    "FStringFlagRepoGitHashFastString": "d7f959464b6a074a8cb1b020e2a93f944923ed6b",
+    "DFStringFlagRepoGitHashDynamicString": "d7f959464b6a074a8cb1b020e2a93f944923ed6b",
+    "FStringFlipTimeStampFastString": "2025-07-25T17:36:04.775Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-25T17:36:04.775Z"
 }
