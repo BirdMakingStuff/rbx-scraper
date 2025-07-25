@@ -11991,7 +11991,7 @@
     "AndroidCookieHandlerInitializationTiming": "True",
     "FFlagVideoAdaptionByMemory4": "True",
     "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit": "True",
-    "FFlagNewHapticService16": "True",
+    "FFlagNewHapticService16": "False",
     "FIntReportSecondVEHundredthsPercent2": "10000",
     "FFlagUseAssetReadLogger": "True",
     "DFIntAssetReadLoggingThrottleHundredthsPercent": "100",
@@ -12156,7 +12156,6 @@
     "DFFlagContinueShowAdOnHarmonyCallback": "True",
     "DFFlagPerformanceControlLimitBoostedOomModelToInGame": "True",
     "FFlagEnableSessionCheckInEngine": "True",
-    "FFlagNewHapticService16_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-24T23:31:23",
     "FFlagEnableMaterialGenerator": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -12182,8 +12181,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "37e4818812dceeb52420de67b69bef8b87e1fbdd",
-    "DFStringFlagRepoGitHashDynamicString": "37e4818812dceeb52420de67b69bef8b87e1fbdd",
-    "FStringFlipTimeStampFastString": "2025-07-24T23:33:40.121Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-24T23:33:40.121Z"
+    "FStringFlagRepoGitHashFastString": "8255252547d68906f452fffcf3bf45a568a9a2f9",
+    "DFStringFlagRepoGitHashDynamicString": "8255252547d68906f452fffcf3bf45a568a9a2f9",
+    "FStringFlipTimeStampFastString": "2025-07-25T01:56:48.585Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-25T01:56:48.585Z"
 }
