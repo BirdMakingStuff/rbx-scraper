@@ -11312,7 +11312,6 @@
     "FFlagFlagRolloutTestStaticBool3": "True",
     "FFlagFlagRolloutTestStaticBool4": "True",
     "FFlagFlagRolloutTestStaticBool5": "True",
-    "FFlagRenderEnableGlobalInstancingMetal": "True",
     "DFFlagFlagRolloutTestDynamicBool10": "True",
     "DFFlagFlagRolloutTestDynamicBool11": "True",
     "DFFlagFlagRolloutTestDynamicBool6": "True",
@@ -11325,6 +11324,8 @@
     "FFlagFlagRolloutTestStaticBool7": "True",
     "FFlagFlagRolloutTestStaticBool8": "True",
     "FFlagFlagRolloutTestStaticBool9": "True",
+    "DFFlagSQLiteThrottleDiskFullErrors": "True",
+    "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -11585,7 +11586,6 @@
     "FFlagBootcampCLI155621": "True",
     "FFlagUseCurrentDataModelLocales7": "False",
     "DFFlagSQLiteThrottleCorruptErrors": "True",
-    "DFFlagSQLiteThrottleDiskFullErrors": "True",
     "FFlagTelemetryDataReArchTransmission8": "False",
     "FFlagTelemetryDataReArchTransmissionDualWrite3": "False",
     "FFlagFFlagSongEdpCarouselIxp2": "True",
@@ -12171,8 +12171,8 @@
     "DFIntRestrictedReadStatsHundredthsPercent": "100",
     "DFFlagCLI157375": "True",
     "FFlagMigrateMassPropertyFromPhysicalConfigData683": "True",
-    "FStringFlagRepoGitHashFastString": "7cc06014b699e18c80fa447a52aeb46009131f96",
-    "DFStringFlagRepoGitHashDynamicString": "7cc06014b699e18c80fa447a52aeb46009131f96",
-    "FStringFlipTimeStampFastString": "2025-07-25T22:17:19.978Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-25T22:17:19.978Z"
+    "FStringFlagRepoGitHashFastString": "3661cefbfc6b42fac624d92dbe7456ecd2d9df1c",
+    "DFStringFlagRepoGitHashDynamicString": "3661cefbfc6b42fac624d92dbe7456ecd2d9df1c",
+    "FStringFlipTimeStampFastString": "2025-07-25T23:22:13.648Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-25T23:22:13.648Z"
 }
