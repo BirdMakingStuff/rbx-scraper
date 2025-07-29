@@ -11390,8 +11390,9 @@
     "DFFlagTrackEditableLoadContentTypes": "True",
     "DFIntEditableContentTypeThrottleHundredthsPercent": "10000",
     "DFFlagIASDisabledActionsDontDisableOtherActions": "True",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
+    "FFlagLuaAppEdpMediaGalleryVideoAudioFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-29T16:25:32",
+    "AllowVideoPreRoll": "True",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "CatalogPromoAssetId": "-1",
@@ -12244,6 +12245,8 @@
     "FFlagEnableSystemFontCheck": "True",
     "DFFlagDataModelAsyncContentInit": "True",
     "GmaSdkEnableAdTypesInIsolatedSdk": "true",
+    "FFlagProfilePlatformEnableFavoriteExperiences_V3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-29T16:07:00",
+    "DFFlagSimSolverImprovedPartialSleep2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-29T16:28:12",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -12319,8 +12322,8 @@
     "FFlagEnableDevicePreferencesDeeplink2": "True",
     "FFlagExpChatTargetTextChannelNeverNone": "True",
     "FFlagExpChatUseUpdatedChannelBarVisible": "True",
-    "FStringFlagRepoGitHashFastString": "824462cb1ac4a4841fe912adcd8eaec77b4022cd",
-    "DFStringFlagRepoGitHashDynamicString": "824462cb1ac4a4841fe912adcd8eaec77b4022cd",
-    "FStringFlipTimeStampFastString": "2025-07-29T00:53:54.748Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-29T00:53:54.748Z"
+    "FStringFlagRepoGitHashFastString": "a28788d83d8b738a780c3425f7ab5944a5b67ca6",
+    "DFStringFlagRepoGitHashDynamicString": "a28788d83d8b738a780c3425f7ab5944a5b67ca6",
+    "FStringFlipTimeStampFastString": "2025-07-29T16:47:04.497Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-29T16:47:04.497Z"
 }
