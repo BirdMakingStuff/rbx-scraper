@@ -257,6 +257,8 @@
     "FFlagMacInstallerDeleteNetworkCacheOnDiskSpaceError": "False",
     "FFlagLogCrossExperienceEvents": "True",
     "FFlagRecordTimestampforCEVEvents": "True",
+    "FFlagUpdateVersionGuidTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-30T20:39:34",
+    "FFlagWinInstallerCheckpointDurationTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-30T20:39:34",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -269,8 +271,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "c41e27c8287191e323ac6eb4391e0ad24949d482",
-    "DFStringFlagRepoGitHashDynamicString": "c41e27c8287191e323ac6eb4391e0ad24949d482",
-    "FStringFlipTimeStampFastString": "2025-07-30T19:37:14.115Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-30T19:37:14.115Z"
+    "FStringFlagRepoGitHashFastString": "0a04e538da2be3c9352ccfe4fcef33b8a29e8e86",
+    "DFStringFlagRepoGitHashDynamicString": "0a04e538da2be3c9352ccfe4fcef33b8a29e8e86",
+    "FStringFlipTimeStampFastString": "2025-07-30T20:42:50.194Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-30T20:42:50.194Z"
 }
