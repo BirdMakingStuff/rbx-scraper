@@ -11496,6 +11496,7 @@
     "FIntRbxStorageMinAvailableDiskSpaceMB": "10",
     "FFlagFixSavingToWSL": "True",
     "DFIntMaxAudioAssetIdListSize": "2000",
+    "FFlagLuaAppDetailsPageNotSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T16:38:12",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12353,8 +12354,8 @@
     "FFlagVideoCaptureBlockOnLowMemDevices2": "True",
     "FFlagAddExtraAttributeUpdates": "True",
     "FFlagAXUnifiedLoggingClicks14": "True",
-    "FStringFlagRepoGitHashFastString": "68394d25cf71da8db115015a02b2ac08a082860b",
-    "DFStringFlagRepoGitHashDynamicString": "68394d25cf71da8db115015a02b2ac08a082860b",
-    "FStringFlipTimeStampFastString": "2025-07-31T02:32:10.299Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-31T02:32:10.299Z"
+    "FStringFlagRepoGitHashFastString": "3aa72260ad24816d5ee8eba8ff9809f24f7d452b",
+    "DFStringFlagRepoGitHashDynamicString": "3aa72260ad24816d5ee8eba8ff9809f24f7d452b",
+    "FStringFlipTimeStampFastString": "2025-07-31T16:50:53.705Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-31T16:50:53.705Z"
 }

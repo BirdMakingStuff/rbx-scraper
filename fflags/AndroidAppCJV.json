@@ -11496,6 +11496,7 @@
     "FIntRbxStorageMinAvailableDiskSpaceMB": "10",
     "FFlagFixSavingToWSL": "True",
     "DFIntMaxAudioAssetIdListSize": "2000",
+    "FFlagLuaAppDetailsPageNotSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T16:38:12",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12378,8 +12379,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "16c9e44b8a8ace56c8e2ac2e7d502f53b40b78fb",
-    "DFStringFlagRepoGitHashDynamicString": "16c9e44b8a8ace56c8e2ac2e7d502f53b40b78fb",
-    "FStringFlipTimeStampFastString": "2025-07-31T02:36:16.285Z",
-    "DFStringFlipTimeStampDynamicString": "2025-07-31T02:36:16.285Z"
+    "FStringFlagRepoGitHashFastString": "3aa72260ad24816d5ee8eba8ff9809f24f7d452b",
+    "DFStringFlagRepoGitHashDynamicString": "3aa72260ad24816d5ee8eba8ff9809f24f7d452b",
+    "FStringFlipTimeStampFastString": "2025-07-31T16:50:53.705Z",
+    "DFStringFlipTimeStampDynamicString": "2025-07-31T16:50:53.705Z"
 }
