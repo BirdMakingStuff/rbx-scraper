@@ -11539,6 +11539,9 @@
     "FFlagAppConfigurationReloadDevelopmentConfigSignal": "True",
     "FFlagDataModelPatchProviderIsDevelopmentConfigLoaded": "True",
     "AllowVideoPreRoll": "True",
+    "DFIntRestrictedReadStatsHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-01T16:39:30",
+    "FFlagEnablePreferredTextSizeFixGameGrid3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-01T16:41:17",
+    "DFFlagThumbnailGeneratorSetIBLData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-01T16:44:16",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12470,8 +12473,8 @@
     "FFlagEnableDevicePreferencesDeeplink2": "True",
     "FFlagExpChatTargetTextChannelNeverNone": "True",
     "FFlagExpChatUseUpdatedChannelBarVisible": "True",
-    "FStringFlagRepoGitHashFastString": "b58e09991ab1c6516afde1efcb51bdb7e7f01990",
-    "DFStringFlagRepoGitHashDynamicString": "b58e09991ab1c6516afde1efcb51bdb7e7f01990",
-    "FStringFlipTimeStampFastString": "2025-08-01T00:43:05.784Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-01T00:43:05.784Z"
+    "FStringFlagRepoGitHashFastString": "44561f19bdcf4866dd24ba5ee420d1abcc768a7e",
+    "DFStringFlagRepoGitHashDynamicString": "44561f19bdcf4866dd24ba5ee420d1abcc768a7e",
+    "FStringFlipTimeStampFastString": "2025-08-01T16:45:41.879Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-01T16:45:41.879Z"
 }
