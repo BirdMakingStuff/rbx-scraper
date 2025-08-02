@@ -11539,7 +11539,7 @@
     "FFlagDataModelPatchProviderIsDevelopmentConfigLoaded": "True",
     "DFIntRestrictedReadStatsHundredthsPercent": "10000",
     "DFFlagEnsureGcWait": "True",
-    "DFFlagThumbnailGeneratorSetIBLData": "True",
+    "DFFlagThumbnailGeneratorSetIBLData": "False",
     "FFlagRunServiceIsDevelopmentConfigLoaded": "True",
     "DFFlagCLI150958": "True",
     "DFFlagHttpServiceOpenCloudApiKeySecret": "True",
@@ -12403,8 +12403,8 @@
     "FFlagAddExtraAttributeUpdates": "True",
     "FFlagAXUnifiedLoggingClicks14": "True",
     "FFlagGraphicsVKEXTDeviceFault": "True",
-    "FStringFlagRepoGitHashFastString": "96ea68baeb3293f5531624e391a7034a801084cd",
-    "DFStringFlagRepoGitHashDynamicString": "96ea68baeb3293f5531624e391a7034a801084cd",
-    "FStringFlipTimeStampFastString": "2025-08-01T23:11:24.845Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-01T23:11:24.845Z"
+    "FStringFlagRepoGitHashFastString": "2f07594d042ec48aca6fcec8292e2440c09fbffd",
+    "DFStringFlagRepoGitHashDynamicString": "2f07594d042ec48aca6fcec8292e2440c09fbffd",
+    "FStringFlipTimeStampFastString": "2025-08-02T00:11:38.464Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-02T00:11:38.464Z"
 }
