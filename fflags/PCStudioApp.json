@@ -11547,6 +11547,7 @@
     "FFlagAllocatorVulkanMemoryTelemetry2": "True",
     "DFFlagDataModelPatchDeserializeHandleExceptions": "True",
     "FFlagProximityPromptDetachedAttachment": "True",
+    "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13141,7 +13142,7 @@
     "FFlagStudioFixConflictingSystemMenuQuitAction": "True",
     "FFlagStudioRemoveGetSessionIdPlaceSessionModel": "True",
     "FFlagCinCancelParse3": "True",
-    "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagUpdateRepetitiveTooltips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-04T16:10:29",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13543,8 +13544,8 @@
     "FIntWebBrowserPreloadSTM6221CleanupThresoldMB": "2048",
     "FStringSocialCaptureIXPLayer": "Social.WindowsCapture",
     "FFlagSTM6148ToolboxMinWidth": "True",
-    "FStringFlagRepoGitHashFastString": "2f07594d042ec48aca6fcec8292e2440c09fbffd",
-    "DFStringFlagRepoGitHashDynamicString": "2f07594d042ec48aca6fcec8292e2440c09fbffd",
-    "FStringFlipTimeStampFastString": "2025-08-02T00:11:38.464Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-02T00:11:38.464Z"
+    "FStringFlagRepoGitHashFastString": "739c3807b230652b335992b5da2ab6a6f6f36b7a",
+    "DFStringFlagRepoGitHashDynamicString": "739c3807b230652b335992b5da2ab6a6f6f36b7a",
+    "FStringFlipTimeStampFastString": "2025-08-04T16:36:09.199Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-04T16:36:09.199Z"
 }
