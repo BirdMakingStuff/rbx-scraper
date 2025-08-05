@@ -11640,6 +11640,7 @@
     "FFlagVideoCaptureFinalizeTimeout": "True",
     "FFlagVideoCaptureDurationFromEncodedTimestamps": "True",
     "FFlagStandaloneDMKeyboardAndMouseDetection": "True",
+    "FFlagLuauFragmentRequiresCanBeResolvedToAModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T16:32:02",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12500,8 +12501,8 @@
     "FFlagUnibarMenuOpenHamburgerGamepadIXP684_IXP": "1;Experience.Menu.Gamepad.Exposure;User.Experience.Menu.Unibar.GamepadMobileAndDesktop;21713831;dev_controlled",
     "FIntRbxStorageRemoveLargeDbThresholdMB": "800",
     "FFlagUseGamePassesHttpService": "True",
-    "FStringFlagRepoGitHashFastString": "5272b8dd41150fb7eccec06447b3f24fa15cf25e",
-    "DFStringFlagRepoGitHashDynamicString": "5272b8dd41150fb7eccec06447b3f24fa15cf25e",
-    "FStringFlipTimeStampFastString": "2025-08-05T00:52:14.485Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-05T00:52:14.485Z"
+    "FStringFlagRepoGitHashFastString": "9b13cd670bfd8a314c04a5ad1397eba731fd4ccd",
+    "DFStringFlagRepoGitHashDynamicString": "9b13cd670bfd8a314c04a5ad1397eba731fd4ccd",
+    "FStringFlipTimeStampFastString": "2025-08-05T16:32:50.358Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-05T16:32:50.358Z"
 }
