@@ -11713,6 +11713,12 @@
     "FFlagOpenUserLuaProfileFromItemPage_IXP": "1;AvatarMarketplace.UA.AXItemDetails3DPreview;open-user-lua-profile-from-item-page;1436019201;flagbank",
     "DFFlagSimCheckInvalidAeroAssembliesAwake2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T16:43:47",
     "FIntFCSkeletonIgnoreUnusedPartsMode2_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T16:47:46",
+    "FFlagOpenUserLuaProfileFromEDP_IXP": "1;PlayerApp.GameDetailsPage.Exposure;open-user-lua-profile-EDP-V2;1464786570;flagbank",
+    "FFlagFixSocialCarouselTextScaling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T16:52:43",
+    "FFlagIxpCrashTaggingStudio_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T17:06:48",
+    "FFlagCreateSurfaceAppearanceBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T17:38:46",
+    "FIntSQLiteBusyTimeoutMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T17:42:06",
+    "GmaSdkRewardedUiExperiment": "true",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11952,8 +11958,8 @@
     "FFlagEnableConsoleExpControlsIXP684": "True",
     "FFlagGamepadPointAndClick4": "True",
     "DFFlagEnableDynamicReloaderV2Telemetry": "True",
-    "FStringFlagRepoGitHashFastString": "4f1dda281525e571b9b22430ba4ba5636214d91f",
-    "DFStringFlagRepoGitHashDynamicString": "4f1dda281525e571b9b22430ba4ba5636214d91f",
-    "FStringFlipTimeStampFastString": "2025-08-07T16:49:23.555Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-07T16:49:23.555Z"
+    "FStringFlagRepoGitHashFastString": "5937c411e2067c303185955206fee6c42bb3f01d",
+    "DFStringFlagRepoGitHashDynamicString": "5937c411e2067c303185955206fee6c42bb3f01d",
+    "FStringFlipTimeStampFastString": "2025-08-07T17:44:15.074Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-07T17:44:15.074Z"
 }
