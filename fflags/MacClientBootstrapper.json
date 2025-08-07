@@ -224,7 +224,7 @@
     "FFlagUseCurrentDataModelLocales7": "False",
     "FFlagTelemetryDataReArchTransmission8": "False",
     "FFlagTelemetryDataReArchTransmissionDualWrite3": "False",
-    "FIntTelemetryDataReArchTransmissionRollout": "50",
+    "FIntTelemetryDataReArchTransmissionRollout": "100",
     "FFlagDisableReferredByPlayerIdTelemetryInCoreScript": "True",
     "FFlagWinInstallerUseClientForPDEnrollment": "True",
     "FFlagHandleVoiceBehaviorOnNetworkDisconnection": "True",
@@ -265,8 +265,8 @@
     "FFlagExperienceStateCaptureSelectionBugFix": "True",
     "FFlagMacInstallerUpdatedProgressText": "True",
     "FFlagStudioInstallerDisableAddToDockOnUpdate": "True",
-    "FFlagCoreScriptsMigrateFromLegacyCSVLoc3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T20:51:06",
-    "FIntTelemetryDataReArchTransmissionRollout_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1354302273;2025-08-07T21:18:19",
+    "FFlagCoreScriptsMigrateFromLegacyCSVLoc3": "True",
+    "FFlagUnivAppSkipLoadCoreScriptLoc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-07T22:23:59",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -288,8 +288,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "f40854a42b7a3039cdec115f5d36faa79bd84155",
-    "DFStringFlagRepoGitHashDynamicString": "f40854a42b7a3039cdec115f5d36faa79bd84155",
-    "FStringFlipTimeStampFastString": "2025-08-07T21:37:46.287Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-07T21:37:46.287Z"
+    "FStringFlagRepoGitHashFastString": "53dcdf049d1a926ed47f2b1966bb45dcc5dbce74",
+    "DFStringFlagRepoGitHashDynamicString": "53dcdf049d1a926ed47f2b1966bb45dcc5dbce74",
+    "FStringFlipTimeStampFastString": "2025-08-07T22:43:17.157Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-07T22:43:17.157Z"
 }
