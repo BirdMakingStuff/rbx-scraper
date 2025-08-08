@@ -11752,6 +11752,7 @@
     "FFlagFineGrainCull": "True",
     "FFlagFixKeyframeGeneration": "True",
     "FFlagSimEditableMeshDataWriteChunked3": "True",
+    "FFlagEnableContactListRemoteEventValidation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-08T22:03:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13387,6 +13388,8 @@
     "DFFlagEnableEventsForCreateSurfaceAppearance": "True",
     "DFIntCreateSurfaceAppearanceLoggingHundredthsPercentage": "200",
     "FFlagStudioControlsEmulatorRemoveAutoOpenBehavior": "True",
+    "DFFlagCoreStrengthIsImportant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1016511516;2025-08-08T22:21:06",
+    "DFFlagCoreStrengthIsImportantExtra_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1016511516;2025-08-08T22:21:06",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -13778,8 +13781,8 @@
     "FFlagSTM6148ToolboxMinWidth": "True",
     "DFFlagSimFixReducedMeshEvalWithCompressedMesh": "True",
     "FFlagToolboxFixInsertionAnalytics": "True",
-    "FStringFlagRepoGitHashFastString": "129bd94a5a3a3a59da28962781d67b4a18c16adc",
-    "DFStringFlagRepoGitHashDynamicString": "129bd94a5a3a3a59da28962781d67b4a18c16adc",
-    "FStringFlipTimeStampFastString": "2025-08-08T19:57:22.259Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-08T19:57:22.259Z"
+    "FStringFlagRepoGitHashFastString": "bc1da87133a9327614bc0d7d766f051f1ef95c7d",
+    "DFStringFlagRepoGitHashDynamicString": "bc1da87133a9327614bc0d7d766f051f1ef95c7d",
+    "FStringFlipTimeStampFastString": "2025-08-08T22:23:05.694Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-08T22:23:05.694Z"
 }
