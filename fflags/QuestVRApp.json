@@ -11700,7 +11700,7 @@
     "FFlagFixFlakyTimeFixture": "True",
     "FFlagFixPlaceholderTextGamepadConnected": "True",
     "FFlagUseRuntimeMutexGuid": "True",
-    "FFlagEnableContactListRemoteEventValidation": "True",
+    "FFlagEnableContactListRemoteEventValidation": "False",
     "FFlagEnablePlayerViewRemoteEventValidation": "True",
     "FFlagIASSimplifyProperty": "True",
     "DFFlagCLI159070e": "True",
@@ -11752,7 +11752,6 @@
     "FFlagFineGrainCull": "True",
     "FFlagFixKeyframeGeneration": "True",
     "FFlagSimEditableMeshDataWriteChunked3": "True",
-    "FFlagEnableContactListRemoteEventValidation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-08T22:03:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12708,8 +12707,8 @@
     "FFlagEnableDevicePreferencesDeeplink2": "True",
     "FFlagExpChatTargetTextChannelNeverNone": "True",
     "FFlagExpChatUseUpdatedChannelBarVisible": "True",
-    "FStringFlagRepoGitHashFastString": "bc1da87133a9327614bc0d7d766f051f1ef95c7d",
-    "DFStringFlagRepoGitHashDynamicString": "bc1da87133a9327614bc0d7d766f051f1ef95c7d",
-    "FStringFlipTimeStampFastString": "2025-08-08T22:23:05.694Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-08T22:23:05.694Z"
+    "FStringFlagRepoGitHashFastString": "7510a6bf2d37d2d26f7910d389e5944eba18f231",
+    "DFStringFlagRepoGitHashDynamicString": "7510a6bf2d37d2d26f7910d389e5944eba18f231",
+    "FStringFlipTimeStampFastString": "2025-08-08T23:26:56.463Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-08T23:26:56.463Z"
 }
