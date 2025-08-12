@@ -12771,8 +12771,9 @@
     "FFlagEnableDevicePreferencesDeeplink2": "True",
     "FFlagExpChatTargetTextChannelNeverNone": "True",
     "FFlagExpChatUseUpdatedChannelBarVisible": "True",
-    "FStringFlagRepoGitHashFastString": "b32c14ef7f2fbeb3768ddbf8a7c8628bc55334b1",
-    "DFStringFlagRepoGitHashDynamicString": "b32c14ef7f2fbeb3768ddbf8a7c8628bc55334b1",
-    "FStringFlipTimeStampFastString": "2025-08-12T00:36:28.049Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-12T00:36:28.049Z"
+    "FFlagLuaAppMigrateGameTileIxp4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-12T16:31:23",
+    "FStringFlagRepoGitHashFastString": "38a93ee180ba90feda5b519ee8352d4ba0a781cd",
+    "DFStringFlagRepoGitHashDynamicString": "38a93ee180ba90feda5b519ee8352d4ba0a781cd",
+    "FStringFlipTimeStampFastString": "2025-08-12T16:32:59.967Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-12T16:32:59.967Z"
 }
