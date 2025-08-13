@@ -11843,7 +11843,8 @@
     "FFlagCapturesShowToastOnVideoCaptureInitializationFailed": "True",
     "FFlagAppChatResizeTextInputOnChatBarSizeChanged": "True",
     "DFFlagHapticServiceV1UsageThrottle": "True",
-    "FFlagUserFreecamGuiDestabilization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-13T16:34:11",
+    "FFlagChatLineReportingMessageIdEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-13T17:34:55",
+    "FFlagUserFreecamGuiDestabilization": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12713,8 +12714,8 @@
     "FFlagUploadContactsAddSource": "True",
     "FFlagAXAvatarsTabIXP1": "True",
     "FFlagEnableNotificationImageBackgroundThumbnails": "True",
-    "FStringFlagRepoGitHashFastString": "d8485753996bfd72237282c383479e5508be8684",
-    "DFStringFlagRepoGitHashDynamicString": "d8485753996bfd72237282c383479e5508be8684",
-    "FStringFlipTimeStampFastString": "2025-08-13T16:44:03.405Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-13T16:44:03.405Z"
+    "FStringFlagRepoGitHashFastString": "572a1086617b87b284560aa6d6e5d5b8030c8436",
+    "DFStringFlagRepoGitHashDynamicString": "572a1086617b87b284560aa6d6e5d5b8030c8436",
+    "FStringFlipTimeStampFastString": "2025-08-13T17:37:26.566Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-13T17:37:26.566Z"
 }
