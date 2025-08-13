@@ -11812,7 +11812,7 @@
     "FFlagAppChatDetailsTelemetry": "True",
     "FFlagAppChatMakePaddingSymmetric": "True",
     "FFlagLuaAppUnifyPlayButtonTileIxp": "True",
-    "FFlagPreventSuperBriefPeekViewClose": "True",
+    "FFlagPreventSuperBriefPeekViewClose": "False",
     "FFlagClearTableConstraintsOnDirty": "True",
     "DFFlagRbxStorageSkipSizeAfterDestroyed": "True",
     "FFlagLuaAppSduiOmniFeedSignals2": "True",
@@ -11843,6 +11843,7 @@
     "FFlagCapturesShowToastOnVideoCaptureInitializationFailed": "True",
     "FFlagAppChatResizeTextInputOnChatBarSizeChanged": "True",
     "DFFlagHapticServiceV1UsageThrottle": "True",
+    "FFlagUserFreecamGuiDestabilization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-13T16:34:11",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
@@ -12725,8 +12726,8 @@
     "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": "10000",
     "DFFlagDebugSimEnableNewAlignTypeInitialization": "True",
     "FFlagWriteBodyToFile2": "True",
-    "FStringFlagRepoGitHashFastString": "37106a5e93e8b548366dcb97dcd4713df632ea3d",
-    "DFStringFlagRepoGitHashDynamicString": "37106a5e93e8b548366dcb97dcd4713df632ea3d",
-    "FStringFlipTimeStampFastString": "2025-08-13T00:54:59.809Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-13T00:54:59.809Z"
+    "FStringFlagRepoGitHashFastString": "c1487c420433ce6ede5be5747f43ec5dbd03ef26",
+    "DFStringFlagRepoGitHashDynamicString": "c1487c420433ce6ede5be5747f43ec5dbd03ef26",
+    "FStringFlipTimeStampFastString": "2025-08-13T16:36:11.337Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-13T16:36:11.337Z"
 }
