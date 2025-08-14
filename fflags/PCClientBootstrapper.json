@@ -47,10 +47,6 @@
     "FFlagCounterNoInternetConnectionResultsList": "True",
     "FFlagUseCatalogItemDetailsToResolveBundlePurchase": "False",
     "FFlagWinInstallerReportStatusFileTelemetry": "True",
-    "DFFlagRandomNewSeedLimitReport": "True",
-    "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": "10000",
-    "DFFlagRandomNewSeedLimitReportOnce": "True",
-    "DFFlagRandomNewSeedLimitWarn": "True",
     "FFlagEnableUnknownErrorCreatorDashboardMessage": "True",
     "FFlagScaleJointsBeforeMeshes": "True",
     "FFlagEnableNotApprovedForeshadowingConsequenceABTest": "True",
@@ -74,9 +70,7 @@
     "FFlagAXRemoveAdaptiveScrollingUnusedCode": "True",
     "FFlagAXUseDynamicIsLooksWidget": "True",
     "DFFlagMeshLODTranscode2": "False",
-    "DFFlagVoiceChatCullingSendMessagesOnWorkerThread": "True",
     "FFlagReportIsFriendsWithUsage": "True",
-    "DFFlagFixFloatConversionPlaybackErrorForImage": "True",
     "FFlagAXEnableOrganicContentTemplates2": "True",
     "FFlagAgreementItemsOrderFixEnabled": "True",
     "FFlagAXFixNilItemDataCatalogContextFrame": "True",
@@ -288,8 +282,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "99f93bdbd09f279e5adaa0d2cafc10a80bceda87",
-    "DFStringFlagRepoGitHashDynamicString": "99f93bdbd09f279e5adaa0d2cafc10a80bceda87",
-    "FStringFlipTimeStampFastString": "2025-08-14T22:41:47.663Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-14T22:41:47.663Z"
+    "FStringFlagRepoGitHashFastString": "cae1931b8024055705c65f46616e8cd0941cbd04",
+    "DFStringFlagRepoGitHashDynamicString": "cae1931b8024055705c65f46616e8cd0941cbd04",
+    "FStringFlipTimeStampFastString": "2025-08-14T23:37:02.255Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-14T23:37:02.255Z"
 }
