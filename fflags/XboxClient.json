@@ -11597,9 +11597,9 @@
     "FFlagReportVideoMemoryStudioCrash": "True",
     "DFFlagSimAeroUsePreprocessingQueue3": "True",
     "DFFlagEnableDynamicReloaderV2Telemetry": "True",
-    "DFFlagSimCSGAddContextToOptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1553811620;2025-08-15T18:09:04",
     "FFlagAppleScheduledCore": "True",
     "FFlagCaptureStorageMutex": "True",
+    "DFFlagSimCSGAddContextToOptions": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11954,8 +11954,8 @@
     "DFFlagHttpCurlHttp2Enabled2": "True",
     "DFFlagDebugSimEnableNewAlignTypeInitialization": "True",
     "FFlagAXCatalogItemCardSelectedOverlayButtonLogging": "True",
-    "FStringFlagRepoGitHashFastString": "4e474c638227d5b0611da846559317d620021789",
-    "DFStringFlagRepoGitHashDynamicString": "4e474c638227d5b0611da846559317d620021789",
-    "FStringFlipTimeStampFastString": "2025-08-15T18:47:09.932Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-15T18:47:09.932Z"
+    "FStringFlagRepoGitHashFastString": "815603af6e458d1b81d8e4da97f218f6037115fb",
+    "DFStringFlagRepoGitHashDynamicString": "815603af6e458d1b81d8e4da97f218f6037115fb",
+    "FStringFlipTimeStampFastString": "2025-08-15T19:17:35.601Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-15T19:17:35.601Z"
 }
