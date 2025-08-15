@@ -13190,7 +13190,7 @@
     "FFlagAddControlsEmulatorToSystemMenu": "True",
     "FFlagSystemMenuTestFixes": "True",
     "FFlagCOLLAB8949AnnotationsAddPluginTelemetry": "True",
-    "FFlagRemoveCommentsFromContextMenuForNonTC": "True",
+    "FFlagRemoveCommentsFromContextMenuForNonTC": "False",
     "FFlagStyleEditorPreviewUIAspectRatioConstraint": "True",
     "FFlagStyleEditorTagsPriority": "True",
     "FFlagTagEditorFolderRemovalFix": "True",
@@ -13223,7 +13223,6 @@
     "FFlagLuauForInProvidesRecommendations": "True",
     "FFlagToolboxWebBrowserDeferDelete2": "True",
     "FFlagEnableCEVLogsToEventIngest": "True",
-    "FFlagRemoveCommentsFromContextMenuForNonTC_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-15T20:37:36",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13633,8 +13632,8 @@
     "FFlagSTM6148ToolboxMinWidth": "True",
     "FFlagToolboxFixInsertionAnalytics": "True",
     "FFlagStudioFireNonRepKeyEventOnStateChange": "True",
-    "FStringFlagRepoGitHashFastString": "43a652d0a0de42cfe966d097021f3b9ce7eb187d",
-    "DFStringFlagRepoGitHashDynamicString": "43a652d0a0de42cfe966d097021f3b9ce7eb187d",
-    "FStringFlipTimeStampFastString": "2025-08-15T20:39:03.898Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-15T20:39:03.898Z"
+    "FStringFlagRepoGitHashFastString": "d059b83c9008458832a9832f1e57528380e16865",
+    "DFStringFlagRepoGitHashDynamicString": "d059b83c9008458832a9832f1e57528380e16865",
+    "FStringFlipTimeStampFastString": "2025-08-15T21:51:53.633Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-15T21:51:53.633Z"
 }
