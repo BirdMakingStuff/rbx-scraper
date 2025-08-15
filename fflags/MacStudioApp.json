@@ -13223,6 +13223,7 @@
     "FFlagLuauForInProvidesRecommendations": "True",
     "FFlagToolboxWebBrowserDeferDelete2": "True",
     "FFlagEnableCEVLogsToEventIngest": "True",
+    "FFlagRemoveCommentsFromContextMenuForNonTC_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-15T20:37:36",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -13603,8 +13604,8 @@
     "FIntWebBrowserPreloadSTM6221CleanupThresoldMB": "1000000",
     "FFlagSTM6148ToolboxMinWidth": "True",
     "FFlagToolboxFixInsertionAnalytics": "True",
-    "FStringFlagRepoGitHashFastString": "815603af6e458d1b81d8e4da97f218f6037115fb",
-    "DFStringFlagRepoGitHashDynamicString": "815603af6e458d1b81d8e4da97f218f6037115fb",
-    "FStringFlipTimeStampFastString": "2025-08-15T19:17:35.601Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-15T19:17:35.601Z"
+    "FStringFlagRepoGitHashFastString": "43a652d0a0de42cfe966d097021f3b9ce7eb187d",
+    "DFStringFlagRepoGitHashDynamicString": "43a652d0a0de42cfe966d097021f3b9ce7eb187d",
+    "FStringFlipTimeStampFastString": "2025-08-15T20:39:03.898Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-15T20:39:03.898Z"
 }
