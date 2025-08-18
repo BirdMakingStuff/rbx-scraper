@@ -266,8 +266,7 @@
     "FFlagMacInstallerFixUnzipErrorHandling": "True",
     "FFlagAXCatalogItemCardSelectedOverlayButtonLogging": "True",
     "FFlagEnableCEVLogsToEventIngest": "True",
-    "FFlagEnableCEVLogsToEventIngest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T18:29:56",
-    "DFIntCevVoiceLifecycleEventsThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T18:32:08",
+    "DFIntCevVoiceLifecycleEventsThrottleHundrethsPercent": "10000",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -280,8 +279,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "002ccffaae0eeec8a48419eceb95413d5a8b572a",
-    "DFStringFlagRepoGitHashDynamicString": "002ccffaae0eeec8a48419eceb95413d5a8b572a",
-    "FStringFlipTimeStampFastString": "2025-08-18T18:49:19.698Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-18T18:49:19.698Z"
+    "FStringFlagRepoGitHashFastString": "a4d8193085fb4aeb1ec225ab78bf3d9e3dbdb4bc",
+    "DFStringFlagRepoGitHashDynamicString": "a4d8193085fb4aeb1ec225ab78bf3d9e3dbdb4bc",
+    "FStringFlipTimeStampFastString": "2025-08-18T19:36:46.278Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-18T19:36:46.278Z"
 }
