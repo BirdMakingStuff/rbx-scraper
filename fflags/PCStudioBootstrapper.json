@@ -268,6 +268,7 @@
     "FFlagEnableCEVLogsToEventIngest": "True",
     "DFIntCevVoiceLifecycleEventsThrottleHundrethsPercent": "10000",
     "FFlagWinInstallerUseBITS2": "False",
+    "FFlagCoreScriptsMigrateFromLegacyCSVLoc4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-20T20:57:16",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -281,8 +282,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "a3954efecab5e4fbb9d684cfecd5db0c685b3c7a",
-    "DFStringFlagRepoGitHashDynamicString": "a3954efecab5e4fbb9d684cfecd5db0c685b3c7a",
-    "FStringFlipTimeStampFastString": "2025-08-20T20:38:52.074Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-20T20:38:52.074Z"
+    "FStringFlagRepoGitHashFastString": "b91736df86fec6ebf8d2268939c20513a53ad1a9",
+    "DFStringFlagRepoGitHashDynamicString": "b91736df86fec6ebf8d2268939c20513a53ad1a9",
+    "FStringFlipTimeStampFastString": "2025-08-20T21:34:47.777Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-20T21:34:47.777Z"
 }
