@@ -11991,6 +11991,7 @@
     "DFIntSQLiteLockedChkpointMaxReport": "2",
     "FFlagLuaAppFixEdpMediaGalleryJank": "True",
     "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
+    "FFlagScreenshotsigning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-22T21:48:04",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12455,8 +12456,8 @@
     "DFIntBatchWorkflowRefreshMaxWaitMs": "120",
     "DFIntBatchWorkflowRefreshMinWaitMs": "30",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "e48d27de6a97703bfeb67868311039ef5238eae2",
-    "DFStringFlagRepoGitHashDynamicString": "e48d27de6a97703bfeb67868311039ef5238eae2",
-    "FStringFlipTimeStampFastString": "2025-08-22T21:28:17.287Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-22T21:28:17.287Z"
+    "FStringFlagRepoGitHashFastString": "975dad8dc5b3926348edc1305119c1bab58f27e3",
+    "DFStringFlagRepoGitHashDynamicString": "975dad8dc5b3926348edc1305119c1bab58f27e3",
+    "FStringFlipTimeStampFastString": "2025-08-22T22:32:39.637Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-22T22:32:39.637Z"
 }
