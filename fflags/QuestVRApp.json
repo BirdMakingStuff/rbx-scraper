@@ -11455,7 +11455,6 @@
     "DFIntAdsLifecycleStateTransitionSessionThrottleHundrethsPercent": "10000",
     "FFlagAddNavigationToTryOnPageForCurrentlyWearing_IXP": "1;Social.ProfileCurrentlyWearingClickThrough;Social.ProfileCurrentlyWearingClickThrough.NavigateCWToTryonPage-2;2079529386;flagbank",
     "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": "10",
-    "DFFlagOptimizeAnimatedBones_PlaceFilter": "True;120148879522453",
     "DFFlagInitTombstoneAfterBlockingFetch": "False",
     "FFlagBootcampCLI162827": "True",
     "FFlagToolboxSaves2": "True",
@@ -11525,8 +11524,8 @@
     "FFlagLuauCodeGenSimplifyImport2": "True",
     "UseAppCrashpadReporterAndroid": "True",
     "DFFlagLocalVideoSessionTracking": "True",
-    "FFlagLoadInternalPluginsSetting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-22T18:24:38",
     "FFlagBoneDataSOA": "True",
+    "FFlagLoadInternalPluginsSetting": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12469,9 +12468,9 @@
     "FFlagEnableDevicePreferencesDeeplink2": "True",
     "FFlagExpChatTargetTextChannelNeverNone": "True",
     "FFlagExpChatUseUpdatedChannelBarVisible": "True",
-    "FFlagLuaAppEdpMediaGalleryUseRbxThumb_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;123561224;2025-08-22T18:24:33",
-    "FStringFlagRepoGitHashFastString": "a4ed77432ae9961b0b40f83233d407414ce3af1d",
-    "DFStringFlagRepoGitHashDynamicString": "a4ed77432ae9961b0b40f83233d407414ce3af1d",
-    "FStringFlipTimeStampFastString": "2025-08-22T18:31:40.788Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-22T18:31:40.788Z"
+    "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
+    "FStringFlagRepoGitHashFastString": "70eb8ad8e2d213d55c7aad87cc0a65d535f925f3",
+    "DFStringFlagRepoGitHashDynamicString": "70eb8ad8e2d213d55c7aad87cc0a65d535f925f3",
+    "FStringFlipTimeStampFastString": "2025-08-22T19:31:20.487Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-22T19:31:20.487Z"
 }
