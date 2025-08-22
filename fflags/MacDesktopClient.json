@@ -11939,7 +11939,7 @@
     "FFlagRenderClusterOctree": "True",
     "FFlagCLI1533232": "True",
     "FFlagWHAM1890": "True",
-    "FFlagFixUnifiedForceFieldOutline2": "False",
+    "FFlagFixUnifiedForceFieldOutline2": "True",
     "FFlagAXCategoryUnifiedLogging": "True",
     "FFlagGetHumanoidDescriptionUpdatesV2B": "True",
     "FFlagCoreScriptsMigrateFromLegacyCSVLoc4": "True",
@@ -11961,7 +11961,6 @@
     "DFIntSQLiteFullChkpointMaxReport": "3",
     "DFIntSQLiteLockedChkpointMaxReport": "2",
     "FFlagLuaAppBootcampIntroUABOOTCAMP95": "True",
-    "FFlagFixUnifiedForceFieldOutline2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-22T18:48:59",
     "FFlagLuaAppFixEdpMediaGalleryJank": "True",
     "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
     "AllowVideoPreRoll": "True",
@@ -12383,8 +12382,8 @@
     "FIntPartyVoiceUndeafenDelayMS": "50",
     "FFlagLuaAppBootcampIntroUABOOTCAMP98": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
-    "FStringFlagRepoGitHashFastString": "70eb8ad8e2d213d55c7aad87cc0a65d535f925f3",
-    "DFStringFlagRepoGitHashDynamicString": "70eb8ad8e2d213d55c7aad87cc0a65d535f925f3",
-    "FStringFlipTimeStampFastString": "2025-08-22T19:31:20.487Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-22T19:31:20.487Z"
+    "FStringFlagRepoGitHashFastString": "99c09759cb2337a270ce0b1c746034132fbbcb85",
+    "DFStringFlagRepoGitHashDynamicString": "99c09759cb2337a270ce0b1c746034132fbbcb85",
+    "FStringFlipTimeStampFastString": "2025-08-22T19:51:18.252Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-22T19:51:18.252Z"
 }
