@@ -11523,8 +11523,10 @@
     "FFlagAvatarSettingsAddAdditionalR6AnimPackItems": "True",
     "FFlagAvatarSettingsStrafingFix": "True",
     "FFlagLuauCodeGenSimplifyImport2": "True",
-    "DFFlagLocalVideoSessionTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-22T17:15:54",
-    "FFlagBoneDataSOA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-22T17:21:45",
+    "UseAppCrashpadReporterAndroid": "True",
+    "DFFlagLocalVideoSessionTracking": "True",
+    "FFlagLoadInternalPluginsSetting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-22T18:24:38",
+    "FFlagBoneDataSOA": "True",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -11757,8 +11759,10 @@
     "DFFlagDisableLTAnalytics": "True",
     "FFlagRenderClusterOctree": "True",
     "DFFlagRenderFastClusterOcclusionCulling": "False",
-    "FStringFlagRepoGitHashFastString": "fa26bc6961b24664452e31ca82efcf4d3ab93b5d",
-    "DFStringFlagRepoGitHashDynamicString": "fa26bc6961b24664452e31ca82efcf4d3ab93b5d",
-    "FStringFlipTimeStampFastString": "2025-08-22T17:36:51.689Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-22T17:36:51.689Z"
+    "FFlagInputEventsRace_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-22T17:54:06",
+    "FFlagLuaAppEdpMediaGalleryUseRbxThumb_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;123561224;2025-08-22T18:24:33",
+    "FStringFlagRepoGitHashFastString": "a4ed77432ae9961b0b40f83233d407414ce3af1d",
+    "DFStringFlagRepoGitHashDynamicString": "a4ed77432ae9961b0b40f83233d407414ce3af1d",
+    "FStringFlipTimeStampFastString": "2025-08-22T18:31:40.788Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-22T18:31:40.788Z"
 }
