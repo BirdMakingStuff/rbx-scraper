@@ -231,7 +231,6 @@
     "FFlagUseCurrentDataModelLocales9": "True",
     "FFlagPassAuthCodeToStudio": "True",
     "FFlagMacStudioInstallerAuthCodeEnabled2": "True",
-    "FFlagTelemetryDataReArchTransmission9": "True",
     "FFlagAXOpenExperienceDetailsInFullView": "True",
     "FFlagAXReplaceDefaultHeadAssetId": "True",
     "DFFlagBlanketFSExceptCatch": "True",
@@ -286,8 +285,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "20294486649ba28e72138bf5d454f07d0b5d5b0d",
-    "DFStringFlagRepoGitHashDynamicString": "20294486649ba28e72138bf5d454f07d0b5d5b0d",
-    "FStringFlipTimeStampFastString": "2025-08-26T01:06:04.656Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-26T01:06:04.656Z"
+    "FStringFlagRepoGitHashFastString": "5da894fd6d2c96802776667a95002bd034aafa44",
+    "DFStringFlagRepoGitHashDynamicString": "5da894fd6d2c96802776667a95002bd034aafa44",
+    "FStringFlipTimeStampFastString": "2025-08-26T16:39:45.405Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-26T16:39:45.405Z"
 }

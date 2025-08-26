@@ -11605,6 +11605,9 @@
     "FFlagIsSquadCoordinationExperienceJoinExperimentExposureEnabled": "True",
     "DFFlagHttpCurlPipeWaitEnabled2": "True",
     "FFlagUseRuntimeMutexFileMeshDataScratch": "True",
+    "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "DFFlagTextChatFilterAttributionB_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T16:21:53",
+    "FFlagToolboxRetryReloadFailures2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T16:38:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13221,7 +13224,6 @@
     "FFlagEnableRibbonTour": "False",
     "FFlagAssetExportDontGenerateDecalGeometryWithoutTextures": "True",
     "DFIntAssetProviderCallbackExecutorThreadCount": "2",
-    "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13634,8 +13636,8 @@
     "FFlagSTM6148ToolboxMinWidth": "True",
     "FFlagToolboxFixInsertionAnalytics": "True",
     "FFlagLiveAnimationUpdateSupport": "True",
-    "FStringFlagRepoGitHashFastString": "20294486649ba28e72138bf5d454f07d0b5d5b0d",
-    "DFStringFlagRepoGitHashDynamicString": "20294486649ba28e72138bf5d454f07d0b5d5b0d",
-    "FStringFlipTimeStampFastString": "2025-08-26T01:06:04.656Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-26T01:06:04.656Z"
+    "FStringFlagRepoGitHashFastString": "5da894fd6d2c96802776667a95002bd034aafa44",
+    "DFStringFlagRepoGitHashDynamicString": "5da894fd6d2c96802776667a95002bd034aafa44",
+    "FStringFlipTimeStampFastString": "2025-08-26T16:39:45.405Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-26T16:39:45.405Z"
 }

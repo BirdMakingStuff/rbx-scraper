@@ -11605,6 +11605,10 @@
     "FFlagIsSquadCoordinationExperienceJoinExperimentExposureEnabled": "True",
     "DFFlagHttpCurlPipeWaitEnabled2": "True",
     "FFlagUseRuntimeMutexFileMeshDataScratch": "True",
+    "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "DFFlagTextChatFilterAttributionB_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T16:21:53",
+    "FFlagToolboxRetryReloadFailures2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T16:38:31",
+    "FFlagRenderSmoothClusterFixAsyncMeshCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T16:43:40",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13221,7 +13225,6 @@
     "FFlagEnableRibbonTour": "False",
     "FFlagAssetExportDontGenerateDecalGeometryWithoutTextures": "True",
     "DFIntAssetProviderCallbackExecutorThreadCount": "2",
-    "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13642,8 +13645,8 @@
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagAICOBetaFeature": "False",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "20294486649ba28e72138bf5d454f07d0b5d5b0d",
-    "DFStringFlagRepoGitHashDynamicString": "20294486649ba28e72138bf5d454f07d0b5d5b0d",
-    "FStringFlipTimeStampFastString": "2025-08-26T01:06:04.656Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-26T01:06:04.656Z"
+    "FStringFlagRepoGitHashFastString": "c31b1d709f228213cf2d6ffdb3c44dfa3920be35",
+    "DFStringFlagRepoGitHashDynamicString": "c31b1d709f228213cf2d6ffdb3c44dfa3920be35",
+    "FStringFlipTimeStampFastString": "2025-08-26T16:45:07.908Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-26T16:45:07.908Z"
 }
