@@ -12052,6 +12052,7 @@
     "FFlagRecordCevJoinAttemptIdInObserverSetup": "True",
     "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM": "EnableManualRetry",
     "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "15",
+    "FFlagGalleryStopGap_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T20:39:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12471,8 +12472,9 @@
     "FIntNativePurchaseRobuxPageWrapperStatThrottlingPercentage": "100",
     "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
     "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
-    "FStringFlagRepoGitHashFastString": "7120e58013656f8a83eeafe89ad47232ef4d10e3",
-    "DFStringFlagRepoGitHashDynamicString": "7120e58013656f8a83eeafe89ad47232ef4d10e3",
-    "FStringFlipTimeStampFastString": "2025-08-29T20:18:01.047Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-29T20:18:01.047Z"
+    "FFlagReconnectToSameServer_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T21:25:24",
+    "FStringFlagRepoGitHashFastString": "88667fb78c8eca83ada8455f01cccf43db6b9fc5",
+    "DFStringFlagRepoGitHashDynamicString": "88667fb78c8eca83ada8455f01cccf43db6b9fc5",
+    "FStringFlipTimeStampFastString": "2025-08-29T21:26:05.925Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-29T21:26:05.925Z"
 }
