@@ -11578,6 +11578,7 @@
     "FFlagUIPageLayoutVirtualCursor": "True",
     "DFFlagPlaceLauncherHttpResponseTelemetry": "True",
     "DFFlagVideoConfigurableGopSize": "True",
+    "FFlagToolboxUGCBundleTypesEnum_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T02:58:05",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12429,8 +12430,8 @@
     "DFFlagMicroProfilerNetworkPlugin2": "True",
     "FFlagCapturesVideoDeleteAsync": "True",
     "FFlagUseNewPlayerList3_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1311422581;flagbank",
-    "FStringFlagRepoGitHashFastString": "4fd56374b4998aa20cfcda9c4a4c9141ae365f8e",
-    "DFStringFlagRepoGitHashDynamicString": "4fd56374b4998aa20cfcda9c4a4c9141ae365f8e",
-    "FStringFlipTimeStampFastString": "2025-08-29T02:01:13.505Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-29T02:01:13.505Z"
+    "FStringFlagRepoGitHashFastString": "e0bf7f4064352208c933e100e500286293c50fc2",
+    "DFStringFlagRepoGitHashDynamicString": "e0bf7f4064352208c933e100e500286293c50fc2",
+    "FStringFlipTimeStampFastString": "2025-08-29T03:01:29.002Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-29T03:01:29.002Z"
 }

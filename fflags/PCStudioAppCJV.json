@@ -11578,6 +11578,7 @@
     "FFlagUIPageLayoutVirtualCursor": "True",
     "DFFlagPlaceLauncherHttpResponseTelemetry": "True",
     "DFFlagVideoConfigurableGopSize": "True",
+    "FFlagToolboxUGCBundleTypesEnum_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T02:58:05",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13217,10 +13218,9 @@
     "FFlagSecretsEditorNoDraft": "True",
     "FFlagAvatarSettingsAvatarTypeFix": "True",
     "FFlagDmLockFixForTimerServiceCreate": "True",
-    "FFlagExplorerShowOrientationIndicator": "True",
+    "FFlagExplorerShowOrientationIndicator": "False",
     "DFFlagHttpSslDistrust0415252": "True",
     "FFlagStudioFixOverloadedScriptEditorAction": "True",
-    "FFlagExplorerShowOrientationIndicator_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T02:00:05",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13657,8 +13657,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "4fd56374b4998aa20cfcda9c4a4c9141ae365f8e",
-    "DFStringFlagRepoGitHashDynamicString": "4fd56374b4998aa20cfcda9c4a4c9141ae365f8e",
-    "FStringFlipTimeStampFastString": "2025-08-29T02:01:13.505Z",
-    "DFStringFlipTimeStampDynamicString": "2025-08-29T02:01:13.505Z"
+    "FStringFlagRepoGitHashFastString": "e0bf7f4064352208c933e100e500286293c50fc2",
+    "DFStringFlagRepoGitHashDynamicString": "e0bf7f4064352208c933e100e500286293c50fc2",
+    "FStringFlipTimeStampFastString": "2025-08-29T03:01:29.002Z",
+    "DFStringFlipTimeStampDynamicString": "2025-08-29T03:01:29.002Z"
 }
