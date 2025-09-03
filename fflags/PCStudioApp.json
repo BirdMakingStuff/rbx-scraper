@@ -11624,6 +11624,8 @@
     "FFlagVisualizationModesAddContextStack": "True",
     "FFlagSafetyRCCTelemetrySafer": "True",
     "FFlagUseRuntimeMutexNetworkSecurityChannel": "True",
+    "DFFlagRenderModelClusterOcclusionCulling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T16:02:24",
+    "FFlagEnableBacktraceMetricKitReporter2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T16:32:31",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13681,6 +13683,7 @@
     "FFlagFixCheckboxFeedbackFormModalTermsOfUseWebView": "True",
     "FFlagFixProvideFeedbackToastPositioning": "True",
     "FFlagEnableExplicitFeedbackForRFY2": "True",
+    "FStringDisableHQShadersDx11List_Staged": ".*:.*:D3D10.*|32902:70:.*|32902:1030:.*|32902:342:.*|32902:23173:.*|32902:8880:.*|32902:262:.*|32902:3889.*|32902:2566.*|32902:258.*|32902:338.*|32902:1026.*|32902:8881.*|32902:2582:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T16:40:28",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13713,8 +13716,8 @@
     "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
     "FFlagEmulatorButtonNewActionReg": "True",
     "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-    "FStringFlagRepoGitHashFastString": "a89921d51dae16c823f734161fd5e4e36c5f65f8",
-    "DFStringFlagRepoGitHashDynamicString": "a89921d51dae16c823f734161fd5e4e36c5f65f8",
-    "FStringFlipTimeStampFastString": "2025-09-03T01:02:11.476Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-03T01:02:11.476Z"
+    "FStringFlagRepoGitHashFastString": "a7d410ff3aad03383162d2f80ca862127be9a3c7",
+    "DFStringFlagRepoGitHashDynamicString": "a7d410ff3aad03383162d2f80ca862127be9a3c7",
+    "FStringFlipTimeStampFastString": "2025-09-03T16:42:35.594Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-03T16:42:35.594Z"
 }
