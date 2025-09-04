@@ -272,7 +272,8 @@
     "DFFlagTeleportReconnect": "False",
     "FFlagReconnectToSameServer": "False",
     "DFFlagPlaceLauncherHttpResponseTelemetry": "False",
-    "FFlagVoiceWebrtcIceInActiveTimeoutEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:39:30",
+    "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
+    "DFIntVoiceWebrtcIceInActiveTimeoutMs_Staged": "30000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:47:35",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -294,8 +295,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "6be04fc1088041bf48758ae9acc1ab085fd97b9c",
-    "DFStringFlagRepoGitHashDynamicString": "6be04fc1088041bf48758ae9acc1ab085fd97b9c",
-    "FStringFlipTimeStampFastString": "2025-09-04T17:29:55.130Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-04T17:29:55.130Z"
+    "FStringFlagRepoGitHashFastString": "1199e8e4b1e4eb5f65b01e17430b7c7ed04f3b77",
+    "DFStringFlagRepoGitHashDynamicString": "1199e8e4b1e4eb5f65b01e17430b7c7ed04f3b77",
+    "FStringFlipTimeStampFastString": "2025-09-04T18:42:32.618Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-04T18:42:32.618Z"
 }
