@@ -11646,7 +11646,7 @@
     "FFlagEnableRoactNetworkingForChallengeInteception": "True",
     "FFlagAXMarketplaceBackButtonV2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.BackButtonToX;1543005829;dev_controlled",
     "FFlagAXMarketplaceBackButtonV2LogExposure_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.BackButtonToX;1543005829;dev_controlled",
-    "DFFlagFixPartParentedToCharacterModel": "True",
+    "DFFlagFixPartParentedToCharacterModel": "False",
     "DFFlagVoiceFixBracesInBraces2": "True",
     "FFlagEnableCapturesGalleryRetrievalCoreScript_v3": "True",
     "FFlagCapturesVideoDeleteAsync": "True",
@@ -11669,6 +11669,8 @@
     "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "15",
     "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM": "EnableManualRetry",
     "FFlagLuaAppProcessGameSocialLinks": "True",
+    "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T15:58:09",
+    "FFlagSimGeometrySamplingReduceHeapAllocations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:37:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11966,8 +11968,8 @@
     "FFlagFixProvideFeedbackToastPositioning": "True",
     "FFlagEnableExplicitFeedbackForRFY2": "True",
     "FFlagExpChatGuacChatDisabledReason": "True",
-    "FStringFlagRepoGitHashFastString": "5c7036a902027fe95452fbc6f12533d1ee50d257",
-    "DFStringFlagRepoGitHashDynamicString": "5c7036a902027fe95452fbc6f12533d1ee50d257",
-    "FStringFlipTimeStampFastString": "2025-09-04T02:46:17.802Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-04T02:46:17.802Z"
+    "FStringFlagRepoGitHashFastString": "5844c2c6b024e935fbadbea89a008801c90bd948",
+    "DFStringFlagRepoGitHashDynamicString": "5844c2c6b024e935fbadbea89a008801c90bd948",
+    "FStringFlipTimeStampFastString": "2025-09-04T16:40:41.258Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-04T16:40:41.258Z"
 }
