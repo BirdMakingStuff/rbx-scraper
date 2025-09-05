@@ -11534,7 +11534,7 @@
     "DFFlagIgnoreParam": "True",
     "DFFlagScreenshotScreening": "True",
     "DFFlagFixMultipartUploadField": "True",
-    "FFlagDisableiOSRBXCrashObserver2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-05T17:50:58",
+    "FFlagDisableiOSRBXCrashObserver2": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12507,8 +12507,8 @@
     "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "100",
     "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
     "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
-    "FStringFlagRepoGitHashFastString": "caf7e33a937c057374e1dc33c2fd6c4b200153c4",
-    "DFStringFlagRepoGitHashDynamicString": "caf7e33a937c057374e1dc33c2fd6c4b200153c4",
-    "FStringFlipTimeStampFastString": "2025-09-05T18:41:35.109Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-05T18:41:35.109Z"
+    "FStringFlagRepoGitHashFastString": "9932d52fc7b5c18f2ecd4ff51f32f69537cedd71",
+    "DFStringFlagRepoGitHashDynamicString": "9932d52fc7b5c18f2ecd4ff51f32f69537cedd71",
+    "FStringFlipTimeStampFastString": "2025-09-05T19:02:32.152Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-05T19:02:32.152Z"
 }
