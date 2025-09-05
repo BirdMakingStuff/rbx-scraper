@@ -11535,6 +11535,8 @@
     "DFFlagScreenshotScreening": "True",
     "DFFlagFixMultipartUploadField": "True",
     "FFlagDisableiOSRBXCrashObserver2": "True",
+    "FFlagVoiceChatClientRebootOperationFailureReasonTelemetry": "True",
+    "FFlagVoiceChatFixSeamlessVoiceIntegration": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -11988,9 +11990,7 @@
     "DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter": "True;18412633979;16101250253;16146832113;4924922222",
     "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:200,1686885941:150;16101250253;18412633979;16146832113;4924922222",
     "DFFlagDataStoreEnableRdbShadowTraffic_PlaceFilter": "True;16101250253;18412633979;16146832113;4924922222",
-    "FFlagVoiceChatClientRebootOperationFailureReasonTelemetry": "True",
     "FFlagSimAeroNewNewtonLogging": "True",
-    "FFlagVoiceChatFixSeamlessVoiceIntegration": "True",
     "DFFlagEnableFeatureTimeoutMigration": "True",
     "DFFlagUnbindVibrationEvent": "True",
     "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled",
@@ -12507,8 +12507,8 @@
     "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "100",
     "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
     "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
-    "FStringFlagRepoGitHashFastString": "9932d52fc7b5c18f2ecd4ff51f32f69537cedd71",
-    "DFStringFlagRepoGitHashDynamicString": "9932d52fc7b5c18f2ecd4ff51f32f69537cedd71",
-    "FStringFlipTimeStampFastString": "2025-09-05T19:02:32.152Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-05T19:02:32.152Z"
+    "FStringFlagRepoGitHashFastString": "d35382119b1e8c61403d59e93cf2802187d653fc",
+    "DFStringFlagRepoGitHashDynamicString": "d35382119b1e8c61403d59e93cf2802187d653fc",
+    "FStringFlipTimeStampFastString": "2025-09-05T20:01:50.967Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-05T20:01:50.967Z"
 }

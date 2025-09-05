@@ -11535,6 +11535,8 @@
     "DFFlagScreenshotScreening": "True",
     "DFFlagFixMultipartUploadField": "True",
     "FFlagDisableiOSRBXCrashObserver2": "True",
+    "FFlagVoiceChatClientRebootOperationFailureReasonTelemetry": "True",
+    "FFlagVoiceChatFixSeamlessVoiceIntegration": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12411,8 +12413,6 @@
     "AndroidEnalbeDisplaySizeInMillimeters": "true",
     "FFlagDynamicTranslationNumberParameterizationEnabled2": "True",
     "FFlagExpChatGuacChatDisabledReason": "True",
-    "FFlagVoiceChatClientRebootOperationFailureReasonTelemetry": "True",
-    "FFlagVoiceChatFixSeamlessVoiceIntegration": "True",
     "FFlagGamepadSurfaceGuiCorrections": "True",
     "FFlagPrecomputeDeformVertices_PlaceFilter": "True;120148879522453;73226809349189;119602771011506",
     "DFFlagCLI166515_IXP": "1;Portal.AAC_Priority-1756922507;AAC_Empty_Response;1610249722;flagbank",
@@ -12679,8 +12679,8 @@
     "FFlagLuaAppEdpOnlyEnableFmodIfVideo": "True",
     "FFlagLuaAppEdpMediaGalleryVideoAudioFix2": "True",
     "FFlagAXAvatarsTabErrorCounter": "True",
-    "FStringFlagRepoGitHashFastString": "9932d52fc7b5c18f2ecd4ff51f32f69537cedd71",
-    "DFStringFlagRepoGitHashDynamicString": "9932d52fc7b5c18f2ecd4ff51f32f69537cedd71",
-    "FStringFlipTimeStampFastString": "2025-09-05T19:02:32.152Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-05T19:02:32.152Z"
+    "FStringFlagRepoGitHashFastString": "d35382119b1e8c61403d59e93cf2802187d653fc",
+    "DFStringFlagRepoGitHashDynamicString": "d35382119b1e8c61403d59e93cf2802187d653fc",
+    "FStringFlipTimeStampFastString": "2025-09-05T20:01:50.967Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-05T20:01:50.967Z"
 }
