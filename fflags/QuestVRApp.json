@@ -11534,6 +11534,7 @@
     "DFFlagIgnoreParam": "True",
     "DFFlagScreenshotScreening": "True",
     "DFFlagFixMultipartUploadField": "True",
+    "FFlagDisableiOSRBXCrashObserver2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-05T17:50:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12414,6 +12415,7 @@
     "FFlagVoiceChatFixSeamlessVoiceIntegration": "True",
     "FFlagGamepadSurfaceGuiCorrections": "True",
     "FFlagPrecomputeDeformVertices_PlaceFilter": "True;120148879522453;73226809349189;119602771011506",
+    "DFFlagCLI166515_IXP": "1;Portal.AAC_Priority-1756922507;AAC_Empty_Response;1610249722;flagbank",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -12482,8 +12484,8 @@
     "FFlagExpChatUseUpdatedChannelBarVisible": "True",
     "FFlagNotificationsComplianceShouldRestrictStream": "True",
     "FFlagLuaAppIECVREnabled5_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;1018543296;flagbank",
-    "FStringFlagRepoGitHashFastString": "5cb9b10189bf1ae9d290ab4933cf4f7f5b7ebc83",
-    "DFStringFlagRepoGitHashDynamicString": "5cb9b10189bf1ae9d290ab4933cf4f7f5b7ebc83",
-    "FStringFlipTimeStampFastString": "2025-09-05T17:35:37.461Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-05T17:35:37.461Z"
+    "FStringFlagRepoGitHashFastString": "caf7e33a937c057374e1dc33c2fd6c4b200153c4",
+    "DFStringFlagRepoGitHashDynamicString": "caf7e33a937c057374e1dc33c2fd6c4b200153c4",
+    "FStringFlipTimeStampFastString": "2025-09-05T18:41:35.109Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-05T18:41:35.109Z"
 }
