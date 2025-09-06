@@ -13181,6 +13181,7 @@
     "FFlagCinFixShouldImportBulkApplyPlugin": "True",
     "FFlagLuauRawGetHandlesNil": "True",
     "FFlagLuauSuggestHotComments": "True",
+    "FFlagUseGroupsUserCanCreateAssetsForInsteadOfCanManage_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;96771476;2025-09-06T02:19:41",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -13601,8 +13602,8 @@
     "FFlagEmulatorButtonNewActionReg": "True",
     "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
     "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-    "FStringFlagRepoGitHashFastString": "5a37f6d284d49f6b05e5dbc45dbd2ef5c7e526c1",
-    "DFStringFlagRepoGitHashDynamicString": "5a37f6d284d49f6b05e5dbc45dbd2ef5c7e526c1",
-    "FStringFlipTimeStampFastString": "2025-09-05T23:56:25.893Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-05T23:56:25.893Z"
+    "FStringFlagRepoGitHashFastString": "e2370b8a003ac4396608784d9bf7a542bc3f0a05",
+    "DFStringFlagRepoGitHashDynamicString": "e2370b8a003ac4396608784d9bf7a542bc3f0a05",
+    "FStringFlipTimeStampFastString": "2025-09-06T02:20:29.023Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-06T02:20:29.023Z"
 }
