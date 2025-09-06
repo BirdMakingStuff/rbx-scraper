@@ -13171,7 +13171,7 @@
     "FFlagLoadFontAssetsFromAllAssetPaths": "True",
     "FFlagEnableNewAssistant2": "True",
     "FFlagExplorerExposeDoubleClick": "True",
-    "FFlagUseGroupsUserCanCreateAssetsForInsteadOfCanManage": "True",
+    "FFlagUseGroupsUserCanCreateAssetsForInsteadOfCanManage": "False",
     "FFlagEnableIXPForNewAssistant3": "True",
     "FFlagStandaloneDmLoadBuilderIcon": "True",
     "FFlagUGCValidateStopNaNsInfsInAnimationKeys": "True",
@@ -13181,7 +13181,6 @@
     "FFlagCinFixShouldImportBulkApplyPlugin": "True",
     "FFlagLuauRawGetHandlesNil": "True",
     "FFlagLuauSuggestHotComments": "True",
-    "FFlagUseGroupsUserCanCreateAssetsForInsteadOfCanManage_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;96771476;2025-09-06T02:19:41",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13637,8 +13636,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "e2370b8a003ac4396608784d9bf7a542bc3f0a05",
-    "DFStringFlagRepoGitHashDynamicString": "e2370b8a003ac4396608784d9bf7a542bc3f0a05",
-    "FStringFlipTimeStampFastString": "2025-09-06T02:20:29.023Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-06T02:20:29.023Z"
+    "FStringFlagRepoGitHashFastString": "1827cbbb591e33afea11d9b62f24e065c6229ca4",
+    "DFStringFlagRepoGitHashDynamicString": "1827cbbb591e33afea11d9b62f24e065c6229ca4",
+    "FStringFlipTimeStampFastString": "2025-09-06T03:21:31.934Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-06T03:21:31.934Z"
 }
