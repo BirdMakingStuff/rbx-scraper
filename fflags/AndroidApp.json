@@ -11538,6 +11538,7 @@
     "FFlagFlagRolloutTestStaticBool2": "False",
     "FFlagFlagRolloutTestStaticBool3": "False",
     "FFlagFlagRolloutTestStaticBool4": "False",
+    "DFIntProductIdProductInfoCacheLifetimeSeconds_PlaceFilter": "21600;109983668079237;96342491571673;128762245270197;119602771011506;120148879522453;73226809349189;126884695634066;91867617264223;92172729639703;111261310905721;140398800602847;72448243468680;76010444151560;88043432908614;129432912780453;104538457589939",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12417,8 +12418,8 @@
     "FFlagGamepadSurfaceGuiCorrections": "True",
     "FFlagPrecomputeDeformVertices_PlaceFilter": "True;120148879522453;73226809349189;119602771011506",
     "DFFlagCLI166515_IXP": "1;Portal.AAC_Priority-1756922507;AAC_Empty_Response;1610249722;flagbank",
-    "FStringFlagRepoGitHashFastString": "f25138b4373a2440f04f4c10821d1f5aafb29f04",
-    "DFStringFlagRepoGitHashDynamicString": "f25138b4373a2440f04f4c10821d1f5aafb29f04",
-    "FStringFlipTimeStampFastString": "2025-09-05T22:47:11.535Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-05T22:47:11.535Z"
+    "FStringFlagRepoGitHashFastString": "5a37f6d284d49f6b05e5dbc45dbd2ef5c7e526c1",
+    "DFStringFlagRepoGitHashDynamicString": "5a37f6d284d49f6b05e5dbc45dbd2ef5c7e526c1",
+    "FStringFlipTimeStampFastString": "2025-09-05T23:56:25.893Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-05T23:56:25.893Z"
 }
