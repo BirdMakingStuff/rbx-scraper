@@ -11601,7 +11601,10 @@
     "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
     "DFFlagISRPerfPass_PlaceFilter": "True;189707",
     "FFlagISREarlyFilterAnimatedJoints_PlaceFilter": "True;189707",
-    "FFlagLuaAppStopSpammingBacktraceExpCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;419386819;2025-09-08T23:06:44",
+    "FFlagLuaAppStopSpammingBacktraceExpCache": "True",
+    "FFlagIgnoreParentAudioOcclusion": "True",
+    "DFFlagDebugDrawEngineContext": "True",
+    "DFFlagDebugDrawEnable": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12555,10 +12558,10 @@
     "FFlagNotificationsComplianceShouldRestrictStream": "True",
     "FFlagLuaAppIECVREnabled5_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;1018543296;flagbank",
     "FFlagFixDisplaySizeVR": "True",
-    "FFlagUKOSALegacyReportMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T22:30:21",
-    "FFlagLuaAppEventDetailsFocusNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;85211845;2025-09-08T23:08:55",
-    "FStringFlagRepoGitHashFastString": "d622b4ac0c401af60296c088398daf17929752f3",
-    "DFStringFlagRepoGitHashDynamicString": "d622b4ac0c401af60296c088398daf17929752f3",
-    "FStringFlipTimeStampFastString": "2025-09-08T23:36:16.834Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-08T23:36:16.834Z"
+    "FFlagUKOSALegacyReportMenu": "True",
+    "FFlagLuaAppEventDetailsFocusNav": "True",
+    "FStringFlagRepoGitHashFastString": "c6a46a703c1699fd8853b0f5fa2f20806226daf2",
+    "DFStringFlagRepoGitHashDynamicString": "c6a46a703c1699fd8853b0f5fa2f20806226daf2",
+    "FStringFlipTimeStampFastString": "2025-09-09T00:52:22.740Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-09T00:52:22.740Z"
 }
