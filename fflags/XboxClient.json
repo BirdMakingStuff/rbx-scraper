@@ -12024,14 +12024,14 @@
     "DFFlagInitTombstoneAfterBlockingFetch2": "True",
     "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
     "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
-    "FFlagGetHumanoidDescriptionUpdatesV2C_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;776169241;2025-09-10T17:48:19",
-    "FFlagGetHumanoidDescriptionUpdatesV2D_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;776169241;2025-09-10T17:48:19",
-    "FFlagAXRemoveColorAdjustmentPageGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T17:53:16",
-    "FFlagAXMigratePurchasePromptInteractiveToFocusNavigation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T17:54:32",
-    "FFlagAXMigratePeekViewToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T17:55:23",
     "FFlagRbxStorageReportWalFileSize": "True",
-    "FStringFlagRepoGitHashFastString": "ee95d355a09f81e5f48dd92c45c62cd9187c40af",
-    "DFStringFlagRepoGitHashDynamicString": "ee95d355a09f81e5f48dd92c45c62cd9187c40af",
-    "FStringFlipTimeStampFastString": "2025-09-10T18:44:12.432Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-10T18:44:12.432Z"
+    "FFlagGetHumanoidDescriptionUpdatesV2C": "True",
+    "FFlagGetHumanoidDescriptionUpdatesV2D": "True",
+    "FFlagAXMigratePurchasePromptInteractiveToFocusNavigation2": "True",
+    "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
+    "FFlagAXMigratePeekViewToFocusNavigation": "True",
+    "FStringFlagRepoGitHashFastString": "eeb8bddf6adb2e301e4acc34952b43be0ad761db",
+    "DFStringFlagRepoGitHashDynamicString": "eeb8bddf6adb2e301e4acc34952b43be0ad761db",
+    "FStringFlipTimeStampFastString": "2025-09-10T19:33:06.763Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-10T19:33:06.763Z"
 }
