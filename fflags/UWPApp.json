@@ -11643,6 +11643,7 @@
     "FFlagUGCValidateStopNaNsInfsInAnimationKeys": "True",
     "FFlagUGCValidateStopNaNsInfsInCalculatedData": "True",
     "FFlagIEAvatarAutoSetupClientError": "True",
+    "FFlagLuauReturnMappedGenericPacksFromSubtyping2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-12T21:12:58",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -11941,8 +11942,8 @@
     "FFlagAXMigratePeekViewToFocusNavigation": "True",
     "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
     "DFFlagRobloxTelemetryEnableSenderCallback2": "True",
-    "FStringFlagRepoGitHashFastString": "d75aa248366b22ea1e2ad8e1f71d02db45bfc354",
-    "DFStringFlagRepoGitHashDynamicString": "d75aa248366b22ea1e2ad8e1f71d02db45bfc354",
-    "FStringFlipTimeStampFastString": "2025-09-12T19:36:37.330Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-12T19:36:37.330Z"
+    "FStringFlagRepoGitHashFastString": "0fa3d7048453c038260cbdb2f196008d91646bc0",
+    "DFStringFlagRepoGitHashDynamicString": "0fa3d7048453c038260cbdb2f196008d91646bc0",
+    "FStringFlipTimeStampFastString": "2025-09-12T21:14:17.143Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-12T21:14:17.143Z"
 }
