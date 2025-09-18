@@ -250,7 +250,7 @@
     "FFlagAXCatalogItemCardSelectedOverlayButtonLogging": "True",
     "FFlagEnableCEVLogsToEventIngest": "True",
     "DFIntCevVoiceLifecycleEventsThrottleHundrethsPercent": "10000",
-    "FFlagWinInstallerUseBITS2": "True",
+    "FFlagWinInstallerUseBITS2": "False",
     "FFlagCoreScriptsMigrateFromLegacyCSVLoc4": "True",
     "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
     "DFFlagRbxLogCatchExceptions": "True",
@@ -264,7 +264,6 @@
     "FFlagWinInstallerRemoveOldVersionCleanup": "True",
     "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
     "FFlagAddTimeoutForForceTerminateStudio": "True",
-    "FFlagWinInstallerUseBITS2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T20:29:52",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -277,8 +276,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "ebaa17be60e29693c822f05a983d07a351e9b84b",
-    "DFStringFlagRepoGitHashDynamicString": "ebaa17be60e29693c822f05a983d07a351e9b84b",
-    "FStringFlipTimeStampFastString": "2025-09-18T21:32:43.750Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-18T21:32:43.750Z"
+    "FStringFlagRepoGitHashFastString": "d4363db6304a2576e40ec2ebb968015837824499",
+    "DFStringFlagRepoGitHashDynamicString": "d4363db6304a2576e40ec2ebb968015837824499",
+    "FStringFlipTimeStampFastString": "2025-09-18T22:35:09.088Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-18T22:35:09.088Z"
 }
