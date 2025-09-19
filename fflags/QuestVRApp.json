@@ -11879,6 +11879,9 @@
     "DFFlagEnableContextForGenerateList": "True",
     "DFFlagEnableGenerateRecommendationItemListFromRcc2": "True",
     "DFFlagFixImageContentInvalid": "True",
+    "FFlagFCSkeletonIgnoreUnusedPartsCheckFaceControls_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T16:03:21",
+    "FFlagRenderClusterOctreeFixAlwaysOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T16:04:11",
+    "DFFlagEnableCancelTouchesOnGameViewControllerDisappear_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T16:18:49",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12779,6 +12782,7 @@
     "FIntOcclusionWorkerThreadCount": "2",
     "FFlagEnableCVSUrlForOtaPatch": "True",
     "FIntEnableCVSUrlForOtaPatchPercentage": "5",
+    "FStringLuaOTATag_Staged": "Release;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T16:09:57",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -12851,8 +12855,8 @@
     "FFlagEnableSpatialUIPlaceFilter_PlaceFilter": "True;4832438542;80957148230445",
     "FFlagEnableUIManagerPackgify7": "True",
     "FIntOpenXrASW_IXP": "1;ConsumerPlatforms.VR.AsyncSpaceWarp;ConsumerPlatforms.VR.DisableASW.1;403326276;flagbank",
-    "FStringFlagRepoGitHashFastString": "5a17cc257c951488c78b9284009b90271af5627c",
-    "DFStringFlagRepoGitHashDynamicString": "5a17cc257c951488c78b9284009b90271af5627c",
-    "FStringFlipTimeStampFastString": "2025-09-19T00:27:42.053Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-19T00:27:42.053Z"
+    "FStringFlagRepoGitHashFastString": "cf963a76de8419998815b159519a6f0729b4d708",
+    "DFStringFlagRepoGitHashDynamicString": "cf963a76de8419998815b159519a6f0729b4d708",
+    "FStringFlipTimeStampFastString": "2025-09-19T16:28:33.632Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-19T16:28:33.632Z"
 }
