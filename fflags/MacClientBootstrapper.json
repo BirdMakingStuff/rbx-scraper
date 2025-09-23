@@ -264,6 +264,7 @@
     "FFlagWinInstallerRemoveOldVersionCleanup": "True",
     "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
     "FFlagAddTimeoutForForceTerminateStudio": "True",
+    "DFFlagTeleportReconnect3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:00:26",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -285,8 +286,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "c550b9b17ccd18b2ae353c914a486e3d19ec580f",
-    "DFStringFlagRepoGitHashDynamicString": "c550b9b17ccd18b2ae353c914a486e3d19ec580f",
-    "FStringFlipTimeStampFastString": "2025-09-23T16:43:46.411Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-23T16:43:46.411Z"
+    "FStringFlagRepoGitHashFastString": "027910ab7c1d6482104293aca163837825b5998a",
+    "DFStringFlagRepoGitHashDynamicString": "027910ab7c1d6482104293aca163837825b5998a",
+    "FStringFlipTimeStampFastString": "2025-09-23T17:34:37.594Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-23T17:34:37.594Z"
 }
