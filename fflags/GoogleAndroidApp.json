@@ -11953,6 +11953,7 @@
     "FFlagAXSavePreviousPageFromQuickMenu": "True",
     "FFlagLuaAppsServerTriggeredModals": "True",
     "FFlagDisableRejoinGroupIdDoubleRead": "True",
+    "FIntServerTriggeredModalTrafficPercent_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1098690143;2025-09-22T23:49:58",
     "FFlagAXFixFocusNavigationShiftingWidgetList": "True",
     "FFlagEnableSpatialUIScalingFix": "True",
     "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
@@ -13120,8 +13121,8 @@
     "FFlagLuaAppUnifyPlayButtonAllSurfacesIxp": "True",
     "FFlagAXMigrateItemDetailsContainerInputBindingsToFocusNavigation2": "True",
     "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
-    "FStringFlagRepoGitHashFastString": "7ffc8a7c3c9119f4bf3e8151a3bded2feeb706ec",
-    "DFStringFlagRepoGitHashDynamicString": "7ffc8a7c3c9119f4bf3e8151a3bded2feeb706ec",
-    "FStringFlipTimeStampFastString": "2025-09-23T00:52:35.183Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-23T00:52:35.183Z"
+    "FStringFlagRepoGitHashFastString": "9a51644ad0b2409b0969ea86ae72bf00cb358d6a",
+    "DFStringFlagRepoGitHashDynamicString": "9a51644ad0b2409b0969ea86ae72bf00cb358d6a",
+    "FStringFlipTimeStampFastString": "2025-09-23T00:34:15.547Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-23T00:34:15.547Z"
 }
