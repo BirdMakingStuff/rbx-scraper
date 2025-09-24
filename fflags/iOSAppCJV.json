@@ -12039,6 +12039,12 @@
     "DFFlagVideoWinHwEncoderDeleteIfNoPool": "True",
     "FFlagVideoEncoderScopedOutputBuffer": "True",
     "FIntServerTriggeredModalTrafficPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1898490302;2025-09-24T16:35:54",
+    "FFlagRemoveiOS13DeprecatedCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T16:44:29",
+    "FFlagRbxthumbForAlbumArt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:02:41",
+    "FFlagFixTexturePackLoadingRetries_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1683019312;2025-09-24T17:08:11",
+    "FFlagFlyweightTrackId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:18:08",
+    "FFlagSduiSupportArrayParsing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1909863556;2025-09-24T17:22:18",
+    "FFlagFixKeyboardFocusInfiniteLoop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:37:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12939,8 +12945,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "64daa5fe19e6509dc77356e4dee08a191006a32f",
-    "DFStringFlagRepoGitHashDynamicString": "64daa5fe19e6509dc77356e4dee08a191006a32f",
-    "FStringFlipTimeStampFastString": "2025-09-24T16:40:32.903Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-24T16:40:32.903Z"
+    "FStringFlagRepoGitHashFastString": "3153fba3da0e964dedd335dca4596d84af02e4ac",
+    "DFStringFlagRepoGitHashDynamicString": "3153fba3da0e964dedd335dca4596d84af02e4ac",
+    "FStringFlipTimeStampFastString": "2025-09-24T17:38:36.383Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-24T17:38:36.383Z"
 }
