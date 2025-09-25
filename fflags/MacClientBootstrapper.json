@@ -258,7 +258,7 @@
     "FFlagMacInstallerDeleteNetworkCacheOnDiskSpaceError2": "True",
     "DFFlagTeleportReconnect": "False",
     "FFlagReconnectToSameServer": "True",
-    "DFFlagPlaceLauncherHttpResponseTelemetry": "False",
+    "DFFlagPlaceLauncherHttpResponseTelemetry": "True",
     "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
     "DFIntVoiceWebrtcIceInActiveTimeoutMs": "30000",
     "FFlagWinInstallerRemoveOldVersionCleanup": "True",
@@ -267,9 +267,8 @@
     "DFFlagTeleportReconnect3": "True",
     "FFlagWinInstallerOnlyUpdateShortcuts": "True",
     "FFlagInstallerFindZipBeforeRemovingOldVersion": "True",
-    "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
-    "DFFlagPlaceLauncherHttpResponseTelemetryFieldForFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
     "DFFlagHapticEffectEnded": "True",
+    "DFFlagPlaceLauncherHttpResponseTelemetryFieldForFix": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -291,8 +290,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "34a055af89e63f09f5f6e913ed4c0d69582efe1d",
-    "DFStringFlagRepoGitHashDynamicString": "34a055af89e63f09f5f6e913ed4c0d69582efe1d",
-    "FStringFlipTimeStampFastString": "2025-09-25T17:33:03.569Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-25T17:33:03.569Z"
+    "FStringFlagRepoGitHashFastString": "5099eba7c37972ca4843654c53231995806c129a",
+    "DFStringFlagRepoGitHashDynamicString": "5099eba7c37972ca4843654c53231995806c129a",
+    "FStringFlipTimeStampFastString": "2025-09-25T18:46:38.987Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-25T18:46:38.987Z"
 }
