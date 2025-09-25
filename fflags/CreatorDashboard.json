@@ -58,6 +58,6 @@
     "enableRoleMembersV2": "true",
     "unratedExperienceBannerLink": "https://devforum.roblox.com/t/important-updates-unrated-experiences-and-changes-to-experience-pages/3899317",
     "enableChildLocaleSupport": "false",
-    "contentLicensingApiRollout": "100",
+    "contentLicensingApiRolloutIPH": "25",
     "serverManagementEnabled": "true"
 }
