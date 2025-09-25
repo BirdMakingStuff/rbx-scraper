@@ -47,6 +47,7 @@
     "enableGetItemConfigurePage": "true",
     "enableGetAllowedAssetTypes": "true",
     "enableYourPlaceCreation": "true",
+    "enableYourPlaceCreationExperimentDate": "2025-09-26T20:00:00.000Z",
     "enableCreatorControlsAgeGate": "true",
     "creatorRewardsAllowlist": "559363765;7866407564;7862042331",
     "enableGroupMembersV2": "true",
