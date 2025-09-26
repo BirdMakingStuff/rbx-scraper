@@ -261,7 +261,7 @@
     "DFFlagPlaceLauncherHttpResponseTelemetry": "True",
     "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
     "DFIntVoiceWebrtcIceInActiveTimeoutMs": "30000",
-    "FFlagWinInstallerRemoveOldVersionCleanup": "True",
+    "FFlagWinInstallerRemoveOldVersionCleanup": "False",
     "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
     "FFlagAddTimeoutForForceTerminateStudio": "True",
     "DFFlagTeleportReconnect3": "True",
@@ -282,9 +282,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FFlagWinInstallerRemoveOldVersionCleanup_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T18:29:04",
-    "FStringFlagRepoGitHashFastString": "3ee9e49c5fab6d4b4f2052a0da71a490e2d754b2",
-    "DFStringFlagRepoGitHashDynamicString": "3ee9e49c5fab6d4b4f2052a0da71a490e2d754b2",
-    "FStringFlipTimeStampFastString": "2025-09-26T18:44:21.594Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-26T18:44:21.594Z"
+    "FStringFlagRepoGitHashFastString": "ba221afd3ba782f8e3e29583a7883e98819eea0e",
+    "DFStringFlagRepoGitHashDynamicString": "ba221afd3ba782f8e3e29583a7883e98819eea0e",
+    "FStringFlipTimeStampFastString": "2025-09-26T19:32:59.963Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-26T19:32:59.963Z"
 }
