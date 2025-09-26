@@ -12176,6 +12176,8 @@
     "FFlagRemoveUpdateAvailableShortcut": "True",
     "DFFlagFixCrashDueToZeroWorkers": "True",
     "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
+    "FFlagOnlyVisibleFramesAllowModal_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1566439085;2025-09-26T21:01:44",
+    "FFlagSTUDIOPLAT40830FloatingWindowCloseTab_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T21:18:32",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13046,8 +13048,8 @@
     "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
     "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Mobile.Only;161352664;flagbank",
     "FFlagCallVoiceLeaveOnNetworkDisconnect": "True",
-    "FStringFlagRepoGitHashFastString": "3f6356b7d9aafe3ff58eca22e9071705f36bdf32",
-    "DFStringFlagRepoGitHashDynamicString": "3f6356b7d9aafe3ff58eca22e9071705f36bdf32",
-    "FStringFlipTimeStampFastString": "2025-09-26T20:27:36.405Z",
-    "DFStringFlipTimeStampDynamicString": "2025-09-26T20:27:36.405Z"
+    "FStringFlagRepoGitHashFastString": "48861216a686d1ee347c5ead46589dfdeb36e0b3",
+    "DFStringFlagRepoGitHashDynamicString": "48861216a686d1ee347c5ead46589dfdeb36e0b3",
+    "FStringFlipTimeStampFastString": "2025-09-26T21:21:21.213Z",
+    "DFStringFlipTimeStampDynamicString": "2025-09-26T21:21:21.213Z"
 }
