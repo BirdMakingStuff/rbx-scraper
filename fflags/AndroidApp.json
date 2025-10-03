@@ -11797,7 +11797,7 @@
     "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
     "GmasdkFixUiContainerCoverAds": "true",
     "FFlagFCDecrementVertexCount": "True",
-    "FFlagProductInfoBatchingCoalescingEnabled": "False",
+    "FFlagProductInfoBatchingCoalescingEnabled": "True",
     "FFlagAvatarGenerationAvatarScaleFix": "True",
     "FFlagSimEnableCreateBone": "True",
     "FFlagRenderEISAAlpha": "True",
@@ -12074,8 +12074,8 @@
     "FFlagDynamicFastVariableReloaderSetThreadName": "True",
     "DFFlagDebugVideoLogChosenResolution": "True",
     "DFFlagTextBoxCtrlDel": "True",
-    "AllowVideoPreRoll": "True",
     "FFlagRemoveMeInParent2_PlaceFilter": "False;2788229376",
+    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -12965,9 +12965,8 @@
     "DFFlagFileCacheClearRecursive": "True",
     "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
     "FFlagSquadEnabled": "True",
-    "FFlagProductInfoBatchingCoalescingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;60618695;2025-10-03T21:58:31",
-    "FStringFlagRepoGitHashFastString": "39516507fa336a47f2223a96705a78365d44e1bd",
-    "DFStringFlagRepoGitHashDynamicString": "39516507fa336a47f2223a96705a78365d44e1bd",
-    "FStringFlipTimeStampFastString": "2025-10-03T22:19:42.660Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-03T22:19:42.660Z"
+    "FStringFlagRepoGitHashFastString": "80f60ac1e8f7d6791b63786977bd9ea313e674fa",
+    "DFStringFlagRepoGitHashDynamicString": "80f60ac1e8f7d6791b63786977bd9ea313e674fa",
+    "FStringFlipTimeStampFastString": "2025-10-03T23:01:26.436Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-03T23:01:26.436Z"
 }
