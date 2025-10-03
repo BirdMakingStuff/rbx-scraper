@@ -11798,7 +11798,7 @@
     "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
     "GmasdkFixUiContainerCoverAds": "true",
     "FFlagFCDecrementVertexCount": "True",
-    "FFlagProductInfoBatchingCoalescingEnabled": "True",
+    "FFlagProductInfoBatchingCoalescingEnabled": "False",
     "FFlagAvatarGenerationAvatarScaleFix": "True",
     "FFlagSimEnableCreateBone": "True",
     "FFlagRenderEISAAlpha": "True",
@@ -12953,7 +12953,6 @@
     "DFFlagFileCacheClearRecursive": "True",
     "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
     "FFlagSquadEnabled": "True",
-    "FFlagProductInfoBatchingCoalescingEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;60618695;2025-10-03T01:53:38",
     "FFlagEnableMaterialGenerator": "False",
     "DFLogJoinDataRxStats": "10",
     "FFlagShouldMuteUnlocalizedError": "True",
@@ -12979,8 +12978,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "2da3c05e88a591dd0d14fa5d1d1c0922b7db9562",
-    "DFStringFlagRepoGitHashDynamicString": "2da3c05e88a591dd0d14fa5d1d1c0922b7db9562",
-    "FStringFlipTimeStampFastString": "2025-10-03T01:55:17.930Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-03T01:55:17.930Z"
+    "FStringFlagRepoGitHashFastString": "da0ee2e9696246aa538fe5bbbb22607f6af371cb",
+    "DFStringFlagRepoGitHashDynamicString": "da0ee2e9696246aa538fe5bbbb22607f6af371cb",
+    "FStringFlipTimeStampFastString": "2025-10-03T02:56:52.707Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-03T02:56:52.707Z"
 }
