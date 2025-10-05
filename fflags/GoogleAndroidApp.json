@@ -12074,7 +12074,7 @@
     "FFlagDynamicFastVariableReloaderSetThreadName": "True",
     "DFFlagDebugVideoLogChosenResolution": "True",
     "DFFlagTextBoxCtrlDel": "True",
-    "FFlagRemoveMeInParent2_PlaceFilter": "False;2788229376",
+    "FFlagRemoveMeInParent2_PlaceFilter": "False;2788229376;7213786345",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13227,8 +13227,8 @@
     "FStringCapturesMetricDropExperimentTreatment_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V2;229048279;dev_controlled",
     "FFlagCapturesEnableMetricDropExperiment_v3": "True",
     "FFlagMigrateNoFriendsViewToFoundation": "True",
-    "FStringFlagRepoGitHashFastString": "80f60ac1e8f7d6791b63786977bd9ea313e674fa",
-    "DFStringFlagRepoGitHashDynamicString": "80f60ac1e8f7d6791b63786977bd9ea313e674fa",
-    "FStringFlipTimeStampFastString": "2025-10-03T23:01:26.436Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-03T23:01:26.436Z"
+    "FStringFlagRepoGitHashFastString": "55648c6e001092170b1f3e950bf96a85459d20f5",
+    "DFStringFlagRepoGitHashDynamicString": "55648c6e001092170b1f3e950bf96a85459d20f5",
+    "FStringFlipTimeStampFastString": "2025-10-05T01:03:28.830Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-05T01:03:28.830Z"
 }
