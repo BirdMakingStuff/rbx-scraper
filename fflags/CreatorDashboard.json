@@ -59,7 +59,7 @@
     "enableChildLocaleSupport": "false",
     "contentLicensingApiRolloutIPH": "100",
     "serverManagementEnabled": "true",
-    "contentLicensingApiAccountsAllowlist": "9d8a8f07-0d93-48e1-959a-584da6bab3d1",
+    "contentLicensingApiAccountsAllowlist": "",
     "enableExploreLicensesSortDropdown": "true",
     "enableLicenseAgreementComms": "true",
     "unratedExperienceBannerLink": "https://devforum.roblox.com/t/important-updates-unrated-experiences-and-changes-to-experience-pages/3899317"
