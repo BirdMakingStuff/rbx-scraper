@@ -86,7 +86,7 @@
     "FStringDefaultModeratedAvatarBodyImageAssetId": "89053445842149",
     "FStringDefaultModeratedAvatarHeadImageAssetId": "140234539950892",
     "FFlagUseNewImageOnModeratedThumbnails": "True",
-    "FFlagWindowsInstallerPostWebLaunch": "True",
+    "FFlagWindowsInstallerPostWebLaunch": "False",
     "FFlagWindowsInstallerTelemetryImprovements": "True",
     "FFlagMacInstallerReportUserID": "True",
     "FFlagMacPersonalizedInstallerEnabled2": "True",
@@ -264,7 +264,6 @@
     "DFFlagHapticEffectEnded": "True",
     "DFFlagPlaceLauncherHttpResponseTelemetryFieldForFix": "True",
     "DFFlagCLI169724UseOAEnumValuesForPublishService": "True",
-    "FFlagWindowsInstallerPostWebLaunch_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:40:25",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -280,8 +279,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "5675d813199f738cf1f292ef0581a0f8810c7a49",
-    "DFStringFlagRepoGitHashDynamicString": "5675d813199f738cf1f292ef0581a0f8810c7a49",
-    "FStringFlipTimeStampFastString": "2025-10-07T21:34:16.057Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-07T21:34:16.057Z"
+    "FStringFlagRepoGitHashFastString": "ae158f7daac63176eea9565db3b5baab46a22b51",
+    "DFStringFlagRepoGitHashDynamicString": "ae158f7daac63176eea9565db3b5baab46a22b51",
+    "FStringFlipTimeStampFastString": "2025-10-07T22:31:32.752Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-07T22:31:32.752Z"
 }
