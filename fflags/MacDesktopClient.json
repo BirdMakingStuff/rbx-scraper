@@ -12242,6 +12242,8 @@
     "FFlagAXFixFlashingNoItemsFound": "True",
     "DFFlagEnableContentTypeInRegister": "True",
     "FFlagDeprecateExperienceInterventionNamespace": "True",
+    "DFFlagUseModelInsteadOfItsParent_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T16:08:53",
+    "AllowVideoPreRoll": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12695,7 +12697,6 @@
     "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
     "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
     "FFlagVoiceForceRunOnLeave": "True",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13124,8 +13125,10 @@
     "FFlagAXSlotsScrollAway2": "True",
     "FFlagSquadEnabled": "True",
     "DFIntTestEBOnProd": "1",
-    "FStringFlagRepoGitHashFastString": "b553c597611f93e85ce323d6f0a686b6bd1ee11d",
-    "DFStringFlagRepoGitHashDynamicString": "b553c597611f93e85ce323d6f0a686b6bd1ee11d",
-    "FStringFlipTimeStampFastString": "2025-10-09T00:48:57.281Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-09T00:48:57.281Z"
+    "DFIntTestEBOnProd_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T16:39:03",
+    "DFIntConvexDecompCompressionSelector_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-09T16:41:34",
+    "FStringFlagRepoGitHashFastString": "aa7fab6e1bfe3f0b007eb2aa8de08ec3df900c3e",
+    "DFStringFlagRepoGitHashDynamicString": "aa7fab6e1bfe3f0b007eb2aa8de08ec3df900c3e",
+    "FStringFlipTimeStampFastString": "2025-10-09T16:43:27.579Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-09T16:43:27.579Z"
 }

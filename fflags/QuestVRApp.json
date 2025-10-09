@@ -12242,7 +12242,9 @@
     "FFlagAXFixFlashingNoItemsFound": "True",
     "DFFlagEnableContentTypeInRegister": "True",
     "FFlagDeprecateExperienceInterventionNamespace": "True",
+    "DFFlagUseModelInsteadOfItsParent_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T16:08:53",
     "AllowVideoPreRoll": "True",
+    "DFIntConvexDecompCompressionSelector_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-09T16:41:34",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13142,6 +13144,7 @@
     "FFlagTotalDiskSizeTelemetryMobile2": "True",
     "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
     "FFlagEmergencyDeleteOfExperimentDummyFile": "True",
+    "DFFlagSimGeometryDeterministicSampling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T16:32:41",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -13211,8 +13214,8 @@
     "FFlagEnableSpatialUIPlaceFilter_PlaceFilter": "True;4832438542;80957148230445",
     "FFlagEnableUIManagerPackgify7": "True",
     "FIntOpenXrASW_IXP": "1;ConsumerPlatforms.VR.AsyncSpaceWarp;ConsumerPlatforms.VR.DisableASW.1;403326276;flagbank",
-    "FStringFlagRepoGitHashFastString": "b553c597611f93e85ce323d6f0a686b6bd1ee11d",
-    "DFStringFlagRepoGitHashDynamicString": "b553c597611f93e85ce323d6f0a686b6bd1ee11d",
-    "FStringFlipTimeStampFastString": "2025-10-09T00:48:57.281Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-09T00:48:57.281Z"
+    "FStringFlagRepoGitHashFastString": "aa7fab6e1bfe3f0b007eb2aa8de08ec3df900c3e",
+    "DFStringFlagRepoGitHashDynamicString": "aa7fab6e1bfe3f0b007eb2aa8de08ec3df900c3e",
+    "FStringFlipTimeStampFastString": "2025-10-09T16:43:27.579Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-09T16:43:27.579Z"
 }
