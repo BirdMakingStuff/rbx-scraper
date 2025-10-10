@@ -12273,6 +12273,9 @@
     "FFlagAXAddInventoryItemsListProps": "False",
     "FFlagAXGeneralizeInventoryItemsList": "False",
     "FFlagRbxStorageCheckFailedWriteId": "True",
+    "FFlagStatusFileMutex_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;701569396;2025-10-10T15:59:42",
+    "FFlagLightOcclusionCull2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T16:18:36",
+    "DFFlagVideoCoreScriptWithPlaybackManager_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T16:32:33",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13165,8 +13168,8 @@
     "DFFlagRaknetPacketTracing": "True",
     "FFlagAXRootSlotBasedEditorFlag5": "False",
     "FFlagVideoPlaybackManager2": "True",
-    "FStringFlagRepoGitHashFastString": "aec9bea84b07376de29a945acd16a8bb78c248e4",
-    "DFStringFlagRepoGitHashDynamicString": "aec9bea84b07376de29a945acd16a8bb78c248e4",
-    "FStringFlipTimeStampFastString": "2025-10-10T02:31:37.814Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-10T02:31:37.814Z"
+    "FStringFlagRepoGitHashFastString": "e109eb49d653f6c9ba3f9c6d99533d934fb87f41",
+    "DFStringFlagRepoGitHashDynamicString": "e109eb49d653f6c9ba3f9c6d99533d934fb87f41",
+    "FStringFlipTimeStampFastString": "2025-10-10T16:34:13.936Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-10T16:34:13.936Z"
 }
