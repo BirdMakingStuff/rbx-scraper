@@ -12273,14 +12273,13 @@
     "FFlagAXAddInventoryItemsListProps": "False",
     "FFlagAXGeneralizeInventoryItemsList": "False",
     "FFlagRbxStorageCheckFailedWriteId": "True",
-    "FFlagLightOcclusionCull2": "True",
+    "FFlagLightOcclusionCull2": "False",
     "DFFlagVideoCoreScriptWithPlaybackManager": "True",
     "DFFlagLuauCodeGenDisableWithNoReentry": "True",
     "FFlagReactSchedulingAddPlaySessionId": "True",
     "FFlagRobloxTelemetryEnableTestMetrics_V0": "True",
     "FFlagStudioDumpWindowHierarchyToLog": "True",
     "DFFlagMicroProfilerMemoryTrackingAlert": "True",
-    "FFlagLightOcclusionCull2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T19:31:28",
     "FFlagVoiceGenerateAndRunOperationsScopedTelemetryEnabled": "True",
     "DFFlagEarlyReturnScrollingDisabled2": "True",
     "AllowVideoPreRoll": "True",
@@ -13185,8 +13184,8 @@
     "EnableFullDiskUsageTelemetry": "True",
     "FFlagVideoPlaybackManager2": "True",
     "FFlagDisableMemoryTrackingRollout2": "True",
-    "FStringFlagRepoGitHashFastString": "a56168e07dc2e4258b0630ad605644441076f070",
-    "DFStringFlagRepoGitHashDynamicString": "a56168e07dc2e4258b0630ad605644441076f070",
-    "FStringFlipTimeStampFastString": "2025-10-10T20:01:35.398Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-10T20:01:35.398Z"
+    "FStringFlagRepoGitHashFastString": "b6ba9bff7bcbf40d116a33db1806aedbece2abe1",
+    "DFStringFlagRepoGitHashDynamicString": "b6ba9bff7bcbf40d116a33db1806aedbece2abe1",
+    "FStringFlipTimeStampFastString": "2025-10-10T20:38:03.510Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-10T20:38:03.510Z"
 }
