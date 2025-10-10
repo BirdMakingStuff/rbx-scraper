@@ -12251,7 +12251,7 @@
     "FFlagStatusFileMutex": "True",
     "FFlagFoundationDialogActionsUpdate": "True",
     "FFlagFoundationDialogHeroImageOnlyFix": "True",
-    "FFlagFoundationDialogBodyUpdate": "True",
+    "FFlagFoundationDialogBodyUpdate": "False",
     "FFlagFoundationPopoverContentToggleOnAnchorClick": "True",
     "FFlagAXAvatarTileNoDefaultOutfitInfo": "True",
     "FFlagFixSliceCenterWarningOnNegativeSize": "True",
@@ -12273,7 +12273,6 @@
     "FFlagAXAddInventoryItemsListProps": "False",
     "FFlagAXGeneralizeInventoryItemsList": "False",
     "FFlagRbxStorageCheckFailedWriteId": "True",
-    "FFlagFoundationDialogBodyUpdate_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;513365965;2025-10-10T01:26:16",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -12574,8 +12573,8 @@
     "FFlagSquadEnabled": "True",
     "DFFlagRaknetPacketTracing": "True",
     "FFlagVideoPlaybackManager2": "True",
-    "FStringFlagRepoGitHashFastString": "c5a1fb8e4e10cc351d6f37a298e579fa789016b5",
-    "DFStringFlagRepoGitHashDynamicString": "c5a1fb8e4e10cc351d6f37a298e579fa789016b5",
-    "FStringFlipTimeStampFastString": "2025-10-10T01:27:55.430Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-10T01:27:55.430Z"
+    "FStringFlagRepoGitHashFastString": "aec9bea84b07376de29a945acd16a8bb78c248e4",
+    "DFStringFlagRepoGitHashDynamicString": "aec9bea84b07376de29a945acd16a8bb78c248e4",
+    "FStringFlipTimeStampFastString": "2025-10-10T02:31:37.814Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-10T02:31:37.814Z"
 }
