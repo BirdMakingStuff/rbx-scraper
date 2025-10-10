@@ -12771,6 +12771,7 @@
     "FIntVideoCaptureMaxShortSide": "1080",
     "FIntVideoCaptureMaxShortSideLowMem": "720",
     "FFlagRemoveGcInterval": "True",
+    "FFlagRemoveStaleChildConnections_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T22:30:07",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13235,8 +13236,8 @@
     "FFlagVideoPlaybackManager2": "True",
     "FFlagDisableMemoryTrackingRollout2": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "b6ba9bff7bcbf40d116a33db1806aedbece2abe1",
-    "DFStringFlagRepoGitHashDynamicString": "b6ba9bff7bcbf40d116a33db1806aedbece2abe1",
-    "FStringFlipTimeStampFastString": "2025-10-10T20:38:03.510Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-10T20:38:03.510Z"
+    "FStringFlagRepoGitHashFastString": "8db5148fef82ddd9eeec8d6522fde148bfbb3ed3",
+    "DFStringFlagRepoGitHashDynamicString": "8db5148fef82ddd9eeec8d6522fde148bfbb3ed3",
+    "FStringFlipTimeStampFastString": "2025-10-10T22:31:14.980Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-10T22:31:14.980Z"
 }
