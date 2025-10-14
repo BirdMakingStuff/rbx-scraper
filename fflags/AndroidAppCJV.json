@@ -12325,9 +12325,13 @@
     "FFlagFoundationScrollingFrameBarSmaller": "True",
     "FIntExpChatMessageRenderUserThrottlePermyriad": "10",
     "FFlagAXFixEmoteRedirectFromCatalogForSlots": "True",
-    "AllowVideoPreRoll": "True",
+    "FIntExpChatMessageRenderUserThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;53678546;2025-10-14T16:03:42",
+    "FFlagAXCatalogMainNavHeightFInt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T16:14:05",
     "AxisAdornmentGrabSize": "12",
+    "AllowVideoPreRoll": "True",
+    "FFlagAXTryOnEmotes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T16:19:40",
     "CaptureCountersIntervalInMinutes": "5",
+    "FFlagAXTryOnBundleAnimations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T16:20:58",
     "CaptureQTStudioCountersEnabled": "True",
     "CatalogPromoAssetId": "-1",
     "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -13270,8 +13274,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "f3185143bfbd8735c319fed3a45b24f1c04da5b8",
-    "DFStringFlagRepoGitHashDynamicString": "f3185143bfbd8735c319fed3a45b24f1c04da5b8",
-    "FStringFlipTimeStampFastString": "2025-10-14T01:03:45.462Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-14T01:03:45.462Z"
+    "FStringFlagRepoGitHashFastString": "d902973c960ac3aeac73dbad48c4ca878b8eac8a",
+    "DFStringFlagRepoGitHashDynamicString": "d902973c960ac3aeac73dbad48c4ca878b8eac8a",
+    "FStringFlipTimeStampFastString": "2025-10-14T16:22:47.836Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-14T16:22:47.836Z"
 }
