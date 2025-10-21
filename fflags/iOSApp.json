@@ -12625,6 +12625,10 @@
     "DFFlagRespectDoNotAllowBaseline": "True",
     "FFlagFriendsCarouselFixFriendsRenameTooltip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1532441417;2025-10-21T18:02:39",
     "FFlagFixRobloxProcInBgDuringRewardedVideo4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:14:04",
+    "FFlagRemoveUnusedTopBarNotifications_IXP": "1;InExperience.Performance;InExperience.Performance.UnreadChat.InvisibleNotif;961620217;flagbank",
+    "FIntFAEWithWebViewCallbackPollMaxRetries_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:23:39",
+    "DFFlagSimCSG4UseOperationGraphEvaluateNewAsync7_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1233196849;2025-10-21T18:44:20",
+    "DFFlagTeleportSolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:41:00",
     "CaptureQTStudioCountersEnabled": "True",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
     "DFFlagEnableRemoteProfiling": "True",
@@ -13529,8 +13533,9 @@
     "FFlagAXRevertCategoryReducerChange": "True",
     "FFlagInGameMenuAddChatLineReporting5_Staged": "True;SteadyState;10;30;Revert;true;1401781319;2025-10-21T17:44:39",
     "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
-    "FStringFlagRepoGitHashFastString": "5d49c55038b35d63029e8bcb61ae5bc1637c3a5e",
-    "DFStringFlagRepoGitHashDynamicString": "5d49c55038b35d63029e8bcb61ae5bc1637c3a5e",
-    "FStringFlipTimeStampFastString": "2025-10-21T18:48:03.337Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-21T18:48:03.337Z"
+    "FFlagFastClusterIgnoreMeshPartJointOffset2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:29:43",
+    "FStringFlagRepoGitHashFastString": "75f9053691ddccc40c3cc377e44507e6171a3274",
+    "DFStringFlagRepoGitHashDynamicString": "75f9053691ddccc40c3cc377e44507e6171a3274",
+    "FStringFlipTimeStampFastString": "2025-10-21T19:33:59.928Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-21T19:33:59.928Z"
 }

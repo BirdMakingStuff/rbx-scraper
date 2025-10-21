@@ -12625,7 +12625,10 @@
     "DFFlagRespectDoNotAllowBaseline": "True",
     "FFlagFriendsCarouselFixFriendsRenameTooltip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1532441417;2025-10-21T18:02:39",
     "FFlagFixRobloxProcInBgDuringRewardedVideo4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:14:04",
+    "FFlagRemoveUnusedTopBarNotifications_IXP": "1;InExperience.Performance;InExperience.Performance.UnreadChat.InvisibleNotif;961620217;flagbank",
+    "FIntFAEWithWebViewCallbackPollMaxRetries_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:23:39",
     "AllowVideoPreRoll": "True",
+    "DFFlagTeleportSolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:41:00",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -14807,8 +14810,8 @@
     "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
     "DFFlagConvexDecompCompressionAnalytics690": "True",
     "FFlagToolboxFireAndForget": "True",
-    "FStringFlagRepoGitHashFastString": "5d49c55038b35d63029e8bcb61ae5bc1637c3a5e",
-    "DFStringFlagRepoGitHashDynamicString": "5d49c55038b35d63029e8bcb61ae5bc1637c3a5e",
-    "FStringFlipTimeStampFastString": "2025-10-21T18:48:03.337Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-21T18:48:03.337Z"
+    "FStringFlagRepoGitHashFastString": "75f9053691ddccc40c3cc377e44507e6171a3274",
+    "DFStringFlagRepoGitHashDynamicString": "75f9053691ddccc40c3cc377e44507e6171a3274",
+    "FStringFlipTimeStampFastString": "2025-10-21T19:33:59.928Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-21T19:33:59.928Z"
 }
