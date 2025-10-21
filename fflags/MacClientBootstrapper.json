@@ -268,6 +268,7 @@
     "FFlagCustomParticleFlipbookLayout3": "True",
     "FFlagStatusFileMutex": "False",
     "FFlagAXFixCatalogRefreshRenderingV3": "True",
+    "FFlagEnableInstallerAsProtocolHandler2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T17:11:09",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -289,8 +290,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "1c3aa4699d2b0538034c9a66ed0ada58f70504b5",
-    "DFStringFlagRepoGitHashDynamicString": "1c3aa4699d2b0538034c9a66ed0ada58f70504b5",
-    "FStringFlipTimeStampFastString": "2025-10-21T16:42:20.570Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-21T16:42:20.570Z"
+    "FStringFlagRepoGitHashFastString": "4c15ec776947406cc9d05432c97f10a9f038f27e",
+    "DFStringFlagRepoGitHashDynamicString": "4c15ec776947406cc9d05432c97f10a9f038f27e",
+    "FStringFlipTimeStampFastString": "2025-10-21T17:38:37.506Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-21T17:38:37.506Z"
 }

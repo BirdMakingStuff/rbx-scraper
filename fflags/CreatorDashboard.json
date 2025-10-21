@@ -65,5 +65,6 @@
     "unratedExperienceBannerLink": "https://devforum.roblox.com/t/important-updates-unrated-experiences-and-changes-to-experience-pages/3899317",
     "enableGroupOwnershipTransferV2": "true",
     "showTextToSpeechDashboard": "true",
-    "enableTargetPartWildcards": "true"
+    "enableTargetPartWildcards": "true",
+    "enablePricingPageRedesign": "true"
 }
