@@ -66,5 +66,6 @@
     "enableGroupOwnershipTransferV2": "true",
     "showTextToSpeechDashboard": "true",
     "enableTargetPartWildcards": "true",
-    "enablePricingPageRedesign": "true"
+    "enablePricingPageRedesign": "true",
+    "enableMakeupAssets": "false"
 }
