@@ -12601,6 +12601,11 @@
     "DFFlagNetworkSchemaFixHash": "True",
     "FFlagReportTextureStreamingTelemetry4": "True",
     "FFlagRenderTextureRetryWhenStillTranscoding": "True",
+    "DFFlagOverlappedAddToFilter_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T15:57:12",
+    "FIntVRMaxTotalWaitTimeMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:02:39",
+    "DFFlagCLI173314_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:09:16",
+    "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:12:33",
+    "FFlagLuauSubtypingGenericPacksDoesntUseVariance2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:30:20",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13511,8 +13516,8 @@
     "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
     "DFFlagInvalidEnumValueAttemptToReflect": "True",
     "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage": "100",
-    "FStringFlagRepoGitHashFastString": "1c2eace6ce8d0353245be179ad1c3caa1cb82a03",
-    "DFStringFlagRepoGitHashDynamicString": "1c2eace6ce8d0353245be179ad1c3caa1cb82a03",
-    "FStringFlipTimeStampFastString": "2025-10-21T00:52:37.203Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-21T00:52:37.203Z"
+    "FStringFlagRepoGitHashFastString": "8e2545cb915cd464be371f59c71b35fe47fce747",
+    "DFStringFlagRepoGitHashDynamicString": "8e2545cb915cd464be371f59c71b35fe47fce747",
+    "FStringFlipTimeStampFastString": "2025-10-21T16:44:26.969Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-21T16:44:26.969Z"
 }

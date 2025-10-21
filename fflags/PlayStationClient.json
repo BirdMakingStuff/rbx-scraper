@@ -12601,6 +12601,11 @@
     "DFFlagNetworkSchemaFixHash": "True",
     "FFlagReportTextureStreamingTelemetry4": "True",
     "FFlagRenderTextureRetryWhenStillTranscoding": "True",
+    "DFFlagOverlappedAddToFilter_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T15:57:12",
+    "FIntVRMaxTotalWaitTimeMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:02:39",
+    "DFFlagCLI173314_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:09:16",
+    "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:12:33",
+    "FFlagLuauSubtypingGenericPacksDoesntUseVariance2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:30:20",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -12849,8 +12854,9 @@
     "FFlagSocialCarouselAddFriendsActionType": "True",
     "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
     "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-    "FStringFlagRepoGitHashFastString": "1c2eace6ce8d0353245be179ad1c3caa1cb82a03",
-    "DFStringFlagRepoGitHashDynamicString": "1c2eace6ce8d0353245be179ad1c3caa1cb82a03",
-    "FStringFlipTimeStampFastString": "2025-10-21T00:52:37.203Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-21T00:52:37.203Z"
+    "FFlagGfxSamplerMinLodSupport_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:33:51",
+    "FStringFlagRepoGitHashFastString": "1c3aa4699d2b0538034c9a66ed0ada58f70504b5",
+    "DFStringFlagRepoGitHashDynamicString": "1c3aa4699d2b0538034c9a66ed0ada58f70504b5",
+    "FStringFlipTimeStampFastString": "2025-10-21T16:42:20.570Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-21T16:42:20.570Z"
 }
