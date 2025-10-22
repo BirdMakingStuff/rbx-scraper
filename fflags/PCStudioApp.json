@@ -12655,7 +12655,10 @@
     "DFFlagWebSocketHttpRequestType": "True",
     "DFFlagWebSocketSecrets": "True",
     "FIntSQLiteWalAutoCheckpoint": "4000",
+    "FFlagGetRidOfGroundJoint_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T16:02:37",
     "AllowVideoPreRoll": "True",
+    "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagLuaAppAddHeroUnitIdSduiGameClick_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T16:20:51",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -14430,7 +14433,6 @@
     "FFlagStudioMandatoryRSDMM": "True",
     "FFlagMaxSizeUseCorrectPadding": "True",
     "DFIntConvexDecompCompressionZstd": "22",
-    "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14860,8 +14862,8 @@
     "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
     "DFFlagConvexDecompCompressionAnalytics690": "True",
     "FFlagToolboxFireAndForget": "True",
-    "FStringFlagRepoGitHashFastString": "9f897488ebb953907f9c98d1b924939a7923a030",
-    "DFStringFlagRepoGitHashDynamicString": "9f897488ebb953907f9c98d1b924939a7923a030",
-    "FStringFlipTimeStampFastString": "2025-10-22T01:02:24.583Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-22T01:02:24.583Z"
+    "FStringFlagRepoGitHashFastString": "c8e5b829112cd964d1aab919e8467f6441f668ba",
+    "DFStringFlagRepoGitHashDynamicString": "c8e5b829112cd964d1aab919e8467f6441f668ba",
+    "FStringFlipTimeStampFastString": "2025-10-22T16:44:36.238Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-22T16:44:36.238Z"
 }
