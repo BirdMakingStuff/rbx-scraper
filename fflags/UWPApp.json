@@ -12741,6 +12741,9 @@
     "FFlagSimPartOperationRemoveCSGMesh8": "True",
     "DFIntGetMeshPartJointOffsetTelemetryThrottle": "10",
     "FFlagAXMISRemoveSingleItemPurchaseFromTryOn": "True",
+    "DFFlagUseModelInsteadOfItsParent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T16:03:53",
+    "FFlagSduiUseTokensContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;128713786;2025-10-23T16:36:55",
+    "FFlagSduiComponentTests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;936755888;2025-10-23T16:39:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -13038,8 +13041,8 @@
     "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": "True",
     "FFlagAXMigrateMainNavigationInputBindings": "True",
-    "FStringFlagRepoGitHashFastString": "709000d5c6ef0aed08a7649a8f30233d7c09b804",
-    "DFStringFlagRepoGitHashDynamicString": "709000d5c6ef0aed08a7649a8f30233d7c09b804",
-    "FStringFlipTimeStampFastString": "2025-10-23T03:13:47.284Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-23T03:13:47.284Z"
+    "FStringFlagRepoGitHashFastString": "02789fdd08c4819df6a754ae904dafb025445a8b",
+    "DFStringFlagRepoGitHashDynamicString": "02789fdd08c4819df6a754ae904dafb025445a8b",
+    "FStringFlipTimeStampFastString": "2025-10-23T16:44:52.501Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-23T16:44:52.501Z"
 }

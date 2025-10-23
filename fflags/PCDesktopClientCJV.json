@@ -12741,6 +12741,9 @@
     "FFlagSimPartOperationRemoveCSGMesh8": "True",
     "DFIntGetMeshPartJointOffsetTelemetryThrottle": "10",
     "FFlagAXMISRemoveSingleItemPurchaseFromTryOn": "True",
+    "DFFlagUseModelInsteadOfItsParent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T16:03:53",
+    "FFlagSduiUseTokensContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;128713786;2025-10-23T16:36:55",
+    "FFlagSduiComponentTests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;936755888;2025-10-23T16:39:51",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13699,8 +13702,8 @@
     "FFlagFCRouteSecondaryParts": "False",
     "FFlagDelayAudioFocusReplication": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "709000d5c6ef0aed08a7649a8f30233d7c09b804",
-    "DFStringFlagRepoGitHashDynamicString": "709000d5c6ef0aed08a7649a8f30233d7c09b804",
-    "FStringFlipTimeStampFastString": "2025-10-23T03:13:47.284Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-23T03:13:47.284Z"
+    "FStringFlagRepoGitHashFastString": "02789fdd08c4819df6a754ae904dafb025445a8b",
+    "DFStringFlagRepoGitHashDynamicString": "02789fdd08c4819df6a754ae904dafb025445a8b",
+    "FStringFlipTimeStampFastString": "2025-10-23T16:44:52.501Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-23T16:44:52.501Z"
 }
