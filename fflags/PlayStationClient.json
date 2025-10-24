@@ -12817,6 +12817,11 @@
     "FFlagRbxTelemetryEnableHttpCounters3": "True",
     "DFFlagSlimEnableTeamCreateUploadCap": "True",
     "DFIntSlimTeamCreateUploadCap": "1000",
+    "FIntRenderBufferTypeVertex_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T16:00:41",
+    "FFlagAppShortcutBarFixHoldIconFlash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1149342102;2025-10-24T16:08:23",
+    "FFlagAppShortcutBarIconImprovement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1149342102;2025-10-24T16:08:23",
+    "FFlagLRIncreasePeer_Staged": "True;SteadyState;10;30;Revert;2025-10-24T16:22:22",
+    "DFFlagLargeReplicatorSendMaxThrow_Staged": "True;SteadyState;10;30;Revert;2025-10-24T16:37:25",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -13062,8 +13067,8 @@
     "FFlagAXNoCarouselsOnCatalogWithGamepad": "True",
     "FFlagInputEventsRaceUseRuntimeMutex": "True",
     "DFFlagGetHlsLodManifest2": "True",
-    "FStringFlagRepoGitHashFastString": "2f41c79a33488d28161faa21b4cf456e28576100",
-    "DFStringFlagRepoGitHashDynamicString": "2f41c79a33488d28161faa21b4cf456e28576100",
-    "FStringFlipTimeStampFastString": "2025-10-24T00:22:24.310Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-24T00:22:24.310Z"
+    "FStringFlagRepoGitHashFastString": "06e5765859bb33af7e766bc50e44a97e9bfbf52f",
+    "DFStringFlagRepoGitHashDynamicString": "06e5765859bb33af7e766bc50e44a97e9bfbf52f",
+    "FStringFlipTimeStampFastString": "2025-10-24T16:41:41.203Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-24T16:41:41.203Z"
 }

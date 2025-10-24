@@ -12817,6 +12817,11 @@
     "FFlagRbxTelemetryEnableHttpCounters3": "True",
     "DFFlagSlimEnableTeamCreateUploadCap": "True",
     "DFIntSlimTeamCreateUploadCap": "1000",
+    "FIntRenderBufferTypeVertex_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T16:00:41",
+    "FFlagAppShortcutBarFixHoldIconFlash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1149342102;2025-10-24T16:08:23",
+    "FFlagAppShortcutBarIconImprovement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1149342102;2025-10-24T16:08:23",
+    "FFlagLRIncreasePeer_Staged": "True;SteadyState;10;30;Revert;2025-10-24T16:22:22",
+    "DFFlagLargeReplicatorSendMaxThrow_Staged": "True;SteadyState;10;30;Revert;2025-10-24T16:37:25",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13788,8 +13793,9 @@
     "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
     "FFlagFixDeviceSettingsFocus": "True",
     "DFFlagGetHlsLodManifest2": "True",
-    "FStringFlagRepoGitHashFastString": "2f41c79a33488d28161faa21b4cf456e28576100",
-    "DFStringFlagRepoGitHashDynamicString": "2f41c79a33488d28161faa21b4cf456e28576100",
-    "FStringFlipTimeStampFastString": "2025-10-24T00:22:24.310Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-24T00:22:24.310Z"
+    "FFlagRemoveNoOrderInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T16:14:59",
+    "FStringFlagRepoGitHashFastString": "06e5765859bb33af7e766bc50e44a97e9bfbf52f",
+    "DFStringFlagRepoGitHashDynamicString": "06e5765859bb33af7e766bc50e44a97e9bfbf52f",
+    "FStringFlipTimeStampFastString": "2025-10-24T16:41:41.203Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-24T16:41:41.203Z"
 }
