@@ -269,6 +269,7 @@
     "FFlagStatusFileMutex": "False",
     "FFlagAXFixCatalogRefreshRenderingV3": "True",
     "FFlagSessionTrackingUseMovedRelaunch": "True",
+    "FFlagStatusFileManagerV22": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -281,8 +282,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "b74ff330838c69a9f465090da09b9a169e09039c",
-    "DFStringFlagRepoGitHashDynamicString": "b74ff330838c69a9f465090da09b9a169e09039c",
-    "FStringFlipTimeStampFastString": "2025-10-27T17:38:29.507Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-27T17:38:29.507Z"
+    "FStringFlagRepoGitHashFastString": "c9854ba7d13601a66bcb0b7d12a2e24a316df3a2",
+    "DFStringFlagRepoGitHashDynamicString": "c9854ba7d13601a66bcb0b7d12a2e24a316df3a2",
+    "FStringFlipTimeStampFastString": "2025-10-27T18:47:25.042Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-27T18:47:25.042Z"
 }

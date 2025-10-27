@@ -269,6 +269,7 @@
     "FFlagStatusFileMutex": "False",
     "FFlagAXFixCatalogRefreshRenderingV3": "True",
     "FFlagSessionTrackingUseMovedRelaunch": "True",
+    "FFlagStatusFileManagerV22": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -290,8 +291,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "ef434c22cd60192ebe7af216cca702a1134047d6",
-    "DFStringFlagRepoGitHashDynamicString": "ef434c22cd60192ebe7af216cca702a1134047d6",
-    "FStringFlipTimeStampFastString": "2025-10-27T17:35:21.228Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-27T17:35:21.228Z"
+    "FStringFlagRepoGitHashFastString": "c9854ba7d13601a66bcb0b7d12a2e24a316df3a2",
+    "DFStringFlagRepoGitHashDynamicString": "c9854ba7d13601a66bcb0b7d12a2e24a316df3a2",
+    "FStringFlipTimeStampFastString": "2025-10-27T18:47:25.042Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-27T18:47:25.042Z"
 }
