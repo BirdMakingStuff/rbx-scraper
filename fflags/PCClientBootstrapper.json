@@ -285,8 +285,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "e4f9b46a603b498c0b25f3049c686e566b85204a",
-    "DFStringFlagRepoGitHashDynamicString": "e4f9b46a603b498c0b25f3049c686e566b85204a",
-    "FStringFlipTimeStampFastString": "2025-10-28T17:39:23.604Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-28T17:39:23.604Z"
+    "FStringFlagRepoGitHashFastString": "5dc55c5dc6a5c9fbe4b846ea08e9510dab9a544f",
+    "DFStringFlagRepoGitHashDynamicString": "5dc55c5dc6a5c9fbe4b846ea08e9510dab9a544f",
+    "FStringFlipTimeStampFastString": "2025-10-28T18:49:00.260Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-28T18:49:00.260Z"
 }
