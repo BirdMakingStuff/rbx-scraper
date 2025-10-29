@@ -67,5 +67,6 @@
     "showTextToSpeechDashboard": "true",
     "enableTargetPartWildcards": "true",
     "enablePricingPageRedesign": "true",
-    "enableMakeupAssets": "false"
+    "enableMakeupAssets": "false",
+    "enablePlayerFeedbackUnrated": "false"
 }
