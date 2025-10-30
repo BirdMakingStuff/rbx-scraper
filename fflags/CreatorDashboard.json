@@ -68,5 +68,5 @@
     "enableTargetPartWildcards": "true",
     "enablePricingPageRedesign": "true",
     "enableMakeupAssets": "false",
-    "enablePlayerFeedbackUnrated": "false"
+    "enablePlayerFeedbackUnrated": "true"
 }
