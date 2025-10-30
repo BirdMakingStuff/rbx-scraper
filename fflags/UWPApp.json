@@ -12972,7 +12972,13 @@
     "DFFlagRobloxTelemetryNewESIHeader": "True",
     "FFlagVideoFixMockContext": "True",
     "FFlagEnableSeamlessVoiceFeature": "True",
+    "FFlagFixBlackSky2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:03:25",
+    "FFlagWhitelistUserModerationAPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:07:36",
+    "FFlagAddSurfaceTypeToAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:07:58",
     "AllowVideoPreRoll": "True",
+    "FFlagAudioEngineFasterDspDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:13:31",
+    "FFlagBootcampCLI174517_Staged": "True;SteadyState;10;30;Revert;2025-10-30T16:30:13",
+    "FFlagLuaAppDataModelStreamEnableTestIdTag_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:42:02",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -13274,8 +13280,9 @@
     "FFlagRobloxTelemetryEnableSenderCallback": "True",
     "FFlagWrapDeformerUsesLayeredClothing6": "True",
     "FFlagWrapDeformersSupportWrapLayers4": "True",
-    "FStringFlagRepoGitHashFastString": "e04cb9cec07e665319797038acc519365d857c4f",
-    "DFStringFlagRepoGitHashDynamicString": "e04cb9cec07e665319797038acc519365d857c4f",
-    "FStringFlipTimeStampFastString": "2025-10-30T01:14:10.904Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-30T01:14:10.904Z"
+    "FIntNewTextureTranscoderHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:01:26",
+    "FStringFlagRepoGitHashFastString": "1326196664fcb394628248259f4c80e48b6eb88b",
+    "DFStringFlagRepoGitHashDynamicString": "1326196664fcb394628248259f4c80e48b6eb88b",
+    "FStringFlipTimeStampFastString": "2025-10-30T16:45:30.341Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-30T16:45:30.341Z"
 }
