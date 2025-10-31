@@ -13022,6 +13022,7 @@
     "FFlagRenderDecalTexturePackStudioGen2": "True",
     "FFlagCapturesDragEdgeOffsetEnabled": "True",
     "DFIntDeserializeRestrictedInstanceEventHundredthsPercent": "100",
+    "FFlagNetworkSchemaVersionServerBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-31T16:23:25",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13486,7 +13487,7 @@
     "FFlagAXOverlayShouldNotAutofocusForNonDirectionalInput": "True",
     "DFFlagLetRagdolledHumanoidsSleep_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
     "DFFlagSimScaleSleepAcceleration_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
-    "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "1000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
+    "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "2000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
     "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
     "DFIntSimSolverImprovedPartialSleepTolerance_PlaceFilter": "10;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
     "FFlagSessionTrackingUseMovedRelaunch": "True",
@@ -14009,7 +14010,7 @@
     "FFlagAXMigrateAXFocusBehaviorRoot": "False",
     "FFlagFixDeviceSettingsFocus": "True",
     "FFlagMaxSizeUseCorrectPadding": "True",
-    "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "100;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
+    "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
     "FFlagLuaAppUnmountPreviewVideoOnAppBackground": "True",
     "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "True",
     "FFlagQuestNESONoState": "True",
@@ -14017,8 +14018,8 @@
     "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
     "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
     "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "5000",
-    "FStringFlagRepoGitHashFastString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
-    "DFStringFlagRepoGitHashDynamicString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
-    "FStringFlipTimeStampFastString": "2025-10-31T03:24:02.846Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-31T03:24:02.846Z"
+    "FStringFlagRepoGitHashFastString": "aa637cd1d92c7c668eafd5bcd24430b59cf81df0",
+    "DFStringFlagRepoGitHashDynamicString": "aa637cd1d92c7c668eafd5bcd24430b59cf81df0",
+    "FStringFlipTimeStampFastString": "2025-10-31T16:34:12.017Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-31T16:34:12.017Z"
 }
