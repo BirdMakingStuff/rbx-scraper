@@ -12980,7 +12980,7 @@
     "FFlagEnableTelemetryIntegrationCheck2": "False",
     "FFlagEnableAEGIS1Upsell4": "True",
     "FFlagFixReverbGetParameter": "True",
-    "DFFlagGetHlsLodManifest2": "True",
+    "DFFlagGetHlsLodManifest2": "False",
     "FFlagBootcampCLI174517": "True",
     "FFlagLuauCompileTypeofFold": "True",
     "FFlagStatsItemRemoveGcInterval": "True",
@@ -13919,7 +13919,6 @@
     "FIntNativeAdTouchedEventThrottlingHundredthPercentage": "10000",
     "FFlagRbxStorageCleanPermCache": "False",
     "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
-    "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
     "UseCoilImageLibrary": "true",
     "UseAndroidSamsungPaymentsProtocol5": "false",
     "FFlagUseAndroidPaymentsProtocolThrobber": "True",
@@ -14034,8 +14033,8 @@
     "FFlagEnableNotApprovedPageV2": "True",
     "DFFlagRbxStorageAddPermCategoryStatsWithBypass": "True",
     "FFlagEnableVolumeSliderQOLFix": "True",
-    "FStringFlagRepoGitHashFastString": "69d7e3ef7fa959749c02252a78e44396d6014acb",
-    "DFStringFlagRepoGitHashDynamicString": "69d7e3ef7fa959749c02252a78e44396d6014acb",
-    "FStringFlipTimeStampFastString": "2025-10-31T01:44:17.421Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-31T01:44:17.421Z"
+    "FStringFlagRepoGitHashFastString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
+    "DFStringFlagRepoGitHashDynamicString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
+    "FStringFlipTimeStampFastString": "2025-10-31T03:24:02.846Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-31T03:24:02.846Z"
 }

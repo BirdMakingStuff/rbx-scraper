@@ -12980,7 +12980,7 @@
     "FFlagEnableTelemetryIntegrationCheck2": "False",
     "FFlagEnableAEGIS1Upsell4": "True",
     "FFlagFixReverbGetParameter": "True",
-    "DFFlagGetHlsLodManifest2": "True",
+    "DFFlagGetHlsLodManifest2": "False",
     "FFlagBootcampCLI174517": "True",
     "FFlagLuauCompileTypeofFold": "True",
     "FFlagStatsItemRemoveGcInterval": "True",
@@ -13895,7 +13895,6 @@
     "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;731719989;dev_controlled",
     "FFlagHttpUseRbxStorage10": "True",
     "FFlagEmergencyDeleteOfExperimentDummyFile": "True",
-    "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
     "FFlagAXEnableCategoryPills7_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;2029261985;dev_controlled",
     "FFlagAXEnableCategoryPillsExposureLogging2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;1228557301;dev_controlled",
     "FFlagAddIEMProfilePage_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
@@ -13980,8 +13979,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "69d7e3ef7fa959749c02252a78e44396d6014acb",
-    "DFStringFlagRepoGitHashDynamicString": "69d7e3ef7fa959749c02252a78e44396d6014acb",
-    "FStringFlipTimeStampFastString": "2025-10-31T01:44:17.421Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-31T01:44:17.421Z"
+    "FStringFlagRepoGitHashFastString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
+    "DFStringFlagRepoGitHashDynamicString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
+    "FStringFlipTimeStampFastString": "2025-10-31T03:24:02.846Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-31T03:24:02.846Z"
 }

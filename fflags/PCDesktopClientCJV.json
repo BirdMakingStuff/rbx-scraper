@@ -12980,7 +12980,7 @@
     "FFlagEnableTelemetryIntegrationCheck2": "False",
     "FFlagEnableAEGIS1Upsell4": "True",
     "FFlagFixReverbGetParameter": "True",
-    "DFFlagGetHlsLodManifest2": "True",
+    "DFFlagGetHlsLodManifest2": "False",
     "FFlagBootcampCLI174517": "True",
     "FFlagLuauCompileTypeofFold": "True",
     "FFlagStatsItemRemoveGcInterval": "True",
@@ -14002,7 +14002,6 @@
     "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1499707217;dev_controlled",
     "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
     "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
-    "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
     "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;108964855;dev_controlled",
     "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
     "FFlagFCRouteSecondaryParts": "False",
@@ -14019,8 +14018,8 @@
     "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
     "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "5000",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "69d7e3ef7fa959749c02252a78e44396d6014acb",
-    "DFStringFlagRepoGitHashDynamicString": "69d7e3ef7fa959749c02252a78e44396d6014acb",
-    "FStringFlipTimeStampFastString": "2025-10-31T01:44:17.421Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-31T01:44:17.421Z"
+    "FStringFlagRepoGitHashFastString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
+    "DFStringFlagRepoGitHashDynamicString": "72ab52796237a7f3313eb3c9667f7f02423eb418",
+    "FStringFlipTimeStampFastString": "2025-10-31T03:24:02.846Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-31T03:24:02.846Z"
 }
