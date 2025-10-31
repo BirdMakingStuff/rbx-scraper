@@ -14842,7 +14842,7 @@
     "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "100;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
     "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "1000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
     "DFIntSimSolverImprovedPartialSleepTolerance_PlaceFilter": "10;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
-    "FFlagEmissiveMapsBetaFeature": "True",
+    "FFlagEmissiveMapsBetaFeature": "False",
     "FFlagUGCValidateMeshBBoxIsCentered": "True",
     "FFlagSlimTelemetry4": "True",
     "FFlagSlimTelemetryReportFromDataModel": "True",
@@ -14859,7 +14859,6 @@
     "FFlagLDP626FileSyncUseIdLookup": "True",
     "FFlagPartyEmulatorBetaFeature": "True",
     "FFlagTrackVertexOrderingInSkinningSubsets": "True",
-    "FFlagEmissiveMapsBetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-31T20:00:55",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15317,8 +15316,8 @@
     "DFFlagConvexDecompCompressionAnalytics690": "True",
     "FFlagToolboxFireAndForget": "True",
     "DFFlagHttp2AllInternalReqs": "False",
-    "FStringFlagRepoGitHashFastString": "9ca4ccef6cc037bbf8d2b442d26ff7f5d2be85bb",
-    "DFStringFlagRepoGitHashDynamicString": "9ca4ccef6cc037bbf8d2b442d26ff7f5d2be85bb",
-    "FStringFlipTimeStampFastString": "2025-10-31T20:08:42.010Z",
-    "DFStringFlipTimeStampDynamicString": "2025-10-31T20:08:42.010Z"
+    "FStringFlagRepoGitHashFastString": "79a124db376a773662da57033d7f66489932a39e",
+    "DFStringFlagRepoGitHashDynamicString": "79a124db376a773662da57033d7f66489932a39e",
+    "FStringFlipTimeStampFastString": "2025-10-31T21:09:23.949Z",
+    "DFStringFlipTimeStampDynamicString": "2025-10-31T21:09:23.949Z"
 }
