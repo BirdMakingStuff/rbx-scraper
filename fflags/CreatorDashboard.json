@@ -69,5 +69,6 @@
     "enablePricingPageRedesign": "true",
     "enableMakeupAssets": "false",
     "enablePlayerFeedbackUnrated": "true",
-    "enableLicenseAgreementCommsAbuseReporting": "true"
+    "enableLicenseAgreementCommsAbuseReporting": "true",
+    "enableUpdateQuestionnaire": "true"
 }
