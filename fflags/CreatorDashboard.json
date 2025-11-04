@@ -1,4 +1,5 @@
 ﻿{
+    "enableRecommendationService": "false",
     "enableBadgeReordering": "true",
     "enablePreLaunchUgcForAllWarning": "false",
     "enableAutomaticTranslationUpdates": "true",
