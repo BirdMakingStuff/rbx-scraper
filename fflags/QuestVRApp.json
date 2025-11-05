@@ -13436,7 +13436,7 @@
     "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
     "FStringShareLinkAppOpen": "ShareLinkAppOpenAndroid",
     "FStringShareLinkResolved": "ShareLinkResolvedAndroid",
-    "FFlagMovePrerender": "False",
+    "FFlagMovePrerender": "True",
     "FFlagMovePrerender_PlaceFilter": "False;7117492592",
     "FStringProfileQRPageFriendRequestBannerShown": "ProfileQRPageFriendRequestBannerShownAndroid",
     "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedAndroid",
@@ -14237,10 +14237,9 @@
     "DFFlagRbxStorageAddPermCategoryStatsWithBypass": "True",
     "FFlagEnableVolumeSliderQOLFix": "True",
     "FFlagQuestNESONoState": "True",
-    "FFlagMovePrerender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:49:05",
     "FLogOPENXR": "Error,6",
-    "FStringFlagRepoGitHashFastString": "a6ea7353e9a26f20d83688d8f35fde70db5be283",
-    "DFStringFlagRepoGitHashDynamicString": "a6ea7353e9a26f20d83688d8f35fde70db5be283",
-    "FStringFlipTimeStampFastString": "2025-11-05T20:41:40.191Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-05T20:41:40.191Z"
+    "FStringFlagRepoGitHashFastString": "eb14702b81cf806b761c512cf326ba36c2950806",
+    "DFStringFlagRepoGitHashDynamicString": "eb14702b81cf806b761c512cf326ba36c2950806",
+    "FStringFlipTimeStampFastString": "2025-11-05T20:53:11.631Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-05T20:53:11.631Z"
 }
