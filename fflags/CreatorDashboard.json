@@ -70,5 +70,6 @@
     "enableMakeupAssets": "false",
     "enablePlayerFeedbackUnrated": "true",
     "enableLicenseAgreementCommsAbuseReporting": "true",
-    "enableUpdateQuestionnaire": "true"
+    "enableUpdateQuestionnaire": "true",
+    "enableOneTimePayoutV2": "false"
 }
