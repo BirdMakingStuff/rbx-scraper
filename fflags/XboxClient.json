@@ -2645,7 +2645,7 @@
     "FFlagNoTagsLabelPassesMouseInput": "True",
     "FFlagSelfViewHumanoidNilCheck": "True",
     "DFFlagTeleportFailOnPermissionResetBugFix": "True",
-    "FFlagPlayerViewRemoteEnabled": "True",
+    "FFlagPlayerViewRemoteEnabled": "False",
     "FFlagFixExperienceLaunchBeginTimestamp": "True",
     "DFFlagReduceFacialAnimationsWhenFacsStreaming2": "True",
     "DFIntReduceFacialAnimationsAudioVideoMode": "255",
@@ -13649,8 +13649,8 @@
     "FFlagUsePaymentsProtocolFailureMetrics": "True",
     "FFlagAXPrefetchMarketplaceIXP4": "True",
     "FFlagFmodCompressorNanDetection": "True",
-    "FStringFlagRepoGitHashFastString": "14bb1e7ba23f49830a8dc20a9e89a57d403fe411",
-    "DFStringFlagRepoGitHashDynamicString": "14bb1e7ba23f49830a8dc20a9e89a57d403fe411",
-    "FStringFlipTimeStampFastString": "2025-11-07T23:29:30.477Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-07T23:29:30.477Z"
+    "FStringFlagRepoGitHashFastString": "d9999a7409a6ede7d999de924ecb46c71600e8df",
+    "DFStringFlagRepoGitHashDynamicString": "d9999a7409a6ede7d999de924ecb46c71600e8df",
+    "FStringFlipTimeStampFastString": "2025-11-08T01:07:26.318Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-08T01:07:26.318Z"
 }
