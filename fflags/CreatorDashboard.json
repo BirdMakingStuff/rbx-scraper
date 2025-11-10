@@ -72,5 +72,6 @@
     "enableLicenseAgreementCommsAbuseReporting": "true",
     "enableUpdateQuestionnaire": "true",
     "enableOneTimePayoutV2": "false",
-    "enableContentMaturity18Plus": "true"
+    "enableContentMaturity18Plus": "true",
+    "removeGetAssetDetails": "true"
 }
