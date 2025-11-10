@@ -71,7 +71,7 @@
     "enablePlayerFeedbackUnrated": "true",
     "enableLicenseAgreementCommsAbuseReporting": "true",
     "enableUpdateQuestionnaire": "true",
-    "enableOneTimePayoutV2": "false",
+    "enableOneTimePayoutV2": "true",
     "enableContentMaturity18Plus": "true",
     "removeGetAssetDetails": "true",
     "enableRentables": "true"
