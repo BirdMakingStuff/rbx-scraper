@@ -76,5 +76,6 @@
     "removeGetAssetDetails": "true",
     "enableRentables": "true",
     "enableIpLicensingCreatorLifetimeVisits": "true",
-    "updateIpPlatformGuidelineAndRestrictions": "true"
+    "updateIpPlatformGuidelineAndRestrictions": "true",
+    "enableImmersiveAdsSettingsTab": "true"
 }
