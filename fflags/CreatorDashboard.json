@@ -74,5 +74,7 @@
     "enableOneTimePayoutV2": "true",
     "enableContentMaturity18Plus": "true",
     "removeGetAssetDetails": "true",
-    "enableRentables": "true"
+    "enableRentables": "true",
+    "enableIpLicensingCreatorLifetimeVisits": "true",
+    "updateIpPlatformGuidelineAndRestrictions": "true"
 }

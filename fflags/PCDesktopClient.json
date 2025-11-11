@@ -13341,6 +13341,8 @@
     "FFlagAXEnableFetchAvatarPreview9": "True",
     "FFlagAssetManifestInsideLuaPatchConfig": "True",
     "DFFlagNoEndianConversion": "True",
+    "FFlagProfilePlatformOnlyUseFollowOnSupportedProfileTypes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T17:17:23",
+    "FIntRelayoutPerFrameLimit_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T17:24:55",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14355,8 +14357,8 @@
     "FFlagUsePaymentsProtocolPurchaseTypeDimension": "True",
     "FFlagUsePCGDKPaymentsProtocolMetricsPurchaseType": "True",
     "FFlagLuaAppEdpBackendV2HydrateLegacyIxp9": "True",
-    "FStringFlagRepoGitHashFastString": "c901cfb7df4c3a75ca03376801727e572b692294",
-    "DFStringFlagRepoGitHashDynamicString": "c901cfb7df4c3a75ca03376801727e572b692294",
-    "FStringFlipTimeStampFastString": "2025-11-11T02:08:45.304Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-11T02:08:45.304Z"
+    "FStringFlagRepoGitHashFastString": "061b2245116cf3742b982ce11c4486a04b622b47",
+    "DFStringFlagRepoGitHashDynamicString": "061b2245116cf3742b982ce11c4486a04b622b47",
+    "FStringFlipTimeStampFastString": "2025-11-11T17:36:19.609Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-11T17:36:19.609Z"
 }
