@@ -13349,6 +13349,10 @@
     "FFlagCanReplicateUICursorPropertiesServer": "True",
     "FFlagContentPropertiesCursor": "True",
     "FStringFAEUpsellOverlayDeepLinkPattern": "roblox.*://navigation/aegis_upsell_overlay.*",
+    "FFlagSBT5735_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T20:39:42",
+    "DFFlagMigrateFeatureRestrictionDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T20:52:47",
+    "FFlagEnableWarmStartMilestoneV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:15:37",
+    "FFlagTouchInputServiceGestureCoalesceFingers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057613799;2025-11-11T21:26:42",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14300,8 +14304,10 @@
     "FFlagEnableGooglePlayGamesIntegration_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.2;457212349;flagbank",
     "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
     "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "3900",
-    "FStringFlagRepoGitHashFastString": "7f62cf3b4f19950e8c0b96353cd0d8cc7f1f5cb1",
-    "DFStringFlagRepoGitHashDynamicString": "7f62cf3b4f19950e8c0b96353cd0d8cc7f1f5cb1",
-    "FStringFlipTimeStampFastString": "2025-11-11T20:24:01.700Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-11T20:24:01.700Z"
+    "FFlagRobloxTelemetryEnableSenderCallback_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T20:51:17",
+    "DFFlagGetHlsLodManifest2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:09:55",
+    "FStringFlagRepoGitHashFastString": "55396a8a10a537f15ff7b05aa4f2ea703e411910",
+    "DFStringFlagRepoGitHashDynamicString": "55396a8a10a537f15ff7b05aa4f2ea703e411910",
+    "FStringFlipTimeStampFastString": "2025-11-11T21:36:57.461Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-11T21:36:57.461Z"
 }
