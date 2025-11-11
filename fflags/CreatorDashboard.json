@@ -77,5 +77,6 @@
     "enableRentables": "true",
     "enableIpLicensingCreatorLifetimeVisits": "true",
     "updateIpPlatformGuidelineAndRestrictions": "true",
-    "enableImmersiveAdsSettingsTab": "true"
+    "enableImmersiveAdsSettingsTab": "true",
+    "enableIphResponseTimeSorting": "true"
 }
