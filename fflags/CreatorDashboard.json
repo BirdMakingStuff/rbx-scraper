@@ -78,5 +78,6 @@
     "enableIpLicensingCreatorLifetimeVisits": "true",
     "updateIpPlatformGuidelineAndRestrictions": "true",
     "enableImmersiveAdsSettingsTab": "true",
-    "enableIphResponseTimeSorting": "true"
+    "enableIphResponseTimeSorting": "true",
+    "enableDeveloperSubscriptionsInRobux": "false"
 }
