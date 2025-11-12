@@ -13365,6 +13365,11 @@
     "FFlagUGCValidateMeshBBoxIsCentered": "True",
     "FFlagUGCValidateMeshBBoxMinSize": "True",
     "DFIntRenderTextureMaxRetriesNonPreload": "0",
+    "FFlagEnableRecommendationService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T17:03:20",
+    "DFFlagEnableCaptureUpload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T17:04:05",
+    "DFFlagEnableCapturesGalleryRetrieval2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T17:05:05",
+    "FFlagPPVBackgroundEnabledV2_IXP": "1;Social.ProfilePeekView.Secondary;Social.ProfilePeekView.Profile3DCharacters;460092599;dev_controlled",
+    "FFlagPPVBackgroundUse2DAsLoadingState_IXP": "1;Social.ProfilePeekView.Secondary;Social.ProfilePeekView.Profile3DCharacters;460092599;dev_controlled",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13888,6 +13893,7 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "DFFlagNIIStricterPrefilter2": "True",
     "DFIntSQLiteBusyChkpointMaxReport": "3",
+    "FFlagPlayerListUseMobileOnSmallDisplay2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T17:36:24",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14392,8 +14398,8 @@
     "DFStringContentProviderToAssetDeliveryMarkFromLodLoadStudy_IXP": "1;Portal.ZAPCompressionWinIxp-1762819040;ZAPCompressionWinIxp;1812507501;flagbank",
     "FFlagAXFixBulkPurchaseFreeItems": "True",
     "FFlagAXPurchaseFromQuantityFirst": "True",
-    "FStringFlagRepoGitHashFastString": "f7bb930bf8897bd8ce76f125048086da5b61ec61",
-    "DFStringFlagRepoGitHashDynamicString": "f7bb930bf8897bd8ce76f125048086da5b61ec61",
-    "FStringFlipTimeStampFastString": "2025-11-12T02:06:21.650Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-12T02:06:21.650Z"
+    "FStringFlagRepoGitHashFastString": "a468cedb16c957cb1f6ddb96547169475a9be8af",
+    "DFStringFlagRepoGitHashDynamicString": "a468cedb16c957cb1f6ddb96547169475a9be8af",
+    "FStringFlipTimeStampFastString": "2025-11-12T17:38:40.541Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-12T17:38:40.541Z"
 }
