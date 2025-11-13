@@ -273,7 +273,8 @@
     "FFlagExperienceEventsListingAPIEnabled": "True",
     "FFlagWrapDeformerUsesLayeredClothing6": "True",
     "FFlagWrapDeformersSupportWrapLayers4": "True",
-    "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign;1406855834;dev_controlled",
+    "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;;1345270401;dev_controlled",
+    "FFlagProfilePlatformNewAboutSection_v9_IXP": "1;Social.ProfilePeekView;;1345270401;dev_controlled",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -295,8 +296,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "7a4bd94afde51a7d89411cf5b45ab5de77ed0c60",
-    "DFStringFlagRepoGitHashDynamicString": "7a4bd94afde51a7d89411cf5b45ab5de77ed0c60",
-    "FStringFlipTimeStampFastString": "2025-11-13T17:36:01.245Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-13T17:36:01.245Z"
+    "FStringFlagRepoGitHashFastString": "3a4964e31364fa9f75f5801405af8409dccd2ef2",
+    "DFStringFlagRepoGitHashDynamicString": "3a4964e31364fa9f75f5801405af8409dccd2ef2",
+    "FStringFlipTimeStampFastString": "2025-11-13T18:48:29.600Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-13T18:48:29.600Z"
 }
