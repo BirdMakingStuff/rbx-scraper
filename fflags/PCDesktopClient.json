@@ -14560,9 +14560,9 @@
     "FFlagSlimContentProvider2": "True",
     "FFlagSlimService19": "True",
     "DFFlagCLI178587": "True",
-    "FFlagMeshManagerAvoidVTableFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T21:31:21",
-    "FStringFlagRepoGitHashFastString": "a292823a8802d0c1b181f8dd29dce90c5749f595",
-    "DFStringFlagRepoGitHashDynamicString": "a292823a8802d0c1b181f8dd29dce90c5749f595",
-    "FStringFlipTimeStampFastString": "2025-11-14T21:34:13.757Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-14T21:34:13.757Z"
+    "FFlagMeshManagerAvoidVTableFix": "True",
+    "FStringFlagRepoGitHashFastString": "dcf53b4a45f22b561ed9926cfbe340b3d51ffa23",
+    "DFStringFlagRepoGitHashDynamicString": "dcf53b4a45f22b561ed9926cfbe340b3d51ffa23",
+    "FStringFlipTimeStampFastString": "2025-11-14T22:37:16.021Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-14T22:37:16.021Z"
 }
