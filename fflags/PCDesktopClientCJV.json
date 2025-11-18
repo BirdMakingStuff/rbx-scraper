@@ -13541,7 +13541,7 @@
     "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
     "FFlagUGCValidateAccurateBoundingBoxRasterMethodTopViewFix": "True",
     "FFlagCheckButtonFrameBeforeDestroy": "True",
-    "FFlagCleanupMuteSelfButton": "True",
+    "FFlagCleanupMuteSelfButton": "False",
     "FFlagEnableVoiceSelectorTranslations_AEGIS2": "True",
     "FFlagLoadFontAssetsFromAllAssetPaths": "True",
     "FFlagAddAEGIS2Analytics": "True",
@@ -14625,8 +14625,8 @@
     "FFlagFixTextNotShowingInBillboard": "True",
     "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "f22b7f7ec0f50bf47d34040aa1dc2ed63b19fb5e",
-    "DFStringFlagRepoGitHashDynamicString": "f22b7f7ec0f50bf47d34040aa1dc2ed63b19fb5e",
-    "FStringFlipTimeStampFastString": "2025-11-18T01:57:49.582Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-18T01:57:49.582Z"
+    "FStringFlagRepoGitHashFastString": "02ad2d90579117f4cf8fbd9c0563a0c122e36ad7",
+    "DFStringFlagRepoGitHashDynamicString": "02ad2d90579117f4cf8fbd9c0563a0c122e36ad7",
+    "FStringFlipTimeStampFastString": "2025-11-18T02:36:28.458Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-18T02:36:28.458Z"
 }
