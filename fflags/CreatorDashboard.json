@@ -78,5 +78,6 @@
     "updateIpPlatformGuidelineAndRestrictions": "true",
     "enableImmersiveAdsSettingsTab": "true",
     "enableIphResponseTimeSorting": "true",
-    "enableDeveloperSubscriptionsInRobux": "false"
+    "enableDeveloperSubscriptionsInRobux": "false",
+    "enableFirstPayoutWarning": "true"
 }
