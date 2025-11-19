@@ -13599,6 +13599,9 @@
     "DFFlagEnableAdsLifecycleErrorEvent": "True",
     "FFlagAXFixConsoleTitleDropdownMissing": "True",
     "FFlagFixExperienceDetailsNavigation": "True",
+    "FFlagEnableSetChangeTypeBitmask3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T17:06:21",
+    "FFlagCrossPlayUseAppLifecycleObserver_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T17:21:31",
+    "FFlagAEGISFixUpsellOverlayTextCutoff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T17:26:29",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14677,8 +14680,8 @@
     "FFlagMeshManagerAvoidVTableFix": "True",
     "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "a44cbd9036a270a10cc405e3c320e1d3b93a8db9",
-    "DFStringFlagRepoGitHashDynamicString": "a44cbd9036a270a10cc405e3c320e1d3b93a8db9",
-    "FStringFlipTimeStampFastString": "2025-11-19T07:22:40.081Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-19T07:22:40.081Z"
+    "FStringFlagRepoGitHashFastString": "bb9607943c0f7a194b5fbbd66471b4764387b72b",
+    "DFStringFlagRepoGitHashDynamicString": "bb9607943c0f7a194b5fbbd66471b4764387b72b",
+    "FStringFlipTimeStampFastString": "2025-11-19T17:27:48.766Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-19T17:27:48.766Z"
 }
