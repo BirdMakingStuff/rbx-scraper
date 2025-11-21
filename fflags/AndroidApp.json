@@ -13669,6 +13669,10 @@
     "FFlagNoBreakpointsOnInvalidGuids": "True",
     "FFlagLuaAppLayoutParamsInContext2": "True",
     "FFlagSkipInvisibleLayoutViewport": "False",
+    "FFlagLuaAppEnablePartySurfaceForFetchSearchLandingPage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-21T17:49:59",
+    "DFFlagResetNetworkOwnerOnRemovePrimitive2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-21T18:15:33",
+    "FFlagMassPropertyMigrationTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1496097243;2025-11-21T18:23:31",
+    "FFlagUpdateHiddenGameTileText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-21T18:39:20",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14627,8 +14631,8 @@
     "FFlagPerformanceControlEnableV2MemoryModifications_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
     "FStringPerformanceControlDefaultMemoryBufferConfig_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
     "FStringPerformanceControlMemoryBufferModificationsEnabledJson_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
-    "FStringFlagRepoGitHashFastString": "9d3f2bcb7d180b1cf2b5c2ef4a1548b5731fa8dd",
-    "DFStringFlagRepoGitHashDynamicString": "9d3f2bcb7d180b1cf2b5c2ef4a1548b5731fa8dd",
-    "FStringFlipTimeStampFastString": "2025-11-21T17:33:53.617Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-21T17:33:53.617Z"
+    "FStringFlagRepoGitHashFastString": "e42f984b8fb70d5358b6cdcb3f144082948f4ce8",
+    "DFStringFlagRepoGitHashDynamicString": "e42f984b8fb70d5358b6cdcb3f144082948f4ce8",
+    "FStringFlipTimeStampFastString": "2025-11-21T18:41:01.637Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-21T18:41:01.637Z"
 }
