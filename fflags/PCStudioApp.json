@@ -15591,6 +15591,7 @@
     "FFlagRbsAutocompleteServicesByClassName": "True",
     "FFlagPullInUserFacingPluginNamesCloud": "True",
     "FFlagSupportTabShortcut": "True",
+    "FFlagStudioBackgroundUpdatesObserveApplicationStatesChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-21T17:13:49",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16118,8 +16119,8 @@
     "DFFlagConvexDecompCompressionAnalytics690": "True",
     "DFFlagHttp2AllInternalReqs": "False",
     "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-    "FStringFlagRepoGitHashFastString": "75621f22274d31f566312d021f09497dc3d07384",
-    "DFStringFlagRepoGitHashDynamicString": "75621f22274d31f566312d021f09497dc3d07384",
-    "FStringFlipTimeStampFastString": "2025-11-21T02:42:09.351Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-21T02:42:09.351Z"
+    "FStringFlagRepoGitHashFastString": "9d3f2bcb7d180b1cf2b5c2ef4a1548b5731fa8dd",
+    "DFStringFlagRepoGitHashDynamicString": "9d3f2bcb7d180b1cf2b5c2ef4a1548b5731fa8dd",
+    "FStringFlipTimeStampFastString": "2025-11-21T17:33:53.617Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-21T17:33:53.617Z"
 }
