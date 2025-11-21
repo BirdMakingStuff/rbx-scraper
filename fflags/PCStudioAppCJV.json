@@ -15604,6 +15604,8 @@
     "FFlagStudioBackgroundUpdatesObserveApplicationStatesChange": "True",
     "DFFlagEnableRecommendTopProductsApi2_PlaceFilter": "True;94788856132460",
     "DFIntMemoryStoresUseLocalThrottlerSeconds": "30",
+    "FFlagEnableGameTreeTool_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2066935673;2025-11-21T23:15:20",
+    "FFlagEnableInspectInstanceTool_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1143538774;2025-11-21T23:26:59",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16141,8 +16143,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "7c9e6d639a31c6c553cdc875c346adfe60795b37",
-    "DFStringFlagRepoGitHashDynamicString": "7c9e6d639a31c6c553cdc875c346adfe60795b37",
-    "FStringFlipTimeStampFastString": "2025-11-21T21:07:22.787Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-21T21:07:22.787Z"
+    "FStringFlagRepoGitHashFastString": "da33a5fc67db2a9793339ca7b6be5f49383804f9",
+    "DFStringFlagRepoGitHashDynamicString": "da33a5fc67db2a9793339ca7b6be5f49383804f9",
+    "FStringFlipTimeStampFastString": "2025-11-21T23:28:14.746Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-21T23:28:14.746Z"
 }
