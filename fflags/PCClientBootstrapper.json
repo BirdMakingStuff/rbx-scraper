@@ -273,8 +273,6 @@
     "FFlagExperienceEventsListingAPIEnabled": "True",
     "FFlagWrapDeformerUsesLayeredClothing6": "True",
     "FFlagWrapDeformersSupportWrapLayers4": "True",
-    "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;IxpFlagLink;1345270401;dev_controlled",
-    "FFlagProfilePlatformNewAboutSection_v9_IXP": "1;Social.ProfilePeekView;IxpFlagLink;1345270401;dev_controlled",
     "FFlagInstallerSplitFlow5": "True",
     "FFlagAddAEGIS2Analytics": "True",
     "FFlagAddSessionizationToAnalytics": "True",
@@ -295,8 +293,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "e42f984b8fb70d5358b6cdcb3f144082948f4ce8",
-    "DFStringFlagRepoGitHashDynamicString": "e42f984b8fb70d5358b6cdcb3f144082948f4ce8",
-    "FStringFlipTimeStampFastString": "2025-11-21T18:41:01.637Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-21T18:41:01.637Z"
+    "FStringFlagRepoGitHashFastString": "5acab824e6434aaf706ced598faaf7a74cd9d175",
+    "DFStringFlagRepoGitHashDynamicString": "5acab824e6434aaf706ced598faaf7a74cd9d175",
+    "FStringFlipTimeStampFastString": "2025-11-21T19:35:00.813Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-21T19:35:00.813Z"
 }
