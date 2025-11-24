@@ -56,7 +56,7 @@
     "enableGroupInvitationsTelemetry": "true",
     "enableCreatorRewards": "true",
     "enableRoleMembersV2": "true",
-    "enableChildLocaleSupport": "false",
+    "enableChildLocaleSupport": "true",
     "contentLicensingApiRolloutIPH": "100",
     "serverManagementEnabled": "true",
     "contentLicensingApiAccountsAllowlist": "56f2edb3-7dbc-4646-80f6-489ca3def05e",
