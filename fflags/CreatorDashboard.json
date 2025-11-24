@@ -79,5 +79,6 @@
     "enableImmersiveAdsSettingsTab": "true",
     "enableIphResponseTimeSorting": "true",
     "enableDeveloperSubscriptionsInRobux": "false",
-    "enableFirstPayoutWarning": "true"
+    "enableFirstPayoutWarning": "true",
+    "enableGroupToGroupUniverseTransfers": "true"
 }
