@@ -13870,6 +13870,10 @@
     "FFlagEnableSystemScrim": "True",
     "FFlagEnableSystemScrimInSettingsHub": "True",
     "FFlagDisableToastButtonRichText2": "True",
+    "FIntInExperienceDetailsPromptClosedHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;911034363;2025-11-25T22:49:08",
+    "FIntInExperienceDetailsPromptLoadedHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;911034363;2025-11-25T22:49:08",
+    "FIntInExperienceDetailsPromptOpenedHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;911034363;2025-11-25T22:49:08",
+    "FIntInExperienceDetailsPromptPlayClickedHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;911034363;2025-11-25T22:49:08",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14918,8 +14922,8 @@
     "FFlagLuaAppLogOmniRecommendationsMetadata": "True",
     "FFlagAddFriendsFixOnTileClick": "True",
     "FFlagEnableiOSLogExternalKeyboardAttached": "True",
-    "FStringFlagRepoGitHashFastString": "ee4745abfd191cbe2ae4f74aaabbd18d6bfd2e60",
-    "DFStringFlagRepoGitHashDynamicString": "ee4745abfd191cbe2ae4f74aaabbd18d6bfd2e60",
-    "FStringFlipTimeStampFastString": "2025-11-25T21:07:27.335Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-25T21:07:27.335Z"
+    "FStringFlagRepoGitHashFastString": "4fe1c068f2b72cc2e7764b31a2265764937bfa77",
+    "DFStringFlagRepoGitHashDynamicString": "4fe1c068f2b72cc2e7764b31a2265764937bfa77",
+    "FStringFlipTimeStampFastString": "2025-11-25T22:51:01.818Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-25T22:51:01.818Z"
 }
