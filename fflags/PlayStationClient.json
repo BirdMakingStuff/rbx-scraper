@@ -13874,6 +13874,7 @@
     "FIntInExperienceDetailsPromptLoadedHundredthsPercent": "10000",
     "FIntInExperienceDetailsPromptOpenedHundredthsPercent": "10000",
     "FIntInExperienceDetailsPromptPlayClickedHundredthsPercent": "10000",
+    "DFFlagGamePassesRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-28T23:12:13",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -14126,8 +14127,8 @@
     "FFlagIASFixResetInRollback": "True",
     "DFFlagLogOpensocketFailures": "True",
     "DFFlagPsSocketExhaustionLog": "True",
-    "FStringFlagRepoGitHashFastString": "d90cea924aae4804429e64dfdb59f1d5c5edff26",
-    "DFStringFlagRepoGitHashDynamicString": "d90cea924aae4804429e64dfdb59f1d5c5edff26",
-    "FStringFlipTimeStampFastString": "2025-11-25T23:51:31.872Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-25T23:51:31.872Z"
+    "FStringFlagRepoGitHashFastString": "6dd87f3e4c22571b46e052b4938d672ec6c45225",
+    "DFStringFlagRepoGitHashDynamicString": "6dd87f3e4c22571b46e052b4938d672ec6c45225",
+    "FStringFlipTimeStampFastString": "2025-11-28T23:13:13.278Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-28T23:13:13.278Z"
 }

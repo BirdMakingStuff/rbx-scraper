@@ -13874,6 +13874,7 @@
     "FIntInExperienceDetailsPromptLoadedHundredthsPercent": "10000",
     "FIntInExperienceDetailsPromptOpenedHundredthsPercent": "10000",
     "FIntInExperienceDetailsPromptPlayClickedHundredthsPercent": "10000",
+    "FFlagRenderEnableGlobalInstancingMetal": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15791,7 +15792,6 @@
     "FFlagTryFixingSecretsControllerTest": "True",
     "FIntTPPreviewLimit": "8",
     "FFlagLuauSuppressIndexingIntoError": "True",
-    "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16280,8 +16280,8 @@
     "FFlagSimDetailedThrottlingTelemetry": "True",
     "FFlagPerformanceControlUseNewMacMemAvailable": "True",
     "FFlagNotificationRedesignM1Q42025": "True",
-    "FStringFlagRepoGitHashFastString": "d90cea924aae4804429e64dfdb59f1d5c5edff26",
-    "DFStringFlagRepoGitHashDynamicString": "d90cea924aae4804429e64dfdb59f1d5c5edff26",
-    "FStringFlipTimeStampFastString": "2025-11-25T23:51:31.872Z",
-    "DFStringFlipTimeStampDynamicString": "2025-11-25T23:51:31.872Z"
+    "FStringFlagRepoGitHashFastString": "6dd87f3e4c22571b46e052b4938d672ec6c45225",
+    "DFStringFlagRepoGitHashDynamicString": "6dd87f3e4c22571b46e052b4938d672ec6c45225",
+    "FStringFlipTimeStampFastString": "2025-11-28T23:13:13.278Z",
+    "DFStringFlipTimeStampDynamicString": "2025-11-28T23:13:13.278Z"
 }
