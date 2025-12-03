@@ -14066,6 +14066,10 @@
     "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
     "FFlagFoundationToggleDefaultPlacement": "True",
     "FFlagFoundationToggleEndPlacementJustifyContent": "True",
+    "DFIntReportGamepadUsageEventThrottleHundrethsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:18:07",
+    "DFIntReportPath2DRecomputeTimeHundrethsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:18:38",
+    "FFlagReportISRInputPing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:22:20",
+    "FIntSceneUpdaterProcessPendingPartsBudgetMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:23:17",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15106,8 +15110,8 @@
     "FFlagEnableSocialUpsellButtonMediumSize": "False",
     "FFlagIASFixResetInRollback": "True",
     "FFlagRenderEmissiveMask5": "False",
-    "FStringFlagRepoGitHashFastString": "3cf52b0b83f0ce74a3d6bee5e7e2368716861693",
-    "DFStringFlagRepoGitHashDynamicString": "3cf52b0b83f0ce74a3d6bee5e7e2368716861693",
-    "FStringFlipTimeStampFastString": "2025-12-03T02:11:30.146Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-03T02:11:30.146Z"
+    "FStringFlagRepoGitHashFastString": "fb8e2cdfd88d68cfa6cb1084fdc1b32f79e74654",
+    "DFStringFlagRepoGitHashDynamicString": "fb8e2cdfd88d68cfa6cb1084fdc1b32f79e74654",
+    "FStringFlipTimeStampFastString": "2025-12-03T17:30:30.314Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-03T17:30:30.314Z"
 }
