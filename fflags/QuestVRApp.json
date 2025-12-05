@@ -14166,12 +14166,12 @@
     "FFlagTrackPPPModelsInSetState": "True",
     "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
     "FFlagLGCPUFixAsyncShadowReadViolation2": "True",
-    "DFFlagLrStatsEnhance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:52:31",
-    "DFFlagStreamingSolverUpdateSpatialSetsFunc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:53:53",
     "FFlagSduiSupportClientBindingAnalytics2": "True",
     "FFlagAJUDeathBehavior": "True",
     "FFlagMeshEnableUploadOwnership": "True",
     "DFIntValidateUGCThrottleEventsServer": "10",
+    "DFFlagStreamingSolverUpdateSpatialSetsFunc": "True",
+    "DFFlagLrStatsEnhance": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15235,8 +15235,8 @@
     "FIntSduiPageTimerEventHundredthsPercent": "10000",
     "FFlagAEGIS2UseGuacToShowFAEUpsell": "True",
     "FFlagSduiClientBinding4": "True",
-    "FStringFlagRepoGitHashFastString": "768c8d8512fb10f2a0470f18300f1a3ca8ddc825",
-    "DFStringFlagRepoGitHashDynamicString": "768c8d8512fb10f2a0470f18300f1a3ca8ddc825",
-    "FStringFlipTimeStampFastString": "2025-12-05T20:41:58.674Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-05T20:41:58.674Z"
+    "FStringFlagRepoGitHashFastString": "180d320ba1098f3f6f4abe5a71d4613318dc01c9",
+    "DFStringFlagRepoGitHashDynamicString": "180d320ba1098f3f6f4abe5a71d4613318dc01c9",
+    "FStringFlipTimeStampFastString": "2025-12-05T20:58:35.005Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-05T20:58:35.005Z"
 }
