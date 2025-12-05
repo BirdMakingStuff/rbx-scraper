@@ -87,5 +87,5 @@
     "ageVerificationUpsellBannerEndDate": "2026-04-01T00:00:00.000Z",
     "ageVerificationUpsellGetStartedUrl": "https://www.roblox.com/my/account?creatorCollaboration",
     "ageVerificationUpsellViewDetailsUrl": "https://devforum.roblox.com/t/age-check-notifications-in-studio-and-creator-hub/4117693",
-    "enableRewardedVideoAdTypeSettings": "true"
+    "enableRewardedVideoAdTypeSettings": "false"
 }
