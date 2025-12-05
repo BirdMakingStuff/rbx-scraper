@@ -80,5 +80,12 @@
     "enableIphResponseTimeSorting": "true",
     "enableDeveloperSubscriptionsInRobux": "false",
     "enableFirstPayoutWarning": "true",
-    "enableGroupToGroupUniverseTransfers": "true"
+    "enableGroupToGroupUniverseTransfers": "true",
+    "enableAgeVerificationUpsellBanner": "true",
+    "ageVerificationUpsellBannerStartDate": "2025-12-03T00:00:00.000Z",
+    "ageVerificationUpsellBannerHighPriorityDate": "2026-01-21T00:00:00.000Z",
+    "ageVerificationUpsellBannerEndDate": "2026-04-01T00:00:00.000Z",
+    "ageVerificationUpsellGetStartedUrl": "https://www.roblox.com/my/account?creatorCollaboration",
+    "ageVerificationUpsellViewDetailsUrl": "https://devforum.roblox.com/t/age-check-notifications-in-studio-and-creator-hub/4117693",
+    "enableRewardedVideoAdTypeSettings": "true"
 }
