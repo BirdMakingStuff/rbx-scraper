@@ -14158,11 +14158,9 @@
     "DFFlagGamePassOwnershipOrchestratorEnabled2": "True",
     "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
     "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
-    "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
     "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
     "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
     "FFlagSduiDeprecateLogAction": "True",
-    "DFFlagTextChatCopyOutgoingMessage": "True",
     "FFlagTrackPPPModelsInSetState": "True",
     "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
     "FFlagLGCPUFixAsyncShadowReadViolation2": "True",
@@ -14467,8 +14465,8 @@
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
     "FFlagUwpMigrationNextPhase": "True",
-    "FStringFlagRepoGitHashFastString": "180d320ba1098f3f6f4abe5a71d4613318dc01c9",
-    "DFStringFlagRepoGitHashDynamicString": "180d320ba1098f3f6f4abe5a71d4613318dc01c9",
-    "FStringFlipTimeStampFastString": "2025-12-05T20:58:35.005Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-05T20:58:35.005Z"
+    "FStringFlagRepoGitHashFastString": "2317241bd5790201933c120b60e82c82b7d680f3",
+    "DFStringFlagRepoGitHashDynamicString": "2317241bd5790201933c120b60e82c82b7d680f3",
+    "FStringFlipTimeStampFastString": "2025-12-05T22:39:18.179Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-05T22:39:18.179Z"
 }
