@@ -14170,6 +14170,8 @@
     "DFIntValidateUGCThrottleEventsServer": "10",
     "DFFlagStreamingSolverUpdateSpatialSetsFunc": "True",
     "DFFlagLrStatsEnhance": "True",
+    "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-12-06T02:06:06",
+    "DFIntTextChatMessageClientReceivedThrottlePermyriad_PlaceFilter": "1000;121864768012064",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15197,8 +15199,8 @@
     "FIntSduiPageTimerEventHundredthsPercent": "10000",
     "FFlagAEGIS2UseGuacToShowFAEUpsell": "True",
     "FFlagSduiClientBinding4": "True",
-    "FStringFlagRepoGitHashFastString": "d0dce56f3c33867fd83b25de10ad7c681c45aa3f",
-    "DFStringFlagRepoGitHashDynamicString": "d0dce56f3c33867fd83b25de10ad7c681c45aa3f",
-    "FStringFlipTimeStampFastString": "2025-12-05T23:36:44.771Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-05T23:36:44.771Z"
+    "FStringFlagRepoGitHashFastString": "ca5b46a3e27ab12cdbf19733e919333aacb0f2de",
+    "DFStringFlagRepoGitHashDynamicString": "ca5b46a3e27ab12cdbf19733e919333aacb0f2de",
+    "FStringFlipTimeStampFastString": "2025-12-06T02:07:13.703Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-06T02:07:13.703Z"
 }
