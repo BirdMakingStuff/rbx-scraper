@@ -14170,7 +14170,6 @@
     "DFIntValidateUGCThrottleEventsServer": "10",
     "DFFlagStreamingSolverUpdateSpatialSetsFunc": "True",
     "DFFlagLrStatsEnhance": "True",
-    "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-12-06T02:06:06",
     "DFIntTextChatMessageClientReceivedThrottlePermyriad_PlaceFilter": "1000;121864768012064",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
@@ -16107,7 +16106,7 @@
     "FFlagFixAssetPrivacyDialogButtonsVisible": "True",
     "FFlagUGCValidateFixCurveAnimFrameTimeErrorMessage": "True",
     "FFlagCommandBarStartWithSingleLine2": "True",
-    "FFlagTexturePackGenRSLThread": "True",
+    "FFlagTexturePackGenRSLThread": "False",
     "FFlagStudioSendTelemetryOnScriptWithoutParent": "True",
     "FFlagStudioTelemetryForUpdate": "True",
     "FFlagStudioAdditionalDataForPerStateTelemetry": "True",
@@ -16119,7 +16118,6 @@
     "FStringLuaStartPageFAEDevForumLink": "https://devforum.roblox.com/t/age-check-notifications-in-studio-and-creator-hub/4117693",
     "FFlagUGCValidationEnableFolderStructure4": "True",
     "FFlagUGCValidationShadowIsDynamicHead": "True",
-    "FFlagTexturePackGenRSLThread_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T22:23:03",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16633,8 +16631,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "ca5b46a3e27ab12cdbf19733e919333aacb0f2de",
-    "DFStringFlagRepoGitHashDynamicString": "ca5b46a3e27ab12cdbf19733e919333aacb0f2de",
-    "FStringFlipTimeStampFastString": "2025-12-06T02:07:13.703Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-06T02:07:13.703Z"
+    "FStringFlagRepoGitHashFastString": "0744b4ea7fc9c49aa3094a1400b537a7cbe0ae8c",
+    "DFStringFlagRepoGitHashDynamicString": "0744b4ea7fc9c49aa3094a1400b537a7cbe0ae8c",
+    "FStringFlipTimeStampFastString": "2025-12-06T04:46:27.089Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-06T04:46:27.089Z"
 }

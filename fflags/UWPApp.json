@@ -14170,7 +14170,6 @@
     "DFIntValidateUGCThrottleEventsServer": "10",
     "DFFlagStreamingSolverUpdateSpatialSetsFunc": "True",
     "DFFlagLrStatsEnhance": "True",
-    "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-12-06T02:06:06",
     "DFIntTextChatMessageClientReceivedThrottlePermyriad_PlaceFilter": "1000;121864768012064",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
@@ -14467,8 +14466,8 @@
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
     "FFlagUwpMigrationNextPhase": "True",
-    "FStringFlagRepoGitHashFastString": "ca5b46a3e27ab12cdbf19733e919333aacb0f2de",
-    "DFStringFlagRepoGitHashDynamicString": "ca5b46a3e27ab12cdbf19733e919333aacb0f2de",
-    "FStringFlipTimeStampFastString": "2025-12-06T02:07:13.703Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-06T02:07:13.703Z"
+    "FStringFlagRepoGitHashFastString": "0744b4ea7fc9c49aa3094a1400b537a7cbe0ae8c",
+    "DFStringFlagRepoGitHashDynamicString": "0744b4ea7fc9c49aa3094a1400b537a7cbe0ae8c",
+    "FStringFlipTimeStampFastString": "2025-12-06T04:46:27.089Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-06T04:46:27.089Z"
 }
