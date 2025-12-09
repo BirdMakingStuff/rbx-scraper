@@ -67,7 +67,7 @@
     "enableGroupOwnershipTransferV2": "true",
     "showTextToSpeechDashboard": "true",
     "enableTargetPartWildcards": "true",
-    "enableMakeupAssets": "false",
+    "enableMakeupAssets": "true",
     "enablePlayerFeedbackUnrated": "true",
     "enableLicenseAgreementCommsAbuseReporting": "true",
     "enableUpdateQuestionnaire": "true",
