@@ -14240,6 +14240,9 @@
     "FFlagStickyTotalBackgroundedTime": "True",
     "FFlagMonotonicBackground": "True",
     "FFlagSessionTrackingReportReliability": "True",
+    "FFlagFixChromeConsoleNilRefs3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T17:14:08",
+    "DFFlagRM3Tier0Trigger_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;550901731;2025-12-09T17:30:14",
+    "DFFlagRM3Tier0Upload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;550901731;2025-12-09T17:30:14",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16625,6 +16628,7 @@
     "FFlagLuaAppFixSearchGridTileFlagPlayButton": "True",
     "FFlagLuaAppSnappingNilCheckVideoItem": "True",
     "FFlagRefactorScrollableToModifier4": "True",
+    "FFlagClumplessFixOptimizeAnimatedBones_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T17:07:43",
     "FLogSignalRNotification": "0",
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": "True",
@@ -16662,8 +16666,8 @@
     "FFlagRuntimeEnabled13": "False",
     "FFlagPerformanceControlUseNewMacMemAvailable": "True",
     "FFlagNotificationRedesignM1Q42025": "True",
-    "FStringFlagRepoGitHashFastString": "334995300bcf6c9dda0f15fb311f786a71f45b03",
-    "DFStringFlagRepoGitHashDynamicString": "334995300bcf6c9dda0f15fb311f786a71f45b03",
-    "FStringFlipTimeStampFastString": "2025-12-09T02:01:31.670Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-09T02:01:31.670Z"
+    "FStringFlagRepoGitHashFastString": "6ee8a2fef191a9bfdc8c10fc857118d2461ece43",
+    "DFStringFlagRepoGitHashDynamicString": "6ee8a2fef191a9bfdc8c10fc857118d2461ece43",
+    "FStringFlipTimeStampFastString": "2025-12-09T17:31:23.962Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-09T17:31:23.962Z"
 }
