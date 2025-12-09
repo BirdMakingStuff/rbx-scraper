@@ -1,4 +1,5 @@
 ﻿{
+    "removeItemTags": "true",
     "enableRecommendationService": "false",
     "enableBadgeReordering": "true",
     "enablePreLaunchUgcForAllWarning": "false",
