@@ -14294,7 +14294,10 @@
     "FFlagRemoveLoggingHookForCorescriptGlobalEffects2_IXP": "1;InExperience.Performance;CorescriptsGlobalEffectsNoRender;1938879323;flagbank",
     "FFlagEnableNetworkTracingS1": "True",
     "FFlagTraversalUseFocusNavLastInput": "True",
+    "FFlagLuaAppFixWhyThisAdModalErrorHandling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T17:04:55",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagEnableNetworkTracingS1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T17:28:54",
+    "FFlagLuaAppUpdateOverflowMenuItemId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T17:29:31",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -15353,8 +15356,9 @@
     "DFIntPowerTraceModuleEpochOffsetSeconds": "1",
     "FFlagIncludePowerSaverMode": "True",
     "FFlagUnibarMenuOpenHamburgerGamepadIXP684": "True",
-    "FStringFlagRepoGitHashFastString": "135bcc08ed8aabb7271fca1a1124665d72538ec0",
-    "DFStringFlagRepoGitHashDynamicString": "135bcc08ed8aabb7271fca1a1124665d72538ec0",
-    "FStringFlipTimeStampFastString": "2025-12-10T01:51:38.469Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-10T01:51:38.469Z"
+    "FFlagEnablePowerTraceModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T17:06:28",
+    "FStringFlagRepoGitHashFastString": "46810e88b073fce28c9e192363c93077df7215b0",
+    "DFStringFlagRepoGitHashDynamicString": "46810e88b073fce28c9e192363c93077df7215b0",
+    "FStringFlipTimeStampFastString": "2025-12-10T17:30:48.788Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-10T17:30:48.788Z"
 }
