@@ -14394,7 +14394,7 @@
     "FFlagFmodDspOfflineNotifications2": "True",
     "DFFlagCaptureServiceSendAssetUploadFailureTelemetry": "True",
     "DFFlagCaptureServiceUpdateUploadTelemetry": "True",
-    "FFlagPurchasePromptPriceShouldUseProductInfoPrice3": "True",
+    "FFlagPurchasePromptPriceShouldUseProductInfoPrice3": "False",
     "FFlagLuaAppSnappingNilCheckVideoItem": "True",
     "DFFlagDataStoreEnableModernRequestThrottling_UniverseFilter": "True;3666294218;9343843562",
     "DFFlagMathUseNewReflection": "True",
@@ -14416,7 +14416,6 @@
     "DFIntRbxStorageCapacityHighMB": "3072",
     "DFIntRbxStorageCapacityLowMB": "3072",
     "FFlagTextChatCompressTooMuchWhitespace": "True",
-    "FFlagPurchasePromptPriceShouldUseProductInfoPrice3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T20:24:44",
     "FFlagTextureCompressorUseRSLThread": "True",
     "FFlagAssetProviderDisablePriorityAwareDeferredWritesTaskFactory": "True",
     "AllowVideoPreRoll": "True",
@@ -16884,8 +16883,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "a20209fe86fd7f9a0133b9246fde06c1890ef7e6",
-    "DFStringFlagRepoGitHashDynamicString": "a20209fe86fd7f9a0133b9246fde06c1890ef7e6",
-    "FStringFlipTimeStampFastString": "2025-12-12T20:36:32.755Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-12T20:36:32.755Z"
+    "FStringFlagRepoGitHashFastString": "0a17dac3eafc8164e89ef9ae076fd4638bd81b40",
+    "DFStringFlagRepoGitHashDynamicString": "0a17dac3eafc8164e89ef9ae076fd4638bd81b40",
+    "FStringFlipTimeStampFastString": "2025-12-12T21:36:48.953Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-12T21:36:48.953Z"
 }
