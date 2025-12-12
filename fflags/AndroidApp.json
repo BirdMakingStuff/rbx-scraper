@@ -14396,6 +14396,10 @@
     "DFFlagCaptureServiceSendAssetUploadFailureTelemetry": "True",
     "DFFlagCaptureServiceUpdateUploadTelemetry": "True",
     "FFlagPurchasePromptPriceShouldUseProductInfoPrice3": "True",
+    "FFlagLuaAppSnappingNilCheckVideoItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T16:58:12",
+    "DFFlagMathUseNewReflection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T17:02:09",
+    "DFStringCLI132890EnabledRegions_Staged": "SA;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T17:13:09",
+    "FFlagExperienceDetailsPrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T17:36:37",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15382,8 +15386,8 @@
     "FFlagFastClusterFixBoundingBoxUpdates3": "True",
     "FFlagJDIDeque": "True",
     "FFlagTextChatCompressTooMuchWhitespace": "True",
-    "FStringFlagRepoGitHashFastString": "64cb9b9241e30c8365dd3057133f0039cf987471",
-    "DFStringFlagRepoGitHashDynamicString": "64cb9b9241e30c8365dd3057133f0039cf987471",
-    "FStringFlipTimeStampFastString": "2025-12-12T01:51:36.210Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-12T01:51:36.210Z"
+    "FStringFlagRepoGitHashFastString": "89c1243efc45e091a5cda7d47bf57c3d0b8de9c0",
+    "DFStringFlagRepoGitHashDynamicString": "89c1243efc45e091a5cda7d47bf57c3d0b8de9c0",
+    "FStringFlipTimeStampFastString": "2025-12-12T17:37:26.093Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-12T17:37:26.093Z"
 }
