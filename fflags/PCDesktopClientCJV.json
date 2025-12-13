@@ -14418,6 +14418,7 @@
     "FFlagTextChatCompressTooMuchWhitespace": "True",
     "FFlagTextureCompressorUseRSLThread": "True",
     "FFlagAssetProviderDisablePriorityAwareDeferredWritesTaskFactory": "True",
+    "FIntOpenLeavingRobloxModalThrottleHundrethsPercent": "10000",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15476,8 +15477,8 @@
     "DFFlagCLI132890Enabled": "True",
     "FFlagJDIDeque": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "d0a21bccfb4d490a37bfa40cf3459fdac06cab2a",
-    "DFStringFlagRepoGitHashDynamicString": "d0a21bccfb4d490a37bfa40cf3459fdac06cab2a",
-    "FStringFlipTimeStampFastString": "2025-12-12T22:05:57.900Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-12T22:05:57.900Z"
+    "FStringFlagRepoGitHashFastString": "da1cdb79df0e13465ca6bf881f81ee0fa4126397",
+    "DFStringFlagRepoGitHashDynamicString": "da1cdb79df0e13465ca6bf881f81ee0fa4126397",
+    "FStringFlipTimeStampFastString": "2025-12-13T02:07:54.634Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-13T02:07:54.634Z"
 }
