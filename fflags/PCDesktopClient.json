@@ -14417,6 +14417,8 @@
     "FFlagTextureCompressorUseRSLThread": "True",
     "FFlagAssetProviderDisablePriorityAwareDeferredWritesTaskFactory": "True",
     "FIntOpenLeavingRobloxModalThrottleHundrethsPercent": "10000",
+    "DFStringCLI132890EnabledRegions_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-15T20:24:31",
+    "AllowVideoPreRoll": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14961,7 +14963,6 @@
     "DFFlagFixInExperienceWebViewInsets": "True",
     "FFlagVoiceChatStatsUseProvidedTime": "True",
     "DFFlagEnableRankProductsCache": "True",
-    "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -15474,8 +15475,8 @@
     "FFlagRenderUseTextureManager224": "True",
     "DFFlagCLI132890Enabled": "True",
     "FFlagJDIDeque": "True",
-    "FStringFlagRepoGitHashFastString": "450b0b407337bb28787eab4755b1a66ad8db0afb",
-    "DFStringFlagRepoGitHashDynamicString": "450b0b407337bb28787eab4755b1a66ad8db0afb",
-    "FStringFlipTimeStampFastString": "2025-12-15T18:40:43.096Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-15T18:40:43.096Z"
+    "FStringFlagRepoGitHashFastString": "ab8aff8500f232b60089e823201c47fe8b8ce03f",
+    "DFStringFlagRepoGitHashDynamicString": "ab8aff8500f232b60089e823201c47fe8b8ce03f",
+    "FStringFlipTimeStampFastString": "2025-12-15T20:26:14.902Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-15T20:26:14.902Z"
 }
