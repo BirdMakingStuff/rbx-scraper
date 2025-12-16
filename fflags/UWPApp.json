@@ -14414,7 +14414,6 @@
     "FFlagAssetProviderDisablePriorityAwareDeferredWritesTaskFactory": "True",
     "FIntOpenLeavingRobloxModalThrottleHundrethsPercent": "10000",
     "DFFlagCLI132890Enabled": "False",
-    "FFlagFlagRolloutTestStaticBool11_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-15T22:57:50",
     "DFFlagFlagRolloutTestDynamicBool10": "True",
     "DFFlagFlagRolloutTestDynamicBool11": "False",
     "FFlagFlagRolloutTestStaticBool10": "False",
@@ -14712,8 +14711,8 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
-    "FStringFlagRepoGitHashFastString": "5c7acfc415a7cc3fff57810657abbb5abef7632f",
-    "DFStringFlagRepoGitHashDynamicString": "5c7acfc415a7cc3fff57810657abbb5abef7632f",
-    "FStringFlipTimeStampFastString": "2025-12-15T22:58:41.760Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-15T22:58:41.760Z"
+    "FStringFlagRepoGitHashFastString": "6b4c8a2dc19a09275634def865467512a1e56d41",
+    "DFStringFlagRepoGitHashDynamicString": "6b4c8a2dc19a09275634def865467512a1e56d41",
+    "FStringFlipTimeStampFastString": "2025-12-16T18:19:37.618Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-16T18:19:37.618Z"
 }
