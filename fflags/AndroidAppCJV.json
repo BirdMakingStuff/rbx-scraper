@@ -14414,10 +14414,10 @@
     "FFlagAssetProviderDisablePriorityAwareDeferredWritesTaskFactory": "True",
     "FIntOpenLeavingRobloxModalThrottleHundrethsPercent": "10000",
     "DFFlagCLI132890Enabled": "False",
-    "DFFlagFlagRolloutTestDynamicBool10_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-15T22:57:50",
-    "DFFlagFlagRolloutTestDynamicBool11_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-15T22:57:50",
-    "FFlagFlagRolloutTestStaticBool10_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-15T22:57:50",
-    "FFlagFlagRolloutTestStaticBool11_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-15T22:57:50",
+    "DFFlagFlagRolloutTestDynamicBool10": "True",
+    "DFFlagFlagRolloutTestDynamicBool11": "False",
+    "FFlagFlagRolloutTestStaticBool10": "False",
+    "FFlagFlagRolloutTestStaticBool11": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15434,8 +15434,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "5c7acfc415a7cc3fff57810657abbb5abef7632f",
-    "DFStringFlagRepoGitHashDynamicString": "5c7acfc415a7cc3fff57810657abbb5abef7632f",
-    "FStringFlipTimeStampFastString": "2025-12-15T22:58:41.760Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-15T22:58:41.760Z"
+    "FStringFlagRepoGitHashFastString": "37643b7f88b13a73a5dd6c8126c2ba62d91b3991",
+    "DFStringFlagRepoGitHashDynamicString": "37643b7f88b13a73a5dd6c8126c2ba62d91b3991",
+    "FStringFlipTimeStampFastString": "2025-12-16T00:07:08.246Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-16T00:07:08.246Z"
 }
