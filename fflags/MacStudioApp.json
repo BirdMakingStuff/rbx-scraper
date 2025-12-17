@@ -14418,6 +14418,7 @@
     "DFFlagFlagRolloutTestDynamicBool11": "False",
     "FFlagFlagRolloutTestStaticBool10": "False",
     "FFlagFlagRolloutTestStaticBool11": "False",
+    "FIntTM2NotSupportedUserMask_UniverseFilter": "1056914;9293237003;9368056464",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16395,6 +16396,7 @@
     "FFlagStudioPublishEligibilityBanner": "True",
     "FFlagStudioPublishEligibilityDialog": "True",
     "FFlagRemoveGameSettingsPermissionsPage2": "True",
+    "FFlagFixOldRibbonCollaborateIcon_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-17T22:21:36",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -16853,8 +16855,8 @@
     "FFlagRuntimeEnabled13": "False",
     "FFlagPerformanceControlUseNewMacMemAvailable": "True",
     "FFlagNotificationRedesignM1Q42025": "True",
-    "FStringFlagRepoGitHashFastString": "ce43cfd11807f6e79bdf67a0d7ca8058a1f9b458",
-    "DFStringFlagRepoGitHashDynamicString": "ce43cfd11807f6e79bdf67a0d7ca8058a1f9b458",
-    "FStringFlipTimeStampFastString": "2025-12-17T20:11:06.208Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-17T20:11:06.208Z"
+    "FStringFlagRepoGitHashFastString": "daf610748f348e0417ecc0db83285191b978bf00",
+    "DFStringFlagRepoGitHashDynamicString": "daf610748f348e0417ecc0db83285191b978bf00",
+    "FStringFlipTimeStampFastString": "2025-12-17T22:36:55.530Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-17T22:36:55.530Z"
 }
