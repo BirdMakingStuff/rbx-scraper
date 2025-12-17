@@ -15492,8 +15492,8 @@
     "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3": "True",
     "FIntSduiPageTimerEventHundredthsPercent": "10000",
     "FFlagSduiClientBinding4": "True",
-    "FStringFlagRepoGitHashFastString": "daf610748f348e0417ecc0db83285191b978bf00",
-    "DFStringFlagRepoGitHashDynamicString": "daf610748f348e0417ecc0db83285191b978bf00",
-    "FStringFlipTimeStampFastString": "2025-12-17T22:36:55.530Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-17T22:36:55.530Z"
+    "FStringFlagRepoGitHashFastString": "0d473e40d91bacb7388afed8cdc1142d41b26a68",
+    "DFStringFlagRepoGitHashDynamicString": "0d473e40d91bacb7388afed8cdc1142d41b26a68",
+    "FStringFlipTimeStampFastString": "2025-12-17T23:27:00.484Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-17T23:27:00.484Z"
 }
