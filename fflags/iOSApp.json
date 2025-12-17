@@ -15434,8 +15434,8 @@
     "FIntRenderTextureOrphanBudgetMB": "8",
     "FStringRenderTextureBudgetByRam": "1024,64,2048,115,3072,154,4096,210,8192,680,16384,1536",
     "FFlagRenderUseTextureManager224": "True",
-    "FStringFlagRepoGitHashFastString": "0b790d8bacc3cf0fbec675c9895b3bcc63477910",
-    "DFStringFlagRepoGitHashDynamicString": "0b790d8bacc3cf0fbec675c9895b3bcc63477910",
-    "FStringFlipTimeStampFastString": "2025-12-16T23:13:56.000Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-16T23:13:56.000Z"
+    "FStringFlagRepoGitHashFastString": "fb29db00d1523d845f93ea2aa181b64954e80daf",
+    "DFStringFlagRepoGitHashDynamicString": "fb29db00d1523d845f93ea2aa181b64954e80daf",
+    "FStringFlipTimeStampFastString": "2025-12-16T23:50:49.274Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-16T23:50:49.274Z"
 }
