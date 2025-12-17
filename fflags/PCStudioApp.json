@@ -16391,6 +16391,10 @@
     "FFlagTexture4kBetaFeature": "True",
     "FFlagRenderUseTextureManager224": "True",
     "FFlagUseConvexDecompV8Format": "True",
+    "FFlagLuaStartPageHidePublicPrivateToggle": "True",
+    "FFlagStudioPublishEligibilityBanner": "True",
+    "FFlagStudioPublishEligibilityDialog": "True",
+    "FFlagRemoveGameSettingsPermissionsPage2": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16877,8 +16881,8 @@
     "DFFlagHttp2AllInternalReqs": "False",
     "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
     "FFlagNotificationRedesignM1Q42025": "True",
-    "FStringFlagRepoGitHashFastString": "fb29db00d1523d845f93ea2aa181b64954e80daf",
-    "DFStringFlagRepoGitHashDynamicString": "fb29db00d1523d845f93ea2aa181b64954e80daf",
-    "FStringFlipTimeStampFastString": "2025-12-16T23:50:49.274Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-16T23:50:49.274Z"
+    "FStringFlagRepoGitHashFastString": "52407f249d8d44c6d64d02a39631441bde9e9cd2",
+    "DFStringFlagRepoGitHashDynamicString": "52407f249d8d44c6d64d02a39631441bde9e9cd2",
+    "FStringFlipTimeStampFastString": "2025-12-17T18:33:50.603Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-17T18:33:50.603Z"
 }
