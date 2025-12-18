@@ -14419,6 +14419,7 @@
     "FFlagFlagRolloutTestStaticBool10": "False",
     "FFlagFlagRolloutTestStaticBool11": "False",
     "FIntTM2NotSupportedUserMask_UniverseFilter": "1056914;9293237003;9368056464",
+    "FIntTM2NotSupportedUserMask_Staged": "1048726;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-18T20:06:14",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14783,8 +14784,8 @@
     "FFlagSignalSubserviceVoiceChatRestrictionStatus": "True",
     "DFFlagEnableRankProductsCache": "True",
     "FFlagRenderUseTextureManager224": "True",
-    "FStringFlagRepoGitHashFastString": "0d473e40d91bacb7388afed8cdc1142d41b26a68",
-    "DFStringFlagRepoGitHashDynamicString": "0d473e40d91bacb7388afed8cdc1142d41b26a68",
-    "FStringFlipTimeStampFastString": "2025-12-17T23:27:00.484Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-17T23:27:00.484Z"
+    "FStringFlagRepoGitHashFastString": "fcb7e790db2f3bf18ee49883cc524060b5873d3a",
+    "DFStringFlagRepoGitHashDynamicString": "fcb7e790db2f3bf18ee49883cc524060b5873d3a",
+    "FStringFlipTimeStampFastString": "2025-12-18T20:07:08.621Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-18T20:07:08.621Z"
 }
