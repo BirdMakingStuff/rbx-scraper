@@ -14420,6 +14420,7 @@
     "FFlagFlagRolloutTestStaticBool11": "False",
     "FIntTM2NotSupportedUserMask_UniverseFilter": "1056914;9293237003;9368056464",
     "FIntRenderTextureLoadingMinMB_Staged": "16;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-18T22:37:30",
+    "FFlagDraggerServiceEnableSetters3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-18T23:20:30",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15434,9 +15435,8 @@
     "FIntRenderTextureProcessingBudgetMilliseconds": "16",
     "FFlagTM2SkipMipsForUnstreamable2": "True",
     "FIntRenderTextureOrphanBudgetMB": "8",
-    "FStringRenderTextureBudgetByRam": "1024,64,2048,115,3072,154,4096,210,8192,680,16384,1536",
+    "FStringRenderTextureBudgetByRam": "1024,64,2048,115,3072,154,4096,512,8192,680,16384,1536",
     "FFlagRenderUseTextureManager224": "True",
-    "FStringRenderTextureBudgetByRam_Staged": "1024,64,2048,115,3072,154,4096,512,8192,680,16384,1536;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-18T22:28:43",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -15465,8 +15465,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "02bcb65a58cb53f51fe71ed8aa6809c8914de0da",
-    "DFStringFlagRepoGitHashDynamicString": "02bcb65a58cb53f51fe71ed8aa6809c8914de0da",
-    "FStringFlipTimeStampFastString": "2025-12-18T22:38:29.139Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-18T22:38:29.139Z"
+    "FStringFlagRepoGitHashFastString": "ab14cec885fcbbec093867796bb3a73cb6e95a29",
+    "DFStringFlagRepoGitHashDynamicString": "ab14cec885fcbbec093867796bb3a73cb6e95a29",
+    "FStringFlipTimeStampFastString": "2025-12-18T23:31:51.430Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-18T23:31:51.430Z"
 }
