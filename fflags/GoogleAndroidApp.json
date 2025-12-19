@@ -14421,6 +14421,7 @@
     "FIntTM2NotSupportedUserMask_UniverseFilter": "1056914;9293237003;9368056464",
     "FIntRenderTextureLoadingMinMB": "16",
     "FFlagFixStreamingTextureMaxMipCount": "True",
+    "FFlagFixDownsizingCalculation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-19T19:30:43",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15726,8 +15727,8 @@
     "FFlagLuaAppBadgesSeeAllLogExposure_IXP": "1;PlayerApp.Badges.Exposure;Discovery.App.Badges.SeeAllMigration;1542730162;dev_controlled",
     "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
     "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "219257e8e7a844c4a1cd17c184f181e2d10f15fb",
-    "DFStringFlagRepoGitHashDynamicString": "219257e8e7a844c4a1cd17c184f181e2d10f15fb",
-    "FStringFlipTimeStampFastString": "2025-12-19T01:16:38.504Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-19T01:16:38.504Z"
+    "FStringFlagRepoGitHashFastString": "71009ef72f07e06e43e8be5ccd439bf6656c3a77",
+    "DFStringFlagRepoGitHashDynamicString": "71009ef72f07e06e43e8be5ccd439bf6656c3a77",
+    "FStringFlipTimeStampFastString": "2025-12-19T19:31:28.483Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-19T19:31:28.483Z"
 }
