@@ -15415,8 +15415,8 @@
     "FStringRenderTextureBudgetByRam": "1024,64,2048,115,3072,154,4096,512,8192,680,16384,1536",
     "FStringGraphicsTextureManager2DenyPattern": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3|.*:.*:.*:4",
     "FFlagRenderUseTextureManager224": "True",
-    "FStringFlagRepoGitHashFastString": "146757c79dac3eb8d113844320c460513f06d65a",
-    "DFStringFlagRepoGitHashDynamicString": "146757c79dac3eb8d113844320c460513f06d65a",
-    "FStringFlipTimeStampFastString": "2025-12-19T23:12:19.152Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-19T23:12:19.152Z"
+    "FStringFlagRepoGitHashFastString": "259572939264f87dbe8b40151bafef6628a8e311",
+    "DFStringFlagRepoGitHashDynamicString": "259572939264f87dbe8b40151bafef6628a8e311",
+    "FStringFlipTimeStampFastString": "2025-12-21T06:04:09.961Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-21T06:04:09.961Z"
 }
