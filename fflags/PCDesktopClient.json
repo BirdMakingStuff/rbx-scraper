@@ -14960,8 +14960,6 @@
     "FFlagLuaAppAddPlaceholderRecoveryCounter": "True",
     "FFlagLuaAppAdjustOverflowMenuVisual": "True",
     "FFlagHighlightModePreciseSelectionEnabled3": "True",
-    "FFlagLuaAppBadgesSeeAllEnabled2_IXP": "1;PlayerApp.Badges.Exposure;Discovery.App.Badges.SeeAllMigration;1542730162;dev_controlled",
-    "FFlagLuaAppBadgesSeeAllLogExposure_IXP": "1;PlayerApp.Badges.Exposure;Discovery.App.Badges.SeeAllMigration;1542730162;dev_controlled",
     "FFlagDevConsoleMicroProfilerNewLayout": "True",
     "FFlagFastClusterFixBoundingBoxUpdates3": "True",
     "DFFlagFixInExperienceWebViewInsets": "True",
@@ -15479,8 +15477,8 @@
     "FIntReportHangStatusThrottleHundredthPercent": "500",
     "FFlagRenderUseTextureManager224": "True",
     "FFlagJDIDeque": "True",
-    "FStringFlagRepoGitHashFastString": "822015f3d20e621c377cd64e193c3cc78a8a483e",
-    "DFStringFlagRepoGitHashDynamicString": "822015f3d20e621c377cd64e193c3cc78a8a483e",
-    "FStringFlipTimeStampFastString": "2025-12-21T19:20:29.642Z",
-    "DFStringFlipTimeStampDynamicString": "2025-12-21T19:20:29.642Z"
+    "FStringFlagRepoGitHashFastString": "271e75effae75385f8d486b1a8be4040b979295e",
+    "DFStringFlagRepoGitHashDynamicString": "271e75effae75385f8d486b1a8be4040b979295e",
+    "FStringFlipTimeStampFastString": "2025-12-24T01:04:16.899Z",
+    "DFStringFlipTimeStampDynamicString": "2025-12-24T01:04:16.899Z"
 }
