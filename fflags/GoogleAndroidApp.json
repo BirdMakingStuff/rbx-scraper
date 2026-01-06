@@ -14497,6 +14497,11 @@
     "DFFlagUndoFirstModificationAfterInsert_PlaceFilter": "False;121738311410869",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
+    "FFlagSlimEnableFMDHashing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-06T17:05:59",
+    "FFlagFCReportSeparateBuiltStatsWithLC_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-06T17:14:04",
+    "DFFlagCLI160771_SecurityContextString_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-06T17:36:20",
+    "FFlagAppChatNewMoreMenuIcon1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-06T17:36:23",
+    "FFlagSetStatusBarHeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-06T17:43:32",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
     "CatalogPromoAssetId": "-1",
@@ -15796,8 +15801,8 @@
     "FFlagLuaAppAddPlaceholderRecoveryCounter": "True",
     "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
     "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "341d94ff17f87631c082f734d09078b01200d527",
-    "DFStringFlagRepoGitHashDynamicString": "341d94ff17f87631c082f734d09078b01200d527",
-    "FStringFlipTimeStampFastString": "2026-01-06T05:20:21.586Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-06T05:20:21.586Z"
+    "FStringFlagRepoGitHashFastString": "96b033122312dbdbad3caa13b9df30e41061523a",
+    "DFStringFlagRepoGitHashDynamicString": "96b033122312dbdbad3caa13b9df30e41061523a",
+    "FStringFlipTimeStampFastString": "2026-01-06T17:44:48.717Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-06T17:44:48.717Z"
 }
