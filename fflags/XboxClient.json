@@ -14610,6 +14610,9 @@
     "FFlagEnablePostAuthRoutingInAllCases": "True",
     "FFlagProfilePlatformEnableChipSocialRow_v6": "True",
     "FFlagProfilePlatformNewAboutSection_v9": "True",
+    "DFIntHttpServiceOpenCloudRequestsPerMinuteBaseLimit_Staged": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-09T17:13:36",
+    "DFFlagCapsModuleReparent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-09T17:34:48",
+    "DFFlagNetworkFilterRejectSandboxedToolReparent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-09T17:35:45",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -14980,8 +14983,9 @@
     "FIntExpChatMessageResponseUserSamplePermyriad_UniverseFilter": "1000;6701277882",
     "FIntExpChatMessageResponseThrottlePermyriad": "10000",
     "FIntExpChatMessageResponseUserSamplePermyriad": "10000",
-    "FStringFlagRepoGitHashFastString": "7afb0417e57a86c02ea23df5a04b6aa5a2fb6e24",
-    "DFStringFlagRepoGitHashDynamicString": "7afb0417e57a86c02ea23df5a04b6aa5a2fb6e24",
-    "FStringFlipTimeStampFastString": "2026-01-09T01:56:22.571Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-09T01:56:22.571Z"
+    "FFlagExpChatMigrateMessageResponse_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;637101148;2026-01-09T17:03:13",
+    "FStringFlagRepoGitHashFastString": "62199fc88db19d3f3c20fefaeb04090e6fe1ea10",
+    "DFStringFlagRepoGitHashDynamicString": "62199fc88db19d3f3c20fefaeb04090e6fe1ea10",
+    "FStringFlipTimeStampFastString": "2026-01-09T17:36:43.714Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-09T17:36:43.714Z"
 }
