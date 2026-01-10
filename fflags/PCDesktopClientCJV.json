@@ -1580,7 +1580,7 @@
     "FFlagAssetConfigLayeredClothingBoxCollisions": "True",
     "FFlagReturnNotForSaleOnInvalidBundleId": "True",
     "FFlagContactsListEntryUpdatedTruncationFix": "True",
-    "FFlagDeprecateOldScriptCommandHandler2": "True",
+    "FFlagDeprecateOldScriptCommandHandler2": "False",
     "DFIntVRPointerFilterMinCutoffMillionth": "7000000",
     "DFFlagTaskLibWarnBadDesynchronizeCall": "True",
     "DFFlagTaskLibWarnBadSynchronizeCall": "True",
@@ -15674,8 +15674,8 @@
     "FFlagRemoveInertiaFromExclusionList": "True",
     "FFlagNativeAdsCallbackResponseTimeTelemetry": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "7a3e1f8bbdb51914a0a4818513608d78d34e8231",
-    "DFStringFlagRepoGitHashDynamicString": "7a3e1f8bbdb51914a0a4818513608d78d34e8231",
-    "FStringFlipTimeStampFastString": "2026-01-09T20:31:44.125Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-09T20:31:44.125Z"
+    "FStringFlagRepoGitHashFastString": "0426b3b52eb61cfd508ac839515280b3438ee502",
+    "DFStringFlagRepoGitHashDynamicString": "0426b3b52eb61cfd508ac839515280b3438ee502",
+    "FStringFlipTimeStampFastString": "2026-01-10T01:02:21.076Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-10T01:02:21.076Z"
 }
