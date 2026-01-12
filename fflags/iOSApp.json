@@ -14616,6 +14616,10 @@
     "DFIntHttpServiceOpenCloudRequestsPerMinuteNoPlayersLimit": "2500",
     "FFlagCarouselUseNewUserTileWithPresenceIcon": "True",
     "DFFlagHttpServiceOpenCloudLimitEnabled": "True",
+    "FFlagFoundationDisableStylingPolyfill_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1958663889;2026-01-12T17:06:56",
+    "DFFlagStudioLuauFixPerformanceStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-12T17:14:08",
+    "FFlagLuauCodegenChainedSpills_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-12T17:24:51",
+    "DFFlagCSP3092_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-12T17:36:16",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15632,8 +15636,8 @@
     "FIntExpChatMessageResponseUserSamplePermyriad": "10000",
     "FFlagUserTileShowShimmerWhenLoading_v2": "True",
     "FFlagExpChatMigrateMessageResponse": "True",
-    "FStringFlagRepoGitHashFastString": "0426b3b52eb61cfd508ac839515280b3438ee502",
-    "DFStringFlagRepoGitHashDynamicString": "0426b3b52eb61cfd508ac839515280b3438ee502",
-    "FStringFlipTimeStampFastString": "2026-01-10T01:02:21.076Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-10T01:02:21.076Z"
+    "FStringFlagRepoGitHashFastString": "c4ceffe29b27066f6af44e8f657a69c5b0c45f53",
+    "DFStringFlagRepoGitHashDynamicString": "c4ceffe29b27066f6af44e8f657a69c5b0c45f53",
+    "FStringFlipTimeStampFastString": "2026-01-12T17:43:40.420Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-12T17:43:40.420Z"
 }
