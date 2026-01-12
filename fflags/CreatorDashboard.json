@@ -89,6 +89,6 @@
     "ageVerificationUpsellGetStartedUrl": "https://www.roblox.com/my/account?creatorCollaboration",
     "ageVerificationUpsellViewDetailsUrl": "https://devforum.roblox.com/t/age-check-notifications-in-studio-and-creator-hub/4117693",
     "enableRewardedVideoAdTypeSettings": "true",
-    "enableMigratedAvatarAnalyticsPage": "false",
+    "enableMigratedAvatarAnalyticsPage": "true",
     "enableGPCFooter": "true"
 }
