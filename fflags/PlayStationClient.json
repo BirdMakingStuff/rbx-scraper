@@ -13137,7 +13137,6 @@
     "FFlagSimRuntimeContentLean2": "True",
     "DFFlagOnlyMigrateInNonEditMode": "False",
     "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-    "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
     "DFFlagCrashOnMigrateWithoutWriteLock": "True",
     "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100",
     "FFlagReportTextureStreamingTelemetry5": "False",
@@ -14653,6 +14652,7 @@
     "DFFlagCLI170958": "True",
     "FFlagHttpDoCallbackAbsolutelyLast": "True",
     "FStringPlayerListOverrideType": "",
+    "FFlagPrefetchCredentialsProtocolAvailabilityOnLaunch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1409175981;2026-01-13T17:35:50",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -14925,8 +14925,8 @@
     "FIntExpChatMessageResponseUserSamplePermyriad": "10000",
     "FFlagPerfDataOptimization4": "True",
     "FFlagSwitchProfileWidthHookToSocialCommon_v2": "True",
-    "FStringFlagRepoGitHashFastString": "acad719e1261c0f5b696721df0175b498e3236d3",
-    "DFStringFlagRepoGitHashDynamicString": "acad719e1261c0f5b696721df0175b498e3236d3",
-    "FStringFlipTimeStampFastString": "2026-01-13T07:01:21.633Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-13T07:01:21.633Z"
+    "FStringFlagRepoGitHashFastString": "3610da20afefad814d443fe33f775c5c857cb8ec",
+    "DFStringFlagRepoGitHashDynamicString": "3610da20afefad814d443fe33f775c5c857cb8ec",
+    "FStringFlipTimeStampFastString": "2026-01-13T17:47:41.480Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-13T17:47:41.480Z"
 }
