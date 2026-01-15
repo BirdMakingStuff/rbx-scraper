@@ -14758,7 +14758,7 @@
     "FFlagRemoveUnnecessarySetBaseUrlPcalls": "True",
     "FFlagMakeupDontComposeSingleMakeupAsset": "True",
     "FFlagWTTOcclusionUseMappedNearestTriangle": "True",
-    "FFlagUnifyCaptures": "True",
+    "FFlagUnifyCaptures": "False",
     "FFlagWTTDontPerformOcclusionForOutsideOfRange": "True",
     "DFFlagSetViewportDirtyOnScaleChange": "True",
     "DFFlagClarifyHttpStatHeaderFields": "True",
@@ -15822,8 +15822,8 @@
     "FFlagNativeAdsCallbackResponseTimeTelemetry": "True",
     "FFlagProfilePlatformTrustedConnectionsMVP": "True",
     "FStringRbxTransportDummyClientEnabledMinorVersions": "704",
-    "FStringFlagRepoGitHashFastString": "3951790c9c09abb29ea724e3af48153aa3645806",
-    "DFStringFlagRepoGitHashDynamicString": "3951790c9c09abb29ea724e3af48153aa3645806",
-    "FStringFlipTimeStampFastString": "2026-01-15T02:01:26.209Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-15T02:01:26.209Z"
+    "FStringFlagRepoGitHashFastString": "21f2a9d239cd35167a9e55c29368d9da57db9732",
+    "DFStringFlagRepoGitHashDynamicString": "21f2a9d239cd35167a9e55c29368d9da57db9732",
+    "FStringFlipTimeStampFastString": "2026-01-15T11:21:57.270Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-15T11:21:57.270Z"
 }
