@@ -14840,7 +14840,7 @@
     "FFlagLuaAppRemoveOmniFeedDividersAndExtraPadding": "False",
     "DFIntRankProductsHttpPriority": "5",
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
-    "DFFlagSimParentPrimSpacePVsRead_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-16T19:47:05",
+    "DFFlagSimParentPrimSpacePVsRead": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15910,8 +15910,8 @@
     "FFlagContentProviderRefactorCallbackToAssetResponse6": "True",
     "FStringCLI183642EnabledRegions": "SA",
     "FFlagCLI183642Enabled": "False",
-    "FStringFlagRepoGitHashFastString": "9057509fd612700af7d00a29e42773b800820c16",
-    "DFStringFlagRepoGitHashDynamicString": "9057509fd612700af7d00a29e42773b800820c16",
-    "FStringFlipTimeStampFastString": "2026-01-16T20:31:37.479Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-16T20:31:37.479Z"
+    "FStringFlagRepoGitHashFastString": "2934a2a96e5b8e0f52e284ba83071cacfaa74a47",
+    "DFStringFlagRepoGitHashDynamicString": "2934a2a96e5b8e0f52e284ba83071cacfaa74a47",
+    "FStringFlipTimeStampFastString": "2026-01-16T21:01:32.814Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-16T21:01:32.814Z"
 }
