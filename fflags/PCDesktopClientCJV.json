@@ -14837,9 +14837,10 @@
     "DFFlagPerfDataCategoryGrouping": "True",
     "FFlagPerformanceControlV2StopRefactorEnabled": "True",
     "FIntSQLiteDefaultPageSizeBytes": "4096",
-    "DFFlagEnableOverridingAndroidExitReasonsAsSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-16T18:30:33",
     "FFlagLuaAppRemoveOmniFeedDividersAndExtraPadding": "False",
     "DFIntRankProductsHttpPriority": "5",
+    "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
+    "DFFlagSimParentPrimSpacePVsRead_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-16T19:47:05",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15391,7 +15392,7 @@
     "FFlagAXMoveAllTabToWidgetOnly5": "True",
     "FFlagAXPassScreenSizeToWidgetApi5": "True",
     "FFlagRbxStorageRemoveStrayWal": "True",
-    "DFFlagSimCacheHumanoidScale2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-16T18:33:09",
+    "DFFlagSimCacheHumanoidScale2": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15910,8 +15911,8 @@
     "FStringCLI183642EnabledRegions": "SA",
     "FFlagCLI183642Enabled": "False",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "1cb58b84e45fb9387fe33d98df353ce462e544ec",
-    "DFStringFlagRepoGitHashDynamicString": "1cb58b84e45fb9387fe33d98df353ce462e544ec",
-    "FStringFlipTimeStampFastString": "2026-01-16T19:28:14.018Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-16T19:28:14.018Z"
+    "FStringFlagRepoGitHashFastString": "9057509fd612700af7d00a29e42773b800820c16",
+    "DFStringFlagRepoGitHashDynamicString": "9057509fd612700af7d00a29e42773b800820c16",
+    "FStringFlipTimeStampFastString": "2026-01-16T20:31:37.479Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-16T20:31:37.479Z"
 }
