@@ -14837,6 +14837,9 @@
     "DFFlagPerfDataCategoryGrouping": "True",
     "FFlagPerformanceControlV2StopRefactorEnabled": "True",
     "FIntSQLiteDefaultPageSizeBytes": "4096",
+    "DFFlagEnableOverridingAndroidExitReasonsAsSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-16T18:30:33",
+    "FFlagLuaAppRemoveOmniFeedDividersAndExtraPadding": "False",
+    "DFIntRankProductsHttpPriority": "5",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -15100,8 +15103,8 @@
     "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.PlayStation;18347634;flagbank",
     "FFlagSwitchProfileWidthHookToSocialCommon_v2": "True",
     "FFlagProfilePlatformEnableRefreshSignal": "True",
-    "FStringFlagRepoGitHashFastString": "bdf1dc66f1adf68d9b2dcba131db30dfc143fc14",
-    "DFStringFlagRepoGitHashDynamicString": "bdf1dc66f1adf68d9b2dcba131db30dfc143fc14",
-    "FStringFlipTimeStampFastString": "2026-01-16T17:21:05.170Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-16T17:21:05.170Z"
+    "FStringFlagRepoGitHashFastString": "0ff5592527def26335e7fa3e0ab04370cca22a04",
+    "DFStringFlagRepoGitHashDynamicString": "0ff5592527def26335e7fa3e0ab04370cca22a04",
+    "FStringFlipTimeStampFastString": "2026-01-16T18:52:09.447Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-16T18:52:09.447Z"
 }
