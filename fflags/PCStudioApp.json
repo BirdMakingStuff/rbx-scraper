@@ -14841,6 +14841,8 @@
     "DFIntRankProductsHttpPriority": "5",
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
     "DFFlagSimParentPrimSpacePVsRead": "True",
+    "DFFlagFlagRolloutTestDynamicBool1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2084023078;2026-01-16T22:12:56",
+    "FFlagFlagRolloutTestStaticBool1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;660765161;2026-01-16T22:14:23",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17303,6 +17305,7 @@
     "FFlagAXPassScreenSizeToWidgetApi5": "True",
     "FFlagRbxStorageRemoveStrayWal": "True",
     "DFFlagSimCacheHumanoidScale2": "True",
+    "DFFlagTriangleMeshPartDefaultCollisionGeometry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-16T22:09:30",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -17336,8 +17339,8 @@
     "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
     "FFlagNotificationRedesignM1Q42025": "True",
     "DFFlagOptimizeCachedBlockDataSharedString": "True",
-    "FStringFlagRepoGitHashFastString": "2934a2a96e5b8e0f52e284ba83071cacfaa74a47",
-    "DFStringFlagRepoGitHashDynamicString": "2934a2a96e5b8e0f52e284ba83071cacfaa74a47",
-    "FStringFlipTimeStampFastString": "2026-01-16T21:01:32.814Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-16T21:01:32.814Z"
+    "FStringFlagRepoGitHashFastString": "0de794b087ac1e4ffec33e3fb361f5139fe9b11c",
+    "DFStringFlagRepoGitHashDynamicString": "0de794b087ac1e4ffec33e3fb361f5139fe9b11c",
+    "FStringFlipTimeStampFastString": "2026-01-16T22:15:12.994Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-16T22:15:12.994Z"
 }
