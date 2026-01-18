@@ -12778,7 +12778,7 @@
     "DFFlagFlagRolloutTestDynamicBool0": "True",
     "DFFlagFlagRolloutTestDynamicBool1": "False",
     "FFlagFlagRolloutTestStaticBool0": "False",
-    "FFlagFlagRolloutTestStaticBool1": "False",
+    "FFlagFlagRolloutTestStaticBool1": "True",
     "DFFlagFlagRolloutTestDynamicBool9": "False",
     "FFlagFlagRolloutTestStaticBool8": "False",
     "FFlagFlagRolloutTestStaticBool9": "False",
@@ -14841,6 +14841,7 @@
     "DFIntRankProductsHttpPriority": "5",
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
     "DFFlagSimParentPrimSpacePVsRead": "True",
+    "FFlagFlagRolloutTestStaticBool1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;660765161;2026-01-16T22:14:23",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15219,8 +15220,8 @@
     "DFFlagCatchAsyncConvexDecompErrors": "True",
     "FFlagSQLiteSetPageSize": "True",
     "DFFlagTriangleMeshPartDefaultCollisionGeometry": "True",
-    "FStringFlagRepoGitHashFastString": "000693356bbb00d425a570525f467a8335dc082c",
-    "DFStringFlagRepoGitHashDynamicString": "000693356bbb00d425a570525f467a8335dc082c",
-    "FStringFlipTimeStampFastString": "2026-01-16T23:16:39.885Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-16T23:16:39.885Z"
+    "FStringFlagRepoGitHashFastString": "a4ae50420b76240efb69664fc3218907bcd988bc",
+    "DFStringFlagRepoGitHashDynamicString": "a4ae50420b76240efb69664fc3218907bcd988bc",
+    "FStringFlipTimeStampFastString": "2026-01-16T23:11:39.357Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-16T23:11:39.357Z"
 }
