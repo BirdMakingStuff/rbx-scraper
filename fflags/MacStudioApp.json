@@ -16844,6 +16844,7 @@
     "FFlagScriptEditorHomeEndWorkLikeWindowsOnMacOS": "True",
     "FFlagStudioSplitPluginCatch2": "True",
     "FFlagCommandBarUseBuilderFont2": "True",
+    "FStringStudioEmergencyMessageV4_Staged": "eyJ2ZXJzaW9uU3RhcnQiOiAiMC4zMDAuMC4xIiwgInZlcnNpb25FbmQiOiAiMC43MDEuMC43MDQxMDU5IiwgInBsYXRmb3JtcyI6IFsiV2luZG93cyIsICJNYWMiXSwgIm1lc3NhZ2UiOiB7fSwgInNodXRkb3duIjogdHJ1ZX0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T21:01:21",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -17309,8 +17310,8 @@
     "FFlagPerformanceControlUseNewMacMemAvailable": "True",
     "FFlagNotificationRedesignM1Q42025": "True",
     "DFFlagOptimizeCachedBlockDataSharedString": "True",
-    "FStringFlagRepoGitHashFastString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
-    "DFStringFlagRepoGitHashDynamicString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
-    "FStringFlipTimeStampFastString": "2026-01-19T18:56:33.720Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-19T18:56:33.720Z"
+    "FStringFlagRepoGitHashFastString": "0df98f7d6ee84dedcf0eb1e9799678d0bd2b8b18",
+    "DFStringFlagRepoGitHashDynamicString": "0df98f7d6ee84dedcf0eb1e9799678d0bd2b8b18",
+    "FStringFlipTimeStampFastString": "2026-01-19T21:02:11.834Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-19T21:02:11.834Z"
 }
