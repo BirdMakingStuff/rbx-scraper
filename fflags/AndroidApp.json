@@ -14841,7 +14841,7 @@
     "DFIntRankProductsHttpPriority": "5",
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
     "DFFlagSimParentPrimSpacePVsRead": "True",
-    "DFFlagUseTemporaryIntrusivePtr_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T17:48:03",
+    "DFFlagUseTemporaryIntrusivePtr": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15836,8 +15836,8 @@
     "FFlagTexturePackGeneratorUseRaw": "True",
     "FFlagEnableLogNotificationSettingsOnColdForeground": "True",
     "DFFlagSimCacheHumanoidScale2": "True",
-    "FStringFlagRepoGitHashFastString": "af35b108d9365d8436bfb84cd82e21593b449112",
-    "DFStringFlagRepoGitHashDynamicString": "af35b108d9365d8436bfb84cd82e21593b449112",
-    "FStringFlipTimeStampFastString": "2026-01-19T17:48:52.897Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-19T17:48:52.897Z"
+    "FStringFlagRepoGitHashFastString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
+    "DFStringFlagRepoGitHashDynamicString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
+    "FStringFlipTimeStampFastString": "2026-01-19T18:56:33.720Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-19T18:56:33.720Z"
 }

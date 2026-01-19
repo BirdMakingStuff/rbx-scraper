@@ -14841,6 +14841,7 @@
     "DFIntRankProductsHttpPriority": "5",
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
     "DFFlagSimParentPrimSpacePVsRead": "True",
+    "DFFlagUseTemporaryIntrusivePtr": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15354,7 +15355,6 @@
     "FFlagAXSceneGamepadHandlerOnlySelectDescendantOfGame": "True",
     "FFlagPurchasePromptPriceShouldUseProductInfoPrice4": "True",
     "DFFlagSQLiteCacheReportL2Miss": "True",
-    "DFFlagUseTemporaryIntrusivePtr": "True",
     "FFlagTelemetryCacheTrackSlowOps": "True",
     "FFlagAvatarEditorItemCardWaitForData": "True",
     "FFlagAXRootRFYMigration": "True",
@@ -15849,8 +15849,8 @@
     "FFlagContentProviderRefactorCallbackToAssetResponse6": "True",
     "FStringCLI183642EnabledRegions": "SA",
     "FFlagCLI183642Enabled": "False",
-    "FStringFlagRepoGitHashFastString": "af35b108d9365d8436bfb84cd82e21593b449112",
-    "DFStringFlagRepoGitHashDynamicString": "af35b108d9365d8436bfb84cd82e21593b449112",
-    "FStringFlipTimeStampFastString": "2026-01-19T17:48:52.897Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-19T17:48:52.897Z"
+    "FStringFlagRepoGitHashFastString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
+    "DFStringFlagRepoGitHashDynamicString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
+    "FStringFlipTimeStampFastString": "2026-01-19T18:56:33.720Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-19T18:56:33.720Z"
 }

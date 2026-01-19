@@ -14841,6 +14841,7 @@
     "DFIntRankProductsHttpPriority": "5",
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
     "DFFlagSimParentPrimSpacePVsRead": "True",
+    "DFFlagUseTemporaryIntrusivePtr": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16840,7 +16841,6 @@
     "FFlagLuauSetmetatableWaitForPendingTypes": "True",
     "FFlagACESimulatedAnimationConstraints": "True",
     "FFlagInstrumentWaitForInitialStreaming": "True",
-    "DFFlagUseTemporaryIntrusivePtr": "True",
     "FFlagScriptEditorHomeEndWorkLikeWindowsOnMacOS": "True",
     "FFlagStudioSplitPluginCatch2": "True",
     "FFlagCommandBarUseBuilderFont2": "True",
@@ -17309,8 +17309,8 @@
     "FFlagPerformanceControlUseNewMacMemAvailable": "True",
     "FFlagNotificationRedesignM1Q42025": "True",
     "DFFlagOptimizeCachedBlockDataSharedString": "True",
-    "FStringFlagRepoGitHashFastString": "af35b108d9365d8436bfb84cd82e21593b449112",
-    "DFStringFlagRepoGitHashDynamicString": "af35b108d9365d8436bfb84cd82e21593b449112",
-    "FStringFlipTimeStampFastString": "2026-01-19T17:48:52.897Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-19T17:48:52.897Z"
+    "FStringFlagRepoGitHashFastString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
+    "DFStringFlagRepoGitHashDynamicString": "2abcba16fdb54db2f9ac4ac3e63bb6f0a906ebf4",
+    "FStringFlipTimeStampFastString": "2026-01-19T18:56:33.720Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-19T18:56:33.720Z"
 }
