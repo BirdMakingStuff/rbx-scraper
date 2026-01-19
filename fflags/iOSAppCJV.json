@@ -14842,6 +14842,14 @@
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
     "DFFlagSimParentPrimSpacePVsRead": "True",
     "DFFlagUseTemporaryIntrusivePtr": "True",
+    "FFlagTexturePriorityBasedOnDistance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T21:52:17",
+    "FFlagTexturePacksFallbackReferenceManaged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T21:54:50",
+    "FFlagXboxInferredCrashUnbufferedIO_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T21:56:22",
+    "FFlagXboxAddHangTimerAndLKStoBT_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T21:57:20",
+    "FFlagXboxLastKnownStateImprovements_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T21:58:34",
+    "FFlagXboxLastKnownStateFlushOnSuspend_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T22:00:16",
+    "DFFlagReportDeviceNameInCrashes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T22:03:29",
+    "FFlagDeviceQueryHardwareInformation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T22:05:25",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15889,8 +15897,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "0df98f7d6ee84dedcf0eb1e9799678d0bd2b8b18",
-    "DFStringFlagRepoGitHashDynamicString": "0df98f7d6ee84dedcf0eb1e9799678d0bd2b8b18",
-    "FStringFlipTimeStampFastString": "2026-01-19T21:02:11.834Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-19T21:02:11.834Z"
+    "FStringFlagRepoGitHashFastString": "64da8b59af9f8fc407474187f6673cc8bdc590d7",
+    "DFStringFlagRepoGitHashDynamicString": "64da8b59af9f8fc407474187f6673cc8bdc590d7",
+    "FStringFlipTimeStampFastString": "2026-01-19T22:06:42.217Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-19T22:06:42.217Z"
 }
