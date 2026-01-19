@@ -14841,6 +14841,7 @@
     "DFIntRankProductsHttpPriority": "5",
     "DFFlagEnableOverridingAndroidExitReasonsAsSuccess": "True",
     "DFFlagSimParentPrimSpacePVsRead": "True",
+    "DFFlagUseTemporaryIntrusivePtr_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T17:48:03",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15860,8 +15861,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "000693356bbb00d425a570525f467a8335dc082c",
-    "DFStringFlagRepoGitHashDynamicString": "000693356bbb00d425a570525f467a8335dc082c",
-    "FStringFlipTimeStampFastString": "2026-01-16T23:16:39.885Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-16T23:16:39.885Z"
+    "FStringFlagRepoGitHashFastString": "af35b108d9365d8436bfb84cd82e21593b449112",
+    "DFStringFlagRepoGitHashDynamicString": "af35b108d9365d8436bfb84cd82e21593b449112",
+    "FStringFlipTimeStampFastString": "2026-01-19T17:48:52.897Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-19T17:48:52.897Z"
 }
