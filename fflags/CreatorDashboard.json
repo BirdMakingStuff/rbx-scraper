@@ -92,5 +92,6 @@
     "enableMigratedAvatarAnalyticsPage": "false",
     "enableGPCFooter": "true",
     "rentablesPreLaunchWhitelist": "4647780465",
-    "rentablesPreLaunchLearnMoreUrl": "https://www.roblox.com/"
+    "rentablesPreLaunchLearnMoreUrl": "https://www.roblox.com/",
+    "enableRentablesBulkUpdateButton": "true"
 }
