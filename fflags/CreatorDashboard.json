@@ -91,6 +91,7 @@
     "enableRewardedVideoAdTypeSettings": "true",
     "enableMigratedAvatarAnalyticsPage": "true",
     "enableGPCFooter": "true",
-    "rentablesPreLaunchLearnMoreUrl": "https://www.roblox.com/",
-    "enableRentablesBulkUpdateButton": "true"
+    "rentablesPreLaunchLearnMoreUrl": "https://devforum.roblox.com/t/testing-time-based-avatar-items-in-february/4275399",
+    "enableRentablesBulkUpdateButton": "true",
+    "enableRentablesPreLaunchBanner": "true"
 }
