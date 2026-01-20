@@ -14844,13 +14844,13 @@
     "DFFlagUseTemporaryIntrusivePtr": "True",
     "FFlagTexturePacksFallbackReferenceManaged": "True",
     "FFlagTexturePriorityBasedOnDistance": "True",
-    "FFlagXboxLastKnownStateTrackSuspended_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-19T23:00:13",
     "FFlagXboxAddHangTimerAndLKStoBT": "True",
     "FFlagXboxInferredCrashUnbufferedIO": "True",
     "FFlagXboxLastKnownStateImprovements": "True",
     "DFFlagReportDeviceNameInCrashes": "True",
     "FFlagXboxLastKnownStateFlushOnSuspend": "True",
     "FFlagDeviceQueryHardwareInformation": "True",
+    "FFlagXboxLastKnownStateTrackSuspended": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17350,8 +17350,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "082aa28e25aa1d1f8bf5ee24e1830ec2e2818990",
-    "DFStringFlagRepoGitHashDynamicString": "082aa28e25aa1d1f8bf5ee24e1830ec2e2818990",
-    "FStringFlipTimeStampFastString": "2026-01-19T23:26:01.109Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-19T23:26:01.109Z"
+    "FStringFlagRepoGitHashFastString": "41deb9b301e4fa5c974e7e7a8a1480569f5b42dd",
+    "DFStringFlagRepoGitHashDynamicString": "41deb9b301e4fa5c974e7e7a8a1480569f5b42dd",
+    "FStringFlipTimeStampFastString": "2026-01-20T01:51:29.268Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-20T01:51:29.268Z"
 }
