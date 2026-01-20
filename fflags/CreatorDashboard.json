@@ -90,5 +90,7 @@
     "ageVerificationUpsellViewDetailsUrl": "https://devforum.roblox.com/t/age-check-notifications-in-studio-and-creator-hub/4117693",
     "enableRewardedVideoAdTypeSettings": "true",
     "enableMigratedAvatarAnalyticsPage": "false",
-    "enableGPCFooter": "true"
+    "enableGPCFooter": "true",
+    "rentablesPreLaunchWhitelist": "4647780465",
+    "rentablesPreLaunchLearnMoreUrl": "https://www.roblox.com/"
 }
