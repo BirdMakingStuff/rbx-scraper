@@ -14940,6 +14940,8 @@
     "DFFlagEnableOpenLogsFolderApi": "True",
     "DFFlagIkControlFixSetup": "True",
     "FFlagLuaAppIedpFixPlayButton": "True",
+    "FFlagRefactorMenuConfirmationButtons4_IXP": "1;UIEcosystem.User.Migration;UIEcosystem.User.Migration.MenuButtonColorRedesign.MemoryFix;62545430;flagbank",
+    "FFlagAXFixHydratedWidgetsParams2_Staged": "True;SteadyState;10;30;Revert;2026-01-21T17:32:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15958,8 +15960,8 @@
     "FFlagEnablePushDelegateV3": "True",
     "FFlagLuaAppRemoveSponsoredReportHiddenState": "True",
     "FFlagTelemetryShouldStoreReliabilityCounters_IXP": "1;Portal.ios_persisted_reliability_counters-1768944406;ios_persisted_reliability_counters;1851374120;flagbank",
-    "FStringFlagRepoGitHashFastString": "5f22655f856e48a47861f132ad9510fa04664df2",
-    "DFStringFlagRepoGitHashDynamicString": "5f22655f856e48a47861f132ad9510fa04664df2",
-    "FStringFlipTimeStampFastString": "2026-01-21T01:56:34.175Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-21T01:56:34.175Z"
+    "FStringFlagRepoGitHashFastString": "c8b2599bb5cdb1f086e98394d1b642859cec19fa",
+    "DFStringFlagRepoGitHashDynamicString": "c8b2599bb5cdb1f086e98394d1b642859cec19fa",
+    "FStringFlipTimeStampFastString": "2026-01-21T17:33:48.743Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-21T17:33:48.743Z"
 }
