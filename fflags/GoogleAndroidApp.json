@@ -15040,6 +15040,10 @@
     "FFlagLuaAppExplicitFeedbackSmallGeneralFixes": "True",
     "FFlagCLI186546": "True",
     "FFlagPerformanceControlBudgetSystemRollout10": "False",
+    "FFlagSingleMapForMemberDescriptors_Staged": "True;SteadyState;10;30;Revert;2026-01-26T17:11:31",
+    "FFlagLuauCodegenBufferLoadProp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-26T17:14:15",
+    "FFlagAddVideoDetectorWrapper_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;490661354;2026-01-26T17:15:59",
+    "DFFlagSimUseBetterMagnitudeDrawer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-26T17:32:29",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16371,8 +16375,9 @@
     "FFlagAppChatGroupOsaNavigateBeforeRecordDecline": "True",
     "FFlagAppChatGroupOsaPreventBlankDialog": "True",
     "FFlagAppChatExcludeSyntheticPreviewFromMessages": "True",
-    "FStringFlagRepoGitHashFastString": "1042c26fa175e4f86f3cdd1bd8b669636dac2065",
-    "DFStringFlagRepoGitHashDynamicString": "1042c26fa175e4f86f3cdd1bd8b669636dac2065",
-    "FStringFlipTimeStampFastString": "2026-01-24T02:31:37.027Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-24T02:31:37.027Z"
+    "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1651315149;2026-01-26T17:38:52",
+    "FStringFlagRepoGitHashFastString": "9b0186af24cc0370e52b3c3bc686db23c0ea2932",
+    "DFStringFlagRepoGitHashDynamicString": "9b0186af24cc0370e52b3c3bc686db23c0ea2932",
+    "FStringFlipTimeStampFastString": "2026-01-26T17:39:55.685Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-26T17:39:55.685Z"
 }
