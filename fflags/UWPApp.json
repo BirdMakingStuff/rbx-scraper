@@ -15170,6 +15170,7 @@
     "FFlagFoundationDateTimePickerDualBugFix": "True",
     "DFFlagTM2PrecalcDensityCheckType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T20:27:28",
     "FFlagEnableSduiRegistriesforTenFootUiContainer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T20:33:33",
+    "FFlagPrefillPreciseSelectionChoices_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T21:00:37",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -15458,8 +15459,8 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
-    "FStringFlagRepoGitHashFastString": "fd145d47fd2e3031ae228edbbf6eeb03cda1a833",
-    "DFStringFlagRepoGitHashDynamicString": "fd145d47fd2e3031ae228edbbf6eeb03cda1a833",
-    "FStringFlipTimeStampFastString": "2026-01-28T21:31:05.391Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-28T21:31:05.391Z"
+    "FStringFlagRepoGitHashFastString": "de8695d5cfb7739172b26d80fff8896673b278ff",
+    "DFStringFlagRepoGitHashDynamicString": "de8695d5cfb7739172b26d80fff8896673b278ff",
+    "FStringFlipTimeStampFastString": "2026-01-28T22:26:34.358Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-28T22:26:34.358Z"
 }
