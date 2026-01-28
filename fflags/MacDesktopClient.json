@@ -15164,11 +15164,12 @@
     "FFlagUGCValidationCombineEntrypointResults5": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagMCPAssistantLongRunningToolCalls_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T19:57:38",
-    "FFlagExpChatWindowSyncUnibar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;692406074;2026-01-28T20:03:45",
     "FFlagReimportDecalSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T20:05:25",
     "FFlagRemoveFriendsRenameInfoModal": "True",
     "FFlagFoundationDateTimePickerDefaultInputText": "True",
     "FFlagFoundationDateTimePickerDualBugFix": "True",
+    "DFFlagTM2PrecalcDensityCheckType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T20:27:28",
+    "FFlagEnableSduiRegistriesforTenFootUiContainer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T20:33:33",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -16170,8 +16171,8 @@
     "FFlagIncludePowerSaverMode": "True",
     "FFlagAddFriendsBannersNewUI_exp_IXP": "1;Social.AddFriendsPage;Social.AddFriends.NewConnectionChannelsUI-1769113107814;738852828;dev_controlled",
     "FIntMaxCloudAssetDimension": "4096",
-    "FStringFlagRepoGitHashFastString": "efc159914924bdd3fbd7ef24255df886c3fa9d77",
-    "DFStringFlagRepoGitHashDynamicString": "efc159914924bdd3fbd7ef24255df886c3fa9d77",
-    "FStringFlipTimeStampFastString": "2026-01-28T20:43:55.335Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-28T20:43:55.335Z"
+    "FStringFlagRepoGitHashFastString": "fd145d47fd2e3031ae228edbbf6eeb03cda1a833",
+    "DFStringFlagRepoGitHashDynamicString": "fd145d47fd2e3031ae228edbbf6eeb03cda1a833",
+    "FStringFlipTimeStampFastString": "2026-01-28T21:31:05.391Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-28T21:31:05.391Z"
 }
