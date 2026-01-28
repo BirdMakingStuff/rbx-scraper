@@ -15152,6 +15152,8 @@
     "FFlagSlimReportSkinnedVertexCount": "True",
     "FFlagSlimSkipMatGenTexturePackValidation2": "True",
     "FFlagSlimUse2022Material": "True",
+    "DFIntAcousticSimQualityCutoffHundreths_Staged": "8;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1979624425;2026-01-28T17:22:29",
+    "FFlagPlayerListUseFocusNavHook2_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerListConsolePlayStation.3;2078855017;flagbank",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16489,8 +16491,8 @@
     "FFlagAppChatGroupOsaPreventBlankDialog": "True",
     "FFlagAppChatExcludeSyntheticPreviewFromMessages": "True",
     "FStringPerformanceControlMemoryBufferModificationsEnabledJson": "{\\\"historicalDataAggregation\\\":{\\\"hardwareEnabled\\\":{\\\"or\\\":[{\\\"is_any_of\\\":[\\\"app_platform()\\\",\\\"android\\\"]}]}}}",
-    "FStringFlagRepoGitHashFastString": "4acb0995756523f1259a1d1f91c5a57dc49a69bc",
-    "DFStringFlagRepoGitHashDynamicString": "4acb0995756523f1259a1d1f91c5a57dc49a69bc",
-    "FStringFlipTimeStampFastString": "2026-01-28T01:31:20.612Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-28T01:31:20.612Z"
+    "FStringFlagRepoGitHashFastString": "5aef0e43838ac5edb51af3bdf85d1f2005b1e91b",
+    "DFStringFlagRepoGitHashDynamicString": "5aef0e43838ac5edb51af3bdf85d1f2005b1e91b",
+    "FStringFlipTimeStampFastString": "2026-01-28T17:37:28.736Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-28T17:37:28.736Z"
 }
