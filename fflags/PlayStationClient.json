@@ -15175,6 +15175,7 @@
     "FFlagAddCompactUnifiedUpsellModalMode": "True",
     "FFlagUnifiedPurchaseFlowLowercaseTotalPrice": "True",
     "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV4": "True",
+    "FFlagEnableRefactorAdServiceLogicFollowups_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-29T19:37:11",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -15445,8 +15446,8 @@
     "DFFlagPerfDataCategoryGrouping2": "True",
     "FIntMaxCloudAssetDimension": "4096",
     "FFlagCleanupMuteSelfButtonV3": "True",
-    "FStringFlagRepoGitHashFastString": "64c62b292970d440b331ccb0ca23c3debd798486",
-    "DFStringFlagRepoGitHashDynamicString": "64c62b292970d440b331ccb0ca23c3debd798486",
-    "FStringFlipTimeStampFastString": "2026-01-29T18:11:48.808Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-29T18:11:48.808Z"
+    "FStringFlagRepoGitHashFastString": "f6f10603639283ac7e2fa78757bd2c700a0a4d3a",
+    "DFStringFlagRepoGitHashDynamicString": "f6f10603639283ac7e2fa78757bd2c700a0a4d3a",
+    "FStringFlipTimeStampFastString": "2026-01-29T19:38:57.221Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-29T19:38:57.221Z"
 }

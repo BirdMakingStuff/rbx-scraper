@@ -15175,6 +15175,7 @@
     "FFlagAddCompactUnifiedUpsellModalMode": "True",
     "FFlagUnifiedPurchaseFlowLowercaseTotalPrice": "True",
     "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV4": "True",
+    "FFlagEnableRefactorAdServiceLogicFollowups_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-29T19:37:11",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15693,6 +15694,7 @@
     "DFFlagMaxActiveAnimationTracksBetterLogging": "True",
     "DFFlagPerfDataCategoryGrouping2": "True",
     "FFlagWrapDeformerUsesFMD3": "True",
+    "DFFlagDataPingTrace2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-29T19:37:51",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16177,8 +16179,8 @@
     "FFlagIncludePowerSaverMode": "True",
     "FFlagAddFriendsBannersNewUI_exp_IXP": "1;Social.AddFriendsPage;Social.AddFriends.NewConnectionChannelsUI-1769113107814;738852828;dev_controlled",
     "FIntMaxCloudAssetDimension": "4096",
-    "FStringFlagRepoGitHashFastString": "64c62b292970d440b331ccb0ca23c3debd798486",
-    "DFStringFlagRepoGitHashDynamicString": "64c62b292970d440b331ccb0ca23c3debd798486",
-    "FStringFlipTimeStampFastString": "2026-01-29T18:11:48.808Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-29T18:11:48.808Z"
+    "FStringFlagRepoGitHashFastString": "f6f10603639283ac7e2fa78757bd2c700a0a4d3a",
+    "DFStringFlagRepoGitHashDynamicString": "f6f10603639283ac7e2fa78757bd2c700a0a4d3a",
+    "FStringFlipTimeStampFastString": "2026-01-29T19:38:57.221Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-29T19:38:57.221Z"
 }
