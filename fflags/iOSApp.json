@@ -15201,10 +15201,10 @@
     "DFFlagHttpServiceRequestAsyncUserTimeout2": "True",
     "DFFlagSimDisableAnimationConstraintAssert": "True",
     "FIntSilentUpgradeReauthDelaySeconds": "1",
-    "DFFlagVideoMacFixStrideInYuvAvcEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-30T19:52:58",
     "FIntRbxStorageFCLocation": "2",
     "DFFlagSimStepPhysicFixBoneInstanceCrash": "True",
     "FStringCLI183642EnabledRegions": "SA",
+    "DFFlagVideoMacFixStrideInYuvAvcEncode": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16225,8 +16225,8 @@
     "FFlagResetLegacyRatingPromptStats": "False",
     "FFlagShowRatingPromptOnGameLeave2": "True",
     "FIntMaxCloudAssetDimension": "4096",
-    "FStringFlagRepoGitHashFastString": "64fead305de21a458823ef77a7c4f384f9eec352",
-    "DFStringFlagRepoGitHashDynamicString": "64fead305de21a458823ef77a7c4f384f9eec352",
-    "FStringFlipTimeStampFastString": "2026-01-30T20:46:36.146Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-30T20:46:36.146Z"
+    "FStringFlagRepoGitHashFastString": "0d1261cf8ebba4d7579e6486cfdafecaeaa9b4ea",
+    "DFStringFlagRepoGitHashDynamicString": "0d1261cf8ebba4d7579e6486cfdafecaeaa9b4ea",
+    "FStringFlipTimeStampFastString": "2026-01-30T20:56:07.604Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-30T20:56:07.604Z"
 }
