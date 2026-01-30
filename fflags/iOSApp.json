@@ -15199,6 +15199,8 @@
     "FFlagEnableAuthDeepLinkReceiver2": "True",
     "FIntUGCValidateMaxTotalInternalMarkers": "1",
     "DFFlagHttpServiceRequestAsyncUserTimeout2": "True",
+    "FFlagShoeSkipRight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-30T17:12:55",
+    "DFFlagSimDisableAnimationConstraintAssert_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-30T17:49:14",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16219,8 +16221,8 @@
     "FFlagResetLegacyRatingPromptStats": "False",
     "FFlagShowRatingPromptOnGameLeave2": "True",
     "FIntMaxCloudAssetDimension": "4096",
-    "FStringFlagRepoGitHashFastString": "e4190dae1f1f369f339d8008c1105d549d5c456b",
-    "DFStringFlagRepoGitHashDynamicString": "e4190dae1f1f369f339d8008c1105d549d5c456b",
-    "FStringFlipTimeStampFastString": "2026-01-30T17:04:17.585Z",
-    "DFStringFlipTimeStampDynamicString": "2026-01-30T17:04:17.585Z"
+    "FStringFlagRepoGitHashFastString": "542dd930282fa6b0fdeb8c2321a2de81594cb599",
+    "DFStringFlagRepoGitHashDynamicString": "542dd930282fa6b0fdeb8c2321a2de81594cb599",
+    "FStringFlipTimeStampFastString": "2026-01-30T17:53:08.564Z",
+    "DFStringFlipTimeStampDynamicString": "2026-01-30T17:53:08.564Z"
 }
