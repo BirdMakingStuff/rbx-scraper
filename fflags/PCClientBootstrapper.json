@@ -290,7 +290,7 @@
     "FFlagMacInstallerDownloadNewInstaller": "True",
     "DFFlagRemoveMemoryCategory": "True",
     "FFlagUpdateTaskbarInInstaller": "True",
-    "FFlagUncheckErroredNodesAfterResetSettings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-02T18:40:35",
+    "FFlagUncheckErroredNodesAfterResetSettings": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -306,8 +306,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "7736c4e02f16b907870e27b19905343c6b404f7b",
-    "DFStringFlagRepoGitHashDynamicString": "7736c4e02f16b907870e27b19905343c6b404f7b",
-    "FStringFlipTimeStampFastString": "2026-02-02T19:07:06.905Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-02T19:07:06.905Z"
+    "FStringFlagRepoGitHashFastString": "86b2b38e3843bd24a43232a5a486ea96c4ecf035",
+    "DFStringFlagRepoGitHashDynamicString": "86b2b38e3843bd24a43232a5a486ea96c4ecf035",
+    "FStringFlipTimeStampFastString": "2026-02-02T20:02:09.261Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-02T20:02:09.261Z"
 }
