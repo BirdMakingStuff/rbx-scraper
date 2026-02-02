@@ -7,7 +7,7 @@ on:
 
 jobs:
   scrape_basic:
-    runs-on: ubuntu-slim
+    runs-on: linux_slim
     steps:
       - uses: actions/checkout@v4.1.1
 
