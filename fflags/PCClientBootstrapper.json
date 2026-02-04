@@ -291,6 +291,7 @@
     "DFFlagRemoveMemoryCategory": "True",
     "FFlagUpdateTaskbarInInstaller": "True",
     "FFlagUncheckErroredNodesAfterResetSettings": "True",
+    "DFFlagJsonWriterWritesNanAndInfAsString2": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -306,8 +307,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "86b2b38e3843bd24a43232a5a486ea96c4ecf035",
-    "DFStringFlagRepoGitHashDynamicString": "86b2b38e3843bd24a43232a5a486ea96c4ecf035",
-    "FStringFlipTimeStampFastString": "2026-02-02T20:02:09.261Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-02T20:02:09.261Z"
+    "FStringFlagRepoGitHashFastString": "977a5c9b4f454a02216aadae5e248fff0ba61ef8",
+    "DFStringFlagRepoGitHashDynamicString": "977a5c9b4f454a02216aadae5e248fff0ba61ef8",
+    "FStringFlipTimeStampFastString": "2026-02-04T21:01:41.767Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-04T21:01:41.767Z"
 }
