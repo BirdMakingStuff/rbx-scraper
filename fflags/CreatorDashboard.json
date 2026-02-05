@@ -95,5 +95,5 @@
     "enableRentablesBulkUpdateButton": "true",
     "enableRentablesPreLaunchBanner": "true",
     "questionnaireV2Allowlist": "11123150030;11135208574;11174152184",
-    "enableSecureTeleports": "false"
+    "enableSecureTeleports": "true"
 }
