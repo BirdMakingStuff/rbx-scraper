@@ -14491,7 +14491,7 @@
     "FFlagAXCloseFilterOnBackgroundTap": "True",
     "DFFlagAddClientFpsDataToTracer": "True",
     "DFFlagAddRccInfoToDataTrace": "True",
-    "DFIntDataPingTracerFpsInfoThrottleHundredthsPercent": "10000",
+    "DFIntDataPingTracerFpsInfoThrottleHundredthsPercent": "10",
     "FFlagMultiSidedPyramids": "True",
     "FFlagDebugIosUnlockOrientation_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;1165596130;flagbank",
     "FFlagEnableAndroidUnlockOrientation_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;1165596130;flagbank",
@@ -15585,6 +15585,8 @@
     "FFlagWebSocketTimedShutdowns": "True",
     "DFFlagNoResponseFix": "True",
     "FIntTM2SkipMarkPassMask": "256",
+    "FFlagAXCatalogItemCardAvailabilityState3": "True",
+    "FFlagAXUnavailableItemsPrompt3": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16637,8 +16639,8 @@
     "DFIntGamePassInfoHttpPriority2": "5",
     "DFFlagCrashMetricStoragePreventPostProcessingWithoutHistoricalData": "True",
     "FFlagAppChatGroupOsaPreventDuplicateSubmit": "True",
-    "FStringFlagRepoGitHashFastString": "a98a211d251c75500ee11ece81af49a5f409fa48",
-    "DFStringFlagRepoGitHashDynamicString": "a98a211d251c75500ee11ece81af49a5f409fa48",
-    "FStringFlipTimeStampFastString": "2026-02-11T02:27:05.583Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-11T02:27:05.583Z"
+    "FStringFlagRepoGitHashFastString": "269891dc9dffa6d787cc1f71dc639c923caf7e4a",
+    "DFStringFlagRepoGitHashDynamicString": "269891dc9dffa6d787cc1f71dc639c923caf7e4a",
+    "FStringFlipTimeStampFastString": "2026-02-11T17:31:51.310Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-11T17:31:51.310Z"
 }
