@@ -292,6 +292,7 @@
     "FFlagUpdateTaskbarInInstaller": "True",
     "FFlagUncheckErroredNodesAfterResetSettings": "True",
     "DFFlagJsonWriterWritesNanAndInfAsString2": "True",
+    "FFlagAddSceneRootToAnimation": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -304,8 +305,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "f8ef807d5aa1f99dcdeabc9d71b97390c3d697b7",
-    "DFStringFlagRepoGitHashDynamicString": "f8ef807d5aa1f99dcdeabc9d71b97390c3d697b7",
-    "FStringFlipTimeStampFastString": "2026-02-11T19:32:21.186Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-11T19:32:21.186Z"
+    "FStringFlagRepoGitHashFastString": "170759ef6b5276db020f64ae6f6035fe03c53bf2",
+    "DFStringFlagRepoGitHashDynamicString": "170759ef6b5276db020f64ae6f6035fe03c53bf2",
+    "FStringFlipTimeStampFastString": "2026-02-11T21:02:29.720Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-11T21:02:29.720Z"
 }

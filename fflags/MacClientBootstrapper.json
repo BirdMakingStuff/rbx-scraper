@@ -292,6 +292,7 @@
     "FFlagUpdateTaskbarInInstaller": "True",
     "FFlagUncheckErroredNodesAfterResetSettings": "True",
     "DFFlagJsonWriterWritesNanAndInfAsString2": "True",
+    "FFlagAddSceneRootToAnimation": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -313,8 +314,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "f8ef807d5aa1f99dcdeabc9d71b97390c3d697b7",
-    "DFStringFlagRepoGitHashDynamicString": "f8ef807d5aa1f99dcdeabc9d71b97390c3d697b7",
-    "FStringFlipTimeStampFastString": "2026-02-11T19:32:21.186Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-11T19:32:21.186Z"
+    "FStringFlagRepoGitHashFastString": "87b19100d156909ba221deab8c93f22c7af12822",
+    "DFStringFlagRepoGitHashDynamicString": "87b19100d156909ba221deab8c93f22c7af12822",
+    "FStringFlipTimeStampFastString": "2026-02-11T21:00:55.944Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-11T21:00:55.944Z"
 }
