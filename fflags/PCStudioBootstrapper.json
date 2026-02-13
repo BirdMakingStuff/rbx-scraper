@@ -305,8 +305,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "59edde8bb32aab60fff50c622cba81726e21ce03",
-    "DFStringFlagRepoGitHashDynamicString": "59edde8bb32aab60fff50c622cba81726e21ce03",
-    "FStringFlipTimeStampFastString": "2026-02-13T19:11:34.132Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-13T19:11:34.132Z"
+    "FStringFlagRepoGitHashFastString": "58cf40f22fe570885785d22a5e765bd577080a14",
+    "DFStringFlagRepoGitHashDynamicString": "58cf40f22fe570885785d22a5e765bd577080a14",
+    "FStringFlipTimeStampFastString": "2026-02-13T19:51:32.099Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-13T19:51:32.099Z"
 }
