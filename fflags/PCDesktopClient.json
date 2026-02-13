@@ -15728,6 +15728,8 @@
     "FFlagLuaAppBadgesSeeAllEnabled4": "True",
     "FFlagAddPerformanceMetricsToUnifiedPurchaseModal3": "True",
     "DFFlagOctreeQuerySphere2": "True",
+    "FFlagLuaAppEnableChartsPageProfileLink_IXP": "1;SearchDiscover.DiscoverPage.UX;Discovery.App.Charts.ShowProfileLink;1511865660;dev_controlled",
+    "FFlagAXCatalogCategoriesSDUIPillTitleNormalization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-13T17:08:23",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -16836,8 +16838,8 @@
     "FFlagRenderEmissiveMask6": "True",
     "FFlagRenderTerrainEmissiveMask2": "True",
     "FFlagTrackUsedTerrainMaterials2": "True",
-    "FStringFlagRepoGitHashFastString": "cdf245ad8c7f22657bcae564a336a04af711353c",
-    "DFStringFlagRepoGitHashDynamicString": "cdf245ad8c7f22657bcae564a336a04af711353c",
-    "FStringFlipTimeStampFastString": "2026-02-13T02:56:21.765Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-13T02:56:21.765Z"
+    "FStringFlagRepoGitHashFastString": "80b78756ca33fd488a41bdb3fe86a129c1cb7ef5",
+    "DFStringFlagRepoGitHashDynamicString": "80b78756ca33fd488a41bdb3fe86a129c1cb7ef5",
+    "FStringFlipTimeStampFastString": "2026-02-13T17:13:18.237Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-13T17:13:18.237Z"
 }
