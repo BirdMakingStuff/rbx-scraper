@@ -99,5 +99,6 @@
     "enableSecureTeleports": "true",
     "enableIpLicensingChangeRequests": "true",
     "serverManagementIncreaseRestartDelay": "true",
-    "enableSignalRCrossTab": "true"
+    "enableSignalRCrossTab": "true",
+    "enableStarterPlaceEligibility": "true"
 }
