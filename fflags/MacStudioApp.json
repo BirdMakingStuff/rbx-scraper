@@ -17857,6 +17857,7 @@
     "FFlagShowFullScriptNameTooltip": "True",
     "FFlagFocusWorkInPlaySoloServer": "True",
     "FFlagFixThumbnailBackgroundManageCollaborators": "True",
+    "FStringStudioEmergencyMessageV4_Staged": "eyJ2ZXJzaW9uU3RhcnQiOiAiMC4zMDAuMC4xIiwgInZlcnNpb25FbmQiOiAiMC43MDUuMC43MDgwODc4IiwgInBsYXRmb3JtcyI6IFsiV2luZG93cyIsICJNYWMiXSwgIm1lc3NhZ2UiOiB7fSwgInNodXRkb3duIjogdHJ1ZX0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-16T21:01:02",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -18357,8 +18358,8 @@
     "FFlagTexturePackGeneratorUseOriginal": "True",
     "FIntMaxCloudAssetDimension": "4096",
     "FIntTranscoderTextureDimensionMax": "4096",
-    "FStringFlagRepoGitHashFastString": "05f027c195a74f2a5254e57bf006e8d0a8ddb8d0",
-    "DFStringFlagRepoGitHashDynamicString": "05f027c195a74f2a5254e57bf006e8d0a8ddb8d0",
-    "FStringFlipTimeStampFastString": "2026-02-14T02:26:26.692Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-14T02:26:26.692Z"
+    "FStringFlagRepoGitHashFastString": "dfd6e143cad235c458d0c6defc7af8c63e7f1eb5",
+    "DFStringFlagRepoGitHashDynamicString": "dfd6e143cad235c458d0c6defc7af8c63e7f1eb5",
+    "FStringFlipTimeStampFastString": "2026-02-16T21:01:50.308Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-16T21:01:50.308Z"
 }
