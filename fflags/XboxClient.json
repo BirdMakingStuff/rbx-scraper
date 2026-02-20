@@ -15952,6 +15952,7 @@
     "DFFlagOverrideRaknetSocketTxBuffer": "True",
     "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": "True",
     "DFFlagVideoGamePreviewMissingMetricsFix": "True",
+    "FFlagUseNewHurtOverlayImage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-20T19:51:30",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16303,7 +16304,6 @@
     "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Xbox;1064436814;flagbank",
     "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "275",
     "FFlagExperiencesOnProfileIxpEnabled_IXP": "1;Social.Profile;Social.Profile.ExperiencesOnProfile_v2;1289119975;dev_controlled",
-    "FFlagExperiencesOnProfile_v2_IXP": "1;Social.Profile;Social.Profile.ExperiencesOnProfile_v2;1289119975;dev_controlled",
     "FStringExperiencesOnProfileIxpLayer_IXP": "1;Social.Profile;Social.Profile.ExperiencesOnProfile_v2;1289119975;dev_controlled",
     "FIntSQLiteDisableSHM": "1",
     "DFFlagPerfDataCategoryGrouping2": "True",
@@ -16346,8 +16346,9 @@
     "FFlagEnablePlayersGetFriendsAsyncTelemetry": "True",
     "DFIntGeneralUseOfAnimationFeaturesCollectionRate": "99",
     "DFFlagSQLiteThrottleGenericErrors": "True",
-    "FStringFlagRepoGitHashFastString": "2b82aab517b3adc5e536f2309395f2effae347ef",
-    "DFStringFlagRepoGitHashDynamicString": "2b82aab517b3adc5e536f2309395f2effae347ef",
-    "FStringFlipTimeStampFastString": "2026-02-20T19:46:25.603Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-20T19:46:25.603Z"
+    "FFlagExperiencesOnProfile_v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;977254272;2026-02-20T20:00:02",
+    "FStringFlagRepoGitHashFastString": "ed801b251815f04abd4d9201c2d33c5ed744c69a",
+    "DFStringFlagRepoGitHashDynamicString": "ed801b251815f04abd4d9201c2d33c5ed744c69a",
+    "FStringFlipTimeStampFastString": "2026-02-20T20:26:33.861Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-20T20:26:33.861Z"
 }
