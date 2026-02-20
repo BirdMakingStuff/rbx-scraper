@@ -15938,7 +15938,6 @@
     "FFlagAssistantToolNameAlias": "True",
     "FFlagPlayerListClosedNoRenderWithTenFoot": "True",
     "FFlagDebugOTAForceSkipContentProvider": "True",
-    "FIntAppChatSwipeStartThreshold_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-20T00:32:57",
     "FFlagHugeHugePersistent2": "True",
     "FFlagMCPAssistantDeduplicateMcpClient": "True",
     "DFStringAndroidExitReasonsAsSuccess": "OTHER KILLS BY SYSTEM",
@@ -16226,8 +16225,8 @@
     "DFFlagPSAddMissingLocales": "True",
     "FFlagAXMigrateAXFocusBehaviorRoot": "True",
     "FFlagSimCSGLargeAssetSolidMesh17": "True",
-    "FStringFlagRepoGitHashFastString": "c7ec74886ccb94fdb2a0d31f0607be96c2aa04e6",
-    "DFStringFlagRepoGitHashDynamicString": "c7ec74886ccb94fdb2a0d31f0607be96c2aa04e6",
-    "FStringFlipTimeStampFastString": "2026-02-20T01:31:37.994Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-20T01:31:37.994Z"
+    "FStringFlagRepoGitHashFastString": "bb1f643219a2da01abb7715ead6ec218f6642da2",
+    "DFStringFlagRepoGitHashDynamicString": "bb1f643219a2da01abb7715ead6ec218f6642da2",
+    "FStringFlipTimeStampFastString": "2026-02-20T17:04:44.274Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-20T17:04:44.274Z"
 }
