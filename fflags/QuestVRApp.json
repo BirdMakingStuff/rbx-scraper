@@ -15952,7 +15952,7 @@
     "DFFlagOverrideRaknetSocketTxBuffer": "True",
     "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": "True",
     "DFFlagVideoGamePreviewMissingMetricsFix": "True",
-    "FFlagUseNewHurtOverlayImage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-20T19:51:30",
+    "FFlagUseNewHurtOverlayImage": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16999,7 +16999,7 @@
     "FFlagSimCSGLargeAssetSolidMesh17": "True",
     "FFlagMigrateDeferredAssetsSubsysetem": "True",
     "EnableMOBAPP1501_1": "False",
-    "FFlagExperiencesOnProfile_v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;977254272;2026-02-20T20:00:02",
+    "FFlagExperiencesOnProfile_v2": "True",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -17081,8 +17081,8 @@
     "FIntSduiPageTimerEventHundredthsPercent": "10000",
     "FIntAndroidMaquettesUICanvasH": "720",
     "FIntAndroidMaquettesUICanvasW": "960",
-    "FStringFlagRepoGitHashFastString": "ed801b251815f04abd4d9201c2d33c5ed744c69a",
-    "DFStringFlagRepoGitHashDynamicString": "ed801b251815f04abd4d9201c2d33c5ed744c69a",
-    "FStringFlipTimeStampFastString": "2026-02-20T20:26:33.861Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-20T20:26:33.861Z"
+    "FStringFlagRepoGitHashFastString": "539f95265db2e5cebf1da7cdc2554b8db7039227",
+    "DFStringFlagRepoGitHashDynamicString": "539f95265db2e5cebf1da7cdc2554b8db7039227",
+    "FStringFlipTimeStampFastString": "2026-02-20T21:01:58.650Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-20T21:01:58.650Z"
 }
