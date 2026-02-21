@@ -15753,7 +15753,7 @@
     "FFlagBootcampCLI188460": "True",
     "FFlagAppChatFixChatDetailsStaleData": "True",
     "FFlagAppChatFixParticipantListDivider": "True",
-    "FFlagTranscoderOptionsRefactor": "True",
+    "FFlagTranscoderOptionsRefactor": "False",
     "FFlagLuaAppEventsListImpressionToEventError": "True",
     "FFlagAppChatTelemetryCounterAddSharedInfo": "True",
     "FFlagAppChatTelemetryCounterWithEmittedInfo": "True",
@@ -17081,8 +17081,8 @@
     "FIntSduiPageTimerEventHundredthsPercent": "10000",
     "FIntAndroidMaquettesUICanvasH": "720",
     "FIntAndroidMaquettesUICanvasW": "960",
-    "FStringFlagRepoGitHashFastString": "bff92eae4915d0043cc1b4a9b82877099700ac34",
-    "DFStringFlagRepoGitHashDynamicString": "bff92eae4915d0043cc1b4a9b82877099700ac34",
-    "FStringFlipTimeStampFastString": "2026-02-21T01:46:22.403Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-21T01:46:22.403Z"
+    "FStringFlagRepoGitHashFastString": "c568c62e4f96fa961187b3c05ab6f81082f334a0",
+    "DFStringFlagRepoGitHashDynamicString": "c568c62e4f96fa961187b3c05ab6f81082f334a0",
+    "FStringFlipTimeStampFastString": "2026-02-21T04:46:36.178Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-21T04:46:36.178Z"
 }
