@@ -15159,7 +15159,7 @@
     "DFFlagEnableRankProductsCache": "True",
     "DFFlagEnableHangInfoInST": "True",
     "FFlagDisableAddingHangInProgressToInferredTracker": "True",
-    "FFlagContentProviderRefactorCallbackToAssetResponse6": "True",
+    "FFlagContentProviderRefactorCallbackToAssetResponse6": "False",
     "FFlagAddTraversalHistoryReactMenuButtons": "True",
     "FFlagFriendsRenameModalUnboldText": "True",
     "FFlagUGCValidateCurveAnimTimeErrorMessageFix": "True",
@@ -17081,8 +17081,8 @@
     "FIntSduiPageTimerEventHundredthsPercent": "10000",
     "FIntAndroidMaquettesUICanvasH": "720",
     "FIntAndroidMaquettesUICanvasW": "960",
-    "FStringFlagRepoGitHashFastString": "539f95265db2e5cebf1da7cdc2554b8db7039227",
-    "DFStringFlagRepoGitHashDynamicString": "539f95265db2e5cebf1da7cdc2554b8db7039227",
-    "FStringFlipTimeStampFastString": "2026-02-20T21:01:58.650Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-20T21:01:58.650Z"
+    "FStringFlagRepoGitHashFastString": "bff92eae4915d0043cc1b4a9b82877099700ac34",
+    "DFStringFlagRepoGitHashDynamicString": "bff92eae4915d0043cc1b4a9b82877099700ac34",
+    "FStringFlipTimeStampFastString": "2026-02-21T01:46:22.403Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-21T01:46:22.403Z"
 }
