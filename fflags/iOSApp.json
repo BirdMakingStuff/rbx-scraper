@@ -16039,10 +16039,13 @@
     "FFlagReportTypeBandwidthStatsInterval": "False",
     "FFlagProfileTelemetryUseEventCollector3": "True",
     "FFlagAXFixWidgetOnlyTabNoItemsFound": "True",
-    "DFFlagRemovedClumpsSkipTreeTraversal": "True",
+    "DFFlagRemovedClumpsSkipTreeTraversal": "False",
     "FFlagSBT4896NudgingWithNumpad": "True",
     "FFlagImmutableJoinDictionariesUseTableClone": "True",
     "DFFlagConfigServiceGetConfigAsyncTriggersExpLoad": "True",
+    "FFlagLcFmdIgnoreEditableBodyPart_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-25T17:16:19",
+    "FFlagProfileFixMenuNavigation_V2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-25T17:20:06",
+    "FFlagUserListUseActionAddTranslation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-25T17:22:23",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17091,8 +17094,9 @@
     "FFlagEnableEdpStoreGridPositionLogging": "True",
     "FFlagAXAvatarLoadWithRetry": "True",
     "FFlagAppChatGlobalSwipeTracking": "True",
-    "FStringFlagRepoGitHashFastString": "b3cebf762d471804c19b9dd97c63be04514909d8",
-    "DFStringFlagRepoGitHashDynamicString": "b3cebf762d471804c19b9dd97c63be04514909d8",
-    "FStringFlipTimeStampFastString": "2026-02-25T01:41:35.588Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-25T01:41:35.588Z"
+    "FFlagFixScrollFrameHeightCalculation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-25T17:04:23",
+    "FStringFlagRepoGitHashFastString": "856374775e23ce34f1ca832e98e679f2381ba00c",
+    "DFStringFlagRepoGitHashDynamicString": "856374775e23ce34f1ca832e98e679f2381ba00c",
+    "FStringFlipTimeStampFastString": "2026-02-25T17:24:20.231Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-25T17:24:20.231Z"
 }
