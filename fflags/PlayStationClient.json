@@ -16452,8 +16452,9 @@
     "FFlagPSHandlePSNSignOut1": "True",
     "FFlagFastClusterUseRootSpacePoseCalculation2": "True",
     "FFlagTextChatDroppedMessagesCounter": "True",
-    "FStringFlagRepoGitHashFastString": "1aa679afbfd41d55a941f3541ec66b2c85f1b04e",
-    "DFStringFlagRepoGitHashDynamicString": "1aa679afbfd41d55a941f3541ec66b2c85f1b04e",
-    "FStringFlipTimeStampFastString": "2026-02-27T20:51:28.834Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-27T20:51:28.834Z"
+    "FFlagTextChatDroppedMessagesCounter_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;915888568;2026-02-27T22:39:18",
+    "FStringFlagRepoGitHashFastString": "a11b0ac86463ebe30ab2f6ebf5a185c26f08ed9f",
+    "DFStringFlagRepoGitHashDynamicString": "a11b0ac86463ebe30ab2f6ebf5a185c26f08ed9f",
+    "FStringFlipTimeStampFastString": "2026-02-27T22:40:27.382Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-27T22:40:27.382Z"
 }
