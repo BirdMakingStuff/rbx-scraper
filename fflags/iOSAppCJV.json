@@ -16152,10 +16152,11 @@
     "FFlagEyebrowEyelashRequiresSpecialJoints": "True",
     "FFlagTM2GCFullOnAppShell_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-27T17:01:59",
     "AllowVideoPreRoll": "True",
-    "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
-    "CaptureQTStudioCountersEnabled": "True",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
+    "CaptureQTStudioCountersEnabled": "True",
+    "AxisAdornmentGrabSize": "12",
+    "DFFlagFixHeightmapThreadSafety_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-27T17:50:30",
     "DFFlagEnableRemoteProfiling": "True",
     "DFFlagGenerateMeshLOD_Fix1": "True",
     "DFFlagGoodbyeChoiceActiveProperty": "True",
@@ -17226,8 +17227,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "4476e73a3aae7abac6155c79342aa9e45c31c25b",
-    "DFStringFlagRepoGitHashDynamicString": "4476e73a3aae7abac6155c79342aa9e45c31c25b",
-    "FStringFlipTimeStampFastString": "2026-02-27T17:02:47.706Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-27T17:02:47.706Z"
+    "FStringFlagRepoGitHashFastString": "97e408d3d14144dab64391d718327822a66cd9d1",
+    "DFStringFlagRepoGitHashDynamicString": "97e408d3d14144dab64391d718327822a66cd9d1",
+    "FStringFlipTimeStampFastString": "2026-02-27T17:56:12.311Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-27T17:56:12.311Z"
 }
