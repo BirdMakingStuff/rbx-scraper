@@ -16159,7 +16159,6 @@
     "FFlagRemoveAcountInfoFetchFromPurchase": "True",
     "FFlagHumanoidAssetSwapperRemoveAssetCrashFix": "True",
     "FFlagGameSettingsIsExperienceSettings": "True",
-    "DFFlagUseAssetsManifestManager_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-27T19:55:56",
     "FFlagStudioOnlyLoadEnglishLocOnce": "True",
     "FFlagFixTraversalBackPlaceName": "True",
     "FFlagTraversalHistoryMenuFocusNavFix709": "True",
@@ -16169,6 +16168,7 @@
     "FFlagUnifiedPurchasePassInProductInfoEDP": "True",
     "FFlagRemoveBytesUsedSinceLastSendResetInSendPacket": "True",
     "FFlagAXInventoryItemsListImpressionLogging": "True",
+    "DFFlagUseAssetsManifestManager": "False",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -17301,8 +17301,8 @@
     "FFlagVoiceCheckPeerConnectionState": "True",
     "FFlagPerformanceControlManageComputeEnabled8": "False",
     "FFlagAppChatPerfTracking1": "True",
-    "FStringFlagRepoGitHashFastString": "1aa679afbfd41d55a941f3541ec66b2c85f1b04e",
-    "DFStringFlagRepoGitHashDynamicString": "1aa679afbfd41d55a941f3541ec66b2c85f1b04e",
-    "FStringFlipTimeStampFastString": "2026-02-27T20:51:28.834Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-27T20:51:28.834Z"
+    "FStringFlagRepoGitHashFastString": "7319294a26d94a5b3a44b80c61efecd403456f49",
+    "DFStringFlagRepoGitHashDynamicString": "7319294a26d94a5b3a44b80c61efecd403456f49",
+    "FStringFlipTimeStampFastString": "2026-02-27T21:01:17.988Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-27T21:01:17.988Z"
 }
