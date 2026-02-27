@@ -16764,8 +16764,7 @@
     "FFlagReportMaxOfActiveAnimatorTracksByType": "True",
     "FFlagLuaAppFixComputedSideMarginResponsiveBreakpoint": "True",
     "FFlagLuaAppUserSearchGridReactiveContainer": "True",
-    "FFlagTextChatDroppedMessagesCounter": "True",
-    "FFlagTextChatDroppedMessagesCounter_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;915888568;2026-02-27T22:39:18",
+    "FFlagTextChatDroppedMessagesCounter": "False",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17302,8 +17301,8 @@
     "FFlagVoiceCheckPeerConnectionState": "True",
     "FFlagPerformanceControlManageComputeEnabled8": "False",
     "FFlagAppChatPerfTracking1": "True",
-    "FStringFlagRepoGitHashFastString": "a11b0ac86463ebe30ab2f6ebf5a185c26f08ed9f",
-    "DFStringFlagRepoGitHashDynamicString": "a11b0ac86463ebe30ab2f6ebf5a185c26f08ed9f",
-    "FStringFlipTimeStampFastString": "2026-02-27T22:40:27.382Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-27T22:40:27.382Z"
+    "FStringFlagRepoGitHashFastString": "1d4c526e61afca25c8289c4b11c5d8ed9e0c2b41",
+    "DFStringFlagRepoGitHashDynamicString": "1d4c526e61afca25c8289c4b11c5d8ed9e0c2b41",
+    "FStringFlipTimeStampFastString": "2026-02-27T23:41:41.734Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-27T23:41:41.734Z"
 }

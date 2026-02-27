@@ -17220,8 +17220,8 @@
     "FFlagEnableAuditForSinglePageSignUp4": "True",
     "DFFlagNewGfxParser": "True",
     "FFlagTelemetryForAndroidQrScanning": "True",
-    "FStringFlagRepoGitHashFastString": "a11b0ac86463ebe30ab2f6ebf5a185c26f08ed9f",
-    "DFStringFlagRepoGitHashDynamicString": "a11b0ac86463ebe30ab2f6ebf5a185c26f08ed9f",
-    "FStringFlipTimeStampFastString": "2026-02-27T22:40:27.382Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-27T22:40:27.382Z"
+    "FStringFlagRepoGitHashFastString": "1d4c526e61afca25c8289c4b11c5d8ed9e0c2b41",
+    "DFStringFlagRepoGitHashDynamicString": "1d4c526e61afca25c8289c4b11c5d8ed9e0c2b41",
+    "FStringFlipTimeStampFastString": "2026-02-27T23:41:41.734Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-27T23:41:41.734Z"
 }
