@@ -16163,8 +16163,8 @@
     "FFlagFixTraversalBackPlaceName": "True",
     "FFlagTraversalHistoryMenuFocusNavFix709": "True",
     "FFlagPrettyJsonAssistant": "True",
-    "DFIntReconcileCommunicationGlobalRateLimitMax": "50",
-    "DFIntReconcileCommunicationGlobalRateLimitMilliseconds": "10000",
+    "DFIntReconcileCommunicationGlobalRateLimitMax": "100",
+    "DFIntReconcileCommunicationGlobalRateLimitMilliseconds": "100",
     "FFlagUnifiedPurchasePassInProductInfoEDP": "True",
     "FFlagRemoveBytesUsedSinceLastSendResetInSendPacket": "True",
     "FFlagAXInventoryItemsListImpressionLogging": "True",
@@ -18829,8 +18829,8 @@
     "FFlagEnableFrustumAutomation": "True",
     "FFlagSimSolverSortConstraintByGuid": "True",
     "DFFlagSimSolverInitializeSolverEachFixedStep": "True",
-    "FStringFlagRepoGitHashFastString": "1d4c526e61afca25c8289c4b11c5d8ed9e0c2b41",
-    "DFStringFlagRepoGitHashDynamicString": "1d4c526e61afca25c8289c4b11c5d8ed9e0c2b41",
-    "FStringFlipTimeStampFastString": "2026-02-27T23:41:41.734Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-27T23:41:41.734Z"
+    "FStringFlagRepoGitHashFastString": "04dc231d248aa4357919f1a1ada381f48d575623",
+    "DFStringFlagRepoGitHashDynamicString": "04dc231d248aa4357919f1a1ada381f48d575623",
+    "FStringFlipTimeStampFastString": "2026-02-28T00:07:24.826Z",
+    "DFStringFlipTimeStampDynamicString": "2026-02-28T00:07:24.826Z"
 }
