@@ -16169,6 +16169,7 @@
     "FFlagRemoveBytesUsedSinceLastSendResetInSendPacket": "True",
     "FFlagAXInventoryItemsListImpressionLogging": "True",
     "DFFlagUseAssetsManifestManager": "False",
+    "FFlagISpatialEmitterRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-02T17:03:33",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -16452,8 +16453,8 @@
     "FFlagPSHandlePSNSignOut1": "True",
     "FFlagFastClusterUseRootSpacePoseCalculation2": "True",
     "FFlagTextChatDroppedMessagesCounter": "False",
-    "FStringFlagRepoGitHashFastString": "04dc231d248aa4357919f1a1ada381f48d575623",
-    "DFStringFlagRepoGitHashDynamicString": "04dc231d248aa4357919f1a1ada381f48d575623",
-    "FStringFlipTimeStampFastString": "2026-02-28T00:07:24.826Z",
-    "DFStringFlipTimeStampDynamicString": "2026-02-28T00:07:24.826Z"
+    "FStringFlagRepoGitHashFastString": "b2efd6430dc3dedcb7a2200ecb36ca9e17dfeffd",
+    "DFStringFlagRepoGitHashDynamicString": "b2efd6430dc3dedcb7a2200ecb36ca9e17dfeffd",
+    "FStringFlipTimeStampFastString": "2026-03-02T17:08:06.384Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-02T17:08:06.384Z"
 }
