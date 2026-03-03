@@ -80,6 +80,7 @@
     "enableImmersiveAdsSettingsTab": "true",
     "enableIphResponseTimeSorting": "true",
     "enableDeveloperSubscriptionsInRobux": "false",
+    "devSubsInRobuxAllowlist": "8551663282",
     "enableFirstPayoutWarning": "true",
     "enableGroupToGroupUniverseTransfers": "true",
     "enableAgeVerificationUpsellBanner": "true",
