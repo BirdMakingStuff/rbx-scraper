@@ -16256,6 +16256,15 @@
     "FFlagTelemetryDataReArchFixTimerJitterBug": "True",
     "FFlagVideoSessionTrackingOnInferredCrash": "True",
     "FFlagAssetExportIgnoreDynamicHeadRootRotation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-03T17:03:22",
+    "FFlagUserPSTextboxResetCameraInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-03T17:11:25",
+    "DFFlagCanGetGuidForObjectInVariantValueGetter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-03T17:32:51",
+    "FFlagLuauStacklessPcall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-03T17:36:02",
+    "FFlagAppChatAvatarPresenceIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;19492130;2026-03-03T17:44:45",
+    "FFlagAppChatEnableAvatarPresence3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;19492130;2026-03-03T17:44:45",
+    "FFlagAppChatTreatInExperienceAsOnline_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;19492130;2026-03-03T17:44:45",
+    "FFlagAdjustHorizontalUserListSizeForMobile_IXP": "1;Social.PYMK;Social.PYMK.UserListRedesign;743288637;flagbank",
+    "FFlagHomepagePYMKUseHorizontalUserList_V7_IXP": "1;Social.PYMK;Social.PYMK.UserListRedesign;743288637;flagbank",
+    "FFlagProfilePlatformUseCatalogItemOpenedNewFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-03T17:56:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -16534,8 +16543,8 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
-    "FStringFlagRepoGitHashFastString": "b255bf49ac7be257d000a83139d9a080405379c4",
-    "DFStringFlagRepoGitHashDynamicString": "b255bf49ac7be257d000a83139d9a080405379c4",
-    "FStringFlipTimeStampFastString": "2026-03-03T17:04:19.981Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-03T17:04:19.981Z"
+    "FStringFlagRepoGitHashFastString": "5e49d4caa38d31cd66c474be37a17bcad634b6c8",
+    "DFStringFlagRepoGitHashDynamicString": "5e49d4caa38d31cd66c474be37a17bcad634b6c8",
+    "FStringFlipTimeStampFastString": "2026-03-03T18:00:44.646Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-03T18:00:44.646Z"
 }
