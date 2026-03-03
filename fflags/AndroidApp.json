@@ -16255,6 +16255,7 @@
     "DFIntClientFSUploadFailureThrottleHundredthsPercent": "10000",
     "FFlagTelemetryDataReArchFixTimerJitterBug": "True",
     "FFlagVideoSessionTrackingOnInferredCrash": "True",
+    "FFlagAssetExportIgnoreDynamicHeadRootRotation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-03T17:03:22",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17315,8 +17316,8 @@
     "FFlagFmodAAudioReleaseRingAfterStreamClose": "True",
     "DFFlagEnableInExpChatRewrite3": "True",
     "FFlagEnableAdsLifecycleManager3": "True",
-    "FStringFlagRepoGitHashFastString": "7dcefa1e9566736e989e206bb8ee5058900c26be",
-    "DFStringFlagRepoGitHashDynamicString": "7dcefa1e9566736e989e206bb8ee5058900c26be",
-    "FStringFlipTimeStampFastString": "2026-03-03T01:41:19.610Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-03T01:41:19.610Z"
+    "FStringFlagRepoGitHashFastString": "b255bf49ac7be257d000a83139d9a080405379c4",
+    "DFStringFlagRepoGitHashDynamicString": "b255bf49ac7be257d000a83139d9a080405379c4",
+    "FStringFlipTimeStampFastString": "2026-03-03T17:04:19.981Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-03T17:04:19.981Z"
 }
