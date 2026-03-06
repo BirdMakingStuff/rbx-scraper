@@ -17584,8 +17584,8 @@
     "FFlagRbxTransportDummyClientEnableTimeSync": "True",
     "FFlagSimStepPhysicsSupportSelectiveAnimation": "True",
     "FFlagMemUsageSupportGDK": "True",
-    "FStringFlagRepoGitHashFastString": "553220122c1d7848459e64c2be103ae0c3a6712c",
-    "DFStringFlagRepoGitHashDynamicString": "553220122c1d7848459e64c2be103ae0c3a6712c",
-    "FStringFlipTimeStampFastString": "2026-03-06T01:46:59.535Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-06T01:46:59.535Z"
+    "FStringFlagRepoGitHashFastString": "afe4613b530316bf6fcc30cfc895c6bd34ca78ce",
+    "DFStringFlagRepoGitHashDynamicString": "afe4613b530316bf6fcc30cfc895c6bd34ca78ce",
+    "FStringFlipTimeStampFastString": "2026-03-06T17:04:41.252Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-06T17:04:41.252Z"
 }
