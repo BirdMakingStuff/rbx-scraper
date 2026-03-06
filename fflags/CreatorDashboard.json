@@ -1,4 +1,6 @@
 ﻿{
+    "enableServerDrivenTShirtUploadFee": "true",
+    "devForum2dUnificationPostUrl": "https://devforum.roblox.com/t/building-a-safer-marketplace-updates-to-2d-avatar-items-uploading-and-publishing-requirements/4474667",
     "removeItemTags": "true",
     "enableRecommendationService": "false",
     "enableBadgeReordering": "true",
@@ -80,7 +82,7 @@
     "enableImmersiveAdsSettingsTab": "true",
     "enableIphResponseTimeSorting": "true",
     "enableDeveloperSubscriptionsInRobux": "false",
-    "devSubsInRobuxAllowlist": "8551663282",
+    "devSubsInRobuxAllowlist": "8551663282;9051315510",
     "enableFirstPayoutWarning": "true",
     "enableGroupToGroupUniverseTransfers": "true",
     "enableAgeVerificationUpsellBanner": "true",
