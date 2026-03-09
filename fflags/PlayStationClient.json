@@ -16739,9 +16739,9 @@
     "DFIntCheckFixLuaTelemetryBoolTypesThrottleHundredthsPercentage": "500",
     "FFlagFixCreatorbug21352": "True",
     "FFlagRbxStorageSparsedFindAndRemoveOrphanedFiles": "True",
-    "FFlagMemUsageSupportGDK_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656554809;2026-03-09T16:27:03",
-    "FStringFlagRepoGitHashFastString": "2fa7babd2dcb749c402f1813acef24aa87d90f97",
-    "DFStringFlagRepoGitHashDynamicString": "2fa7babd2dcb749c402f1813acef24aa87d90f97",
-    "FStringFlipTimeStampFastString": "2026-03-09T17:19:08.673Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-09T17:19:08.673Z"
+    "FFlagMemUsageSupportGDK": "True",
+    "FStringFlagRepoGitHashFastString": "568fc4a4bde3b1d618bfc5587a88fb6116944e83",
+    "DFStringFlagRepoGitHashDynamicString": "568fc4a4bde3b1d618bfc5587a88fb6116944e83",
+    "FStringFlipTimeStampFastString": "2026-03-09T18:02:07.357Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-09T18:02:07.357Z"
 }
