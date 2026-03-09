@@ -105,5 +105,6 @@
     "serverManagementIncreaseRestartDelay": "true",
     "enableSignalRCrossTab": "true",
     "enableStarterPlaceEligibility": "true",
-    "enableBuildLandingPage": "true"
+    "enableBuildLandingPage": "true",
+    "serverManagementV2Whitelist": "128443638;9264603460;7862054375"
 }
