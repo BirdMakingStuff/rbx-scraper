@@ -15801,7 +15801,6 @@
     "FFlagEnablePlayerViewRemoteEventUserIdValidation2": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP120": "True",
     "DFFlagInsertServiceValidateInstancePermissionsEnforce": "True",
-    "FFlagFoundationPopoverConditionalRender_IXP": "1;Portal.FoundationPopoverConditionalRender-1771363426;FoundationPopoverConditionalRender;1105208471;flagbank",
     "FFlagLuaAppEnableHardwareSafeAreaInset3": "True",
     "FFlagLuaAppSupportDeviceSafeInsets": "True",
     "FFlagAudioEngineLimitAudibilityDepth": "True",
@@ -17532,8 +17531,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "DFStringFlagRepoGitHashDynamicString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "FStringFlipTimeStampFastString": "2026-03-07T01:56:21.796Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-07T01:56:21.796Z"
+    "FStringFlagRepoGitHashFastString": "31b9c7df1e558dd8d313f77db32ad6680a9c7471",
+    "DFStringFlagRepoGitHashDynamicString": "31b9c7df1e558dd8d313f77db32ad6680a9c7471",
+    "FStringFlipTimeStampFastString": "2026-03-09T17:24:21.453Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-09T17:24:21.453Z"
 }

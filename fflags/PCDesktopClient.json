@@ -15801,7 +15801,6 @@
     "FFlagEnablePlayerViewRemoteEventUserIdValidation2": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP120": "True",
     "DFFlagInsertServiceValidateInstancePermissionsEnforce": "True",
-    "FFlagFoundationPopoverConditionalRender_IXP": "1;Portal.FoundationPopoverConditionalRender-1771363426;FoundationPopoverConditionalRender;1105208471;flagbank",
     "FFlagLuaAppEnableHardwareSafeAreaInset3": "True",
     "FFlagLuaAppSupportDeviceSafeInsets": "True",
     "FFlagAudioEngineLimitAudibilityDepth": "True",
@@ -16324,7 +16323,7 @@
     "FFlagGrantPermissionToDependencyAfterResolving": "True",
     "FStringGraphicsVulkanShaderMTDenyPattern": "4112:5776728|4112:6070602|4112:6133110|4112:6133109|1010:5776728|1010:6070602|1010:6133110|1010:6133109",
     "DFFlagFixTrailCFrame": "True",
-    "DFFlagUpdateCheckCacheEnabled2": "True",
+    "DFFlagUpdateCheckCacheEnabled2": "False",
     "DFFlagHttpFixLastModified": "True",
     "DFLogFlagCache": "Debug",
     "FFlagIEAutoSetupRequireBodyWithRigidAccessory": "True",
@@ -17051,6 +17050,7 @@
     "FFlagImproveImprecisionInStylingUpdateDurations": "True",
     "FFlagQueueVideoServiceClientUpdates3": "True",
     "FFlagEnablePartyVoiceMemoryPhaseTelemetry": "True",
+    "DFFlagVisBugFixVR2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-09T17:12:04",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17594,8 +17594,9 @@
     "DFFlagWorkspaceUseRbxTransportPeerMonotonicClockDryRun": "True",
     "FFlagRbxTransportDummyClientEnableTimeSync": "True",
     "FFlagMemUsageSupportGDK": "True",
-    "FStringFlagRepoGitHashFastString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "DFStringFlagRepoGitHashDynamicString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "FStringFlipTimeStampFastString": "2026-03-07T01:56:21.796Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-07T01:56:21.796Z"
+    "FIntCrash147727ReportPerMyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1592841187;2026-03-09T16:33:30",
+    "FStringFlagRepoGitHashFastString": "2fa7babd2dcb749c402f1813acef24aa87d90f97",
+    "DFStringFlagRepoGitHashDynamicString": "2fa7babd2dcb749c402f1813acef24aa87d90f97",
+    "FStringFlipTimeStampFastString": "2026-03-09T17:19:08.673Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-09T17:19:08.673Z"
 }

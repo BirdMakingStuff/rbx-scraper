@@ -15801,7 +15801,6 @@
     "FFlagEnablePlayerViewRemoteEventUserIdValidation2": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP120": "True",
     "DFFlagInsertServiceValidateInstancePermissionsEnforce": "True",
-    "FFlagFoundationPopoverConditionalRender_IXP": "1;Portal.FoundationPopoverConditionalRender-1771363426;FoundationPopoverConditionalRender;1105208471;flagbank",
     "FFlagLuaAppEnableHardwareSafeAreaInset3": "True",
     "FFlagLuaAppSupportDeviceSafeInsets": "True",
     "FFlagAudioEngineLimitAudibilityDepth": "True",
@@ -17518,8 +17517,12 @@
     "DFFlagWorkspaceUseRbxTransportPeerMonotonicClockDryRun": "True",
     "FFlagRbxTransportDummyClientEnableTimeSync": "True",
     "DFFlagRbxTransportConnReuseFix": "True",
-    "FStringFlagRepoGitHashFastString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "DFStringFlagRepoGitHashDynamicString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "FStringFlipTimeStampFastString": "2026-03-07T01:56:21.796Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-07T01:56:21.796Z"
+    "FFlagMemUsageSupportGDK_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656554809;2026-03-09T16:27:03",
+    "FFlagAnimationSupportSA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-09T16:39:05",
+    "FFlagAnimationSAErrorMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-09T16:43:59",
+    "DFFlagUpdateCheckCacheUseAppStorage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-09T17:22:15",
+    "FStringFlagRepoGitHashFastString": "31b9c7df1e558dd8d313f77db32ad6680a9c7471",
+    "DFStringFlagRepoGitHashDynamicString": "31b9c7df1e558dd8d313f77db32ad6680a9c7471",
+    "FStringFlipTimeStampFastString": "2026-03-09T17:24:21.453Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-09T17:24:21.453Z"
 }

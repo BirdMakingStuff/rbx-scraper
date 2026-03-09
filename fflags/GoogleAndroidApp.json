@@ -15801,7 +15801,6 @@
     "FFlagEnablePlayerViewRemoteEventUserIdValidation2": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP120": "True",
     "DFFlagInsertServiceValidateInstancePermissionsEnforce": "True",
-    "FFlagFoundationPopoverConditionalRender_IXP": "1;Portal.FoundationPopoverConditionalRender-1771363426;FoundationPopoverConditionalRender;1105208471;flagbank",
     "FFlagLuaAppEnableHardwareSafeAreaInset3": "True",
     "FFlagLuaAppSupportDeviceSafeInsets": "True",
     "FFlagAudioEngineLimitAudibilityDepth": "True",
@@ -17797,8 +17796,8 @@
     "FFlagLuaAppCheckboxFeedbackFormTitleTextWrapping": "True",
     "FFlagLuaAppFixVideoFramerateThrottlePolicy3": "True",
     "FFlagLuaAppVideoPreviewSmoothTransition": "True",
-    "FStringFlagRepoGitHashFastString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "DFStringFlagRepoGitHashDynamicString": "2cd9386627b8f932d8119df0fadab3fd2be9f8d7",
-    "FStringFlipTimeStampFastString": "2026-03-07T01:56:21.796Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-07T01:56:21.796Z"
+    "FStringFlagRepoGitHashFastString": "2fa7babd2dcb749c402f1813acef24aa87d90f97",
+    "DFStringFlagRepoGitHashDynamicString": "2fa7babd2dcb749c402f1813acef24aa87d90f97",
+    "FStringFlipTimeStampFastString": "2026-03-09T17:19:08.673Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-09T17:19:08.673Z"
 }

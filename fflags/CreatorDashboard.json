@@ -1,4 +1,5 @@
 ﻿{
+    "enableTaxonomyInConfigurePage": "true",
     "enableServerDrivenTShirtUploadFee": "true",
     "devForum2dUnificationPostUrl": "https://devforum.roblox.com/t/building-a-safer-marketplace-updates-to-2d-avatar-items-uploading-and-publishing-requirements/4474667",
     "removeItemTags": "true",
@@ -103,5 +104,6 @@
     "enableIpLicensingChangeRequests": "true",
     "serverManagementIncreaseRestartDelay": "true",
     "enableSignalRCrossTab": "true",
-    "enableStarterPlaceEligibility": "true"
+    "enableStarterPlaceEligibility": "true",
+    "enableBuildLandingPage": "true"
 }
