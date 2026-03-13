@@ -16653,6 +16653,10 @@
     "FFlagEnableGDKStorePurchase": "True",
     "FFlagLuauACOnMTTWriteOnlyPropNoCrash": "True",
     "FFlagQtNoStringInvokeMethod": "True",
+    "DFIntRM3Tier0MonitoringClientDisabledHundredthsPercent_IXP": "1;Portal.RM3Tier0MonitoringExperiment-03-13-2026-1773416707;RM3Tier0MonitoringExperiment-03-13-2026;2110049027;flagbank",
+    "DFFlagSimPredictOnlyRootPrimitives_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-13T16:10:55",
+    "DFFlagOCFixClipPolyPrecisionError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-13T16:21:43",
+    "DFFlagSimEnableMaxPhysicsSteppedInstructions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-13T16:45:18",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17668,7 +17672,7 @@
     "FStringMaxCloudAssetDimensionByRam": "3584,1024",
     "FFlagEnableTM2DenyList2": "True",
     "FFlagEnableNotificationsFixDuplicateEvents": "True",
-    "FFlagSkinnedMeshWriteToDisk6": "True",
+    "FFlagSkinnedMeshWriteToDisk6": "False",
     "FFlagEnableAndroidGooglePaymentsProtocolV2_IXP": "1;ConsumerPlatforms.PaymentsProtocol;ConsumerPlatforms.PaymentsProtocolAndroidGoogleTest;871412684;flagbank",
     "FFlagEnablePushHandlerWorker": "True",
     "FFlagEnableKotlinPushService": "True",
@@ -17702,8 +17706,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "e5644c949c2f0b31014e5b83650251f57235ca23",
-    "DFStringFlagRepoGitHashDynamicString": "e5644c949c2f0b31014e5b83650251f57235ca23",
-    "FStringFlipTimeStampFastString": "2026-03-13T00:46:25.674Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-13T00:46:25.674Z"
+    "FStringFlagRepoGitHashFastString": "b5c0d87ef9db35d01f135a7ade36c8177e0c9b0e",
+    "DFStringFlagRepoGitHashDynamicString": "b5c0d87ef9db35d01f135a7ade36c8177e0c9b0e",
+    "FStringFlipTimeStampFastString": "2026-03-13T17:02:12.430Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-13T17:02:12.430Z"
 }
