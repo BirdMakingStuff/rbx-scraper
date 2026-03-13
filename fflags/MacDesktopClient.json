@@ -17243,6 +17243,8 @@
     "DFIntTestHttp3ReqsHundredthsPercent": "100",
     "DFStringTestHttp3ReqsUrl": "https://fts.rbxcdn.com/sc0/test-50kb.png",
     "DFFlagDomainAllowListPassNonHttpSchemes": "True",
+    "FFlagEnableDomainAllowListChecker2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1142465957;2026-03-13T23:23:21",
+    "FFlagEnableDomainAllowListChecker2_UniverseFilter": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17762,8 +17764,8 @@
     "DFIntPlayerApiUsageTelemetryHundredthsPercent": "1",
     "DFIntGroupsApiUsageTelemetryHundredthsPercent": "1",
     "DFIntPlayersApiUsageTelemetryHundredthsPercent": "1",
-    "FStringFlagRepoGitHashFastString": "bca6e85a8d84aa845202bb0235c8d7ca86a4c66e",
-    "DFStringFlagRepoGitHashDynamicString": "bca6e85a8d84aa845202bb0235c8d7ca86a4c66e",
-    "FStringFlipTimeStampFastString": "2026-03-13T22:36:16.720Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-13T22:36:16.720Z"
+    "FStringFlagRepoGitHashFastString": "7f6e81be8d5f814d52c20616b93ef3081da918a9",
+    "DFStringFlagRepoGitHashDynamicString": "7f6e81be8d5f814d52c20616b93ef3081da918a9",
+    "FStringFlipTimeStampFastString": "2026-03-13T23:26:08.906Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-13T23:26:08.906Z"
 }
