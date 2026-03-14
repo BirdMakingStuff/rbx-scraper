@@ -19380,7 +19380,7 @@
     "FFlagFlagBonePartitionRelaxBackCompat": "True",
     "DFIntReplicateAnimationCollectionRate": "100",
     "DFIntReplicateStreamAnimationCollectionRate": "100",
-    "DFFlagTestHttp3Reqs": "True",
+    "DFFlagTestHttp3Reqs": "False",
     "DFIntTestHttp3ReqsHundredthsPercent": "100",
     "DFStringTestHttp3ReqsUrl": "https://fts.rbxcdn.com/sc0/test-50kb.png",
     "DFFlagDomainAllowListPassNonHttpSchemes": "True",
@@ -19431,8 +19431,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "7f6e81be8d5f814d52c20616b93ef3081da918a9",
-    "DFStringFlagRepoGitHashDynamicString": "7f6e81be8d5f814d52c20616b93ef3081da918a9",
-    "FStringFlipTimeStampFastString": "2026-03-13T23:26:08.906Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-13T23:26:08.906Z"
+    "FStringFlagRepoGitHashFastString": "190556d76679055a828a128ac737e1d7de32120b",
+    "DFStringFlagRepoGitHashDynamicString": "190556d76679055a828a128ac737e1d7de32120b",
+    "FStringFlipTimeStampFastString": "2026-03-14T01:21:32.951Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-14T01:21:32.951Z"
 }
