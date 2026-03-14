@@ -18869,6 +18869,7 @@
     "FFlagInstrumentWaitForInitialStreamingUpdate2": "True",
     "FFlagLuauTypeFunctionsCaptureNestedInstances": "True",
     "DFFlagAvatarJointUpgradeR15Plus": "True",
+    "FFlagLuauCodegenBufferRangeMerge3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;343307948;2026-03-14T16:32:46",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagVoiceChatStopSendingIceCandidate": "False",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -19397,8 +19398,8 @@
     "FFlagEnableFrustumAutomation": "True",
     "FFlagSimSolverSortConstraintByGuid": "True",
     "DFFlagSimSolverInitializeSolverEachFixedStep": "True",
-    "FStringFlagRepoGitHashFastString": "190556d76679055a828a128ac737e1d7de32120b",
-    "DFStringFlagRepoGitHashDynamicString": "190556d76679055a828a128ac737e1d7de32120b",
-    "FStringFlipTimeStampFastString": "2026-03-14T01:21:32.951Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-14T01:21:32.951Z"
+    "FStringFlagRepoGitHashFastString": "0d0be144dbbe09034c34beec038348526638aa28",
+    "DFStringFlagRepoGitHashDynamicString": "0d0be144dbbe09034c34beec038348526638aa28",
+    "FStringFlipTimeStampFastString": "2026-03-14T16:33:25.739Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-14T16:33:25.739Z"
 }
