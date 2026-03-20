@@ -296,7 +296,6 @@
     "FFlagIASExclusiveBindings": "True",
     "FFlagEnableDisplayLoggingForToastsFix": "True",
     "FFlagFixCreatorbug21352": "True",
-    "FFlagFlagRolloutTestStaticBool19": "True",
     "FFlagProfilePlatformEnableEditAppearanceMenu_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.EditAppearanceMenu;1550778259;dev_controlled",
     "FFlagExpChatClientRenderedEventFix": "True",
     "FFlagTelemetryFixRolloutUpdateTimestamp": "True",
@@ -313,8 +312,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "014e8c6fe848af05d4ee5d4c9353030490ffb491",
-    "DFStringFlagRepoGitHashDynamicString": "014e8c6fe848af05d4ee5d4c9353030490ffb491",
-    "FStringFlipTimeStampFastString": "2026-03-20T21:35:56.882Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-20T21:35:56.882Z"
+    "FStringFlagRepoGitHashFastString": "a13ff6cf13d2880ea523ae2133cb0d4e80623a8e",
+    "DFStringFlagRepoGitHashDynamicString": "a13ff6cf13d2880ea523ae2133cb0d4e80623a8e",
+    "FStringFlipTimeStampFastString": "2026-03-20T22:10:03.393Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-20T22:10:03.393Z"
 }
