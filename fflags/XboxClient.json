@@ -17270,8 +17270,8 @@
     "DFFlagTextChatTelemetryWithMessageIntent_PlaceFilter": "True;131365908152426",
     "DFStringDeprecateLegacyTelemetryCountersDenyList": "UserMouseIconGetAPICalled",
     "FFlagQRCodeCopyUpdates_v2": "True",
-    "FStringFlagRepoGitHashFastString": "176a2e35431932123a50e4350197292a43071034",
-    "DFStringFlagRepoGitHashDynamicString": "176a2e35431932123a50e4350197292a43071034",
-    "FStringFlipTimeStampFastString": "2026-03-20T23:11:22.189Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-20T23:11:22.189Z"
+    "FStringFlagRepoGitHashFastString": "d19ee03a0c9f2a878443f1f10f1fffca80b4455c",
+    "DFStringFlagRepoGitHashDynamicString": "d19ee03a0c9f2a878443f1f10f1fffca80b4455c",
+    "FStringFlipTimeStampFastString": "2026-03-20T23:15:31.648Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-20T23:15:31.648Z"
 }
