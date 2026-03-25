@@ -16979,6 +16979,9 @@
     "FFlagUnifiedPurchaseFixTitleFlash": "True",
     "DFIntStreamJobTimePercentHundredths": "3600",
     "FFlagEnableAccountSwitcherRedesignIXP": "True",
+    "DFFlagSharedStringCachingPacketReorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-25T20:01:47",
+    "FFlagEnableRemoveCurrentAccount3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-25T20:25:49",
+    "FFlagAddGenericIllegalReportingToTwoStepFlow2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-25T20:52:49",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -18091,8 +18094,8 @@
     "FFlagEnableUnMountDrawerOnClose1": "True",
     "FFlagRbxStorageFixStatsReporterNullCheck": "True",
     "FFlagReportIPInfringement_v2": "True",
-    "FFlagAXItemCardBadgeCheckText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-25T19:13:23",
     "FFlagFriendsPageAlwaysOpenPPV": "True",
+    "FFlagAXItemCardBadgeCheckText": "True",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -18121,8 +18124,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "da4a2f808d5ad23f016fdf5231b0e8a2091d4bbc",
-    "DFStringFlagRepoGitHashDynamicString": "da4a2f808d5ad23f016fdf5231b0e8a2091d4bbc",
-    "FStringFlipTimeStampFastString": "2026-03-25T19:56:20.194Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-25T19:56:20.194Z"
+    "FStringFlagRepoGitHashFastString": "f148ec313d63a56840d986c7f540209a81ae8352",
+    "DFStringFlagRepoGitHashDynamicString": "f148ec313d63a56840d986c7f540209a81ae8352",
+    "FStringFlipTimeStampFastString": "2026-03-25T20:53:29.311Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-25T20:53:29.311Z"
 }
