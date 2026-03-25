@@ -105,5 +105,11 @@
     "enableSignalRCrossTab": "true",
     "enableStarterPlaceEligibility": "true",
     "enableBuildLandingPage": "true",
-    "serverManagementV2Whitelist": "128443638;9264603460;7862054375;7866400042;3662592989;3527932171;7862052766;4780330891;7862047499;7862042526;10069585417;9067428095;7841037832;2312709972"
+    "serverManagementV2Whitelist": "9264603460;7862054375;7866400042;3662592989;3527932171;7862052766;4780330891;7862047499;7862042526;10069585417;9067428095;7841037832;2312709972",
+    "impactedExperiencesDevForumUrl": "https://devforum.roblox.com",
+    "impactedExperiencesAgeLearnMoreUrl": "https://en.help.roblox.com/hc/en-us/articles/39143693116052-Understanding-Age-Checks-on-Roblox",
+    "impactedExperiencesTrustedLearnMoreUrl": "https://en.help.roblox.com/hc/en-us/articles/37725513985812-Unlocking-Trusted-Connections-Expressive-Chat-Features-Party-Voice-chat-without-filters",
+    "impactedExperiencesMaxConsecutiveEmptyPages": "3",
+    "impactedExperiencesMaxUniverseIds": "100",
+    "serverManagementV2Enabled": "true"
 }
