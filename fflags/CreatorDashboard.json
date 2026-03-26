@@ -1,4 +1,6 @@
 ﻿{
+    "enableTaxonomyInPricingPage": "true",
+    "showTaxonomyAnnouncementBanner": "true",
     "enableTaxonomyInConfigurePage": "true",
     "enableServerDrivenTShirtUploadFee": "true",
     "devForum2dUnificationPostUrl": "https://devforum.roblox.com/t/building-a-safer-marketplace-updates-to-2d-avatar-items-uploading-and-publishing-requirements/4474667",
@@ -37,7 +39,7 @@
     "affiliateLinkGADataAllowlist": "559363765;1674380703;3447602475;4060711616;4215004983;5277540719;3501321855;4782571473;3624933695",
     "allowUpdatingBundleName": "true",
     "enablePlayerFeedback": "true",
-    "enableBodySuitPriceFloorChangedBanner": "true",
+    "enableBodySuitPriceFloorChangedBanner": "false",
     "enableCustomMatchmakingUI": "true",
     "bodySuitAnnouncementDevForumUrl": "https://devforum.roblox.com/t/bodysuits-now-have-a-price-floor/3600444",
     "enableGetItemsByCreator": "true",
