@@ -18105,7 +18105,7 @@
     "FFlagEnableKotlinPushReceivers": "True",
     "FFlagEnableNotificationChannelIdLogging": "True",
     "FFlagCLI174048E2": "False",
-    "BeginScheduledFlagFetch3": "True",
+    "BeginScheduledFlagFetch3": "False",
     "FFlagEnableJNIAppbridgeStartMilestone": "True",
     "FFlagSkipChannelBurnOnBackgroundStart": "True",
     "FFlagProfilePlatformAboutBeforeActionClient_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign-V5;495922441;dev_controlled",
@@ -18121,8 +18121,8 @@
     "DFFlagPlayersApiUsageTelemetryEnabled": "True",
     "DFIntPlayersApiUsageTelemetryHundredthsPercent": "1",
     "FFlagEnableObserveThemeAfterViewCreated": "True",
-    "FStringFlagRepoGitHashFastString": "b43f47da91140b8d99ef99ee469939504465165e",
-    "DFStringFlagRepoGitHashDynamicString": "b43f47da91140b8d99ef99ee469939504465165e",
-    "FStringFlipTimeStampFastString": "2026-03-28T01:21:37.423Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-28T01:21:37.423Z"
+    "FStringFlagRepoGitHashFastString": "9f10f90b79391671c869003972b4f4acd8039d38",
+    "DFStringFlagRepoGitHashDynamicString": "9f10f90b79391671c869003972b4f4acd8039d38",
+    "FStringFlipTimeStampFastString": "2026-03-28T20:55:45.417Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-28T20:55:45.417Z"
 }
