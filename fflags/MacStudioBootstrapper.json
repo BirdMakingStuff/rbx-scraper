@@ -308,8 +308,7 @@
     "FFlagEnableDevSubsInRobux10": "True",
     "FFlagEnableUnifiedPurchaseFlowForDevSubs10": "True",
     "FFlagEnableDevSubscriptionProductInfoRequestOrchestrator": "True",
-    "FFlagMacInstallerReportStatusFileTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-31T20:58:59",
-    "FFlagMacInstallerRetryBlockingRequests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-31T21:00:28",
+    "FFlagMacInstallerReportStatusFileTelemetry": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -322,8 +321,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "3e63b97e12a297f24621dababb34436e2e4e0a87",
-    "DFStringFlagRepoGitHashDynamicString": "3e63b97e12a297f24621dababb34436e2e4e0a87",
-    "FStringFlipTimeStampFastString": "2026-03-31T21:57:28.364Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-31T21:57:28.364Z"
+    "FStringFlagRepoGitHashFastString": "b891d5f677b254a405fa0a296f3a595056b851c1",
+    "DFStringFlagRepoGitHashDynamicString": "b891d5f677b254a405fa0a296f3a595056b851c1",
+    "FStringFlipTimeStampFastString": "2026-03-31T22:56:27.803Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-31T22:56:27.803Z"
 }
