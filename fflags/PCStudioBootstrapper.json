@@ -305,9 +305,11 @@
     "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkipLua_UniverseFilter": "True;7320786935;5462125553;2629198180;92096286;4165164803;7326934954;7709344486;383310974;6701277882;601130232;1686885941;6035872082;7436755782;9363735110;6048095214",
     "DFFlagWebParserEncodeInvalidJsonInfNanLua_UniverseFilter": "True;7320786935;5462125553;2629198180;92096286;4165164803;7326934954;7709344486;383310974;6701277882;601130232;1686885941;6035872082;7436755782;9363735110;6048095214",
     "FFlagMacInstallerRetryBlockingRequests": "True",
-    "FFlagEnableUnifiedPurchaseFlowForDevSubs10_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1697342571;2026-03-31T18:33:15",
-    "FFlagEnableDevSubscriptionProductInfoRequestOrchestrator_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;36557573;2026-03-31T18:39:54",
     "FFlagEnableDevSubsInRobux10": "True",
+    "FFlagEnableUnifiedPurchaseFlowForDevSubs10": "True",
+    "FFlagEnableDevSubscriptionProductInfoRequestOrchestrator": "True",
+    "FFlagMacInstallerReportStatusFileTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-31T20:58:59",
+    "FFlagMacInstallerRetryBlockingRequests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-31T21:00:28",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -320,8 +322,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "e637b79cc97ba129e2b6d9b9f3481f5f319244ab",
-    "DFStringFlagRepoGitHashDynamicString": "e637b79cc97ba129e2b6d9b9f3481f5f319244ab",
-    "FStringFlipTimeStampFastString": "2026-03-31T19:31:20.458Z",
-    "DFStringFlipTimeStampDynamicString": "2026-03-31T19:31:20.458Z"
+    "FStringFlagRepoGitHashFastString": "e93d93a2e7464134d482d082658252bec4e6a591",
+    "DFStringFlagRepoGitHashDynamicString": "e93d93a2e7464134d482d082658252bec4e6a591",
+    "FStringFlipTimeStampFastString": "2026-03-31T21:00:29.330Z",
+    "DFStringFlipTimeStampDynamicString": "2026-03-31T21:00:29.330Z"
 }
