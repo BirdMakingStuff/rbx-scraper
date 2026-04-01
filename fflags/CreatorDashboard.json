@@ -83,7 +83,7 @@
     "enableIpLicensingCreatorLifetimeVisits": "true",
     "updateIpPlatformGuidelineAndRestrictions": "true",
     "enableIphResponseTimeSorting": "true",
-    "enableDeveloperSubscriptionsInRobux": "false",
+    "enableDeveloperSubscriptionsInRobux": "true",
     "devSubsInRobuxAllowlist": "8551663282;9051315510;3572294970;10337747170;66662571;6206004188;7874423423;9714113329;3540328466;7438501171;6173877859;10337807739;1611441591",
     "enableFirstPayoutWarning": "true",
     "enableGroupToGroupUniverseTransfers": "true",
@@ -100,7 +100,7 @@
     "rentablesPostLaunchLearnMoreUrl": "https://devforum.roblox.com/t/testing-time-based-avatar-items-in-february/4275399",
     "enableRentablesBulkUpdateButton": "true",
     "enableRentablesPostLaunchBanner": "true",
-    "questionnaireV2Allowlist": "1488021724;2782665551;3574864734;4228134836;7841036295;2060303644;94091314;9342945980;2722763883;4903090547;10337861048;10723035140;10723035787;10735953801",
+    "questionnaireV2Allowlist": "1488021724;2782665551;3574864734;4228134836;7841036295;2060303644;94091314;9342945980;2722763883;4903090547;10337861048;10723035140;10723035787;10735953801;3983517384;2200000037",
     "enableSecureTeleports": "true",
     "enableIpLicensingChangeRequests": "true",
     "serverManagementIncreaseRestartDelay": "true",
@@ -113,5 +113,6 @@
     "impactedExperiencesTrustedLearnMoreUrl": "https://en.help.roblox.com/hc/en-us/articles/37725513985812-Unlocking-Trusted-Connections-Expressive-Chat-Features-Party-Voice-chat-without-filters",
     "impactedExperiencesMaxConsecutiveEmptyPages": "3",
     "impactedExperiencesMaxUniverseIds": "100",
-    "serverManagementV2Enabled": "true"
+    "serverManagementV2Enabled": "true",
+    "impactedExperiencesOwnerView": "false"
 }
