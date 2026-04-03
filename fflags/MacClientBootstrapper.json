@@ -330,8 +330,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "a14500253344aa7d4c9d77f56e779f98ef85b21b",
-    "DFStringFlagRepoGitHashDynamicString": "a14500253344aa7d4c9d77f56e779f98ef85b21b",
-    "FStringFlipTimeStampFastString": "2026-04-03T22:41:54.845Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-03T22:41:54.845Z"
+    "FStringFlagRepoGitHashFastString": "88303cea61c165c305c8c042edbbbd262d1d1eec",
+    "DFStringFlagRepoGitHashDynamicString": "88303cea61c165c305c8c042edbbbd262d1d1eec",
+    "FStringFlipTimeStampFastString": "2026-04-03T23:35:13.012Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-03T23:35:13.012Z"
 }
