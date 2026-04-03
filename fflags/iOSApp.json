@@ -17375,6 +17375,7 @@
     "DFFlagEnableComposeDecalCache": "True",
     "FFlagAXItemCardBadgeCheckText": "True",
     "FFlagADFRestPoseFix": "True",
+    "FFlagSimLazyConstraints2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-03T21:35:54",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -18461,8 +18462,8 @@
     "FFlagAXDurablesFooter2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.DurablesFooterExperiment2;183472155;dev_controlled",
     "FFlagAXDurablesFooterWithPermanent_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.DurablesFooterExperiment2;183472155;dev_controlled",
     "FFlagProfilePlatformEnableEditAppearanceAnalytics": "True",
-    "FStringFlagRepoGitHashFastString": "c07141dbb8f470143958634d63e4dfb402a27328",
-    "DFStringFlagRepoGitHashDynamicString": "c07141dbb8f470143958634d63e4dfb402a27328",
-    "FStringFlipTimeStampFastString": "2026-04-03T20:06:35.745Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-03T20:06:35.745Z"
+    "FStringFlagRepoGitHashFastString": "afde0d4b1b14d3ba140b90b10a10085620040ca1",
+    "DFStringFlagRepoGitHashDynamicString": "afde0d4b1b14d3ba140b90b10a10085620040ca1",
+    "FStringFlipTimeStampFastString": "2026-04-03T21:35:56.130Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-03T21:35:56.130Z"
 }
