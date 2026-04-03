@@ -17334,8 +17334,8 @@
     "FFlagNonBlockingSoundAssetRelease": "True",
     "DFFlagAuroraInputSimplerBuffer": "True",
     "DFFlagServerAuthorityRollbackCheckIgnoreOld": "True",
-    "FFlagFixCheatHandlingServerReplicatorDataModelGet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;103257091;2026-04-02T23:20:58",
     "DFFlagRbxStorageFixBytesStats": "True",
+    "FFlagFixCheatHandlingServerReplicatorDataModelGet": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -18431,8 +18431,8 @@
     "DFFlagRbxTransportStatSampleRate": "True",
     "DFIntCEVLowMemoryWarningIgnoredTelemetryThrottleHundredthsPercent": "10000",
     "FFlagAESGetInventoryUseAvatarEndpoint2": "True",
-    "FStringFlagRepoGitHashFastString": "78f8caae45065090287eeb603be29e3ea57ab189",
-    "DFStringFlagRepoGitHashDynamicString": "78f8caae45065090287eeb603be29e3ea57ab189",
-    "FStringFlipTimeStampFastString": "2026-04-02T23:50:32.623Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-02T23:50:32.623Z"
+    "FStringFlagRepoGitHashFastString": "ef3c31bc7278240bbb4e873f75cc26b81baddb71",
+    "DFStringFlagRepoGitHashDynamicString": "ef3c31bc7278240bbb4e873f75cc26b81baddb71",
+    "FStringFlipTimeStampFastString": "2026-04-03T01:06:24.080Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-03T01:06:24.080Z"
 }
