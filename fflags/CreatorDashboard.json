@@ -1,6 +1,6 @@
 ﻿{
     "enableTaxonomyInPricingPage": "true",
-    "showTaxonomyAnnouncementBanner": "true",
+    "showTaxonomyAnnouncementBanner": "false",
     "enableTaxonomyInConfigurePage": "true",
     "enableServerDrivenTShirtUploadFee": "true",
     "devForum2dUnificationPostUrl": "https://devforum.roblox.com/t/building-a-safer-marketplace-updates-to-2d-avatar-items-uploading-and-publishing-requirements/4474667",
@@ -90,7 +90,7 @@
     "enableAgeVerificationUpsellBanner": "true",
     "ageVerificationUpsellBannerStartDate": "2025-12-03T00:00:00.000Z",
     "ageVerificationUpsellBannerHighPriorityDate": "2026-01-21T00:00:00.000Z",
-    "ageVerificationUpsellBannerEndDate": "2026-04-01T00:00:00.000Z",
+    "ageVerificationUpsellBannerEndDate": "2030-01-01T00:00:00.000Z",
     "ageVerificationUpsellGetStartedUrl": "https://www.roblox.com/my/account?creatorCollaboration",
     "ageVerificationUpsellViewDetailsUrl": "https://devforum.roblox.com/t/age-check-notifications-in-studio-and-creator-hub/4117693",
     "enableRewardedVideoAdTypeSettings": "true",

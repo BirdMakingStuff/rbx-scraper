@@ -17274,7 +17274,7 @@
     "FFlagTextureTranscoderPreviewLimitMaxThreads": "True",
     "DFIntRM3Tier0MonitoringClientDisabledHundredthsPercent_IXP": "1;Portal.RM3Tier0MonitoringExperiment-04-01-2026-1775077205;RM3Tier0MonitoringExperiment-04-01-2026;2110049027;flagbank",
     "FFlagHumanoidDescriptionNoCreateDangerous": "True",
-    "FFlagSimLazyConstraints2": "True",
+    "FFlagSimLazyConstraints2": "False",
     "DFFlagPassRbxTransportArgsToTestClients": "True",
     "DFFlagRbxTransportGetNetworkPing": "True",
     "FFlagRbxTransportIPv6DontFrag": "True",
@@ -17375,7 +17375,6 @@
     "DFFlagEnableComposeDecalCache": "True",
     "FFlagAXItemCardBadgeCheckText": "True",
     "FFlagADFRestPoseFix": "True",
-    "FFlagSimLazyConstraints2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-03T21:35:54",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -18467,8 +18466,8 @@
     "DFFlagRbxTransportStatSampleRate": "True",
     "DFIntCEVLowMemoryWarningIgnoredTelemetryThrottleHundredthsPercent": "10000",
     "FFlagAESGetInventoryUseAvatarEndpoint2": "True",
-    "FStringFlagRepoGitHashFastString": "afde0d4b1b14d3ba140b90b10a10085620040ca1",
-    "DFStringFlagRepoGitHashDynamicString": "afde0d4b1b14d3ba140b90b10a10085620040ca1",
-    "FStringFlipTimeStampFastString": "2026-04-03T21:35:56.130Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-03T21:35:56.130Z"
+    "FStringFlagRepoGitHashFastString": "a14500253344aa7d4c9d77f56e779f98ef85b21b",
+    "DFStringFlagRepoGitHashDynamicString": "a14500253344aa7d4c9d77f56e779f98ef85b21b",
+    "FStringFlipTimeStampFastString": "2026-04-03T22:41:54.845Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-03T22:41:54.845Z"
 }
