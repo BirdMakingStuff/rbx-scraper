@@ -17290,7 +17290,7 @@
     "FFlagPlayerListTopStatCheckGamepad": "True",
     "DFIntMinimalSimRadiusBuffer": "32",
     "DFFlagAddSystemThemeToPowerTrace": "True",
-    "FIntUGCLCCagingRelevancyMinimum": "40",
+    "FIntUGCLCCagingRelevancyMinimum": "10",
     "FFlagTerrainOneTouch713": "True",
     "FFlagNewMultiPseudoInstances6": "True",
     "FFlagLuaAppUseDeviceSafeInsetsForAppContainer3": "False",
@@ -17375,7 +17375,6 @@
     "DFFlagEnableComposeDecalCache": "True",
     "FFlagAXItemCardBadgeCheckText": "True",
     "FFlagADFRestPoseFix": "True",
-    "FIntUGCLCCagingRelevancyMinimum_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1259870830;2026-04-03T23:35:11",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -19690,6 +19689,7 @@
     "FFlagSTUDIOPLAT40522OTAHotReload2": "True",
     "FFlagDebugHotReloadTelemetry": "True",
     "FFlagStudioFixPluginDebuggingRaceCondition": "True",
+    "FFlagFixMakeupCharacterAppearanceLoaded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;953467141;2026-04-04T02:45:40",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -20224,8 +20224,8 @@
     "DFFlagPrebuiltBatchedStatSampleRate": "True",
     "DFFlagRbxTransportStatSampleRate": "True",
     "FFlagUserPSSpecifySimulationFrequency": "True",
-    "FStringFlagRepoGitHashFastString": "88303cea61c165c305c8c042edbbbd262d1d1eec",
-    "DFStringFlagRepoGitHashDynamicString": "88303cea61c165c305c8c042edbbbd262d1d1eec",
-    "FStringFlipTimeStampFastString": "2026-04-03T23:35:13.012Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-03T23:35:13.012Z"
+    "FStringFlagRepoGitHashFastString": "d4e6f31048a5ad038cd6b92f0e063d83f49685ad",
+    "DFStringFlagRepoGitHashDynamicString": "d4e6f31048a5ad038cd6b92f0e063d83f49685ad",
+    "FStringFlipTimeStampFastString": "2026-04-04T02:45:41.379Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-04T02:45:41.379Z"
 }
