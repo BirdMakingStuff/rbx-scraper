@@ -1,4 +1,5 @@
 ﻿{
+    "enableReducedMarketplaceVisibilityBanner": "true",
     "enableTaxonomyInPricingPage": "true",
     "showTaxonomyAnnouncementBanner": "false",
     "enableTaxonomyInConfigurePage": "true",
