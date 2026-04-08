@@ -115,5 +115,6 @@
     "impactedExperiencesMaxConsecutiveEmptyPages": "6",
     "impactedExperiencesMaxUniverseIds": "100",
     "serverManagementV2Enabled": "true",
-    "impactedExperiencesOwnerView": "false"
+    "impactedExperiencesOwnerView": "false",
+    "enableCoreContentStatusTooltipFooter": "true"
 }
