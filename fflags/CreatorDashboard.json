@@ -117,5 +117,6 @@
     "serverManagementV2Enabled": "true",
     "impactedExperiencesOwnerView": "false",
     "enableCoreContentStatusTooltipFooter": "true",
-    "enableIpPlatformManualMatchRequests": "true"
+    "enableIpPlatformManualMatchRequests": "true",
+    "publishEligibilityDevForumUrl": "https://devforum.roblox.com/"
 }
