@@ -17572,7 +17572,7 @@
     "FFlagLuaAppSupportPrimaryMediaContentMetadata": "True",
     "FFlagSpecifyNetworkReplicatorScope": "True",
     "FFlagDataStoreEnableSetRateLimitForRequestType": "True",
-    "DFFlagMotor6DC0C1WriteTelemetry": "True",
+    "DFFlagMotor6DC0C1WriteTelemetry": "False",
     "FFlagDataStoreLoadUniverseIdOnInitialization": "True",
     "FFlagBlackbirdEnableSubscriptionPurchaseSetCallback2": "True",
     "FFlagLuauConst2": "True",
@@ -17673,7 +17673,7 @@
     "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage_DataCenterFilter": "10000;26032;26033;26034;26035;26036;26037;26048;26049;26050;26051;26052;26053;26059;26060;26061;26062;26063;26064",
     "FFlagRCCInstanceTrackingPerfCounters3_DataCenterFilter": "True;26059;26060;26061;26062;26063;26064;26048;26049;26050;26051;26052;26053;26032;26033;26034;26035;26036;26037",
     "FStringSessionL2AlgoCheckValue_IXP": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank",
-    "FFlagSAuthWorkspaceFlagged4": "True",
+    "FFlagSAuthWorkspaceFlagged4": "False",
     "FFlagConnectionManagementChips_V3": "True",
     "FFlagTCPolicyCheckRedirect": "True",
     "DFFlagTreatMaxJoinDataSizeAsInteger": "True",
@@ -19028,8 +19028,8 @@
     "FFlagEnableEDPTTIManagerColdWarmDetection": "True",
     "FFlagAXCheckForNilInSelectorMakeupItemsList": "True",
     "FFlagAXFixAvatarLooksSaveWithMakeupItems": "True",
-    "FStringFlagRepoGitHashFastString": "a5f25d28219b890f3c5a41ffe90f136dc13350a7",
-    "DFStringFlagRepoGitHashDynamicString": "a5f25d28219b890f3c5a41ffe90f136dc13350a7",
-    "FStringFlipTimeStampFastString": "2026-04-10T23:24:43.752Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-10T23:24:43.752Z"
+    "FStringFlagRepoGitHashFastString": "9ff3a4998023d7282aa3c895e8088165a620e4f7",
+    "DFStringFlagRepoGitHashDynamicString": "9ff3a4998023d7282aa3c895e8088165a620e4f7",
+    "FStringFlipTimeStampFastString": "2026-04-11T02:22:42.500Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-11T02:22:42.500Z"
 }
