@@ -311,6 +311,9 @@
     "FFlagMacInstallerReportStatusFileTelemetry": "True",
     "DFIntLoadAssetVersionTelemetryThrottleHundredthsPercent": "10000",
     "DFFlagLoadAssetVersionTelemetry": "True",
+    "FFlagMacStudioInstallerAuthCodeEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-13T22:34:49",
+    "FFlagMacInstallerContinuationTokenParse_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-13T22:37:23",
+    "FFlagMacPersonalizedInstallerEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-13T22:38:35",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -323,8 +326,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "82bd700426b9a2d88835f9695f59bb63ac120e8d",
-    "DFStringFlagRepoGitHashDynamicString": "82bd700426b9a2d88835f9695f59bb63ac120e8d",
-    "FStringFlipTimeStampFastString": "2026-04-13T22:08:18.693Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-13T22:08:18.693Z"
+    "FStringFlagRepoGitHashFastString": "21c156473db99ecb5a0f11a756081770c5bce978",
+    "DFStringFlagRepoGitHashDynamicString": "21c156473db99ecb5a0f11a756081770c5bce978",
+    "FStringFlipTimeStampFastString": "2026-04-13T23:07:36.413Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-13T23:07:36.413Z"
 }
