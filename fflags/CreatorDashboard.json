@@ -119,5 +119,6 @@
     "enableCoreContentStatusTooltipFooter": "true",
     "enableIpPlatformManualMatchRequests": "true",
     "publishEligibilityDevForumUrl": "https://devforum.roblox.com/new-publishing-requirements",
-    "coreContentStatusLabelLink": "true"
+    "coreContentStatusLabelLink": "true",
+    "enableCoreContentStatusLabelLink": "true"
 }
