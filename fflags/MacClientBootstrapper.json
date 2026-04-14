@@ -23,7 +23,7 @@
     "FFlagMacBootstrapperIgnore401": "True",
     "FIntInstallerFileTaskThreadCount": "3",
     "DFIntHttpResponseDefaultTimeoutMillis": "1800000",
-    "FFlagWindowsInstallerUseNativeHttp2": "False",
+    "FFlagWindowsInstallerUseNativeHttp2": "True",
     "FIntClientLaunchTimeoutMillisec": "20000",
     "FIntClientTermniateTimeoutMillisec": "10000",
     "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
@@ -315,7 +315,6 @@
     "FFlagMacPersonalizedInstallerEnabled3": "True",
     "FFlagMacStudioInstallerAuthCodeEnabled3": "True",
     "FFlagRbxTelemetryEnableHttpStats": "True",
-    "FFlagWindowsInstallerUseNativeHttp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-14T20:44:37",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -337,8 +336,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "80a35777f95be38abb133ee0e761a285a59c5137",
-    "DFStringFlagRepoGitHashDynamicString": "80a35777f95be38abb133ee0e761a285a59c5137",
-    "FStringFlipTimeStampFastString": "2026-04-14T21:04:39.143Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-14T21:04:39.143Z"
+    "FStringFlagRepoGitHashFastString": "1afbff15a7ed8d38ca845a5aaef081333cd18b4f",
+    "DFStringFlagRepoGitHashDynamicString": "1afbff15a7ed8d38ca845a5aaef081333cd18b4f",
+    "FStringFlipTimeStampFastString": "2026-04-14T22:07:10.673Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-14T22:07:10.673Z"
 }
