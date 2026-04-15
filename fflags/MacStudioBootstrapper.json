@@ -244,7 +244,7 @@
     "FFlagAXCatalogItemCardSelectedOverlayButtonLogging": "True",
     "FFlagEnableCEVLogsToEventIngest": "True",
     "DFIntCevVoiceLifecycleEventsThrottleHundrethsPercent": "10000",
-    "FFlagWinInstallerUseBITS2": "True",
+    "FFlagWinInstallerUseBITS2": "False",
     "FFlagCoreScriptsMigrateFromLegacyCSVLoc4": "True",
     "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
     "DFFlagRbxLogCatchExceptions": "True",
@@ -311,7 +311,6 @@
     "FFlagMacPersonalizedInstallerEnabled3": "True",
     "FFlagMacStudioInstallerAuthCodeEnabled3": "True",
     "FFlagRbxTelemetryEnableHttpStats": "True",
-    "FFlagWinInstallerUseBITS2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-15T21:30:36",
     "FFlagWinInsatllerForceUpdate": "True",
     "FFlagMacInstallerDownloadNewInstaller2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
@@ -326,8 +325,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "5d4f5bee50f8abe6e85b8b4dd361919eab820cf2",
-    "DFStringFlagRepoGitHashDynamicString": "5d4f5bee50f8abe6e85b8b4dd361919eab820cf2",
-    "FStringFlipTimeStampFastString": "2026-04-15T22:07:01.062Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-15T22:07:01.062Z"
+    "FStringFlagRepoGitHashFastString": "e37115752b68821bff4919a966704ae138e5bc5f",
+    "DFStringFlagRepoGitHashDynamicString": "e37115752b68821bff4919a966704ae138e5bc5f",
+    "FStringFlipTimeStampFastString": "2026-04-15T23:08:34.308Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-15T23:08:34.308Z"
 }
