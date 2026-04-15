@@ -300,10 +300,6 @@
     "FFlagExpChatClientRenderedEventFix": "True",
     "FFlagTelemetryFixRolloutUpdateTimestamp": "True",
     "FFlagQRCodeCopyUpdates_v2": "True",
-    "DFFlagWebParserDecodeInvalidJsonInfNanLua_UniverseFilter": "True;7320786935;5462125553;2629198180;92096286;4165164803;7326934954;9363735110;7436755782;6035872082;1686885941;601130232;6701277882;383310974;7709344486;6048095214",
-    "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkip_UniverseFilter": "True;7320786935;5462125553;2629198180;92096286;4165164803;7326934954;7709344486;383310974;6701277882;601130232;1686885941;6035872082;7436755782;9363735110;6048095214",
-    "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkipLua_UniverseFilter": "True;7320786935;5462125553;2629198180;92096286;4165164803;7326934954;7709344486;383310974;6701277882;601130232;1686885941;6035872082;7436755782;9363735110;6048095214",
-    "DFFlagWebParserEncodeInvalidJsonInfNanLua_UniverseFilter": "True;7320786935;5462125553;2629198180;92096286;4165164803;7326934954;7709344486;383310974;6701277882;601130232;1686885941;6035872082;7436755782;9363735110;6048095214",
     "FFlagMacInstallerRetryBlockingRequests": "True",
     "FFlagEnableDevSubsInRobux10": "True",
     "FFlagEnableUnifiedPurchaseFlowForDevSubs10": "True",
@@ -327,8 +323,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "1687eaa6acc549ff6da409246bb383acdd9e963c",
-    "DFStringFlagRepoGitHashDynamicString": "1687eaa6acc549ff6da409246bb383acdd9e963c",
-    "FStringFlipTimeStampFastString": "2026-04-14T23:02:12.989Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-14T23:02:12.989Z"
+    "FStringFlagRepoGitHashFastString": "c7755628fe32acb89872f2713a8cffc98141d798",
+    "DFStringFlagRepoGitHashDynamicString": "c7755628fe32acb89872f2713a8cffc98141d798",
+    "FStringFlipTimeStampFastString": "2026-04-15T00:03:15.308Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-15T00:03:15.308Z"
 }
