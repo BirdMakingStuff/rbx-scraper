@@ -120,5 +120,6 @@
     "enableIpPlatformManualMatchRequests": "true",
     "publishEligibilityDevForumUrl": "https://devforum.roblox.com/new-publishing-requirements",
     "coreContentStatusLabelLink": "true",
-    "enableCoreContentStatusLabelLink": "true"
+    "enableCoreContentStatusLabelLink": "true",
+    "enablePlaceModerationCheckBeforeStudioOpen": "true"
 }
