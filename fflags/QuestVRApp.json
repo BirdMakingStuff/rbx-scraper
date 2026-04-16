@@ -17963,11 +17963,12 @@
     "FFlagLuauCodegenSetBlockEntryState3": "True",
     "DFFlagGetObjectsTelemetry": "True",
     "DFFlagLoadAssetTelemetry": "True",
-    "FFlagFoundationColorPickerDesignUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-16T20:13:40",
     "FFlagAppChatNudgeToChatUpsellEnabledV3": "True",
     "DFFlagServerAuthorityEnableInputLatency": "True",
     "DFFlagCLI194158": "True",
     "FFlagUserPlayerScriptsCameraInputNoBindables": "True",
+    "FFlagFoundationColorPickerDesignUpdate": "True",
+    "FFlagAudioToggleVerbConversion_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-16T21:47:15",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -19088,8 +19089,8 @@
     "FFlagAppChatConversationListRelativeTimestamps_IXP": "1;Party.LandingPage;AppChatConversationListTimestampAndUnreadDot;428770409;dev_controlled",
     "FFlagAppChatConversationListTimestampAndUnreadDotIxpEnabled_IXP": "1;Party.LandingPage;AppChatConversationListTimestampAndUnreadDot;428770409;dev_controlled",
     "FFlagAppChatConversationListUnreadDot_IXP": "1;Party.LandingPage;AppChatConversationListTimestampAndUnreadDot;428770409;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "c8c109ab81a76806831ade4636f9f6d0feab9483",
-    "DFStringFlagRepoGitHashDynamicString": "c8c109ab81a76806831ade4636f9f6d0feab9483",
-    "FStringFlipTimeStampFastString": "2026-04-16T21:07:19.181Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-16T21:07:19.181Z"
+    "FStringFlagRepoGitHashFastString": "969f5e4c36af7a55a97172f6b84609c4090bf022",
+    "DFStringFlagRepoGitHashDynamicString": "969f5e4c36af7a55a97172f6b84609c4090bf022",
+    "FStringFlipTimeStampFastString": "2026-04-16T21:47:17.135Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-16T21:47:17.135Z"
 }
