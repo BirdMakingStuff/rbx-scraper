@@ -109,10 +109,8 @@
     "FFlagWinInstallerCheckCRCBeforeUnzip": "True",
     "FFlagDoNotShowPlaceOpenFailureMessageAfterFirstTimeOnReconnect2": "True",
     "FFlagEnableSquadCoplayAnalytic": "True",
-    "FFlagIndexArrayUsingRSLVector659": "True",
     "FFlagAXActionButtonAccountForMissingItemData": "True",
     "FFlagInternalExportHandleNoHeadBoneInFacs": "True",
-    "FFlagAXRecentlyViewedSearchItemsEnabled3": "False",
     "FFlagAXEnableRecentlyViewedSearchItemsErrorLogging": "True",
     "FFlagAXFixLooksTileAnalytics": "True",
     "DFFlagRevampCoexperienceTelemetryTable": "True",
@@ -123,7 +121,6 @@
     "DFFlagManualJointSupport2": "True",
     "DFFlagAddMoreInfoToReentrancyErrors": "True",
     "FFlagHeapProfilerSearch": "True",
-    "DFFlagDoNotUpdateSensorsWithoutLock": "True",
     "FFlagNotificationsUsePolicyForEDP": "True",
     "FFlagMoveAdditionalCiUpsellGatingToGuac": "True",
     "DFFlagConsistentRakNetPing": "True",
@@ -335,8 +332,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "e2013203ac26fd006967dde82bf73229b9a0f371",
-    "DFStringFlagRepoGitHashDynamicString": "e2013203ac26fd006967dde82bf73229b9a0f371",
-    "FStringFlipTimeStampFastString": "2026-04-17T17:12:20.717Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-17T17:12:20.717Z"
+    "FStringFlagRepoGitHashFastString": "69f13dcef4cb363d96a483c3a28748572e0dd691",
+    "DFStringFlagRepoGitHashDynamicString": "69f13dcef4cb363d96a483c3a28748572e0dd691",
+    "FStringFlipTimeStampFastString": "2026-04-17T18:07:52.426Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-17T18:07:52.426Z"
 }
