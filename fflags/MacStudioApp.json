@@ -20035,6 +20035,7 @@
     "DFFlagSimCsgFragmentSitesMainPartFirst": "True",
     "DFIntCollisionGeometryTypeElasticPercentage": "1000",
     "FFlagPluginConnectionService1": "True",
+    "FFlagAnimatorAndADFRefactor_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-17T22:45:48",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -20516,8 +20517,8 @@
     "DFFlagPrebuiltBatchedStatSampleRate": "True",
     "DFFlagRbxTransportStatSampleRate": "True",
     "FFlagSimSolverSyncServerThrottle": "True",
-    "FStringFlagRepoGitHashFastString": "7a8d336422f5e77e8e5860f36bb6a5399666c975",
-    "DFStringFlagRepoGitHashDynamicString": "7a8d336422f5e77e8e5860f36bb6a5399666c975",
-    "FStringFlipTimeStampFastString": "2026-04-17T21:06:27.500Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-17T21:06:27.500Z"
+    "FStringFlagRepoGitHashFastString": "dc4705246f7363997703b44ecf64096c9351072c",
+    "DFStringFlagRepoGitHashDynamicString": "dc4705246f7363997703b44ecf64096c9351072c",
+    "FStringFlipTimeStampFastString": "2026-04-17T22:45:49.748Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-17T22:45:49.748Z"
 }
