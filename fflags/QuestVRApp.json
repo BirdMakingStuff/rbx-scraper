@@ -17988,6 +17988,13 @@
     "FFlagAXCatalogAndEditorExposureUseFStringLayer": "True",
     "FStringAXCatalogAndEditorExposureLayerName": "AvatarMarketplace.Editor",
     "FFlagAXCustomizeOverhaulEditorExposure2": "True",
+    "DFFlagReportTimeoutStatistics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1805504229;2026-04-17T16:39:03",
+    "FStringGraphicsVulkanBlacklistDevicePattern_Staged": "Google atlas|Google eve|Google fizz|Google grunt|Google kalista|Google nami|Google nautilus|Google nocturne|Google rammus|Google soraka|TECNO BG6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-17T16:54:34",
+    "DFIntJoinLimitWin32x64_Staged": "715;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2026-04-17T17:01:34",
+    "DFFlagCLI195211D": "True",
+    "DFFlagCLI195211G": "True",
+    "FFlagSoundShimDisconnectWhenNotPlaying": "True",
+    "FIntEdpStoreClicksDetectorThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1241852856;2026-04-17T17:12:19",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -19108,8 +19115,8 @@
     "FFlagAppChatConversationListRelativeTimestamps_IXP": "1;Party.LandingPage;AppChatConversationListTimestampAndUnreadDot;428770409;dev_controlled",
     "FFlagAppChatConversationListTimestampAndUnreadDotIxpEnabled_IXP": "1;Party.LandingPage;AppChatConversationListTimestampAndUnreadDot;428770409;dev_controlled",
     "FFlagAppChatConversationListUnreadDot_IXP": "1;Party.LandingPage;AppChatConversationListTimestampAndUnreadDot;428770409;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "eff8fa976aa26873ac53975a664e5c35829bb4ab",
-    "DFStringFlagRepoGitHashDynamicString": "eff8fa976aa26873ac53975a664e5c35829bb4ab",
-    "FStringFlipTimeStampFastString": "2026-04-17T00:56:29.618Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-17T00:56:29.618Z"
+    "FStringFlagRepoGitHashFastString": "e2013203ac26fd006967dde82bf73229b9a0f371",
+    "DFStringFlagRepoGitHashDynamicString": "e2013203ac26fd006967dde82bf73229b9a0f371",
+    "FStringFlipTimeStampFastString": "2026-04-17T17:12:20.717Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-17T17:12:20.717Z"
 }
