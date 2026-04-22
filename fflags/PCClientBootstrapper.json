@@ -241,7 +241,7 @@
     "FFlagAXCatalogItemCardSelectedOverlayButtonLogging": "True",
     "FFlagEnableCEVLogsToEventIngest": "True",
     "DFIntCevVoiceLifecycleEventsThrottleHundrethsPercent": "10000",
-    "FFlagWinInstallerUseBITS2": "True",
+    "FFlagWinInstallerUseBITS2": "False",
     "FFlagCoreScriptsMigrateFromLegacyCSVLoc4": "True",
     "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
     "DFFlagRbxLogCatchExceptions": "True",
@@ -311,10 +311,10 @@
     "FFlagWinInsatllerForceUpdate": "True",
     "FFlagMacInstallerDownloadNewInstaller2": "True",
     "FFlagWinInstallerImproveFileTaskErrorTelemetry": "True",
+    "DFFlagMemoryStoreHashMapListItemsPreserveCursor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1727247083;2026-04-22T20:31:02",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
-    "FFlagWinInstallerUseBITS2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-22T20:05:13",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -327,8 +327,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "16d515b1e8f2e81b13b347bfac8ee649568d37b5",
-    "DFStringFlagRepoGitHashDynamicString": "16d515b1e8f2e81b13b347bfac8ee649568d37b5",
-    "FStringFlipTimeStampFastString": "2026-04-22T20:28:44.406Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-22T20:28:44.406Z"
+    "FStringFlagRepoGitHashFastString": "792739cee81926740ffdaae72c359be28f8b000b",
+    "DFStringFlagRepoGitHashDynamicString": "792739cee81926740ffdaae72c359be28f8b000b",
+    "FStringFlipTimeStampFastString": "2026-04-22T21:26:02.043Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-22T21:26:02.043Z"
 }
