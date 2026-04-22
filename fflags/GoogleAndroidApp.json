@@ -17800,6 +17800,7 @@
     "FFlagFoundationUseStyleSheetRegistry": "True",
     "FFlagExpChatAddWindowSettingDependency": "True",
     "FFlagAXColorAdjustmentButtonShouldAccountForTryOns": "True",
+    "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -18804,7 +18805,10 @@
     "DFFlagDeferredRenderingUncompressed": "True",
     "DFFlagPerformanceControlKeyResultsV2MoreReporting": "True",
     "DFFlagPerformanceControlKeyResultsV2Reporting3": "True",
-    "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
+    "FFlagVoiceMetricsDataEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-22T16:45:01",
+    "FFlagLuauCodegen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2024364826;2026-04-22T16:47:21",
+    "FFlagEnableAndroidWidgetsLuaIXP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;742053726;2026-04-22T17:24:45",
+    "FFlagEnableRecentlyPlayedWidgetAndroidShell5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;742053726;2026-04-22T17:24:45",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
     "FFlagLuaAppRemoveSeeAllDropdownIXP": "True",
@@ -19131,8 +19135,8 @@
     "FFlagAXFixAvatarLooksSaveWithMakeupItems": "True",
     "FFlagHumanoidTextureTelemetry": "True",
     "FFlagEnableGameActivity5_IXP": "1;Portal.ConsumerPlatforms.AndroidGameActivity.Google.V1-1774894262;ConsumerPlatforms.AndroidGameActivity.Google.V2;816671244;flagbank",
-    "FStringFlagRepoGitHashFastString": "8b844859eac4f9eb00373492238399f7d817f510",
-    "DFStringFlagRepoGitHashDynamicString": "8b844859eac4f9eb00373492238399f7d817f510",
-    "FStringFlipTimeStampFastString": "2026-04-22T00:21:51.609Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-22T00:21:51.609Z"
+    "FStringFlagRepoGitHashFastString": "1433d7ca2fbff585f8e40f41377e6d3928835ada",
+    "DFStringFlagRepoGitHashDynamicString": "1433d7ca2fbff585f8e40f41377e6d3928835ada",
+    "FStringFlipTimeStampFastString": "2026-04-22T17:30:01.313Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-22T17:30:01.313Z"
 }

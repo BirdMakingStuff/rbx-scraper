@@ -17800,6 +17800,7 @@
     "FFlagFoundationUseStyleSheetRegistry": "True",
     "FFlagExpChatAddWindowSettingDependency": "True",
     "FFlagAXColorAdjustmentButtonShouldAccountForTryOns": "True",
+    "AllowVideoPreRoll": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -18381,7 +18382,10 @@
     "DFFlagCLI183873": "True",
     "FFlagLGCPUFixLightRangeDesync": "True",
     "FFlagEnablePromptSignalRobloxSubscriptionPurchaseFinished3": "True",
-    "AllowVideoPreRoll": "True",
+    "FFlagInlineRichTextUseWebViewService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-22T16:31:31",
+    "FFlagVoiceMetricsDataEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-22T16:45:01",
+    "DFFlagFixAnimGraphClipNodePropertiesRefresh_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-22T17:07:12",
+    "FFlagEnableDiscountInfoInUnifiedPurchaseModal5": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -18949,8 +18953,8 @@
     "DFFlagReportSoundLatencyToPerformanceControlV2": "True",
     "DFFlagPerformanceControlKeyResultsV2Reporting3": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "8b844859eac4f9eb00373492238399f7d817f510",
-    "DFStringFlagRepoGitHashDynamicString": "8b844859eac4f9eb00373492238399f7d817f510",
-    "FStringFlipTimeStampFastString": "2026-04-22T00:21:51.609Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-22T00:21:51.609Z"
+    "FStringFlagRepoGitHashFastString": "1433d7ca2fbff585f8e40f41377e6d3928835ada",
+    "DFStringFlagRepoGitHashDynamicString": "1433d7ca2fbff585f8e40f41377e6d3928835ada",
+    "FStringFlipTimeStampFastString": "2026-04-22T17:30:01.313Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-22T17:30:01.313Z"
 }

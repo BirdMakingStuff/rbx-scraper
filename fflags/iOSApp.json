@@ -18851,8 +18851,9 @@
     "FFlagProfileCompletionUsePlatformSurfaceKey": "True",
     "FFlagHumanoidTextureTelemetry": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP126": "True",
-    "FStringFlagRepoGitHashFastString": "8b844859eac4f9eb00373492238399f7d817f510",
-    "DFStringFlagRepoGitHashDynamicString": "8b844859eac4f9eb00373492238399f7d817f510",
-    "FStringFlipTimeStampFastString": "2026-04-22T00:21:51.609Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-22T00:21:51.609Z"
+    "FFlagVoiceMetricsDataEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-22T16:45:01",
+    "FStringFlagRepoGitHashFastString": "1433d7ca2fbff585f8e40f41377e6d3928835ada",
+    "DFStringFlagRepoGitHashDynamicString": "1433d7ca2fbff585f8e40f41377e6d3928835ada",
+    "FStringFlipTimeStampFastString": "2026-04-22T17:30:01.313Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-22T17:30:01.313Z"
 }
