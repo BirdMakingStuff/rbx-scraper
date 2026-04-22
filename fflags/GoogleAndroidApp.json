@@ -17153,7 +17153,7 @@
     "FFlagTCUpdateProfileCTAButtonFix": "True",
     "FFlagFixLoadFromDDS": "True",
     "FFlagAppChatEnableU13ChatOptIn1": "True",
-    "FStringImmersiveBrandedAdsLearnMoreUrl": "https://www.roblox.com",
+    "FStringImmersiveBrandedAdsLearnMoreUrl": "https://en.help.roblox.com/hc/articles/48454017762580",
     "DFFlagDetailedFlagCacheMilestones": "True",
     "DFFlagSendFlagCacheLoadTelemetryPostTTI": "True",
     "FFlagAXFixTryOnHeadShapeThumbnail": "True",
@@ -17794,7 +17794,6 @@
     "DFFlagSCMInclusiveBubble": "True",
     "FFlagAESGetInventoryUseAvatarEndpoint2": "True",
     "FFlagCreateMomentsToast_v3_IXP": "1;Social.Capture;Social.Capture.CrossExperiencePostingV1;312630443;flagbank",
-    "FStringImmersiveBrandedAdsLearnMoreUrl_Staged": "https://en.help.roblox.com/hc/articles/48454017762580;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-21T23:02:39",
     "FFlagFmodFixPitchShifterVolume": "True",
     "DFFlagCollidableGroupsChangedRemoteSignalClient": "True",
     "FFlagImproveP2ADevFacingErrorHandling": "True",
@@ -18804,7 +18803,7 @@
     "FFlagLuaAppBootcampIntroUABOOTCAMP126": "True",
     "DFFlagDeferredRenderingUncompressed": "True",
     "DFFlagPerformanceControlKeyResultsV2MoreReporting": "True",
-    "DFFlagPerformanceControlKeyResultsV2Reporting3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-21T23:19:13",
+    "DFFlagPerformanceControlKeyResultsV2Reporting3": "True",
     "FFlagUseUpdatedVNGAgreementsWorkflow": "True",
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagAXFixOrderFieldUnlayeredItems": "True",
@@ -19132,8 +19131,8 @@
     "FFlagAXFixAvatarLooksSaveWithMakeupItems": "True",
     "FFlagHumanoidTextureTelemetry": "True",
     "FFlagEnableGameActivity5_IXP": "1;Portal.ConsumerPlatforms.AndroidGameActivity.Google.V1-1774894262;ConsumerPlatforms.AndroidGameActivity.Google.V2;816671244;flagbank",
-    "FStringFlagRepoGitHashFastString": "21e0e78397f16388b4f6c9b2290009d9f1a74f9b",
-    "DFStringFlagRepoGitHashDynamicString": "21e0e78397f16388b4f6c9b2290009d9f1a74f9b",
-    "FStringFlipTimeStampFastString": "2026-04-21T23:58:08.483Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-21T23:58:08.483Z"
+    "FStringFlagRepoGitHashFastString": "8b844859eac4f9eb00373492238399f7d817f510",
+    "DFStringFlagRepoGitHashDynamicString": "8b844859eac4f9eb00373492238399f7d817f510",
+    "FStringFlipTimeStampFastString": "2026-04-22T00:21:51.609Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-22T00:21:51.609Z"
 }
