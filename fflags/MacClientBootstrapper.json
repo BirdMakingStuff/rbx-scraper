@@ -38,7 +38,6 @@
     "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
     "FFlagEnableGUACControlTOSPPLinks": "True",
     "FFlagKeepZeroInfluenceBones": "True",
-    "FFlagAimThereIsNoGameUpload": "True",
     "FFlagReuseMicroprofilerCounterBuffer": "True",
     "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
     "FFlagAXCatalogRefreshEnabled": "True",
@@ -55,7 +54,6 @@
     "FFlagVngTOSRevisedEnabled": "True",
     "FFlagAXAvatarFetchResultCamelCase": "True",
     "FFlagProfilePlatformRemainingLogging": "True",
-    "FFlagAXHideSeeAllIfTooFewItems": "True",
     "DFFlagUpdateTeamCreateAutosaveAttemptTelemetry": "True",
     "FFlagAXEnableMySharedAvatarsPage": "True",
     "FFlagAXExtractEditorTopBar2": "True",
@@ -116,8 +114,6 @@
     "DFFlagRevampCoexperienceTelemetryTable": "True",
     "FFlagEnableSquadCoplayDependencyArray": "True",
     "FFlagDataModelPatcherRecordCachedUserId": "True",
-    "FFlagSetManagerSmallRefactor": "True",
-    "DFFlagBroadphaseSupportMidphaseOpt": "True",
     "DFFlagManualJointSupport2": "True",
     "DFFlagAddMoreInfoToReentrancyErrors": "True",
     "FFlagHeapProfilerSearch": "True",
@@ -333,8 +329,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "aa227362b43442d3d367502c493081fc17696396",
-    "DFStringFlagRepoGitHashDynamicString": "aa227362b43442d3d367502c493081fc17696396",
-    "FStringFlipTimeStampFastString": "2026-04-23T22:06:25.217Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-23T22:06:25.217Z"
+    "FStringFlagRepoGitHashFastString": "219f024cf2f56b20dc3958a3b2c6ea1a52e18477",
+    "DFStringFlagRepoGitHashDynamicString": "219f024cf2f56b20dc3958a3b2c6ea1a52e18477",
+    "FStringFlipTimeStampFastString": "2026-04-23T23:11:47.107Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-23T23:11:47.107Z"
 }
