@@ -1,6 +1,6 @@
 ﻿{
-    "enableRtbfSetting": "false",
-    "rtbfSettingAllowlist": "7866405963;4739833792;7866390871;7866392861;7684464662",
+    "enableRtbfSetting": "true",
+    "rtbfSettingAllowlist": "7866405963",
     "enableReducedMarketplaceVisibilityBanner": "true",
     "enableTaxonomyInPricingPage": "true",
     "showTaxonomyAnnouncementBanner": "false",
