@@ -13060,7 +13060,7 @@
     "DFIntDelayRewardedAdsInSeconds_PlaceFilter": "1;105555311806207;117253834608865",
     "FFlagLuaAppFixInlineSignalsReactPattern": "True",
     "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
-    "DFIntVideoStatsInfluxReportHundredthsPercent_PlaceFilter": "10000;136954310107221;105796526973604;95047916580305",
+    "DFIntVideoStatsInfluxReportHundredthsPercent_PlaceFilter": "100;136954310107221;105796526973604;95047916580305",
     "FFlagLuaAppGameTileOverflowMenuTelemetry2": "True",
     "FIntGameTileOverflowMenuActionThrottleHundrethsPercent": "10000",
     "FFlagFoundationBaseMenuScroll": "True",
@@ -17751,6 +17751,7 @@
     "FFlagReactEnableNewTreeCleanupPath": "True",
     "FIntReactDeletedTreeCleanUpLevel": "3",
     "FFlagFixPseudoStyleRuleOrdering": "True",
+    "FFlagFlagRolloutTestStaticBool24_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T20:17:13",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -18151,8 +18152,8 @@
     "FFlagRenderOrchestratorMeshUseContentStore11": "True",
     "DFFlagEnableSummarySystemMessage": "True",
     "FFlagEnableInExpChatSummaryOnLua4": "True",
-    "FStringFlagRepoGitHashFastString": "c17e0f99dbd184f5a68b65de9ca6fa3066021795",
-    "DFStringFlagRepoGitHashDynamicString": "c17e0f99dbd184f5a68b65de9ca6fa3066021795",
-    "FStringFlipTimeStampFastString": "2026-04-24T20:06:42.009Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-24T20:06:42.009Z"
+    "FStringFlagRepoGitHashFastString": "d918ee332cbf8776f071391b6cd4a0c22543d66d",
+    "DFStringFlagRepoGitHashDynamicString": "d918ee332cbf8776f071391b6cd4a0c22543d66d",
+    "FStringFlipTimeStampFastString": "2026-04-24T21:07:29.300Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-24T21:07:29.300Z"
 }
