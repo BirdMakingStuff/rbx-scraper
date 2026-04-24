@@ -17751,6 +17751,7 @@
     "FFlagReactEnableNewTreeCleanupPath": "True",
     "FIntReactDeletedTreeCleanUpLevel": "3",
     "FFlagFixPseudoStyleRuleOrdering": "True",
+    "DFFlagTPoserBlockyAdjustment2_UniverseFilter": "False;3825332406;6048923315;7394964165",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -17992,8 +17993,8 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
-    "FStringFlagRepoGitHashFastString": "a8bced0ffd515bdf4376ed2b74aa52f9a1e891e1",
-    "DFStringFlagRepoGitHashDynamicString": "a8bced0ffd515bdf4376ed2b74aa52f9a1e891e1",
-    "FStringFlipTimeStampFastString": "2026-04-24T22:01:42.271Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-24T22:01:42.271Z"
+    "FStringFlagRepoGitHashFastString": "97727711e5aa0b851e70ab996fb01ed34e8ad4b5",
+    "DFStringFlagRepoGitHashDynamicString": "97727711e5aa0b851e70ab996fb01ed34e8ad4b5",
+    "FStringFlipTimeStampFastString": "2026-04-24T22:53:00.236Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-24T22:53:00.236Z"
 }
