@@ -20092,7 +20092,7 @@
     "FFlagProceduralModel2BetaFeature": "True",
     "FFlagStudioUseTestServiceMode": "True",
     "FFlagObjExporterVertexColorsFix": "True",
-    "FFlagStudioCleanupVerbsPartG": "True",
+    "FFlagStudioCleanupVerbsPartG": "False",
     "FFlagStudioCleanupVerbsPartH": "True",
     "FFlagCAP2701": "True",
     "DFFlagSimCsgRemoveSuperset": "True",
@@ -20101,9 +20101,7 @@
     "FFlagAmrOrganizeSelectionPlus": "True",
     "FFlagUGCValidateRigAttachmentRotationUsesDiff": "True",
     "FFlagAvatarPreviewerNestedBoneOriginalPositionFix": "True",
-    "DFFlagRobustRetargeterEnabled": "True",
-    "FFlagStudioCleanupVerbsPartG_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T23:26:28",
-    "DFFlagRobustRetargeterEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T23:29:13",
+    "DFFlagRobustRetargeterEnabled": "False",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -20648,8 +20646,8 @@
     "DFFlagPrebuiltBatchedStatSampleRate": "True",
     "DFFlagRbxTransportStatSampleRate": "True",
     "FFlagStudioMeshStreamingLodSyncUX": "True",
-    "FStringFlagRepoGitHashFastString": "c44624a2b5182f86c002155bd4f3b3e530713af2",
-    "DFStringFlagRepoGitHashDynamicString": "c44624a2b5182f86c002155bd4f3b3e530713af2",
-    "FStringFlipTimeStampFastString": "2026-04-24T23:30:16.251Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-24T23:30:16.251Z"
+    "FStringFlagRepoGitHashFastString": "a9abe3540fbc9fd897158007f60194a150da768d",
+    "DFStringFlagRepoGitHashDynamicString": "a9abe3540fbc9fd897158007f60194a150da768d",
+    "FStringFlipTimeStampFastString": "2026-04-25T01:50:24.751Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-25T01:50:24.751Z"
 }
