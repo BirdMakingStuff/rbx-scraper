@@ -17752,6 +17752,7 @@
     "FIntReactDeletedTreeCleanUpLevel": "3",
     "FFlagFixPseudoStyleRuleOrdering": "True",
     "DFFlagTPoserBlockyAdjustment2_UniverseFilter": "False;3825332406;6048923315;7394964165",
+    "DFFlagFixSanitizeReflectedCFrame_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;19711382;2026-04-26T18:47:28",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -18752,8 +18753,8 @@
     "FFlagGameJoinCardOnBeforeJoinCallback": "True",
     "DFFlagAddRawBaseURLtoDimensions": "True",
     "FFlagEnableInExpChatSummaryOnLua4": "True",
-    "FStringFlagRepoGitHashFastString": "a9abe3540fbc9fd897158007f60194a150da768d",
-    "DFStringFlagRepoGitHashDynamicString": "a9abe3540fbc9fd897158007f60194a150da768d",
-    "FStringFlipTimeStampFastString": "2026-04-25T01:50:24.751Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-25T01:50:24.751Z"
+    "FStringFlagRepoGitHashFastString": "e28b50e0baf0e7dbba80e48c0ce6e33837dd68ed",
+    "DFStringFlagRepoGitHashDynamicString": "e28b50e0baf0e7dbba80e48c0ce6e33837dd68ed",
+    "FStringFlipTimeStampFastString": "2026-04-26T18:47:30.097Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-26T18:47:30.097Z"
 }
