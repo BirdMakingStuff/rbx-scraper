@@ -124,5 +124,6 @@
     "publishEligibilityDevForumUrl": "https://devforum.roblox.com/new-publishing-requirements",
     "coreContentStatusLabelLink": "true",
     "enableCoreContentStatusLabelLink": "true",
-    "enablePlaceModerationCheckBeforeStudioOpen": "true"
+    "enablePlaceModerationCheckBeforeStudioOpen": "true",
+    "enableBlackbird": "true"
 }
