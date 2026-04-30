@@ -130,7 +130,6 @@
     "FFlagRaknetAllocOrCrash": "True",
     "FFlagSimSkeletonNestedAttachments": "True",
     "FFlagDenseMapMayShrinkWhenEmpty": "True",
-    "FFlagMinSpecBlockInstallerForStudio": "True",
     "FFlagFriendsCarouselRemoveRemount": "False",
     "FFlagProfilePlatformSocialCountsRespectBackendEnabledStatus_v2": "True",
     "FFlagProfileBlockUnblockErrorToasts_v3": "True",
@@ -325,8 +324,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "6f837ae2b85e0f55fab8c0dc7d35479032810910",
-    "DFStringFlagRepoGitHashDynamicString": "6f837ae2b85e0f55fab8c0dc7d35479032810910",
-    "FStringFlipTimeStampFastString": "2026-04-30T21:31:49.585Z",
-    "DFStringFlipTimeStampDynamicString": "2026-04-30T21:31:49.585Z"
+    "FStringFlagRepoGitHashFastString": "0b9ceeca1d873486beb47321396f687b0018a69d",
+    "DFStringFlagRepoGitHashDynamicString": "0b9ceeca1d873486beb47321396f687b0018a69d",
+    "FStringFlipTimeStampFastString": "2026-04-30T23:25:07.197Z",
+    "DFStringFlipTimeStampDynamicString": "2026-04-30T23:25:07.197Z"
 }
