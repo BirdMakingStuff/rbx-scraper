@@ -125,5 +125,6 @@
     "coreContentStatusLabelLink": "true",
     "enableCoreContentStatusLabelLink": "true",
     "enablePlaceModerationCheckBeforeStudioOpen": "true",
-    "enableBlackbird": "false"
+    "enableBlackbird": "true",
+    "enablePrivateServerRegionalPricing": "true"
 }
