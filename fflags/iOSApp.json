@@ -18102,6 +18102,8 @@
     "FFlagFlagRolloutTestStaticBool42": "False",
     "FFlagFlagRolloutTestStaticBool43": "False",
     "FFlagFlagRolloutTestStaticBool45": "False",
+    "DFIntAnimationRigShoulderCorrectionAngleDeg_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-02T20:35:09",
+    "DFIntAnimationRigElbowCorrectionAngleDeg_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-02T20:36:27",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -19175,8 +19177,8 @@
     "FIntTextureTranscode7EnableHundredthPercent": "400",
     "FFlagTexturePackLoadParamsRefactor": "True",
     "FFlagCurrencyTransferFixTextBoxInput": "True",
-    "FStringFlagRepoGitHashFastString": "1c4d87aded2569596931baa41b73ffb0604ee308",
-    "DFStringFlagRepoGitHashDynamicString": "1c4d87aded2569596931baa41b73ffb0604ee308",
-    "FStringFlipTimeStampFastString": "2026-05-02T18:38:22.874Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-02T18:38:22.874Z"
+    "FStringFlagRepoGitHashFastString": "f730b943f2850a42bb4695d05bb238a2c96676cb",
+    "DFStringFlagRepoGitHashDynamicString": "f730b943f2850a42bb4695d05bb238a2c96676cb",
+    "FStringFlipTimeStampFastString": "2026-05-02T20:36:29.343Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-02T20:36:29.343Z"
 }
