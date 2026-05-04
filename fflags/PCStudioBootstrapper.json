@@ -309,9 +309,10 @@
     "DFFlagMemoryStoreHashMapListItemsPreserveCursor": "True",
     "FFlagSimRuntimeContentFireForget3": "True",
     "FFlagVirtualInputEnabled3": "True",
-    "FFlagR15PlusRigidSkinningFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-04T17:27:49",
-    "FFlagSkinningTransferR15PlusBodyPartFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-04T17:31:42",
-    "FFlagR15PlusAutoSkinTransferEnabled4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-04T17:36:06",
+    "FFlagSocialCarouselShareQREnabled_v4_IXP": "1;Social.Friends;Social.Friends.AddShareQRToFriendSort;1725342469;flagbank",
+    "FFlagR15PlusAutoSkinTransferEnabled4": "True",
+    "FFlagR15PlusRigidSkinningFix": "True",
+    "FFlagSkinningTransferR15PlusBodyPartFix": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -324,8 +325,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "3b69a7eca35bf23de77601cbd31cb90497c92de0",
-    "DFStringFlagRepoGitHashDynamicString": "3b69a7eca35bf23de77601cbd31cb90497c92de0",
-    "FStringFlipTimeStampFastString": "2026-05-04T17:52:18.678Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-04T17:52:18.678Z"
+    "FStringFlagRepoGitHashFastString": "5dfee16f36f2d4be3f89459833e7bb7220b845db",
+    "DFStringFlagRepoGitHashDynamicString": "5dfee16f36f2d4be3f89459833e7bb7220b845db",
+    "FStringFlipTimeStampFastString": "2026-05-04T19:56:15.013Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-04T19:56:15.013Z"
 }
