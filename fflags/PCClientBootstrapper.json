@@ -114,7 +114,6 @@
     "DFFlagRevampCoexperienceTelemetryTable": "True",
     "FFlagEnableSquadCoplayDependencyArray": "True",
     "FFlagDataModelPatcherRecordCachedUserId": "True",
-    "DFFlagManualJointSupport2": "True",
     "DFFlagAddMoreInfoToReentrancyErrors": "True",
     "FFlagHeapProfilerSearch": "True",
     "FFlagNotificationsUsePolicyForEDP": "True",
@@ -314,6 +313,8 @@
     "FFlagR15PlusRigidSkinningFix": "True",
     "FFlagSkinningTransferR15PlusBodyPartFix": "True",
     "DFFlagGameJoinPropagateJoinOrigin": "True",
+    "FFlagMacInstallerNonBlockingEndTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1319760106;2026-05-07T22:20:37",
+    "FFlagTelemetryDeprecateBlockingSend_WindowsInstallerEnd_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1319760106;2026-05-07T22:20:37",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -329,8 +330,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FFlagWinInstallerDoNotKillRunningClient": "True",
-    "FStringFlagRepoGitHashFastString": "e7285880da7c4ec6147ab8e465c994b2260676ad",
-    "DFStringFlagRepoGitHashDynamicString": "e7285880da7c4ec6147ab8e465c994b2260676ad",
-    "FStringFlipTimeStampFastString": "2026-05-07T21:26:59.082Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-07T21:26:59.082Z"
+    "FStringFlagRepoGitHashFastString": "03b3dad5d3707d2985f449dbdbf5f25edbd44610",
+    "DFStringFlagRepoGitHashDynamicString": "03b3dad5d3707d2985f449dbdbf5f25edbd44610",
+    "FStringFlipTimeStampFastString": "2026-05-07T22:34:58.244Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-07T22:34:58.244Z"
 }
