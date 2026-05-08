@@ -315,6 +315,7 @@
     "DFFlagGameJoinPropagateJoinOrigin": "True",
     "FFlagMacInstallerNonBlockingEndTelemetry": "True",
     "FFlagTelemetryDeprecateBlockingSend_WindowsInstallerEnd": "True",
+    "FFlagTelemetryDeprecateBlockingSend_WindowsInstallerEnd_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-08T17:35:49",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -327,8 +328,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "e991b0545b617a8aacb7050218f9fa7bf6af58a6",
-    "DFStringFlagRepoGitHashDynamicString": "e991b0545b617a8aacb7050218f9fa7bf6af58a6",
-    "FStringFlipTimeStampFastString": "2026-05-08T01:04:50.665Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-08T01:04:50.665Z"
+    "FStringFlagRepoGitHashFastString": "d159ad667757d5a8cb6cc1c84f745a64c637e409",
+    "DFStringFlagRepoGitHashDynamicString": "d159ad667757d5a8cb6cc1c84f745a64c637e409",
+    "FStringFlipTimeStampFastString": "2026-05-08T17:46:58.424Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-08T17:46:58.424Z"
 }
