@@ -18311,7 +18311,8 @@
     "FFlagAnimGraphDoNotDropExtraTime": "True",
     "FFlagLrFixDeltaContinuationCancel": "True",
     "FFlagContentIdFormatterEngineModule2": "True",
-    "FFlagTelemetryFixStaleFlagRolloutCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1282765861;2026-05-08T20:32:23",
+    "FFlagTelemetryFixStaleFlagRolloutCheck": "True",
+    "DFFlagFlagRolloutTestDynamicBool19_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-08T22:38:56",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -19530,8 +19531,8 @@
     "FFlagSocialEnableProfileInspectAndBuy_5_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.InspectAndBuy;369153785;dev_controlled",
     "DFFlagRbxTransportDummyClientInterruptConnect": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "aa91d7c29cf4c4aaaaf60385e0591b5d01ad0e62",
-    "DFStringFlagRepoGitHashDynamicString": "aa91d7c29cf4c4aaaaf60385e0591b5d01ad0e62",
-    "FStringFlipTimeStampFastString": "2026-05-08T20:38:39.751Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-08T20:38:39.751Z"
+    "FStringFlagRepoGitHashFastString": "3062de0cd3dd758a5499591fca29106b05e683fe",
+    "DFStringFlagRepoGitHashDynamicString": "3062de0cd3dd758a5499591fca29106b05e683fe",
+    "FStringFlipTimeStampFastString": "2026-05-08T23:12:05.618Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-08T23:12:05.618Z"
 }
