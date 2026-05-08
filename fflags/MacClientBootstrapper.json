@@ -315,6 +315,7 @@
     "DFFlagGameJoinPropagateJoinOrigin": "True",
     "FFlagMacInstallerNonBlockingEndTelemetry": "True",
     "FFlagTelemetryDeprecateBlockingSend_WindowsInstallerEnd": "False",
+    "FFlagTelemetryFixStaleFlagRolloutCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1282765861;2026-05-08T20:32:23",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -336,8 +337,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "9d1ae9b79f9a5a52777c0489019744ce0c97ec41",
-    "DFStringFlagRepoGitHashDynamicString": "9d1ae9b79f9a5a52777c0489019744ce0c97ec41",
-    "FStringFlipTimeStampFastString": "2026-05-08T19:46:47.401Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-08T19:46:47.401Z"
+    "FStringFlagRepoGitHashFastString": "aa91d7c29cf4c4aaaaf60385e0591b5d01ad0e62",
+    "DFStringFlagRepoGitHashDynamicString": "aa91d7c29cf4c4aaaaf60385e0591b5d01ad0e62",
+    "FStringFlipTimeStampFastString": "2026-05-08T20:38:39.751Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-08T20:38:39.751Z"
 }
