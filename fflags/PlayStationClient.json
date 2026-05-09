@@ -18622,10 +18622,11 @@
     "FFlagLuaAppCompositionCharts_IXP": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V3.1;857965896;flagbank",
     "FFlagLuaAppCompositionHome_IXP": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V3.1;857965896;flagbank",
     "FFlagLuaAppUseFrameBoundsImpressions_IXP": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V3.1;857965896;flagbank",
+    "FFlagAnimatorAndADFRefactor2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1577230870;2026-05-09T22:16:47",
     "FFlagAXFocusOnMountManageOutfitPage": "True",
     "DFFlagGameJoinPropagateJoinOrigin": "True",
-    "FStringFlagRepoGitHashFastString": "0171e14f021ca864d0978b6a8c50f2ae00a50105",
-    "DFStringFlagRepoGitHashDynamicString": "0171e14f021ca864d0978b6a8c50f2ae00a50105",
-    "FStringFlipTimeStampFastString": "2026-05-09T20:30:00.966Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-09T20:30:00.966Z"
+    "FStringFlagRepoGitHashFastString": "839c158b2fa84f8eaf3171ca811c9ed93f2e32ad",
+    "DFStringFlagRepoGitHashDynamicString": "839c158b2fa84f8eaf3171ca811c9ed93f2e32ad",
+    "FStringFlipTimeStampFastString": "2026-05-09T22:16:49.455Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-09T22:16:49.455Z"
 }
