@@ -18312,6 +18312,7 @@
     "FFlagLrFixDeltaContinuationCancel": "True",
     "FFlagContentIdFormatterEngineModule2": "True",
     "FFlagTelemetryFixStaleFlagRolloutCheck": "True",
+    "FFlagContentIdFormatterEngineModule2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-09T16:34:59",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21215,8 +21216,8 @@
     "DFFlagRbxTransportStatSampleRate": "True",
     "FFlagStudioMeshStreamingLodSyncUX": "True",
     "DFFlagShowAttachmentsAsRecommended": "True",
-    "FStringFlagRepoGitHashFastString": "0675f34596f87a771b1c45fedda8d7a6afbc19bf",
-    "DFStringFlagRepoGitHashDynamicString": "0675f34596f87a771b1c45fedda8d7a6afbc19bf",
-    "FStringFlipTimeStampFastString": "2026-05-09T01:46:33.167Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-09T01:46:33.167Z"
+    "FStringFlagRepoGitHashFastString": "45acd9aea61cde1d700c73b576696a7cd485f1dd",
+    "DFStringFlagRepoGitHashDynamicString": "45acd9aea61cde1d700c73b576696a7cd485f1dd",
+    "FStringFlipTimeStampFastString": "2026-05-09T16:35:01.655Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-09T16:35:01.655Z"
 }
