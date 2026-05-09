@@ -18312,7 +18312,6 @@
     "FFlagLrFixDeltaContinuationCancel": "True",
     "FFlagContentIdFormatterEngineModule2": "True",
     "FFlagTelemetryFixStaleFlagRolloutCheck": "True",
-    "FFlagAppChatTopBarConfigDrivenV2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-09T00:44:02",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -18624,8 +18623,8 @@
     "FFlagLuaAppUseFrameBoundsImpressions_IXP": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V3.1;857965896;flagbank",
     "FFlagAXFocusOnMountManageOutfitPage": "True",
     "DFFlagGameJoinPropagateJoinOrigin": "True",
-    "FStringFlagRepoGitHashFastString": "6e38c5da368b0367e493a28b53ea8e5bd5e31598",
-    "DFStringFlagRepoGitHashDynamicString": "6e38c5da368b0367e493a28b53ea8e5bd5e31598",
-    "FStringFlipTimeStampFastString": "2026-05-09T00:44:04.107Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-09T00:44:04.107Z"
+    "FStringFlagRepoGitHashFastString": "0675f34596f87a771b1c45fedda8d7a6afbc19bf",
+    "DFStringFlagRepoGitHashDynamicString": "0675f34596f87a771b1c45fedda8d7a6afbc19bf",
+    "FStringFlipTimeStampFastString": "2026-05-09T01:46:33.167Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-09T01:46:33.167Z"
 }
