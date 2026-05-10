@@ -43,7 +43,7 @@
     "DFIntClientReportLuaConnectionSignalsInfluxHundrethsPercentage": "10000",
     "DFIntClientSendEventStringDataLimitBytes": "100000000",
     "DFIntClientSendEventVariantCountLimit": "5000000",
-    "DFIntCrashUploadToBacktracePercentage": "5",
+    "DFIntCrashUploadToBacktracePercentage": "1",
     "DFIntDataModelPatcherErrorInfluxHundredthsPercentage": "10000",
     "DFIntDataModelPatcherFunnelInfluxHundredthsPercentage": "25",
     "DFIntDataStoreCachedKeysMemSize": "16777216",
@@ -19340,8 +19340,8 @@
     "DFFlagKFSFixOldRuntimeFilterUnion": "True",
     "DFFlagKeyframeSequenceUseLegacyWeightCalculation": "True",
     "DFFlagUseRigAttachmentsForMotorPrePost": "True",
-    "FStringFlagRepoGitHashFastString": "839c158b2fa84f8eaf3171ca811c9ed93f2e32ad",
-    "DFStringFlagRepoGitHashDynamicString": "839c158b2fa84f8eaf3171ca811c9ed93f2e32ad",
-    "FStringFlipTimeStampFastString": "2026-05-09T22:16:49.455Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-09T22:16:49.455Z"
+    "FStringFlagRepoGitHashFastString": "529da57ea251fd8ce78a3d6bd974bfc213e8b8eb",
+    "DFStringFlagRepoGitHashDynamicString": "529da57ea251fd8ce78a3d6bd974bfc213e8b8eb",
+    "FStringFlipTimeStampFastString": "2026-05-10T10:09:10.361Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-10T10:09:10.361Z"
 }
