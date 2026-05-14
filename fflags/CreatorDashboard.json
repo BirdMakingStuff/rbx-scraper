@@ -127,5 +127,6 @@
     "enablePlaceModerationCheckBeforeStudioOpen": "true",
     "enableBlackbird": "true",
     "enablePrivateServerRegionalPricing": "true",
-    "enablePrivateServerNonFreePriceUpdate": "true"
+    "enablePrivateServerNonFreePriceUpdate": "true",
+    "enableAvatarAnimations": "true"
 }
