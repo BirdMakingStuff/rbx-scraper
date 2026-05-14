@@ -317,6 +317,7 @@
     "FFlagTelemetryDeprecateBlockingSend_WindowsInstallerEnd": "False",
     "FFlagTelemetryFixStaleFlagRolloutCheck": "True",
     "FFlagWinInstallerHandleNewExeName": "False",
+    "FFlagTelemetryProtoSerializationForEventIngest_IXP": "1;Portal.eventingest-to-esi-cutover-1778783500;eventingest-to-esi-cutover;645926057;flagbank",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -338,8 +339,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": "True",
-    "FStringFlagRepoGitHashFastString": "abb04cfe65f2a4d6f2fb6e081c76e2bf0c33e40a",
-    "DFStringFlagRepoGitHashDynamicString": "abb04cfe65f2a4d6f2fb6e081c76e2bf0c33e40a",
-    "FStringFlipTimeStampFastString": "2026-05-14T21:40:57.220Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-14T21:40:57.220Z"
+    "FStringFlagRepoGitHashFastString": "7afcb19ea8b7993c394e7d9a61b57e533cc0848a",
+    "DFStringFlagRepoGitHashDynamicString": "7afcb19ea8b7993c394e7d9a61b57e533cc0848a",
+    "FStringFlipTimeStampFastString": "2026-05-14T23:26:39.942Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-14T23:26:39.942Z"
 }
