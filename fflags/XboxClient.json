@@ -18672,9 +18672,10 @@
     "FFlagFRMRemoveIndirectQualityLevelUsageTwo": "True",
     "FFlagLuaAppGameTileLockedBadge": "True",
     "DFFlagEnableContextualPlayabilityJoinErrors": "True",
-    "FFlagShowNewReimportCallout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-15T19:22:29",
     "FFlagAssetProviderUseNewBatchADClientForRefresh3": "True",
     "FFlagBootcampCLI198367": "True",
+    "FFlagShowNewReimportCallout": "True",
+    "FFlagLuauCompilePropagateTableProps2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-15T21:30:53",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -19086,8 +19087,8 @@
     "FFlagProfilePlatformEnableUnlockChat_V2_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
     "FFlagCLI174048E3": "True",
     "FFlagPerformanceControlComputeTelemetryV2": "True",
-    "FStringFlagRepoGitHashFastString": "73dd4ab1597a2b27fd1cff7ce0919ac2a864059a",
-    "DFStringFlagRepoGitHashDynamicString": "73dd4ab1597a2b27fd1cff7ce0919ac2a864059a",
-    "FStringFlipTimeStampFastString": "2026-05-15T19:56:29.322Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-15T19:56:29.322Z"
+    "FStringFlagRepoGitHashFastString": "4798170ada1273ad3811886359c8a6f6b23a6c8c",
+    "DFStringFlagRepoGitHashDynamicString": "4798170ada1273ad3811886359c8a6f6b23a6c8c",
+    "FStringFlipTimeStampFastString": "2026-05-15T21:30:54.462Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-15T21:30:54.462Z"
 }
