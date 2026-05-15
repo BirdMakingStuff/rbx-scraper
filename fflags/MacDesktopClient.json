@@ -18632,7 +18632,7 @@
     "DFFlagSimEnableAngularAccelerationConversionMethods": "True",
     "DFFlagPowerTraceEnableSetFieldCallbacks": "True",
     "DFFlagCleanupTypesetterInterface5": "True",
-    "FFlagLuauCompilePropagateTableProps2": "True",
+    "FFlagLuauCompilePropagateTableProps2": "False",
     "FIntFlyoutTestVariantRollout12_IXP": "1;Universality.MorePage.Access;UniversalApp.FlyoutSidePanel.3;1461475554;flagbank",
     "FFlagAudioSignalUseBaseRCU3": "True",
     "FFlagBanDMLocksInBlockingCall": "True",
@@ -18675,7 +18675,6 @@
     "FFlagAssetProviderUseNewBatchADClientForRefresh3": "True",
     "FFlagBootcampCLI198367": "True",
     "FFlagShowNewReimportCallout": "True",
-    "FFlagLuauCompilePropagateTableProps2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-15T21:30:53",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -19803,8 +19802,8 @@
     "FFlagCLI174048E3": "True",
     "FFlagPerformanceControlComputeTelemetryV2": "True",
     "DFFlagFixRootScaleWithoutRetargeting": "True",
-    "FStringFlagRepoGitHashFastString": "4798170ada1273ad3811886359c8a6f6b23a6c8c",
-    "DFStringFlagRepoGitHashDynamicString": "4798170ada1273ad3811886359c8a6f6b23a6c8c",
-    "FStringFlipTimeStampFastString": "2026-05-15T21:30:54.462Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-15T21:30:54.462Z"
+    "FStringFlagRepoGitHashFastString": "f556df6bb18b1b1fd10c27b5695ff2f3369d6ace",
+    "DFStringFlagRepoGitHashDynamicString": "f556df6bb18b1b1fd10c27b5695ff2f3369d6ace",
+    "FStringFlipTimeStampFastString": "2026-05-15T22:36:27.858Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-15T22:36:27.858Z"
 }
