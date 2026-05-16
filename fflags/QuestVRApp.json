@@ -18032,7 +18032,7 @@
     "FFlagEnableGamepadTypeOnAndroid": "True",
     "FFlagPTFNativeEventsRename": "True",
     "FFlagEnableDelayedInputForUnifiedPurchaseModalInExperience": "True",
-    "FFlagAXEnableUnifiedProductPurchaseForMarketplace2": "True",
+    "FFlagAXEnableUnifiedProductPurchaseForMarketplace2": "False",
     "FFlagSkinningTransferIslandSelectionFix": "True",
     "FFlagToolboxCapabilities9": "True",
     "FIntToolboxCapabilitiesRollout": "100",
@@ -19803,9 +19803,8 @@
     "FFlagLuaAppNarrowTileHidePlayerCount2_IXP": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.MobileTabletVr.V1;106648691;flagbank",
     "FFlagLuaAppNarrowTileHideRating2_IXP": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.MobileTabletVr.V1;106648691;flagbank",
     "FFlagLuaAppNarrowTileSmallerFooterFont2_IXP": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.MobileTabletVr.V1;106648691;flagbank",
-    "FFlagAXEnableUnifiedProductPurchaseForMarketplace2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-15T22:31:14",
-    "FStringFlagRepoGitHashFastString": "f556df6bb18b1b1fd10c27b5695ff2f3369d6ace",
-    "DFStringFlagRepoGitHashDynamicString": "f556df6bb18b1b1fd10c27b5695ff2f3369d6ace",
-    "FStringFlipTimeStampFastString": "2026-05-15T22:36:27.858Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-15T22:36:27.858Z"
+    "FStringFlagRepoGitHashFastString": "fd138157ed2d99b0e5326bf2918daa2b667319de",
+    "DFStringFlagRepoGitHashDynamicString": "fd138157ed2d99b0e5326bf2918daa2b667319de",
+    "FStringFlipTimeStampFastString": "2026-05-15T23:36:33.024Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-15T23:36:33.024Z"
 }
