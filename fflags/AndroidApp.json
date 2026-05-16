@@ -19706,8 +19706,8 @@
     "FFlagLuaAppFixHiddenTileVideoCleanup": "True",
     "FFlagLuaAppVideoTileDisableActivation": "True",
     "FFlagLuaAppVideoTileHideCenterPlayButton": "True",
-    "FStringFlagRepoGitHashFastString": "fd138157ed2d99b0e5326bf2918daa2b667319de",
-    "DFStringFlagRepoGitHashDynamicString": "fd138157ed2d99b0e5326bf2918daa2b667319de",
-    "FStringFlipTimeStampFastString": "2026-05-15T23:36:33.024Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-15T23:36:33.024Z"
+    "FStringFlagRepoGitHashFastString": "11c832610736f1f591cb73ac822147f4aa850adb",
+    "DFStringFlagRepoGitHashDynamicString": "11c832610736f1f591cb73ac822147f4aa850adb",
+    "FStringFlipTimeStampFastString": "2026-05-16T04:07:21.065Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-16T04:07:21.065Z"
 }
