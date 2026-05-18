@@ -128,5 +128,6 @@
     "enableBlackbird": "true",
     "enablePrivateServerRegionalPricing": "true",
     "enablePrivateServerNonFreePriceUpdate": "true",
-    "enableAvatarAnimations": "true"
+    "enableAvatarAnimations": "true",
+    "enableIpPlatformTimeboundLicenses": "true"
 }
