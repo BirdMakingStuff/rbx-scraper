@@ -18799,7 +18799,7 @@
     "FFlagNotificationsUsePolicyForEDP": "True",
     "FFlagLowCogsBannerExperiment": "True",
     "FStringPurchaseModalBonusBannerLayer": "Optimization.PurchaseModalBonusBanner",
-    "FFlagWinBackgroundDownloadUpdates2": "True",
+    "FFlagWinBackgroundDownloadUpdates2": "False",
     "FStringBackgroundDownloadExperimentBucketSettings3": "v4-0-99",
     "FFlagFixValidateTransparencyProperty": "True",
     "FFlagAXCombineGetOutfitDispatchesIXP2": "False",
@@ -19878,8 +19878,8 @@
     "FFlagPerformanceControlComputeTelemetryV2": "True",
     "DFFlagFixRootScaleWithoutRetargeting": "True",
     "DFFlagFixNotifyIconOrdering": "True",
-    "FStringFlagRepoGitHashFastString": "cf032517023b2d710ed0d540c5ebe4b94b28281f",
-    "DFStringFlagRepoGitHashDynamicString": "cf032517023b2d710ed0d540c5ebe4b94b28281f",
-    "FStringFlipTimeStampFastString": "2026-05-17T19:45:23.737Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-17T19:45:23.737Z"
+    "FStringFlagRepoGitHashFastString": "783cc8c2887b75b4c8017f9d76265b6f34078108",
+    "DFStringFlagRepoGitHashDynamicString": "783cc8c2887b75b4c8017f9d76265b6f34078108",
+    "FStringFlipTimeStampFastString": "2026-05-18T01:32:45.458Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-18T01:32:45.458Z"
 }
