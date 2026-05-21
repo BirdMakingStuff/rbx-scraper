@@ -19950,7 +19950,7 @@
     "FFlagLuaAppEdpUseHidePlayWithRewardVisibilityVariable": "True",
     "FFlagEnablePlayWithRewardNonPeekviewEdp2": "True",
     "DFFlagUseRigidConstraintForAccessories3": "True",
-    "FStringLuaAppPlayWithRewardBetaUniverses": "12060141,855385310,2583564222,7082423811,5995470825",
+    "FStringLuaAppPlayWithRewardBetaUniverses": "12060141,855385310,2583564222,7082423811,5995470825,6035872082",
     "FIntPlayWithRewardCoachmarkMaxImpressions": "0",
     "FFlagEnableAdUniverseIdOverride": "True",
     "DFFlagDeferredAssetPrefetchCacheTelemetry": "True",
@@ -20014,7 +20014,6 @@
     "DFFlagPerformanceControlUpdateSystemState": "True",
     "FFlagEnableNativeOmniPrefetch": "True",
     "FFlagEnableNativeOmniPrefetchIos": "True",
-    "FStringLuaAppPlayWithRewardBetaUniverses_Staged": "12060141,855385310,2583564222,7082423811,5995470825,6035872082;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1158585415;2026-05-21T20:08:08",
     "FFlagEnableMaterialGenerator": "False",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "DFLogClientRecvFromRaknet": "10",
@@ -20043,8 +20042,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "10acc72fffe423d8053e8401ef794670fc911b62",
-    "DFStringFlagRepoGitHashDynamicString": "10acc72fffe423d8053e8401ef794670fc911b62",
-    "FStringFlipTimeStampFastString": "2026-05-21T20:12:58.453Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-21T20:12:58.453Z"
+    "FStringFlagRepoGitHashFastString": "1812f1817e6e4b5773bb6863d007908aaa3b5db0",
+    "DFStringFlagRepoGitHashDynamicString": "1812f1817e6e4b5773bb6863d007908aaa3b5db0",
+    "FStringFlipTimeStampFastString": "2026-05-21T21:47:24.417Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-21T21:47:24.417Z"
 }
