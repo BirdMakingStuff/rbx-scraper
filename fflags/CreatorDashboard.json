@@ -129,5 +129,6 @@
     "enablePrivateServerRegionalPricing": "true",
     "enablePrivateServerNonFreePriceUpdate": "true",
     "enableAvatarAnimations": "true",
-    "enableIpPlatformTimeboundLicenses": "true"
+    "enableIpPlatformTimeboundLicenses": "true",
+    "enableIpPlatformDecoupleListingCreationFromLicenseCreation": "true"
 }
