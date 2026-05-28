@@ -18975,7 +18975,7 @@
     "DFFlagEnableNewGMAAdTypes": "True",
     "FFlagLuauRequireResolveAliasNullCheck": "True",
     "DFFlagLuauRequireAliasOverrideOrderFix": "True",
-    "FFlagAvatarJointUpgradeDefaultOn_UniverseFilter": "False;9480698255",
+    "FFlagAvatarJointUpgradeDefaultOn_UniverseFilter": "False;9480698255;301252049",
     "FFlagEnableOnNativeAdPaidEventTelemetry": "True",
     "DFIntSimRuntimeContentDiskBudgetRCC_PlaceFilter": "1000000;76945426509349",
     "FFlagAndroidMouseLockButtonFix": "True",
@@ -20140,8 +20140,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "a5e70790505d84a944583fb89e15048c6a6f090a",
-    "DFStringFlagRepoGitHashDynamicString": "a5e70790505d84a944583fb89e15048c6a6f090a",
-    "FStringFlipTimeStampFastString": "2026-05-28T01:01:58.309Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-28T01:01:58.309Z"
+    "FStringFlagRepoGitHashFastString": "89ec51997a7938cdd17242183267a019c8c471b3",
+    "DFStringFlagRepoGitHashDynamicString": "89ec51997a7938cdd17242183267a019c8c471b3",
+    "FStringFlipTimeStampFastString": "2026-05-28T01:25:57.423Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-28T01:25:57.423Z"
 }

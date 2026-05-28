@@ -18975,7 +18975,7 @@
     "DFFlagEnableNewGMAAdTypes": "True",
     "FFlagLuauRequireResolveAliasNullCheck": "True",
     "DFFlagLuauRequireAliasOverrideOrderFix": "True",
-    "FFlagAvatarJointUpgradeDefaultOn_UniverseFilter": "False;9480698255",
+    "FFlagAvatarJointUpgradeDefaultOn_UniverseFilter": "False;9480698255;301252049",
     "FFlagEnableOnNativeAdPaidEventTelemetry": "True",
     "DFIntSimRuntimeContentDiskBudgetRCC_PlaceFilter": "1000000;76945426509349",
     "FFlagAndroidMouseLockButtonFix": "True",
@@ -20230,8 +20230,8 @@
     "FFlagEnableInputRecorder4_PlaceFilter": "True;1962086868;8712817601;10449761463;9391468976;17625359962;18126510175;71874690745115;117398147513099;129604661913557;133215910299950;72794186691769;121844478504211;126050458756269;139094215325277;12360882630;130818724007978;131048399685555;17016840407;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985",
     "DFFlagPerformanceControlUpdateSystemState": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "a5e70790505d84a944583fb89e15048c6a6f090a",
-    "DFStringFlagRepoGitHashDynamicString": "a5e70790505d84a944583fb89e15048c6a6f090a",
-    "FStringFlipTimeStampFastString": "2026-05-28T01:01:58.309Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-28T01:01:58.309Z"
+    "FStringFlagRepoGitHashFastString": "89ec51997a7938cdd17242183267a019c8c471b3",
+    "DFStringFlagRepoGitHashDynamicString": "89ec51997a7938cdd17242183267a019c8c471b3",
+    "FStringFlipTimeStampFastString": "2026-05-28T01:25:57.423Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-28T01:25:57.423Z"
 }
