@@ -1,5 +1,5 @@
 ﻿{
-    "enableCoreContentGatedBanner": "true",
+    "enableCoreContentGatedBanner": "false",
     "enableRtbfSetting": "true",
     "rtbfSettingAllowlist": "7866405963",
     "enableReducedMarketplaceVisibilityBanner": "true",
