@@ -320,7 +320,7 @@
     "FFlagTelemetryProtoSerializationForEventIngest_IXP": "1;Portal.eventingest-to-esi-cutover-1778783500;eventingest-to-esi-cutover;645926057;flagbank",
     "FFlagWinInstallerFastFailOnFileTaskError": "True",
     "FFlagWinInstallerSkipLockedFileCopyIfHashMatch": "True",
-    "FFlagWinInstallerHandleNewExeName2": "True",
+    "FFlagWinInstallerHandleNewExeName2": "False",
     "FFlagWinInstallerUseDownloadManagerForInet": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
@@ -334,8 +334,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "72dcdb317d85cc99c5af2deaf1a8e3afd9fd6b89",
-    "DFStringFlagRepoGitHashDynamicString": "72dcdb317d85cc99c5af2deaf1a8e3afd9fd6b89",
-    "FStringFlipTimeStampFastString": "2026-05-28T19:07:33.876Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-28T19:07:33.876Z"
+    "FStringFlagRepoGitHashFastString": "b9c7ff47dbf76a48c6239bbd1749721d5e82bffe",
+    "DFStringFlagRepoGitHashDynamicString": "b9c7ff47dbf76a48c6239bbd1749721d5e82bffe",
+    "FStringFlipTimeStampFastString": "2026-05-28T21:28:09.828Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-28T21:28:09.828Z"
 }
