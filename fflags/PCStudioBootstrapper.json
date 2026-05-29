@@ -322,8 +322,11 @@
     "FFlagWinInstallerSkipLockedFileCopyIfHashMatch": "True",
     "FFlagWinInstallerHandleNewExeName2": "False",
     "FFlagWinInstallerUseDownloadManagerForInet": "True",
-    "FFlagProfilePlatformNewProfileHeader_v4_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign-CP;966806505;dev_controlled",
     "FFlagTelemetryTwoTierBatchByteSize": "True",
+    "FFlagProfilePlatformAboutBeforeActionClient_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
+    "FFlagProfilePlatformAddCurrentlyPlaying_V4_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
+    "FFlagProfilePlatformNewProfileHeader_v4_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
+    "FFlagUserTileShowBadges_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -336,8 +339,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "23dfa6aa1728f8cec7559bb1e9122e24bc37920b",
-    "DFStringFlagRepoGitHashDynamicString": "23dfa6aa1728f8cec7559bb1e9122e24bc37920b",
-    "FStringFlipTimeStampFastString": "2026-05-29T04:52:06.078Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-29T04:52:06.078Z"
+    "FStringFlagRepoGitHashFastString": "2cb0498d9a95aaa3722ac3bcdc45243135cd704b",
+    "DFStringFlagRepoGitHashDynamicString": "2cb0498d9a95aaa3722ac3bcdc45243135cd704b",
+    "FStringFlipTimeStampFastString": "2026-05-29T19:00:52.706Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-29T19:00:52.706Z"
 }
