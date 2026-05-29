@@ -19022,7 +19022,8 @@
     "FFlagTelemetryTwoTierBatchByteSize": "True",
     "FFlagLoginV2NoLoginMethodsError": "True",
     "DFFlagUseGameTransactionsApiForReceipts": "True",
-    "FFlagRemoveEnrollmentMap3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T20:29:50",
+    "FFlagRemoveEnrollmentMap3": "True",
+    "DFFlagOtaTTIPhase2Fix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T22:44:00",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -20300,8 +20301,8 @@
     "DFFlagMicroprofilerZoomFix": "True",
     "FFlagLibMpEnabledOne": "True",
     "FFlagLibMpScriptEvent": "True",
-    "FStringFlagRepoGitHashFastString": "d548471fe976fd05dc82a8f60f899e489311d328",
-    "DFStringFlagRepoGitHashDynamicString": "d548471fe976fd05dc82a8f60f899e489311d328",
-    "FStringFlipTimeStampFastString": "2026-05-29T20:29:51.623Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-29T20:29:51.623Z"
+    "FStringFlagRepoGitHashFastString": "d55a1ec7a6064e8988f66c21606b5310628a7ba8",
+    "DFStringFlagRepoGitHashDynamicString": "d55a1ec7a6064e8988f66c21606b5310628a7ba8",
+    "FStringFlipTimeStampFastString": "2026-05-29T22:44:01.329Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-29T22:44:01.329Z"
 }
