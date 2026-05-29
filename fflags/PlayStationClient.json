@@ -18812,7 +18812,7 @@
     "DFFlagSAuthHumanoidOnAncestorCrash": "True",
     "DFFlagRCCInstanceTrackingReportCgroupsCpuCapacity": "True",
     "DFFlagChatReconcileUseSocialAmpManager2": "True",
-    "DFFlagOtaTTIPhase2Fix": "True",
+    "DFFlagOtaTTIPhase2Fix": "False",
     "FFlagAXInventoryIncludeUnavailableItems_IXP": "1;AvatarExperience.UA.CustomizeView;AvatarMarketplace.UA.ModerationFlowRedesign;831743808;dev_controlled",
     "FFlagAXManageOutfitsCatalogItemCard_IXP": "1;AvatarExperience.UA.CustomizeView;AvatarMarketplace.UA.ModerationFlowRedesign;831743808;dev_controlled",
     "FFlagAXModeratedItemIconUpdates_IXP": "1;AvatarExperience.UA.CustomizeView;AvatarMarketplace.UA.ModerationFlowRedesign;831743808;dev_controlled",
@@ -19021,7 +19021,8 @@
     "FFlagDontUseCrossPlayGlobalEffect": "True",
     "FFlagTelemetryTwoTierBatchByteSize": "True",
     "FFlagLoginV2NoLoginMethodsError": "True",
-    "DFFlagUseGameTransactionsApiForReceipts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T17:00:16",
+    "DFFlagUseGameTransactionsApiForReceipts": "True",
+    "FFlagRemoveEnrollmentMap3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T20:29:50",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -19330,10 +19331,9 @@
     "FFlagAssetProviderSubsystem2": "True",
     "DFFlagPerformanceControlUpdateSystemState": "True",
     "FFlagPerformanceControlPhysicsTunableEnabled": "True",
-    "DFFlagOtaTTIPhase2Fix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T18:46:03",
     "FFlagLuaAppFixLaunchGameSourceParam": "True",
-    "FStringFlagRepoGitHashFastString": "2cb0498d9a95aaa3722ac3bcdc45243135cd704b",
-    "DFStringFlagRepoGitHashDynamicString": "2cb0498d9a95aaa3722ac3bcdc45243135cd704b",
-    "FStringFlipTimeStampFastString": "2026-05-29T19:00:52.706Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-29T19:00:52.706Z"
+    "FStringFlagRepoGitHashFastString": "d548471fe976fd05dc82a8f60f899e489311d328",
+    "DFStringFlagRepoGitHashDynamicString": "d548471fe976fd05dc82a8f60f899e489311d328",
+    "FStringFlipTimeStampFastString": "2026-05-29T20:29:51.623Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-29T20:29:51.623Z"
 }

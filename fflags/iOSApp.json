@@ -19021,7 +19021,8 @@
     "FFlagDontUseCrossPlayGlobalEffect": "True",
     "FFlagTelemetryTwoTierBatchByteSize": "True",
     "FFlagLoginV2NoLoginMethodsError": "True",
-    "DFFlagUseGameTransactionsApiForReceipts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T17:00:16",
+    "DFFlagUseGameTransactionsApiForReceipts": "True",
+    "FFlagRemoveEnrollmentMap3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T20:29:50",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -20172,8 +20173,8 @@
     "FFlagAppChatTopBarConfigDrivenV5": "True",
     "FFlagAppChatOpenChatIxpEnabledV2_IXP": "1;Social.AppChat;AppChat.OpenChatFromChatDetails-EnableChatDetailsOpenChatV2;1597893018;dev_controlled",
     "FFlagEnableChatDetailsOpenChatV2_IXP": "1;Social.AppChat;AppChat.OpenChatFromChatDetails-EnableChatDetailsOpenChatV2;1597893018;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "2cb0498d9a95aaa3722ac3bcdc45243135cd704b",
-    "DFStringFlagRepoGitHashDynamicString": "2cb0498d9a95aaa3722ac3bcdc45243135cd704b",
-    "FStringFlipTimeStampFastString": "2026-05-29T19:00:52.706Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-29T19:00:52.706Z"
+    "FStringFlagRepoGitHashFastString": "d548471fe976fd05dc82a8f60f899e489311d328",
+    "DFStringFlagRepoGitHashDynamicString": "d548471fe976fd05dc82a8f60f899e489311d328",
+    "FStringFlipTimeStampFastString": "2026-05-29T20:29:51.623Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-29T20:29:51.623Z"
 }
