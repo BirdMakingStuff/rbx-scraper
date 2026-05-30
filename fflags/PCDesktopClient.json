@@ -18812,7 +18812,7 @@
     "DFFlagSAuthHumanoidOnAncestorCrash": "True",
     "DFFlagRCCInstanceTrackingReportCgroupsCpuCapacity": "True",
     "DFFlagChatReconcileUseSocialAmpManager2": "True",
-    "DFFlagOtaTTIPhase2Fix": "True",
+    "DFFlagOtaTTIPhase2Fix": "False",
     "FFlagAXInventoryIncludeUnavailableItems_IXP": "1;AvatarExperience.UA.CustomizeView;AvatarMarketplace.UA.ModerationFlowRedesign;831743808;dev_controlled",
     "FFlagAXManageOutfitsCatalogItemCard_IXP": "1;AvatarExperience.UA.CustomizeView;AvatarMarketplace.UA.ModerationFlowRedesign;831743808;dev_controlled",
     "FFlagAXModeratedItemIconUpdates_IXP": "1;AvatarExperience.UA.CustomizeView;AvatarMarketplace.UA.ModerationFlowRedesign;831743808;dev_controlled",
@@ -18921,7 +18921,7 @@
     "FFlagEnableiOSUIRefactorIXPSetup": "True",
     "DFFlagNonVolumetricGC4_PlaceFilter": "False;3351674303",
     "DFFlagVoiceChatFixDoubleClose3": "True",
-    "DFFlagRemoveDownloadedPatchCache": "True",
+    "DFFlagRemoveDownloadedPatchCache": "False",
     "FFlagStitchInstances3": "True",
     "FFlagStitchNativeInstances": "True",
     "FFlagEnableTrackingAddedDescendants3": "False",
@@ -19023,7 +19023,6 @@
     "FFlagLoginV2NoLoginMethodsError": "True",
     "DFFlagUseGameTransactionsApiForReceipts": "True",
     "FFlagRemoveEnrollmentMap3": "True",
-    "DFFlagOtaTTIPhase2Fix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-29T22:44:00",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -20301,8 +20300,8 @@
     "DFFlagMicroprofilerZoomFix": "True",
     "FFlagLibMpEnabledOne": "True",
     "FFlagLibMpScriptEvent": "True",
-    "FStringFlagRepoGitHashFastString": "d55a1ec7a6064e8988f66c21606b5310628a7ba8",
-    "DFStringFlagRepoGitHashDynamicString": "d55a1ec7a6064e8988f66c21606b5310628a7ba8",
-    "FStringFlipTimeStampFastString": "2026-05-29T22:44:01.329Z",
-    "DFStringFlipTimeStampDynamicString": "2026-05-29T22:44:01.329Z"
+    "FStringFlagRepoGitHashFastString": "b7e2670d06bfcece52ac42bd439f78760d3c6dac",
+    "DFStringFlagRepoGitHashDynamicString": "b7e2670d06bfcece52ac42bd439f78760d3c6dac",
+    "FStringFlipTimeStampFastString": "2026-05-30T00:52:03.583Z",
+    "DFStringFlipTimeStampDynamicString": "2026-05-30T00:52:03.583Z"
 }
