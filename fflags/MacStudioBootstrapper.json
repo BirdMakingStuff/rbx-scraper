@@ -314,7 +314,7 @@
     "FFlagTelemetryProtoSerializationForEventIngest_IXP": "1;Portal.eventingest-to-esi-cutover-1778783500;eventingest-to-esi-cutover;645926057;flagbank",
     "FFlagWinInstallerFastFailOnFileTaskError": "True",
     "FFlagWinInstallerSkipLockedFileCopyIfHashMatch": "True",
-    "FFlagWinInstallerHandleNewExeName2": "True",
+    "FFlagWinInstallerHandleNewExeName2": "False",
     "FFlagWinInstallerUseDownloadManagerForInet": "True",
     "FFlagTelemetryTwoTierBatchByteSize": "True",
     "FFlagProfilePlatformAboutBeforeActionClient_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
@@ -329,12 +329,14 @@
     "FIntAppChatBehaviorCollectionEnabledPercentage": "100",
     "FStringMacProgressiveDownloadExperimentBucketSettings": "v3-10-1",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
+    "FFlagAddFriendsPageFAEUpsell3_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEBannerAndTFHeader;1453903627;dev_controlled",
+    "FFlagAFPConnectionsChannelsHeader_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEBannerAndTFHeader;1453903627;dev_controlled",
     "FIntBootstrapper64BitStudioPercentage": "5",
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "2397748928286cb1f3145aaa85bef808d2e316ce",
-    "DFStringFlagRepoGitHashDynamicString": "2397748928286cb1f3145aaa85bef808d2e316ce",
-    "FStringFlipTimeStampFastString": "2026-06-05T18:19:30.279Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-05T18:19:30.279Z"
+    "FStringFlagRepoGitHashFastString": "f483f1599e7892d117d9fb6ecac828398177dc06",
+    "DFStringFlagRepoGitHashDynamicString": "f483f1599e7892d117d9fb6ecac828398177dc06",
+    "FStringFlipTimeStampFastString": "2026-06-05T20:01:56.605Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-05T20:01:56.605Z"
 }
