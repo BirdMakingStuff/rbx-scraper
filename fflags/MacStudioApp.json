@@ -19025,7 +19025,6 @@
     "FFlagAppChatPerfTracking3": "True",
     "FFlagLuaAppForceVrAppPanelWidthRollout": "True",
     "DFFlagReplicatorCloseStatsLog2": "True",
-    "FFlagRenderEnableGlobalInstancingMetal": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21452,6 +21451,7 @@
     "FFlagLDP1020UseUtf8UtilsConsistently": "True",
     "FFlagAnimGraphFixAnimationClipEffectCrash": "True",
     "FFlagAssistantExecuteLuaBackground": "True",
+    "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -22025,8 +22025,8 @@
     "DFFlagEnableRequireRbxLibMP": "True",
     "DFStringRbxLibMpContentUri": "rbxassetid://90014943426895",
     "FFlagEnableStudioMockPurchaseRobloxSubscription": "True",
-    "FStringFlagRepoGitHashFastString": "1b9d1754b7264891df2788fa32adf43cab4471e1",
-    "DFStringFlagRepoGitHashDynamicString": "1b9d1754b7264891df2788fa32adf43cab4471e1",
-    "FStringFlipTimeStampFastString": "2026-06-05T01:07:05.381Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-05T01:07:05.381Z"
+    "FStringFlagRepoGitHashFastString": "ea4c04e3159298200294f38c59dc2bd1696dca42",
+    "DFStringFlagRepoGitHashDynamicString": "ea4c04e3159298200294f38c59dc2bd1696dca42",
+    "FStringFlipTimeStampFastString": "2026-06-05T02:06:55.530Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-05T02:06:55.530Z"
 }
