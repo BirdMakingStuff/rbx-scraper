@@ -22034,6 +22034,7 @@
     "FFlagProfilePlatformCTAsRefactor_V3_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
     "FFlagWin32WebViewUseDesignFoundationsHeader": "True",
     "FFlagRenderMeshLodBudgetFairness": "True",
+    "FFlagRenderMeshLodBudgetFairness_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-06T21:32:21",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FLogCloseDataModel": "6",
@@ -22080,8 +22081,8 @@
     "DFFlagEnableRequireRbxLibMP": "True",
     "DFStringRbxLibMpContentUri": "rbxassetid://90014943426895",
     "FFlagEnableStudioMockPurchaseRobloxSubscription": "True",
-    "FStringFlagRepoGitHashFastString": "f1e034a27f31496db4990026f6087fc495876914",
-    "DFStringFlagRepoGitHashDynamicString": "f1e034a27f31496db4990026f6087fc495876914",
-    "FStringFlipTimeStampFastString": "2026-06-06T01:02:04.831Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-06T01:02:04.831Z"
+    "FStringFlagRepoGitHashFastString": "fc198a5ce0bb29eb1a9c6cee0b699fd2b388c6b7",
+    "DFStringFlagRepoGitHashDynamicString": "fc198a5ce0bb29eb1a9c6cee0b699fd2b388c6b7",
+    "FStringFlipTimeStampFastString": "2026-06-06T21:32:23.014Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-06T21:32:23.014Z"
 }
