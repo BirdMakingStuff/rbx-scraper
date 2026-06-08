@@ -321,11 +321,11 @@
     "FFlagProfilePlatformAddCurrentlyPlaying_V4_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
     "FFlagProfilePlatformNewProfileHeader_v4_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
     "FFlagUserTileShowBadges_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
+    "FFlagAddFriendsPageFAEUpsell3_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEUpsellAutopromptV2;1563903617;dev_controlled",
+    "FFlagAFPConnectionsChannelsHeader_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEBannerAndTFHeaderV2;1056107813;dev_controlled",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
-    "FFlagAddFriendsPageFAEUpsell3_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEBannerAndTFHeader;1453903627;dev_controlled",
-    "FFlagAFPConnectionsChannelsHeader_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEBannerAndTFHeader;1453903627;dev_controlled",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -337,8 +337,8 @@
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "fc198a5ce0bb29eb1a9c6cee0b699fd2b388c6b7",
-    "DFStringFlagRepoGitHashDynamicString": "fc198a5ce0bb29eb1a9c6cee0b699fd2b388c6b7",
-    "FStringFlipTimeStampFastString": "2026-06-06T21:32:23.014Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-06T21:32:23.014Z"
+    "FStringFlagRepoGitHashFastString": "a39dbac1d3b673be7f3f9838783f63a02dfd3382",
+    "DFStringFlagRepoGitHashDynamicString": "a39dbac1d3b673be7f3f9838783f63a02dfd3382",
+    "FStringFlipTimeStampFastString": "2026-06-08T18:40:54.650Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-08T18:40:54.650Z"
 }
