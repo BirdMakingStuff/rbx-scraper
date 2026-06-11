@@ -19294,10 +19294,12 @@
     "FFlagRefactorGetAdAvailabilityNowAsync3": "True",
     "FFlagEnableVPCUpsellFoundationDialogHardening": "True",
     "DFFlagCapsBetterUnassignedErrorMessage": "True",
-    "DFFlagCapsSandboxedAwareErrorMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-10T23:47:20",
     "FFlagLuaAppClampBannerPaddingToViewport": "True",
     "FFlagLuaAppFixCompositionSizeOverrideGap": "True",
     "FFlagSduiFeedStartRowPerIndex": "True",
+    "DFFlagCapsSandboxedAwareErrorMessage": "True",
+    "DFFlagAddTraceRouteNetworkType": "True",
+    "DFFlagAddTraceRouteReachedDestination": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -20346,8 +20348,8 @@
     "DFFlagFixBlankCanvasGroupOnceExceedingMemoryLimit3": "True",
     "FFlagEnableAndroidWidgetsLuaIXP2": "True",
     "FFlagEnableRecentlyPlayedWidgetAndroidShell6": "True",
-    "FStringFlagRepoGitHashFastString": "e3652b0aa5fa40c9a6478f4ab3041c7abff97803",
-    "DFStringFlagRepoGitHashDynamicString": "e3652b0aa5fa40c9a6478f4ab3041c7abff97803",
-    "FStringFlipTimeStampFastString": "2026-06-10T23:52:58.902Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-10T23:52:58.902Z"
+    "FStringFlagRepoGitHashFastString": "5d1dde0da65c68467a939463818abec43ec08722",
+    "DFStringFlagRepoGitHashDynamicString": "5d1dde0da65c68467a939463818abec43ec08722",
+    "FStringFlipTimeStampFastString": "2026-06-11T01:07:14.075Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-11T01:07:14.075Z"
 }
