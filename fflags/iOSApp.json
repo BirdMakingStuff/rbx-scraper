@@ -19283,6 +19283,7 @@
     "DFIntCaptureVideoBitsPerThousandPixels": "100",
     "DFIntCaptureVideoBppExponentTimesThousand": "500",
     "DFIntCaptureVideoBppRefArea": "8294400",
+    "FFlagNewRenderUseTextureManager2_UniverseFilter": "False;10200395747;7436755782",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -20426,8 +20427,9 @@
     "FFlagAppChatUseAbuseReportingApiV2": "True",
     "FFlagSduiChartsSupport2": "True",
     "FFlagCacheActiveGuiStatesForReset2": "True",
-    "FStringFlagRepoGitHashFastString": "d3c68f4a9a3faff6521dc4153a78527bba17f669",
-    "DFStringFlagRepoGitHashDynamicString": "d3c68f4a9a3faff6521dc4153a78527bba17f669",
-    "FStringFlipTimeStampFastString": "2026-06-12T23:37:39.455Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-12T23:37:39.455Z"
+    "FFlagRenderUseTextureManager224_UniverseFilter": "False;10200395747;7436755782",
+    "FStringFlagRepoGitHashFastString": "eff9e8b2b2e9b780f544ac1cdad961ac4678ffc2",
+    "DFStringFlagRepoGitHashDynamicString": "eff9e8b2b2e9b780f544ac1cdad961ac4678ffc2",
+    "FStringFlipTimeStampFastString": "2026-06-13T03:35:06.967Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-13T03:35:06.967Z"
 }
