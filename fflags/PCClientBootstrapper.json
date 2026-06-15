@@ -322,6 +322,9 @@
     "FFlagUserTileShowBadges_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesignAndCP;1208617524;dev_controlled",
     "FFlagAddFriendsPageFAEUpsell3_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEUpsellAutopromptV2;1563903617;dev_controlled",
     "FFlagAFPConnectionsChannelsHeader_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEBannerAndTFHeaderV2;1056107813;dev_controlled",
+    "DFFlagDeprecateLegacyTelemetryCounters2": "True",
+    "DFFlagDeprecateLegacyTelemetryStats2": "True",
+    "DFFlagDeprecateLegacyTelemetryStats2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1935534512;2026-06-15T19:06:07",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -336,8 +339,8 @@
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "ba6232523fa8e6802cb3f8d81f311adf5750aab7",
-    "DFStringFlagRepoGitHashDynamicString": "ba6232523fa8e6802cb3f8d81f311adf5750aab7",
-    "FStringFlipTimeStampFastString": "2026-06-14T21:10:38.398Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-14T21:10:38.398Z"
+    "FStringFlagRepoGitHashFastString": "357695346c9e41fd89299abf88c11149aeca4094",
+    "DFStringFlagRepoGitHashDynamicString": "357695346c9e41fd89299abf88c11149aeca4094",
+    "FStringFlipTimeStampFastString": "2026-06-15T19:56:42.431Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-15T19:56:42.431Z"
 }
