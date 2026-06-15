@@ -301,7 +301,6 @@
     "DFFlagMemoryStoreHashMapListItemsPreserveCursor": "True",
     "FFlagSimRuntimeContentFireForget3": "True",
     "FFlagVirtualInputEnabled3": "True",
-    "FFlagSocialCarouselShareQREnabled_v4_IXP": "1;Social.Friends;Social.Friends.AddShareQRToFriendSort;1725342469;flagbank",
     "FFlagR15PlusAutoSkinTransferEnabled4": "True",
     "FFlagR15PlusRigidSkinningFix": "True",
     "FFlagSkinningTransferR15PlusBodyPartFix": "True",
@@ -323,8 +322,8 @@
     "FFlagAddFriendsPageFAEUpsell3_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEUpsellAutopromptV2;1563903617;dev_controlled",
     "FFlagAFPConnectionsChannelsHeader_IXP": "1;Social.AddFriendsPage;Social.AddFriendsPage.FAEBannerAndTFHeaderV2;1056107813;dev_controlled",
     "DFFlagDeprecateLegacyTelemetryCounters2": "True",
-    "DFFlagDeprecateLegacyTelemetryStats2": "True",
-    "DFFlagDeprecateLegacyTelemetryStats2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1935534512;2026-06-15T19:06:07",
+    "DFFlagDeprecateLegacyTelemetryStats2": "False",
+    "FFlagSocialCarouselShareQREnabled_v5_IXP": "1;Social.Friends;Social.Friends.AddShareQRToFriendSort-V2;1500792180;flagbank",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -337,8 +336,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "357695346c9e41fd89299abf88c11149aeca4094",
-    "DFStringFlagRepoGitHashDynamicString": "357695346c9e41fd89299abf88c11149aeca4094",
-    "FStringFlipTimeStampFastString": "2026-06-15T19:56:42.431Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-15T19:56:42.431Z"
+    "FStringFlagRepoGitHashFastString": "1dec503d042fccf7aa9450d11ab1ea22e831c7d9",
+    "DFStringFlagRepoGitHashDynamicString": "1dec503d042fccf7aa9450d11ab1ea22e831c7d9",
+    "FStringFlipTimeStampFastString": "2026-06-15T22:32:03.718Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-15T22:32:03.718Z"
 }
