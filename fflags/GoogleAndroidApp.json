@@ -19341,7 +19341,7 @@
     "FFlagAnimGraphUIInputPanelUseUIName": "True",
     "FFlagAnimGraphUIImproveParameterPaneItemRightClick": "True",
     "FFlagWrapDeformerContextOutputFileMeshData13": "False",
-    "FFlagSkyboxOrientationUpdatesEnvMap": "True",
+    "FFlagSkyboxOrientationUpdatesEnvMap": "False",
     "DFFlagVideoEnableEvx": "True",
     "FFlagRemoveWorkspaceFromConstraint": "True",
     "FFlagRenameDeprecatedUIBloxTokens2": "True",
@@ -19363,7 +19363,6 @@
     "FFlagAppChatUseAbuseReportingApiV2": "True",
     "FFlagAXIntervalPerformanceTrackerFPSStandardDeviation": "True",
     "FFlagEnableDesignFoundations": "True",
-    "FFlagSkyboxOrientationUpdatesEnvMap_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-16T01:06:22",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -20769,8 +20768,8 @@
     "FFlagEnableAndroidAchievement2_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.TTI.5;39236439;flagbank",
     "FFlagEnableGooglePlayGamesIntegration3_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.TTI.5;39236439;flagbank",
     "FFlagEnablePGSAnalytics2_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.TTI.5;39236439;flagbank",
-    "FStringFlagRepoGitHashFastString": "ca5e55a85eedc1070f423fe7860659728ce9c9be",
-    "DFStringFlagRepoGitHashDynamicString": "ca5e55a85eedc1070f423fe7860659728ce9c9be",
-    "FStringFlipTimeStampFastString": "2026-06-16T01:47:16.939Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-16T01:47:16.939Z"
+    "FStringFlagRepoGitHashFastString": "e7b4a1c7690c11566db7526fefc8cf19db7b3838",
+    "DFStringFlagRepoGitHashDynamicString": "e7b4a1c7690c11566db7526fefc8cf19db7b3838",
+    "FStringFlipTimeStampFastString": "2026-06-16T02:12:06.926Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-16T02:12:06.926Z"
 }
