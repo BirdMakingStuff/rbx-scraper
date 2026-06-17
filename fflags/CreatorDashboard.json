@@ -131,5 +131,6 @@
     "enablePrivateServerNonFreePriceUpdate": "true",
     "enableAvatarAnimations": "true",
     "enableIpPlatformTimeboundLicenses": "true",
-    "enableIpPlatformDecoupleListingCreationFromLicenseCreation": "true"
+    "enableIpPlatformDecoupleListingCreationFromLicenseCreation": "true",
+    "serverManagementCustomPayloadReady": "true"
 }
