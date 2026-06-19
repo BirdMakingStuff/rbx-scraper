@@ -20655,8 +20655,8 @@
     "FFlagEnableAuditForSso": "True",
     "FFlagAXDisableMultiItemShoppingFtux": "True",
     "FFlagEnableVRChartsTab_IXP": "1;ConsumerPlatforms.VRFeatures.2026;ConsumerPlatforms.VR.ChartsTabExperiment;107995629;flagbank",
-    "FStringFlagRepoGitHashFastString": "6b34fdbda990642cf4934af69f63f5d1da5a2195",
-    "DFStringFlagRepoGitHashDynamicString": "6b34fdbda990642cf4934af69f63f5d1da5a2195",
-    "FStringFlipTimeStampFastString": "2026-06-18T20:12:05.827Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-18T20:12:05.827Z"
+    "FStringFlagRepoGitHashFastString": "61fb1f2ead3460b2bd97204395419c79319edf15",
+    "DFStringFlagRepoGitHashDynamicString": "61fb1f2ead3460b2bd97204395419c79319edf15",
+    "FStringFlipTimeStampFastString": "2026-06-18T23:47:46.880Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-18T23:47:46.880Z"
 }
