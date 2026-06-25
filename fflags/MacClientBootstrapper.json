@@ -330,6 +330,8 @@
     "FFlagTelemetryDeprecateBlockingSend_MacInstaller": "True",
     "FFlagTelemetryDeprecateBlockingSend_WindowsInstallerEnd2": "True",
     "FFlagMacInstallerGeneralizeUnzipLogic": "True",
+    "FFlagMacInstallerUpdateCurrentInstallDir": "True",
+    "FFlagWinInstallerSkipInstallerManifest": "False",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -350,8 +352,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
-    "FStringFlagRepoGitHashFastString": "43f8a97603412f59bc9ca665dd449ee608821f09",
-    "DFStringFlagRepoGitHashDynamicString": "43f8a97603412f59bc9ca665dd449ee608821f09",
-    "FStringFlipTimeStampFastString": "2026-06-24T23:39:20.812Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-24T23:39:20.812Z"
+    "FStringFlagRepoGitHashFastString": "86763eb612f0c1cf492b7dc219c6e2c7e74ee866",
+    "DFStringFlagRepoGitHashDynamicString": "86763eb612f0c1cf492b7dc219c6e2c7e74ee866",
+    "FStringFlipTimeStampFastString": "2026-06-25T03:15:33.628Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-25T03:15:33.628Z"
 }
