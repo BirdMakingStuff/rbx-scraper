@@ -19822,7 +19822,6 @@
     "DFFlagFixTrackingGcStatsAssertAndThrottle": "True",
     "FFlagIGMSelectionGroup": "True",
     "DFIntGetProductInfoAssetCacheSecs": "60",
-    "FFlagEnableDeferredDeeplinkResolutionIOSV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-06-25T23:46:28",
     "FFlagLuaAppDevStoreSeeAllForceRefreshOnNavigate": "True",
     "FFlagCollaboratorsMapToHashMap": "True",
     "FFlagCollaboratorsServiceEvictHelperForDisconnect": "True",
@@ -19847,7 +19846,8 @@
     "FFlagPerformanceControlComputeTailMetrics": "True",
     "FFlagEnableMoreMenuGamepadFix": "True",
     "FFlagEnableUserType3": "True",
-    "DFFlagCollabTenureFailOpenOnHttpError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-26T01:11:01",
+    "FFlagEnableDeferredDeeplinkResolutionIOSV2": "True",
+    "DFFlagCollabTenureFailOpenOnHttpError": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -21117,8 +21117,8 @@
     "FFlagFixWrongTextBoundsInBillboard3": "True",
     "FFlagTM2StreamingV2": "True",
     "FFlagEnableMaterialGenerator": "False",
-    "FStringFlagRepoGitHashFastString": "3413a1b77df3bf31be6c86b39a21029a6389e796",
-    "DFStringFlagRepoGitHashDynamicString": "3413a1b77df3bf31be6c86b39a21029a6389e796",
-    "FStringFlipTimeStampFastString": "2026-06-26T01:11:02.542Z",
-    "DFStringFlipTimeStampDynamicString": "2026-06-26T01:11:02.542Z"
+    "FStringFlagRepoGitHashFastString": "9399bc671e7ae760f7c906d21f590429394b9104",
+    "DFStringFlagRepoGitHashDynamicString": "9399bc671e7ae760f7c906d21f590429394b9104",
+    "FStringFlipTimeStampFastString": "2026-06-26T02:17:09.005Z",
+    "DFStringFlipTimeStampDynamicString": "2026-06-26T02:17:09.005Z"
 }
