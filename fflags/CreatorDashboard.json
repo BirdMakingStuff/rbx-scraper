@@ -135,5 +135,6 @@
     "enableIpPlatformDecoupleListingCreationFromLicenseCreation": "true",
     "serverManagementCustomPayloadReady": "true",
     "serverManagementShowServerLogs": "true",
-    "enableDemoMode": "true"
+    "enableDemoMode": "true",
+    "enableRestocking": "true"
 }
