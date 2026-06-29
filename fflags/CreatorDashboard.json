@@ -134,5 +134,6 @@
     "enableIpPlatformTimeboundLicenses": "true",
     "enableIpPlatformDecoupleListingCreationFromLicenseCreation": "true",
     "serverManagementCustomPayloadReady": "true",
-    "serverManagementShowServerLogs": "true"
+    "serverManagementShowServerLogs": "true",
+    "enableDemoMode": "true"
 }
