@@ -14891,7 +14891,7 @@
     "FFlagRemoveBytesUsedSinceLastSendResetInSendPacket": "True",
     "FFlagAXInventoryItemsListImpressionLogging": "True",
     "DFFlagUseAssetsManifestManager": "False",
-    "FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395",
+    "FFlagLuaAppIsClickoutEnabledUniverse_UniverseFilter": "True;9707042192;9671070925;8491889239;9164570436;9859999587;5824195619;9876947216;10004846655;9605987780;10036955953;10123702430;10241252491;10382950395;10390927281;10390930030;10390933265",
     "FStringRbxTransportDummyClientEnabledMinorVersions_PlaceFilter": "\"\";12068120918;12068411700;13759905292;12068280773;105527809120079;12068168600;12068190290;13525707963;87080072109910",
     "FStringRbxTransportDummyServerEnabledMinorVersions_PlaceFilter": "\"\";12068120918;12068411700;13759905292;12068280773;105527809120079;12068168600;12068190290;13525707963;87080072109910",
     "FFlagISpatialEmitterRefactor": "True",
@@ -21268,8 +21268,8 @@
     "FFlagDataModelChangeTrackerIntegrateBufferSize": "True",
     "FFlagLuaAppPlayButtonLaunchOnReleaseAfterUnmountEdp": "True",
     "FFlagSduiEdpClientTemplateCache": "True",
-    "FStringFlagRepoGitHashFastString": "845b00036224b342bc74c1cc6f5893ba2b2d87b6",
-    "DFStringFlagRepoGitHashDynamicString": "845b00036224b342bc74c1cc6f5893ba2b2d87b6",
-    "FStringFlipTimeStampFastString": "2026-07-01T21:40:50.121Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-01T21:40:50.121Z"
+    "FStringFlagRepoGitHashFastString": "633c14ad9c2809efbf44cd614ca98409105ac6a7",
+    "DFStringFlagRepoGitHashDynamicString": "633c14ad9c2809efbf44cd614ca98409105ac6a7",
+    "FStringFlipTimeStampFastString": "2026-07-01T23:50:08.000Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-01T23:50:08.000Z"
 }
