@@ -21248,8 +21248,8 @@
     "FFlagAXFPSEventStreamAndCounters_IXP": "1;Universality.MorePage.Access;UniversalApp.React.Limiter.iOS.High.Telemetry.1;1889813116;flagbank",
     "FFlagAXIntervalPerformanceTrackerScrollFrameTime_IXP": "1;Universality.MorePage.Access;UniversalApp.React.Limiter.iOS.High.Telemetry.1;1889813116;flagbank",
     "FIntReactSchedulerDesiredFrameRate_IXP": "1;Universality.MorePage.Access;UniversalApp.React.Limiter.iOS.High.Telemetry.1;1889813116;flagbank",
-    "FStringFlagRepoGitHashFastString": "7a87901c2ee1dc779c2844d5a50fb7cf0ba1b016",
-    "DFStringFlagRepoGitHashDynamicString": "7a87901c2ee1dc779c2844d5a50fb7cf0ba1b016",
-    "FStringFlipTimeStampFastString": "2026-07-02T00:42:07.004Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-02T00:42:07.004Z"
+    "FStringFlagRepoGitHashFastString": "d63dbe9a7d8408e785fed36519bb0b315e831ffa",
+    "DFStringFlagRepoGitHashDynamicString": "d63dbe9a7d8408e785fed36519bb0b315e831ffa",
+    "FStringFlipTimeStampFastString": "2026-07-02T23:12:48.695Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-02T23:12:48.695Z"
 }

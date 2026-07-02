@@ -21511,7 +21511,7 @@
     "FFlagIAPExperienceEnableMultiDisplayUpsellV3": "True",
     "FFlagIAPExperienceUseUpsellBadgeHelper": "True",
     "FFlagLuaAppHideSduiCoachmarkWhenNotificationStreamOpen": "True",
-    "FFlagEnableAndroidGooglePaymentsProtocolV2V2": "True",
+    "FFlagEnableAndroidGooglePaymentsProtocolV2V2": "False",
     "FFlagLuaAppPlayButtonLaunchOnReleaseAfterUnmountEdp": "True",
     "FFlagAXEnableFoundationSegmentedMenu_IXP": "1;Social.ConnectTab;Social.ConnectTab.MeTab;1822910638;flagbank",
     "FFlagAXEnableProfileTab_1_IXP": "1;Social.ConnectTab;Social.ConnectTab.MeTab;1822910638;flagbank",
@@ -21529,8 +21529,8 @@
     "FFlagSduiChartsDedupSessionRotation": "True",
     "FFlagSduiDeferredListItems2": "True",
     "FFlagSduiEdpClientTemplateCache": "True",
-    "FStringFlagRepoGitHashFastString": "7a87901c2ee1dc779c2844d5a50fb7cf0ba1b016",
-    "DFStringFlagRepoGitHashDynamicString": "7a87901c2ee1dc779c2844d5a50fb7cf0ba1b016",
-    "FStringFlipTimeStampFastString": "2026-07-02T00:42:07.004Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-02T00:42:07.004Z"
+    "FStringFlagRepoGitHashFastString": "d63dbe9a7d8408e785fed36519bb0b315e831ffa",
+    "DFStringFlagRepoGitHashDynamicString": "d63dbe9a7d8408e785fed36519bb0b315e831ffa",
+    "FStringFlipTimeStampFastString": "2026-07-02T23:12:48.695Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-02T23:12:48.695Z"
 }
