@@ -332,9 +332,9 @@
     "FFlagMacInstallerGeneralizeUnzipLogic": "True",
     "FFlagMacInstallerUpdateCurrentInstallDir": "True",
     "FFlagWinInstallerSkipInstallerManifest": "False",
-    "FFlagEnableTeamTestJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-07T16:45:48",
-    "FFlagRandomizeTeamTestJoinGameCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-07T16:47:04",
-    "FFlagRCCShouldUseObfuscatedByteCodeInTeamTestSignal2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-07T16:48:20",
+    "FFlagEnableTeamTestJoin": "True",
+    "FFlagRCCShouldUseObfuscatedByteCodeInTeamTestSignal2": "True",
+    "FFlagRandomizeTeamTestJoinGameCode": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -347,8 +347,8 @@
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "f50a16df2d03c97eccec18838c207b1134484f44",
-    "DFStringFlagRepoGitHashDynamicString": "f50a16df2d03c97eccec18838c207b1134484f44",
-    "FStringFlipTimeStampFastString": "2026-07-07T18:27:11.143Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-07T18:27:11.143Z"
+    "FStringFlagRepoGitHashFastString": "4c2c64c524540555961c48835faa07b9af460063",
+    "DFStringFlagRepoGitHashDynamicString": "4c2c64c524540555961c48835faa07b9af460063",
+    "FStringFlipTimeStampFastString": "2026-07-07T20:23:03.549Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-07T20:23:03.549Z"
 }
