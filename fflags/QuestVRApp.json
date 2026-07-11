@@ -21420,6 +21420,7 @@
     "FFlagSignUpBirthdayRefactorNestedDefinition": "True",
     "FFlagSignUpBirthdayPickerShowAgeCalculator": "True",
     "FFlagSignUpBirthdayPickerRequireManualSelection": "True",
+    "FFlagEnableMlKitLazyInit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-11T03:49:36",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -21513,8 +21514,8 @@
     "FFlagEnableSkyStyle_IXP": "1;ConsumerPlatforms.SkyStyle;ConsumerPlatforms.SkyStyle.2;650639879;flagbank",
     "FIntSkyStyleDayClockTime_IXP": "1;ConsumerPlatforms.SkyStyle;ConsumerPlatforms.SkyStyle.2;650639879;flagbank",
     "FStringDefaultSkyStyle_IXP": "1;ConsumerPlatforms.SkyStyle;ConsumerPlatforms.SkyStyle.2;650639879;flagbank",
-    "FStringFlagRepoGitHashFastString": "d402c8bf7b46be05c6d341d47bd6f8793c3cf96b",
-    "DFStringFlagRepoGitHashDynamicString": "d402c8bf7b46be05c6d341d47bd6f8793c3cf96b",
-    "FStringFlipTimeStampFastString": "2026-07-10T21:02:16.504Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-10T21:02:16.504Z"
+    "FStringFlagRepoGitHashFastString": "8302e7ef4490b6cc45e6acff0b65206febeb10ed",
+    "DFStringFlagRepoGitHashDynamicString": "8302e7ef4490b6cc45e6acff0b65206febeb10ed",
+    "FStringFlipTimeStampFastString": "2026-07-11T03:49:37.254Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-11T03:49:37.254Z"
 }
