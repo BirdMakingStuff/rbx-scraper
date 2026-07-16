@@ -337,8 +337,8 @@
     "FFlagRandomizeTeamTestJoinGameCode": "True",
     "FFlagWinInstallerExitCodes": "True",
     "FFlagWinInstallerUseTargetChannelForUpdate": "True",
-    "FFlagWinInstallerContextPassing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T19:59:07",
-    "FFlagMacInstallerContextPassing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T19:59:48",
+    "FFlagMacInstallerContextPassing": "True",
+    "FFlagWinInstallerContextPassing": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -359,8 +359,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
-    "FStringFlagRepoGitHashFastString": "5b2a659b3dd8efeff00f705acd5a11eb64c44d77",
-    "DFStringFlagRepoGitHashDynamicString": "5b2a659b3dd8efeff00f705acd5a11eb64c44d77",
-    "FStringFlipTimeStampFastString": "2026-07-16T21:20:53.989Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-16T21:20:53.989Z"
+    "FStringFlagRepoGitHashFastString": "cf6825b34b46226c3414510dc6ca569a6dbe05eb",
+    "DFStringFlagRepoGitHashDynamicString": "cf6825b34b46226c3414510dc6ca569a6dbe05eb",
+    "FStringFlipTimeStampFastString": "2026-07-16T22:27:23.108Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-16T22:27:23.108Z"
 }
