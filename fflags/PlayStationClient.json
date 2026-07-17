@@ -20641,6 +20641,13 @@
     "FFlagTextureTranscoderResizeOpt3": "True",
     "FFlagBlockRobuxTileClickInShop": "True",
     "FFlagPromptPurchaseClearStateOnCompletion": "True",
+    "FFlagPPVBackgroundUnthrottleRefCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T16:03:29",
+    "FFlagWinTouchPadGesture2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1068626396;2026-07-17T16:23:44",
+    "FFlagHomepagePromptsPaddingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T16:46:36",
+    "FFlagLuauDropUnionSubtypeReasoning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T16:52:32",
+    "FFlagLogKeyboardFocusModeEntered_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T17:03:17",
+    "DFFlagCLI207544": "True",
+    "DFFlagDebugVideoAppendAllQueryParams_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-07-17T17:08:28",
     "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformPlaystation",
     "DFIntHttpCacheAsyncWriterMaxPendingSize": "100000000",
     "DFIntHttpSendStatsEveryXSeconds": "300",
@@ -20978,8 +20985,9 @@
     "DFFlagTextSafetyAnalyticsSenderEnabled": "True",
     "DFIntTextSafetyAnalyticsSenderClientToServerSampleRateHundrethsPercent": "10000",
     "FFlagExpChatDictationFadeOverride_IXP": "1;Portal.UniverseChat.NewInputBar-1781035962;UniverseChat.DictationV2;1056075018;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "eef9068b9c40f3bca75bb9b48fb53f51da1a6ec6",
-    "DFStringFlagRepoGitHashDynamicString": "eef9068b9c40f3bca75bb9b48fb53f51da1a6ec6",
-    "FStringFlipTimeStampFastString": "2026-07-17T03:16:56.393Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-17T03:16:56.393Z"
+    "DFIntAssetProviderAssetCacheReadThreadCount_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-07-17T17:17:45",
+    "FStringFlagRepoGitHashFastString": "46d640ed16161d37c2960e7b32e35d8810b26e10",
+    "DFStringFlagRepoGitHashDynamicString": "46d640ed16161d37c2960e7b32e35d8810b26e10",
+    "FStringFlipTimeStampFastString": "2026-07-17T17:20:56.496Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-17T17:20:56.496Z"
 }

@@ -20642,6 +20642,12 @@
     "FFlagBlockRobuxTileClickInShop": "True",
     "FFlagPromptPurchaseClearStateOnCompletion": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
+    "FFlagWinTouchPadGesture2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1068626396;2026-07-17T16:23:44",
+    "FFlagHomepagePromptsPaddingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T16:46:36",
+    "FFlagLuauDropUnionSubtypeReasoning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T16:52:32",
+    "FFlagLogKeyboardFocusModeEntered_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T17:03:17",
+    "DFFlagCLI207544": "True",
+    "DFFlagDebugVideoAppendAllQueryParams_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-07-17T17:08:28",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
     "FFlagEnableAdsMouseUnlock": "True",
@@ -21961,8 +21967,8 @@
     "FFlagMomentsTextOverlayClampToBounds": "True",
     "FFlagProfileMomentsMuteCarouselAudio": "True",
     "FFlagProfilePlatformMeTabScrollAway": "True",
-    "FStringFlagRepoGitHashFastString": "eef9068b9c40f3bca75bb9b48fb53f51da1a6ec6",
-    "DFStringFlagRepoGitHashDynamicString": "eef9068b9c40f3bca75bb9b48fb53f51da1a6ec6",
-    "FStringFlipTimeStampFastString": "2026-07-17T03:16:56.393Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-17T03:16:56.393Z"
+    "FStringFlagRepoGitHashFastString": "46d640ed16161d37c2960e7b32e35d8810b26e10",
+    "DFStringFlagRepoGitHashDynamicString": "46d640ed16161d37c2960e7b32e35d8810b26e10",
+    "FStringFlipTimeStampFastString": "2026-07-17T17:20:56.496Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-17T17:20:56.496Z"
 }
