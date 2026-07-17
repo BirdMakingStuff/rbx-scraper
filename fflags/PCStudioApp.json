@@ -23256,6 +23256,7 @@
     "FFlagLuauIndexingIntoErrorGivesError": "True",
     "FFlagAnimGraphUIRenameDuplicateInput": "True",
     "FFlagAnimGraphUIResizeParameterPane": "True",
+    "FFlagCleanupRobloxIDEDocPartG_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-17T22:29:56",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -23895,8 +23896,8 @@
     "FFlagEnableStudioMockPurchaseRobloxSubscription": "True",
     "DFFlagDeprecateLegacyTelemetryCounters2": "True",
     "DFFlagRecordEngineApiMetrics3": "True",
-    "FStringFlagRepoGitHashFastString": "9f2c691d382cef276c241da77f018e7af6666957",
-    "DFStringFlagRepoGitHashDynamicString": "9f2c691d382cef276c241da77f018e7af6666957",
-    "FStringFlipTimeStampFastString": "2026-07-17T21:09:43.077Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-17T21:09:43.077Z"
+    "FStringFlagRepoGitHashFastString": "b2c47b8acc72dc5d6d4d855371e1176f6c764619",
+    "DFStringFlagRepoGitHashDynamicString": "b2c47b8acc72dc5d6d4d855371e1176f6c764619",
+    "FStringFlipTimeStampFastString": "2026-07-17T22:29:57.485Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-17T22:29:57.485Z"
 }
