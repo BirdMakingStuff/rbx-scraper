@@ -20655,6 +20655,7 @@
     "FFlagLuauCodegenFixTwoResA64Builtin": "True",
     "FFlagDisableSmoothingGroupVertexAveraging": "True",
     "FLogAppUpdate": "Error",
+    "FFlagFoundationBadgeBetaUpdate_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;737770484;2026-07-17T23:33:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21843,8 +21844,8 @@
     "FIntSkyStyleDayClockTime_IXP": "1;ConsumerPlatforms.SkyStyle;ConsumerPlatforms.SkyStyle.2;650639879;flagbank",
     "FStringDefaultSkyStyle_IXP": "1;ConsumerPlatforms.SkyStyle;ConsumerPlatforms.SkyStyle.2;650639879;flagbank",
     "FFlagVrPerfMetricsEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "b2c47b8acc72dc5d6d4d855371e1176f6c764619",
-    "DFStringFlagRepoGitHashDynamicString": "b2c47b8acc72dc5d6d4d855371e1176f6c764619",
-    "FStringFlipTimeStampFastString": "2026-07-17T22:29:57.485Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-17T22:29:57.485Z"
+    "FStringFlagRepoGitHashFastString": "1dd87dbe221f28ef66d6a1f74042a7dc74c801be",
+    "DFStringFlagRepoGitHashDynamicString": "1dd87dbe221f28ef66d6a1f74042a7dc74c801be",
+    "FStringFlipTimeStampFastString": "2026-07-18T00:32:22.086Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-18T00:32:22.086Z"
 }
