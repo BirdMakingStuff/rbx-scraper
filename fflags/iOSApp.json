@@ -20598,7 +20598,7 @@
     "DFLogBootcampCLI210530Log": "Info",
     "DFFlagDMCTMigrateFire": "True",
     "FFlagSurfaceControllerCleanup5": "False",
-    "FFlagFoundationBadgeBetaUpdate": "True",
+    "FFlagFoundationBadgeBetaUpdate": "False",
     "FFlagFoundationBottomSheetInnerScrollingSync": "True",
     "FFlagStudioDebuggerScriptWatcherUseSuspendOverride": "True",
     "FFlagTrustedFriendsUseEnumCTA_2": "True",
@@ -20655,7 +20655,6 @@
     "FFlagLuauCodegenFixTwoResA64Builtin": "True",
     "FFlagDisableSmoothingGroupVertexAveraging": "True",
     "FLogAppUpdate": "Error",
-    "FFlagFoundationBadgeBetaUpdate_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;737770484;2026-07-17T23:33:56",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21866,8 +21865,8 @@
     "FIntLuaInExpSchedulerYieldInterval_IXP": "1;UniversalApp.Scrolling;UniversalApp.React.Limiter.Context.Split.iOS.Mid;1532963059;flagbank",
     "FFlagVoiceVolumeControlsApplyGameSettingsVoiceVolume_IXP": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
     "FFlagVoiceVolumeControlsGlobalVoiceVolumeSliderIxpExposure_IXP": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "1dd87dbe221f28ef66d6a1f74042a7dc74c801be",
-    "DFStringFlagRepoGitHashDynamicString": "1dd87dbe221f28ef66d6a1f74042a7dc74c801be",
-    "FStringFlipTimeStampFastString": "2026-07-18T00:32:22.086Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-18T00:32:22.086Z"
+    "FStringFlagRepoGitHashFastString": "051b2539d2b584869ed9c68bfa9aaa03669c9ee1",
+    "DFStringFlagRepoGitHashDynamicString": "051b2539d2b584869ed9c68bfa9aaa03669c9ee1",
+    "FStringFlipTimeStampFastString": "2026-07-18T01:36:51.143Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-18T01:36:51.143Z"
 }
