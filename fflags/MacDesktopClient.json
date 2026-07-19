@@ -21338,6 +21338,7 @@
     "FFlagVoiceVolumeControlsGlobalVoiceVolumeSliderIxpExposure_IXP": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
     "FFlagMacInstallerContextPassing": "True",
     "FIntmi_option_os_tag": "240",
+    "FFlagEnableKeystoreAutoLogin_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-18T23:40:53",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21908,8 +21909,8 @@
     "FFlagProfileMomentsMuteCarouselAudio": "True",
     "FIntEnableDataModelChangeTrackingHundredthPercent": "300",
     "FFlagProfilePlatformMeTabScrollAway": "True",
-    "FStringFlagRepoGitHashFastString": "60843363461e4058a53975fd6f23709f948026b9",
-    "DFStringFlagRepoGitHashDynamicString": "60843363461e4058a53975fd6f23709f948026b9",
-    "FStringFlipTimeStampFastString": "2026-07-18T19:27:59.401Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-18T19:27:59.401Z"
+    "FStringFlagRepoGitHashFastString": "e5c5ca03f6b415c1818cc23bf76dc6ff8b3fad4f",
+    "DFStringFlagRepoGitHashDynamicString": "e5c5ca03f6b415c1818cc23bf76dc6ff8b3fad4f",
+    "FStringFlipTimeStampFastString": "2026-07-18T23:40:54.339Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-18T23:40:54.339Z"
 }
