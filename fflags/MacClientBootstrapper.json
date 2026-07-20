@@ -347,7 +347,7 @@
     "FIntAppChatBehaviorCollectionEnabledPercentage": "100",
     "FStringMacProgressiveDownloadExperimentBucketSettings": "v3-10-1",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FFlagEnableKeystoreAutoLogin_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-18T23:40:53",
+    "FFlagEnableKeystoreAutoLogin": "False",
     "DFIntCrashUploadToBacktracePercentage": "10",
     "DeprecatedOSXLinkURL": "https://en.help.roblox.com/hc/articles/203312800",
     "DeprecatedOSXMinorVersion": "9",
@@ -360,8 +360,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
-    "FStringFlagRepoGitHashFastString": "e5c5ca03f6b415c1818cc23bf76dc6ff8b3fad4f",
-    "DFStringFlagRepoGitHashDynamicString": "e5c5ca03f6b415c1818cc23bf76dc6ff8b3fad4f",
-    "FStringFlipTimeStampFastString": "2026-07-18T23:40:54.339Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-18T23:40:54.339Z"
+    "FStringFlagRepoGitHashFastString": "b3dc29ff48eac0dfb22d9f032b8bf4f0dfd2f425",
+    "DFStringFlagRepoGitHashDynamicString": "b3dc29ff48eac0dfb22d9f032b8bf4f0dfd2f425",
+    "FStringFlipTimeStampFastString": "2026-07-20T18:27:32.904Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-20T18:27:32.904Z"
 }
