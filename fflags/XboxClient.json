@@ -20724,13 +20724,13 @@
     "FFlagUseSignalsForSearchBar": "True",
     "FFlagAdsVideoUseAcrPriorityList": "True",
     "FFlagAESGetItemDetailsBatchingInExperienceOnly": "True",
-    "FFlagEnableFRMLockstepTableOverrides_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-20T23:15:53",
     "FFlagInlineSurveyEnhancements2": "True",
     "DFFlagIdempotentGamePassPurchasingEnabled": "True",
     "FFlagTerrainEditorRaycastCachedTerrain": "True",
     "FFlagTerrainEditorSaveInitialRaycast": "True",
     "FFlagEnableDeeplinkReceivedExtendedCoverageAndroid2": "True",
     "FFlagVideoPlayerCheckSinkVisibility": "True",
+    "FFlagEnableFRMLockstepTableOverrides": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21167,8 +21167,8 @@
     "DFIntTextSafetyAnalyticsSenderClientToServerSampleRateHundrethsPercent": "10000",
     "FFlagFlyweightDebugDataIntegrity": "True",
     "FFlagExpChatDictationFadeOverride_IXP": "1;Portal.UniverseChat.NewInputBar-1781035962;UniverseChat.DictationV2;1056075018;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "4c816c1919844827f8d873809e59754888f6836a",
-    "DFStringFlagRepoGitHashDynamicString": "4c816c1919844827f8d873809e59754888f6836a",
-    "FStringFlipTimeStampFastString": "2026-07-21T00:53:27.269Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-21T00:53:27.269Z"
+    "FStringFlagRepoGitHashFastString": "af691adac3a6d732832ae746551b2574e102087b",
+    "DFStringFlagRepoGitHashDynamicString": "af691adac3a6d732832ae746551b2574e102087b",
+    "FStringFlipTimeStampFastString": "2026-07-21T01:28:30.613Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-21T01:28:30.613Z"
 }
