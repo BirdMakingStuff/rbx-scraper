@@ -1,4 +1,5 @@
 ﻿{
+    "enableDataStoreRequestSourceAnalytics": "true",
     "enableHomeAvatarItemsRaqiV2": "true",
     "enableAvatarBackgrounds": "true",
     "enableCoreContentGatedBanner": "false",
