@@ -140,5 +140,6 @@
     "enable2D3DUnificationBanner": "true",
     "unification2D3DBannerLearnMoreUrl": "https://devforum.roblox.com/t/building-stronger-protections-and-a-more-consistent-marketplace-unifying-2d-and-3d-avatar-item-publishing/4722717",
     "enableAudioUploadRevamp": "true",
-    "serverManagementShowShutdownServers": "true"
+    "serverManagementShowShutdownServers": "true",
+    "enableIpPlatformMatchesTableEsIndexImprovements": "true"
 }
