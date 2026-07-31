@@ -21198,10 +21198,10 @@
     "DFIntVideoPlatformSelectorMobileMaxLongSide_UniverseFilter": "1280;10601118890;9556450305;6682487255;7487550014;8034125312;10499446595",
     "DFIntVideoPlatformSelectorMobileMaxShortSide_UniverseFilter": "720;10601118890;9556450305;6682487255;7487550014;8034125312;10499446595",
     "FFlagVoiceBetaBadge": "False",
-    "FFlagStudioHandleEndTestRequestFromManualTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-31T18:08:25",
-    "FFlagSocialCarouselShowLoadingSkeleton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-31T18:21:34",
     "FFlagMigrateHumanoidCameraProperties": "True",
     "DFStringVideoAcrPriorityListIxp": "(hls,1,fhd_beta)|(hls,1,main)",
+    "FFlagStudioHandleEndTestRequestFromManualTest": "True",
+    "FFlagSocialCarouselShowLoadingSkeleton": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -22417,8 +22417,8 @@
     "FIntSkyStyleDayClockTime_IXP": "1;ConsumerPlatforms.SkyStyle;ConsumerPlatforms.SkyStyle.2;650639879;flagbank",
     "FStringDefaultSkyStyle_IXP": "1;ConsumerPlatforms.SkyStyle;ConsumerPlatforms.SkyStyle.2;650639879;flagbank",
     "FFlagVrPerfMetricsEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "bbe5cd276baba4a101807cf5ae4f53a5cff5ea7e",
-    "DFStringFlagRepoGitHashDynamicString": "bbe5cd276baba4a101807cf5ae4f53a5cff5ea7e",
-    "FStringFlipTimeStampFastString": "2026-07-31T19:57:28.223Z",
-    "DFStringFlipTimeStampDynamicString": "2026-07-31T19:57:28.223Z"
+    "FStringFlagRepoGitHashFastString": "47fe3a1b77f7c2922b0bafac0e972182e50dd280",
+    "DFStringFlagRepoGitHashDynamicString": "47fe3a1b77f7c2922b0bafac0e972182e50dd280",
+    "FStringFlipTimeStampFastString": "2026-07-31T20:32:27.342Z",
+    "DFStringFlipTimeStampDynamicString": "2026-07-31T20:32:27.342Z"
 }
