@@ -21289,7 +21289,7 @@
     "FFlagAssistantMeshGenHintImage": "True",
     "FFlagAssistantMeshGenRemoveAdminOptions": "True",
     "FFlagEnableZoomExtentsRigSupport": "True",
-    "FFlagMomentsIPReporting": "True",
+    "FFlagMomentsIPReporting": "False",
     "FFlagAvatarPreviewerFixAutoSetupCache": "True",
     "FFlagAvatarPreviewerLayeredAttachmentFix": "True",
     "FFlagDevFrameworkPluginWidgetCheckPluginGui": "True",
@@ -21321,7 +21321,6 @@
     "FFlagPerformanceControlLmkdDebugReporting": "True",
     "FFlagEnableExperienceDetailsBottomSheet2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.BottomSheet;798801888;flagbank",
     "FFlagEnableExperienceDetailsBottomSheetTopBar_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.BottomSheet;798801888;flagbank",
-    "FFlagMomentsIPReporting_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-04T23:21:33",
     "FFlagAppIaHomeSubTabScrollAwayFix": "True",
     "FFlagPerformanceControlLmkdMemEffectValReporting": "True",
     "FFlagRenderFixParticleEmitterInitialBounds": "True",
@@ -22445,11 +22444,10 @@
     "FFlagDisableAndroidLaunchTimeReporter": "True",
     "FFlagMpEnableFirstClassScriptScopes": "True",
     "FFlagInvalidFocusHandling": "True",
-    "FFlagCreateConnectionsHub_v6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;394518526;2026-08-04T23:52:13",
-    "FFlagBootcampCLI214500_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-04T23:59:15",
     "FFlagRbxStorageCleanupCounter": "True",
-    "FStringFlagRepoGitHashFastString": "27bcc536f5cca4aeb54fdf0804716d59a5a4d9e1",
-    "DFStringFlagRepoGitHashDynamicString": "27bcc536f5cca4aeb54fdf0804716d59a5a4d9e1",
-    "FStringFlipTimeStampFastString": "2026-08-05T00:52:19.408Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-05T00:52:19.408Z"
+    "FFlagCreateConnectionsHub_v6": "True",
+    "FStringFlagRepoGitHashFastString": "07191c0ede6985d59775667c2744cbb7f03c880a",
+    "DFStringFlagRepoGitHashDynamicString": "07191c0ede6985d59775667c2744cbb7f03c880a",
+    "FStringFlipTimeStampFastString": "2026-08-05T01:57:27.535Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-05T01:57:27.535Z"
 }
