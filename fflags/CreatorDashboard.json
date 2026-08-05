@@ -143,5 +143,7 @@
     "serverManagementShowShutdownServers": "true",
     "enableIpPlatformMatchesTableEsIndexImprovements": "true",
     "enableIpPlatformConditionalOffers": "true",
-    "enableCreatorStoreVideoMultipartUpload": "true"
+    "enableCreatorStoreVideoMultipartUpload": "true",
+    "enableTaxonomyBasedCreatorDashboard": "false",
+    "taxonomyBasedCreatorDashboardAllowlist": "4282048784"
 }
