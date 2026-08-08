@@ -20555,7 +20555,7 @@
     "DFFlagRbxTransportPureQuicSupport": "True",
     "DFFlagEnableInternalCsmUnsubscribeOnDisconnect": "True",
     "FFlagCofmStackThreadSafe": "True",
-    "FFlagMergeFakeInputEvents7": "True",
+    "FFlagMergeFakeInputEvents7": "False",
     "FFlagAnimationExportUI": "True",
     "DFFlagModelSkinningTransformsViewOptions": "True",
     "FFlagDisableAdPlayerMultipleLoad": "True",
@@ -20623,7 +20623,6 @@
     "FFlagPerformanceControlPhysicsTunableEnabled": "True",
     "FFlagSduiSurfaceBannerAlwaysMounted": "True",
     "FFlagMomentsReportWithFeedId": "True",
-    "FFlagMergeFakeInputEvents7_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1221039300;2026-08-07T22:11:18",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21810,8 +21809,8 @@
     "FFlagEnableSkyStyleTelemetry": "True",
     "FFlagVoiceVolumeControlsExcludePartyVoice": "True",
     "FFlagVoiceVolumeControlsSuppressInExperienceUiForPartyVoice": "True",
-    "FStringFlagRepoGitHashFastString": "70e98d8bf4b6573087b14807e7c1e6ebc0fd8c61",
-    "DFStringFlagRepoGitHashDynamicString": "70e98d8bf4b6573087b14807e7c1e6ebc0fd8c61",
-    "FStringFlipTimeStampFastString": "2026-08-07T22:17:41.748Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-07T22:17:41.748Z"
+    "FStringFlagRepoGitHashFastString": "df00bb12e079e4f5856918e20aaa4892b111b907",
+    "DFStringFlagRepoGitHashDynamicString": "df00bb12e079e4f5856918e20aaa4892b111b907",
+    "FStringFlipTimeStampFastString": "2026-08-08T00:21:56.559Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-08T00:21:56.559Z"
 }
