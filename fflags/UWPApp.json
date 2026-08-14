@@ -20844,10 +20844,12 @@
     "FFlagCanReplicateScreenshotHudContentPropertiesServer": "True",
     "FFlagCanReplicateTrailContentPropertiesServer": "True",
     "FFlagEditableMeshOnRenderShapeChanged": "True",
-    "FFlagAppChatIxpScreenExposure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-13T21:37:10",
     "FFlagLuaAppGameImpressionsAddUnifiedFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-13T22:10:44",
     "FFlagWhitelistGameJoinEndpoint_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-13T22:23:54",
     "DFFlagClientHealthCheckA": "True",
+    "FFlagSlimCanonicalSkeleton_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;2085982201;2026-08-13T23:18:02",
+    "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Staged": "200;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-08-13T23:19:24",
+    "FFlagAppChatIxpScreenExposure": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21076,8 +21078,8 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
-    "FStringFlagRepoGitHashFastString": "113fc93c918973194ba680798aaad45a3db58abf",
-    "DFStringFlagRepoGitHashDynamicString": "113fc93c918973194ba680798aaad45a3db58abf",
-    "FStringFlipTimeStampFastString": "2026-08-13T23:10:26.512Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-13T23:10:26.512Z"
+    "FStringFlagRepoGitHashFastString": "8792899e47ce96b70210294127883e525afdc35d",
+    "DFStringFlagRepoGitHashDynamicString": "8792899e47ce96b70210294127883e525afdc35d",
+    "FStringFlipTimeStampFastString": "2026-08-13T23:57:49.461Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-13T23:57:49.461Z"
 }
