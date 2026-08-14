@@ -20874,6 +20874,7 @@
     "FFlagPhysicsNarrowphaseBallPolyKernel": "True",
     "FFlagAddFriendsPageCapitalization": "True",
     "FFlagAddFriendsIgnoreAllFoundationMenu": "True",
+    "FStringDebugStudioPluginOTAEmulatedStudioVersion": "\"0.0.0.0\"",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21982,8 +21983,8 @@
     "FStringTextureTranscodeFormat_IXP": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
     "LogCookieManagerInit": "true",
     "DFIntRbxStorageAvailableSpaceErrorMaxCount": "1",
-    "FStringFlagRepoGitHashFastString": "df6cffc32fd5dfe58fcad408f6d4a740dad25d84",
-    "DFStringFlagRepoGitHashDynamicString": "df6cffc32fd5dfe58fcad408f6d4a740dad25d84",
-    "FStringFlipTimeStampFastString": "2026-08-14T20:37:19.906Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-14T20:37:19.906Z"
+    "FStringFlagRepoGitHashFastString": "9f33d71fe8e909978e6bc61e30fbec73c10d9c28",
+    "DFStringFlagRepoGitHashDynamicString": "9f33d71fe8e909978e6bc61e30fbec73c10d9c28",
+    "FStringFlipTimeStampFastString": "2026-08-14T21:37:28.001Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-14T21:37:28.001Z"
 }

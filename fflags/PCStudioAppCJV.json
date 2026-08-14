@@ -20874,6 +20874,7 @@
     "FFlagPhysicsNarrowphaseBallPolyKernel": "True",
     "FFlagAddFriendsPageCapitalization": "True",
     "FFlagAddFriendsIgnoreAllFoundationMenu": "True",
+    "FStringDebugStudioPluginOTAEmulatedStudioVersion": "\"0.0.0.0\"",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -23413,9 +23414,9 @@
     "FFlagDevFrameworkFixWithContextUnsafeLifecycleHoist": "True",
     "DFIntCollectionsLifetimeEventThrottleHundredthsPercent": "10000",
     "FIntAssistantAutoSaveInterval": "300",
-    "FFlagAssistantPersistOnlyForDirtySession_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-14T19:12:30",
-    "FFlagAssistantHarnessSplitExp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-14T19:12:55",
     "FFlagUGCValidateEmissiveMapAllowed": "True",
+    "FFlagAssistantHarnessSplitExp2": "True",
+    "FFlagAssistantPersistOnlyForDirtySession": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -24098,8 +24099,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "df6cffc32fd5dfe58fcad408f6d4a740dad25d84",
-    "DFStringFlagRepoGitHashDynamicString": "df6cffc32fd5dfe58fcad408f6d4a740dad25d84",
-    "FStringFlipTimeStampFastString": "2026-08-14T20:37:19.906Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-14T20:37:19.906Z"
+    "FStringFlagRepoGitHashFastString": "9f33d71fe8e909978e6bc61e30fbec73c10d9c28",
+    "DFStringFlagRepoGitHashDynamicString": "9f33d71fe8e909978e6bc61e30fbec73c10d9c28",
+    "FStringFlipTimeStampFastString": "2026-08-14T21:37:28.001Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-14T21:37:28.001Z"
 }
