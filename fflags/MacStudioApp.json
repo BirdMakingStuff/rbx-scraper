@@ -20875,6 +20875,7 @@
     "FFlagAddFriendsPageCapitalization": "True",
     "FFlagAddFriendsIgnoreAllFoundationMenu": "True",
     "FStringDebugStudioPluginOTAEmulatedStudioVersion": "\"0.0.0.0\"",
+    "FFlagAppNavBarPerItemThemeOverride_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1918041657;2026-08-14T23:32:41",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -24066,8 +24067,8 @@
     "FFlagEditableMeshBatchingBetaFeature": "True",
     "FFlagRenderFixCullHandleTransfer": "True",
     "FFlagMomentsRecommendationClientEventTimestamp": "True",
-    "FStringFlagRepoGitHashFastString": "9f33d71fe8e909978e6bc61e30fbec73c10d9c28",
-    "DFStringFlagRepoGitHashDynamicString": "9f33d71fe8e909978e6bc61e30fbec73c10d9c28",
-    "FStringFlipTimeStampFastString": "2026-08-14T21:37:28.001Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-14T21:37:28.001Z"
+    "FStringFlagRepoGitHashFastString": "fb1beec29f5ec5e7a2ac4de98eb7363fb02ba2ff",
+    "DFStringFlagRepoGitHashDynamicString": "fb1beec29f5ec5e7a2ac4de98eb7363fb02ba2ff",
+    "FStringFlipTimeStampFastString": "2026-08-14T23:32:42.610Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-14T23:32:42.610Z"
 }
