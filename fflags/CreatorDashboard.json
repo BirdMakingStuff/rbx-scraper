@@ -145,5 +145,6 @@
     "enableIpPlatformConditionalOffers": "true",
     "enableCreatorStoreVideoMultipartUpload": "true",
     "enableTaxonomyBasedCreatorDashboard": "false",
-    "taxonomyBasedCreatorDashboardAllowlist": "4282048784"
+    "taxonomyBasedCreatorDashboardAllowlist": "4282048784",
+    "enableEmissive": "true"
 }

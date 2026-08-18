@@ -20984,6 +20984,11 @@
     "FFlagPerformanceControlPhysicsTunableExcludeCloudEdit": "True",
     "FFlagAXFixOpenPurchasePromptForOffersGamepad": "True",
     "FFlagPurchasePromptFixOfferMarginUpsell": "True",
+    "FFlagMCPAssistantPlaceID_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-18T15:56:53",
+    "FFlagStudioUsePlaceOpenConfigToOpenLocalFile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-18T16:02:49",
+    "FFlagSduiOpenIncomingTransferUpsellAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-18T16:09:01",
+    "DFStringRbxAvatarAbilitiesStudioBeta2ContentUri_PlaceFilter": "rbxassetid://138493993690326;85223048902205",
+    "FFlagLuaAppMediaGalleryGamepadSupportsPagingIcons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-18T16:52:54",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -22293,8 +22298,8 @@
     "DFFlagVoicePerExperienceMetrics_PlaceFilter": "True;18206581791;15550215902;6884319169;83560050182573",
     "DFFlagRbxTransportUseOptimizedPacketSenderForRna": "True",
     "FFlagRenderFixMeshBatchNullGeometry_UniverseFilter": "True;1526814825",
-    "FStringFlagRepoGitHashFastString": "cbd0aa30d57205625c70e4701fe239a3751c5023",
-    "DFStringFlagRepoGitHashDynamicString": "cbd0aa30d57205625c70e4701fe239a3751c5023",
-    "FStringFlipTimeStampFastString": "2026-08-18T02:07:37.829Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-18T02:07:37.829Z"
+    "FStringFlagRepoGitHashFastString": "ea8eef3d81c88a960a867d666233228c71eecbe3",
+    "DFStringFlagRepoGitHashDynamicString": "ea8eef3d81c88a960a867d666233228c71eecbe3",
+    "FStringFlipTimeStampFastString": "2026-08-18T16:52:55.959Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-18T16:52:55.959Z"
 }
