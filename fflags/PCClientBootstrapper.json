@@ -341,8 +341,8 @@
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "e2da940297edb821b5b9bc6f5926cc4862ffa4e6",
-    "DFStringFlagRepoGitHashDynamicString": "e2da940297edb821b5b9bc6f5926cc4862ffa4e6",
-    "FStringFlipTimeStampFastString": "2026-08-19T19:44:31.882Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-19T19:44:31.882Z"
+    "FStringFlagRepoGitHashFastString": "7dc3345e33750768891db6cb9e15c694d8367a0c",
+    "DFStringFlagRepoGitHashDynamicString": "7dc3345e33750768891db6cb9e15c694d8367a0c",
+    "FStringFlipTimeStampFastString": "2026-08-19T20:49:14.492Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-19T20:49:14.492Z"
 }
