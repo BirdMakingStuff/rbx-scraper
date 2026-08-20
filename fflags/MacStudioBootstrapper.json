@@ -128,7 +128,6 @@
     "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": "True",
     "DFFlagHttpReportResponseContentLength": "True",
     "DFFlagHttpTrackBandwidthBasedOnMsgSize": "True",
-    "DFFlagConfigServiceTestingEnabled": "True",
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5": "True",
     "FIntMininumRequiredMemoryInMB": "3072",
     "FFlagWinUtilRemoveFileWithErrorCode": "True",
@@ -339,8 +338,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "9740335cec3acf27d35860e1a171537474916f7a",
-    "DFStringFlagRepoGitHashDynamicString": "9740335cec3acf27d35860e1a171537474916f7a",
-    "FStringFlipTimeStampFastString": "2026-08-20T22:50:44.990Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-20T22:50:44.990Z"
+    "FStringFlagRepoGitHashFastString": "f154c8dbc81220749685ed87c9c811a4394795b7",
+    "DFStringFlagRepoGitHashDynamicString": "f154c8dbc81220749685ed87c9c811a4394795b7",
+    "FStringFlipTimeStampFastString": "2026-08-20T23:40:43.888Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-20T23:40:43.888Z"
 }
