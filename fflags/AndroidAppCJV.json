@@ -20988,6 +20988,8 @@
     "FFlagAXFixLookPurchaseMissingPurchaseSuccess": "True",
     "FFlagDeprecateCpv152": "True",
     "FFlagCLI216426PredictUnstitchedInstances": "True",
+    "FStringFRMLockstepProfileOverride_Staged": "{\"MaxStepHill\":{\"0-21\":20},\"StepHill\":{\"0-21\":2}};SteadyState;10;30;Revert;true;332327425;2026-08-21T16:38:36",
+    "FIntFRMConstantFrameTimeTargetMsStatic_Staged": "33;SteadyState;10;30;Revert;true;332327425;2026-08-21T16:38:36",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -22050,7 +22052,7 @@
     "FFlagInvalidFocusHandling": "True",
     "FFlagCreateConnectionsHub_v6": "True",
     "DFIntFRMFinalDistanceMinStuds_IXP": "1;FRM_Experiments;FRM_ConstantFrametimeTargetsAndDrawDistance_Mobile;1559132098;flagbank",
-    "FStringFRMLockstepProfileOverride_IXP": "1;FRM_Experiments;FRM_ConstantFrametimeTargetsAndDrawDistance_Mobile;1559132098;flagbank",
+    "FStringFRMLockstepProfileOverride_IXP": "1;FRM_Experiments;FRM_ConstantFrametimeTargetsAndDrawDistance_Mobile;332327425;flagbank",
     "FFlagFixPreferredBindingUIButtonMod": "True",
     "FFlagCommerceServiceUsesWebViewService2": "True",
     "FFlagEnableAndroidWebViewService4": "True",
@@ -22117,8 +22119,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "2d2272a8da53aec5847d20448112bc6350da439f",
-    "DFStringFlagRepoGitHashDynamicString": "2d2272a8da53aec5847d20448112bc6350da439f",
-    "FStringFlipTimeStampFastString": "2026-08-21T01:37:04.606Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-21T01:37:04.606Z"
+    "FStringFlagRepoGitHashFastString": "210fa755d96b3d079717a693317b58adbf551d37",
+    "DFStringFlagRepoGitHashDynamicString": "210fa755d96b3d079717a693317b58adbf551d37",
+    "FStringFlipTimeStampFastString": "2026-08-21T16:58:07.725Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-21T16:58:07.725Z"
 }
