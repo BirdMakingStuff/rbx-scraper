@@ -20725,7 +20725,7 @@
     "FFlagDopplerFixBurstWhenPlayingAfterMoving": "True",
     "DFFlagFixExitImportanceWrongStorage": "False",
     "DFFlagAuroraDebuggerTimeline": "True",
-    "FFlagCLI214607": "True",
+    "FFlagCLI214607": "False",
     "FFlagDMCTMigratePlayerGuiMedium": "True",
     "FFlagDMCTMigrateTexture": "True",
     "DFFlagRCCMonitoringHardenCloseDelivery": "True",
@@ -20993,7 +20993,6 @@
     "FFlagLuaAppPYMKSendUserSeenCollection": "True",
     "FFlagPerformanceControlSkipAppStartTunableThrottling": "True",
     "FFlagSduiChartsPageSpacingParity": "True",
-    "FFlagCLI214607_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-21T19:52:48",
     "FFlagMemoryPrioritizationCallbackWindowsAsyncFix": "True",
     "FFlagDevFrameworkFormAlignment2": "True",
     "FFlagAmpWizardDeepLinkReplaceOnlyWebView": "True",
@@ -22131,8 +22130,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "89a54cc3c90523937b4c118fcfdfefc916f2f9e8",
-    "DFStringFlagRepoGitHashDynamicString": "89a54cc3c90523937b4c118fcfdfefc916f2f9e8",
-    "FStringFlipTimeStampFastString": "2026-08-21T21:14:09.437Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-21T21:14:09.437Z"
+    "FStringFlagRepoGitHashFastString": "3f558df1d303040157b452b2de3a5ab4e9170d3d",
+    "DFStringFlagRepoGitHashDynamicString": "3f558df1d303040157b452b2de3a5ab4e9170d3d",
+    "FStringFlipTimeStampFastString": "2026-08-21T22:22:04.536Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-21T22:22:04.536Z"
 }
