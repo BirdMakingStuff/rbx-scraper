@@ -23620,7 +23620,7 @@
     "FFlagAppChatShutdownBeforeLaunch": "True",
     "DFLogRupp": "6",
     "FFlagAXNewItemGroupIncrementalHydration3": "True",
-    "FStringGraphicsDX11TurnOffFutureLighting3": "8086:0412",
+    "FStringGraphicsDX11TurnOffFutureLighting3": "8086:0412|8086:64a0",
     "FStringGraphicsDeferShaderLoadingPatternList": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*",
     "FFlagUseFriendsListOrderedByIdPresenceImpressionEventsEnabled": "True",
     "DFFlagHttpCurlPipeWaitEnabled": "False",
@@ -24150,7 +24150,6 @@
     "FFlagReplaceNavbarIconsWithFoundation": "True",
     "DFFlagCSGPublishResolveCancelledPromise": "True",
     "DFFlagRbxTransportFailClosedCapabilityNegotiation": "True",
-    "FStringGraphicsDX11TurnOffFutureLighting3_Staged": "8086:0412|8086:64a0;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-21T23:52:51",
     "FFlagDebugLuaAppValidateProps": "True",
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FLogCloseDataModel": "6",
@@ -24201,8 +24200,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "d28bd2aa08e54c695c2ab1a20243421e2cbea60c",
-    "DFStringFlagRepoGitHashDynamicString": "d28bd2aa08e54c695c2ab1a20243421e2cbea60c",
-    "FStringFlipTimeStampFastString": "2026-08-22T01:42:06.252Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-22T01:42:06.252Z"
+    "FStringFlagRepoGitHashFastString": "abc41c730c7d55e02be32a30fb29e1846cfdd879",
+    "DFStringFlagRepoGitHashDynamicString": "abc41c730c7d55e02be32a30fb29e1846cfdd879",
+    "FStringFlipTimeStampFastString": "2026-08-22T03:11:23.940Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-22T03:11:23.940Z"
 }
