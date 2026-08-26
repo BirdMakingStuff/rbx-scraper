@@ -348,8 +348,8 @@
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerTerminateMenuBarHelper": "True",
     "FIntMomentsReactionDebounceMs": "500",
-    "FStringFlagRepoGitHashFastString": "411bae906f3ed0c7c19dbed1f7491c106b5f8252",
-    "DFStringFlagRepoGitHashDynamicString": "411bae906f3ed0c7c19dbed1f7491c106b5f8252",
-    "FStringFlipTimeStampFastString": "2026-08-26T01:32:13.947Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-26T01:32:13.947Z"
+    "FStringFlagRepoGitHashFastString": "baf9ca795bc6a495d427c8c889cea6ae07ea17ce",
+    "DFStringFlagRepoGitHashDynamicString": "baf9ca795bc6a495d427c8c889cea6ae07ea17ce",
+    "FStringFlipTimeStampFastString": "2026-08-26T18:03:27.677Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-26T18:03:27.677Z"
 }
