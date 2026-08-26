@@ -329,6 +329,7 @@
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
     "FFlagEnableKeystoreAutoLogin": "False",
+    "FFlagLuaAppSentryReporterIncludeInTags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-26T19:23:13",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -340,8 +341,8 @@
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
-    "FStringFlagRepoGitHashFastString": "baf9ca795bc6a495d427c8c889cea6ae07ea17ce",
-    "DFStringFlagRepoGitHashDynamicString": "baf9ca795bc6a495d427c8c889cea6ae07ea17ce",
-    "FStringFlipTimeStampFastString": "2026-08-26T18:03:27.677Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-26T18:03:27.677Z"
+    "FStringFlagRepoGitHashFastString": "0e70c6303ff6f16552e3f88e11be58731e32c4dc",
+    "DFStringFlagRepoGitHashDynamicString": "0e70c6303ff6f16552e3f88e11be58731e32c4dc",
+    "FStringFlipTimeStampFastString": "2026-08-26T20:28:41.496Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-26T20:28:41.496Z"
 }
