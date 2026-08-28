@@ -340,8 +340,8 @@
     "FFlagNotificationPersonAddIcons": "True",
     "FFlagAXUnifiedItemFooterPriceFix": "True",
     "FIntMomentsReactionDebounceMs": "500",
-    "FStringFlagRepoGitHashFastString": "950da4937a0bc3437b1b7ab527a9d831c0a4c3d9",
-    "DFStringFlagRepoGitHashDynamicString": "950da4937a0bc3437b1b7ab527a9d831c0a4c3d9",
-    "FStringFlipTimeStampFastString": "2026-08-28T01:02:09.024Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-28T01:02:09.024Z"
+    "FStringFlagRepoGitHashFastString": "27ce0bc5f939e4e1d5bad379a9c4e0c928340d5a",
+    "DFStringFlagRepoGitHashDynamicString": "27ce0bc5f939e4e1d5bad379a9c4e0c928340d5a",
+    "FStringFlipTimeStampFastString": "2026-08-28T04:05:37.406Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-28T04:05:37.406Z"
 }
