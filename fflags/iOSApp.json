@@ -21350,8 +21350,6 @@
     "DFFlagAeroClampSinCosTheta": "True",
     "FFlagAXSlotsDisableScrollAwayOnLandscape": "True",
     "FFlagLuaAppSentryReporterIncludeInTags": "True",
-    "FFlagCompressGzipUseYieldEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-31T23:25:06",
-    "FFlagAddFriendsContactImporterAcceptTrustedFriendToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-31T23:26:19",
     "DFFlagAttachPopUdpProbeToGameJoin2": "True",
     "FFlagAppNavBarPerItemThemeOverride2": "True",
     "FStringAddSchoolDeepLinkPattern": "roblox.*://navigation/add_school.*",
@@ -21375,6 +21373,8 @@
     "FFlagExpChatUseTooltipPromptStyle": "True",
     "FFlagLuaAppBootcampIntroUABOOTCAMP196": "True",
     "FFlagBuildDesktopReadiness": "True",
+    "FFlagCompressGzipUseYieldEnabled": "True",
+    "FFlagAddFriendsContactImporterAcceptTrustedFriendToast": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -22636,8 +22636,8 @@
     "FFlagMomentsUploadOutcomeTelemetry": "True",
     "DFFlagPrewarmDeferredIXPAssetsPostTTI": "True",
     "FFlagSupportGcRegionQuotaSource": "True",
-    "FStringFlagRepoGitHashFastString": "c969e3923d0f46e46cb250d5be453ecd064baf5a",
-    "DFStringFlagRepoGitHashDynamicString": "c969e3923d0f46e46cb250d5be453ecd064baf5a",
-    "FStringFlipTimeStampFastString": "2026-09-01T01:07:09.695Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-01T01:07:09.695Z"
+    "FStringFlagRepoGitHashFastString": "9195f8a2126cb43f1999b54d5138bba0a8bed848",
+    "DFStringFlagRepoGitHashDynamicString": "9195f8a2126cb43f1999b54d5138bba0a8bed848",
+    "FStringFlipTimeStampFastString": "2026-09-01T01:52:33.639Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-01T01:52:33.639Z"
 }
