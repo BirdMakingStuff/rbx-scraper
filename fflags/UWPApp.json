@@ -21481,7 +21481,6 @@
     "FFlagExpChatDedupChannelConnections": "True",
     "FFlagExpChatRemoveOrphanedChannels": "True",
     "DFFlagEnableOpenUrlSchemeBlocking": "True",
-    "FFlagToolboxDescriptionColumnClickable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-02T23:33:11",
     "FFlagAdEndpointConnectivityProbeEnabled": "True",
     "FFlagStudioCatchPluginLoadingOOM": "True",
     "FFlagStudioFixDebugShortcuts": "True",
@@ -21489,6 +21488,7 @@
     "FFlagLuaAppPlatformRestrictionVPC": "True",
     "FFlagVulkanComputeToComputeBarrier": "True",
     "FIntUGCMinCageRelevancyThreshold": "10",
+    "FFlagToolboxDescriptionColumnClickable": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21715,8 +21715,8 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
-    "FStringFlagRepoGitHashFastString": "16daa3883fcfb1e8fe535cb6a80947e4ed393936",
-    "DFStringFlagRepoGitHashDynamicString": "16daa3883fcfb1e8fe535cb6a80947e4ed393936",
-    "FStringFlipTimeStampFastString": "2026-09-03T00:27:37.219Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-03T00:27:37.219Z"
+    "FStringFlagRepoGitHashFastString": "5a46040b8deddb234c5b106fd446bfcafcd3c351",
+    "DFStringFlagRepoGitHashDynamicString": "5a46040b8deddb234c5b106fd446bfcafcd3c351",
+    "FStringFlipTimeStampFastString": "2026-09-03T01:36:57.143Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-03T01:36:57.143Z"
 }
