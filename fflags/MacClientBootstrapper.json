@@ -327,6 +327,13 @@
     "FFlagDiagnoseWindowsRegistryFailure": "True",
     "FIntMomentsReactionDebounceMs": "500",
     "FFlagMomentsDebounceReactions": "True",
+    "FFlagEnableLoginNetworkingErrorToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-03T17:43:02",
+    "FFlagFixLoginButtonSpamClickRace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-03T17:44:39",
+    "FFlagMacInstallerUseTargetChannelForUpdate": "True",
+    "FFlagWinInstallerHandleNewExeName3": "True",
+    "FFlagUserFreecamIASRefactor1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1879982680;2026-09-03T18:23:01",
+    "FFlagUserFreecamIASRefactor2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1879982680;2026-09-03T18:23:01",
+    "FFlagUserFreecamIASRefactor3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1879982680;2026-09-03T18:23:01",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXRemoveDividers": "True",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
@@ -349,8 +356,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerTerminateMenuBarHelper": "True",
-    "FStringFlagRepoGitHashFastString": "5a46040b8deddb234c5b106fd446bfcafcd3c351",
-    "DFStringFlagRepoGitHashDynamicString": "5a46040b8deddb234c5b106fd446bfcafcd3c351",
-    "FStringFlipTimeStampFastString": "2026-09-03T01:36:57.143Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-03T01:36:57.143Z"
+    "FStringFlagRepoGitHashFastString": "504c01d695ac65ac652d95461c2f3fce5dcd78ed",
+    "DFStringFlagRepoGitHashDynamicString": "504c01d695ac65ac652d95461c2f3fce5dcd78ed",
+    "FStringFlipTimeStampFastString": "2026-09-03T19:14:21.475Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-03T19:14:21.475Z"
 }
