@@ -20734,6 +20734,7 @@
     "FFlagEnablePromptAgeCheck": "True",
     "FFlagLuaAppRemoveNumericalSortIndexSearch": "True",
     "FFlagSduiFormatStringPercentSafeGsub": "True",
+    "FFlagLuaAppsMarkButtonStartWithHat": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -21884,8 +21885,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "84805bed1f20171b8b77c6666e366cc7f8d2d022",
-    "DFStringFlagRepoGitHashDynamicString": "84805bed1f20171b8b77c6666e366cc7f8d2d022",
-    "FStringFlipTimeStampFastString": "2026-09-04T21:52:58.113Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-04T21:52:58.113Z"
+    "FStringFlagRepoGitHashFastString": "0a91c75e9a14608dffd696026d2c18d5c9f6c2d5",
+    "DFStringFlagRepoGitHashDynamicString": "0a91c75e9a14608dffd696026d2c18d5c9f6c2d5",
+    "FStringFlipTimeStampFastString": "2026-09-07T16:41:59.987Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-07T16:41:59.987Z"
 }
