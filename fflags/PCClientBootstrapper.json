@@ -51,7 +51,6 @@
     "FFlagAXUseDynamicIsLooksWidget": "True",
     "DFFlagMeshLODTranscode2": "False",
     "FFlagReportIsFriendsWithUsage": "True",
-    "FFlagAXEnableOrganicContentTemplates2": "True",
     "FFlagAgreementItemsOrderFixEnabled": "True",
     "FFlagEnableCatalogTileLoadingLatencyV2": "True",
     "DFIntTeamCreateSaveCompressionFailureTelemetryThrottleHundredthsPercent": "10000",
@@ -330,8 +329,8 @@
     "InfluxHundredthsPercentage": "0",
     "InfluxInstallHundredthsPercentage": "10000",
     "ShowInstallSuccessPrompt": "True",
-    "FStringFlagRepoGitHashFastString": "fbdf9f82b3e9834f026bc425df9f8219609e2085",
-    "DFStringFlagRepoGitHashDynamicString": "fbdf9f82b3e9834f026bc425df9f8219609e2085",
-    "FStringFlipTimeStampFastString": "2026-09-10T21:42:36.389Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-10T21:42:36.389Z"
+    "FStringFlagRepoGitHashFastString": "3d719df03c56197eb1e223472cc0c8ae3d11f99d",
+    "DFStringFlagRepoGitHashDynamicString": "3d719df03c56197eb1e223472cc0c8ae3d11f99d",
+    "FStringFlipTimeStampFastString": "2026-09-11T00:08:40.809Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-11T00:08:40.809Z"
 }
