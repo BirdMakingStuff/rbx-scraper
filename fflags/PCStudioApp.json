@@ -23392,7 +23392,7 @@
     "FFlagStudioOwnLpplInPlaceLatestStateComponent": "True",
     "FFlagStudioPlaceSessionScopeUseMap": "True",
     "FFlagStudioRemovePlayDocFromDocManagerB2": "True",
-    "FFlagStudioRemoveRESTRICTEDGetPSCPartF3": "True",
+    "FFlagStudioRemoveRESTRICTEDGetPSCPartF3": "False",
     "FFlagStudioPlaceCloserComponent": "True",
     "FFlagDeviceSimulatorToolbarWaitForDataModel": "True",
     "FStringAutoReimportBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-auto-reimport-automatically-reimport-external-files-on-changes/4859863",
@@ -23421,7 +23421,6 @@
     "DFFlagPluginGuiFixCloseCallbackUseAfterFree": "True",
     "FFlagStudioFixDebuggerMDIStartup": "True",
     "FFlagStudioMoveMainEngineWidget": "True",
-    "FFlagStudioRemoveRESTRICTEDGetPSCPartF3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-11T22:39:05",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -24083,8 +24082,8 @@
     "FFlagRenderFixMeshBatchNullGeometry2": "True",
     "FFlagUpgradedUIGradientsBetaFeature": "True",
     "FFlagDisableWindowsAccessibilityHotkeys": "True",
-    "FStringFlagRepoGitHashFastString": "e374c842f1033b2141a84870badd2f434b5fd257",
-    "DFStringFlagRepoGitHashDynamicString": "e374c842f1033b2141a84870badd2f434b5fd257",
-    "FStringFlipTimeStampFastString": "2026-09-11T22:39:07.007Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-11T22:39:07.007Z"
+    "FStringFlagRepoGitHashFastString": "c599b7d2860020ff94bd2f9136e27a6460d6f5c5",
+    "DFStringFlagRepoGitHashDynamicString": "c599b7d2860020ff94bd2f9136e27a6460d6f5c5",
+    "FStringFlipTimeStampFastString": "2026-09-12T00:42:05.840Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-12T00:42:05.840Z"
 }
