@@ -21318,8 +21318,9 @@
     "FFlagAXFixR6CharacterPlacement": "True",
     "DFFlagRbxStorageReportDbCacheAvailable": "True",
     "FFlagMoveRemaingAssetRequestsToAssetProvider": "True",
-    "FStringFlagRepoGitHashFastString": "c599b7d2860020ff94bd2f9136e27a6460d6f5c5",
-    "DFStringFlagRepoGitHashDynamicString": "c599b7d2860020ff94bd2f9136e27a6460d6f5c5",
-    "FStringFlipTimeStampFastString": "2026-09-12T00:42:05.840Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-12T00:42:05.840Z"
+    "FFlagEnableInExperienceShop3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-12T23:33:21",
+    "FStringFlagRepoGitHashFastString": "55bf9d1154aa3fe6f0b34a20e8d3daaa387a94f2",
+    "DFStringFlagRepoGitHashDynamicString": "55bf9d1154aa3fe6f0b34a20e8d3daaa387a94f2",
+    "FStringFlipTimeStampFastString": "2026-09-12T23:33:23.321Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-12T23:33:23.321Z"
 }
