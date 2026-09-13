@@ -18146,8 +18146,6 @@
     "FFlagVoiceConnectionInterruptionTracking2": "True",
     "DFIntMeshCompressionSampleRateHundredthsPercent": "10",
     "DFFlagAnimationSADestroyAnimateOnDeath": "True",
-    "FFlagEnableInExperienceShop3_IXP": "1;Economy.DevMoney.InExperienceShops;Economy.DevMoney.InExperienceShopExperiment-PlainRobux-V2;22326948;flagbank",
-    "FFlagEnableRobuxInExperienceShop3_IXP": "1;Economy.DevMoney.InExperienceShops;Economy.DevMoney.InExperienceShopExperiment-PlainRobux-V2;22326948;flagbank",
     "FFlagPopulateUserInfoInStudio": "True",
     "FFlagFixGhostTextNegativeBottomMargin": "True",
     "FFlagEnablePromptRobuxTransferDedicatedUpsellEvent": "True",
@@ -21318,8 +21316,8 @@
     "FFlagAXFixR6CharacterPlacement": "True",
     "DFFlagRbxStorageReportDbCacheAvailable": "True",
     "FFlagMoveRemaingAssetRequestsToAssetProvider": "True",
-    "FStringFlagRepoGitHashFastString": "da72dfcc96b61f56f8b49f39386030a2ca805db8",
-    "DFStringFlagRepoGitHashDynamicString": "da72dfcc96b61f56f8b49f39386030a2ca805db8",
-    "FStringFlipTimeStampFastString": "2026-09-13T03:02:03.541Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-13T03:02:03.541Z"
+    "FStringFlagRepoGitHashFastString": "87b7bef3b55b32e3168fd0a5e83f602990a8b138",
+    "DFStringFlagRepoGitHashDynamicString": "87b7bef3b55b32e3168fd0a5e83f602990a8b138",
+    "FStringFlipTimeStampFastString": "2026-09-13T19:32:07.992Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-13T19:32:07.992Z"
 }

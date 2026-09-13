@@ -18146,8 +18146,6 @@
     "FFlagVoiceConnectionInterruptionTracking2": "True",
     "DFIntMeshCompressionSampleRateHundredthsPercent": "10",
     "DFFlagAnimationSADestroyAnimateOnDeath": "True",
-    "FFlagEnableInExperienceShop3_IXP": "1;Economy.DevMoney.InExperienceShops;Economy.DevMoney.InExperienceShopExperiment-PlainRobux-V2;22326948;flagbank",
-    "FFlagEnableRobuxInExperienceShop3_IXP": "1;Economy.DevMoney.InExperienceShops;Economy.DevMoney.InExperienceShopExperiment-PlainRobux-V2;22326948;flagbank",
     "FFlagPopulateUserInfoInStudio": "True",
     "FFlagFixGhostTextNegativeBottomMargin": "True",
     "FFlagEnablePromptRobuxTransferDedicatedUpsellEvent": "True",
@@ -22091,8 +22089,8 @@
     "DFStringOpenUrlSchemeAllowlistAdditions": "ovrweb",
     "DFFlagEnableRenderLimitedCheckForMaquettes_IXP": "1;ConsumerPlatforms.VR.FrameRateManager;ConsumerPlatforms.VR.FrameRateManager.OptimizedLockstepTable;2078746975;flagbank",
     "FFlagMaquettesVrOptimizedTable_IXP": "1;ConsumerPlatforms.VR.FrameRateManager;ConsumerPlatforms.VR.FrameRateManager.OptimizedLockstepTable;2078746975;flagbank",
-    "FStringFlagRepoGitHashFastString": "2b8b8ead04f3b22d81e6058421077220e79aaf2c",
-    "DFStringFlagRepoGitHashDynamicString": "2b8b8ead04f3b22d81e6058421077220e79aaf2c",
-    "FStringFlipTimeStampFastString": "2026-09-13T05:01:46.128Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-13T05:01:46.128Z"
+    "FStringFlagRepoGitHashFastString": "87b7bef3b55b32e3168fd0a5e83f602990a8b138",
+    "DFStringFlagRepoGitHashDynamicString": "87b7bef3b55b32e3168fd0a5e83f602990a8b138",
+    "FStringFlipTimeStampFastString": "2026-09-13T19:32:07.992Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-13T19:32:07.992Z"
 }
