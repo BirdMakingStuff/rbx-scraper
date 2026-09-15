@@ -21002,9 +21002,6 @@
     "DFFlagRbxTransportQuicOnewayShutdown": "True",
     "FFlagLuauGetDeclarationDoesntInfiniteLoop": "True",
     "FFlagLuauNormalizeGuardAgainstNonTestableNegations": "True",
-    "FFlagMomentsJoinImpression_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-14T23:36:30",
-    "FFlagMomentsFeedMediaLoadAttemptedEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-14T23:36:59",
-    "FFlagMomentsCreationEntryOutcome_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-14T23:37:22",
     "FFlagPlatformLeaderboardPersistStoreOnRemount": "True",
     "FFlagEnableAdConsentUserSettingsPublish": "True",
     "DFFlagWsClientClearPollsEveryLoop": "True",
@@ -21031,6 +21028,9 @@
     "FFlagEnableDrawerAnimatingHook": "True",
     "FFlagBuildExperienceRemoveAgentTaskUi": "True",
     "FFlagGetWaveformAsyncChannelCap": "True",
+    "FFlagMomentsCreationEntryOutcome": "True",
+    "FFlagMomentsFeedMediaLoadAttemptedEvent": "True",
+    "FFlagMomentsJoinImpression": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -24239,8 +24239,8 @@
     "FStringStudioDevforumUrl": "https://forum.robloxdev.cn/c/platform-feedback/studio-bugs",
     "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
     "FFlagIsLuobuBuild": "True",
-    "FStringFlagRepoGitHashFastString": "65757c4be8b10a77d654e2a453eea354adf57666",
-    "DFStringFlagRepoGitHashDynamicString": "65757c4be8b10a77d654e2a453eea354adf57666",
-    "FStringFlipTimeStampFastString": "2026-09-15T01:17:16.948Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-15T01:17:16.948Z"
+    "FStringFlagRepoGitHashFastString": "76c691264226bf91af3f12ff95f7a0be56739931",
+    "DFStringFlagRepoGitHashDynamicString": "76c691264226bf91af3f12ff95f7a0be56739931",
+    "FStringFlipTimeStampFastString": "2026-09-15T01:42:18.662Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-15T01:42:18.662Z"
 }
