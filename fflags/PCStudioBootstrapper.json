@@ -318,6 +318,7 @@
     "FFlagMomentsCreationMusicSearchCountTelemetry": "True",
     "FFlagStudioUpdateEmergencyDialogWording": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
+    "FFlagMomentsCreationAllowAPMMusic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T19:07:14",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
     "FFlagEnableKeystoreAutoLogin": "False",
@@ -330,8 +331,9 @@
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "6ba49c887b44867282d7a76f6dbc714209414228",
-    "DFStringFlagRepoGitHashDynamicString": "6ba49c887b44867282d7a76f6dbc714209414228",
-    "FStringFlipTimeStampFastString": "2026-09-16T05:18:32.780Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-16T05:18:32.780Z"
+    "FFlagMomentsCreationMusicSearchStateFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T18:27:47",
+    "FStringFlagRepoGitHashFastString": "c5340012dee04f069e43475e4695f69c6b53aa16",
+    "DFStringFlagRepoGitHashDynamicString": "c5340012dee04f069e43475e4695f69c6b53aa16",
+    "FStringFlipTimeStampFastString": "2026-09-16T19:33:32.590Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-16T19:33:32.590Z"
 }
