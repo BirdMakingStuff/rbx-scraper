@@ -317,8 +317,9 @@
     "FFlagMomentsCreationMusicSearchStateFix": "True",
     "FFlagMomentsCreationMusicSearchCountTelemetry": "True",
     "FFlagStudioUpdateEmergencyDialogWording": "True",
+    "FFlagInstallerRegistryUseSetValueAccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T21:22:40",
+    "FFlagMomentsCreationAllowAPMMusic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T22:39:40",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
-    "FFlagMomentsCreationAllowAPMMusic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T19:07:14",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
     "FFlagBehaviorCollectionControlEnabled": "True",
     "FFlagAppChatBehaviorCollectionEnabledMaster": "True",
@@ -329,9 +330,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FFlagMomentsCreationMusicSearchStateFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T18:27:47",
-    "FStringFlagRepoGitHashFastString": "c5340012dee04f069e43475e4695f69c6b53aa16",
-    "DFStringFlagRepoGitHashDynamicString": "c5340012dee04f069e43475e4695f69c6b53aa16",
-    "FStringFlipTimeStampFastString": "2026-09-16T19:33:32.590Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-16T19:33:32.590Z"
+    "FStringFlagRepoGitHashFastString": "f90e5fec8e8374fa209970c66d217699dee5d98a",
+    "DFStringFlagRepoGitHashDynamicString": "f90e5fec8e8374fa209970c66d217699dee5d98a",
+    "FStringFlipTimeStampFastString": "2026-09-16T23:02:45.426Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-16T23:02:45.426Z"
 }
