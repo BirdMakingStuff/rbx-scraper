@@ -317,8 +317,8 @@
     "FFlagMomentsCreationMusicSearchStateFix": "True",
     "FFlagMomentsCreationMusicSearchCountTelemetry": "True",
     "FFlagStudioUpdateEmergencyDialogWording": "True",
-    "FFlagInstallerRegistryUseSetValueAccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T21:22:40",
-    "FFlagMomentsCreationAllowAPMMusic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-16T22:39:40",
+    "FFlagInstallerRegistryUseSetValueAccess": "True",
+    "FFlagMomentsCreationAllowAPMMusic": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
     "FFlagBehaviorCollectionControlEnabled": "True",
@@ -339,8 +339,8 @@
     "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
     "DeprecatedOSXMajorVersion": "10",
     "FFlagMacInstallerTerminateMenuBarHelper": "True",
-    "FStringFlagRepoGitHashFastString": "f90e5fec8e8374fa209970c66d217699dee5d98a",
-    "DFStringFlagRepoGitHashDynamicString": "f90e5fec8e8374fa209970c66d217699dee5d98a",
-    "FStringFlipTimeStampFastString": "2026-09-16T23:02:45.426Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-16T23:02:45.426Z"
+    "FStringFlagRepoGitHashFastString": "aac546a0c74d525867f4ffd8afc331a8df5bb9be",
+    "DFStringFlagRepoGitHashDynamicString": "aac546a0c74d525867f4ffd8afc331a8df5bb9be",
+    "FStringFlipTimeStampFastString": "2026-09-17T01:32:15.623Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-17T01:32:15.623Z"
 }
