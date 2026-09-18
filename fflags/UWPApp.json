@@ -20906,7 +20906,7 @@
     "DFFlagFindLadderPiercingRotMatOptimization": "True",
     "FFlagVideoWebrtcForwardKeyframeFlag": "True",
     "FFlagPresenceEventReceiverRefetchOnAppForeground": "True",
-    "FFlagStudioAssistantPermissionsScriptCapabilities": "True",
+    "FFlagStudioAssistantPermissionsScriptCapabilities": "False",
     "FFlagBuildFixLiveStaleness": "True",
     "FFlagBuildPublishTerminologyChange": "True",
     "FFlagEnableAttributionContextOrganicWriteV1": "True",
@@ -21502,8 +21502,8 @@
     "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
     "FFlagUwpAlwaysLinkToSlashDownload": "False",
     "FIntUwpDeprecationDate": "1763672400",
-    "FStringFlagRepoGitHashFastString": "38ca1b1537cbeed1c1bd57669f238de9322102f7",
-    "DFStringFlagRepoGitHashDynamicString": "38ca1b1537cbeed1c1bd57669f238de9322102f7",
-    "FStringFlipTimeStampFastString": "2026-09-18T00:57:20.381Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-18T00:57:20.381Z"
+    "FStringFlagRepoGitHashFastString": "90cbca94d936da39fab4246a978b1887190f81de",
+    "DFStringFlagRepoGitHashDynamicString": "90cbca94d936da39fab4246a978b1887190f81de",
+    "FStringFlipTimeStampFastString": "2026-09-18T06:02:07.540Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-18T06:02:07.540Z"
 }

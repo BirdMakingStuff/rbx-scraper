@@ -20906,7 +20906,7 @@
     "DFFlagFindLadderPiercingRotMatOptimization": "True",
     "FFlagVideoWebrtcForwardKeyframeFlag": "True",
     "FFlagPresenceEventReceiverRefetchOnAppForeground": "True",
-    "FFlagStudioAssistantPermissionsScriptCapabilities": "True",
+    "FFlagStudioAssistantPermissionsScriptCapabilities": "False",
     "FFlagBuildFixLiveStaleness": "True",
     "FFlagBuildPublishTerminologyChange": "True",
     "FFlagEnableAttributionContextOrganicWriteV1": "True",
@@ -22409,8 +22409,8 @@
     "FIntPerformanceControlCrashMetricPostProcessingAlgorithmType2_IXP": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207;1078362127;dev_controlled",
     "DFIntVoiceRtcStatsSplitEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
     "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "38ca1b1537cbeed1c1bd57669f238de9322102f7",
-    "DFStringFlagRepoGitHashDynamicString": "38ca1b1537cbeed1c1bd57669f238de9322102f7",
-    "FStringFlipTimeStampFastString": "2026-09-18T00:57:20.381Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-18T00:57:20.381Z"
+    "FStringFlagRepoGitHashFastString": "90cbca94d936da39fab4246a978b1887190f81de",
+    "DFStringFlagRepoGitHashDynamicString": "90cbca94d936da39fab4246a978b1887190f81de",
+    "FStringFlipTimeStampFastString": "2026-09-18T06:02:07.540Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-18T06:02:07.540Z"
 }
