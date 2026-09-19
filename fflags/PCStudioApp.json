@@ -23878,7 +23878,7 @@
     "FFlagStudioEnforceTcSessionFlagAtJoin": "True",
     "FStringPublishStatusFallbackPath": "dashboard/creations/experiences/{universeId}/configure",
     "DFFlagFriendsApiCallerIdentityParam": "False",
-    "FFlagGen3dSkipFoundationPanelPrewarm_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-18T23:32:48",
+    "FFlagGen3dSkipFoundationPanelPrewarm": "True",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableAdsMouseUnlock": "True",
     "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -24539,7 +24539,7 @@
     "FFlagTexturePackGeneratorUseOriginal": "True",
     "FIntMaxCloudAssetDimension": "4096",
     "FIntTranscoderTextureDimensionMax": "4096",
-    "FFlagEnableFrustumAutomation": "True",
+    "FFlagEnableFrustumAutomation": "False",
     "FFlagStartEnumFontFamilyCallAsync": "False",
     "FFlagMvTpRequestsFix": "True",
     "FFlagStudioMeshStreamingLodSyncUX": "True",
@@ -24553,9 +24553,8 @@
     "FFlagRenderFixCullHandleTransfer": "True",
     "FFlagUpgradedUIGradientsBetaFeature": "True",
     "FFlagRenderMeshStreamingLodGapTelemetry": "True",
-    "FFlagEnableFrustumAutomation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1692284628;2026-09-19T00:07:26",
-    "FStringFlagRepoGitHashFastString": "af489b13c1b8cd9142080d07fd183643662fdc95",
-    "DFStringFlagRepoGitHashDynamicString": "af489b13c1b8cd9142080d07fd183643662fdc95",
-    "FStringFlipTimeStampFastString": "2026-09-19T00:07:27.806Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-19T00:07:27.806Z"
+    "FStringFlagRepoGitHashFastString": "3d0596d0341398161bc886277e0380d34ca851e5",
+    "DFStringFlagRepoGitHashDynamicString": "3d0596d0341398161bc886277e0380d34ca851e5",
+    "FStringFlipTimeStampFastString": "2026-09-19T03:02:16.352Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-19T03:02:16.352Z"
 }
