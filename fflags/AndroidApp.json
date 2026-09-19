@@ -21212,7 +21212,7 @@
     "FFlagPublishAssetPromptItemDetailsTelemetry": "True",
     "FFlagSimVolumeWeightedSubmergeRatio": "True",
     "DFFlagExplorerChildSignalConnectOnDMThread": "True",
-    "FFlagGuacMomentsFeatureList": "True",
+    "FFlagGuacMomentsFeatureList": "False",
     "FFlagEnableGameJoinEarlyAccess": "False",
     "FFlagSkipPaymentSessionForPlainRobux": "True",
     "FFlagAXPlusSubscribeBannerRestyle": "True",
@@ -22427,8 +22427,8 @@
     "FIntPerformanceControlCrashMetricPostProcessingAlgorithmType2_IXP": "1;HarmonyExposure;PerformanceControlTestPostProcessingAlgorithms-1789366196207;1078362127;dev_controlled",
     "DFIntVoiceRtcStatsSplitEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
     "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "3d0596d0341398161bc886277e0380d34ca851e5",
-    "DFStringFlagRepoGitHashDynamicString": "3d0596d0341398161bc886277e0380d34ca851e5",
-    "FStringFlipTimeStampFastString": "2026-09-19T03:02:16.352Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-19T03:02:16.352Z"
+    "FStringFlagRepoGitHashFastString": "1bf2295751fb8a18b9a910b23d3343cd24baf1bc",
+    "DFStringFlagRepoGitHashDynamicString": "1bf2295751fb8a18b9a910b23d3343cd24baf1bc",
+    "FStringFlipTimeStampFastString": "2026-09-19T19:38:08.677Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-19T19:38:08.677Z"
 }
