@@ -21508,7 +21508,6 @@
     "FStringWebBrowserMultiPreloadPaths": "/store/models,/studio",
     "FFlagSlimTintUsePartColor": "True",
     "FFlagStudioFixLocalPlaceFileArgQuoting": "True",
-    "FFlagSocialServiceExperienceEventsAdditionalFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-22T23:47:54",
     "FFlagDisableGoogleAnalyticsErrorReporting": "True",
     "FFlagFixThumbnailLoadingErrorPropagation": "True",
     "DFFlagFixTriangleMeshPartPhysicsData": "True",
@@ -21525,6 +21524,7 @@
     "FFlagStudioViewportVisualizationContext": "True",
     "FFlagLuaAppSentryStampOccurrenceTime": "True",
     "FFlagAnimGraphUIParameterPaneAlignment": "True",
+    "FFlagSocialServiceExperienceEventsAdditionalFields": "True",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -22818,8 +22818,8 @@
     "FFlagAXCustomizeTabDeepLink2": "True",
     "DFFlagMacDeeplinkShowWindow": "True",
     "FFlagSduiSkipFeedAnalyticsPosition": "True",
-    "FStringFlagRepoGitHashFastString": "0add790f027f0ff25590e402f2414849c9b3cbca",
-    "DFStringFlagRepoGitHashDynamicString": "0add790f027f0ff25590e402f2414849c9b3cbca",
-    "FStringFlipTimeStampFastString": "2026-09-23T00:52:18.988Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-23T00:52:18.988Z"
+    "FStringFlagRepoGitHashFastString": "107d2f0eec146c141b130a7f7ca0cd45fadaffb3",
+    "DFStringFlagRepoGitHashDynamicString": "107d2f0eec146c141b130a7f7ca0cd45fadaffb3",
+    "FStringFlipTimeStampFastString": "2026-09-23T01:52:05.766Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-23T01:52:05.766Z"
 }
