@@ -22785,8 +22785,8 @@
     "FFlagAndroidSendTouchEndVelocity_IXP": "1;UniversalApp.Scrolling;UniversalApp.Scrolling.Android.Fix.2;90152845;flagbank",
     "FFlagScrollerDontCumulateDragEventsWithinFrame_IXP": "1;UniversalApp.Scrolling;UniversalApp.Scrolling.Android.Fix.2;90152845;flagbank",
     "FFlagScrollerUsePlatformVelocity_IXP": "1;UniversalApp.Scrolling;UniversalApp.Scrolling.Android.Fix.2;90152845;flagbank",
-    "FStringFlagRepoGitHashFastString": "33de0bd52a0e5f733d326a1f97a6953d6d5b046f",
-    "DFStringFlagRepoGitHashDynamicString": "33de0bd52a0e5f733d326a1f97a6953d6d5b046f",
-    "FStringFlipTimeStampFastString": "2026-09-25T23:07:22.744Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-25T23:07:22.744Z"
+    "FStringFlagRepoGitHashFastString": "3e19b0758a13ce9e7674a9d198696d5e74d84fa9",
+    "DFStringFlagRepoGitHashDynamicString": "3e19b0758a13ce9e7674a9d198696d5e74d84fa9",
+    "FStringFlipTimeStampFastString": "2026-09-26T00:05:39.703Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-26T00:05:39.703Z"
 }
