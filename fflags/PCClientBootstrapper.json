@@ -336,8 +336,8 @@
     "ShowInstallSuccessPrompt": "True",
     "FFlagMomentsCreationSkipRecordingCodeFilter": "True",
     "FFlagUserAgreementsDynamicBodyText": "True",
-    "FStringFlagRepoGitHashFastString": "e98059e32042bcff9e0622387f13d165669e1e59",
-    "DFStringFlagRepoGitHashDynamicString": "e98059e32042bcff9e0622387f13d165669e1e59",
-    "FStringFlipTimeStampFastString": "2026-09-29T20:55:18.576Z",
-    "DFStringFlipTimeStampDynamicString": "2026-09-29T20:55:18.576Z"
+    "FStringFlagRepoGitHashFastString": "d784c7b569bbd604c6cbc2b4543a8859e466ae44",
+    "DFStringFlagRepoGitHashDynamicString": "d784c7b569bbd604c6cbc2b4543a8859e466ae44",
+    "FStringFlipTimeStampFastString": "2026-09-30T00:00:59.299Z",
+    "DFStringFlipTimeStampDynamicString": "2026-09-30T00:00:59.299Z"
 }
