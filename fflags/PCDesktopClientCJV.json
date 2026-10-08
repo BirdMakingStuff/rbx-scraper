@@ -21654,7 +21654,6 @@
     "FFlagSessionReparentL2OnL1Transition": "True",
     "FFlagPlayerSupportStructuredErrorReasons": "True",
     "DFFlagRuppAllowImmediateTokenRegeneration": "True",
-    "FFlagTerrainPerPlaceGrid2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-07T23:11:55",
     "FFlagAmrAcceptFriendlyEnumNames": "True",
     "FFlagGpuVoxelCompression": "True",
     "FFlagRenderEnvMapUseRoomCenterForCapture": "True",
@@ -21679,6 +21678,7 @@
     "FFlagAnimGraphUI_FixCanvasRepaintOnRemount": "True",
     "FFlagAnimationR15SwimFingerToeTracks": "True",
     "FFlagAvatarSettingsControllerModeLoadTimeOnly": "True",
+    "FFlagTerrainPerPlaceGrid2": "False",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -23067,8 +23067,8 @@
     "FFlagAmpV2WizardNoCanvasGroupDim": "True",
     "FFlagEnableCategoryLoggingInShop": "True",
     "FFlagParseStableCategoryId": "True",
-    "FStringFlagRepoGitHashFastString": "d42292283f50ac98eed627a4b38a192f308828f7",
-    "DFStringFlagRepoGitHashDynamicString": "d42292283f50ac98eed627a4b38a192f308828f7",
-    "FStringFlipTimeStampFastString": "2026-10-08T01:07:35.441Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-08T01:07:35.441Z"
+    "FStringFlagRepoGitHashFastString": "27195b3dc1f8115d038c0809096c06d9d13234b3",
+    "DFStringFlagRepoGitHashDynamicString": "27195b3dc1f8115d038c0809096c06d9d13234b3",
+    "FStringFlipTimeStampFastString": "2026-10-08T05:02:39.368Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-08T05:02:39.368Z"
 }
