@@ -332,8 +332,9 @@
     "FFlagMacInstallerTerminateMenuBarHelper": "True",
     "FFlagUserAgreementsDynamicBodyText": "True",
     "FFlagMomentsTextOverlayColorPickerIcon": "False",
-    "FStringFlagRepoGitHashFastString": "ad010621d433ab16f4203e44c09ec3d100038c5d",
-    "DFStringFlagRepoGitHashDynamicString": "ad010621d433ab16f4203e44c09ec3d100038c5d",
-    "FStringFlipTimeStampFastString": "2026-10-13T01:52:28.582Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-13T01:52:28.582Z"
+    "FFlagAmpV2WizardCodeInputAspectRatio_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-13T20:29:32",
+    "FStringFlagRepoGitHashFastString": "9532847799b9460e0edf2e95f30c9d0fcf6b4032",
+    "DFStringFlagRepoGitHashDynamicString": "9532847799b9460e0edf2e95f30c9d0fcf6b4032",
+    "FStringFlipTimeStampFastString": "2026-10-13T21:23:57.666Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-13T21:23:57.666Z"
 }
