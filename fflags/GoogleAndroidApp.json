@@ -23614,8 +23614,8 @@
     "FFlagSduiSamePoolFeedItemSpacing": "True",
     "FFlagLuaAppEnableOneByTwoTileFunnelTelemetrySdui": "True",
     "FFlagEnablePlusReferralEntrypointTelemetry": "True",
-    "FStringFlagRepoGitHashFastString": "d2b416f5ad335b4a2c4746145d71f2bd8d66dbc6",
-    "DFStringFlagRepoGitHashDynamicString": "d2b416f5ad335b4a2c4746145d71f2bd8d66dbc6",
-    "FStringFlipTimeStampFastString": "2026-10-17T18:00:54.305Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-17T18:00:54.305Z"
+    "FStringFlagRepoGitHashFastString": "3f7ecacc20e31485b56443bc25b82376face8824",
+    "DFStringFlagRepoGitHashDynamicString": "3f7ecacc20e31485b56443bc25b82376face8824",
+    "FStringFlipTimeStampFastString": "2026-10-17T21:02:26.152Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-17T21:02:26.152Z"
 }
