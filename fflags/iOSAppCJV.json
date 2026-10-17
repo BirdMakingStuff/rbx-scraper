@@ -21879,7 +21879,7 @@
     "DFFlagMomentsCreatePostCommentsControl": "True",
     "FFlagLuaAppSduiPassSortSubId": "True",
     "FFlagSduiChipSizeAndVariant": "True",
-    "DFFlagEnableBatchDataModelClose": "True",
+    "DFFlagEnableBatchDataModelClose": "False",
     "FFlagUserSearchCancelTileActivationOnHoldIntent2": "True",
     "FFlagUserSearchHideFriendActionsForBlockedUsers": "True",
     "FFlagAXFixExpiredLookCheckoutNav": "True",
@@ -22042,7 +22042,6 @@
     "DFFlagRbxTransportWasmReportConnectionLost": "True",
     "FFlagEnablePlayerViewEnforceClient": "True",
     "FFlagRbxTransportWasmUtf8CloseReason": "True",
-    "DFFlagEnableBatchDataModelClose_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-16T22:16:03",
     "DFIntNetPermEventReportPerMyriad": "1",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
@@ -23403,8 +23402,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "79b70e71aa07ceca01989e99dd7a689a1528372c",
-    "DFStringFlagRepoGitHashDynamicString": "79b70e71aa07ceca01989e99dd7a689a1528372c",
-    "FStringFlipTimeStampFastString": "2026-10-16T22:27:44.398Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-16T22:27:44.398Z"
+    "FStringFlagRepoGitHashFastString": "4116b8a4a3e2a3962ea264401c8e41521f6d0b4d",
+    "DFStringFlagRepoGitHashDynamicString": "4116b8a4a3e2a3962ea264401c8e41521f6d0b4d",
+    "FStringFlipTimeStampFastString": "2026-10-17T00:17:32.500Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-17T00:17:32.500Z"
 }
