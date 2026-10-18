@@ -20901,7 +20901,7 @@
     "FFlagDisableGoogleAnalyticsErrorReporting": "True",
     "FFlagFixThumbnailLoadingErrorPropagation": "True",
     "DFFlagFixTriangleMeshPartPhysicsData": "True",
-    "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.HCMB.ExperienceFilter.V2;1163409093;flagbank",
+    "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.HCMB.ExperienceFilter.V2;976298499;flagbank",
     "FFlagIAMImprovedModifierMenu": "True",
     "FFlagIAMTouchButtonImprovements": "True",
     "FFlagIAMUIModifier": "True",
@@ -23271,8 +23271,8 @@
     "FFlagTTIEmitPointsEvent": "True",
     "FIntTTIPointsEventSampleRate": "100",
     "FFlagAXFixAvatarScreenVR2": "True",
-    "FStringFlagRepoGitHashFastString": "3f7ecacc20e31485b56443bc25b82376face8824",
-    "DFStringFlagRepoGitHashDynamicString": "3f7ecacc20e31485b56443bc25b82376face8824",
-    "FStringFlipTimeStampFastString": "2026-10-17T21:02:26.152Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-17T21:02:26.152Z"
+    "FStringFlagRepoGitHashFastString": "8afdb1a7a3d2a626f48b6f3adf4dda1c9b62571b",
+    "DFStringFlagRepoGitHashDynamicString": "8afdb1a7a3d2a626f48b6f3adf4dda1c9b62571b",
+    "FStringFlipTimeStampFastString": "2026-10-18T01:03:57.782Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-18T01:03:57.782Z"
 }
