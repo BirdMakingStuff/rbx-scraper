@@ -311,6 +311,7 @@
     "FFlagMomentsCreationMusicSkipMetadataFetch": "True",
     "FFlagMusicPickerSongbirdAnalytics": "True",
     "FFlagMacInstallerEndEventDuration": "True",
+    "FFlagMomentsCreationStartAudioOnLoad": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -324,8 +325,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "252bfeb379e47807d777edd624c71f92a9052680",
-    "DFStringFlagRepoGitHashDynamicString": "252bfeb379e47807d777edd624c71f92a9052680",
-    "FStringFlipTimeStampFastString": "2026-10-20T01:57:20.860Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-20T01:57:20.860Z"
+    "FStringFlagRepoGitHashFastString": "ea839ad951745864e967852fcf9d2c7ffdd7a6c3",
+    "DFStringFlagRepoGitHashDynamicString": "ea839ad951745864e967852fcf9d2c7ffdd7a6c3",
+    "FStringFlipTimeStampFastString": "2026-10-20T20:03:31.093Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-20T20:03:31.093Z"
 }
