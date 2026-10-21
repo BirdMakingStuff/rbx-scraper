@@ -22207,8 +22207,8 @@
     "FFlagVoiceChatSkipIceTrickleOperationEnabled_Client": "True",
     "FFlagAnimateScrollViewIgnoreStaleSelection": "True",
     "FFlagSlimSupportAvatarSettingsRules": "True",
-    "DFFlagSimReportLeftHandedCFrames": "True",
-    "DFIntSimLeftHandedCFrameSampleDenominator": "10000",
+    "DFFlagSimReportLeftHandedCFrames": "False",
+    "DFIntSimLeftHandedCFrameSampleDenominator": "0",
     "FFlagSimRuntimeContentNoNetassetFallback": "True",
     "FFlagLuaAppEdpDirectionalGradientMidTransparency": "True",
     "FFlagLuaAppOdpPrologueAnalytics": "True",
@@ -23804,9 +23804,9 @@
     "FFlagMomentsCommentsCloseOnFeedJump": "True",
     "FFlagSduiPlayWithRewardRefactor2": "True",
     "FFlagEnableEdpPreviewPurchaseSurface2": "True",
-    "FFlagAppThemeHalloween2026_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1011668042;2026-10-21T00:05:36",
-    "FStringFlagRepoGitHashFastString": "061b357f64e28b6acca4279a221a2d04960e45b9",
-    "DFStringFlagRepoGitHashDynamicString": "061b357f64e28b6acca4279a221a2d04960e45b9",
-    "FStringFlipTimeStampFastString": "2026-10-21T01:12:52.509Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-21T01:12:52.509Z"
+    "FFlagAppThemeHalloween2026": "True",
+    "FStringFlagRepoGitHashFastString": "3295d8fabc911bd568f1c21daac7d67a487021ca",
+    "DFStringFlagRepoGitHashDynamicString": "3295d8fabc911bd568f1c21daac7d67a487021ca",
+    "FStringFlipTimeStampFastString": "2026-10-21T05:02:17.514Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-21T05:02:17.514Z"
 }
