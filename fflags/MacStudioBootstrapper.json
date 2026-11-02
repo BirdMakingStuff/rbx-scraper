@@ -313,6 +313,8 @@
     "FFlagMacInstallerEndEventDuration": "True",
     "FFlagMomentsCreationStartAudioOnLoad": "True",
     "FFlagDeferredGameJoinTelemetryEnabled": "True",
+    "FFlagMacInstallerExcludeCurrentProcessFromTermination": "True",
+    "FFlagRemoveDeletedAppFromDock": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
     "FFlagBehaviorCollectionControlEnabled": "True",
@@ -324,8 +326,8 @@
     "InfluxInstallHundredthsPercentage": "1",
     "ShowInstallSuccessPrompt": "False",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "40f11c3b3f4f8d2fb0c6ad33d3855fa18169dd57",
-    "DFStringFlagRepoGitHashDynamicString": "40f11c3b3f4f8d2fb0c6ad33d3855fa18169dd57",
-    "FStringFlipTimeStampFastString": "2026-10-31T06:02:40.763Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-31T06:02:40.763Z"
+    "FStringFlagRepoGitHashFastString": "6271f2909e095e553e4b3301fb6584b83f719af2",
+    "DFStringFlagRepoGitHashDynamicString": "6271f2909e095e553e4b3301fb6584b83f719af2",
+    "FStringFlipTimeStampFastString": "2026-11-02T23:37:53.963Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-02T23:37:53.963Z"
 }
