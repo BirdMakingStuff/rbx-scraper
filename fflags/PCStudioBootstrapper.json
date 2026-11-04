@@ -320,6 +320,10 @@
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
     "FFlagEnableKeystoreAutoLogin": "False",
     "FFlagLuaAppSentryReporterIncludeInTags": "True",
+    "FFlagFRMDrawModerateQLProfile": "True",
+    "FFlagFRMUseStaticTargetModes": "True",
+    "FFlagFRMUseSteppedFrameTimeTarget": "True",
+    "FFlagReportFRMQualityProfileTelemetry": "True",
     "FFlagWindowsBootstrapperReportPerCdnDownloadSpeeds": "True",
     "FIntBootstrapper64BitStudioPercentage": "100",
     "InfluxInstallHundredthsPercentage": "1",
@@ -328,8 +332,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagNotificationPersonAddIcons": "True",
-    "FStringFlagRepoGitHashFastString": "de9133d95cafb6f4a9ff7d5dcbe465db06102af3",
-    "DFStringFlagRepoGitHashDynamicString": "de9133d95cafb6f4a9ff7d5dcbe465db06102af3",
-    "FStringFlipTimeStampFastString": "2026-11-04T04:02:11.062Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-04T04:02:11.062Z"
+    "FStringFlagRepoGitHashFastString": "5ea1b93226610716e0466e74289e56a8817de9b3",
+    "DFStringFlagRepoGitHashDynamicString": "5ea1b93226610716e0466e74289e56a8817de9b3",
+    "FStringFlipTimeStampFastString": "2026-11-04T22:00:58.707Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-04T22:00:58.707Z"
 }
