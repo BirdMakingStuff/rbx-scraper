@@ -23152,7 +23152,6 @@
     "FFlagAssetServiceFetchAssetWithFormat": "True",
     "FFlagDMCTMigratePartOperationMedium": "True",
     "FFlagFixCSGUVInFastCluster": "True",
-    "FFlagLuaAppPrivatePlaytestEarlyTesting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-04T00:33:04",
     "FFlagDifferentiateJoinMetricsForChannelSend": "True",
     "FFlagSimCsgFixEmptyMeshPartColor": "True",
     "FFlagFixNavigationInsetsOnHiddenTabBar": "True",
@@ -23161,6 +23160,7 @@
     "FFlagFixBulkPurchaseInExperienceBuyRobux": "True",
     "FFlagIASDeadzone": "True",
     "FIntLuauMemoryCageFixedSizeMiB": "4096",
+    "FFlagLuaAppPrivatePlaytestEarlyTesting": "True",
     "AllowVideoPreRoll": "True",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
@@ -24800,10 +24800,10 @@
     "FFlagBuildExperienceModelPicker4": "True",
     "FFlagDataHydrationAccountReset3": "True",
     "FFlagBuildExperienceBuyMoreRobuxCardLayout": "True",
-    "FFlagAXFixBodyColorButtonStaleRanges_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-04T01:01:51",
     "FFlagAXUseSignalsForLayeredClothingCurrentSort": "True",
-    "FStringFlagRepoGitHashFastString": "53d84d9fc50c289ec55a421c7ce4d0c2b06c5526",
-    "DFStringFlagRepoGitHashDynamicString": "53d84d9fc50c289ec55a421c7ce4d0c2b06c5526",
-    "FStringFlipTimeStampFastString": "2026-11-04T01:43:33.015Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-04T01:43:33.015Z"
+    "FFlagAXFixBodyColorButtonStaleRanges": "True",
+    "FStringFlagRepoGitHashFastString": "de9133d95cafb6f4a9ff7d5dcbe465db06102af3",
+    "DFStringFlagRepoGitHashDynamicString": "de9133d95cafb6f4a9ff7d5dcbe465db06102af3",
+    "FStringFlipTimeStampFastString": "2026-11-04T04:02:11.062Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-04T04:02:11.062Z"
 }
