@@ -23216,7 +23216,7 @@
     "FFlagSduiBannerComponent": "True",
     "FFlagEnableMultiVETextureManagerSharing": "True",
     "FFlagRenderEnableMultiVESharedShaders": "True",
-    "DFFlagFixAnimationMemoryOverhead": "True",
+    "DFFlagFixAnimationMemoryOverhead": "False",
     "DFFlagSpeechToTextDisablePlatformToken": "True",
     "FFlagRenderStarsWriteNormalColor": "True",
     "DFIntInvalidTelemetryInputCounterThrottleHundredthsPercent": "100",
@@ -24725,8 +24725,8 @@
     "FFlagSplitPaneUnsavedDialogAlertStyle": "True",
     "FFlagSignupFoundationFields3": "True",
     "FFlagSignupFoundationPasswordField3": "True",
-    "FStringFlagRepoGitHashFastString": "6ce76cd872685fe0886f39187c803369a7fc800e",
-    "DFStringFlagRepoGitHashDynamicString": "6ce76cd872685fe0886f39187c803369a7fc800e",
-    "FStringFlipTimeStampFastString": "2026-11-06T21:57:51.197Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-06T21:57:51.197Z"
+    "FStringFlagRepoGitHashFastString": "6f53704d3cb693b18a11a109f5c568554714dc5b",
+    "DFStringFlagRepoGitHashDynamicString": "6f53704d3cb693b18a11a109f5c568554714dc5b",
+    "FStringFlipTimeStampFastString": "2026-11-07T05:02:26.154Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-07T05:02:26.154Z"
 }
