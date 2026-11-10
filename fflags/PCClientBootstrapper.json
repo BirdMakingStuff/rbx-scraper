@@ -327,6 +327,7 @@
     "FFlagSplitPaneUnsavedDialogAlertStyle": "True",
     "FFlagMomentsCreationAudioSearchV2SortType": "True",
     "FFlagMomentsCreationMusicPickerV2": "True",
+    "DFFlagRccEnableMultiplexing3": "True",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
     "FFlagBootstrapperEnableOptOutDUAR": "True",
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-0-99",
@@ -335,7 +336,7 @@
     "FFlagFRMDrawModerateQLProfile": "True",
     "FFlagFRMUseStaticTargetModes": "True",
     "FFlagFRMUseSteppedFrameTimeTarget": "True",
-    "FFlagReportFRMQualityProfileTelemetry": "True",
+    "FFlagReportFRMQualityProfileTelemetry": "False",
     "DFIntCrashUploadToBacktracePercentage": "100",
     "ExeVersion": "0.482.0.424268",
     "FFlagJoinTimeCounters": "True",
@@ -350,8 +351,8 @@
     "FFlagMomentsTextOverlayColorPickerIcon": "False",
     "FFlagAmpV2WizardCodeInputAspectRatio": "True",
     "FFlagAppChatSkipSearchWhenChatDisabled": "True",
-    "FStringFlagRepoGitHashFastString": "6f53704d3cb693b18a11a109f5c568554714dc5b",
-    "DFStringFlagRepoGitHashDynamicString": "6f53704d3cb693b18a11a109f5c568554714dc5b",
-    "FStringFlipTimeStampFastString": "2026-11-07T05:02:26.154Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-07T05:02:26.154Z"
+    "FStringFlagRepoGitHashFastString": "24d5dd588e2b65da2e1da5498b88820d14d6be63",
+    "DFStringFlagRepoGitHashDynamicString": "24d5dd588e2b65da2e1da5498b88820d14d6be63",
+    "FStringFlipTimeStampFastString": "2026-11-10T00:19:49.578Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-10T00:19:49.578Z"
 }
