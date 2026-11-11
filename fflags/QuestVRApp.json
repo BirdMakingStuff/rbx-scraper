@@ -24866,7 +24866,7 @@
     "FFlagLuaLazyFunctionLoad": "True",
     "FFlagEnableWarmPushNotificationLaunch": "True",
     "DFIntClientReplicatorSessionSummaryStatsThrottle": "10",
-    "FFlagVoiceChatDeprecateRejoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-11T00:19:10",
+    "FFlagVoiceChatDeprecateRejoin": "True",
     "FFlagEnableQuestHaptics": "True",
     "JavaCrashUploadToBacktracePercentage": "100",
     "FFlagOpenXrUIScalingPercent": "True",
@@ -24958,8 +24958,8 @@
     "FFlagUserFixVRImmersionAutoRotate": "True",
     "FFlagLuaAppSduiEdpEnabled2_IXP": "1;PlayerApp.GameDetailsPage.VR.Exposure;Discovery.App.ExperienceDetails.SDUI.VR;53674618;dev_controlled",
     "FStringLuaAppSduiEdpIxpLayer_IXP": "1;PlayerApp.GameDetailsPage.VR.Exposure;Discovery.App.ExperienceDetails.SDUI.VR;1251899680;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "ddfcee43bb4c5747cb9b942d645fe79c38a6c640",
-    "DFStringFlagRepoGitHashDynamicString": "ddfcee43bb4c5747cb9b942d645fe79c38a6c640",
-    "FStringFlipTimeStampFastString": "2026-11-11T02:02:44.432Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-11T02:02:44.432Z"
+    "FStringFlagRepoGitHashFastString": "58aef34dbcafe0bf8ffde8581d0824e2d444f5ab",
+    "DFStringFlagRepoGitHashDynamicString": "58aef34dbcafe0bf8ffde8581d0824e2d444f5ab",
+    "FStringFlipTimeStampFastString": "2026-11-11T03:02:20.631Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-11T03:02:20.631Z"
 }
