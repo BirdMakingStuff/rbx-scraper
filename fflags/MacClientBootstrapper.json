@@ -328,6 +328,10 @@
     "FFlagMomentsCreationAudioSearchV2SortType": "True",
     "FFlagMomentsCreationMusicPickerV2": "True",
     "DFFlagRccEnableMultiplexing3": "True",
+    "FFlagFixDeviceInsetBackgroundSplitPaneWidth": "True",
+    "FFlagSplitPaneBadgesSeeAllSupportRegion": "True",
+    "FFlagSplitPaneDevStoreSeeAllSupportRegion": "True",
+    "FFlagSplitPaneHostChromeYieldsInExpanded": "True",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;16725311284",
     "FFlagAXHeadCategoryCombineEnabled4": "True",
     "FFlagBehaviorCollectionControlEnabled": "True",
@@ -352,8 +356,8 @@
     "FFlagMomentsTextOverlayColorPickerIcon": "False",
     "FFlagAmpV2WizardCodeInputAspectRatio": "True",
     "FFlagAppChatSkipSearchWhenChatDisabled": "True",
-    "FStringFlagRepoGitHashFastString": "adae00caa1bf1e83046e1dafa83493ced21b3081",
-    "DFStringFlagRepoGitHashDynamicString": "adae00caa1bf1e83046e1dafa83493ced21b3081",
-    "FStringFlipTimeStampFastString": "2026-11-12T02:57:33.875Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-12T02:57:33.875Z"
+    "FStringFlagRepoGitHashFastString": "5f8fb79863610ce90d3618916bdb536b32681715",
+    "DFStringFlagRepoGitHashDynamicString": "5f8fb79863610ce90d3618916bdb536b32681715",
+    "FStringFlipTimeStampFastString": "2026-11-12T22:20:32.710Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-12T22:20:32.710Z"
 }
