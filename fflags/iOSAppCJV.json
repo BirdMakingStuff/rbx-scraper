@@ -25251,7 +25251,7 @@
     "FFlagSplitPaneDevStoreSeeAllSupportRegion": "True",
     "FFlagSplitPaneHostChromeYieldsInExpanded": "True",
     "FFlagSplitPaneProfileChipFixes": "True",
-    "FFlagNotificationStreamPromptsHandlerEnabled": "True",
+    "FFlagNotificationStreamPromptsHandlerEnabled": "False",
     "FFlagSduiRequestPushNotificationPermissionActionHandler": "True",
     "FFlagAnimationClipPlaybackLoadsFrozen_IXP": "1;Portal.mem-savings-1794593434;mem-savings;1083173690;flagbank",
     "FFlagLuaLazyFunctionLoad_IXP": "1;Portal.mem-savings-1794593434;mem-savings;1083173690;flagbank",
@@ -25292,8 +25292,8 @@
     "DFStringLmsRecipeEndpoint": "recipe-luobu",
     "DFStringLmsReportEndpoint": "report-luobu",
     "FFlagLuobuShowTencentNoticePopup3": "True",
-    "FStringFlagRepoGitHashFastString": "e65cd9564c01ff31ac81339110e2e24dc0fec45f",
-    "DFStringFlagRepoGitHashDynamicString": "e65cd9564c01ff31ac81339110e2e24dc0fec45f",
-    "FStringFlipTimeStampFastString": "2026-11-14T05:02:35.087Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-14T05:02:35.087Z"
+    "FStringFlagRepoGitHashFastString": "d2327631cb1451cc16d7fa31bb0cd094f67abdb1",
+    "DFStringFlagRepoGitHashDynamicString": "d2327631cb1451cc16d7fa31bb0cd094f67abdb1",
+    "FStringFlipTimeStampFastString": "2026-11-16T07:02:21.347Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-16T07:02:21.347Z"
 }
