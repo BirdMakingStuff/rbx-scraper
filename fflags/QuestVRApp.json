@@ -24058,6 +24058,13 @@
     "FFlagAppThemeHalloween2026": "True",
     "DFFlagCLI169073_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-16T23:50:30",
     "FFlagMomentsUseSharedReactions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-17T00:03:47",
+    "FFlagAppThemeBackgroundLayerSplitPaneClip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1313029434;2026-11-17T00:27:15",
+    "FFlagAppThemeHalloween2026BuildBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1313029434;2026-11-17T00:27:15",
+    "FFlagAppThemeHalloween2026ChatBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1313029434;2026-11-17T00:27:15",
+    "FFlagAppThemeHalloween2026FriendsBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1313029434;2026-11-17T00:27:15",
+    "FFlagAppThemeHalloween2026SettingsBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1313029434;2026-11-17T00:27:15",
+    "FFlagDMCTTrackSharedSetterSources2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-17T01:01:55",
+    "FFlagNetPerfAnalysisAfterSync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1442197604;2026-11-17T02:37:57",
     "AxisAdornmentGrabSize": "12",
     "CaptureCountersIntervalInMinutes": "5",
     "CaptureQTStudioCountersEnabled": "True",
@@ -25333,8 +25340,8 @@
     "FFlagLuaAppSduiEdpEnabled2_IXP": "1;PlayerApp.GameDetailsPage.VR.Exposure;Discovery.App.ExperienceDetails.SDUI.VR;53674618;dev_controlled",
     "FStringLuaAppSduiEdpIxpLayer_IXP": "1;PlayerApp.GameDetailsPage.VR.Exposure;Discovery.App.ExperienceDetails.SDUI.VR;1251899680;dev_controlled",
     "FFlagSduiSearchResultsPageEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "07b4bcb4aec16f7913fbe9f9c380f7d9cea58be2",
-    "DFStringFlagRepoGitHashDynamicString": "07b4bcb4aec16f7913fbe9f9c380f7d9cea58be2",
-    "FStringFlipTimeStampFastString": "2026-11-17T00:03:49.127Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-17T00:03:49.127Z"
+    "FStringFlagRepoGitHashFastString": "501171eaa3058f8415265da3f0b80065bfa36bc3",
+    "DFStringFlagRepoGitHashDynamicString": "501171eaa3058f8415265da3f0b80065bfa36bc3",
+    "FStringFlipTimeStampFastString": "2026-11-17T02:37:58.729Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-17T02:37:58.729Z"
 }
