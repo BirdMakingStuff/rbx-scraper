@@ -21345,7 +21345,7 @@
     "FFlagFlagRolloutTestStaticBool11": "True",
     "FFlagFlagRolloutTestStaticBool12": "True",
     "FFlagFlagRolloutTestStaticBool13": "True",
-    "FFlagFlagRolloutTestStaticBool14": "False",
+    "FFlagFlagRolloutTestStaticBool14": "True",
     "FFlagFlagRolloutTestStaticBool15": "True",
     "FFlagFlagRolloutTestStaticBool16": "True",
     "FFlagFlagRolloutTestStaticBool17": "True",
@@ -27877,8 +27877,8 @@
     "FFlagEnableHandheldTouchInStudioEmulator": "True",
     "FFlagAppChatSearchSendPlacement": "True",
     "FFlagUseOverMediaOnAllFreeTrialBadges": "True",
-    "FStringFlagRepoGitHashFastString": "94377d69d1d5b8e16a12fb6db95347397f86691b",
-    "DFStringFlagRepoGitHashDynamicString": "94377d69d1d5b8e16a12fb6db95347397f86691b",
-    "FStringFlipTimeStampFastString": "2026-11-20T22:10:38.963Z",
-    "DFStringFlipTimeStampDynamicString": "2026-11-20T22:10:38.963Z"
+    "FStringFlagRepoGitHashFastString": "8b6876513e26ec27aef777306acef6832896424e",
+    "DFStringFlagRepoGitHashDynamicString": "8b6876513e26ec27aef777306acef6832896424e",
+    "FStringFlipTimeStampFastString": "2026-11-21T01:52:26.616Z",
+    "DFStringFlipTimeStampDynamicString": "2026-11-21T01:52:26.616Z"
 }
